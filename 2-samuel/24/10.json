@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Lan atine Dawid niribake ⟨אתו⟩ sawise ngetung ⟨את⟩ wong iku; lan Dawid ngandika marang Yahweh: Aku wis dosa banget ing sangisore sing daklakoni; lan saiki, Yahweh, kula nyuwun buang ⟨את⟩ panjalmane abdi Panjenengan, awit aku wis bodho banget.",
+  "translation": "Lan atine Dawid niribake ⟨את⟩ ⟨אתו⟩ sawise ngetung ⟨את⟩ wong iku; lan Dawid ngandika marang Yahweh: Aku wis dosa banget ing sangisore sing daklakoni; lan saiki, Yahweh, kula nyuwun buang ⟨את⟩ panjalmane abdi Panjenengan, awit aku wis bodho banget.",
   "tokens": [
     {
       "surface": "ויך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Dawid"
     },
     {
@@ -119,6 +119,6 @@
       "gloss": "banget"
     }
   ],
-  "timestamp": "2026-08-21T00:13:45.702194199Z",
+  "timestamp": "2026-08-21T05:03:33.494977976Z",
   "model": "glm-5.3"
 }

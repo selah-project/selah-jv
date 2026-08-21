@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 29,
-  "translation": "Lan Aku mulihaké ⟨את⟩ patiné Mitsrajim, lan Aku baliaké ⟨אתם⟩ marang dharatan Pathros, marang dharatan kalairané, lan bakal dadi ing kono karaton sing asor.",
+  "translation": "Lan Aku mulihaké ⟨את⟩ patiné Mitsrajim, lan Aku baliaké ⟨את⟩ ⟨אתם⟩ marang dharatan Pathros, marang dharatan kalairané, lan bakal dadi ing kono karaton sing asor.",
   "tokens": [
     {
       "surface": "ושבתי",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "dharatan Pathros"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "sing asor"
     }
   ],
-  "timestamp": "2026-08-21T01:16:49.201881268Z",
+  "timestamp": "2026-08-21T05:03:33.784401513Z",
   "model": "glm-5.3"
 }

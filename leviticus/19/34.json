@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Kaya wong lahirmu dhewe, kudu dadi marang kowé ger iku sing sumedhi ⟨אתכם⟩; lan kok tresna marang dheweke kaya marang awakmu dhewe, awit kowé wis dadi ger ing bumi Mitsrayim; Aku ⟨⟨iku⟩⟩ Yahweh Elohim-mu.",
+  "translation": "Kaya wong lahirmu dhewe, kudu dadi marang kowé ger iku sing sumedhi ⟨את⟩ ⟨אתכם⟩; lan kok tresna marang dheweke kaya marang awakmu dhewe, awit kowé wis dadi ger ing bumi Mitsrayim; Aku ⟨⟨iku⟩⟩ Yahweh Elohim-mu.",
   "tokens": [
     {
       "surface": "כאזרח",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "kowé"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "Elohim-mu"
     }
   ],
-  "timestamp": "2026-08-20T23:15:04.812274741Z",
+  "timestamp": "2026-08-21T05:03:33.857384017Z",
   "model": "glm-5.3"
 }

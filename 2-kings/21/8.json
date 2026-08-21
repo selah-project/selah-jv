@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 21,
-  "translation": "Lan Aku ora bakal maneh nglambarake supaya sikile Israyel sumingkur saka bumi kang Dakaringake marang leluhure; mung manawa wonge padha ngati-ati nglakoni miturut sakabehing prentah-Ku, lan miturut sakabehing torah kang diprentahake ⟨אתם⟩ dening abdi-Ku Moshe.",
+  "translation": "Lan Aku ora bakal maneh nglambarake supaya sikile Israyel sumingkur saka bumi kang Dakaringake marang leluhure; mung manawa wonge padha ngati-ati nglakoni miturut sakabehing prentah-Ku, lan miturut sakabehing torah kang diprentahake ⟨את⟩ ⟨אתם⟩ dening abdi-Ku Moshe.",
   "tokens": [
     {
       "surface": "ולא",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wong Israyel (obyek prentah Moshe)"
     },
     {
@@ -105,6 +105,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-21T00:30:17.721866664Z",
+  "timestamp": "2026-08-21T05:03:33.826540107Z",
   "model": "glm-5.3"
 }

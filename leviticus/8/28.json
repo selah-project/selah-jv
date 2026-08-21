@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan Moshe njupuk ⟨אתם⟩ saka ing telapakane kang kabeh, lan ngedumi ing inggil pasaren ing dhuwuring kurban obor; pakaryan panahbahan iku ⟨is⟩ dadi bau sedhep, sesaji geni ⟨is⟩ iku kanggo Yahweh.",
+  "translation": "Lan Moshe njupuk ⟨את⟩ ⟨אתם⟩ saka ing telapakane kang kabeh, lan ngedumi ing inggil pasaren ing dhuwuring kurban obor; pakaryan panahbahan iku ⟨is⟩ dadi bau sedhep, sesaji geni ⟨is⟩ iku kanggo Yahweh.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "saka ing telapakane"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "kanggo Yahweh"
     }
   ],
-  "timestamp": "2026-08-20T23:11:49.962108472Z",
+  "timestamp": "2026-08-21T05:03:33.851475198Z",
   "model": "glm-5.3"
 }

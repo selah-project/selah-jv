@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Lan kok sajodhokaké ⟨את⟩ anak-anakmu, lan kok mènèhaké dhèwèké kanthi ngliwataké ⟨את-uke⟩ marang pepujan iku.",
+  "translation": "Lan kok sajodhokaké ⟨את⟩ anak-anakmu, lan kok mènèhaké dhèwèké kanthi ngliwataké ⟨את⟩ ⟨את-uke⟩ marang pepujan iku.",
   "tokens": [
     {
       "surface": "ותשחטי",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את-uke⟩",
+      "gloss": "⟨את⟩ ⟨את-uke⟩",
       "marks": "marang pepujan iku"
     },
     {
@@ -38,6 +38,6 @@
       "gloss": "marang pepujan iku"
     }
   ],
-  "timestamp": "2026-08-21T01:11:13.735211221Z",
+  "timestamp": "2026-08-21T05:03:33.799727350Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 12,
-  "translation": "Menawa kowé padha bekti marang ⟨את⟩ Yahweh lan ngabekti ⟨אתו⟩ ing kono, ngrungokake swarane, ora nglawan ⟨את⟩ piyantasane Yahweh, kowé uga lan ratu sing mrentah ing sadhuwurmu bakal padha mèlu ing sapelingere Yahweh Elohimmu.",
+  "translation": "Menawa kowé padha bekti marang ⟨את⟩ Yahweh lan ngabekti ⟨את⟩ ⟨אתו⟩ ing kono, ngrungokake swarane, ora nglawan ⟨את⟩ piyantasane Yahweh, kowé uga lan ratu sing mrentah ing sadhuwurmu bakal padha mèlu ing sapelingere Yahweh Elohimmu.",
   "tokens": [
     {
       "surface": "אם",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Yahweh (dadi objek ngabdi)"
     },
     {
@@ -107,6 +107,6 @@
       "gloss": "Elohimmu"
     }
   ],
-  "timestamp": "2026-08-21T04:00:53.131882906Z",
+  "timestamp": "2026-08-21T05:03:33.722963202Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Bakal diawa menyang Bavel, lan ing kono bakal padha nganti ing dinané Dakpekoki ⟨אתם⟩ — pangandikané Yahweh — banjur Dakunggahaké lan Dakbalekaké menyang panggonan iki.",
+  "translation": "Bakal diawa menyang Bavel, lan ing kono bakal padha nganti ing dinané Dakpekoki ⟨את⟩ ⟨אתם⟩ — pangandikané Yahweh — banjur Dakunggahaké lan Dakbalekaké menyang panggonan iki.",
   "tokens": [
     {
       "surface": "בבלה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "prabot-prabot wau"
     },
     {
@@ -69,6 +69,6 @@
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-21T00:57:42.361484372Z",
+  "timestamp": "2026-08-21T05:03:33.603734773Z",
   "model": "glm-5.3"
 }

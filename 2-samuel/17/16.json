@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Lan saiki, cacaha enggal banjur aturana marang Dawid, ngucap: Aja nginep ing wengi iki ing ara-ara jejeran, malah kendhakna ngliwati, supaja Sang Raja lan saburone wong ⟨את iku⟩ ora lauk kabeh.",
+  "translation": "Lan saiki, cacaha enggal banjur aturana marang Dawid, ngucap: Aja nginep ing wengi iki ing ara-ara jejeran, malah kendhakna ngliwati, supaja Sang Raja lan saburone wong ⟨את⟩ ⟨את iku⟩ ora lauk kabeh.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -89,10 +89,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את iku⟩",
+      "gloss": "⟨את⟩ ⟨את iku⟩",
       "marks": "Sang Raja lan saburone wong"
     }
   ],
-  "timestamp": "2026-08-21T00:11:09.125124537Z",
+  "timestamp": "2026-08-21T05:03:33.483444274Z",
   "model": "glm-5.3"
 }

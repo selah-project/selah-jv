@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Anggur lan ombenan kang ngejewek aja oleh ngombé sira lan anak-anakmu ⟨אתך⟩ nalika kowe padha mlebu menyang sajrone khemah pasamuwan, supaya kowe aja padha mati — iku sarat ing salawas-lawase tumrap turun-turunmu.",
+  "translation": "Anggur lan ombenan kang ngejewek aja oleh ngombé sira lan anak-anakmu ⟨את⟩ ⟨אתך⟩ nalika kowe padha mlebu menyang sajrone khemah pasamuwan, supaya kowe aja padha mati — iku sarat ing salawas-lawase tumrap turun-turunmu.",
   "tokens": [
     {
       "surface": "יין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩"
+      "gloss": "⟨את⟩ ⟨אתך⟩"
     },
     {
       "surface": "בבאכם",
@@ -72,6 +72,6 @@
       "gloss": "tumrap turun-turunmu"
     }
   ],
-  "timestamp": "2026-08-20T23:11:42.606886140Z",
+  "timestamp": "2026-08-21T05:03:33.838709043Z",
   "model": "glm-5.3"
 }

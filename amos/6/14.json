@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Sebab lah, Aku nglumpukake marang sira sawijining bangsa, dawuh Omah Israel, pangandikane Yahweh, Elohim Pramuka Tunggal: lan dheweke bakal nindhes ⟨אתכם⟩ wiwit saka lumebune Hamat nganti tekan kali Araba.",
+  "translation": "Sebab lah, Aku nglumpukake marang sira sawijining bangsa, dawuh Omah Israel, pangandikane Yahweh, Elohim Pramuka Tunggal: lan dheweke bakal nindhes ⟨את⟩ ⟨אתכם⟩ wiwit saka lumebune Hamat nganti tekan kali Araba.",
   "tokens": [
     {
       "surface": "כי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "sira"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "Araba"
     }
   ],
-  "timestamp": "2026-08-21T01:29:08.089103888Z",
+  "timestamp": "2026-08-21T05:03:33.765764954Z",
   "model": "glm-5.3"
 }

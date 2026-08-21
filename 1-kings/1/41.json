@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan Adoniyahu krungu, uga kabeh para kuwi sing diajak ⟨אתו⟩, lan bare ⟨dheweke⟩ wis entek mangan; lan Yoab krungu ⟨את⟩ swarane sangkakala, banjur munjuk: mbok kenapa kutha iki gumedhe?",
+  "translation": "Lan Adoniyahu krungu, uga kabeh para kuwi sing diajak ⟨את⟩ ⟨אתו⟩, lan bare ⟨dheweke⟩ wis entek mangan; lan Yoab krungu ⟨את⟩ swarane sangkakala, banjur munjuk: mbok kenapa kutha iki gumedhe?",
   "tokens": [
     {
       "surface": "וישמע",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩"
+      "gloss": "⟨את⟩ ⟨אתו⟩"
     },
     {
       "surface": "והם",
@@ -85,6 +85,6 @@
       "gloss": "gumedhe"
     }
   ],
-  "timestamp": "2026-08-21T00:14:34.200709341Z",
+  "timestamp": "2026-08-21T05:03:33.962318570Z",
   "model": "glm-5.3"
 }

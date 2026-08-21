@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan Yahweh ngandika marang Shemuel: Ndereka swarane ⟨the⟩ bangsa iki, ing sabarang sing padha ngandikaké marang sampéyan; awit dudu ⟨אתך⟩ sampéyan sing ditampik, nanging ⟨אתי⟩ Ingsun sing ditampik, saka mrentah marang dheweke.",
+  "translation": "Lan Yahweh ngandika marang Shemuel: Ndereka swarane ⟨the⟩ bangsa iki, ing sabarang sing padha ngandikaké marang sampéyan; awit dudu ⟨את⟩ ⟨אתך⟩ sampéyan sing ditampik, nanging ⟨את⟩ ⟨אתי⟩ Ingsun sing ditampik, saka mrentah marang dheweke.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩ sampéyan",
+      "gloss": "⟨את⟩ ⟨אתך⟩ sampéyan",
       "marks": "sampéyan sing ditampik"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨אתי⟩ Ingsun",
+      "gloss": "⟨את⟩ ⟨אתי⟩ Ingsun",
       "marks": "Ingsun sing ditampik"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "marang dheweke"
     }
   ],
-  "timestamp": "2026-08-20T23:57:55.764937027Z",
+  "timestamp": "2026-08-21T05:03:33.725803533Z",
   "model": "glm-5.3"
 }

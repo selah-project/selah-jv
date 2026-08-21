@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Lan bakal dadi: bangsa lan karaton sing ora arep ngladeni ⟨אתו⟩ — ⟨את⟩ Nevukhadnetstsar ratu Bavel — lan ⟨את⟩ sing ora arep nglebokake ⟨את⟩ guluhe ing sangisoring kuk raja Bavel, Aku bakal ngluruhi bangsa iku kanthi pedhang, keluwen, lan page, pangandikane Yahweh, nganti Sun entekake ⟨אתם⟩ ing tangane.",
+  "translation": "Lan bakal dadi: bangsa lan karaton sing ora arep ngladeni ⟨את⟩ ⟨אתו⟩ — ⟨את⟩ Nevukhadnetstsar ratu Bavel — lan ⟨את⟩ sing ora arep nglebokake ⟨את⟩ guluhe ing sangisoring kuk raja Bavel, Aku bakal ngluruhi bangsa iku kanthi pedhang, keluwen, lan page, pangandikane Yahweh, nganti Sun entekake ⟨את⟩ ⟨אתם⟩ ing tangane.",
   "tokens": [
     {
       "surface": "והיה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Nevukhadnetstsar ratu Bavel"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ing tangane"
     },
     {
@@ -145,6 +145,6 @@
       "gloss": "ing tangane"
     }
   ],
-  "timestamp": "2026-08-21T00:57:45.850941055Z",
+  "timestamp": "2026-08-21T05:03:33.601416985Z",
   "model": "glm-5.3"
 }

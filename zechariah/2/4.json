@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "jv",
   "chapter": 2,
-  "translation": "Lan aku ngandika: Apa iki teka arep apa? Banjur dhèwèké ngandika, ngendika: Iki sungu-sungu sing nyingkir ⟨את⟩ Yehuda supaya siji-sijining wong ora ndhingklukake sirahé; banjur iki teka nggumunaké ⟨אתם⟩, supaya angedhunaké ⟨את⟩ sungu-sunguning para bangsa sing ngunggahaké sungu marang bumi Yehuda, kanggo nyingkiraké dhèwèké.",
+  "translation": "Lan aku ngandika: Apa iki teka arep apa? Banjur dhèwèké ngandika, ngendika: Iki sungu-sungu sing nyingkir ⟨את⟩ Yehuda supaya siji-sijining wong ora ndhingklukake sirahé; banjur iki teka nggumunaké ⟨את⟩ ⟨אתם⟩, supaya angedhunaké ⟨את⟩ sungu-sunguning para bangsa sing ngunggahaké sungu marang bumi Yehuda, kanggo nyingkiraké dhèwèké.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wong-wong Yehuda"
     },
     {
@@ -139,6 +139,6 @@
       "gloss": "kanggo nyingkiraké dhèwèké"
     }
   ],
-  "timestamp": "2026-08-21T01:37:33.278076709Z",
+  "timestamp": "2026-08-21T05:03:33.575771463Z",
   "model": "glm-5.3"
 }

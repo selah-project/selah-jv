@@ -5,7 +5,7 @@
   "book": "ruth",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan padha ngucap marang dheweke: Saktemene ⟨⟨אתך⟩⟩ bakal tak bali, menyang ummatmu.",
+  "translation": "Lan padha ngucap marang dheweke: Saktemene ⟨⟨את⟩ ⟨אתך⟩⟩ bakal tak bali, menyang ummatmu.",
   "tokens": [
     {
       "surface": "ותאמרנה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩"
+      "gloss": "⟨את⟩ ⟨אתך⟩"
     },
     {
       "surface": "נשוב",
@@ -32,6 +32,6 @@
       "gloss": "menyang ummatmu"
     }
   ],
-  "timestamp": "2026-08-21T02:41:09.482892406Z",
+  "timestamp": "2026-08-21T05:03:33.665375681Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 31,
-  "translation": "Dheweke uga ⟨אתו⟩ padha tedhun menyang Sheol, marang wong-wong sing tiwas dening pedhang; tur pangabrute padha menggoni ing sangisore, ing tengah-tengahing bangsa-bangsa.",
+  "translation": "Dheweke uga ⟨את⟩ ⟨אתו⟩ padha tedhun menyang Sheol, marang wong-wong sing tiwas dening pedhang; tur pangabrute padha menggoni ing sangisore, ing tengah-tengahing bangsa-bangsa.",
   "tokens": [
     {
       "surface": "גם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "karo awake (Assur)"
     },
     {
@@ -61,6 +61,6 @@
       "gloss": "bangsa-bangsa"
     }
   ],
-  "timestamp": "2026-08-21T01:17:28.071147012Z",
+  "timestamp": "2026-08-21T05:03:33.814690947Z",
   "model": "glm-5.3"
 }

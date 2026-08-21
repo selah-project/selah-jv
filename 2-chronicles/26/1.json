@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "jv",
   "chapter": 26,
-  "translation": "Banjur sakabehing wong Yehuda njupuk ⟨את⟩ Uziyahu, lan ⟨iyu⟩ umur enem welas taun, banjur dheweke didadekake ratu ⟨אתו⟩ ing panggantine bapakne Amatsiyahu.",
+  "translation": "Banjur sakabehing wong Yehuda njupuk ⟨את⟩ Uziyahu, lan ⟨iyu⟩ umur enem welas taun, banjur dheweke didadekake ratu ⟨את⟩ ⟨אתו⟩ ing panggantine bapakne Amatsiyahu.",
   "tokens": [
     {
       "surface": "ויקחו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "dheweke (Uziyahu)"
     },
     {
@@ -74,6 +74,6 @@
       "gloss": "Amatsiyahu"
     }
   ],
-  "timestamp": "2026-08-21T03:41:49.610311709Z",
+  "timestamp": "2026-08-21T05:03:33.706878019Z",
   "model": "glm-5.3"
 }

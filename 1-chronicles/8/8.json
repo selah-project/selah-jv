@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan Shaharaim ngenerake ana ing wiwitané Moab sawisé nglungani ⟨אתם⟩ — yaiku Hushim lan ⟨את⟩ Baara — bojone.",
+  "translation": "Lan Shaharaim ngenerake ana ing wiwitané Moab sawisé nglungani ⟨את⟩ ⟨אתם⟩ — yaiku Hushim lan ⟨את⟩ Baara — bojone.",
   "tokens": [
     {
       "surface": "ושחרים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "Hushim (lan Baara)"
     },
     {
@@ -54,6 +54,6 @@
       "gloss": "bojone"
     }
   ],
-  "timestamp": "2026-08-21T03:19:21.925655246Z",
+  "timestamp": "2026-08-21T05:03:33.662923259Z",
   "model": "glm-5.3"
 }

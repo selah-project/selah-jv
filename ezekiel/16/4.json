@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Dene bab kalairanmu, ing dinane kok lair ⟨אתך⟩ ari-arimu ora dipotong, lan ing banyu ora kok umus supaya resik, lan ora kok uyahi nganggo uyah, lan ora kok bunteli lawon.",
+  "translation": "Dene bab kalairanmu, ing dinane kok lair ⟨את⟩ ⟨אתך⟩ ari-arimu ora dipotong, lan ing banyu ora kok umus supaya resik, lan ora kok uyahi nganggo uyah, lan ora kok bunteli lawon.",
   "tokens": [
     {
       "surface": "ומולדותיך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
+      "gloss": "⟨את⟩ ⟨אתך⟩",
       "marks": "kok"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "kok bunteli"
     }
   ],
-  "timestamp": "2026-08-21T01:11:01.355037909Z",
+  "timestamp": "2026-08-21T05:03:33.803584001Z",
   "model": "glm-5.3"
 }

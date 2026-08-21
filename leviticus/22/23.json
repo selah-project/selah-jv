@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 22,
-  "translation": "Lan sapi utawa wedhus kang kakehan utawa kurang anggota, minangka peparing kalilan kokelola ⟨אתו⟩, nanging kanggo nadar ora bakal ditampa.",
+  "translation": "Lan sapi utawa wedhus kang kakehan utawa kurang anggota, minangka peparing kalilan kokelola ⟨את⟩ ⟨אתו⟩, nanging kanggo nadar ora bakal ditampa.",
   "tokens": [
     {
       "surface": "ושור",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "iku — sapi utawa wedhus sing kakehan\/kurang anggota"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "bakal ditampa"
     }
   ],
-  "timestamp": "2026-08-20T23:15:55.818610648Z",
+  "timestamp": "2026-08-21T05:03:33.847088589Z",
   "model": "glm-5.3"
 }

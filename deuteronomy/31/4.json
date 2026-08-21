@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 31,
-  "translation": "Lan Yahweh bakal nindakake marang wong-wong mau kaya sing wis ditindakake marang Sihon lan marang Og, para ratu wong Amori, lan marang bumi kabeh ⟨אתם⟩ — sing wis ditumpes.",
+  "translation": "Lan Yahweh bakal nindakake marang wong-wong mau kaya sing wis ditindakake marang Sihon lan marang Og, para ratu wong Amori, lan marang bumi kabeh ⟨את⟩ ⟨אתם⟩ — sing wis ditumpes.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -57,10 +57,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "Sihon lan Og (paraphrase: wong-wong mau)"
     }
   ],
-  "timestamp": "2026-08-20T23:40:32.134017086Z",
+  "timestamp": "2026-08-21T05:03:33.763079987Z",
   "model": "glm-5.3"
 }

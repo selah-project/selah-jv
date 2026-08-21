@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 31,
-  "translation": "Saka swarane runtuhé dakguncangake para bangsa, nalika dakthokake ⟨אתו⟩ menyang Sheol, bebarengan karo ⟨את⟩ sing padha tumurun menyang lubang; banjur ing bumi sangisore kabeh wit ing Edhen, sing pilih lan sing sae ing Lebanyon, kabeh sing ngombe banyu, padha kinapuranan.",
+  "translation": "Saka swarane runtuhé dakguncangake para bangsa, nalika dakthokake ⟨את⟩ ⟨אתו⟩ menyang Sheol, bebarengan karo ⟨את⟩ sing padha tumurun menyang lubang; banjur ing bumi sangisore kabeh wit ing Edhen, sing pilih lan sing sae ing Lebanyon, kabeh sing ngombe banyu, padha kinapuranan.",
   "tokens": [
     {
       "surface": "מקול",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "dheweke (menyang Sheol)"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "banyu"
     }
   ],
-  "timestamp": "2026-08-21T01:18:58.236784029Z",
+  "timestamp": "2026-08-21T05:03:33.811301611Z",
   "model": "glm-5.3"
 }

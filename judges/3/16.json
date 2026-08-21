@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Lan Ehud gawe awake pedhang kang duwe rong pucuk, dawane sakedhik saka setunggal asta, lan ia nggirisi ⟨את iku⟩ sangisore sandhangane, ing pupu tengene.",
+  "translation": "Lan Ehud gawe awake pedhang kang duwe rong pucuk, dawane sakedhik saka setunggal asta, lan ia nggirisi ⟨את⟩ ⟨את iku⟩ sangisore sandhangane, ing pupu tengene.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את iku⟩",
+      "gloss": "⟨את⟩ ⟨את iku⟩",
       "marks": "pedhang iku"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "tengene"
     }
   ],
-  "timestamp": "2026-08-20T23:49:00.999369271Z",
+  "timestamp": "2026-08-21T05:03:33.566433209Z",
   "model": "glm-5.3"
 }

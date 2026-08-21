@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Lan yen ana ger sumedhi ⟨אתך⟩ ing bumi-mu, aja kok nindhes ⟨אתו⟩.",
+  "translation": "Lan yen ana ger sumedhi ⟨את⟩ ⟨אתך⟩ ing bumi-mu, aja kok nindhes ⟨אתו⟩.",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩",
+      "gloss": "⟨את⟩ ⟨אתך⟩",
       "marks": "kowé"
     },
     {
@@ -42,6 +42,6 @@
       "marks": "dheweke (wong ger iku)"
     }
   ],
-  "timestamp": "2026-08-20T23:15:04.811977129Z",
+  "timestamp": "2026-08-21T05:03:33.853683652Z",
   "model": "glm-5.3"
 }

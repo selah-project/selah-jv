@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 38,
-  "translation": "Paras, Kush, lan Put ⟨אתם⟩, kabeh padha nganggo tameng lan helm.",
+  "translation": "Paras, Kush, lan Put ⟨את⟩ ⟨אתם⟩, kabeh padha nganggo tameng lan helm.",
   "tokens": [
     {
       "surface": "פרס",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "karo wong-wong mau (Paras lan Kush)"
     },
     {
@@ -37,6 +37,6 @@
       "gloss": "lan helm"
     }
   ],
-  "timestamp": "2026-08-21T01:19:51.536194381Z",
+  "timestamp": "2026-08-21T05:03:33.795038640Z",
   "model": "glm-5.3"
 }

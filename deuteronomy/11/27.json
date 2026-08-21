@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 11,
-  "translation": "yaiku ⟨את⟩ berkah, menawa kowe mireng ing parentahe Yahweh Elohim-mu, sing Aku dhawuhake marang ⟨אתכם⟩ ing dina iki —",
+  "translation": "yaiku ⟨את⟩ berkah, menawa kowe mireng ing parentahe Yahweh Elohim-mu, sing Aku dhawuhake marang ⟨את⟩ ⟨אתכם⟩ ing dina iki —",
   "tokens": [
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "kowe"
     },
     {
@@ -62,6 +62,6 @@
       "gloss": "ing dina iki"
     }
   ],
-  "timestamp": "2026-08-20T23:33:25.800269723Z",
+  "timestamp": "2026-08-21T05:03:33.753210524Z",
   "model": "glm-5.3"
 }

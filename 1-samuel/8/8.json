@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Miturut sabarang pakaryan sing padha ditindakaké awit saka dinané Ingsun nunggalaké ⟨אתם⟩ dheweke metu saka Mitsrayim, nganti ing dina iki — padha nglantarake Ingsun lan padha nglayani elohim liyan — mengkono uga sing padha ditindakaké marang sampéyan.",
+  "translation": "Miturut sabarang pakaryan sing padha ditindakaké awit saka dinané Ingsun nunggalaké ⟨את⟩ ⟨אתם⟩ dheweke metu saka Mitsrayim, nganti ing dina iki — padha nglantarake Ingsun lan padha nglayani elohim liyan — mengkono uga sing padha ditindakaké marang sampéyan.",
   "tokens": [
     {
       "surface": "ככל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "dheweke"
     },
     {
@@ -89,6 +89,6 @@
       "gloss": "marang sampéyan"
     }
   ],
-  "timestamp": "2026-08-20T23:57:55.765092151Z",
+  "timestamp": "2026-08-21T05:03:33.728180788Z",
   "model": "glm-5.3"
 }

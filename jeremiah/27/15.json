@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Awit aku ora ngutus dhèwèké — pangandikané Yahweh — lan dhèwèké ngacritakake cidra ing asmané Aku, supaya bisa nyingkiraké kowé ⟨אתכם⟩, supaya kowé lan para nabi sing ngacritakake marang kowé padha binasa.",
+  "translation": "Awit aku ora ngutus dhèwèké — pangandikané Yahweh — lan dhèwèké ngacritakake cidra ing asmané Aku, supaya bisa nyingkiraké kowé ⟨את⟩ ⟨אתכם⟩, supaya kowé lan para nabi sing ngacritakake marang kowé padha binasa.",
   "tokens": [
     {
       "surface": "כי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "kowé"
     },
     {
@@ -77,6 +77,6 @@
       "gloss": "marang kowé"
     }
   ],
-  "timestamp": "2026-08-21T00:57:35.239371159Z",
+  "timestamp": "2026-08-21T05:03:33.606033854Z",
   "model": "glm-5.3"
 }

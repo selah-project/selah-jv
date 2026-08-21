@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Awit saka bendune Yahweh kelakon mangkono ing Yerushalayim lan ing Yehudha, nganti Panjenengane ngeculake ⟨אתם⟩ saka ngarsane; lan Tsidkiyahu mambrontak marang ratu Babel.",
+  "translation": "Awit saka bendune Yahweh kelakon mangkono ing Yerushalayim lan ing Yehudha, nganti Panjenengane ngeculake ⟨את⟩ ⟨אתם⟩ saka ngarsane; lan Tsidkiyahu mambrontak marang ratu Babel.",
   "tokens": [
     {
       "surface": "כי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "wonge (Yerushalayim lan Yehudha)"
     },
     {
@@ -73,6 +73,6 @@
       "gloss": "Babel"
     }
   ],
-  "timestamp": "2026-08-21T00:31:16.721681737Z",
+  "timestamp": "2026-08-21T05:03:33.836564053Z",
   "model": "glm-5.3"
 }

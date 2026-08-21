@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Lan ngapura marang ⟨את⟩ papan suci saka najising bani Yisraèl lan saka panglanggaré ing sakabehing dosané; lan mangkono uga dilakoni kanggo tendha pasamuwan sing netep ⟨אתם⟩ karo wong-wong mau ing tengahing najisé.",
+  "translation": "Lan ngapura marang ⟨את⟩ papan suci saka najising bani Yisraèl lan saka panglanggaré ing sakabehing dosané; lan mangkono uga dilakoni kanggo tendha pasamuwan sing netep ⟨את⟩ ⟨אתם⟩ karo wong-wong mau ing tengahing najisé.",
   "tokens": [
     {
       "surface": "וכפר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩ karo wong-wong mau"
+      "gloss": "⟨את⟩ ⟨אתם⟩ karo wong-wong mau"
     },
     {
       "surface": "בתוך",
@@ -76,6 +76,6 @@
       "gloss": "najisé"
     }
   ],
-  "timestamp": "2026-08-20T23:14:17.871893484Z",
+  "timestamp": "2026-08-21T05:03:33.859495150Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 11,
-  "translation": "lan kelakon, menawa ora kowe mireng ing parentahe Yahweh Elohim-mu, lan kowe nyimpang saka dalan sing Aku dhawuhake marang ⟨אתכם⟩ ing dina iki, kanggo lumampah susulan elohim liyane sing ora kokweruhi.",
+  "translation": "lan kelakon, menawa ora kowe mireng ing parentahe Yahweh Elohim-mu, lan kowe nyimpang saka dalan sing Aku dhawuhake marang ⟨את⟩ ⟨אתכם⟩ ing dina iki, kanggo lumampah susulan elohim liyane sing ora kokweruhi.",
   "tokens": [
     {
       "surface": "והקללה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "kowe"
     },
     {
@@ -101,6 +101,6 @@
       "gloss": "kokweruhi"
     }
   ],
-  "timestamp": "2026-08-20T23:33:25.800449745Z",
+  "timestamp": "2026-08-21T05:03:33.755333310Z",
   "model": "glm-5.3"
 }

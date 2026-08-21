@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Lan padha njupuk ⟨את⟩ Avshalom, lan padha ngejungkelake ⟨אתו⟩ ing wana menyang lubang sing gedhe, lan padha ngadegake ing sandhuwure tumpukan watu sing gedhe banget; lan kabeh Israel padha ngungsi, saben wong menyang khemahé.",
+  "translation": "Lan padha njupuk ⟨את⟩ Avshalom, lan padha ngejungkelake ⟨את⟩ ⟨אתו⟩ ing wana menyang lubang sing gedhe, lan padha ngadegake ing sandhuwure tumpukan watu sing gedhe banget; lan kabeh Israel padha ngungsi, saben wong menyang khemahé.",
   "tokens": [
     {
       "surface": "ויקחו",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ing wana"
     },
     {
@@ -90,6 +90,6 @@
       "gloss": "menyang khemahé"
     }
   ],
-  "timestamp": "2026-08-21T00:11:47.250043476Z",
+  "timestamp": "2026-08-21T05:03:33.505147387Z",
   "model": "glm-5.3"
 }

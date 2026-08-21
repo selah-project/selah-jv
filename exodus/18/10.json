@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Lan Yitro munjuk: Pinuji Yahweh, sing wis ngluwari ⟨אתכם⟩ saka tangan Mitsrayim lan saka tangan Paroh, sing wis ngluwari ⟨את⟩ bangsa iku saka sangisore tangan Mitsrayim.",
+  "translation": "Lan Yitro munjuk: Pinuji Yahweh, sing wis ngluwari ⟨את⟩ ⟨אתכם⟩ saka tangan Mitsrayim lan saka tangan Paroh, sing wis ngluwari ⟨את⟩ bangsa iku saka sangisore tangan Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "sira"
     },
     {
@@ -82,6 +82,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-20T23:01:31.197142521Z",
+  "timestamp": "2026-08-21T05:03:33.660011207Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Aja nindes kancaira, lan aja ngrampas; upah panggone wong sing nyambut gawe ⟨אתך⟩ aja nganti keliliran nganti esuk.",
+  "translation": "Aja nindes kancaira, lan aja ngrampas; upah panggone wong sing nyambut gawe ⟨את⟩ ⟨אתך⟩ aja nganti keliliran nganti esuk.",
   "tokens": [
     {
       "surface": "לא",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨אתך⟩"
+      "gloss": "⟨את⟩ ⟨אתך⟩"
     },
     {
       "surface": "עד",
@@ -61,6 +61,6 @@
       "gloss": "esuk"
     }
   ],
-  "timestamp": "2026-08-20T23:14:59.562573621Z",
+  "timestamp": "2026-08-21T05:03:33.855519136Z",
   "model": "glm-5.3"
 }

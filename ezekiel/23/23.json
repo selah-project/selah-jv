@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 23,
-  "translation": "Bĕtné Bavel lan kabèh wong Kasdim, Pekod lan Syoa lan Koa, kabèh bĕtné Asyur ⟨אתם⟩ bareng: para enom sing gumanti, para bupati lan para panggedhé, kabèhé para panggedhé lan para pinundhi, para juru tandu jaran, kabèhé.",
+  "translation": "Bĕtné Bavel lan kabèh wong Kasdim, Pekod lan Syoa lan Koa, kabèh bĕtné Asyur ⟨את⟩ ⟨אתם⟩ bareng: para enom sing gumanti, para bupati lan para panggedhé, kabèhé para panggedhé lan para pinundhi, para juru tandu jaran, kabèhé.",
   "tokens": [
     {
       "surface": "בני",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "para enom sing gumanti"
     },
     {
@@ -93,6 +93,6 @@
       "gloss": "kabèhé"
     }
   ],
-  "timestamp": "2026-08-21T01:15:43.137050495Z",
+  "timestamp": "2026-08-21T05:03:33.779679378Z",
   "model": "glm-5.3"
 }

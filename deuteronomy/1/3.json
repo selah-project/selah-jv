@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan kadadéan ing tahun kaping sekawan puluh, ing wulan kaping sebelas, ing dino kapisan saking wulan, Moshe nituturake marang para putra Yisrael miturut kabeh sing dawuhake Yahweh ⟨אתו⟩ marang dheweke.",
+  "translation": "Lan kadadéan ing tahun kaping sekawan puluh, ing wulan kaping sebelas, ing dino kapisan saking wulan, Moshe nituturake marang para putra Yisrael miturut kabeh sing dawuhake Yahweh ⟨את⟩ ⟨אתו⟩ marang dheweke.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "Moshe"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "marang dheweke"
     }
   ],
-  "timestamp": "2026-08-20T23:30:38.665713963Z",
+  "timestamp": "2026-08-21T05:03:33.758094266Z",
   "model": "glm-5.3"
 }

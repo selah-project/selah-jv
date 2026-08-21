@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 25,
-  "translation": "⟨את⟩ Yerushalayim lan ⟨את⟩ kutha-kuthané Yehudha, lan ⟨את⟩ ratu-ratuné, ⟨את⟩ panggedhéné, kanggo maringake ⟨אתם⟩ dadi tlatah sing rusak, dadi gègèr, dadi cecakukan lan dadi bendu, kaya dina iki.",
+  "translation": "⟨את⟩ Yerushalayim lan ⟨את⟩ kutha-kuthané Yehudha, lan ⟨את⟩ ratu-ratuné, ⟨את⟩ panggedhéné, kanggo maringake ⟨את⟩ ⟨אתם⟩ dadi tlatah sing rusak, dadi gègèr, dadi cecakukan lan dadi bendu, kaya dina iki.",
   "tokens": [
     {
       "surface": "את",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "dhèwèké"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-21T00:57:21.576728586Z",
+  "timestamp": "2026-08-21T05:03:33.608301003Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 29,
-  "translation": "Lan kowe njupuk ⟨את⟩ lenga pangurapan iku, lan ngundhakake ing dhuwure sirahé, lan ngurapake ⟨אתו⟩ dheweke.",
+  "translation": "Lan kowe njupuk ⟨את⟩ lenga pangurapan iku, lan ngundhakake ing dhuwure sirahé, lan ngurapake ⟨את⟩ ⟨אתו⟩ dheweke.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -42,10 +42,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "dheweke (Aharon)"
     }
   ],
-  "timestamp": "2026-08-20T23:04:50.643060554Z",
+  "timestamp": "2026-08-21T05:03:33.645532048Z",
   "model": "glm-5.3"
 }

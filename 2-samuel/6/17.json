@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan dheweke nggawa ⟨את⟩ petungané Yahweh lan ngadegake ⟨אתו⟩ ing panggonané, ing tengahé kemah sing didhirikaké David kanggo iku; lan David nitahaké munggah kurban bakaran ing ngarsané Yahweh sarta kurban slamet.",
+  "translation": "Lan dheweke nggawa ⟨את⟩ petungané Yahweh lan ngadegake ⟨את⟩ ⟨אתו⟩ ing panggonané, ing tengahé kemah sing didhirikaké David kanggo iku; lan David nitahaké munggah kurban bakaran ing ngarsané Yahweh sarta kurban slamet.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "ing panggonané"
     },
     {
@@ -86,6 +86,6 @@
       "gloss": "sarta kurban slamet"
     }
   ],
-  "timestamp": "2026-08-21T00:07:39.002855390Z",
+  "timestamp": "2026-08-21T05:03:33.498881879Z",
   "model": "glm-5.3"
 }

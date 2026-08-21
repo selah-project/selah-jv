@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 21,
-  "translation": "Bapakne lan ibune ngrampungake dheweke, lan ngeluarake ⟨אתו⟩ marang para sesepuh kuthane, lan marang lawang panggonane dhewe.",
+  "translation": "Bapakne lan ibune ngrampungake dheweke, lan ngeluarake ⟨את⟩ ⟨אתו⟩ marang para sesepuh kuthane, lan marang lawang panggonane dhewe.",
   "tokens": [
     {
       "surface": "ותפשו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "dheweke"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "panggonane"
     }
   ],
-  "timestamp": "2026-08-21T03:57:22.420815131Z",
+  "timestamp": "2026-08-21T05:03:33.744039428Z",
   "model": "glm-5.3"
 }

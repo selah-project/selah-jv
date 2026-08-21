@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan dheweke menehi ⟨את⟩ samu barang iku ing telapakane Aharon lan ing telapakane para putrane, lan diyunjalakake ⟨אתם⟩ minangka sesaji kayunjal ing ngarsane Yahweh.",
+  "translation": "Lan dheweke menehi ⟨את⟩ samu barang iku ing telapakane Aharon lan ing telapakane para putrane, lan diyunjalakake ⟨את⟩ ⟨אתם⟩ minangka sesaji kayunjal ing ngarsane Yahweh.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "sesaji kayunjal"
     },
     {
@@ -66,6 +66,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-20T23:11:49.961953439Z",
+  "timestamp": "2026-08-21T05:03:33.849473589Z",
   "model": "glm-5.3"
 }
