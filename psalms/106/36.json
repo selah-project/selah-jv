@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan padha angawula ⟨את⟩ brahalane, sing dadi jerat tumrap dheweke.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "lan padha angawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brahalane"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "brahalane"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tumrap dheweke"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "jerat"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:36.650102087Z",
+  "model": "glm-5.3"
+}

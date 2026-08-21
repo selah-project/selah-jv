@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan bareng wis rampung nglakoni pangapura ⟨את⟩ panggonan suci lan ⟨את⟩ kemah patemon lan ⟨את⟩ mesbedhi, banjur ngaturake ⟨את⟩ kambing kang urip.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "lan wis rampung"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "nglakoni pangapura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan suci"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨ing⟩ panggonan suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kemah patemon"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patemon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "mesbedhi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨ing⟩ mesbedhi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "lan ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambing kang urip"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "⟨ing⟩ kambing"
+    },
+    {
+      "surface": "החי",
+      "gloss": "kang urip"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:27.754005953Z",
+  "model": "glm-5.3"
+}

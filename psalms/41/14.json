@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Pinuji Yahweh, Elohimé Yisrael, saka wiwitan kawula nganti tansah salawas-lawase. Amin, lan amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "saka wiwitan kawula"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "tansah salawas-lawase"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "lan amin"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:02.207746990Z",
+  "model": "glm-5.3"
+}

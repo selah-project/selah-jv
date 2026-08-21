@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Elohim ngubengake ⟨את⟩ wong kono marga dalaning padhang pasir, ing Segara Teberau; lan para putra Yisrael munggah kalawan kelengkapan senjata saka bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ngubengake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong kono"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kono"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "marga"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padhang pasir"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Segara"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Teberau"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "kalawan kelengkapan senjata"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:40.926673263Z",
+  "model": "glm-5.3"
+}

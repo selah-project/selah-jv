@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Mulané lah aku mageri ⟨את⟩ dalanmu nganggo eri, lan dakgawé ⟨את⟩ pageré, lan dalan-dalané ora bakal kasumangga.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mulané"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lah-aku"
+    },
+    {
+      "surface": "שך",
+      "gloss": "mageri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalanmu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "dalanmu"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "nganggo-eri"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "lan-dakgawé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pageré"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "pageré"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "lan-dalan-dalané"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora-bakal"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kasumangga"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:43.552070377Z",
+  "model": "glm-5.3"
+}

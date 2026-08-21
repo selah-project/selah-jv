@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Nganggo atiku kabeh dak panggih Kowé; aja kagawa dak kesasar saka préntah-Mu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "nganggo ... kabeh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "dak panggih Kowé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "dak kesasar"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "saka préntah-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:22.881440924Z",
+  "model": "glm-5.3"
+}

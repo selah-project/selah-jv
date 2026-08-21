@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Kanggo pangareping padhuragan. Mazmur anggoné Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangareping padhuragan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "anggoné Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:40.388047680Z",
+  "model": "glm-5.3"
+}

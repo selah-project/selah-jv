@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan sabda iku apik ing paningalé Adonai, amarga Shlomho nyuwun ⟨את⟩ sabda iku.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "apik"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sabda iku"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nyuwun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabda iku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sabda iku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:52.924781314Z",
+  "model": "glm-5.3"
+}

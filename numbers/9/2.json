@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lah para putra Israel nindakake ⟨את⟩ Pésakh ing wayahe kang wis tinemtu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésakh"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "ing wayahe kang wis tinemtu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:39.823647410Z",
+  "model": "glm-5.3"
+}

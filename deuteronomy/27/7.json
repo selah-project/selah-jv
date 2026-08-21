@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan kok kurbanake kurban shelamim, lan kok mangan ing kono, lan kok bungah ing ngarsane Yahweh, Elohim-mu.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "lan kok kurbanake"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "kurban shelamim"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "lan kok mangan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "lan kok bungah"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:54.276621724Z",
+  "model": "glm-5.3"
+}

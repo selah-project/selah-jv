@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Iki keturunane Shem: Shem yuswa satus taun, banjur nglairaké ⟨את⟩ Arpakhshad, rong taun sawise banjir gedhe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "keturunane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "satus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "banjur nglairaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "rong taun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "banjir gedhe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:34.176648436Z",
+  "model": "glm-5.3"
+}

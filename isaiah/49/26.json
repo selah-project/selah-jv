@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 49:26",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Lan Aku bakalange ⟨את⟩ sing nindihmu mangan ⟨את⟩ dagingé dhéwé, lan kaya anggur manis getihe dhéwé bakal diumbehi; lan sabarang uwong bakal weruh yen Aku, Yahweh, iku Pamedharmu lan Panglebarmu, Sang Abir saka Yaakov.",
+  "tokens": [
+    {
+      "surface": "והאכלתי",
+      "gloss": "Lan Aku bakalange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing nindihmu"
+    },
+    {
+      "surface": "מוניך",
+      "gloss": "sing nindihmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingé dhéwé"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "dagingé dhéwé"
+    },
+    {
+      "surface": "וכעסיס",
+      "gloss": "lan kaya anggur manis"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "getihe dhéwé"
+    },
+    {
+      "surface": "ישכרון",
+      "gloss": "bakal diumbehi"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "lan bakal weruh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang uwong"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "uwong (daging)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Pamedharmu"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "lan Panglebarmu"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Sang Abir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:47.631852520Z",
+  "model": "glm-5.3"
+}

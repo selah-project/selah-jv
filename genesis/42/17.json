@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan dheweke ngempalake ⟨את⟩ dheweke menyang tahanan telung dina.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ngempalake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "tahanan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:29.909150362Z",
+  "model": "glm-5.3"
+}

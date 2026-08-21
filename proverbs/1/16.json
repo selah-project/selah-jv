@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sebab sikil-sikilé ⟨wong-wong mau⟩ mlayu marang ala, lan padha enggal-enggal numpes getih",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "sikil-sikilé"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "marang ala"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "mlayu"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "enggal-enggal"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "numpes"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:04.875775475Z",
+  "model": "glm-5.3"
+}

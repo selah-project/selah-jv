@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Shaharaim ngenerake ana ing wiwitané Moab sawisé nglungani ⟨אתם⟩ — yaiku Hushim lan ⟨את⟩ Baara — bojone.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "lan Shaharaim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ngenerake"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ana ing wiwitané"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nglungani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Hushim (lan Baara)"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bojone"
+    }
+  ],
+  "timestamp": "2026-08-21T03:19:21.925655246Z",
+  "model": "glm-5.3"
+}

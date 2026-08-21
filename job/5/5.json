@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Sing panené wong iku dipangan wong luwe, lan saka ranjau-ranjau dijupuk, lan juru ngrebut nyedhot bandhané",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "panené"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "wong luwe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dipangan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "ranjau-ranjau (patjar)"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "lan nyedhot"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "juru ngrebut"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "bandhané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:05.323981099Z",
+  "model": "glm-5.3"
+}

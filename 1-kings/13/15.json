@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan dheweke munjuk marang wong lanang iku: Ayo mula karo ⟨את⟩ aku menyang omah, lan pangan roti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang wong lanang iku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ayo mula"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "karo ⟨את⟩ aku"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "menyang omah"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "lan pangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:43.015048310Z",
+  "model": "glm-5.3"
+}

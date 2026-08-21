@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan marang bangsa iki kowé kandha: Mangkono pangandikané Yahweh — ndhedhereka, Aku madhegaké ing ngarsané kowé ⟨את⟩ dalan urip lan ⟨את⟩ dalan pati.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "kowé kandha"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ndhedhereka Aku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "madhegaké"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ing ngarsané kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalan urip"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dalan pati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "המות",
+      "gloss": "pati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:56:02.717648674Z",
+  "model": "glm-5.3"
+}

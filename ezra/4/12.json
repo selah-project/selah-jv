@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 4:12",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Ka-kaweruhaken ing ratu: para wong Yehuda sing munggah saka ing kowé teka marang aku menyang Yerushalayim, kutha kang gember lan ala, lagi yasa ⟨iiku⟩, lan tembok-temboke kelar-wuwuh, lan pokohane disambung-wuwuh.",
+  "tokens": [
+    {
+      "surface": "ידיע",
+      "gloss": "ka-kaweruhaken"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "⟨dadi⟩"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "ing ratu"
+    },
+    {
+      "surface": "די",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "para wong Yehuda"
+    },
+    {
+      "surface": "די",
+      "gloss": "sing"
+    },
+    {
+      "surface": "סלקו",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "לותך",
+      "gloss": "ing kowe"
+    },
+    {
+      "surface": "עלינא",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "menyang Yerushalayim"
+    },
+    {
+      "surface": "קריתא",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "מרדתא",
+      "gloss": "kang gember"
+    },
+    {
+      "surface": "ובאישתא",
+      "gloss": "lan ala"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "lagi yasa"
+    },
+    {
+      "surface": "ושורי",
+      "gloss": "lan tembok-temboke"
+    },
+    {
+      "surface": "אשכללו",
+      "gloss": "kelar-wuwuh"
+    },
+    {
+      "surface": "ואשיא",
+      "gloss": "lan pokohane"
+    },
+    {
+      "surface": "יחיטו",
+      "gloss": "disambung-wuwuh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:05:38.103565430Z",
+  "model": "glm-5.3"
+}

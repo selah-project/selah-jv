@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Manawa sira lungguh mangan ⟨את⟩ pangéran, padha ngertèna ⟨את⟩ sing ana ing ngarsanira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sira lungguh"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangéran"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "pangéran"
+    },
+    {
+      "surface": "בין",
+      "gloss": "padha ngertèna"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ngertèna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing ana ing ngarsanira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ana ing ngarsanira"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:57.140859180Z",
+  "model": "glm-5.3"
+}

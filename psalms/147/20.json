@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Ora nindakake mangkono marang saben bangsa liyane, lan bab putusan-putusane, dheweke ora weruh. Pujia-na Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "lan putusan-putusan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora ing aling-aling"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "weruh marang"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujia-na"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:39.235272919Z",
+  "model": "glm-5.3"
+}

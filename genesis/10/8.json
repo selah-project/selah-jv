@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Kush ninoake ⟨את⟩ Nimrod; dhèwèké wiwit dadi wong gagah ing bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "lan Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ninoake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "החל",
+      "gloss": "wiwit"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wong gagah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:37.152637022Z",
+  "model": "glm-5.3"
+}

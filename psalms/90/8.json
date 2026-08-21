@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Kowé nglebokake pangawad kita sadurungé-Mu, sing didhelikaké ana ing cahyaning praupan-Mu.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "kowé nglebokake"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "pangawad kita"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "sadurungé-Mu"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "sing didhelikaké"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ana ing cahya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praupan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:47.173358201Z",
+  "model": "glm-5.3"
+}

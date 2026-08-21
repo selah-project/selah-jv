@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Swara Yahweh ngebakake ⟨את⟩ wit ara; Yahweh ngebakake ⟨את⟩ wit-wit ara saka Lebanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ngebakake"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "wit ara"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ngebakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wit-wit ara saka Lebanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "wit-wit ara"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:42.353122228Z",
+  "model": "glm-5.3"
+}

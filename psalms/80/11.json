@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Gunung-gunung katutupi sumbinge, lan ing pang-pange ana ares-aresé El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "katutupi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Gunung-gunung"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "sumbinge"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "lan pang-pange"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ares-aresé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:52.309410160Z",
+  "model": "glm-5.3"
+}

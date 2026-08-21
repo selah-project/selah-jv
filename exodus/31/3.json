@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "⟨את⟩ lan Aku ngebaki dheweke ⟨את⟩ rohe Elohim, ing kawicaksanan, ing pangertèn, ing kawruh, lan ing sakabehing kagunan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": ""
+    },
+    {
+      "surface": "ואמלא",
+      "gloss": "⟨את⟩ lan Aku ngebaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rohe Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rohe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ing kawicaksanan"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "lan ing pangertèn"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "lan ing kawruh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan ing sakabehing"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "kagunan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:50.489779641Z",
+  "model": "glm-5.3"
+}

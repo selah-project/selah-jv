@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Kabeh padha dipipu amarga ⟨the⟩ wong sing ora migunani marang dheweke — ora pitulung lan ora miguna, nanging isi lan uga cacad.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "padha-dipipu"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "migunani"
+    },
+    {
+      "surface": "למו",
+      "gloss": "marang-dheweke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "pitulung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan-ora"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "miguna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "isi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan-uga"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "cacad"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:34.912872247Z",
+  "model": "glm-5.3"
+}

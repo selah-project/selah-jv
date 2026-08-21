@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lah asta Madian nguwasani Israyel; saka sebabé Madian para putra Israyel gawé dhewe ⟨את⟩ lèn-lènan (minah ing redi), ⟨את⟩ guwa-guwa, lan ⟨את⟩ bètèng-bètèng.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "lan nguwasani"
+    },
+    {
+      "surface": "יד",
+      "gloss": "asta"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Madian"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngatasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka sebabé"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Madian"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "padha gawé"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo dhewe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lèn-lènan (minah)"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "lèn-lènan (minah)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "guwa-guwa"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "guwa-guwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bètèng-bètèng"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "bètèng-bètèng"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:46.627305025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Kowé wus maringi bungah ing atiku, ⟨luwih saka⟩ nalika gandumé dhéwé lan anggur anyaré dhéwé saya akèh.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "kowé wus maringi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ing atiku"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "saka nalika"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "gandumé dhéwé"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "lan anggur anyaré dhéwé"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "saya akèh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:04.038308207Z",
+  "model": "glm-5.3"
+}

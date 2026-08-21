@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Dawid ngandika marang anom kang ngandakake iku marang dheweke: Piyé kowé ngerténi yèn Syaul wis mati, lan Yonatan anake?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "anom iku"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "kang ngandakake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "איך",
+      "gloss": "piyé"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kowé ngerténi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wis mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "lan Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:37.088740305Z",
+  "model": "glm-5.3"
+}

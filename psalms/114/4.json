@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 114,
+  "translation": "Gunung-gunung njoget kaya aries, bukit-bukit kaya anaking kawanan wedhus.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "njoget"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "kaya aries"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "kaya anaking"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawanan wedhus"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:47.462161862Z",
+  "model": "glm-5.3"
+}

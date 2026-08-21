@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Dheweke nglombokake ⟨את⟩ bapakne nganggo anggur ing wengi iku, lan sing mbarep mlebu lan saré marang ⟨את⟩ bapakne, lan ora weruh nalikane dheweke saré lan nalikane tangi.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "dheweke nglombokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakne"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "lan mlebu"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "sing mbarep"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "lan saré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakne"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "nalikane dheweke saré"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "lan nalikane tangi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:38.562048302Z",
+  "model": "glm-5.3"
+}

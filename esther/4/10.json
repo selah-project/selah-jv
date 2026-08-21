@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur Ester ngandika marang Hatak lan mènèhi préntah dhumateng Mordekhai:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "marang Hatak"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "lan mènèhi préntah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhumateng"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:45.271133081Z",
+  "model": "glm-5.3"
+}

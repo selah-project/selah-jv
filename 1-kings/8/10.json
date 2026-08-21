@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan kadadéan nalika para imam padha metu saka panggonan suci, mengko méga iku nglumpukake ⟨את⟩ dalemé Yahweh kabèh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lan kadadéan"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "nalika padha metu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "panggonan suci"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "lan méga iku"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nglumpukake kabèh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalemé Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dalem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:21.067574264Z",
+  "model": "glm-5.3"
+}

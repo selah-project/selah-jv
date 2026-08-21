@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku ⟨is⟩ iku tamu ing ⟨the⟩ bumi; aja didhemake saka aku prentah-prentahmu.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "tamu (wong nyalamèni)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "didhemake"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "prentah-prentahmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:10.323196706Z",
+  "model": "glm-5.3"
+}

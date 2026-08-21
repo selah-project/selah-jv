@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Léa ngucap: \"Begadh teka!\" banjur njenengi ⟨את⟩ jenengé Gadh.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Léa"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Begadh teka"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "banjur njenengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenengé"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenengé"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:37.127113895Z",
+  "model": "glm-5.3"
+}

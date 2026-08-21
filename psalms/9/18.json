@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Bali wong-wong ala marang Sheol, kabeh bangsa sing padha lali marang Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "marang Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "padha lali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:44.665514691Z",
+  "model": "glm-5.3"
+}

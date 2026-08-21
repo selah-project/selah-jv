@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan Yahweh ngandika marang Moshe, sang ngandika:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sang ngandika"
+    }
+  ],
+  "timestamp": "2026-08-21T04:44:36.115514967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Elisha pangandika mrng dheweke: Lunga, kandhana: ⟨ora⟩ bakal urip temenan; nanging Yahweh wis nduduhake marang aku yakin bakahe bakal mati temenan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan-pangandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mrng-dheweke"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kandhana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ora⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "urip"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "temenan-urip"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "nanging-wis-nduduhake-marang-aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yakin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "temenan-mati"
+    }
+  ],
+  "timestamp": "2026-08-21T04:06:01.888904261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan uga ⟨את⟩ anaké wadon abdi kuwi bakal dakdadèkaké bangsa, awit dhèwèké wijiné saka kowé.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaké wadon abdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wadon abdi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "dadi bangsa"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "bakal dakdadèkaké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wijiné saka kowé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:19.887629881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 79,
+  "translation": "Aja ngeling-eling marang kawula dosa-dosa biyèn; enggal kasihsayangm rawuh ngetuti kawula, sebab kawula wis sarwa lerem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ngeling-eling"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "marang kawula"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "dosa-dosa"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "biyèn"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "enggal"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "rawuh ngetuti kawula"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "kasihsayangm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "kawula lerem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sarwa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:33.928980450Z",
+  "model": "glm-5.3"
+}

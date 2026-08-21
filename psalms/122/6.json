@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 122,
+  "translation": "Nyuwuna karahayon marang Yerushalayim; mugi siniram ayem para kang nresnani sliramu.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Nyuwuna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karahayon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "mugi siniram ayem"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "para kang nresnani sliramu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:09.560006587Z",
+  "model": "glm-5.3"
+}

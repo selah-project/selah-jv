@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Awit yèn siji tiba, kancané bakal nggulung ⟨את⟩; nanging siji sing tiba lan ora ana kateluné kang nggulung dhéwé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "nggulung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kancané"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "kancané"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "sing tiba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kateluné"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "nggulung dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:16.573117197Z",
+  "model": "glm-5.3"
+}

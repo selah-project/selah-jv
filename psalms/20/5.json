@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Kowe diparingi miturut atinira, lan kabeh rencananira kelakoni.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "diparingi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "miturut atinira"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "rencananira"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "kelakoni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:25.643266113Z",
+  "model": "glm-5.3"
+}

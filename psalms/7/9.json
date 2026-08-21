@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Yahweh bakal ngadili umat-umat; adili aku, Yahweh, miturut kabeneranku lan miturut kamurnènku sing ana ing aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "bakal ngadili"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "adili aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "miturut kabeneranku"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "lan miturut kamurnènku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana ing aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:37.551783484Z",
+  "model": "glm-5.3"
+}

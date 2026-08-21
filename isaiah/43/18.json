@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Aja padha éling marang samubarang kuna, lan samubarang biyèn aja padha ngraosake.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "padha éling"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "samubarang kuna"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "lan samubarang biyèn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "padha ngraosake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:14.736478663Z",
+  "model": "glm-5.3"
+}

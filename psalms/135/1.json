@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Pamuji kowe marang Yah! Pamuji ⟨את⟩ asma Yahweh, pamuji, abdi-abdine Yahweh!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pamuji kowe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pamuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pamuji"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:38.550306792Z",
+  "model": "glm-5.3"
+}

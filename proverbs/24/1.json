@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Aja padha sirik maring wong-wong ala, lan aja kangen dadi ⟨את⟩ kancane.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "padha sirik"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "maring wong-wong"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "kangen"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kanggo dadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kancane (karo dheweke)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:52.557444116Z",
+  "model": "glm-5.3"
+}

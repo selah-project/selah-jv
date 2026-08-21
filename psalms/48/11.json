@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Kaya asmamu, wahai Elohim, mangkono uga puji-pujianmu, tekan ing pucuking bumi; kabeneran kebak astenmu tengen.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "kaya asmamu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono uga"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "puji-pujianmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "tekan ing"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "pucuking"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "astenmu tengen"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:39.947781157Z",
+  "model": "glm-5.3"
+}

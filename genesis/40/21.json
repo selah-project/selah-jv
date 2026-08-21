@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Dibalekake ⟨את⟩ panggedhe para juru olah-omben ing kalungguhane, lan disolahake cangkir ing astane Firaun.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "dibalekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggedhe para juru olah-omben"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "para juru olah-omben"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "kalungguhane (minangka juru olah-omben)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan disolahake"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "cangkir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כף",
+      "gloss": "asta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firaun"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:49.417060877Z",
+  "model": "glm-5.3"
+}

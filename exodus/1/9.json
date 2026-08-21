@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lambi PiFiraun ngendika marang wonge: Irsani, wong Israyil iku akeh banget lan kuwat, luwih saka kita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lambi ngendika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wonge"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "irsani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyil"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akeh banget"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "lan kuwat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "luwih saka kita"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:29.039703020Z",
+  "model": "glm-5.3"
+}

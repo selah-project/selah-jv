@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Sing hina iku murka banget ing paningalé, nanging ⟨את⟩ sing wedi marang Yahweh dipundhi dhi. Sing sumpah nandhang ala lan ora ngowahi.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "sing hina"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ing paningalé"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "murka banget"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sing wedi marang Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "sing wedi marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "dipundhi dhi"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "nandhang ala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "ngowahi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:01.176608176Z",
+  "model": "glm-5.3"
+}

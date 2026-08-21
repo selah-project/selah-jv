@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Lan dheweke ndeleng panggonan istirahat iku apik, lan ⟨את⟩ bumi iku marem, banjur dheweke mundhakake gulune kanggo nanggung bebaya, lan dadi kuli wajib upeti.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lan dheweke ndeleng"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "panggonan istirahat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "apik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "iku"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "marem"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "banjur dheweke mundhakake"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "gulune"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "kanggo nanggung bebaya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "kuli wajib upeti"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ngaularake awake"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:03.009397378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lakune tansah katon eren ing saben wektu; dhuwuring pamrételanmu ⟨ngungkuli⟩ paningalane; kabeh saterune diuwabi marang panjenengane.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "katon eren"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "lakune"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "dhuwur"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "pamrételanmu"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "saka ing ngarsane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "saterune"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "diuwabi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "marang panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:35.916297901Z",
+  "model": "glm-5.3"
+}

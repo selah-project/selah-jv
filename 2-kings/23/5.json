@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 23:5",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan dheweke ngendhekake ⟨את⟩ para imam pangilon kang wis ditetepake dening para raja Yehuda supaya nguwur dupa ing papan dhuwur, ing kutha-kutha Yehuda lan ing saubengé Yerushalayim — uga ⟨את⟩ para panguwur dupa marang Baal, marang srengéngé, marang rembulan, marang rasi lintang, lan marang sakabèhé bala langit.",
+  "tokens": [
+    {
+      "surface": "והשבית",
+      "gloss": "ngendhekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam pangilon (הכמרים)"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "para imam pangilon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ditetepake"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nguwur dupa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ing papan dhuwur"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ing kutha-kutha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומסבי",
+      "gloss": "lan saubengé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para panguwur dupa (המקטרים)"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "para panguwur dupa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "marang Baal"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "marang srengéngé"
+    },
+    {
+      "surface": "ולירח",
+      "gloss": "lan marang rembulan"
+    },
+    {
+      "surface": "ולמזלות",
+      "gloss": "lan marang rasi lintang"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lan marang sakabèhé"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bala"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:01.505816228Z",
+  "model": "glm-5.3"
+}

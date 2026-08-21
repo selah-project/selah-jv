@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Dawid ngendika marang Natan: Aku dosa marang Yahweh. Lan Natan ngendika marang Dawid: Uga Yahweh wis ngliwatake dosamu, sira ora bakal mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ... ngendika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Aku dosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ... ngendika"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Uga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "wis ngliwatake"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "dosamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "bakal mati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:43.874508167Z",
+  "model": "glm-5.3"
+}

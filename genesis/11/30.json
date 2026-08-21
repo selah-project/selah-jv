@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Sarai dadi mandhul, ora duwe turun.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mandhul"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kanggo awake"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "turun"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:05.027841182Z",
+  "model": "glm-5.3"
+}

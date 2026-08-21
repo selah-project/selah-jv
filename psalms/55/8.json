@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Tenadya aku ngoyak adoh tansah mlayu, aku nginep ing ara-ara samin. Sela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tenadya"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ngoyak adoh"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "tansah mlayu"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "aku nginep"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara samin"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:56.860496585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Nachshon nurrakake ⟨את⟩ Salma, lan Salma nurrakake ⟨את⟩ Boaz,",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Lan Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurrakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "lan Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurrakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:49.982755910Z",
+  "model": "glm-5.3"
+}

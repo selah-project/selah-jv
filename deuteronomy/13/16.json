@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "patèni tenan ⟨את⟩ padunung kutha iku nganggo lambe pedhang; para-panahen ⟨את⟩ iku lan ⟨את⟩ kabèh kang ana ing jeroné lan ⟨את⟩ kéwan-kéwané nganggo lambe pedhang.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "patèni"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "tenan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padunung kutha iku"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "padunung"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nganggo lambe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "para-panahen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (kutha iku)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabèh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ana ing jeroné"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kéwan-kéwané"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "kéwan-kéwané"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "nganggo lambe"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:30.942446939Z",
+  "model": "glm-5.3"
+}

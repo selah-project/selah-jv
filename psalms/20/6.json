@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Kita seneng-seneng ing kawilujenganmu, lan ing asma Elohim kita ngibaraké panji; mugi Yahweh ngladèni kabeh panyuwunanira.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "kita seneng-seneng"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ing kawilujenganmu"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "lan ing asma"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "ngibaraké panji"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "mugi ... ngladèni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "panyuwunanira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:25.643526012Z",
+  "model": "glm-5.3"
+}

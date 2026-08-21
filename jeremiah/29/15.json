@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Sebab kowé wis ngucap: Yahweh ngundhakaké kanggo kita para nabi ing Babel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kowé wis ngucap"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ngundhakaké"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ing Babel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:59:11.163129859Z",
+  "model": "glm-5.3"
+}

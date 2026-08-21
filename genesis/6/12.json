@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Elohim mirsani ⟨את⟩ bumi, lah, rusak wis, awit sabeh daging ngrusakake ⟨את⟩ dalane ana ing bumi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "rusak wis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "ngrusakake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabeh"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalane"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:22.093651339Z",
+  "model": "glm-5.3"
+}

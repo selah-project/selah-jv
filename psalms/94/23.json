@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Lange bakal dibalikake marang dheweke: ⟨את⟩ kaluputane, lan ing kaibané dheweke bakal dipunakiri; Yahweh Elohime bakal mungakiri dheweke.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lan bakal dibalikake"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluputane"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "kaluputane"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "lan ing kaibané"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "bakal mungakiri dheweke"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "mungakiri dheweke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohime"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:15.829624739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Munjukna pepuji marang Yahweh, O para malaikate, satriya-satriya ing baktya, sing nindakake sabda-Sun, kanggo ngrungokake swara sabda-Sun.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Munjukna pepuji marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "para malaikate"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "satriya-satriya"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ing baktya"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "sing nindakake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sabda-Sun"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kanggo ngrungokake"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sabda-Sun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:08.722562017Z",
+  "model": "glm-5.3"
+}

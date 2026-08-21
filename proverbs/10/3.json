@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Yahweh ora nglilakake keluwen jiwarngipun wong tulus, nanging kareping wong cidra ditulak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "nglilakake keluwen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwarngipun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong tulus"
+    },
+    {
+      "surface": "והות",
+      "gloss": "nanging kareping"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong cidra"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "ditulak"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:58.891310888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "uga ing kono tanemmu kang nuntun aku, lan tangan tengenmu kang nyekel aku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanemmu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "nuntun aku"
+    },
+    {
+      "surface": "וְתֹאחֲזֵנִי",
+      "gloss": "lan nyekel aku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan tengenmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:17.472275411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "lan apa sing ditindakake marang kowé ing ara-ara, nganti tekaning kowé nganti ing panggonan iki.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "lan apa sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "tekaning kowé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti ing"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:33.014948241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Para imam lan para Lewi nyucèkaké awake dhewe, banjur nyucèkaké ⟨את⟩ bangsa iku lan ⟨את⟩ gapura-gapura lan ⟨את⟩ tembok iku.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "nyucèkaké awake dhewe"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "lan para Lewi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "nyucèkaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gapura-gapura"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "gapura-gapura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tembok iku"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tembok iku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:14:18.641289414Z",
+  "model": "glm-5.3"
+}

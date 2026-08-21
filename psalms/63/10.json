@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Dene dheweke, kang golek napsaku supaya ngrisak, bakal padha tumiba ing sangisoring bumi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "dene dheweke"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "supaya ngrisak"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "golek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "napsaku"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakal padha tumiba"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ing sangisore (paling jero)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:46.562422789Z",
+  "model": "glm-5.3"
+}

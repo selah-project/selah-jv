@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Kowé mbelah sumbering banyu lan kali; Kowé nglilakake ilining kali-kali sing langgeng.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "mbelah"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "sumbering banyu"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "lan kali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "nglilakake"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ilining kali-kali"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "langgeng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:32.878768340Z",
+  "model": "glm-5.3"
+}

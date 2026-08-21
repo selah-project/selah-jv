@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan bare sangange nista ⟨את⟩ Yisrael, banjur Yehonatan bin Simea, sedhereke Dawid, mateni ⟨sangane⟩.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "nista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "mateni"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Simea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedhereke"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:11:07.158910471Z",
+  "model": "glm-5.3"
+}

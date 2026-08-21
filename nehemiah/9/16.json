@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Nanging dhèwèké lan leluhur kita padha gumedhe, sarta ngatosaké ⟨את⟩ guluné, lan ora ngrungokaké marang préntahmu.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "nanging dhèwèké"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "lan leluhur kita"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "padha gumedhe"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "sarta ngatosaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guluné"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "gulu (bungkukuné)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngrungokaké"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "préntah-préntahmu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:12:23.404403759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Balak nindakake kaya sing didhawuhake Bilam, lan Balak lan Bilam mundhutake lembu lan domba jantan ing ⟨ing⟩ altar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lan mundhutake"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "lan Bilam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "lan domba jantan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "ing altar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:13.743059151Z",
+  "model": "glm-5.3"
+}

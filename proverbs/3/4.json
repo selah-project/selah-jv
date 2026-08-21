@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Mangka kowe bakal oleh katresnan lan pangerten becik ing paningalane Elohim lan manungsa.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "bakal oleh"
+    },
+    {
+      "surface": "חן",
+      "gloss": "katresnan"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "lan pangerten"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "lan manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:50.913179812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim mberkahi ⟨אתם⟩ saka kuwi, ngandika: Padha ndadakake woh lan padha tambah akeh, lan padha nemu ⟨את⟩ banyu ing segara, lan manuk padha tambah akeh ing bumi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "mberkahi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "Elohim niberkahi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "padha ndadakake woh"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "lan padha tambah akeh"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "lan padha nemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ing segara"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "lan manuk"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "tambah akeh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:16.566323217Z",
+  "model": "glm-5.3"
+}

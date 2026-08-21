@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Banjur bisa nyandhet dheweke, lan matur marang ⟨את⟩ tembung-tembung iki.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "banjur bisa nyandhet dheweke"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembung iki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:56.197120090Z",
+  "model": "glm-5.3"
+}

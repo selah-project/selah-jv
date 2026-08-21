@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 84,
+  "translation": "Yahweh Elohim Tzevaot, rungokna dongaku; manjingna kupingmu, Elohi Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "rungokna"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "dongaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "manjingna kupingmu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:13.469956920Z",
+  "model": "glm-5.3"
+}

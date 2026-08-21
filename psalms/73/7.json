@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Metu saka kaluwihane matahe, ngluwihi panggayuhe atine.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "saka kaluwihane"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "matahe"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ngluwihi"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "panggayuhane"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ate"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:53.664072036Z",
+  "model": "glm-5.3"
+}

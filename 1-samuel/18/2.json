@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Shaul njupuk dhèwèké ing dina iku, lan ora ngidinaké dhèwèké bali menyang omahé ramane.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "njupuk dhèwèké"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ngidinaké"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:44.663958978Z",
+  "model": "glm-5.3"
+}

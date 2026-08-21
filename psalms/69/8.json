@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Sebab amarga Kowé dak ejara cacad; wirang wis nutupi rahaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "amarga Kowé"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "dak ejara"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cacad"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "wis nutupi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "wirang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rahaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:55.840720479Z",
+  "model": "glm-5.3"
+}

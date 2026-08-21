@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Aku dadi bisu, meneng wutuh; aku menengake awakku saka apa sing apik, lan laraku saya kagodhog.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "aku dadi bisu"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "meneng wutuh"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "aku menengake awakku"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "saka apa sing apik"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "lan laraku"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "saya kagodhog"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:02.706817189Z",
+  "model": "glm-5.3"
+}

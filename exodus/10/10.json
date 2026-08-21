@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Dhèwèké ngandika marang wong-wong mau: \"Muga Yahweh marengake kowe kaya dhadine aku nglilakake ⟨את⟩ kowe lan ⟨את⟩ anak-anak kowe; padha ndelenga, amarga ala ana ing ngarepe rai kowe.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "muga ... marengake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya dhadine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "aku nglilakake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anak-anak kowe"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "anak-anak kowe"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "padha ndelenga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ana ing ngarepe"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "rai kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:36.379715793Z",
+  "model": "glm-5.3"
+}

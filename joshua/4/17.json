@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur Yehosyua paring dhawuh marang ⟨את⟩ para imam, mangkene: Mundhaka saka Yarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "banjur paring dhawuh"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "mundhaka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:24.909536788Z",
+  "model": "glm-5.3"
+}

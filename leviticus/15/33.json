@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 15:33",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "uga dene wong wadon sing lara ing wetenge, lan wong sing ngeluwes ⟨את⟩ luwese, marang lanang lan marang wadon, lan marang wong sing bareng turu karo wong sing ora murni.",
+  "tokens": [
+    {
+      "surface": "והדוה",
+      "gloss": "uga dene wong wadon sing lara ing wetenge"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "ing kaluwesanhe"
+    },
+    {
+      "surface": "והזב",
+      "gloss": "lan wong sing ngeluwes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luwese"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "luwese"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "marang lanang"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "lan marang wadon"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "lan marang wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "turu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng karo"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "wong sing ora murni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:37.994776057Z",
+  "model": "glm-5.3"
+}

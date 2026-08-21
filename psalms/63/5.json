@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Mangkene aku ngucapake berkah marang Kowé sajroning uripku; ing asma-Mu aku ngungkake tapak tanganku.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "aku ngucapake berkah marang Kowé"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sajroning uripku"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ing asma-Mu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "aku ngungkake"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tapak tanganku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:18.724399041Z",
+  "model": "glm-5.3"
+}

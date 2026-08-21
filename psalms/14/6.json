@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Rancane wong papat padha ⟨dipai⟩ isin ⟨dhewe⟩, nanging Yahweh ⟨iku⟩ perlindungane.",
+  "tokens": [
+    {
+      "surface": "עֲצַת",
+      "gloss": "rancan"
+    },
+    {
+      "surface": "עָנִ֥י",
+      "gloss": "wong papat"
+    },
+    {
+      "surface": "תָבִ֑ישׁוּ",
+      "gloss": "padha dipai isin"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מַחְסֵֽהוּ",
+      "gloss": "perlindungane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:43.520710977Z",
+  "model": "glm-5.3"
+}

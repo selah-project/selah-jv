@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Sangking\/cak-cakaning tangané ana palakuning bumi, lan dhuwuring gunung-gunung kang duduwané.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "cak-cakaning tangané"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "palakuning"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "lan dhuwuring"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kang duduwané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:52.321121444Z",
+  "model": "glm-5.3"
+}

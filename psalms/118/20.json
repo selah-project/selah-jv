@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Iki ⟨⟨iku⟩⟩ lawange Yahweh, wong-wong bener bakal mlebu ing ⟨⟨kono⟩⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "השער",
+      "gloss": "lawange"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong-wong bener"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakal mlebu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:57.753933039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 30:19",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Takke dadi saksi marang kowe dina iki ⟨את⟩ langit lan ⟨את⟩ bumi: urip lan pati takparingake ing ngarsamu, berkat lan sakit; mulané pilihenen urip, supaya sira urip, sira lan turunmu.",
+  "tokens": [
+    {
+      "surface": "העידתי",
+      "gloss": "Takke dadi saksi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "והמות",
+      "gloss": "lan pati"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "takparingake"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsamu"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkat"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "lan sakit"
+    },
+    {
+      "surface": "ובחרת",
+      "gloss": "lan pilihenen"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "sira urip"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "lan turunmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:59.581778862Z",
+  "model": "glm-5.3"
+}

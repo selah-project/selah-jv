@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan sing ngutus ⟨את⟩ wedhus janggut iku marang Azazel bakal ngumbah sandhangané, lan ngumbah ⟨את⟩ awaké ing banyu, lan sawisé iku banjur lumebu menyang kemah.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "lan sing ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus janggut iku"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "wedhus janggut iku"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "marang Azazel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "bakal ngumbah"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "lan ngumbah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awaké"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "awaké"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "lan sawisé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "banjur lumebu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:50.411929605Z",
+  "model": "glm-5.3"
+}

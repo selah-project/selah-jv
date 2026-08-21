@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Tangia, lungaa marang Ninewe, kuwi kutha kang agung, lan seruaake marang iku ⟨את⟩ seruan iku, kang dakkandikakake marang sira.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tangia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lungaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "kang agung"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "lan seruaake"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "marang iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seruan iku"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "seruan iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku (dakk-)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngandikakake"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:14.134379224Z",
+  "model": "glm-5.3"
+}

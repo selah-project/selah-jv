@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan anak-anake Kehat: Amram, lan Yitshar, lan Khevron, lan Uzziel; lan taun-taune uripe Kehat telung puluh telu lan satus taun.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "lan Yitshar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "lan Khevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "lan Uzziel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "lan taun-taune"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uripe"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "lan telung puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "lan satus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:15.164352534Z",
+  "model": "glm-5.3"
+}

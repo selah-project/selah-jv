@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Mizmor kanggo Dawid, nalika dheweke ana ing ara-ara Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "nalika dheweke ana"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:02.300763102Z",
+  "model": "glm-5.3"
+}

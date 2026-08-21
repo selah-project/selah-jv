@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai kita, panguwuhe ⟨⟨apa⟩⟩ asmamu ing sadhuwuring bumi kabeh, sing wus nutokake kamulyanmu sadhuwure langit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai kita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "panguwuhe ⟨apa⟩"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "agung"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asmamu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "wus nutokake"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kamulyanmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "sadhuwure"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:38.878827188Z",
+  "model": "glm-5.3"
+}

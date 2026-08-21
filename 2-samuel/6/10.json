@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Dawid ora gelem mindhakake ⟨את⟩ peti Yahweh menyang awake dhewe ing kutha Dawid, dadi Dawid mbungkakake ing omahé Oved-Edom wong Gati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "gelem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "mindhakake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "menyang awake dhewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mrona ing"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "dadi mbungkakake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wong Gati"
+    }
+  ],
+  "timestamp": "2026-08-21T04:02:03.616634600Z",
+  "model": "glm-5.3"
+}

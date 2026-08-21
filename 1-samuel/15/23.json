@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Sebab dosa tenung iku anggone mbalela, lan kaluputan lan terafim iku anggonegenthengake awake; awit sira nulak ⟨את⟩ tembung Yahweh, mulane Panjenengane nulak sira saka kadhaton ratu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "tenung"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "anggone mbalela"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "lan kaluputan"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "lan terafim"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "anggenthengake awake"
+    },
+    {
+      "surface": "יען",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "sira nulak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung (dosa Yahweh)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "mulane Panjenengane nulak sira"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "saka kadhaton ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:01:31.471887690Z",
+  "model": "glm-5.3"
+}

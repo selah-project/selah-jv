@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 3:22",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Jubah pesten, lan slendhang, lan kain kerudung, lan dom-doman",
+  "tokens": [
+    {
+      "surface": "המחלצות",
+      "gloss": "jubah pesten"
+    },
+    {
+      "surface": "והמעטפות",
+      "gloss": "lan slendhang"
+    },
+    {
+      "surface": "והמטפחות",
+      "gloss": "lan kain kerudung"
+    },
+    {
+      "surface": "והחריטים",
+      "gloss": "lan dom-doman"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:49.740498999Z",
+  "model": "glm-5.3"
+}

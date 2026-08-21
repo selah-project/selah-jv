@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Singa tuwa sirna tanpa mangsa, lan anak-anake singa wadon padha kasebar.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "singa tuwa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "sirna"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "singa wadon"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "padha kasebar"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:16.378352764Z",
+  "model": "glm-5.3"
+}

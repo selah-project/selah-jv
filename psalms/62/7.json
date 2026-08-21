@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Namung Panjenengane iku karangku lan pitulungku, pangungsiku, aku ora bakal goyang.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "namung"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Panjenengane iku"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "karangku"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "lan pitulungku"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "pangungsiku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bakal goyang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:20.985033679Z",
+  "model": "glm-5.3"
+}

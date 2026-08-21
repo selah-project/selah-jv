@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Singa ngguwung — sapa sing ora wedi? Adonai Yahweh ngandika — sapa sing ora nduwèni medar sabda nabi?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "ngguwung"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "medar sabda nabi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:25.854992482Z",
+  "model": "glm-5.3"
+}

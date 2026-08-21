@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sawisé iku dibacaké ⟨את⟩ kabeh tembung-tembungé Torat, berkah lan kutuk, miturut kabeh sing kasirat ing kitab Torat.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dibacaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh tembung-tembungé Torat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembungé"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "lan kutuk"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut kabeh"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "sing kasirat"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ing kitab"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:06.325825611Z",
+  "model": "glm-5.3"
+}

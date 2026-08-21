@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Mengkene pangandikane Yahweh Tzevaot: Aku wis marani ⟨את⟩ sangandhapé sing ditindakaké Amalek marang Israël, yaiku pangrampasané ing dalan nalika Israël mingkat saka Mesir.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "mengkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Aku wis marani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sangandhapé",
+      "marks": "sangandhapé sing ditindakaké Amalek"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakaké"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "marang Israël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaiku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "pangrampasané"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ing awake"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "nalika mingkat"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mesir"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:39.448539161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lahire mundhut moso Yahweh marang Shelomo, awit atine wis mlengos saka Yahweh, Elohime Israyel, sing medhar sarira marang kawit kaping pindho.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "nindakake moso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "marang Shelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "wis mlengos"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "sing medhar sarira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang kawit"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kaping pindho"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:42.728448678Z",
+  "model": "glm-5.3"
+}

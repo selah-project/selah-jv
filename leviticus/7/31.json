@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Banjur imam ngentungi ⟨את⟩ lemaké ana ing misbaca, lan dhadha iku dadi duwéké Aharon lan anak-anaké.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ngentungi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemaké"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemaké"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ana ing misbaca"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "dhadha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "duwéké Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "lan anak-anaké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:16.028123450Z",
+  "model": "glm-5.3"
+}

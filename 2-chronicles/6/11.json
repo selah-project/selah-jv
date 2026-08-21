@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan aku nadhahi ⟨את⟩ petane ing kono, peti sing ing jerone ana prajanjianing Yahweh, sing wis Didakake marang putra-putra Israyel.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "aku nadhahi\/ngenakake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petane"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "petane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing jerone"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wis Didakake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:29.710965863Z",
+  "model": "glm-5.3"
+}

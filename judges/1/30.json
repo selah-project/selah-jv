@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Zebulun ora ngusir ⟨את⟩ para penghuni Kitron lan ⟨את⟩ para penghuni Nahalal, lan wong Kanaan manggon ana ing tengah-tengahe, lan dheweke dadi wong upeti.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para penghuni Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "para penghuni"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para penghuni Nahalal"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "para penghuni"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ana ing tengah-tengahe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dheweke dadi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "wong upeti"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:06.653350486Z",
+  "model": "glm-5.3"
+}

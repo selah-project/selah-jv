@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan kulit-kulit wedhus jantan kang wernane abrit, lan kulit-kulit takhash, lan kayu-kayu shittim;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "lan kulit-kulit"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "wedhus jantan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "kang wernane abrit"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "lan kulit-kulit"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "lan kayu-kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:43.553670191Z",
+  "model": "glm-5.3"
+}

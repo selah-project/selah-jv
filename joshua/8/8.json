@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan bakal dadi, nalika kowe padha njukuk ⟨את⟩ kutha, kowe padha ngobong ⟨את⟩ kutha karo geni; miturut sabda Yahweh kowe padha nindakake. Deleng, aku wus mrintah ⟨את⟩ kowe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "nalika kowe padha njukuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "kowe padha ngobong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "karo geni"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kowe padha nindakake"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "deleng"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "aku wus mrintah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe (para prajurit)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:06.587904255Z",
+  "model": "glm-5.3"
+}

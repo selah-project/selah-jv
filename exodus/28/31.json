@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan kowe bakal gawe ⟨את⟩ jubah efod iku wutuh saka wol biru.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan bakal gawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "wutuh"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "wol biru"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:29.947492493Z",
+  "model": "glm-5.3"
+}

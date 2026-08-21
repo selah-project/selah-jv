@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Sing nglumprangake anakmbare Mitsrayim, saka manungsa nganti sato kewan.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Sing nglumprangake"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "anakmbare"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "saka manungsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sato kewan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:35.343251505Z",
+  "model": "glm-5.3"
+}

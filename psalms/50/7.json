@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Sunge, umat-Ku, lan Ingsun bakal ngandika; eh Israil, lan Ingsun bakal ngestenake marang sira: Elohim, Elohim-mu, ⟨iya Ingsun⟩.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Sunge"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "lan Ingsun bakal ngandika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "lan Ingsun bakal ngestenake"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ingsun"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:00.176799273Z",
+  "model": "glm-5.3"
+}

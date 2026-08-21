@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Bareng sira nggarap ⟨את⟩ siti, siti iku ora arep maneh maring kakuwatane marang sira; sira bakal dadi klamprah lan nglaju ana ing bumi.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bareng\/amanat"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "nggarap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "siti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ora arep maneh"
+    },
+    {
+      "surface": "תת",
+      "gloss": "maring"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "kakuwatane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "נע",
+      "gloss": "klamprah"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "lan nglaju"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ana ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:45.555568494Z",
+  "model": "glm-5.3"
+}

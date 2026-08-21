@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Pamuja marang Yah! Sugengake ⟨wong⟩ marang Yahweh, awit ⟨ Panjenengane⟩ iku becik, awit kasihsetiane langgeng salawase.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pamuja"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Sugengake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasihsetiane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:50.767752117Z",
+  "model": "glm-5.3"
+}

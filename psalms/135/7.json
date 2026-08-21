@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Sing ndadekake uwung munggah saka wujuding bumi, guntur-guntur kanggo udan wis digawe, lan sing ngetokake angin saka pasimpenan-pasimpenané.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "ndadekake munggah"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "uwung"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "saka wujuding"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "guntur-guntur"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "kanggo udan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wis digawe"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "saka pasimpenan-pasimpenané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:35.343144937Z",
+  "model": "glm-5.3"
+}

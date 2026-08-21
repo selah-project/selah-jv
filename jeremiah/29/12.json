@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan kowe bakal ngundhang ⟨את⟩ Aku, lan lunga, lan ndedonga marang Aku, lan Aku bakal ngrungokake marang kowe.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "lan kowe bakal ngundhang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "Aku"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "lan lunga"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "lan ndedonga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "lan Aku bakal ngrungokake"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:58:27.909303574Z",
+  "model": "glm-5.3"
+}

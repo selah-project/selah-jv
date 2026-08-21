@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan banyu nutupi mungsuh-mungsuhe dheweke, dudu siji wae saka antarane sing kari",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "nutupi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "mungsuh-mungsuhe dheweke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "saka antarane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "kari"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:27.028832844Z",
+  "model": "glm-5.3"
+}

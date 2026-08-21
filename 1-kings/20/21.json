@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur ratu Israel metu, nglilani ⟨את⟩ jaran lan ⟨את⟩ kereta, lan makili Aram kanthi pukulan agung.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "banjur metu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nglilani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jaran"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "jaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kereta"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "lan makili"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pukulan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "agung"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:55.137062658Z",
+  "model": "glm-5.3"
+}

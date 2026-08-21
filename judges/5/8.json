@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 5:8",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Nalika milih elohim anyar, banjur perang ana ing gapura-gapura: apa tameng katon, apa tumbak, ing patangpuluh éwu ing Yisrael?",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "milih"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim anyar"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ana ing gapura-gapura"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tameng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "katon"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "lan tumbak"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "ing patangpuluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "éwu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:51.898163244Z",
+  "model": "glm-5.3"
+}

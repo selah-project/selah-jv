@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan ⟨את⟩ sapi wadon iku bakarna ing sangarepe: ⟨את⟩ kulite lan ⟨את⟩ daginge lan ⟨את⟩ getihe, marang taihe bakarna.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "lan bakarna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi wadon iku"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "sapi wadon iku"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "ing sangarepe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulite"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "kulite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "daginge"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "daginge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "getihe"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "taihe"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bakarna"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:49.948151828Z",
+  "model": "glm-5.3"
+}

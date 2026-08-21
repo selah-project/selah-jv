@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Dawid ngendika marang Elohim: Aku dosa banget amargi nggarap ⟨את⟩ dhawuh punika; lan sapunika, kawula nyuwun, leremna ⟨את⟩ dosanipun abdimu, awit aku bodho banget.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan-ngendika"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku-dosa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amargi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nggarap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhawuh punika"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dhawuh"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "punika"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "lan-sapunika"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "leremna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kawula nyuwun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dosanipun abdimu"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "aku-bodho"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T03:26:03.609284067Z",
+  "model": "glm-5.3"
+}

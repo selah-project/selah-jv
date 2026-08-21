@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lahir padha tindak saka Refidim, lahir teka ing ara-ara Sinai, lahir ngadek ing ara-ara; lan ing kono Yisrael ngadek ngadhepi ⟨iku⟩ gunung.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "lair padha tindak"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "saka Refidim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lair teka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "lair ngadek"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "lan ngadek"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ngadhepi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨iku⟩ gunung"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:26.722638951Z",
+  "model": "glm-5.3"
+}

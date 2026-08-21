@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "para nom-noman lan uga para pramedhi, wong tuwa bebarengan karo para enom,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "para nom-noman"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "para pramedhi"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "wong tuwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bebarengan karo"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "para enom"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:36.106864657Z",
+  "model": "glm-5.3"
+}

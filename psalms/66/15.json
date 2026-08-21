@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Kurban bakar saka kewan-kewan lemak bakal kungkaha marang kowe, bebarengan karo dupa saka domba jaler; bakal takolahake sapi lan kambing-kambing jaler. Selah",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "saka kewan-kewan lemak"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "bakal kungkaha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bebarengan karo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "saka domba jaler"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bakal takolahake"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lan\/bebarengan karo"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kambing-kambing jaler"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:49.490052519Z",
+  "model": "glm-5.3"
+}

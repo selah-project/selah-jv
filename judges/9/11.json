@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 9:11",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan wit ara-ara muwara marang wong-wong mau: Apa aku kudu migunakake ⟨את⟩ legi-legenanku lan ⟨את⟩ woh-wohanku sing apik, lan lunga goyang-goyang ing sangisore wit-witan?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lan muwara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "התאנה",
+      "gloss": "wit ara-ara"
+    },
+    {
+      "surface": "החדלתי",
+      "gloss": "Apa aku kudu migunakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legi-legenanku"
+    },
+    {
+      "surface": "מתקי",
+      "gloss": "legi-legenanku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "woh-wohanku sing apik"
+    },
+    {
+      "surface": "תנובתי",
+      "gloss": "woh-wohanku"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "sing apik"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "lan lunga"
+    },
+    {
+      "surface": "לנוע",
+      "gloss": "goyang-goyang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "wit-witan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:50:22.137469832Z",
+  "model": "glm-5.3"
+}

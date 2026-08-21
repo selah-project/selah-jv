@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Yehosua lajeng ngulunake ⟨את⟩ wong mau, lan para putra Israyel padha mangkat, saben wong menyang pusakane, kanggo nguwasani ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngulunake"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong mau"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong mau"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "padha mangkat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "menyang pusakane"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "kanggo nguwasani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:13.872843608Z",
+  "model": "glm-5.3"
+}

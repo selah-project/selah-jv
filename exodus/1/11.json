@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Dheweke nujukake panggedhe paksaan ing sadhuwure wong Israyil, supaya nandhang sasmita nganggo pangemul abot; wong Israyil yasa kutha-kutha panyimpenan kanggo Paraoh, yaiku ⟨את⟩ Pithom lan ⟨את⟩ Ramses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "nunjukake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "paksaan\/peksan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "nandhang"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "karo pangemul"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "panyimpenan"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kanggo Paraoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pithom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pithom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Ramses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Ramses"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:29.040238168Z",
+  "model": "glm-5.3"
+}

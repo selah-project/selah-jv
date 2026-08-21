@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Balanining kasusahane bali marang mustane dhewe, lan panganiyayane tiba marang pucuk sirahé dhewe.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "kasusahane"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "marang mustane"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "pucuk sirahé"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "panganiyayane"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tiba"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:31.268577452Z",
+  "model": "glm-5.3"
+}

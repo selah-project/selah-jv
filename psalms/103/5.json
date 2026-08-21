@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Sae sing maremake ⟨⟨with⟩⟩ kabecikan pepaese; bocah enommu dadi anyar maneh kaya manuk nas.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "sing maremake nganti wareg"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "pepaesmu"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "dadi anyar maneh"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kaya manuk nas"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "bocah enommu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:47.501928221Z",
+  "model": "glm-5.3"
+}

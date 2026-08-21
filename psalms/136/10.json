@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Marang sing ngantemi Mitsrajim ing anak-anaké kang mbarep, awit kasetyané langgeng salawasé.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "marang sing ngantemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ing anak-anaké kang mbarep"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:01.121619571Z",
+  "model": "glm-5.3"
+}

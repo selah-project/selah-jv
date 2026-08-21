@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan panemun panjenengan padha ndeleng, lan panjenengan padha munjuk: Agung Yahweh ing dhuwur wewatesan Israël.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "lan panemun panjenengan"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lan panjenengan"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "padha munjuk"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka dhuwur"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "wewatesan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:05.248201943Z",
+  "model": "glm-5.3"
+}

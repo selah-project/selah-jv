@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 24:50",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur Lavan lan Betuél nyaur, lan padha ngucap: Saka Yahweh ukara iki metu; ora bisa aku ngomong marang kowe ala utawa becik.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nyaur"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ובתואל",
+      "gloss": "lan Betuél"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "padha ngucap"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "saka Yahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ukara iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "bisa aku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:05.834340697Z",
+  "model": "glm-5.3"
+}

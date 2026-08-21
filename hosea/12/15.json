@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Efrayim njaluk nesu nganti gethun, lan getihe tumiba marang awake dhewe, lan cacad bali marang awake Adonai.",
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "njaluk nesu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "nganti gethun"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "lan getihe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "tumiba"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "lan cacad"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:10.954056773Z",
+  "model": "glm-5.3"
+}

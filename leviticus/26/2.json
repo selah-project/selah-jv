@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "⟨את⟩ Sabat-sabatKu padha ajagana, lan papan suciningKu padha diwedeni; Aku iki Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabat-sabatKu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabat-sabatKu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "padha ajagana"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "lan papan suciningKu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "padha diwedeni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:28.961056755Z",
+  "model": "glm-5.3"
+}

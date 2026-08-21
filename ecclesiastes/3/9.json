@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Apa kuwungane ⟨singga⟩ nggawe, ing papan endi iku diusahakake?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kuwungan"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "sing nggawe"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ing papan endi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "diusahakake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:01.112061673Z",
+  "model": "glm-5.3"
+}

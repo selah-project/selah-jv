@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Becikting pangeraning wong sing Kau dipun-didik, wahai Yah, lan saka Torat-Mu Kaupun-ngulawentah;",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Becikting pangeraning"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "Kau didik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "wahai Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "lan saka Torat-Mu"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "Kaupun-ngulawentah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:42.367249917Z",
+  "model": "glm-5.3"
+}

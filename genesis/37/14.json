@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan ia ngandika marang awake: Lungaa, muga deleng ⟨את⟩ kawarasané sedulurmu lan ⟨את⟩ kawarasané kewan-kewan iku, lan wulenana aku kabar. Mula ia ngirim awake saka lèrèng Hevron, lan ia teka ing Sikhem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lungaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "muga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "deleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawarasané sedulurmu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kawarasan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sedulurmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kawarasané kewan-kewan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kawarasan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kewan-kewan iku"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "lan wulenana aku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kabar"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "lan ngirim awake"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "saka lèrèng"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ing Sikhem"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:27.085443749Z",
+  "model": "glm-5.3"
+}

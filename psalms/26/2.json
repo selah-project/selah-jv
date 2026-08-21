@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Tatuji aku, Yahweh, lan tandha-tandhana aku; dicithak ⟨isih⟩ ginjalku lan atiku.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "tatuji aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "lan tandha-tandhana aku"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "dicithak"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjalku"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "lan atiku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:27.625072923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur Hatak teka lan ngandhakake marang Ester ⟨את⟩ tembung-tembungé Mordekhai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "lan ngandhakake"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "marang Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembungé"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembungé"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:45.270898231Z",
+  "model": "glm-5.3"
+}

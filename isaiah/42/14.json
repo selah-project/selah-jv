@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Suwé aku meneng, saka jaman kuna aku becik meneng, nahan dhiri; kaya wong nglairaké saiki aku ngluh, hosa lan mèget bareng-bareng.",
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "aku meneng suwé"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "saka jaman kuna"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "aku becik meneng"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "nahan dhiri"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kaya wong nglairaké"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "aku ngluh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "hosa"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "lan mèget"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bareng-bareng"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:29.604671335Z",
+  "model": "glm-5.3"
+}

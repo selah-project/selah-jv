@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Banjur aku sumujud ing ngarsane Yahweh suwene ⟨את⟩ patang puluh dina lan ⟨את⟩ patang puluh wengi, kaya sumujudku ing sadurunge, awit Yahweh wus ngandika arep numpes ⟨את⟩ kowe.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "banjur aku sumujud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patang puluh dina"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patang puluh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "patang puluh wengi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patang puluh"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "sumujudku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wus ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "arep numpes"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:46.390665319Z",
+  "model": "glm-5.3"
+}

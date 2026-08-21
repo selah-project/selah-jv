@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan dheweke ngendika marang wong kasebut miturut pituturing para enom, ngendika: Ramaku ndadekake ⟨את⟩ kukumu abot, lan aku bakal nambah ana ing kukumu; ramaku nglumrahira ⟨את⟩ nganggo cambuk, lan aku bakal nglumrahira ⟨את⟩ nganggo kalajengking.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan dheweke ngendika"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang wong kasebut"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "miturut pitutur"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "para enom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ramaku"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ndadekake abot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukumu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kukumu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "bakal nambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "kukumu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ramaku"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nglumrahira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ira",
+      "marks": "sira (kowe para)"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "nganggo cambuk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "bakal nglumrahira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ira",
+      "marks": "sira (kowe para)"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "nganggo kalajengking"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:15.805740310Z",
+  "model": "glm-5.3"
+}

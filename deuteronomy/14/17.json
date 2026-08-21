@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "lan si qa'at, lan ⟨את⟩ si rahama, lan ⟨את⟩ si salak",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "lan si qa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "si rahama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "si rahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "si salak"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "si salak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:10.334578535Z",
+  "model": "glm-5.3"
+}

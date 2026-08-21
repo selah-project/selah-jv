@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Angkat langkahmu marang ⟨reruntuhan⟩ langgeng, ⟨ing⟩ kabeh ala sing mungsuh nglakoni ing papan suci.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Angkat"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "langkahmu"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "reruntuhan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "langgeng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ing papan suci"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:59.102814509Z",
+  "model": "glm-5.3"
+}

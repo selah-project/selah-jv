@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Noach mlebu, bareng karo ⟨את⟩-e anak-anake lan ⟨את⟩ garwane lan ⟨את⟩ para garwane anak-anake, menyang bahtera, amarga banyune banjir gedhe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lan ... mlebu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "lan garwane"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "lan para garwane"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bareng karo",
+      "marks": "Noach lan sakabat-kabate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga\/mburi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "banyune"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "banjir gedhe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:29.771911158Z",
+  "model": "glm-5.3"
+}

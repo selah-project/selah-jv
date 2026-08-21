@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Ajuk ⟨את⟩ Aharon lan ⟨את⟩ Elazar anaké, lan dakdhut ⟨את⟩ dhèwèké munggah gunung Hor, ⟨ing⟩ gunung iku.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Ajuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨lan את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "lan dakdhut munggah"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "gunung Hor"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:16.354089226Z",
+  "model": "glm-5.3"
+}

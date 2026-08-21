@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 110,
+  "translation": "Mazmur bareng Dawid. Oracle Yahweh marang Adonai-ku: Sira lungguha ing tengen-ku, nganti takwenehna mungsuh-mungsuhmu dadi dhingklik sikile.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "bareng Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Oracle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "marang Adonai-ku"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sira lungguha"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ing tengen-ku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "takwenehna"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mungsuh-mungsuhmu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dhingklik sikil"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "kanggo sikilmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:50.301225202Z",
+  "model": "glm-5.3"
+}

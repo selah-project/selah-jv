@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Avram yuswané wolung puluh enem taun nalika Hagar nglairaké ⟨את⟩ Yishmael kanggo Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Lan Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yuswané (anak saka)"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "wolung puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan enem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "nalika nglairaké"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "kanggo Avram"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:45.052416715Z",
+  "model": "glm-5.3"
+}

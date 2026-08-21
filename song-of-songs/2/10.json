@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Dodiku wangsul lan ngandika marang aku: Tangia, lah, rencanaku, endahku, lan tindaka, lah.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "wangsul"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "dodiku"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "tangia"
+    },
+    {
+      "surface": "لך",
+      "gloss": "lah"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "rencanaku"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "endahku"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "lan tindaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:38:46.995123945Z",
+  "model": "glm-5.3"
+}

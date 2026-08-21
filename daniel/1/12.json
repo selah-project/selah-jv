@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Nyobaana mugi ⟨את⟩ abdi-abdimu suwéné sedasa dina, lan para pandum maringi aku saka wiji-wijian supaya aku madhang, lan banyu supaya aku ngombé.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "nyobaana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdimu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdimu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "suwéné dina"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sedasa"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "wiji-wijian"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "supaya aku madhang"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "lan banyu"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "supaya aku ngombé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:35.941463502Z",
+  "model": "glm-5.3"
+}

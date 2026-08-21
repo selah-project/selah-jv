@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Sapa sing bisa mènèhi — sakehe mesthi mbisu, lan iku dadi kabecikanmu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mènèhi"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "mbisu"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "kudu mbisu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo kowé"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "kabecikan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:58.651270613Z",
+  "model": "glm-5.3"
+}

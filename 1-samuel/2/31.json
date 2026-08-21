@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Iki, dina-dina arep teka lan Aku bakal ngethok ⟨את⟩ lengenmu lan ⟨את⟩ lengené bale ramamu, nganti ora ana manèh wong tua ing balemu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "באים",
+      "gloss": "arep teka"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "lan Aku bakal ngethok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lengenmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "lengenmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lengené bale ramamu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "lengené"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ramamu"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "saka-nge ana"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wong tua"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ing balemu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:56.912538536Z",
+  "model": "glm-5.3"
+}

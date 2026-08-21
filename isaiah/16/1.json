@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Kirana wedhus domba marang panguwasa ing bumi, saka Sela ing padang ara-ara, menyang redipone prawan Sion.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "kirana"
+    },
+    {
+      "surface": "כר",
+      "gloss": "wedhus domba"
+    },
+    {
+      "surface": "משל",
+      "gloss": "panguwasa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "saka Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ing padang ara-ara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "הר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "prawan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:29.095598063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Aku dhéwé bakal perang nglawan ⟨את⟩ kowé, kanthi tangan kang diunjul lan kanthi lenga kang santosa, lan ing wrasida, lan ing bebendu, lan ing getuning agung.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "lan Aku bakal perang nglawan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku dhéwé"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowé",
+      "marks": "kowé"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kanthi tangan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "kang diunjul"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "lan kanthi lenga"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kang santosa"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "lan ing wrasida"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "lan ing bebendu"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "lan ing getun"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    }
+  ],
+  "timestamp": "2026-08-21T00:56:02.716968174Z",
+  "model": "glm-5.3"
+}

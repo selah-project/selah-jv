@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan Yoab nanggap sarta ngendika: Cilaka, cilaka tumrap ing ingsun, menawa ingsun nedha utawa ngrusak.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "nanggap"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Cilaka"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tumrap ingsun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "nedha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utawa menawa"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ngrusak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:11:36.564821785Z",
+  "model": "glm-5.3"
+}

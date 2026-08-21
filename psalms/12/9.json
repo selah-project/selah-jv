@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Ing sabubare wong ala padha ngambah-ngambah, nalika kalumrahan katunggakake dening putra-putra manungsa.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ing sabubare"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "padha ngambah-ngambah"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "kalumrahan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dening putra-putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:11.580407061Z",
+  "model": "glm-5.3"
+}

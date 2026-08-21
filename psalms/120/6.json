@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 120,
+  "translation": "Suwe banget ⟨nyawaku⟩ wis manggon bareng wong seng sengit marang katentreman.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "suwe banget"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "seng sengit"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "katentreman"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:23.430630331Z",
+  "model": "glm-5.3"
+}

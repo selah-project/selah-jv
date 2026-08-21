@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan apa kowe duwe lengen kaya El? Lan apa kowe ngrogoh guntur kanthi swara kaya Dhene?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan apa menawa"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lengen"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "kaya El"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowe duwe"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "lan kanthi swara"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kaya Dhene"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "ngrogoh guntur"
+    }
+  ],
+  "timestamp": "2026-08-21T02:37:27.363946642Z",
+  "model": "glm-5.3"
+}

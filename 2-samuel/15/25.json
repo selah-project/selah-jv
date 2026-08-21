@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan ratu iku ngandika marang Tsadok: Balingana ⟨את⟩ petine Elohim menyang kutha. Yen aku oleh sih ing paningalané Yahweh, Panjenengané bakal mbalèkaké aku lan nuduhaké aku ⟨את⟩ iku lan ⟨את⟩ papan panggonané.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "marang Tsadok"
+    },
+    {
+      "surface": "השב",
+      "gloss": "balingana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petine Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "akku nemu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sih"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "lan mbalekake aku"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "lan nuduhake aku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (peti iku)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "papan panggonane"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "papan panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:02:43.119272844Z",
+  "model": "glm-5.3"
+}

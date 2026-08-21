@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Aku bakal maringi ⟨את⟩ kamulyané ⟨ing⟩ wong iki miturut pangiloné wong Mitsrajim; lan bakal kelakon, nalikané kowé mangkat, kowé ora bakal mangkat kanthi kosong.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "lan Aku bakal maringi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyané"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kamulyané"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong iki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "miturut pangiloné"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mitsrajim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal kelakon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalikané"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kowé bakal mangkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kowé mangkat"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kanthi kosong"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:58.697421594Z",
+  "model": "glm-5.3"
+}

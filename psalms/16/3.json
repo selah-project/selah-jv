@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Dhumateng para suci sing ana ing bumi — iku para kang linuwih, sedaya karepku ana ing padha.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "dhumateng para suci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iku padha"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "lan para kang linuwih"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "karepku"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing padha"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:11.002289411Z",
+  "model": "glm-5.3"
+}

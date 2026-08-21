@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Lan tangi pitung taun kelaparan sawise iku, lan bakal dilalekake kabeh kasugihan ing bumi Mitsrayim, lan kelaparan bakal numpes ⟨את⟩ ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "lan tangi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "שני",
+      "gloss": "taun"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "sawise iku"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "lan bakal dilalekake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "kasugihan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "lan bakal numpes"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:58.938342586Z",
+  "model": "glm-5.3"
+}

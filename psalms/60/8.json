@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Elohim sampun ngandika ing kasucen-Paduka: bakal bungah-bungah, bakal mbagi-bagi Shekhem, lan lembah Sukot bakal kaukur.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sampun ngandika"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ing kasucen-Paduka"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "bakal bungah-bungah"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "bakal mbagi-bagi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "lan lembah"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "bakal kaukur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:40.261859544Z",
+  "model": "glm-5.3"
+}

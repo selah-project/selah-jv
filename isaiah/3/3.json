@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Pangéran seket, wong kang munggah praupan, pangemban panembung, wong wicaksana ing kagunan, lan wong pinter ing jampi sesirep.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "pangéran"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "seket"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "lan kang munggah"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "praupan"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "lan pangemban panembung"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "lan wong wicaksana"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ing kagunan"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "lan wong pinter"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "jampi sesirep"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:18.398497110Z",
+  "model": "glm-5.3"
+}

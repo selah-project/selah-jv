@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan kabukak ⟨את⟩ kelambuning Yehudah, lan kowé ndeleng ing dina iku marang senjata omah ⟨sika⟩ wana.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Lan kabukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambuning Yehudah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kelambu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "lan kowé ndeleng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "senjata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "היער",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:39.797515193Z",
+  "model": "glm-5.3"
+}

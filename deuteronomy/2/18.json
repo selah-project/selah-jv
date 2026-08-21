@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Kowe bakal lumaku ngliwati ing dina iki ⟨את⟩ tapel wates Moab, ⟨את⟩ Ar:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dina iki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tapel wates Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tapel wates"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:22.846151033Z",
+  "model": "glm-5.3"
+}

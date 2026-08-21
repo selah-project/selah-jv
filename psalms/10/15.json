@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Bedhahana sikile wong.atos lan wong jahat; nayuhi kaluputané — ora bakal tinemu.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "bedhahana"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong.atos"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "lan wong jahat"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "nayuhi"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "kaluputané"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bakal tinemu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:02.896942129Z",
+  "model": "glm-5.3"
+}

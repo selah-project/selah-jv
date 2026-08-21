@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Mangkono uga ditindakaké marang kabeh bojoné sing wong asing, sing ngobong dupa lan ngorbahakaké marang allah-allahé dhéwé.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "mangkono uga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakaké"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang kabeh"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bojoné"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "sing wong asing"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "ngobong dupa"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "lan ngorbahakaké"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "marang allah-allahé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:54.006189262Z",
+  "model": "glm-5.3"
+}

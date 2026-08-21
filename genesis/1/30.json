@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan marang saben sato ing bumi, lan marang saben manuk ing langit, lan marang saben sing nglusus ing bumi, sing ing jeroné ana urip, ⟨aku wènèhi⟩ ⟨את⟩ saben ijo saka suket dadi pangan; lan kadadéyan mangkono.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "lan marang saben"
+    },
+    {
+      "surface": "חית",
+      "gloss": "sato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lan marang saben"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lan marang saben"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "sing nglusus"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing jeroné"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "urip"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ana urip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben ijo saka suket"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "ijo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "suket"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "dadi pangan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéyan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:12.114033884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan supaya bisa mbédakaké antarane ⟨the⟩ singsuci lan antarane ⟨the⟩ sing ora suci, lan antarane ⟨the⟩ sing tumeba lan antarane ⟨the⟩ sing resik.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "lan supaya mbédakaké"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sing suci"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "החל",
+      "gloss": "sing ora suci"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "sing tumeba"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "sing resik"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:42.607148242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Sebab kaya mangkene Yahweh wus ngandika: sanadyan tawanane sing gagah bakal dijupuk, lan jarahané sing nganiaya bakal kaluputan; lan ⟨את⟩ sing nantumu Aku kang bakal nantun, lan ⟨את⟩ anak-anakmu Aku kang bakay nulungi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wus ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sanadyan"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "tawanane"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sing gagah"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "lan jarahané"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "sing nganiaya"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bakal kaluputan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sing nantumu"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "sing nantumu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "nantun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anak-anakmu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "nulungi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:47.631566309Z",
+  "model": "glm-5.3"
+}

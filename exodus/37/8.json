@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Kerub siji ing ujung ing sisih kiwa, lan kerub siji ing ujung ing sisih liyane; saka panutup mau dheweke gawe ⟨את⟩ kerub-kerub mau, ing kalorone ujunge.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ing ujung"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "saka sisih kiwa"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "lan kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ing ujung"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "saka sisih liyane"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "panutup mau"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dheweke gawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerub-kerub mau"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ing kalorone"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ujunge"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:53.610490144Z",
+  "model": "glm-5.3"
+}

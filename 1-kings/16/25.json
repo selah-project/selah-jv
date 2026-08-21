@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 16:25",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Omri nindakake ala ing sangarepe Yahweh, lan ngelakoni luwih ala katandhing kabeh sing ing ngarepe.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing mripate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "lan ngelakoni ala"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "katandhing kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarepe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:03.524287955Z",
+  "model": "glm-5.3"
+}

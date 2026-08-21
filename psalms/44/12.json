@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Kowe menehi awake ⟨kita⟩ kaya domba dadi panganan, lan ing antarane bangsa-bangsa Kowe nyebarake awake ⟨kita⟩.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Kowe menehi awake kita"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kaya domba"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "dadi panganan"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "lan ing antarane bangsa-bangsa"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "Kowe nyebarake awake kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:26.900819455Z",
+  "model": "glm-5.3"
+}

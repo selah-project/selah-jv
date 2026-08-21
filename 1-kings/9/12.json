@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Khiram metu saka Tsor arep ndeleng ⟨את⟩ kutha-kutha kang diparingake Shelomoh marang panjenengane, nanging ora endah ing paningale.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Khiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "saka Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arep ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha-kutha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diparingake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "endah"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ing paningale"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:20.423523714Z",
+  "model": "glm-5.3"
+}

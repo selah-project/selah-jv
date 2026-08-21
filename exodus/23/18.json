@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Ora kowé nyembelih getahé kurban-ingsun ing dhuwuring rotya sing wis asem, lan ora kalawan bengi murah-murahé pestan-ingsun nganti ésuk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "kowé nyembelih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwuring"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "sing wis asem"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getah"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurban-ingsun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "kalawan bengi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "pesta-ingsun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ésuk"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:03.533791159Z",
+  "model": "glm-5.3"
+}

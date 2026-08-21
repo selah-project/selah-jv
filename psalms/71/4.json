@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Allahku, luputna aku saka tangané wong ala, saka panceké wong cidra lan wong kang ngrampas.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Allahku"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "luputna aku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "saka panceké"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "wong cidra"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "lan wong kang ngrampas"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:38.090620393Z",
+  "model": "glm-5.3"
+}

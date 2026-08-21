@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Dadine ⟨para⟩ anake dadi yatim, lan bojone dadi randa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "dadine"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "lan bojone"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "randa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:33.247825650Z",
+  "model": "glm-5.3"
+}

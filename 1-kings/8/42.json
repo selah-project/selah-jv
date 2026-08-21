@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "awit dheweke krungu ⟨את⟩ jenengmu sing agung, lan ⟨את⟩ astamu sing kukuh, lan lengenmu sing didawakake, banjur teka matur marang bale iki —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "dheweke krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenengmu sing agung"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jenengmu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "sing agung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "astamu sing kukuh"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "astamu"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "sing kukuh"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "lan lengenmu"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "sing didawakake"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "matur (ndedonga)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:16.786816094Z",
+  "model": "glm-5.3"
+}

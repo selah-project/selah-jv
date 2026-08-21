@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Lahira, saka cangkeme tukune ⟨tembung⟩, pedhang ana ing lambe-lambene; awit 'Sapa sing ngrungokake?'",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lahira"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "tukune"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "saka cangkeme"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "ana ing lambe-lambene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sing ngrungokake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:46.667997649Z",
+  "model": "glm-5.3"
+}

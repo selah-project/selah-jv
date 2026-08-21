@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Apa dudu kowé ⟨sijiné⟩ sing nggaringaké segara, banyuning juru-juru agung; sing nggawé paleming segara dadi dalan, supaya wong katulisen padha bisa liwat?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "apa-dudu"
+    },
+    {
+      "surface": "את",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨sijiné⟩"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "sing-nggaringake"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "מי",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "juru-juru"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "agung"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "sing-nggawe"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "palemipun"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "kanggo-liwat"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "wong-katulisen"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:18.479873635Z",
+  "model": "glm-5.3"
+}

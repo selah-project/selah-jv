@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan panjenengane ndokok ⟨את⟩ prabajengka ing kemah papatan, ngadhep ⟨the⟩ pasrahan, ing sisih kemah suci sisih kidul.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ndokok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prabajengka"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "prabajengka"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ing kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "papatan"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ngadhep"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "pasrahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisih (pupu)"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah suci"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "menyang kidul"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:52.062409841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Elohim marem manunggal karo ⟨את⟩ bocah iku, lan dheweke tambah dhuwur, lan dumunung ing ara-ara samun, lan dadi panembak jemparing.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah iku"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bocah iku"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "lan tambah dhuwur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan dumunung"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara samun"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "panembak tambah trampil"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "jemparing"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:16.699933722Z",
+  "model": "glm-5.3"
+}

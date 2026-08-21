@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Ing Elohim kita memuji sadina muput, lan asma-Mu kita syukurake nganti salawas-lawase. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ing Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "kita memuji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadina muput (kabeh)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "lan asma-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "kita syukurake"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:26.900246363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Dadi wong asing aku ing antarane sedulur-sedulurku, lan dadi wong liya marang anak-anak ibuku.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "dadi wong asing"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku dadi"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "marang sedulur-sedulurku"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "lan dadi wong liya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang anak-anak"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:15.828230774Z",
+  "model": "glm-5.3"
+}

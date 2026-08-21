@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Marang Kowe, Kowe piyambak aku ndosa, lan piala ing paningalMu nglakoni, supaya Kowe kalilan bener ing pangandikaMu, resik ing pancasanMu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Marang Kowe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Kowe piyambak"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku ndosa"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "lan piala"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ing paningalMu"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "kalilan bener"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ing pangandikaMu"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "resik"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "ing pancasanMu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:41.577750503Z",
+  "model": "glm-5.3"
+}

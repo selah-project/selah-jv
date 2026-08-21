@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan ana-ane Yaakov mangsuli ⟨את⟩ Shekhem lan ⟨את⟩ Khamor bapakne kanthi tipu, lan padha ngendika, awit dhèwèké wis ngrusuhi ⟨את⟩ Dinah sadulur wadone.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "lan padha mangsuli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ana-ane"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Khamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "kanthi tipu"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "lan padha ngendika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "wis ngrusuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "sadulur wadone"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:36.623369371Z",
+  "model": "glm-5.3"
+}

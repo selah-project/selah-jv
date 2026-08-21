@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Dhawuha marang sedulur-sedulurmu: 'Ammi (umat-Ku)', lan marang sadulur-sadulurmu wadon: 'Rukhamah (sing kinasiyan).'",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Dhawuha"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "marang sedulur-sedulurmu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (umat-Ku)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "lan marang sadulur-sadulurmu wadon"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamah (sing kinasiyan)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:32.519419778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim maringi ⟨את⟩ Daniel kasayangan lan welas asih ing ngarsane pangarsane para kasim.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "kasayangan"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "welas asih"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangarsa"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "para kasim"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:35.940722020Z",
+  "model": "glm-5.3"
+}

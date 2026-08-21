@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Padha ngertiana, sira sing dungu ing antarane umat, lan sira sing bodho — nganti kapye sira bakal byang?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Padha ngertiana"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "sira sing dungu"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ing antarane umat"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "lan sira sing bodho"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nganti kapye"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "bakal byang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.019639416Z",
+  "model": "glm-5.3"
+}

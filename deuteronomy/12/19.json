@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Ati-ati marang awakmu, supaya aja nganti kowé ninggalake ⟨את⟩ bani Lewi, sadawaning umurmu ing nglampahi bumi darmamu.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ati-ati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang awakmu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya aja nganti"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "kowé ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Lewi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "bani Lewi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadawaning"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "umurmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "bumi darmamu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:31.820382535Z",
+  "model": "glm-5.3"
+}

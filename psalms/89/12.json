@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Duduke Kowe langit, uga duduke Kowe bumi; têbel lan isi-isine, Kowe sing nêpungi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "duduke Kowe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "duduke Kowe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "têbel"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "lan isi-isine"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "nêpungi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:23.861907636Z",
+  "model": "glm-5.3"
+}

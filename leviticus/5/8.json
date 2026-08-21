@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan nggawa ⟨את⟩ kuwi marang sang imam, banjur mènèhaké ⟨את⟩ sing kanggo kurban dosa kapisan, lan nyapu ⟨את⟩ sirahé saka ngarepé gegeré lan aja ngapura dipisahaké.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "lan nggawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kuwi",
+      "marks": "marang sang imam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "banjur mènèhaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing kanggo kurban dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kanggo kurban dosa"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "lan nyapu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahé (rosho)"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "saka ngarepé"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "gegeré"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ngapura dipisahaké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:41.545426522Z",
+  "model": "glm-5.3"
+}

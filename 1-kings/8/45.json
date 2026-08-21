@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "lalan padha ngrungokake ing sangisoring langit ⟨את⟩ pandongane lan ⟨את⟩ panyuwune, lan nindakake putusane.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "lalan padha ngrungokake"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ing sangisoring langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pandongane"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "pandongane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panyuwune"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "panyuwune"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "putusane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:11.502126759Z",
+  "model": "glm-5.3"
+}

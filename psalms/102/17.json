@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Awit Yahweh wis ngadegake Tzion, ⟨dhewe⟩ wis katon ing kamulyane",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wis ngadegake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "wis katon"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "ing kamulyane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:33.051457462Z",
+  "model": "glm-5.3"
+}

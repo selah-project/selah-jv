@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Dawid lan ⟨the⟩ wong akèh sing ⟨את⟩ karo dhèwèké padha mundhakaké ⟨את〉 swarane, lan padha nangis nganti ora ana manèh ketegane ing jiwané kanggo nangis.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "padha mundhakaké"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "lan wong akèh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ karo dhèwèké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarane"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "lan padha nangis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pungkasane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing jiwané padha"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ketegane"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "kanggo nangis"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:44.618460464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan Avraham njulurake ⟨את⟩ tangane, lan njupuk ⟨את⟩ piso supaya nyembelih ⟨את⟩ anakne.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan njulurake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piso"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "piso"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "supaya nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakne"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakne"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:11.347064475Z",
+  "model": "glm-5.3"
+}

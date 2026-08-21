@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sebab bumi bakal kebak kanggo ngerti ⟨את⟩ kamulyané Yahweh, kaya banyu kang nutupi segara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "bakal kebak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kanggo ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyané Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "kang nutupi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    }
+  ],
+  "timestamp": "2026-08-21T01:34:11.538793186Z",
+  "model": "glm-5.3"
+}

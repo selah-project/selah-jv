@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Elohim nuwuhaké satru marang awake: ⟨את⟩ Rezon putra Elyada, sing ngungsi saka ⟨את⟩ Hadadezer ratu Tsobah, bendarane.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nuwuhaké"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ngungsi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsobah"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bendarane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:16.745086729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Nèlèt ilatku ing langit-langit tutukku, yen aku ora èling marang Kowé, yen aku ora ngunggahaké ⟨את⟩ Yerushalayim ana ing dhuwur bungahingsun.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "nèlèt"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ilatku"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "langit-langit tutukku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "èling marang Kowé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ngunggahaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "bungahingsun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:52.708717398Z",
+  "model": "glm-5.3"
+}

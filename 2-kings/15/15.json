@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 15:15",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Sisa perkara Shallum lan pangepuné, sing dipunéwahi, pirsanèn, katulis ana ing kitab sejarah para raja Israél.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "וקשרו",
+      "gloss": "lan pangepuné"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "dipunéwahi"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "pirsanèné"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "katulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sejarah (perkara)"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:01.206758166Z",
+  "model": "glm-5.3"
+}

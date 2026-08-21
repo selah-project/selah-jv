@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Bareng kabeh wong sing sengit marang aku bisik-bisik nglawan aku; nglawan aku dheweke nggamalake ala marang aku.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Bareng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nlawan aku"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "bisik-bisik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wong sing sengit marang aku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nlawan aku"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "nggamalake"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:55.831910921Z",
+  "model": "glm-5.3"
+}

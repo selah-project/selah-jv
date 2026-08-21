@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "⟨את⟩ ⟨the⟩ aron lan ⟨את⟩ galah-galahe, ⟨את⟩ ⟨the⟩ kaporet, lan ⟨את⟩ kelambu panutup.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "⟨the⟩ aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "galah-galahe"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "galah-galahe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "⟨the⟩ kaporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kelambu panutup"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "kelambu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "panutup"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:01.647326399Z",
+  "model": "glm-5.3"
+}

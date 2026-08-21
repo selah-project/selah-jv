@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Kamulyan saka kamahaagungan-Mu iku tak reremake, lan babagan paédah-Pu sing-gumbarang tak aturake.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kamahaagungan-Mu"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "lan babagan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "paédah-Pu sing-gumbarang"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "tak reremake \/ tak aturake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:29.152364888Z",
+  "model": "glm-5.3"
+}

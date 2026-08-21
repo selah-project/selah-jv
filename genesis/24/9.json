@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur sang abdi ngetokake ⟨את⟩ tangane sangisore pupu Avraham bendarane, lan sumpah marang dheweke bab prakara iki.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sang abdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "pupu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bendarane"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "lan sumpah"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "על",
+      "gloss": "bab"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "prakara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:37.092116735Z",
+  "model": "glm-5.3"
+}

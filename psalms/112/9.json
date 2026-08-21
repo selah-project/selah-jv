@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Wong bener iku nyebar, maringi wong mlarat; kabenerane ngadeg salawas-lawase; tanduke bakal dhuwur ing kamulyan.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "nyebar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kabenerane"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "tanduke"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "dhuwur"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ing kamulyan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:07.403460047Z",
+  "model": "glm-5.3"
+}

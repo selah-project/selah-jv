@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Yahweh Elohimmu bakal mulihake ⟨את⟩ kasunyatansira, lan welas asih marang sira, lan bakal bali lan nglumpukake sira saka kabeh para bangsa, sing ngambahake sira Yahweh Elohimmu ana ing kono.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "lan bakal mulihake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasunyatansira"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "kasunyatansira"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "lan welas asih marang sira"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "lan bakal bali"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "lan nglumpukake sira"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka kabeh"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "ngambahake sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ana ing kono"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:40.900988357Z",
+  "model": "glm-5.3"
+}

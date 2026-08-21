@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Akhimaats, ing Naftali; dhasare ⟨הוּא⟩ uga njupuk ⟨את⟩ Bosmat putrine Shelomoh dadi garwa.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akhimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "ing Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrine"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi garwa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:32.619661195Z",
+  "model": "glm-5.3"
+}

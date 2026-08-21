@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aja wedi marang dheweke; elinga kudu ngelingi ⟨את⟩ sing wis dilakoni Yahweh Elohimira marang Parao lan marang kabeh Mesir —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "elinga"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "kudu ngelingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing wis dilakoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wis dilakoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "marang Parao"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lan marang kabeh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:52.945963779Z",
+  "model": "glm-5.3"
+}

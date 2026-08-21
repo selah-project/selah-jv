@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Praenana ⟨את⟩ dina sabat kanggo ngucapake, kaya kang wis diprentahake Yahweh Elohim-mu marang kowé.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Praenana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina sabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kanggo ngucapake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "diprentahake marang kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:23.000097205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Ben-Deker, ing Makaṡ, lan ing Sya'albim, lan Bet-Syemesy, lan Elon Bet-Hanan;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "ing Makaz"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "lan ing Syaalbim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "lan Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Syemesy"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "lan Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:16.988901548Z",
+  "model": "glm-5.3"
+}

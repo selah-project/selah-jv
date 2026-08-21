@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Amarga bangsa lan karaton sing ora ngabdi sira bakal telenesi, lan bangsa-bangsa iku rug-rungus bakal karuwan kabeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "lan karaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "ngabdi sira"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bakal telenesi"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "lan bangsa-bangsa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "rug-rungus"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "bakal karuwan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:47.175913407Z",
+  "model": "glm-5.3"
+}

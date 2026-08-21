@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Nanging Kowé, Yahweh Adonai, tumindaka ⟨את⟩ dhumateng aku Kanggo adhiné Asma-Mu, awit becik kasetyan-Mu, ngluwari aku.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Nanging Kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tumindaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "dhumateng aku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "Kanggo adhiné"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Asma-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasetyan-Mu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ngluwari aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:41.677775158Z",
+  "model": "glm-5.3"
+}

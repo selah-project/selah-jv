@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Aja tinggalake ⟨dheweke⟩, banjur ⟨dheweke⟩ bakal nyaga kowe; tresnani ⟨dheweke⟩, banjur ⟨dheweke⟩ bakal nglindhungi kowe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "tinggalake dheweke"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "banjur bakal nyaga kowe"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "tresnani dheweke"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "banjur bakal nglindhungi kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:12.402693502Z",
+  "model": "glm-5.3"
+}

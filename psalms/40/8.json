@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Banjur aku munjuk: lah, aku teka; ana ing gulungan kitab katulis bab aku.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku munjuk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aku teka"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "ana ing gulungan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "katulis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bab aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:57.998095424Z",
+  "model": "glm-5.3"
+}

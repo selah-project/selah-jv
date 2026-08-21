@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Aja mangan sembarang barang sing menjijikake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sembarang"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "barang sing menjijikake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:14.911708984Z",
+  "model": "glm-5.3"
+}

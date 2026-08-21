@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Aja ndadekake ⟨את⟩ abdimu wadon iki minangka putrane wong ala, awit saka kaluwihaning susah-susah lan nesuku aku nganti saiki ngendika.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ndadekake ... minangka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdimu wadon iki"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "abdimu wadon iki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "minangka ... ing ngarsa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "saka kaluwihaning"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "susah-susah"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "lan nesuku"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku ... ngendika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "saiki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:05.172956271Z",
+  "model": "glm-5.3"
+}

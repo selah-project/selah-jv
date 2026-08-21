@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku dadi kanca kabeh wong sing wedi marang panjenengan, lan para sing ngestokake prekat-prekat-Mu.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "kanca"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "wedi marang panjenengan"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "lan para sing ngestokake"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "prekat-prekat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:26.487859480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Elohim, tembang anyar tak-kidhungake marang sira; klawu nebel kas-songodhasan tak-gendhingake marang sira.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "tak-kidhungake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "klawu nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "kas-songodhasan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "tak-gendhingake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:23.842235510Z",
+  "model": "glm-5.3"
+}

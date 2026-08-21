@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Dheweke ndeleng marang Panjenengane lan padhang Rainé, lan praupane ora bakal wirang.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "dheweke ndeleng"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang Panjenengane"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "lan padhang"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "lan praupane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "bakal wirang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:38.686990297Z",
+  "model": "glm-5.3"
+}

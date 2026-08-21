@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Sing nglestarekake uripmu saka julang pati, sing makuthani kowe kasetyan lan kalongohan",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "sing nglestarekake"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "saka julang pati"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "uripmu"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "sing makuthani kowe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "lan kalongohan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:31.596371085Z",
+  "model": "glm-5.3"
+}

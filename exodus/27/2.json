@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan sira bakal nggawe sungune ana ing papat pojoke; sungune kudu saka awake dhewe, lan sira bakal ngelapisi ⟨את⟩ karo tombage.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan sira bakal nggawe"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sungune"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "papat"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "pojoke"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka awake dhewe"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "kudu dadi"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sungune"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "lan sira bakal ngelapisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "karo tombage"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tombage"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:22.839157663Z",
+  "model": "glm-5.3"
+}

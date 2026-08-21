@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Dheweke gegesai, banjur ngambutake kendhile menyang palungangan, lan miliha mbalik menyang tuk kanggo nyedhot banyu, lan nyedhot banyu tumrap kabeh onta-ontene.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "dheweke gegesai"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "banjur ngambutake"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kendhile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "palungangan"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "lan miliha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "kanggo nyedhot banyu"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "lan nyedhot banyu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tumrap kabeh"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "onta-ontene"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:50.158665113Z",
+  "model": "glm-5.3"
+}

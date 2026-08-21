@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Yahweh maringi ⟨את⟩ kamulyané wong mau ing paningalan para Mitsrite, sarta padha nglilakake marang wong; mangka padha njupuk barangé ⟨את⟩ para Mitsrite.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "lan Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyané wong mau"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kamulyan (pawiyosing ati)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong mau"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "para Mitsrite"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "sarta padha nglilakake marang wong"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "mangka padha njupuk barangé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Mitsrite"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "para Mitsrite"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:11.226532222Z",
+  "model": "glm-5.3"
+}

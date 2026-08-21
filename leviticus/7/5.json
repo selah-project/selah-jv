@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan sang imam bakal ngebedakake ⟨את⟩-e ing péwaking kurban, kurban obor marang Yahweh; iku kurban salah.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "lan bakal ngebedakake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sang imam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ing péwaking kurban"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kurban obor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kurban salah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:00.522943055Z",
+  "model": "glm-5.3"
+}

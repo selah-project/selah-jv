@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Sangaté Yahweh mituturi kasetyan-Né wayah awan, lan wayah wengi tembangé ana ing satenganahku, dadi pandonga marang El uripku.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "wayah awan"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "mituturi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyan-Né"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "lan wayah wengi"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "tembangé"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ana ing satenganahku"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "donga"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "marang El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uripku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:51.480375464Z",
+  "model": "glm-5.3"
+}

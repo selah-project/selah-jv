@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Sing ndeling bumi banjur geter; sing ndedemake gunung-gunung, banjur kebul.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Sing ndeling"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "banjur geter"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "sing ndedemake"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "banjur kebul"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:56.189836738Z",
+  "model": "glm-5.3"
+}

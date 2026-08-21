@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Tindaking Dewi-dewi David. Condhoake kupinge, Yahweh, lan nglilani aku, awit ala-papa lan cincur aku.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tindaking Dewi-dewi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Condhoake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kupinge"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "nglilani aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ala-papa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "lan cincur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:52.322704106Z",
+  "model": "glm-5.3"
+}

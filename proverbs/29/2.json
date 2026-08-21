@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Nalika wong-wong bener saya akeh, bangsa padha bungah; nalika wong jahat jumeneng panguwasa, bangsa padha ngedhem ati.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "saya akeh"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong-wong bener"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "padha bungah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "jeneng panguwasa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "padha ngedhem ati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:55.520139562Z",
+  "model": "glm-5.3"
+}

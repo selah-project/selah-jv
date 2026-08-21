@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan ⟨את⟩ sagara iku siji, lan ⟨את⟩ lembu iku rolas ing sangisore sagara iku",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sagara iku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara iku"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lembu iku"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu iku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ro-las (loro)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-puluh (sepuluh)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:03.873474522Z",
+  "model": "glm-5.3"
+}

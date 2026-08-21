@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan getih apa wae aja kok mangan, ing saben panggonanmu, saka manuk lan saka kewan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lan ... apa wae"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kowe mangan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "panggonanmu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "saka manuk"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "lan saka kewan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:18.028853865Z",
+  "model": "glm-5.3"
+}

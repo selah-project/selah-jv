@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Ing Elohim kita bakal nindakake kaluhuran, lan Panjenengane bakal ngremukake mungsuh-mungsuh kita.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ing Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kita bakal nindakake"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan Panjenengane"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "bakal ngremukake"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "mungsuh-mungsuh kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:56.887157956Z",
+  "model": "glm-5.3"
+}

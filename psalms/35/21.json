@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lawa cangkeme awake dhewe marang aku, padha ngucap: Heah, heah, mataku wis ndeleng.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "padha ngeluwari"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "padha ngucap"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heah"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "wis ndeleng"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mataku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:55.355566095Z",
+  "model": "glm-5.3"
+}

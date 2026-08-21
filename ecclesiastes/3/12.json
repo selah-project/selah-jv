@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Aku wis weruh yen ora ana becik ing awake dhewe, kajaba mung bungah lan nindakake becik ing sauntase urip.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku wis weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing awake dhewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajaba mung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mung"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "ו לעשות",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ing sauntase urip"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:01.112830408Z",
+  "model": "glm-5.3"
+}

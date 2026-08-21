@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan dheweke nggawa munggah saka kana ⟨את⟩ balunge Saul lan ⟨את⟩ balunge Yehonathan putrane, lan padha nglumpukake ⟨את⟩ balunge wong-wong sing dicacak.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nggawa munggah"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balunge"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "balunge"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "balunge"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "balunge"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "lan padha nglumpukake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balunge"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "balunge"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "sing dicacak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:14.390316521Z",
+  "model": "glm-5.3"
+}

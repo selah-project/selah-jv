@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Kowé ndadèkaké kami dadi dhasanama ing antarané bangsa-bangsa, dadi geleng-gelenge sirah ing antarané para umat.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Kowé ndadèkaké kami"
+    },
+    {
+      "surface": "משל",
+      "gloss": "dhasanama"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing antarané bangsa-bangsa"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "geleng-geleng"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ing antarané"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "para umat"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:35.633847429Z",
+  "model": "glm-5.3"
+}

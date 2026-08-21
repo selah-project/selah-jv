@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Banjur bani Israél ndedhelakake ⟨את⟩ rerenggané saka ing gunung Khoréb.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ndedhelakake \/ nyopot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rerenggané"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "rerenggané"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "saka ing gunung"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Khoréb"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:57.751078726Z",
+  "model": "glm-5.3"
+}

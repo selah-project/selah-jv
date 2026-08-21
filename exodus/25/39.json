@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Sak kakar (talenta) emas murni bakal digawe ⟨את⟩ iku, ⟨את⟩ kabeh piranti-piranti iki.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "sak kakar (talenta)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakal digawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (menorah)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh piranti-piranti iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "piranti-piranti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:40.838886928Z",
+  "model": "glm-5.3"
+}

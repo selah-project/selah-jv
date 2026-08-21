@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan bare ngandika: Undanga wong wadon iku. Bare ngundanga, lan wong wadon iku ngadeg ing lawang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "undanga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wong wadon iku"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "bare ngundanga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "wong wadon iku"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "lan ngadeg"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ing lawang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:43.278653142Z",
+  "model": "glm-5.3"
+}

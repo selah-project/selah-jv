@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Apa manèh, ing sajroning ati kok nindakake kaluputan; ing bumi kekarosan tanganmu kok timbangan.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "apa manèh"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ing sajroning ati"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "kok nindakake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekarosan"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "kok timbangan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:51.736059209Z",
+  "model": "glm-5.3"
+}

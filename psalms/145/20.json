@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Njaga Yahweh ⟨את⟩ kabeh kang ndhemeni Panjenengane, lan ⟨את⟩ kabeh wong ala Bencaraké.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Njaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh kang ndhemeni Panjenengane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "kang ndhemeni Panjenengane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh wong ala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "Bencaraké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:50.593442035Z",
+  "model": "glm-5.3"
+}

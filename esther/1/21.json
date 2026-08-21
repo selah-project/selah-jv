@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 1:21",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan perkara iku endah ing paningal sang ratu lan para pangéran, banjur sang ratu nindakake miturut sabda Memukhan.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "lan iku endah"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara iku"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "lan para pangéran"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "banjur nindakake"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut sabda"
+    },
+    {
+      "surface": "ממוכן",
+      "gloss": "Memukhan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:07.276879946Z",
+  "model": "glm-5.3"
+}

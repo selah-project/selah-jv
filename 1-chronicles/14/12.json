@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan padha ninggalake ing kono ⟨את⟩ allah-allahe, banjur Dawud ngandika, lan kabeh karoban geni.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "padha ninggalake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allah-allahé"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah-allahé"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "padha diobong"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    }
+  ],
+  "timestamp": "2026-08-21T03:22:14.218179076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Padhang pangonan ara-ara ngêtreni ⟨é⟩, lan bukit-bukit ngiket awaké kupi karo suka.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "ngêtreni"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "padhang pangonan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "suka"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukit-bukit"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "ngiket awaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:56.356014098Z",
+  "model": "glm-5.3"
+}

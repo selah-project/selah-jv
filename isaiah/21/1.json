@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Pangembaning wedhar sagara. Minangka prahara ing dhaerah kidul lumampah, saka wedhar ⟨את⟩ iku teka, saka bumi sing medheni.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pangembaning"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wedhar"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "minangka prahara"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ing dhaerah kidul"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "lumampah"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "saka wedhar"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "sing medheni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:21.444062570Z",
+  "model": "glm-5.3"
+}

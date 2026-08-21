@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan aja nindesa, saben wong marang ⟨את⟩ kanca sakbarepe, nanging padha bektia marang Allahmu, awit Aku iki Yahweh Elohimmu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "nindesa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca sakbarepe"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "kanca sakbarepe"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "nanging padha bektia"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "marang Allahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:05.766180810Z",
+  "model": "glm-5.3"
+}

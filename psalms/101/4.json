@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 101,
+  "translation": "Ati kang mlengkung bakal sumingkiran saka aku; ala ora dak kenal.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "mlengkung"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "baka sumingkiran"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "dakkenal"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:37.530963090Z",
+  "model": "glm-5.3"
+}

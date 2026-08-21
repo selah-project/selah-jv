@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur Yahweh medhar ana ing ngarepe, ing pasanggran Mamre, sawise dheweke lungguh ing cedhak lawang khemah, ing anggone panas ing dinane.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "medhar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ana ing ngarepe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "ing pasanggran"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "sawise dheweke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lungguh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "cedhak lawang"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "ing anggone panas"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dinane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:19.659716369Z",
+  "model": "glm-5.3"
+}

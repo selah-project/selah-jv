@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 143,
+  "translation": "Lan marga saka sih-Mu prangana mungsuh-mungsuhku, lan musnata kabeh mungsuh jiwa-ku, awit aku iku abdi-Mu.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Lan marga saka sih-Mu"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "prangana"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mungsuh-mungsuhku"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "lan musnata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:35.887958941Z",
+  "model": "glm-5.3"
+}

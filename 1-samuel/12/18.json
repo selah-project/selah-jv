@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur Shemuel nyeru Yahweh, lan Yahweh menehi swara lan udan ing dina iku; banjur sakabehing wong padha wedi banget marang ⟨את⟩ Yahweh lan ⟨את⟩ Shemuel.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur nyeru"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan menehi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "swara (guntur)"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "lan udan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "banjur padha wedi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:16.296323475Z",
+  "model": "glm-5.3"
+}

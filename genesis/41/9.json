@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Banjur panggedhe para juru picis matur ⟨את⟩ Paroh, ngendika: ⟨את⟩ dosaku dak elingake dina iki.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "banjur matur"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "para juru picis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dosaku"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "dak elingake"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:33.981418628Z",
+  "model": "glm-5.3"
+}

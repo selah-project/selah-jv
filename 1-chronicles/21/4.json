@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Nanging sabda ratu mau ngungkuli Yoab, banjur Yoab mangkat, padha nitipadi ing sapérangané Israël kabèh, banjur teka ing Yérusalém.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "nanging sabda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ngungkuli\/atos"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "banjur mangkat"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "padha nitipadi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing kabèh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yérusalém"
+    }
+  ],
+  "timestamp": "2026-08-21T03:25:56.839033973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Yehudah lan Yisrael padha manggon kalawan aman, saben wong ing sangisore anggure lan ing sangisore wit ara-ara, saka Dan nganti Beer-Sheba, sadawan mangsa utawise Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "padha manggon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "lan Yisrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kalawan aman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "anggure"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "lan ing sangisore"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "wit ara-are"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "saka Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadawan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "utawise"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:46.741728237Z",
+  "model": "glm-5.3"
+}

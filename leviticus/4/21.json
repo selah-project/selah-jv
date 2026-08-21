@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan ⟨dheweke⟩ bakal ngetokake ⟨את⟩ sapi mau menyang njaba sandhingan, lan bakal ngobong ⟨את⟩ iku kaya dene ngobong ⟨את⟩ sapi kapisan; korban dosa umat kumpul iku.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "lan ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi mau"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi mau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "njaba"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sandhingan"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "lan ngobong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iku",
+      "marks": "iku (sapi mau)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ngobong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi kapisan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "umat kumpul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:11.086368985Z",
+  "model": "glm-5.3"
+}

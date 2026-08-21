@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 6:19",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Elisyahu ngandika marang dheweke: Iki dudu dalane, lan iki dudu kuthane. Mruwu mana, lan kula bakal tuntun ⟨את⟩ sira marang jaler sing sira goleki. Banjur dheweke nuntun ⟨את⟩ dheweke menyang Shomeron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisyahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan dudu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kuthane"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mruwu mana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mara murih kula"
+    },
+    {
+      "surface": "ואוליכה",
+      "gloss": "kula tuntun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "jaler"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תבקשון",
+      "gloss": "sira goleki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nuntun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dheweke"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "menyang Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:25:23.178070425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan supaya nglunturi warih-warisane ing antarané para bangsa, sarta nyebarake padha ing tanah-tanah liya.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "lan supaya nglunturake tiba"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "warih-warisane"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing antarané para bangsa"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "sarta supaya nyebarake padha"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ing tanah-tanah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:24.304394569Z",
+  "model": "glm-5.3"
+}

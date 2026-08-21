@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": " Becik lan jejeg ⟨yaiku⟩ Yahweh; amarga saka iku Panjenengane mulangake wong-wong dosa ing dalan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Becik"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "lan jejeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "mulangake"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "wong-wong dosa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:24.505644360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 7:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Ing taun kaping nematus, taun uripé Noach, ing sasi kaping loro, ing dina pitulas walik sasi iku, ing dina iki kabeh sumbering teleng agung padha belah, lan jendhélané langit padha k abukak.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "uripé"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kaping loro"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "las walik"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "padha belah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "sumbering"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "teleng"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "agung"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "lan jendhélané"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "padha kabukak"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:21.404168523Z",
+  "model": "glm-5.3"
+}

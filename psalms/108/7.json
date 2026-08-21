@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 108,
+  "translation": "Supaya para kinasih-Mu padha diluwari; slametna kalawan tangan tengen-Mu, lan wurukana aku.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "padha diluwari"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "para kinasih-Mu"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "slametna"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan tengen-Mu"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "lan wurukana aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:54.877568372Z",
+  "model": "glm-5.3"
+}

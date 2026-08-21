@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Maha welas marang aku, Yahweh; deleng kasusahanku saka tangané panggetihku, Kang mundhakake aku saka gapura-gapura pati.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Maha welas marang aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "deleng"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kasusahanku"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "saka tangané panggetihku"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "Kang mundhakake aku"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "saka gapura-gapura"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pati"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:43.129278756Z",
+  "model": "glm-5.3"
+}

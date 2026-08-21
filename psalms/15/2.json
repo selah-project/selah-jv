@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Sing lumaku kalawan becik tur nggawe kabenaré, lan ngucap kesetiahan ana ing atiné.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kalawan becik tur sampurna"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "lan nggawe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabenaré"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kesetiahan"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "ana ing atiné"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:01.176315613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Aku ndhug sumur lan ngombé banyu, lan kanthi tapak sikilku Aku nggaringaké kabéh kali-kali Matzor.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "ndhug"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "lan ngombé"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "lan Aku nggaringaké"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "kanthi tapak"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "sikilku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabéh"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matzor"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:14.510688436Z",
+  "model": "glm-5.3"
+}

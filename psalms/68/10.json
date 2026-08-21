@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Udan palilah Elohim nguncalake; ing dhasar sampéyan wis lelah, Kowe madhegake.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "Udan"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "palilah"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "nguncalake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ing dhasar sampéyan"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "wis lelah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "madhegake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:36.214090081Z",
+  "model": "glm-5.3"
+}

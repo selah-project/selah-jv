@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 110,
+  "translation": "Saka ilining banyu ing dalan panjenengane ngombe; amarga saka iku panjenengane ngunggahake sirah.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "saka ilining banyu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "panjenengane ngombe"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga ing"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "panjenengane ngunggahake"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:49.253468251Z",
+  "model": "glm-5.3"
+}

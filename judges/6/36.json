@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 6:36",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Gidyon munjuk marang ⟨the⟩ Elohim: yen Kowe iya ngluwari ⟨את⟩ Israil marga tanganku, kaya dene Sabdane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩ Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "Kowe iya"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "marga tanganku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Sabdane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:45.167500283Z",
+  "model": "glm-5.3"
+}

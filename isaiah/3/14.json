@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Yahweh bakal teka ing pangadilan karo para sesepuhing umate lan para panggedene; lan kowe wis ngrusaki ⟨את⟩ kebon anggur; rampasaning wong miskin ana ing omah-omahmu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ing pangadilan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuhing"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "lan para panggedene"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lan kowe"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "wis ngrusaki"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "kebon anggur"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "rampasaning"
+    },
+    {
+      "surface": "העני",
+      "gloss": "wong miskin"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "ana ing omah-omahmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:48.280185941Z",
+  "model": "glm-5.3"
+}

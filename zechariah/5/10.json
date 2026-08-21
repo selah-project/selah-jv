@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Banjur dak-wuwuh marang malaikat sing ngandika ing aku: dhuh, mengko teka arep menawa ⟨את⟩ eifah iku?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "banjur dak-wuwuh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaikat iku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sing ngandika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dhuh"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "padha nggawa lunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eifah iku"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eifah iku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:46.926671507Z",
+  "model": "glm-5.3"
+}

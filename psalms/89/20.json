@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Nalika iku Kowé ngandika ing pangilon marang para kawulané sing setya, lan ngandika: Aku wis ndhèrèkké pitulung marang kang santosa, Aku wis ngunggahké wong pilihan saka antarané umat.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Nalika iku"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Kowé ngandika"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "ing pangilon"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "marang para kawulané sing setya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "Aku wis ndhèrèkké"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pitulung"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kang santosa"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "Aku wis ngunggahké"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "wong pilihan"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "saka antarané umat"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:43.117480985Z",
+  "model": "glm-5.3"
+}

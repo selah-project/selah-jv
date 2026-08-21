@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Iki para putrane Ham, miturut kluwangane dhewe-dhewe, miturut ilaté (basa) dhewe-dhewe, ing nagarané dhewe-dhewe, ing pasuguhane dhewe-dhewe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut kluwangane dhewe-dhewe"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "miturut ilaté (basa) dhewe-dhewe"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ing nagarané dhewe-dhewe"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ing pasuguhane dhewe-dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:33.018907050Z",
+  "model": "glm-5.3"
+}

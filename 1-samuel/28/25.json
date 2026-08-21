@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan dheweke ngaturake ⟨את⟩ sangisore Shaul lan sangisore para abdine, lan padha mangan; banjur padha bangkit lan padha mangkat ing wengi iku.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "lan dheweke ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sangisore Shaul lan sangisore para abdine"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "lan sangisore"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdine"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "lan padha mangan"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "banjur padha bangkit"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lan padha mangkat"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:45.678027638Z",
+  "model": "glm-5.3"
+}

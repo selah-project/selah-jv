@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Nyawa sing wareg ngidak-idak ⟨⟨saré⟩⟩ madu, lan nyawa sing luwe sabarang sing pait dadi manis.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sing wareg"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "ngidak-idak"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "saré madu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "lan nyawa"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "sing luwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "מר",
+      "gloss": "sing pait"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "dadi manis"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:38.217652502Z",
+  "model": "glm-5.3"
+}

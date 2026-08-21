@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Abdimu kula inggih; paringana pangerten dhateng kula, supados kula mangertosi pasaksinipun.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kula"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "paringana pangerten dhateng kula"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "supados kula mangertosi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "pasaksinipun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:32.503044580Z",
+  "model": "glm-5.3"
+}

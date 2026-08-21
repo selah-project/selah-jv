@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Manuk-ing langit lan iwak-ing segara, sing padha ngliwati dalan-dalaning segara.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "lan iwak"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "dalan-dalan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "segara"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:13.817814348Z",
+  "model": "glm-5.3"
+}

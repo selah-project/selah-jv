@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan bareng Dawid wus rampung ngunggahake kurban obong lan kurban slamet, iku nberkahi ⟨את⟩ wong akeh kudu ing asma Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "lan wus rampung"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "saka ngunggahake"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban obong iku"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "lan kurban slamet iku"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan nberkahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong akeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:23:29.050019179Z",
+  "model": "glm-5.3"
+}

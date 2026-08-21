@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Dheweke ngirimi saka ing dhuwur, njupuk aku, narik aku metu saka banyu-banyu sing akèh.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Dheweke ngirimi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "saka ing dhuwur"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "njupuk aku"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "narik aku metu"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "saka banyu-banyu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sing akèh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:14.538195412Z",
+  "model": "glm-5.3"
+}

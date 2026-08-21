@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Agungake Yahweh ⟨את⟩ karo aku, lan bareng kita munggahake asmané sesarengan.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Agungake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ karo aku"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "lan bareng kita munggahake"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sesarengan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:01.697405957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan putra-putrane Gomer: Askenaz, Difat, lan Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan putra-putrane"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Askenaz"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "Difat"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "Togarma"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:29.026010058Z",
+  "model": "glm-5.3"
+}

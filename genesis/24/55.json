@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur kangmasé lan ibuné padha munjuk: Ana prayogane kenya iku manggon kula ⟨את⟩ sawetara dina utawa sapuluh dina; sawisé iku dhèwèké lunga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur padha munjuk"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "kangmasé"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lan ibuné"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "kenya iku"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ (karo kula)",
+      "marks": "kula"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sawetara dina"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sawisé iku"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "dhèwèké lunga"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:22.568070509Z",
+  "model": "glm-5.3"
+}

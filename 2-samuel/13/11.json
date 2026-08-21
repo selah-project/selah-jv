@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 13:11",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lah deweke ngadhegake marang Amnon supaya dipangan, banjur Amnon nyekel ⟨את⟩ deweke lan ngandika marang deweke: \"Saa, tunggu karo kula, adhi kula.\"",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "lah deweke ngadhegake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang Amnon"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "supaya dipangan"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "banjur nyekel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨את⟩ deweke",
+      "marks": "deweke (Tamar)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang deweke"
+    },
+    {
+      "surface": "בואי",
+      "gloss": "saa"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "tunggu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "karo kula"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "adhi kula"
+    }
+  ],
+  "timestamp": "2026-08-21T04:46:51.120670658Z",
+  "model": "glm-5.3"
+}

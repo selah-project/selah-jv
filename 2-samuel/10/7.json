@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lanjur Dawid krungu kabar iku, lajr ngutus ⟨את⟩ Yoab lan ⟨את⟩ sadhengah wadya para wong gagah iku.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lajr krungu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lajr ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sadhengah wadya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadhengah"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wadya"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "para wong gagah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:03.116384136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 67,
+  "translation": "Elohim ngapunana aku, lan ngunuwungi aku, muni pasuryane marang aku ⟨את⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ngapunana aku"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "lan ngunuwungi aku"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "muneni"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "pasuryane"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:31.662114833Z",
+  "model": "glm-5.3"
+}

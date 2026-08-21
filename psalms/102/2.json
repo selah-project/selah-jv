@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Yahweh, muga ngrungokaké patrapku, lan jeritku marang sira teka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "muga ngrungokaké"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "patrapku"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "jeritku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "teka"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:29.448992882Z",
+  "model": "glm-5.3"
+}

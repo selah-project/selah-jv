@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku wis nindakake kaadilan lan kabanaran; aja lirwakna aku marang para panindhasku.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "aku wis nindakake"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kaadilan"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "lan kabanaran"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "lirwakna aku"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "marang para panindhasku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:16.494750382Z",
+  "model": "glm-5.3"
+}

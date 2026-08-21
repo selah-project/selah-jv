@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Ing dina sangsaraku aku ngunjukake sira, awit sira mangsuli aku.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sangsaraku"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "aku ngunjukake sira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "sira mangsuli aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:34.563632756Z",
+  "model": "glm-5.3"
+}

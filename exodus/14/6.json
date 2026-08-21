@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Banjur Paroh iya masangi ⟨את⟩ kereta-kertane, lan ⟨את⟩ wadyabalane dinawa bareng.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "masangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kereta-kertane"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kereta-kertane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wadyabalane"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wadyabalane"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dinawa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:49.658862804Z",
+  "model": "glm-5.3"
+}

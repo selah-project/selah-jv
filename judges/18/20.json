@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Atine Sang imam dadi bungah, banjur dijupuk ⟨את⟩ efod lan ⟨את⟩ terafim lan ⟨את⟩ patung pahatan, lan lumebu ing tengahing wong akèh iku.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "dadi bungah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Sang imam"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "patung pahatan"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "patung pahatan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan lumebu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:55:06.096558606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 113,
+  "translation": "Dadi lumuh ⟨⟨dipuji⟩⟩ asma Yahweh, saka saiki nganti sansaya.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "dipuji"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "saka saiki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sansaya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:26.751302991Z",
+  "model": "glm-5.3"
+}

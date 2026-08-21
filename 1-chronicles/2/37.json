@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Zabad nampa keturunan ⟨את⟩ Efral, lan Efral nampa keturunan ⟨את⟩ Obed.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "lan Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nampa keturunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efral"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Efral"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "lan Efral"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nampa keturunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:42.914719575Z",
+  "model": "glm-5.3"
+}

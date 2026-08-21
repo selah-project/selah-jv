@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lanjur ngendika, \"Aja diganggu; aja ana wong ngusik balung-baluonge.\" Mula balung-baluonge ora kena usik, kalisikake bareng ⟨את⟩ balunge nabi sing teka saka Shomeron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "aja diganggu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "karo dheweke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "ngusik"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "balung-baluonge"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "kalisikake"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "balung-baluonge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balunge nabi"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "balunge"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "saka Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:12.684852524Z",
+  "model": "glm-5.3"
+}

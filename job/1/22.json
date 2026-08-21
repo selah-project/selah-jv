@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Ing sadawaning kabeh iki Ayub ora dosa, lan ora menehi kaluputan marang ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ing sadawaning kabeh"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "menehi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T02:19:59.714092863Z",
+  "model": "glm-5.3"
+}

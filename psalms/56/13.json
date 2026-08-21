@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 56,
+  "translation": "Marang aku, ya Elohim, ana nazar-nazarmu; kubayar panembah-syukur marang sira.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nazar-nazarmu"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "kubayar"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "panembah-syukur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:36.748983168Z",
+  "model": "glm-5.3"
+}

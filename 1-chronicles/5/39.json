@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Syalum nitahake ⟨את⟩ Hilkiyah, lan Hilkiyah nitahake ⟨את⟩ Azaryah;",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "lan Syalum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkiyah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkiyah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "lan Hilkiyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:39.987749954Z",
+  "model": "glm-5.3"
+}

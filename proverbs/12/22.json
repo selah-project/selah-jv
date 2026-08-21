@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lathi goroh iku suci-dudu ing paningal Yahweh, nanging kang padha nindakake kasetyan iku karemenane.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "suci-dudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lathi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "lan kang nindakake"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "karemenane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:34.197770499Z",
+  "model": "glm-5.3"
+}

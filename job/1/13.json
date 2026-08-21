@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ana ing sawijining dina, para putrane lan para putrine padha mangan lan ngombe anggur ing omahé kakange sing mbarep.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan ana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "para putrine"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "padha mangan"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "lan padha ngombe"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing omahé"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "kakange"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "sing mbarep"
+    }
+  ],
+  "timestamp": "2026-08-21T02:21:02.527838569Z",
+  "model": "glm-5.3"
+}

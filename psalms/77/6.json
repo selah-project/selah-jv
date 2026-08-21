@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Aku ngati-ati dina-dina ing ngarep, taun-taun jaman kuna.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "aku ngati-ati"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ing ngarep\/kuna"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "taun-taun"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "jaman kuna"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:08.112705472Z",
+  "model": "glm-5.3"
+}

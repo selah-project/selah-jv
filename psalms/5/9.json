@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Yahweh, pandhengaku ing kaluhuran-Mu jalaran para mungsuhku; ndadekake lurus ing ngarsane aku dalan-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "pandhengaku"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ing kaluhuran-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "para mungsuhku"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "ndadekake lurus"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane aku"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "dalan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:57.391670859Z",
+  "model": "glm-5.3"
+}

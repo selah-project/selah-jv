@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 40:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Moshe ngedegaké ⟨את⟩ Mishkan, nglebokaké ⟨את⟩ saka-sakané, masang ⟨את⟩ papan-papané, nglebokaké ⟨את⟩ palang-palangé, lan ngedegaké ⟨את⟩ saka-sakaké.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngedegaké"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nglebokaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka-sakané (alas papane)"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "saka-sakané (alas papane)"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "masang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papané"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "papan-papané"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nglebokaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palangé"
+    },
+    {
+      "surface": "בריחיו",
+      "gloss": "palang-palangé"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ngedegaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka-sakaké (pilar-pilare)"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "saka-sakaké (pilar-pilare)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:31.238951561Z",
+  "model": "glm-5.3"
+}

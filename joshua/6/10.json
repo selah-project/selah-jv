@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan ⟨את⟩ wong wong iku didhawuhi Yehosua, kanthi mangkene: Aja padha munyara, aja nganti krungu swaramu, aja ana ⟨את⟩ tembung metu saka cangkemme, nganti ing dinane ngora marang kowe: Munyara! banjur padha munyara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong wong iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong wong iku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "didhawuhi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kanthi mangkene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "padha munyara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "nganti krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swaramu"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "swaramu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "saka cangkemme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "nora"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Munyara!"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "banjur padha munyara"
+    }
+  ],
+  "timestamp": "2026-08-20T23:42:10.490797911Z",
+  "model": "glm-5.3"
+}

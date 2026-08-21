@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Pitung taun umuré Yehoash nalika ⟨dheweke⟩ jumeneng ratu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "umuré"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "nalika jumeneng ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:31.840566708Z",
+  "model": "glm-5.3"
+}

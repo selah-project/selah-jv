@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 6:17",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan dheweke nggawa ⟨את⟩ petungané Yahweh lan ngadegake ⟨אתו⟩ ing panggonané, ing tengahé kemah sing didhirikaké David kanggo iku; lan David nitahaké munggah kurban bakaran ing ngarsané Yahweh sarta kurban slamet.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lan dheweke nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petungané Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petungan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויצגו",
+      "gloss": "lan ngadegaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "ing panggonané"
+    },
+    {
+      "surface": "במקומו",
+      "gloss": "ing panggonané"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahé"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "didhirikaké"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo iku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lan nitahaké munggah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "sarta kurban slamet"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:39.002855390Z",
+  "model": "glm-5.3"
+}

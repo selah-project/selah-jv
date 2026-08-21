@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sebab labané luwih becik tinimbang dagueping perak, lan pituwasé luwih ⟨becik⟩ tinimbang emas murni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "labané"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "dagueping"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "lan tinimbang emas murni"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "pituwasé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:05.464144723Z",
+  "model": "glm-5.3"
+}

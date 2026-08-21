@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Akhaz nurunake ⟨את⟩ Yarha; lan Yarha nurunake ⟨את⟩ Alemet lan ⟨את⟩ Azmawet lan ⟨את⟩ Zimri; lan Zimri nurunake ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Lan Akhaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarha"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Yarha"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "lan Yarha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Azmawet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "lan Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-08-21T03:20:25.625730044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Ora bakal kendho lan ora bakal remuk, nganti panjenengane ndadekake kukum ing bumi, lan pulo-pulo ngenteni torate.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "kendho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "remuk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ndadekake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kukum"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "lan torate"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulo-pulo"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "ngenteni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:53.571338524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Aja dadi nesu banget, Yahweh, lan aja ing salawasé ngelingi dosa; lah, mangga deleng, iki umat-Mu kabeh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "dadi nesu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ing salawasé"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ngelingi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lah"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "deleng"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kabeh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:42.416896734Z",
+  "model": "glm-5.3"
+}

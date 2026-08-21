@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan Elohim ngandika ⟨את⟩ saben tembung-tembung iki, ngucap:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben tembung-tembung iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:42.852671497Z",
+  "model": "glm-5.3"
+}

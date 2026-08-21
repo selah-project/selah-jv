@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Para wong ala masang jerat kanggo aku, lan saka prentahmu aku ora nyimpang.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "masang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "para wong ala"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "lan saka prentahmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "nyimpang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:17.743578153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Yahweh ngendika marang Moshe: Ngendikaa marang Aharon: Undhurana ⟨את⟩ tongkatmu lan pidhera ⟨את⟩ lemithing bumi, lan bakal dadi kutu ing sabubaring bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ... ngendika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Ngendikaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Undhurana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatmu"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tongkatmu"
+    },
+    {
+      "surface": "והך",
+      "gloss": "lan pidhera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemithing bumi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lemithing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "kutu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sabubaring"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:38.890016787Z",
+  "model": "glm-5.3"
+}

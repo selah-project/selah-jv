@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Timbangan ⟨saka⟩ penipuan iku begjining Yahweh, nanging watu timbangan sing wutuh iku kesenan-e.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "timbangan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penipuan"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "begji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "lan watu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "sing wutuh"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "kesenan-e"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:39.262507272Z",
+  "model": "glm-5.3"
+}

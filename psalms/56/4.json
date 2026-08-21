@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 56,
+  "translation": "Ing dina angger aku wedi, aku bakal praya marang Panjenengan.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "angger aku wedi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Panjenengan"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "bakal praya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:27.971613567Z",
+  "model": "glm-5.3"
+}

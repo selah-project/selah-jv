@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sebab Yerushalayim wis tumbang lan Yehuda wis tiba, amarga ilate lan panggaweane marang Yahweh, kanggo ngeselake mripate kamulyane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "wis tumbang"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "lan Yehuda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "wis tiba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilate"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "lan panggaweane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "kanggo ngeselake"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mripate"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamulyane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:33.206810684Z",
+  "model": "glm-5.3"
+}

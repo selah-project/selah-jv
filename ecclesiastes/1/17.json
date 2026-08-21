@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur ak·wenehake atiku kanggo ngerti kawicaksanan, lan ngerti kalingsiran lan konyolan; aku ngerti yèn uga iki iku pangepé angin.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "banjur ak·wenehake"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kanggo ngerti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kawicaksanan"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "lan ngerti"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "kalingsiran"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "lan konyolan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku ngerti"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "yèn uga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "pangepé"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:21.030969646Z",
+  "model": "glm-5.3"
+}

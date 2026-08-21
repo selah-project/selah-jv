@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 110,
+  "translation": "Ngadili ⟨ing⟩ para bangsa, ngebakake layu, numpes sirah ing ⟨saka⟩ bumi sing jembar.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ngadili"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing para bangsa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ngebakake"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "layu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "numpes"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "jembar"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:57.702633629Z",
+  "model": "glm-5.3"
+}

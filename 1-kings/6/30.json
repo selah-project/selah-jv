@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan ⟨את⟩ lanté pasewakan iku dilapisi emas, ing njero lan ing jaba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lanté pasewakan"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "lanté"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "pasewakan"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "dilapisi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ing njero"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "lan ing jaba"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:14.630120300Z",
+  "model": "glm-5.3"
+}

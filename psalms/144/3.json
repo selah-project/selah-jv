@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Yahweh, apa manungsa nganti Paduka pirsa dhèke? Anakipun manungsa fana nganti Paduka ngetung dhèke?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "nganti Paduka pirsa dhèke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Anakipun"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa fana"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "nganti Paduka ngetung dhèke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:55.173110008Z",
+  "model": "glm-5.3"
+}

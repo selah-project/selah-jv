@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan Yahweh ngluwari ⟨את⟩ Yisrael ing dina iku saka tanganing Mitsrayim, lan Yisrael weruh ⟨את⟩ Mitsrayim wis mati ing pinggiring segara.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Lan ngluwari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tanganing"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan weruh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wis mati"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "pinggiring"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:06.064613091Z",
+  "model": "glm-5.3"
+}

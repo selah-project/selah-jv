@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Sebab ⟨dheweke⟩ ora percaya ing Elohim, lan ora percaya marang pitulungan-⟨e⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ing Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "percaya (ndhedher)"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "marang pitulungan-e"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:44.894140462Z",
+  "model": "glm-5.3"
+}

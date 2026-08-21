@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "kang Paduka tindakake marang abdi Paduka Dawit bapakku, ⟨את⟩ kang Paduka wujudake marang dhèwèké; lan Paduka ngendika nganggo cangkeme, lan nganggo tangane Paduka nindakake, kaya dina iki.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "Paduka tindakake\/njaga"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "marang abdi Paduka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawit"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapakku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Paduka wujudake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Paduka wujudake\/ngendika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "lan Paduka ngendika"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "nganggo cangkeme"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "lan nganggo tangane"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "nindakake\/ngemot"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaya dina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:01.733778250Z",
+  "model": "glm-5.3"
+}

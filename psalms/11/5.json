@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Yahweh nimbang ⟨the⟩ wong adil; déné wong nirpata lan kang seneng pakedahan, jiwané ⟨dhéwé⟩ gething.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong adil"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "nimbang"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "lan wong nirpata"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "lan kang seneng"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "pakedahan"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "gething"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jiwané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:50.784689120Z",
+  "model": "glm-5.3"
+}

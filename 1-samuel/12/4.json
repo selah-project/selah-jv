@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan padha ngandika: Kowé ora ngepidana aku, lan ora ngegremuk aku, lan ora njupuk saka astane wong lanang apa-apa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Lan padha ngandika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "ngepidana aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ngegremuk aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka astane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apa-apa"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:24.147395229Z",
+  "model": "glm-5.3"
+}

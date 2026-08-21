@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 113,
+  "translation": "Pamuja marang Yah! Pamujaa, para abdi Yahweh, pamujaa ⟨את⟩ asma Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pamujaa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pamujaa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pamujaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:26.751103992Z",
+  "model": "glm-5.3"
+}

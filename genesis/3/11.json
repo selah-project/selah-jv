@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ⟨Ia⟩ ngandika: \"Sapa sing makluk marang kowé yèn kowé wuda? Apa kowé wis mangan saka wit iku, sing dakprentahaké kowé aja mangan saka iku?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "makluk"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "wuda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Apa... saka"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "wit iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "dakprentahaké kowé"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aja"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "kowé wis mangan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:30.499268196Z",
+  "model": "glm-5.3"
+}

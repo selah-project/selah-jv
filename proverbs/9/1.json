@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Hikmah wis yasa ⟨את⟩ omahé; ngukir sapuruhé — pitu.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Hikmah"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "ngukir"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "sapuruhé"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:52.572538832Z",
+  "model": "glm-5.3"
+}

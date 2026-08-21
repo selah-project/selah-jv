@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Kagungané Dawid mazmur. Kangge Yahweh ⟨ing⟩ bumi lan kasugihane, jagat lan sing padha manggon ing ⟨jeroné⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kagungané Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kangge Yahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "lan kasugihane"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "jagat"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "lan sing padha manggon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing ⟨jeroné⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:50.270872176Z",
+  "model": "glm-5.3"
+}

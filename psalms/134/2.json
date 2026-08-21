@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 134,
+  "translation": "Angkatana asta suci sira, lan mligi ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "angkatana"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "asta sira"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "lan mligi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:31.964638553Z",
+  "model": "glm-5.3"
+}

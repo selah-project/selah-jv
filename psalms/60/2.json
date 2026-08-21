@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Nalika awake dhewe tanding ⟨את⟩ Aram-Naharayim lan ⟨את⟩ Aram-Tsobah, lan Yoab wangsul lan nglumpati ⟨את⟩ Edom ing Lebak Uyah — kalih welas éwu.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "nalika awake dhewe tanding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Aram-Tsobah"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsobah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan wangsul"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lan nglumpati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ing Lebak"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Uyah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kalih"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "welas"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "éwu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:48.112052692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Nalika dheweke kadhaftar, keluar minangka wong sing salah, lan pangapunuwun-e dadi dosa.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "nalika kadhaftar"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "keluar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "minangka wong sing salah"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "lan pangapunuwun-e"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:31.327657440Z",
+  "model": "glm-5.3"
+}

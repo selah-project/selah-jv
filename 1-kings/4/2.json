@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan iki para pangulu sing duduke dheweke: Azaryahu bin Tsadok, sang imam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pangulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duduke dheweke"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:57.685913226Z",
+  "model": "glm-5.3"
+}

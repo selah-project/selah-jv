@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan ia njenengi ⟨את⟩ jenenge Yosef, muriya muni, Mugi Yahweh nambahake marang aku putra liya.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "lan ia njenengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenenge"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "muriya muni"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "mugi nambahake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:12.631944244Z",
+  "model": "glm-5.3"
+}

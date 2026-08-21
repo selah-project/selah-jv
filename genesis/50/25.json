@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Lan Yosef dhaweke supaya sumpah ⟨את⟩ para putra Israil, ngendika: mesthi Elohim ngunjukani kowé, lan kowé kudu nggawa munggah ⟨את⟩ balungku saka ing kene.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "lan dhaweke supaya sumpah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putra Israil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mesthi ngunjukani"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ngunjukani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowé"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "lan kowé kudu nggawa munggah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balungku"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "balungku"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "saka ing kene"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:05.829499214Z",
+  "model": "glm-5.3"
+}

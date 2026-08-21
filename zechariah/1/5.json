@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Leluhurmu — ing ngendi dheweke? Lan para nabi, apa salawase urip?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "leluhurmu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ing ngendi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "lan para nabi"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "salawase"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "urip"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:50.417304307Z",
+  "model": "glm-5.3"
+}

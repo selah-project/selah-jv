@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Kaya banyu aku kacèthakaké, lan kabèh balungku kapisah-pisah; atiku dadi kaya lilin, lebuh ing sajroning wetengku.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "aku kacèthakaké"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "kapisah-pisah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "balungku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kaya lilin"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "lebuh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "wetengku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:51.340153118Z",
+  "model": "glm-5.3"
+}

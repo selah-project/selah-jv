@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 101,
+  "translation": "Mataku marang wong-wong setya ing ⟨the⟩ bumi, supaya padha manggon ngedherekake aku; sing lumaku ing dalan sampurna, iku bakal ngabdi marang aku.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mataku"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "wong-wong setya ing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "supaya manggon"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ngedherekake aku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sampurna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ngabdi marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:13.981146877Z",
+  "model": "glm-5.3"
+}

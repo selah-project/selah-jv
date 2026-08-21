@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Nyanyia lagu anyar marang Yahweh, memujine saka wujuding bumi, sira para sing mudhun ing segara lan kang isi, pulo-pulo lan kang ndunungi.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "nyanyia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "memujine"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "saka wujuding"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "para sing mudhun ing"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "lan kang isi"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulo-pulo"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "lan kang ndunungi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:38.131007432Z",
+  "model": "glm-5.3"
+}

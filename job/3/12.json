@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kena ta dhengkul ndhisiki nampèni aku, lan kena ta ana susu, nganti aku nyusu?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "kena ta"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "ndhisiki nampèni aku"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "dhengkul"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan kena ta"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "susu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "aku nyusu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:06.235527735Z",
+  "model": "glm-5.3"
+}

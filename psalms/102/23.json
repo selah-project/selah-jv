@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Nalika para bangsa kaimpun bebarengan, lan karajan-karajan, kanggo ngabdi marang ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "nalika kaimpun"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "lan karajan-karajan"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kanggo ngabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:49.472409074Z",
+  "model": "glm-5.3"
+}

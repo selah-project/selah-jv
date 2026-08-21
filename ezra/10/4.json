@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Ngadega, awit babaram iku ana ing kangmu, lan kita padha karo kowe; anteb manahmu lan tumindaka.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ngadega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ana ing kangmu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "babaram iku"
+    },
+    {
+      "surface": "ו אנחנו",
+      "gloss": "lan kita"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "padha karo kowe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "anteb manah"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lan tumindaka"
+    }
+  ],
+  "timestamp": "2026-08-21T03:08:05.186437465Z",
+  "model": "glm-5.3"
+}

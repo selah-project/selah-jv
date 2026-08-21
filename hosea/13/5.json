@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Aku ngerti sliramu ing ara-ara, ing bumi pangrasa-tuwa",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ngerti sliramu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "pangrasa-tuwa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:16.089573051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Dina-dina-e dadi sethitik, lan kalungguhan-e dijupuk wong liya.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dina-dina-e"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "sethitik"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "kalungguhan-e"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wong liya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:31.327787674Z",
+  "model": "glm-5.3"
+}

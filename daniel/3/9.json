@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Padha matur lan ngandika marang Nebukhadnetsar ratu: Deng, ratu, mugi tansah urip!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "padha matur"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "marang Nebukhadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Deng, ratu"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "urip"
+    }
+  ],
+  "timestamp": "2026-08-21T02:56:40.598561045Z",
+  "model": "glm-5.3"
+}

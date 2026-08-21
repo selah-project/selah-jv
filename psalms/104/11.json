@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Padha ngombèni kabèh sato ing padesan; jaran alas nambut ngelaké.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "padha ngombèni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "sato"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "padesan"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "nambut"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "jaran alas"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ngelaké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:21.237352672Z",
+  "model": "glm-5.3"
+}

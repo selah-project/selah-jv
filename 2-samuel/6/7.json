@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 6:7",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur murub getuné Yahweh marang Uzza, lan Elohim nglilir ⟨את⟩ ing kono amarga kaluputané; lan piyanté mati ing kono, ing sedhélaing tabuté Elohim.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "banjur murub getuné"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ireng (getun)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "marang Uzza"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "lan nglilir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piyanté (Uzza)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "השל",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lan mati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ing sedhélane"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:28.151486286Z",
+  "model": "glm-5.3"
+}

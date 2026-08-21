@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Yahweh sumpah marang David kanthi setya, ora bakal wuruk saka iku: saka wohing guwa garbane, Takdhadekake ana ing kursi kagem sliramu.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kanthi setya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wuruk"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "saka wohing"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "guwa garbane"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Takdhadekake"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ana ing kursi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kagem sliramu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:05.641987149Z",
+  "model": "glm-5.3"
+}

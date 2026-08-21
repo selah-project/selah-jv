@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Bangsa sangar praupané, sing ora ngangkat praupané marang wong tuwa, lan ora welas-asih marang enom.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "Bangsa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sangar"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "praupané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "praupané"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "marang wong tuwa"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "lan marang enom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "welas-asih"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:08.563925975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 79,
+  "translation": "Wisku menehi ⟨את⟩ layange abdi-abdi-Mu dadi panganan kanggo manuk-manuk langit, daginge wong setia-Mu kanggo sato saka bumi.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "wisku menehi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "layange abdi-abdi-Mu"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "layange"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdi-Mu"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "dadi panganan"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "kanggo manuk-manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daginge"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "wong setia-Mu"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "kanggo sato"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:22.854888073Z",
+  "model": "glm-5.3"
+}

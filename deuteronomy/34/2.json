@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan ⟨את⟩ sadaya wilayahe Naftali, lan ⟨את⟩ bume Efrayim lan Manasye, lan ⟨את⟩ sadaya bume Yehuda, nganti segara sing ⟨paling⟩ kulon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sadaya wilayahe Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bume Efrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "lan Manasye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sadaya bume Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "sing paling kulon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:43.952614461Z",
+  "model": "glm-5.3"
+}

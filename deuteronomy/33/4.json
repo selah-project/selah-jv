@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Toret kang diprintahake marang kita ⟨is⟩ dening Moshe, dadi darbeaning pasamuwan Yaakov.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Toret"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diprintahake"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "dadi darbeaning"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:28.789885546Z",
+  "model": "glm-5.3"
+}

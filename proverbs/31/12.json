@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Awaké nindakake kabecikan, dudu ala, sedina-dina kauripane.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "awaké nindakake (kabecikan marang)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina-dina (kabeh)"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "kauripane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:14.440728588Z",
+  "model": "glm-5.3"
+}

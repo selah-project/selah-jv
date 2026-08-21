@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Kanggo kang ngaturake, miturut Nehilot, mazmur kangge Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo kang ngaturake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "miturut ⟨kanggo⟩"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kangge Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:26.781849837Z",
+  "model": "glm-5.3"
+}

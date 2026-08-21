@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan panjenengane ngetung ⟨את⟩ kurban bakare lan ⟨את⟩ sesajene, lan angunjukake ⟨את⟩ sesembahane, lan mrimisi ⟨את⟩ getihe kurban slamet sing duweke dhewe ing sadhuwure mezbah.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ngetung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakare"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kurban bakare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sesajene"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "sesajene"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "anjukake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesembahane"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "sesembahane"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "mrimisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "kurban slamet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duweke"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:21.769794383Z",
+  "model": "glm-5.3"
+}

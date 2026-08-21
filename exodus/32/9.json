@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Yahweh ngandika marang Moshe: Aku wis ndeleng ⟨את⟩ bangsa iki, lan Lah, iki bangsa kang atos ⟨iku⟩ gulune.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku wis ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan Lah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "atos"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "gulune"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:25.864982413Z",
+  "model": "glm-5.3"
+}

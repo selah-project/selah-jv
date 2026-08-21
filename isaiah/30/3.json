@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan bakal dadi kanggo kowé bètènge Paroh dadi wirasat, lan palindungan ing pangayoming Mitsrayim dadi cidra.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Lan bakal dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo kowé"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "bètènge"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "dadi wirasat"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "lan palindungan"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ing pangayoming"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "dadi cidra"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:23.347619744Z",
+  "model": "glm-5.3"
+}

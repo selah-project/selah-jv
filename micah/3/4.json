@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur bakal padha njerit marang Yahweh, nanging Panjenengane ora bakal nangsuli ⟨את⟩ dheweke; lan ndelikake raine saka ing kono ing wektu iku, awit wis padha ngelakoni ala ing pakarine.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "bakal padha njerit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora bakal"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "nangsuli"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke (para pemimpin)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "lan ndelikake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "raine"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "saka ing kono"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "wis padha ngelakoni ala"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ing pakarine"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:16.860744643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Dadi pasewa-bentenge padha sepi, lan ing jedhing-e padha aja ana sing manggon.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Dadi"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "pasewa-bentenge"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "padha sepi"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "ing jedhing-e padha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sing manggon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:15.989653892Z",
+  "model": "glm-5.3"
+}

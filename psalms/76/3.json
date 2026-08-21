@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 76,
+  "translation": "Banjur dadi ing Shalem padhangané, lan papan panggonané ing Tzion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur dadi"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ing Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "padhangané"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "lan papan panggonané"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ing Tzion"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:23.090948544Z",
+  "model": "glm-5.3"
+}

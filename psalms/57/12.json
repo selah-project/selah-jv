@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Dhuwuhna dhewe, dhuwur ⟨the⟩ langit, Elohim; marang ⟨the⟩ sadaya bumi kamulyan-Mu.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "dhuwuhna dhewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhuwur"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨the⟩ langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamulyan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:07.435026733Z",
+  "model": "glm-5.3"
+}

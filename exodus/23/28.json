@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Bakal Kukirim ⟨את⟩ tawon ing ngarsanira, lan bakal ngusir ⟨את⟩ wong Hivi, ⟨את⟩ wong Kanaan, lan ⟨את⟩ wong Het saka ngarsanira.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Lan Bakal Kukirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawon"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tawon"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsanira"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "lan bakal ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "wong Hivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Het"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "wong Het"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "saka ngarsanira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:26.107430181Z",
+  "model": "glm-5.3"
+}

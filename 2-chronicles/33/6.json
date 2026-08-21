@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 33:6",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan ia nglebokake ⟨את⟩ anak-anake ing geni ing lebak Ben-Hinom; lan ngati-ati pratanda, lan nguni, lan nelik, lan nggawe ob lan yidoni; banget nglakoni ala ing paningale Yahweh, kanggo ngeselake Panjenengane.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "lan ia"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "nglebokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "ing lebak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "ועונן",
+      "gloss": "ngati-ati pratanda"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "nguni"
+    },
+    {
+      "surface": "וכשף",
+      "gloss": "nelik"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "nggawe"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ob"
+    },
+    {
+      "surface": "וידעוני",
+      "gloss": "yidoni"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "banget"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningale"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "kanggo ngeselake Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:28:25.157049538Z",
+  "model": "glm-5.3"
+}

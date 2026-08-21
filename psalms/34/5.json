@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Aku ngoyak ⟨את⟩ Yahweh, lan Panjenengane mangsuli aku, lan saka samu getuningku Panjenengane ngluwari aku.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "aku ngoyak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "lan Panjenengane mangsuli aku"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "lan saka samu"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "getuningku"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "Panjenengane ngluwari aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:38.686780346Z",
+  "model": "glm-5.3"
+}

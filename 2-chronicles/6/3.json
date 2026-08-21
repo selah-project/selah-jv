@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sang nata mbalèkaké ⟨את⟩ rainé, banjur agung-agung njaluk berkah marang ⟨את⟩ saka pasamuwan Israyèl, sarta saka pasamuwan Israyèl padha ngadeg.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "mbalèkaké"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rainé"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rainé"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "agung-agung njaluk berkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka pasamuwan Israyèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyèl"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta saka"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyèl"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T03:33:02.803772324Z",
+  "model": "glm-5.3"
+}

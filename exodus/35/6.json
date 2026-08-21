@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Langit-langitane biru, lan ungu, lan abrit marak, lan linen alus, lan wulu kriti.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "langit-langitane biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "lan ungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "lan (wula) abrit"
+    },
+    {
+      "surface": "שני",
+      "gloss": "marak"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan linen alus"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "lan wulu (kambing) kriti"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:04.468890383Z",
+  "model": "glm-5.3"
+}

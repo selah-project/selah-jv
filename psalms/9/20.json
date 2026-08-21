@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Ngadegaa, dhah, Yahweh; aja nganti manungsa dadi kuwat; nganti bangsa-bangsa padha diadili ing ngarsane Panjenengan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ngadegaa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "dadi kuwat"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "padha diadili"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ngarsane Panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:44.665836943Z",
+  "model": "glm-5.3"
+}

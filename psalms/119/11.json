@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Ing atiku dak pendhem sabda-Mu, supaya aku ora dosa marang Kowé.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "ing atiku"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "dak pendhem"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sabda-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:22.881556640Z",
+  "model": "glm-5.3"
+}

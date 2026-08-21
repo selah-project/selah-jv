@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Banjur pangrungu Yahweh murka ing dina iku, lan Panjenengané njangji, ngucap:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Banjur murka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pangrungu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "lan Panjenengané njangji"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:35.462670952Z",
+  "model": "glm-5.3"
+}

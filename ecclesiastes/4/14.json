@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Sebab saka omah pangasingan ⟨יָצָא⟩ wong iku metu dadi ratu, awit ing karatune dhewe wong mlarat iku lair.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omah"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "pangasingan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dadi ratu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iya"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "ing karatune"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "lair"
+    },
+    {
+      "surface": "רש",
+      "gloss": "wong mlarat"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:53.125636171Z",
+  "model": "glm-5.3"
+}

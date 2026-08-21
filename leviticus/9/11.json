@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan ⟨את⟩ dagingé sarta ⟨את⟩ kulité dibakar ing geni, ing njaba kampung.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dagingé"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dagingé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kulité"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kulité"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ing njaba"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampung"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:09.962325662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan wong pituwa-wongé ngrungkeki marang Moshe, ngendika: apa kok ngombe?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "ngrungkeki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wonge"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ngombe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:12.361529355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Swara siji ngendika, Séròla. Lan dhèwèké ngucap, Kudu sruala apa? Saben daging ⟨iku⟩ suket, lan saben kaluhurané kaya kembang ing sawah.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Swara"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Séròla"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Lan ngucap"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kudu sruala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Saben"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "suket"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kaluhurané"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kaya kembang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ing sawah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:39.358218365Z",
+  "model": "glm-5.3"
+}

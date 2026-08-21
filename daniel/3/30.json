@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur sang raja ndadekake Shadrakh, Meshakh, lan Abed-Nego bisa makarya ing wewengkon Babel.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "ndadekake bisa makarya"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "lan"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "ing wewengkon"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-21T02:56:57.495122766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Banjur kabeh manungsa padha wedi, lan padha ngumumake panggawéyané Elohim, lan panggawéyané padha dirembug nganti waspada.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "padha wedi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "padha ngumumake"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "panggawéyan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "lan panggawéyané"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "padha dirembug nganti waspada"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:14.976999367Z",
+  "model": "glm-5.3"
+}

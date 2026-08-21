@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Ora padha numpes ⟨את⟩ bangsa-bangsa kasebut, sing didhawuhake dening Yahweh marang dheweke.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "padha numpes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa-bangsa kasebut"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa kasebut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:36.649828162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan ⟨אתה⟩ padha-dibagi dadi pitung bagéan: Yehuda angadeg ing wewengkone ing sisih kidul, lan Bêt Yoséf angadeg ing wewengkone ing sisih lor.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "padha mbagi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pitung bagéan"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "bagéan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "angadeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "wewengkone"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "sisih kidul"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "lan Bêt"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "angadeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "wewengkone"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sisih lor"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:14.741246190Z",
+  "model": "glm-5.3"
+}

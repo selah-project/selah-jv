@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Panjenengane nata dalan kanggo narane, ora nyelametake awaké saka pati, nanging uripé kabekakaké marang pagebug.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "nata"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "kanggo narane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nyelametake \/ nahan"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "saka pati"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "awaké \/ nyawane"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "nanging uripé"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "marang pagebug"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "kabekakaké \/ kaserahaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:23.072863423Z",
+  "model": "glm-5.3"
+}

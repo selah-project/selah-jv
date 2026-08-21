@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Rungekna sabda Yahweh, o Kulawarga Yaakov, lan kaluwargane kabeh Kulawarga Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Rungekna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Kulawarga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "kaluwarga-kaluwargane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Kulawarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:02.881703753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Manawa wis katetepake dina-dinane, cacahe sasi-sasine ⟨את⟩ ing tanganmu, watese wis Kowae tetepake, lan ora bakal bisa liwati.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "wis katetepake"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dina-dinane"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "cacahe"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "sasi-sasine"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ing tanganmu (kowe)"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "watese"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wis Kowae tetepake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "bakal bisa liwati"
+    }
+  ],
+  "timestamp": "2026-08-21T02:25:34.505309515Z",
+  "model": "glm-5.3"
+}

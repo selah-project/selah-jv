@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Manawa oyode wis tuwa ing bumi, lan thoke mati ing lebu debu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "wis tuwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "oyode"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "lan ing lebu debu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "thoke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:25:34.505936181Z",
+  "model": "glm-5.3"
+}

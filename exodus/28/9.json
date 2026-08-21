@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan kowe njupuk ⟨את⟩ loro watu shoham, lan ngukirake ing sadhuwure jeneng-jenenge para putrane Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Lan kowe njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loro watu shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "loro"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "watu"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "lan ngukirake"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jeneng-jeneng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:14.469755205Z",
+  "model": "glm-5.3"
+}

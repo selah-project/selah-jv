@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Yahweh ngandika marang Moshe, ngucap:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:46.840230944Z",
+  "model": "glm-5.3"
+}

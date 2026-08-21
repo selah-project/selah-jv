@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Yah iku kakuwatanku lan pujaku, lan ⟨הו⟩ dadi pamartawaku; iki Eliku, dakprènani dhèwèké; Elohimé bapakku, dakunggulake dhèwèké.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "kakuwatanku"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "lan pujaku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pamartawaku"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "pamarta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eliku"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "dakprènani dhèwèké"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapakku"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "dakunggulake dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:47.498551660Z",
+  "model": "glm-5.3"
+}

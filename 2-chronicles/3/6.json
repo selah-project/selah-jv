@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur dilapisi ⟨את⟩ bumi iku watu migunani minangka pamanis, lan emaseikuiku emas saka Parwayim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Banjur dilapisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi iku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "watu"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "migunani"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "minangka pamanis"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "lan emaseikuiku"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "saka Parwayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:33.180575506Z",
+  "model": "glm-5.3"
+}

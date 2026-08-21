@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Kanggo Dawid. Yahweh ⟨iku⟩ cahyaku lan pamartabatkuku — saka endi aku kudu wedi? Yahweh ⟨iku⟩ bètènging uripku — saka endi aku kudu gumeter?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kanggo Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "cahyaku"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "lan pamartabatkuku"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "saka endi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku kudu wedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "bètèng"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ing uripku"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "saka endi"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "aku kudu gumeter"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:19.354501797Z",
+  "model": "glm-5.3"
+}

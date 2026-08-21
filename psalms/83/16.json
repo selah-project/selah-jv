@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Mangkono padha dielek nganggo angin badaimu, lan padha digégyakaké nganggo badaimu.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "padha dielek"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "nganggo angin badaimu"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "lan nganggo badaimu"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "padha digégyakaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:57.626775940Z",
+  "model": "glm-5.3"
+}

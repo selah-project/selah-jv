@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Lah saiki aja wedi; aku bakal nurungi ⟨את⟩ kowe lan ⟨את⟩ anak-anakmu. Dhèwèké ngentenake atiné lan ngandika marang atiné.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lah saiki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "nurungi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakmu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ngentenake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "atiné"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "atiné"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:32.570405929Z",
+  "model": "glm-5.3"
+}

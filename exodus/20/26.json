@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan aha munggah lumantar undhak-undhakan marang mazbegeh-Ku, supaya dadi ora kawedhar aurira ing sadhuwure.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan aha"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kowe munggah"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "lumantar undhak-undhakan"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mazbegeh-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supaya dadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kawedhar"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "aurira"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing sadhuwure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:26.987408228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "\"Mlebulah, medhar marang Paroh, ratu Matsráyim, supaya panjenengané ngutus ⟨את⟩ bani Israél metu saka tanahé.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "mlebulah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "medhar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Matsráyim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "supaya ngutus metu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israél"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "saka tanahé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:02.998136586Z",
+  "model": "glm-5.3"
+}

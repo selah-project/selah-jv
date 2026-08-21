@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ratu Yehoram metu ing dina iku saka Samaria, lan ndhatakeh ⟨את⟩ kabeh Israel.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "saka Samaria"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ndhatakeh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:01.784291958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "menawa sira nggoleki kaya ⟨the⟩ prunggu, lan kaya bondo kasimpen sira dhadhangi;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "sira nggoleki"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "kaya prunggu"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "lan kaya bondo kasimpen"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "sira dhadhangi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:23.470269671Z",
+  "model": "glm-5.3"
+}

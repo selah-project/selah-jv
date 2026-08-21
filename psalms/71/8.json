@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Kebak cangkemku memu-memu marang Paduka, sedina muput kamulyan Paduka.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "memu-memu marang Paduka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina muput"
+    },
+    {
+      "surface": "היום",
+      "gloss": "[dina]"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "kamulyan Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:52.649346120Z",
+  "model": "glm-5.3"
+}

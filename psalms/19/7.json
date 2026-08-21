@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Saka ujungé langit metuné, lan puterané nganti ing wates-watesé; lan ora ana sing kadelik saka benderasané.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "saka ujungé"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "metuné"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "lan puterané"
+    },
+    {
+      "surface": "על",
+      "gloss": "nganti ing"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "wates-watesé"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana sing"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "kadelik"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "saka benderasané (panasné)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:53.092676476Z",
+  "model": "glm-5.3"
+}

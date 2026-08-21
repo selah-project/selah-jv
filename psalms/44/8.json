@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Sebab Kowe wus anylametake aku saka mungsuh-mungsuhku, lan para wong kang gething aku Kowe wus asmaraake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "Kowe wus anylametake aku"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "saka mungsuh-mungsuhku"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "lan para wong kang gething aku"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "Kowe wus asmaraake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:57.324711245Z",
+  "model": "glm-5.3"
+}

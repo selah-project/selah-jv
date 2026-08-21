@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Kajaba saka para pengumpul upeti lan dagange para bakul, lan kabeh raja-raja ⟨saka⟩ tanah Arab, lan bupati-bupati ing bumi.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "kajaba"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "saka para"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "pengumpul upeti"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "lan dagange"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "para bakul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tanah Arab"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "lan bupati-bupati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:27.294098872Z",
+  "model": "glm-5.3"
+}

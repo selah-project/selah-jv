@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Becik punapa ingkang Kawanuhaken, lan Kadhekaken supaya tumanem ing pelataran-padhatran-Mu; kakiyen kanthi kabecikan dalem-Mu, ingkang suci, bale agung-Mu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "becik punapa"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "Kawanuhaken"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "lan Kadhekaken"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "tumanem"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "pelataran-padhatran-Mu"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "kakiyen"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kanthi kabecikan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "dalem-Mu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingkang suci"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "bale agung-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:47.191796812Z",
+  "model": "glm-5.3"
+}

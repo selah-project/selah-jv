@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur dhèwèké ngandika marang Dawid: Kowé luwih bener aku, awit kowé nglakoni aku kaluwih becik, déné aku nglakoni kowé kaluwih ala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bener"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "luwih aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "nglakoni aku"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "kaluwih becik"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "déné aku"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "nglakoni kowé"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kaluwih ala"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:39.428053175Z",
+  "model": "glm-5.3"
+}

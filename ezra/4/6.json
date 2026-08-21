@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan ing jaman pamaréntahane Akhasyweros, ing wiwitané karajané, ⟨dhèwèké⟩ padha nulis surat panyaran nglawan para panggonan ing Yehuda lan Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "lan ing jaman pamaréntahane"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhasyweros"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "ing wiwitané"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajané"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "padha nulis"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "surat panyaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "para panggonan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:05:19.918617019Z",
+  "model": "glm-5.3"
+}

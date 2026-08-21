@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Apa ana cacahing wadyabalané? lan marang sapa ora bangkit cahyané?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "apa ana"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "cacahing"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "wadyabalané"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bangkit"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "cahyané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:31:29.753796357Z",
+  "model": "glm-5.3"
+}

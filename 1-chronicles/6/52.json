@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan wong-wong iku maringi marang dhèwèké ⟨את⟩ kutha-kutha pangungsèn, ⟨את⟩ Sikhem lan ⟨את⟩ padhangane ing redi Efrayim, lan ⟨את⟩ Gezer lan ⟨את⟩ padhangane.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha-kutha pangungsèn"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "pangungsèn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sikhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padhangane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:33.364968861Z",
+  "model": "glm-5.3"
+}

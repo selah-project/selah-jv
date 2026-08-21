@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Dadi kadadéan, dheweke lunga numpak kalathe sarta mudhun ing pèngetaning redi, lan lah, Dawid karo wong-wonge mudhun nemoni dheweke; banjur dheweke ketemu ⟨את⟩ wong-wonge.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dadi kadadéan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "numpak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "kala"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "mudhun"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ing pèngetan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "karo wong-wonge"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "mudhun"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "nemoni dheweke"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "ketemu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wonge (Dawid)"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:39.775769802Z",
+  "model": "glm-5.3"
+}

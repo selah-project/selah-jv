@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Maneh Yahweh bakal maringi ⟨את⟩ ⟨the⟩ kabecikan, lan bumi kita bakal maringi ⟨את⟩ asil buminé.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bakal maringi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "lan bumi kita"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bakal maringi"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "asil buminé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:46.204410634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Kanggo pangripta gamelan, mazmur ragam Davídh.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangripta gamelan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ragam Davídh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:45.224000913Z",
+  "model": "glm-5.3"
+}

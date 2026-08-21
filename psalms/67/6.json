@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 67,
+  "translation": "Umat padha memuji Kowé, Elohim; umat kabeh padha memuji Kowé.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "padha memuji Kowé"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "padha memuji Kowé"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kabeh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:40.410132177Z",
+  "model": "glm-5.3"
+}

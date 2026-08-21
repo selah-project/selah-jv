@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan wong akeh ngandika marang Shemuel: 'Sapa sing ngucap Saul bakal jumeneng raja ing atase aku? Apokena wong-wong mau, dakpeksa mati.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "sing ngucap"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "jumeneng raja"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ing atase aku"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "apokena"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "dakpeksa mati"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:30.647982813Z",
+  "model": "glm-5.3"
+}

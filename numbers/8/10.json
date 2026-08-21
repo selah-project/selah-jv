@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan kowe ngaturake ⟨את⟩ para Levi ing ngarep Yahweh, lan bani Yisrael nyengkuyungake ⟨את⟩ tangan-tangane marang para Levi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "lan kowe ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "para Levi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "lan nyengkuyungake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-tangane"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan-tangane"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "para Levi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:54.632622080Z",
+  "model": "glm-5.3"
+}

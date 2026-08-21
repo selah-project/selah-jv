@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan ngandika: Mana, njaluka nganti isi kabeh wadhah saka njaba, saka ⟨את⟩ kabèh tatanggamu — wadhah-wadhah kosong — aja kurang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "njaluka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "wadhah kabeh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "njaba"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "kabèh tatanggamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "tatanggamu"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "wadhah-wadhah"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "kurang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:48.179014615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Gawéa kanggo awakmu wadhah saka kayu gofer; bilik-bilik kokgawé marang ⟨את⟩ wadhah iku, lan koklapi ⟨את⟩ iku saka jroning lan saka njaba nganggo kuper.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Gawéa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo awakmu"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "wadhah"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "saka kayu"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "bilik-bilik"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kokgawé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadhah"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "wadhah"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "lan koklapi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka jroning"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "lan saka njaba"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "nganggo kuper"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:36.624496977Z",
+  "model": "glm-5.3"
+}

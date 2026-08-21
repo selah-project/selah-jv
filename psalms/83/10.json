@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Gawea ⟨marang⟩ dhèwèké kaya ing Midian, kaya Sisera, kaya Yabin, ing kali Kishon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Gawea"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "kaya ing Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "kaya Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "kaya Yabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ing kali"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:43.579848840Z",
+  "model": "glm-5.3"
+}

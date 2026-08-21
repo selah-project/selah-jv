@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 38:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan dheweke takon ⟨את⟩ wong-wong ing papané sarta ngendika: Endi ⟨the⟩ pelacur suci iku, ing Enaim, ing pinggir dalan? Lan padha ngandika: Ora ana pelacur suci ing kene.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "lan dheweke takon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong ing papané"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "מקמה",
+      "gloss": "ing papané"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sarta ngendika"
+    },
+    {
+      "surface": "איה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "הקדשה",
+      "gloss": "⟨the⟩ pelacur suci iku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "בעינים",
+      "gloss": "ing Enaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing pinggir"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngandika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ing kene"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "pelacur suci"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:41.076454595Z",
+  "model": "glm-5.3"
+}

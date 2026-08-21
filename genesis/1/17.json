@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim munthukake ⟨את⟩ ⟨those⟩ ing ⟨the⟩ raqia swarga, kanggo madhangi ⟨ing⟩ dharatan;",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Lan munthukake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "padhang-padhang (wong\/kodhuk: kaloro padhang lan lintang-lintang)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "ing raqia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "swarga"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "kanggo madhangi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "dharatan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:15.164775497Z",
+  "model": "glm-5.3"
+}

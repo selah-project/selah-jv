@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lah-wong, ratu bakal mréntah ing sajroning kabeneran, lan para pangéran bakal mréntah kanthi pakartiban.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "lah-wong"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "ing-sajroning-kabeneran"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bakal-mréntah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "lan-para-pangéran"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kanthi-pakartiban"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "bakal-mréntah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:43.647518100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Umur setaun ⟨⟨Saul⟩⟩ nalika jumeneng ratu, lan rong taun ia mrata ing Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "setaun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "nalika jumeneng ratu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "lan rong"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mratu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:23.940426540Z",
+  "model": "glm-5.3"
+}

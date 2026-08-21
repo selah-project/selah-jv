@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sawise iku bareng-Israel bakal bali, lan bakal ngoja ⟨את⟩ Yahweh Elohim-e, lan ⟨את⟩ Dawid raja-e, lan bakal wedhar marang Yahweh lan marang kabecikane, ing wekasaning dinane.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sawise iku"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bakal bali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "lan bakal ngoja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohim-e"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Dawid raja-e"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "raja-e"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "lan bakal wedhar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "kabecikane"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ing wekasaning"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dinane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:15:02.421655009Z",
+  "model": "glm-5.3"
+}

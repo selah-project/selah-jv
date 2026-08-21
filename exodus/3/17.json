@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan aku wus ngandika: Aku bakal ngunggahake kowe saka sangsara Mesir menyang bumi wong Kanaan, lan wong Het, lan wong Emori, lan wong Perizi, lan wong Hiwi, lan wong Yebusi, menyang bumi ngalirake susu lan madu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku wus ngandika"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku bakal ngunggahake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "lan wong Het"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "lan wong Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "lan wong Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "lan wong Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "lan wong Yebusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ngalirake"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "lan madu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:54.275541393Z",
+  "model": "glm-5.3"
+}

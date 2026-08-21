@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Gulungake marang Yahweh dalanmu, lan percayaa marang Panjenengane, lan ⟨dhewe⟩ bakal nindakake.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "gulungake"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "dalanmu"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "lan percayaa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang Panjenengane"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan ⟨dhewe⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakal nindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:46.350346222Z",
+  "model": "glm-5.3"
+}

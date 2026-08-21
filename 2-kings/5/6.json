@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan serat kalimbuhan dhateng raja Israël, muni makaten: \"Sarehning sapunika, manawi serat punika sampun rawuh dhateng panjenengan, sumangga, kula sampun ngutus dhateng panjenengan ⟨את⟩ Naaman abdi kula, supados panjenengan nambani piyambakipun saking lepranipun.\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lan kalimbuhan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "serat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "muni makaten"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "sarehning sapunika"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "manawi sampun rawuh"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "serat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "punika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dhateng panjenengan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sumangga"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "kula sampun ngutus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dhateng panjenengan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi kula"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "supados nambani piyambakipun"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "saking lepranipun"
+    }
+  ],
+  "timestamp": "2026-08-21T04:06:27.432696236Z",
+  "model": "glm-5.3"
+}

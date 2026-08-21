@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan padha lunga, padha ngabdi marang allah-allah liya, lan padha sumungkem marang kang — allah-allah kang ora padha kenal, lan kang ora diparengake marang kang kabeh.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "lan padha lunga"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "padha ngabdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liya"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "lan padha sumungkem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang kang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "padha kenal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "diparengake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang kang kabeh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:24.226032332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan dheweke ngaturake ⟨את⟩ mesbesen saka emas ana ing sajroning khemah pasamuwan, ing ngarsane kelambu panutup.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ngaturake\/ngenengake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesbesen saka emas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesbesen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "saka emas"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ana ing sajroning khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "kelambu panutup"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:46.586744637Z",
+  "model": "glm-5.3"
+}

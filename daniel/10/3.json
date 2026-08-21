@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Roti éca ora dakolah, lan daging lan anggur ora teka ing cangkemku, lan lenga wangi ora dakusap, nganti kêpêkên telung pekan dina.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "éca"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "dakolah"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "lan daging"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "lan anggur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "lan lenga wangi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "dakusap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "kêpêkên\/kalaksanan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pekan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-21T03:01:01.769679713Z",
+  "model": "glm-5.3"
+}

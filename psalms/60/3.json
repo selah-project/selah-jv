@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Elohim, Paduka sampun nyingkiri kita, sampun mijilaken papecahan kita, sampun murka; paduka mligi bali dhateng kita.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "Paduka sampun nyingkiri kita"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "sampun mijilaken papecahan kita"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "sampun murka"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "mligi bali dhateng kita"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:48.112201433Z",
+  "model": "glm-5.3"
+}

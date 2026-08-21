@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Moshe andhatengi ⟨את⟩ saben tembung-tembung Yahweh, banjur bangkit esuk, yasa pasamuwan ing sangisore gunung iku, lan rolas tugu miturut rolas suku-suku Israèl.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "lan andhatengi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben tembung-tembung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "banjur bangkit esuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing wayah esuk"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "lan yasa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung iku"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "lan rolas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(las)"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "miturut rolas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(las)"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:56.287107363Z",
+  "model": "glm-5.3"
+}

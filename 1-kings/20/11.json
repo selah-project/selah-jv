@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan sang ratuning Yisra'el mangsuli sarta ngandika: Aturna: aja kang ngiket pedhang ngumung kaya kang mbukak.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mangsuli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang ratuning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngandika"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "aturna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ngumung"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "kang ngiket pedhang"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "kaya kang mbukak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:55.474080441Z",
+  "model": "glm-5.3"
+}

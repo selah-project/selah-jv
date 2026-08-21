@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan Shaul nggebug ⟨את⟩ Amalek wiwit saka Havilah, tumekaning Shur, sing ana ngarepe Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "nggebug"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "saka Havilah"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "tumekaning"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarepe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:07.188224260Z",
+  "model": "glm-5.3"
+}

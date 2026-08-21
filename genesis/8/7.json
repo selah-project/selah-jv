@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur ditimbali ⟨את⟩ manuk gagak, lan ⟨ia⟩ metu bali-bali nganti banyu garing saka ing sadhuwuring bumi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Banjur ditimbali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk gagak"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "manuk gagak"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "metu terus"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "bali-bali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "garing"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing sadhuwuring"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:11.324017232Z",
+  "model": "glm-5.3"
+}

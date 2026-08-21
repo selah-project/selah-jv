@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Bangsa sing padha lumaku ing pepeteng wis ndeleng cahya agung; para sing manggon ing bumi papa-mati, cahya wis suminar ingatasé wong-wong mau.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "sing padha lumaku"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ing pepeteng"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "wis ndeleng"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "para sing manggon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "papa-mati"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "wis suminar"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ingatasé wong-wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:54.143061950Z",
+  "model": "glm-5.3"
+}

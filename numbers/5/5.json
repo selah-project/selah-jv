@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Yahweh ngandika marang Moshe, sang ngandika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sang ngandika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:18.482645482Z",
+  "model": "glm-5.3"
+}

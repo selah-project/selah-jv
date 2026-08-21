@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Awit abdi-abdi Paduka karenanake ing watu-watuné ⟨את⟩, lan marang lembuné ⟨את⟩ dhèwèké asih-nedeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "karenanake"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdi Paduka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu-watuné"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "watu-watuné"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lembuné"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "lembuné"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "asih-nedeni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:08.550816417Z",
+  "model": "glm-5.3"
+}

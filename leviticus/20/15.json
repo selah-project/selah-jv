@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan lanang sing masang turuning saréné ing sato kéwan, mesthi dipateni, lan ⟨את⟩ sato kéwan iku kowe padha bunuh.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Lan lanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "masang"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "turuning saréné"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ing sato kéwan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dipateni"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mesthi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sato kéwan iku"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sato kéwan iku"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "kowe padha bunuh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:50.409008572Z",
+  "model": "glm-5.3"
+}

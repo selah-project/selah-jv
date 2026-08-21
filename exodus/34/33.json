@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan Moshe rampung ngendika marang ⟨את⟩ dheweke, banjur dipasangake ing rainé klambi panutup.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "rampung"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (wong Israel)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dipasangake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rainé"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "klambi panutup"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:03.046019400Z",
+  "model": "glm-5.3"
+}

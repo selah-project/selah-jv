@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Sebab aku ora dunung ing omah wiwit saka dina kang aku ngunggahake ⟨את⟩ Yisrael nganti dina iki, lan aku dadi saka khemah menyang khemah lan saka mishkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aku dunung"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wiwit saka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "aku ngunggahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "lan aku dadi"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "saka khemah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "lan saka mishkan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:53:28.417732647Z",
+  "model": "glm-5.3"
+}

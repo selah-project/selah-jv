@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan wates iku bakal mudhun menyang Kali Yarden, lan panggonan metune bakal ana ing segara uyah; iki bakal dadi tanahmu miturut wates-watese ing saubengé.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "bakal mudhun"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "wates iku"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "menyang Kali Yarden"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "lan bakal dadi ana"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "panggonan metune"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "המלח",
+      "gloss": " uyah"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowe duwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "miturut wates-watese"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing saubengé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:13.434246750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Aku kadorong banjur supaya tiba, nanging Yahweh pitulung marang aku.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "kadorong banjur"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "supaya aku tiba"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "supaya tiba"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "nanging Yahweh"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "pitulung marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:03.869507785Z",
+  "model": "glm-5.3"
+}

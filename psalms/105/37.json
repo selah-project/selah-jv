@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Lan Dheweke ngetokake dheweke kanthi perak lan emas, lan ora ana sing goyah ing suku-sukune.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "lan ngetokake dheweke"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kanthi perak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "lan emas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "ing suku-sukune"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "sing goyah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:52.198726592Z",
+  "model": "glm-5.3"
+}

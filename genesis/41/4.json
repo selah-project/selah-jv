@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 41:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Lan lembu-lembu sing èlok rupané lan kurus dagingé iku padha nampan ⟨את⟩ pitu lembu sing ayu rupané lan lemu; banjur Paroh saréga.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "lan padha nampan"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lembu-lembu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "èlok"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "rupané"
+    },
+    {
+      "surface": "ודקת",
+      "gloss": "lan kurus"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dagingé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitu lembu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ayu"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "rupané"
+    },
+    {
+      "surface": "והבריאת",
+      "gloss": "lan lemu"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "banjur saréga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:54.335480817Z",
+  "model": "glm-5.3"
+}

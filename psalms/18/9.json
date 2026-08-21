@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Ngundhakake asepet irunge, lan geni saka tutuke ngundhak-ilani; areng panas murub saka ing Panjenengane.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asepet"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ing irunge"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "lan geni"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "saka tutuke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ngundhak-ilani"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "areng panas"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "murub"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:25.498015732Z",
+  "model": "glm-5.3"
+}

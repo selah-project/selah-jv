@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 19:3",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan kaslametan ing dina iku dadi duka-layu tumrap wong ⟨kabeh⟩, awit wong ⟨kabeh⟩ krungu ing dina iku pangucap: sang raja nglara ati bab putrané.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "התשעה",
+      "gloss": "kaslametan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "dadi duka-layu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tumrap wong kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨kabeh⟩ (wong)"
+    }
+  ],
+  "timestamp": "2026-08-21T00:11:58.054510637Z",
+  "model": "glm-5.3"
+}

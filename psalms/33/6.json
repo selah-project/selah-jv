@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lumantar tembunging Yahweh ⟨the⟩ langit kadadéan, lan lumantar roh saka tutuk-E kabeh wadyabalané.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "lumantar tembunging"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "lan lumantar roh"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "saka tutuk-E"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "wadyabalané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:05.732237034Z",
+  "model": "glm-5.3"
+}

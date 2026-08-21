@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 15:32",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan ana anake Yisrael ana ing ara-ara, banjur padha nemu sawiji wong nuwuhi ing dina Sabat.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Lan ana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ana ing ara-ara"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "banjur padha nemu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sawiji wong"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "nuwuhi"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:48.678651659Z",
+  "model": "glm-5.3"
+}

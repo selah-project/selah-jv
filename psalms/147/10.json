@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Ora ing kakuwatane jaran Panjenengane kersa, ora ing pangkasange manungsa Panjenengane seneng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ora"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ing kakuwatane"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "jaran"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Panjenengane kersa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ing pangkasane"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "Panjenengane seneng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:18.661746609Z",
+  "model": "glm-5.3"
+}

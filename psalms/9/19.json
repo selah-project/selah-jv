@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sebab ora nganti salawase kelalen ⟨⟨is⟩⟩ wong mlarat, pangarep-arepe wong-wong andhap asora ilang salamane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nganti salawase"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "kelalen"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "pangarep-arepe"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "wong-wong andhap asor"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ilang"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salamane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:44.665690766Z",
+  "model": "glm-5.3"
+}

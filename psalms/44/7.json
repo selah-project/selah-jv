@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Sebab dudu ing panahku aku percaya, lan pedhangku ora bisa nylametake aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ing panahku"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "aku percaya"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "lan pedhangku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "bisa nylametake aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:57.324576651Z",
+  "model": "glm-5.3"
+}

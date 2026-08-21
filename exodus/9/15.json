@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Awit saiki bisa Aku ngulurake ⟨את⟩ tanganku lan numpes sira sarta ⟨את⟩ umatmu kanthi wabah, lan sira bakal musnah saka bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Aku ngulurake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "lan tumindak"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "umatmu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "kanthi wabah"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "lan sira bakal musnah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:00.944126681Z",
+  "model": "glm-5.3"
+}

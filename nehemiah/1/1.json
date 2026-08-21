@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Tembung-tembunge Nechemyah bin Chakalyah. Lan dumadi ing sasi Kislev, taun kaping rongpuluh, aku ana ing Shushan ⟨the⟩ bèntèng.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakalyah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dumadi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "Kislev"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rongpuluh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku ana"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ing Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "bèntèng"
+    }
+  ],
+  "timestamp": "2026-08-21T03:09:01.078975544Z",
+  "model": "glm-5.3"
+}

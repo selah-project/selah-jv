@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lah Yahweh ngandika marang Moshe, munjuk:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "munjuk"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:42.779990644Z",
+  "model": "glm-5.3"
+}

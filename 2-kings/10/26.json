@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur padha ngwetokake ⟨את⟩ tugu-tugu suci saka omah-e Baal lan padha ngobong.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "banjur padha ngwetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu suci"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "tugu-tugu suci"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah-e"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "lan padha ngobong (kuwi)"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:01.809515035Z",
+  "model": "glm-5.3"
+}

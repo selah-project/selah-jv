@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur David saré karo bapak-bapaké, lan disarèkaké ing kutha David.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "banjur saré"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapaké"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "lan disarèkaké"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:28.244898026Z",
+  "model": "glm-5.3"
+}

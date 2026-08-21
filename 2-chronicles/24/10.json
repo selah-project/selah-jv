@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan kabeh panggedhe lan kabeh bangsa padha bungah, banjur padha nggawa lan ngeculake menyang peti, nganti rampung.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "lan padha bungah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "banjur padha nggawa"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "lan ngeculake"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "menyang peti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "rampung"
+    }
+  ],
+  "timestamp": "2026-08-21T03:41:25.702272006Z",
+  "model": "glm-5.3"
+}

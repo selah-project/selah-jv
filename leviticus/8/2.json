@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Undhung ⟨את⟩ Aharon lan ⟨את⟩ para putrane ⟨את⟩ karo dheweke, lan ⟨את⟩ sandhangan-sandhangan, lan ⟨את⟩ lenga pamurusan, lan ⟨את⟩ lembu korban dosa, lan ⟨את⟩ rong domba jantan, lan ⟨את⟩ keranjang roti tanpa ragi.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Undhung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para putrane"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ karo",
+      "marks": "Aharon lan para putrane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sandhangan-sandhangan"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "sandhangan-sandhangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lenga pamurusan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pamurusan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lembu korban dosa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "korban dosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "rong domba jantan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "rong"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "keranjang roti tanpa ragi"
+    },
+    {
+      "surface": "סל",
+      "gloss": "keranjang"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tanpa ragi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:46.840676544Z",
+  "model": "glm-5.3"
+}

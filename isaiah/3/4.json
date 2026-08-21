@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Ingsun bakal ndadekake bocah-bocah dadi pangérané, lan para kanthangglindung bakal mréntah ing sadhuwuring Wong-wong.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Lan Ingsun bakal maringi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bocah-bocah"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "dadi pangérané"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "lan para kanthangglindung"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "bakal mréntah"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing sadhuwuring Wong-wong"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:18.398615772Z",
+  "model": "glm-5.3"
+}

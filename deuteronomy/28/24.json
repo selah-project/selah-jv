@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Yahweh bakal maringi ⟨את⟩ udan buminimu dadi bubuk lan lebu; saka ⟨the⟩ langit bakal tumurun marang kowé nganti kowé kasirnakake.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udan buminimu"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "udan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "buminimu"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "bubuk"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "lan lebu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tumurun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "kowé kasirnakake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:08.412829207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sira bakal ngandika ⟨את⟩ sakabehing sing Kukonake, lan Aharon sadulurmu bakal ngandika marang Paroh, supaya panjenengane nglunturake ⟨את⟩ para putra Israil saka nagarine.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "bakal ngandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "Kukonake"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "lan Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadulurmu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakal ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "supaya nglunturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putra Israil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "saka nagarine"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:09.101909926Z",
+  "model": "glm-5.3"
+}

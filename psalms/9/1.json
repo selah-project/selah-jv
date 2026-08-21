@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Kanggo pangendhaguning tembang, miturut 'Almuth Laben'; mazmur kanggo Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangendhaguning tembang"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "miturut 'Almuth"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben'"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:00.266171464Z",
+  "model": "glm-5.3"
+}

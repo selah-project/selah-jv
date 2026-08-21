@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Nalika iku aku ora bakal isin, nalikaku ndeleng marang sakabehing prentah-prentahmu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nalika iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "bakal isin"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "nalikaku ndeleng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "prentah-prentahmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:41.597017086Z",
+  "model": "glm-5.3"
+}

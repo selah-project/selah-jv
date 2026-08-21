@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Mugi asmané langgeng salawas-lawase; ing ngarepe srengéngé asmané thukul turun-tumurun; lan kabeh bangsa njenengake berkah ing panjenengané, kabeh bangsa ngaturake berkah marang panjenengané.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "thukul turun-tumurun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "lan njenengake berkah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing panjenengané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "ngaturake berkah marang panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:30.346968345Z",
+  "model": "glm-5.3"
+}

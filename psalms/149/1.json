@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Pujilah Yah; nyanyia marang Yahweh tembang anyar; puji-pujiane ⟨⟨ana⟩⟩ ing pasamuwaning wong-wong mursané.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujilah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyia"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "puji-pujiane"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ing pasamuwan"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "wong-wong mursané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:12.895074451Z",
+  "model": "glm-5.3"
+}

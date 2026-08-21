@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Anak-anaké Yefet: Gomer, Magog, Madai, Yawan, Tuval, Meshekh, lan Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak-anaké"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "lan Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "lan Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "lan Yawan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "lan Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "lan Meshekh"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "lan Tiras"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:57.246394754Z",
+  "model": "glm-5.3"
+}

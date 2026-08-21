@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Ing panggonan paling suci kowé bakal mangan ⟨את⟩ iku; saben lanang bokal mangan ⟨את⟩; suci bakal dadi ⟨iku⟩ kanggo kowé.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "ing panggonan suci"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "paling suci"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "kowé bakal mangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bokal mangan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (kurban)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:04.993369183Z",
+  "model": "glm-5.3"
+}

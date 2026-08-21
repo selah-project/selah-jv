@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan ngukur ⟨את⟩ serambi gapura saka ing jero, ilalang siji.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "lan ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serambi gapura"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "serambi"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapura"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "saka ing jero"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ilalang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-21T01:21:48.021703680Z",
+  "model": "glm-5.3"
+}

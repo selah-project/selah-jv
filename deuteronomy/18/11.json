@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "lan juru iket mantra, sing nakonaké roh arwah lan juru panguwu, sarta sing takon marang ⟨the⟩ wong mati",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "juru iket mantra"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "mantra"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "sing nakonaké"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "roh arwah"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "juru panguwu"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "sing takon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "wong mati"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:44.173681770Z",
+  "model": "glm-5.3"
+}

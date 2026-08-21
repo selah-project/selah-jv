@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Lan sawise iku Aku balekake ⟨את⟩ kanggo-kanggone anake Ammon, pirsane Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "lan sawise"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Aku balekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanggo-kanggone"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kanggo-kanggone"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anake"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pirsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:04:41.788435724Z",
+  "model": "glm-5.3"
+}

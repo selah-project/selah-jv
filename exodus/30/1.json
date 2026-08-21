@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Sarta kowe bakal gawé mezbah kanggo ngundhakaké dupa; saka kayu sytim kowe bakal gawé ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "sarta kowe bakal gawé"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "kanggo ngundhakaké"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sytim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kowe bakal gawé"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (mezbah)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:33.956090450Z",
+  "model": "glm-5.3"
+}

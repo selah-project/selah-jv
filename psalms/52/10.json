@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Déné aku kaya wit zaitun ijem ngembul ing dalemé Elohim; aku padha marang kabecikané Elohim langgeng salawasé.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Déné aku"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "kaya wit zaitun"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ijem ngembul"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing dalemé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku padha"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "marang kabecikané"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "langgeng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "salawasé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:44.209642530Z",
+  "model": "glm-5.3"
+}

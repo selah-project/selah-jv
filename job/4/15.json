@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan sawijining roh liwat ing ngarsaning padhang irungku; rambute dagingku padha ngadeg ajeg",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "Lan sawijining roh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsaning padhang irungku"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "liwat"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "padha ngadeg ajeg"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "rambute"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:36.726194266Z",
+  "model": "glm-5.3"
+}

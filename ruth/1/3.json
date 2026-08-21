@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur mati Elimèlekh, bojone Na'omi; lan kari dhewe karo kalorone anakne.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Banjur mati"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimèlekh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Na'omi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "lan kari"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dhewe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "karo kalorone"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anakne"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:48.668789898Z",
+  "model": "glm-5.3"
+}

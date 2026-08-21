@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Sayekti Elohim wis ngrungokake; Panjenengané ngekakake kuping marang swara pangapunukku.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "sayekti"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wis ngrungokake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "ngekakake kuping"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "marang swara"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pangapunukku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:45.329052748Z",
+  "model": "glm-5.3"
+}

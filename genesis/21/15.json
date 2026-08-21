@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": " Bareng banyuné ing kirab wis entèk, banjur bocah kuwi diglarakaké ⟨את⟩ sangisore siji thukul pagerai.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "wis entèk"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyuné"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "kirab"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "diglarakaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah kuwi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "thukul pagerai"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:19.888133497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Padha ngrungokake tembungé Yahweh, para panggedhé Sedom; peninggalna pangrungu marang torating Elohim kita, é umat Amorah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembungé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "para panggedhé"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "peninggalna pangrungu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torating"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:40.695341674Z",
+  "model": "glm-5.3"
+}

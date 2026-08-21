@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan bangsa iku padha dadi nyoba ⟨את⟩ Israel, supaya kalok-e ⟨את⟩ apa wong Israel ngestokake ⟨את⟩ parentah-parentah Yahweh, sing didhawuhake marang ⟨את⟩ leluhure dening tangané Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Lan padha dadi"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "nyoba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "supaya kalok-e"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "apa ngestokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah-parentah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah-parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leluhure"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "leluhure"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dening tangané"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:35.425006711Z",
+  "model": "glm-5.3"
+}

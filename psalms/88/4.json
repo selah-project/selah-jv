@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Awit jiwaku wus kamot manawa ing alangan, lan urip-uripku wus tekan Sheol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "wus kamot"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "manawa ing alangan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "lan urip-urip-ku"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tekan Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "wus tekan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:04.504253133Z",
+  "model": "glm-5.3"
+}

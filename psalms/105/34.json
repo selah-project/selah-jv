@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Dheweke ngandika, lan banjur teka walang sangit lan gangsir ⟨sing⟩ ora ana bandhingane.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "walang sangit"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "gangsir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "bandhingane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:57.353191896Z",
+  "model": "glm-5.3"
+}

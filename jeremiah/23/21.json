@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Aku ora ngutus ⟨את⟩ para nabi, nanging padha mlayu; Aku ora ngandika marang dheweke, nanging padha anabi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nanging padha"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "mlayu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nanging padha"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "anabi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:56:23.893083006Z",
+  "model": "glm-5.3"
+}

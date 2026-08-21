@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Sepuluh asta dawane saka sakpan, lan sak setengah asta ambane saka sakpan.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dawane"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "saka sakpan"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lan sak asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ambane"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "saka sakpan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sing siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:18.661176152Z",
+  "model": "glm-5.3"
+}

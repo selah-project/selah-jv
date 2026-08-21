@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Banjur Lavan nyandhet ⟨את⟩ Yaakov, dene Yaakov wis ngadegake ⟨את⟩ khemahé ing redhu, lan Lavan uga ngadegake ⟨את⟩ sadulur-saduluré ing redhu Gilad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "nyandhet"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "dene Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemahé"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahé"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redhu"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "lan Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulur-saduluré"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-saduluré"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redhu"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:35.901570521Z",
+  "model": "glm-5.3"
+}

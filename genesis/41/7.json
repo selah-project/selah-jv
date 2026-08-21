@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Bulir kang cekil iku nglap ⟨את⟩ pitu bulir kang sampak lan penuh; banjur Paraoh tangi, lah, ⟨iku⟩ impi.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "nglap"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "bulir iku"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "kang cekil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitu bulir"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "bulir iku"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "kang sampak"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "lan penuh"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "banjur tangi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "impi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:56.187581087Z",
+  "model": "glm-5.3"
+}

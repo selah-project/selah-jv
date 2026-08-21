@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Ajarana aku, Yahweh, dalanmu, lan tuntuna aku ing dalan sing lempeng, amarga mungsuhku.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ajarana aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "dalanmu"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "lan tuntuna aku"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "sing lempeng"
+    },
+    {
+      "surface": "למען",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mungsuhku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:34.178664724Z",
+  "model": "glm-5.3"
+}

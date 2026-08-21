@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Yahweh ngandika marang Moshe lan marang Aharon, mangkene:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene:"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:45.550074047Z",
+  "model": "glm-5.3"
+}

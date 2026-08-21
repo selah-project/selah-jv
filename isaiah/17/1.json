@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Wewaton tumrap Damaskus: lah, Damaskus dicekake saka dadi kutha, lan dadi tumpukan runtuhan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "wewaton"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskus"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "dicekake"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "saka dadi kutha"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "tumpukan"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "runtuhan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:13.015080155Z",
+  "model": "glm-5.3"
+}

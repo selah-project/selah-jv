@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Kowé marènké dhèwèké panguwasa ing sakabèhing panggawéyan tangané Panjenengan, kabèh Kowé andèkaké ing sangisore sikilé.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Kowé marènké dadi panguwasa"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ing panggawéyan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangané Panjenengan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "Kowé andèkaké"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sikilé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:20.569206326Z",
+  "model": "glm-5.3"
+}

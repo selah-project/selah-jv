@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Yesua, O Elohim, padukani pangadolanira; elinga cidraning wong bodho marang sira sedina-dina.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Yesua"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "padukani"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "pangadolanira"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "elinga"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "cidraning marang sira"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wong bodho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sedina-dina"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:14.609902754Z",
+  "model": "glm-5.3"
+}

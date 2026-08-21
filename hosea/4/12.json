@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Umatku takon marang kayune, lan tongkete ngandhani dheweke; sebab roh pezinan ndadekake saka-dalan, lan padha pezinan saka sangisore Elohime.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "marang kayune"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "takon"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "lan tongkete"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ngandhani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "pezinan"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "ndadekake saka-dalan"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "lan padha pezinan"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "saka sangisore"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohime"
+    }
+  ],
+  "timestamp": "2026-08-21T04:15:14.054545238Z",
+  "model": "glm-5.3"
+}

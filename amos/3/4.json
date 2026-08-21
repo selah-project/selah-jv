@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Apa singa ngroaring ing wana, lan olèhe mangsa ora ana? Apa anak singa muni saka guwané, kajaba yen wis nangkap?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Apa ngroaring"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ing wana"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "lan mangsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "olèhe"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Apa muni"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "muniné"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "saka guwané"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kajaba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "wis nangkap"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:25.848695337Z",
+  "model": "glm-5.3"
+}

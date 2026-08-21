@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Nanging mung kanthi goral ⟨את⟩ ⟨the⟩ bumi kapecah; miturut asma-asma suku-suku para bapaké dhéwé padha oleh warisan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanging mung"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "kanthi goral"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "kapecah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "miturut asma-asma"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "para bapaké dhéwé"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "padha oleh warisan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:08.251755460Z",
+  "model": "glm-5.3"
+}

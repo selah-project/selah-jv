@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sebab Panuntut getih iku ngelingi ⟨את⟩ wong-wong mau; ora lali serune wong-wong cilik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Panuntut"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ngelingi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "lali"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "seru"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "wong-wong cilik"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:43.129085427Z",
+  "model": "glm-5.3"
+}

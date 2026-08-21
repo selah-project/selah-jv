@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lajeng ditindakake ⟨את⟩ papan-papan iku kanggo panggonan suci: rongpuluh papan marang pérangan kidul, ing arah tengah lor.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lajeng ditindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan iku"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan ⟨iku⟩"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "kanggo panggonan suci"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rongpuluh"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "papan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "marang pérangan"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kidul"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ing arah kidul"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:10.680695350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur ndadèkaké jendéla-jendéla jejere landhung kanggo bumi, kang pinéngkok ajeg.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "banjur ndadèkaké"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kanggo bumi"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "jendéla-jendéla"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "jejere landhung"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "kang pinéngkok"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:00.141871717Z",
+  "model": "glm-5.3"
+}

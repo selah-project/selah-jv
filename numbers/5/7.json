@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "maka padha angakoni ⟨את⟩ dosané sing dilakoni, lan mbalèkaké ⟨את⟩ cidrané kanthi pokoké, lan ditambahi limané, lan kaparingaké marang sing dicidrani;",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "padha angakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dosané"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dosané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "dilakoni"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "lan mbalèkaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cidrané"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "cidrané"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "kanthi pokoké"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "lan limané"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ditambahi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "lan kaparingaké"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "marang sing"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "dicidrani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:18.483104450Z",
+  "model": "glm-5.3"
+}

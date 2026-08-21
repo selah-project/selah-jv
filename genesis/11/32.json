@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Langenge dina-dinane Terah limangpuluh lan rong atus taun, banjur Terah seda ing Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dina-dinane"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "lan rong atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "banjur seda"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "ing Haran"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:05.028941217Z",
+  "model": "glm-5.3"
+}

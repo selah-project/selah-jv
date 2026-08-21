@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Laban ngandika: Luwih becik mara ⟨את⟩-ipun ⟨⟨marang⟩⟩ panjenengan katimbang kok aku menehi ⟨את⟩-ipun marang wong liya; mangsa karo aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "aku menehi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (Rahel)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang panjenengan"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "katimbang kok aku menehi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (Rahel)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "marang wong"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "mangsa\/ana"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "karo aku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:34.567345063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan bakal Nyèrahaké ⟨את⟩ Yisrael, jalaran saka dosané Yarobeam, sing dheké dosa lan sing dheké ndadèkaké Yisrael dosa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Nyèrahaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "jalaran saka"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dosané"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ndadèkaké … dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T04:05:02.010448935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 87,
+  "translation": "Kanggo para putrane Korach: mazmur, tembang. Yeyasané ⟨ana⟩ ing gunung-gunung suci.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "kanggo para putrane"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "yeyasané"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ing gunung-gunung"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:06.587677600Z",
+  "model": "glm-5.3"
+}

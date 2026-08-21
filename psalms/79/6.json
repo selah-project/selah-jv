@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 79,
+  "translation": "Cudhogaké murkam marang bangsa-bangsa sing ora weruh ing Kowé, lan marang karajan-karajan sing ora ngundang ing Asmam.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "cudhogaké"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "murkam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "weruh ing Kowé"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajan-karajan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ing Asmam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ngundang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:33.928675405Z",
+  "model": "glm-5.3"
+}

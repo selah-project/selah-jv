@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sawise panjenengane ngalahake ⟨את⟩ Sihon ratu wong Amori sing manggon ing Heshbon, lan ⟨את⟩ Og ratu Bashan sing manggon ing Ashtarot ing Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Sawise"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "ngalahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ing Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "ing Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "ing Edrei"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:38.665944814Z",
+  "model": "glm-5.3"
+}

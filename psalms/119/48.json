@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Lan dak angkat telapak tanganku marang prentah-prentahmu, sing dak tresnani, lan aku bakal mangerteni ing kukum-kukummu.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "lan dak angkat"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "telapak tanganku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "prentah-prentahmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "dak tresnani"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "lan aku bakal mangerteni"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ing kukum-kukummu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:06.105414226Z",
+  "model": "glm-5.3"
+}

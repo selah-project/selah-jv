@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur padha ngirid ⟨את⟩ Rivkah sedulur wadone, lan ⟨את⟩ inange, lan ⟨את⟩ abdine Avraham, lan ⟨את⟩ kanca-kancane.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "banjur padha ngirid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "sedulur wadone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "inange"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "inange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "abdine"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kanca-kancane"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "kanca-kancane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:21.770284679Z",
+  "model": "glm-5.3"
+}

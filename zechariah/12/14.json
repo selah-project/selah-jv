@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Kabeh kulawarga-kulawarga sing isih padha tindak kapisah miturut kulawarga kapisah siji-siji, lan para bojone padha kapisah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "kulawarga-kulawarga iku"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "sing isih padha tindak"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "miturut kulawarga"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga kapisah siji-siji"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kapisah"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "lan para bojone"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "padha kapisah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:38:19.508163497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Dheweke ndadekake ara-ara dadi blumbang banyu, lan bumi garing dadi sumbering banyu.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Dheweke ndadekake"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "dadi blumbang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "lan bumi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "garing"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "dadi sumbering"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:04.067131117Z",
+  "model": "glm-5.3"
+}

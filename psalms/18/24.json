@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan aku dadi wong ngelmu-luhur marang ⟨panjenengane⟩, sarta aku njaga awakku saka pangacusku.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "lan aku dadi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wong ngelmu-luhur"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "sarta aku njaga awakku"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "saka pangacusku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:52.541933619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Para imam-Mu nganggo busana kabeneran, lan para setia-Mu rumasuka lan gumuyu nyanyi.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "para imam-Mu"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "nganggo busana"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "lan para setia-Mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "rumasuka lan nyanyi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:05.641667404Z",
+  "model": "glm-5.3"
+}

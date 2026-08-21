@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan ratune Israel ngandika marang Elisha, nalika panjenengane mirsani ⟨את⟩ wong-wong mau: \"Bapak, punapa kula nggebug? punapa kula nggebug?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan-ngandika"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "nalika-mirsani"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "punapa-kula-nggebug"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "punapa-kula-nggebug"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Bapak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:25:21.147931386Z",
+  "model": "glm-5.3"
+}

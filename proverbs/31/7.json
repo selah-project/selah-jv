@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Dheweke ngombe lan kelalen kalanganane, lan pandhewane ora kelingan maneh.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "lan kelalen"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "kalanganane"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "lan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "kelingan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:08.799967844Z",
+  "model": "glm-5.3"
+}

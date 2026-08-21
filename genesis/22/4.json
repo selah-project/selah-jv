@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Ing dinten kaping tiga Avraham mundhut ⟨את〕 mripatipun, lan mirsani ⟨את⟩ papan panggonan punika saking tebih.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ing dinten"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kaping tiga"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mundhut"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mripatipun"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mripatipun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan mirsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan punika"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan punika"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "saking tebih"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:25.516770227Z",
+  "model": "glm-5.3"
+}

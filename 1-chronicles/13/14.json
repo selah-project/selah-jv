@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan padha arone Elohim manggon ing omah Oved-Edom, ing omah, iya telung sasi; lan Yahweh ngedunake berkah marang ⟨את⟩ omah Oved-Edom lan ⟨את⟩ sakabehing sing diduweni.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "padha aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ing saenggone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telung"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan ngedunake berkah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah Oved-Edom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing sing diduweni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "diduweni"
+    }
+  ],
+  "timestamp": "2026-08-21T03:22:05.449574284Z",
+  "model": "glm-5.3"
+}

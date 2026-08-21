@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Awit lah, pepeteng bakal nutupi bumi, lan klamaking peteng ing para bangsa, nanging marang kowe Yahweh bakal srengéngé munggah, lan kamulyane ing atasmu bakal katon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "pepeteng"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "bakal nutupi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "lan klamaking peteng"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ing para bangsa"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "nanging marang kowe"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "bakal srengéngé munggah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "lan kamulyane"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ing atasmu"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bakal katon"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:54.206383710Z",
+  "model": "glm-5.3"
+}

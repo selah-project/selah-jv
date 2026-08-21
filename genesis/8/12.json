@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur panjenengane ngenteni maneh pitung dina liyane, sarta ngluncurake ⟨את⟩ merdang iku, lan awake ora nambah bali maneh marang panjenengane.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "banjur ngenteni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyane"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "sarta ngluncurake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merdang iku"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "merdang iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:56.726197357Z",
+  "model": "glm-5.3"
+}

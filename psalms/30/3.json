@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Yahweh, Elohimku, ing aku wis mangu mring Kowé, lan Kowé warasake aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "aku wis mangu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mring Kowé"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "lan Kowé warasake aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:20.298913056Z",
+  "model": "glm-5.3"
+}

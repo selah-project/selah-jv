@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan kabeh lawang-lawange lan palang-palange segi papat, jogan pandulu, lan ngadhep cendhe marang cendhe ping telu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "lawang-lawange"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "lan palang-palange"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "segi papat"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "jogan pandulu"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "lan ngadhep"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "cendhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "cendhe"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ping"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:31.915083523Z",
+  "model": "glm-5.3"
+}

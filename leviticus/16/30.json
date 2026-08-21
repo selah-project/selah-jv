@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Sebab ing dina iki panjenengané nambungi ⟨את⟩ kowé kanggo ngresiki kowé saka sadaya dosamu; ing ngarsané Yahweh kowé bakal resik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "nambungi\/dadékaké pangapura"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "kanggo ngresiki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka sadaya"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosamu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "kowé bakal resik"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:48.965360973Z",
+  "model": "glm-5.3"
+}

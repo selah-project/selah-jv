@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Begja dheweke sing nyekeli lan njebugake ⟨את⟩ bayi-bayimu marang ⟨the⟩ watu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "begja"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "sing nyekeli"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "lan njebugake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayi-bayimu"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "bayi-bayimu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:44.000021889Z",
+  "model": "glm-5.3"
+}

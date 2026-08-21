@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lah Yahweh Elohim kita wetokake dheweke ana ing ngarep kita, banjur awake ngetokake ⟨את⟩ dheweke lan ⟨את⟩ putrane lan ⟨את⟩ sakabehing wonge.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "wetokake dheweke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ana ing ngarep kita"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "banjur awake ngetokake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "putrane"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing wonge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "wonge"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:46.568536625Z",
+  "model": "glm-5.3"
+}

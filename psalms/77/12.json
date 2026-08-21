@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Aku bakal éling-kéling panggawéyané Yah; awit aku bakal éling kaajaiban-É saka jaman kuna.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "aku bakal éling-kéling"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "panggawéyané"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "aku bakal éling"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "saka jaman kuna"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "kaajaiban-É"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:27.273425101Z",
+  "model": "glm-5.3"
+}

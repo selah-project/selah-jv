@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan para wong mau njurukake ⟨את⟩ tangané, lan nggawa mlebu ⟨את⟩ Lot marang ngomahé, lan ⟨את⟩ lawange padha ditutup.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "njurukake"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangané"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangané"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "nggawa mlebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lawange"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "lawange"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "ditutup"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:35.006309371Z",
+  "model": "glm-5.3"
+}

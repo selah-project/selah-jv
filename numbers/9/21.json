@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 9:21",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan ana sing kadadéan imbus iku saka surup nganti esuk, lan imbus iku munggah ing esuk, banjur padha mangkat; utawa awan-dina lan wengi, lan imbus iku munggah, padha mangkat.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "lan ana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "imbus iku"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "saka surup"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "imbus iku"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "lan padha mangkat"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awan-dina"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan wengi"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "imbus iku"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "lan padha mangkat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:25.151557219Z",
+  "model": "glm-5.3"
+}

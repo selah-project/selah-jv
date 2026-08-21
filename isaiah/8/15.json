@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lang akèh-akèhé bakal kesandhung ing kono, padha tiba, padha tugel, padha kajala, padha katangkep.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "bakal kesandhung"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akèh-akèhé"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "padha tiba"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "padha tugel"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "padha kajala"
+    },
+    {
+      "surface": "andנלכדו",
+      "gloss": "padha katangkep"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:19.127809693Z",
+  "model": "glm-5.3"
+}

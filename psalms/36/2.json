@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Ponenganing pamungkang marang wong jahat ana ing sajroning atiku: ora ana wedi marang Elohim ing ngarepe paningalane.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ponenganing"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pamungkang"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "marang wong jahat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "paningalane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:30.192828009Z",
+  "model": "glm-5.3"
+}

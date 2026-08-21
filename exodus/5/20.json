@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan padha kepapagan ⟨את⟩ Moshe lan ⟨את⟩ Aharon kang ngadeg nemoni wong-wong mau, nalika padha metu saka ⟨את⟩ ngarsané Fir'aun.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "kepapag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "nemoni wong-wong mau"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "nalika padha metu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir'aun"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:40.601372805Z",
+  "model": "glm-5.3"
+}

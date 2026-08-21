@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan kowe bakal nggawe iku ⟨את⟩ dadi lenga urapan suci, campuran bumbu wewangian, gawean pangracik; lenga urapan suci bakal dadi iku.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowe bakal nggawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lenga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "campuran bumbu"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "wewangian"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawean"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "pangracik"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:04.652427643Z",
+  "model": "glm-5.3"
+}

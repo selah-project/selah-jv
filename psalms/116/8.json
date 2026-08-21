@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Awit Kowé wus ngluwari ⟨את⟩ jiwa kawula saka pati, ⟨את⟩ mripat kawula saka luh, ⟨את⟩ sikil kawula saka kegèsèr.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "wus ngluwari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kawula"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "saka pati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mripat kawula"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripat kawula"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "luh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikil kawula"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sikil kawula"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "saka kegèsèr"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:57.640758751Z",
+  "model": "glm-5.3"
+}

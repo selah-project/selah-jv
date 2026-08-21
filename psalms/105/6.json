@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Dhèwèké wijining Avraham, abdi-Nipun; para putraning Yaakov, pilihan-Nipun",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "wijing"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdinipun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "pilihanipun"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:40.523419737Z",
+  "model": "glm-5.3"
+}

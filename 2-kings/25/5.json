@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan wadya-bala Kasdim nyusul sang nata, lan padha nyandhet ⟨את⟩ dheweke ing ara-ara Yerikho; lan balahe kabeh padha kasebar saka ing sandhinge.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "lan nyusul"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wadya-bala"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "lan nyandhet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "balahe"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "kasebar"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "saka ing sandhinge"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:00.085710008Z",
+  "model": "glm-5.3"
+}

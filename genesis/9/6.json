@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sing numpahake getih manungsa, dening manungsa getihe bakal ditumpahake; awit ing rupa Elohim Panjenengané nitahake ⟨את⟩ manungsa.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Sing numpahake"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "dening manungsa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "bakal ditumpahake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ing rupa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:30.663247497Z",
+  "model": "glm-5.3"
+}

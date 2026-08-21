@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Kakuwatanku lan tembang pangamukku ⟨⟨iku⟩⟩ Yah, lan dadi pitulungan marang aku.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "kakuwatanku"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "lan tembang pangamukku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "pitulungan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:03.869746711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 125,
+  "translation": "Shir hama'alot. Sing padha percaya marang Yahweh kaya gunung Tsiyon, ora bakal owlak, langgeng salawasé panggonané.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "saka undhak-undhakan"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "sing padha percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "kaya gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bakal owlak"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "panggonané langgeng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:18.682442457Z",
+  "model": "glm-5.3"
+}

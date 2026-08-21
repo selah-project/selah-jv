@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Sumpah palsu lan goroh, lan matèni, lan nyolong, lan zina, padha mracak; lan getih marang getih padha kasusup.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "sumpah palsu"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "lan goroh"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "lan matèni"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "lan nyolong"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "lan zina"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "padha mracak"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "lan getih-getih"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "marang getih-getih"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "padha kasusup"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:18.132293251Z",
+  "model": "glm-5.3"
+}

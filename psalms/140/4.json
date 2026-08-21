@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Wusile padha nangselake ilate kaya ula; bisa.wereng ana ing sangisore bibire. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "padha nangselake"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilate"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bisa.wereng"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ula.ereng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "bibire"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:14.946803074Z",
+  "model": "glm-5.3"
+}

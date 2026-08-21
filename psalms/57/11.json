@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Sebab gedhe nganti ⟨the⟩ langit kesetya-Mu, lan nganti ⟨the⟩ mega-mega katresnan-Mu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨the⟩ langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kesetya-Mu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "⟨the⟩ mega-mega"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "katresnan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:07.434909343Z",
+  "model": "glm-5.3"
+}

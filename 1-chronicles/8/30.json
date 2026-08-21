@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan putrane sangkakane Abdon, lan Tsur, lan Kish, lan Baal, lan Nadab.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "lan putrane"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "sangkakane"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "lan Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "lan Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "lan Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "lan Nadab"
+    }
+  ],
+  "timestamp": "2026-08-21T03:19:46.811479192Z",
+  "model": "glm-5.3"
+}

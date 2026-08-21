@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Ndhunga ⟨את⟩ sirahing para putra Kehath saka tengahing para putra Lewi, miturut klane, miturut omahing para leluhuře ⟨the⟩.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ndhunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahing para putra Kehath"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehath"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "saka tengahing"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut klane"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "miturut omahing"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "para leluhuře"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:13.991706023Z",
+  "model": "glm-5.3"
+}

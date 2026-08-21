@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Luwih becik sing ora sira nadar, katimbang nadar banjur ora sira nayuh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "sira nadar"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "katimbang nadar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "banjur ora"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "sira nayuh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:53.403441296Z",
+  "model": "glm-5.3"
+}

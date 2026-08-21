@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Déné wong ⟨iku⟩ Moshe iku andhap asor banget, luwih tinimbang kabeh manungsa sing ana ing sadhuwuring lumahing bumi.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "déné wong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "andhap asor"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "luwih tinimbang kabeh"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lumahing"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:22:34.134265526Z",
+  "model": "glm-5.3"
+}

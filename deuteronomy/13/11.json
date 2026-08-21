@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 13:11",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan kowé nglumpregake ⟨dheweke⟩ nganggo watu lan ⟨dheweke⟩ mati; awit ⟨dheweke⟩ ndadèkaké ngusir kowé saka ngarsané Yahweh, Elohimmu, sing ngetokaké kowé saka bumi Mitsrayim, saka omahé para abdi.",
+  "tokens": [
+    {
+      "surface": "וסקלתו",
+      "gloss": "Lan kowé nglumpregake ⟨dheweke⟩"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "nganggo watu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "lan ⟨dheweke⟩ mati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "⟨dheweke⟩ ndadèkaké"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "ngusir kowé"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "sing ngetokaké kowé"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omahé"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para abdi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:04.256509014Z",
+  "model": "glm-5.3"
+}

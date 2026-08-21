@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Miturut ukuman-ukumanmu kabeh ⟨iku⟩ ngadeg nganti dina iki, awit samubarang ⟨are⟩ abdimu.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "miturut ukuman-ukumanmu"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nganti dina iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "samubarang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdimu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:56.490556647Z",
+  "model": "glm-5.3"
+}

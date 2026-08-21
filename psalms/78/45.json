@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Ia ngutus marang ⟨mereka⟩ swaran gegremet panggangsa, lan ⟨gegremet iku⟩ madhangi; lan kodhok, lan ⟨kodhok iku⟩ ngrusakake.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "marang ⟨mereka⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "swaran gegremet panggangsa"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "lan madhangi"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "lan kodhok"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "lan ngrusakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:33.689473128Z",
+  "model": "glm-5.3"
+}

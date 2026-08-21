@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan para panggedhe padha ngaturake ⟨את⟩ pasamadyaning altar ing dinane disucikake ⟨את⟩ iku; lan para panggedhe padha ngaturake ⟨את⟩ pasamadyane ing ngareping altar.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "lan padha ngaturake"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasamadyaning altar"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "pasamadyaning"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "disucikake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iku",
+      "marks": "altar"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "lan padha ngaturake"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasamadyane"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "pasamadyane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngareping"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:28.762296302Z",
+  "model": "glm-5.3"
+}

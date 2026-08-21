@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Eloah teka saka Teman, lan Suci saka gunung Paran. Selah. Kamulyane nut langit, lan puji-Paduka kebak bumi.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "saka Teman"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "lan Suci"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "saka gunung"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nut"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "kamulyane"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "lan puji-Paduka"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:34:58.342719420Z",
+  "model": "glm-5.3"
+}

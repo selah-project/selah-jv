@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan dhekeh nulis ing serat-serat, munjuk: Umumna pasa, lan dhadekna ⟨את⟩ Naboth lungguh ing sirahing wong akeh.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "lan dhekeh nulis"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "ing serat-serat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "umumna"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "lan dhadekna lungguh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naboth"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboth"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ing sirahing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:58.856123659Z",
+  "model": "glm-5.3"
+}

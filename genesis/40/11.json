@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan cangkir Paroh ana ing astanipun; lajeng kula mundhut ⟨את⟩ woh anggur-anggur iku lan kula peres ⟨את⟩ marang cangkire Paroh, lajeng kula paringake ⟨את⟩ cangkir iku ing tlatah astanipun Paroh.",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "Lan cangkir"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ing astanipun"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "lajeng kula mundhut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "woh anggur-anggur iku"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "woh anggur-anggur iku"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "lan kula peres"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "woh anggur-anggur iku (sesulih)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "cangkire"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "lajeng kula paringake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cangkir iku"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "cangkir iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tlatah astanipun (tapaning tangan)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:08.577570062Z",
+  "model": "glm-5.3"
+}

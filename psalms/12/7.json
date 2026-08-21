@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Tembung-tembung Yahweh iku tembung-tembung murni, kaya pérak sing dicithak ing wadhah lemah, disaring ping pitu.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "murni"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "dicithak"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "ing wadhah\/tanur"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "disaring"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ping pitu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:08.507896377Z",
+  "model": "glm-5.3"
+}

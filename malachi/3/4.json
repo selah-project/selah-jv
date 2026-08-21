@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan persembahane Yehudha lan Yerushalayim bakal énak ing panjenengane Yahweh, kaya déné dinaning jaman kina lan kaya taun-taun kuna.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "lan bakal énak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "persembahane"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kaya dinaning"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "jaman kina"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "lan kaya taun-taun"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "kuna"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:03.716030231Z",
+  "model": "glm-5.3"
+}

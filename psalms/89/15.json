@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Kabeneran lan pangadilan iku dhasar singgasana-Mu; kawelasan lan kalugasan ngarsani praupan-Mu.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Kabeneran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "lan pangadilan"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "dhasar"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "singgasana-Mu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kawelasan"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "lan kalugasan"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ngarsani"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praupan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:47.486095296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 150,
+  "translation": "Pujia ⟨את⟩-dheweke mawa cengceng swara, pujia ⟨את⟩-dheweke mawa cengceng kendhara.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pujia-dheweke"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "mawa cengceng"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "swara"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pujia-dheweke"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "mawa cengceng"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "kendhara"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:06.700528436Z",
+  "model": "glm-5.3"
+}

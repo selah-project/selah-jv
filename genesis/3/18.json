@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan landhyan lanijinan bakal thukul kanggo sira, lan sira bakal mangan ⟨את⟩ godhong-even sabana.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "lan landhyan"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "lanijinan"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "bakal thukul"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo sira"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "lan sira bakal mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "godhong-even sabana"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "godhong-even"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sabana"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:56.142902838Z",
+  "model": "glm-5.3"
+}

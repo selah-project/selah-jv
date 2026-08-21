@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 121,
+  "translation": "Tembang kanggo laku-laku munggah. Dakunggahake mripatku marang ⟨⟨the⟩⟩ gunung-gunung — saka endi tekane pitulunganku?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "kanggo laku-laku munggah"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "dakunggahake"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "saka endi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "pitulunganku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:28.540859014Z",
+  "model": "glm-5.3"
+}

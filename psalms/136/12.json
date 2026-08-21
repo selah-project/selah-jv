@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Kanthi tangan kang santosa lan lengen kang dipunjuwang, awit kasetyané langgeng salawasé.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "kanthi tangan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kang santosa"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "lan lengen"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "kang dipunjuwang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:01.121941340Z",
+  "model": "glm-5.3"
+}

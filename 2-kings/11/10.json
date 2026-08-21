@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lalu sang imam menehi marang para pangarsa satus ⟨את⟩ tombak lan ⟨את⟩ tameng-tameng sing kagungane sang raja Dawid, sing ana ing sajroning bethel Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "lalu menehi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "marang para pangarsa"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "satus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tombak"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tombak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tameng-tameng"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "tameng-tameng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kagungane sang raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing sajroning bethel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:44.338064814Z",
+  "model": "glm-5.3"
+}

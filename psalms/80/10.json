@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Kowé ngresiki papan ing ngarepe, lan ⟨ia⟩ ndhedhes oyode, lan ⟨ia⟩ ngisi bumi.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Kowé ngresiki papan"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "lan ndhedhes oyod"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "oyode"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "lan ngisi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:52.309303852Z",
+  "model": "glm-5.3"
+}

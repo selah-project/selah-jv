@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kabèh kita anaké satunggal bapak; kita iku wong jujur, dudu mata-mata para abdimu.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "kabèh kita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satunggal"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "jujur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "para abdimu"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:17.143849818Z",
+  "model": "glm-5.3"
+}

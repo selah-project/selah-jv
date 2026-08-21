@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 15:8",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Banjur diapu-apu ⟨את⟩ wong-wong iku saka suku nganti pupu — pamukulan gedhe banget — sawise iku medhun lan manggon ing retakaning watu Etam.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "diapu-apu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong iku"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "suku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "pupu"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pamukulan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gedhe banget"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "medhun"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "בסעיף",
+      "gloss": "ing retakaning"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "watu"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    }
+  ],
+  "timestamp": "2026-08-20T23:53:12.786324989Z",
+  "model": "glm-5.3"
+}

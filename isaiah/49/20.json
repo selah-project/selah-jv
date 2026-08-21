@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 49:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Manèh para anak sing kokelangan bakal ngucap ing kupingmu: 'Ciyut aku panggonané; mundhak-mundhak aku supaya aku bisa manggon.'",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "manèh"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakal ngucap"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "ing kupingmu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para anak"
+    },
+    {
+      "surface": "שכליך",
+      "gloss": "sing kokelanganmu"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ciyut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonané"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "mundhak-mundhak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "supaya aku bisa manggon"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:34.302540704Z",
+  "model": "glm-5.3"
+}

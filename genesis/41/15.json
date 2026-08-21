@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Paroah ngandika marang Yosef: Sepi ndelok anggenku ngimpi, lan ana nafsir ⟨את⟩; aku nate krungu bab sira, dingendikakake: sira krungu impi supaya bisa nafsirake ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "impi"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "anggenku ngimpi"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "lan nafsir"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nafsir"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nate krungu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "bab sira"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dingendikakake"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "sira krungu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "impi"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "supaya nafsirake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "impi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:50.860455150Z",
+  "model": "glm-5.3"
+}

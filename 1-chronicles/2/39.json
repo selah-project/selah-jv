@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Azaryah nampa keturunan ⟨את⟩ Khelets, lan Khelets nampa keturunan ⟨את⟩ Elasah.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "lan Azaryah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nampa keturunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Khelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "lan Khelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nampa keturunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasah"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:42.915113416Z",
+  "model": "glm-5.3"
+}

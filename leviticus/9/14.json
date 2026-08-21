@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan panjenengane njumbah ⟨את⟩ isi wetengé lan ⟨את⟩ sikile, lan ngobong ing inggil kurban bakar iku ing altar.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "Lan panjenengane njumbah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isi wetengé"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "isi wetengé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sikile"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "lan ngobong"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing inggil"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:23.198515925Z",
+  "model": "glm-5.3"
+}

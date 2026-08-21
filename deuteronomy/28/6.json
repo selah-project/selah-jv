@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Pinuji kowe ing tekamu, lan pinuji kowe ing tumuke.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ing tekamu"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "lan pinuji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ing tumuke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:21.739206152Z",
+  "model": "glm-5.3"
+}

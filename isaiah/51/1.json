@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Rungokna aku, sira kang ngoyak kadilaran, kang nggoleki Yahweh: padha ndelenga marang watu karang saka endi sira didhodhog, lan marang bolongan lubang saka endi sira digali.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "rungokna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "kang ngoyak"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kadilaran"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kang nggoleki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "padha ndelenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "צור",
+      "gloss": "watu karang"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "sira didhodhog"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "bolongan"
+    },
+    {
+      "surface": "בור",
+      "gloss": "lubang"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "sira digali"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:35.193657485Z",
+  "model": "glm-5.3"
+}

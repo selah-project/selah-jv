@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Swara ⟨saka aku⟩ marang Elohim, lan aku nguwuh; swara marang Elohim, lan ⟨Hyang⟩ ngrungokake aku.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "swara saka aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "lan aku nguwuh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "lan ngrungokake"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:52.040462839Z",
+  "model": "glm-5.3"
+}

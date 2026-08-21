@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Elohim, kang kabecikanipun, badhe ngedhari kula; Elohim badhe ndherekaken kula mirsani para musuh kula.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kabecikanipun"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ngedhari kula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ndherekaken kula mirsani"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "para musuh kula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.084497645Z",
+  "model": "glm-5.3"
+}

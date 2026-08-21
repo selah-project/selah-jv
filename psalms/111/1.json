@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 111,
+  "translation": "Pamuja marang Yah! Dakpamuji Yahweh ing sadhuwuring atiku, ing panityané wong-wong jujur lan ing pasamuwan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "padha muji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "dakpamuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ing panityané"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wong-wong jujur"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "lan ing pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:12.471931396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Menawa padha ngendika: Ayo marga ⟨את⟩ kula, ngluwung tumrap getih, ngepung ndhelik tumrap wong tanpa dosa, tanpa alesan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "padha-ngendika"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "marga ⟨את⟩ kula",
+      "marks": "kula"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "ngluwung"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "tumrap-getih"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "ngepung-ndhelik"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "tumrap-wong-tanpa-dosa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa-alesan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:43.569732594Z",
+  "model": "glm-5.3"
+}

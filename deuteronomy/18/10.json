@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Aja ana sing ketemu ing antaramu: sing ngglindhirake anak lanang utawa wadone ing geni, juru tenung ramalan, juru niteni nitèn, juru mantra, lan juru sèhir",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ketemu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing antaramu"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "sing ngglindhirake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "wadone"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "juru ramalan"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "tenung ramalan"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "juru niteni"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "juru mantra"
+    },
+    {
+      "surface": "andומכשף",
+      "gloss": "juru sèhir"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:44.173478853Z",
+  "model": "glm-5.3"
+}

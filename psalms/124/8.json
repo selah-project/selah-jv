@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 124,
+  "translation": "Pitulung kita ⟨⟨iku⟩⟩ ing jenengé Yahweh, sing nitahaké langit lan bumi.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "pitulung kita"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing jenengé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sing nitahaké"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "lan bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:18.782513252Z",
+  "model": "glm-5.3"
+}

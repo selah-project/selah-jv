@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan ratu Babel natahake ⟨את⟩ Mattanyah, pakdhe-ne, ing panggone dhewe; banjur diganti ⟨את⟩ asmane dadi Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "lan-natahake"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "pakdhe-ne"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ing panggone dhewe"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "banjur-diganti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmane"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:16.720977027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 84,
+  "translation": "Malah manuk cilik nemu omah, lan julang gapura sarananggo awaké dhéwé, papan panggonan anak-anaké, ⟨את⟩ mesbehe-Mu, Yahweh Tzevaot, Ratuku lan Elohimku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Malah"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "manuk cilik"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nemu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "lan julang gapura"
+    },
+    {
+      "surface": "קן",
+      "gloss": "sarananggo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "awaké dhéwé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "papan panggonan"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "nggonakaké"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesbehe-Mu"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "mesbehe-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Ratuku"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "lan Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:57.045303513Z",
+  "model": "glm-5.3"
+}

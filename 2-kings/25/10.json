@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan ⟨את⟩ tembok Yerushalayim ing saubenge diruntuhake sakabehing wadya Kasdim kang ana sangisore pangerna para juru sembelih.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tembok Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing saubenge"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "diruntuhake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wadya"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangerna"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para juru sembelih"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:28.866771620Z",
+  "model": "glm-5.3"
+}

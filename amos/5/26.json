@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan kok nggawa ⟨את⟩ Sikkut ratu kok, lan ⟨את⟩ Kiyun sesajen-gambar kok, bintang Allah kok, kang kok gawe kanggo kok dhewe.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "Lan kok nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut ratu kok"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "ratu kok"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Kiyun sesajen-gambar kok"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "sesajen-gambar kok"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "bintang"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Allah kok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kok gawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo kok dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:29:14.867407662Z",
+  "model": "glm-5.3"
+}

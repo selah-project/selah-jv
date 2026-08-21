@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Aku nglilakake dhewe ing kalongé atiné, sarta padha lumaku miturut pituture dhewe.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Aku nglilakake dhewe"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "ing kalongé"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "padha lumaku"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "miturut pituture dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:17.705519180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Utusna rotimu marang lumahing banyu, awit sawise dina akèh kowe bakal nemu ⟨ijo⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Utusna"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "rotimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lumahing"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sawise ... akèh"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "kowe bakal nemu ⟨ijo⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:30.442212911Z",
+  "model": "glm-5.3"
+}

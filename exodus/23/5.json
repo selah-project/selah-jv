@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Yen ndeleng keledai wong sing sengit marang kowé lungguh ngisor momotané, lan kowé kendhatèn ora gelem nulungi, aja kuwàt—priksa nulungi bareng dhèwèké.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keledai"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "sing sengit marang kowé"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "lungguh ngisor"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngisor"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "momotané"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "kendhatèn"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "nulungi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "priksa"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "nulungi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "nulungi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:42.705883356Z",
+  "model": "glm-5.3"
+}

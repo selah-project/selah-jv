@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan saiki bokmenawa kowe pancen lunga, awit kowe wis getun banget marang omah bapakmu; nanging kenapa kok culika ⟨את⟩ Allahingsun?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "kowe lunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "getun"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "kowe getun banget"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "marang omah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "kok culika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Allahingsun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Allahingsun"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:31.243618750Z",
+  "model": "glm-5.3"
+}

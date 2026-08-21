@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan anake Ezrah: Yeter, lan Mered, lan Efer, lan Yalon; lan ⟨ia⟩ ngandhut ⟨את⟩ Miryam lan ⟨את⟩ Syamai lan ⟨את⟩ Yisbah, bapake ⟨saka⟩ Esytemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "lan anake"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "lan Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "lan Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "lan Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ngandhut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Syamai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Syamai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yisbah"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yisbah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapake"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esytemoa"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:51.893064979Z",
+  "model": "glm-5.3"
+}

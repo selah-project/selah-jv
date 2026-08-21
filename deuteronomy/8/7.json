@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sebab Yahweh Elohimmu nggawa kowé menyang bumi sing apik, bumi kang ana kali-kaline banyu, sumber-sumber lan kadhangton sing metu ing lepen lan ing redi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "nggawa kowé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "sing apik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "sumber-sumber"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "lan kadhangton"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "sing metu"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "ing lepen"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "lan ing redi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:39.009231714Z",
+  "model": "glm-5.3"
+}

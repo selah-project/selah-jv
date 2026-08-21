@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Sebab Paduka ndadèkaké dheweke dadi berkah salawasé; Paduka mbungahaké dheweke kalawan bungah ⟨את⟩ ing ngarsané Paduka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "Paduka ndadèkaké dheweke"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "dadi berkah"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "Paduka mbungahaké dheweke"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kalawan bungah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ing ngarsané Paduka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ing ngarsané Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:04.627663807Z",
+  "model": "glm-5.3"
+}

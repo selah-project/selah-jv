@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Saiki Shemuel wis séda, lan sarèhing Israel ngluhuri panjenengané, lan ngkebekaké ing Rama, ing kuthané dhéwé. Sawetara Shaul wis nyingkiraké para parancana roh saka ⟨את⟩ para juru tenungan saka ing pasisiré.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Saiki Shemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wis séda"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ngluhuri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "panjenengané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sarèhing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "lan ngkebekaké"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "ing Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "ing kuthané dhéwé"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Sawetara Shaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "wis nyingkiraké"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "para parancana roh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para juru tenungan"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "para juru tenungan"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "saka ing pasisiré"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:47.376931192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Elohim ngendika marang Noach, ngendika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:54.677925800Z",
+  "model": "glm-5.3"
+}

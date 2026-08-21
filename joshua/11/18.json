@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Suwe banget Yehosua perang marang ⟨את⟩ kabeh ratu-ratu iki.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh ratu-ratu iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ratu-ratu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:06.225729497Z",
+  "model": "glm-5.3"
+}

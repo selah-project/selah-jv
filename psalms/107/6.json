@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Banjur padha njerit marang Yahweh ing cilakane, saka sesak-sesake padha dimreksa.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Banjur padha njerit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ing cilakane"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggone"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "saka sesak-sesake"
+    },
+    {
+      "surface": "ייצילם",
+      "gloss": "padha dimreksa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:02.697095363Z",
+  "model": "glm-5.3"
+}

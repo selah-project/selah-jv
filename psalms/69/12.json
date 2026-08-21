@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Lan aku ngagem sandhangan sak, lan aku dadi pralambang ing antarane wong-wong mau.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "lan aku ngagemake"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "sandhangan"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sak"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "lan aku dadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "pralambang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:15.828712567Z",
+  "model": "glm-5.3"
+}

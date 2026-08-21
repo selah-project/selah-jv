@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Kheber nampa putra ⟨את⟩ Yaflet, ⟨את⟩ Syomer, lan ⟨את⟩ Khotam, sarta ⟨את⟩ Syua, dulure wadon.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Lan Kheber"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nampa putra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Syomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Syomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Khotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Syua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Syua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "dulure wadon"
+    }
+  ],
+  "timestamp": "2026-08-21T03:19:41.780811547Z",
+  "model": "glm-5.3"
+}

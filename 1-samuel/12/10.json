@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur padha njerit marang Yahweh lan padha munjuk: Aku wis dosa, awit aku wis nglirwakake ⟨את⟩ Yahweh lan ngabdi marang ⟨את⟩ para Baal lan ⟨את⟩ para Asytoret; saiki mugi luputna aku saka tangané mungsuh-mungsuhku, supaya aku ngabdi marang Paduka.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "banjur padha njerit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan padha munjuk"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "aku wis dosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "aku wis nglirwakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "lan ngabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para Asytoret"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "para Asytoret"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "mugi luputna aku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "mungsuh-mungsuhku"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "supaya aku ngabdi marang Paduka"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:08.254887288Z",
+  "model": "glm-5.3"
+}

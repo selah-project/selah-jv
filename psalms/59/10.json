@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Kakuwatanipun — dhateng Paduka kula estreni, awit Elohim panetepan kula.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "kakuwatanipun"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dhateng Paduka"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "kula estreni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "panetepan kula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.084395626Z",
+  "model": "glm-5.3"
+}

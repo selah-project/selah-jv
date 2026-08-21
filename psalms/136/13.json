@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Dheweke sing mechah-mechahake Segara Sup ing dadi rong bagean, sebab awet salawas-lawase karunia-Né.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "sing mechah-mechahake"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sup (kembang seka wit papirus)"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "dadi rong bagean"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "awet salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "karunia-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:53.344721473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Ing dina iku Yahweh gawé prajanjenan karo ⟨את⟩ Avram, ngendika: Marang warihmu Kuring wènèhaké ⟨את⟩ bumi iki, saka kali Mesir nganti kali kang gedhé, kali Prat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gawé prajanjenan (nyigar)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjenan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "marang warihmu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Kuring wènèhaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi iki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "saka kali"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kang gedhé"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Prat"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:24.267286034Z",
+  "model": "glm-5.3"
+}

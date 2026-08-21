@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan aku sengsit, aku dhéwé, ⟨את⟩ sakabèhing prakawining aku, sing dakgarap ing sangisore srengéngé, amarga kudu dak tinggalake marang manungsa sing bakal ana ing sapungkurku.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "lan aku sengsit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku dhéwé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhing prakawining aku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhing"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "prakawining aku"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "sing dak-"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "garap"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "amarga kudu dak tinggalake"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "marang manungsa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sing bakal ana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ing sapungkurku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:25.490827793Z",
+  "model": "glm-5.3"
+}

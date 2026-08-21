@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Mungsuh ora bakal nuwani ⟨dhèwèké⟩; lan anaking kaluputan ora bakal nindhes ⟨dhèwèké⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bakal nuwani (nuntut utang)"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dhèwèké⟩"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "lan anaking"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "bakal nindhes ⟨dhèwèké⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:52.119352185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "El bakal ngrungokake lan nangehi dheweke, Yaiku sing linggih (sangga) saka jaman kuna. Selah. Wong kang ora ana owah-owahane, lan ora wedi marang Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "bakal ngrungokake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "lan nangehi dheweke"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sing linggih"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "saka jaman kuna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "owah-owahan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:45.965714401Z",
+  "model": "glm-5.3"
+}

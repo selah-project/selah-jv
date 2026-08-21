@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Kakerungan ana ing satengahé, lan panindhesan lan Tipu durung minggat saka alun-aluné.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "kakerungan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ana ing satengahé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "minggat"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "saka alun-aluné"
+    },
+    {
+      "surface": "תך",
+      "gloss": "panindhesan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "lan Tipu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:04.560171166Z",
+  "model": "glm-5.3"
+}

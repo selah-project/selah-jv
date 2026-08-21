@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Mujudake Yahweh ⟨את⟩ saka bandhamu, lan saka kawitaning saben pametune panenmu.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Mujudake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "saka bandhamu"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "lan saka kawitaning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "pametune panenmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:43.595936011Z",
+  "model": "glm-5.3"
+}

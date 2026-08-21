@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sabda sing dideleng dening Yesyahu, putrane Amots, bab Yehuda lan Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Sabda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dideleng"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "dening Yesyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "bab"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:33.409550955Z",
+  "model": "glm-5.3"
+}

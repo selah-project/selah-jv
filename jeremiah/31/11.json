@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Sebab Yahweh wis nglunasi ⟨את⟩ Yaakov, lan wis numbangake ⟨dheweke⟩ saka astané sing luwih kuwat tinimbang ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wis nglunasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "lan wis numbangake ⟨dheweke⟩"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka astané"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sing luwih kuwat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tinimbang ⟨dheweke⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T00:57:53.303358861Z",
+  "model": "glm-5.3"
+}

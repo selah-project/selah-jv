@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Luwih becik ngungsi ing Yahweh tinimbang percaya marang manungsa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ngungsi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "tinimbang percaya"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "marang manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:37.105623098Z",
+  "model": "glm-5.3"
+}

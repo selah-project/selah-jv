@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "⟨את⟩ Wong liya kowé olèh ngunjal, nanging apa kang ana ing kowé karo saduluré, ⟨את⟩ saduluré tanganmu kang ngiwih.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong liya"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "wong liya"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "kowé ngunjal"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nanging apa kang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ing kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saduluré"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "saduluré"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "ngiwih"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:21.013162394Z",
+  "model": "glm-5.3"
+}

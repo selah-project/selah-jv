@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Aharon nyungaake ⟨את⟩ tangane ing sandhuwure banyune Mitsrajim, lan kodhok iku munggah, lan nutupi ⟨את⟩ tanah Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "lan nyungaake"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwure"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "banyune"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "kodhok iku"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "lan nutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:41.857266453Z",
+  "model": "glm-5.3"
+}

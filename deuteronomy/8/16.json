@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "sing maringi sira mangan man ing ara-ara, sing ora weruh para leluhurmu, supaya nandhuk sira lan supaya nyoba sira, kanggo nglakokake kabecikan marang sira ing pungkasaning dinamu",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "sing maringi sira mangan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "para leluhurmu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "nandhuk sira"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "lan supaya"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "nyoba sira"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "kanggo nglakokake kabecikan marang sira"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ing pungkasaning dinamu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:30.213898035Z",
+  "model": "glm-5.3"
+}

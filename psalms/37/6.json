@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan bakal ngetokake kaya cahya kabeneranmu, lan kukummu kaya awan sing terang.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "lan bakal ngetokake"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "kaya cahya"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kabeneranmu"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "lan kukummu"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "kaya awan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:46.350562335Z",
+  "model": "glm-5.3"
+}

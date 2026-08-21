@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lajeng ratu Babel nglumbari ⟨את⟩ dheweke lan mateni dheweke ing Rivlah, ing tanah Hamat; mangkono Yehuda diunggalake saka ing lemahé.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "nglumbari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ratu Babel nglumbari dheweke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "mateni dheweke"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "ing Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "diunggalake"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "lemahé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:25.734737883Z",
+  "model": "glm-5.3"
+}

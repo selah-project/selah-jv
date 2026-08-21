@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Awit sing ganas bakal sirna, lan sing nidra tamat, lan kabeh sing padha njaga drya-kadrya apa-apa bakal padha kasetrum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "bakal sirna"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "sing ganas"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "lan bakal tamat"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "sing nidra"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "lan bakal padha kasetrum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שקדי",
+      "gloss": "sing padha njaga (ora tau turer)"
+    },
+    {
+      "surface": "און",
+      "gloss": "drya-kadrya apa-apa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:59.628875051Z",
+  "model": "glm-5.3"
+}

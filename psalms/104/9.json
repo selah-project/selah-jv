@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Wates ⟨⟨Panjenengan⟩⟩ andhapake — ora bakal kalangkahi, ora bakal bali maneh nutup ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "andhapake"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "kalangkahi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "nutup"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:21.236972369Z",
+  "model": "glm-5.3"
+}

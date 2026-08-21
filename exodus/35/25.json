@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan saben wadon sing wicara atine mili nganti tangané, sarta wong-wong mau ngaturaké ban malang: ⟨את⟩ kain biru tuwa lan ⟨את⟩ kain wungu, ⟨את⟩ ulat kesumba abrit, lan ⟨את⟩ bahan linen alus.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wadon"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wicara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "nganti tangané"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "mili"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "sarta ngaturaké"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ban malang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kain biru tuwa"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "kain biru tuwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kain wungu"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "kain wungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulat kesumba abrit"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kesumba abrit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bahan linen alus"
+    },
+    {
+      "surface": "השש",
+      "gloss": "bahan linen alus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:11.225983715Z",
+  "model": "glm-5.3"
+}

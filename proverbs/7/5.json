@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "supaya padha nglindhungi sira saka wadon liyan, saka wadon ngamanget sing ndadekake alus tembung-tembunge.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "supaya nglindhungi sira"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "saka wadon"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "liyan"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "saka wadon ngamanget"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "ndadekake alus"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:15.417676125Z",
+  "model": "glm-5.3"
+}

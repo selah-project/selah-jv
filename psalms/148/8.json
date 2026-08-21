@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Geni lan es curug, salju lan ambune udan, angin puting beli kang nindakake sabdane;",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "lan es curug"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "salju"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "lan ambune udan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "puting beli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kang nindakake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sabdane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:44.632069847Z",
+  "model": "glm-5.3"
+}

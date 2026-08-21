@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan ratu saka Sheba ndeleng ⟨את⟩ kawicaksarane Shelomah, lan ⟨dha⟩ omah kang yasa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "saka Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawicaksarane Shelomah"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kawicaksarane"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "lan omah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    }
+  ],
+  "timestamp": "2026-08-21T03:36:55.102567982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Padha sukur marang Adonai para bendara, awit nganti langgeng sih-kasetane.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Padha sukur"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "marang Adonai"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "para bendara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "nganti langgeng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sih-kasetane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:57.559498434Z",
+  "model": "glm-5.3"
+}

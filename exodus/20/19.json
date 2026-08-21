@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur padha matur marang Moshe: Kowaa dhéwé sing ngendika karo aku, aku arep ngrungokaké; dudu Élohim sing ngendika karo aku, supaya aku ora mati.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Banjur padha matur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowaa dhéwé"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "karo aku"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "aku arep ngrungokaké"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dudu\/aja"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sing ngendika"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "karo aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Élohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "aku mati"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:49.644139594Z",
+  "model": "glm-5.3"
+}

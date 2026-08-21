@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Aharon sarta anak-anake bakal teka nalika kampung iku mangkat, lan padha nurunake ⟨את⟩ kelambu panutupé hunging, lan padha nutupi marang iku ⟨את⟩ petiné pasaksian.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sarta anak-anake"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "nalika mangkat"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampung iku"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "lan padha nurunake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambu panutupé hunging"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "kelambu panutupé"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "hunging"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "lan padha nutupi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "marang iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petiné pasaksian"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pasaksian"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:23.690170829Z",
+  "model": "glm-5.3"
+}

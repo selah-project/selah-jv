@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Aku wus ngetang prajanjian marang kang pinilihku; aku wus supata marang Dawid abdiku.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "aku wus ngetang"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "marang kang pinilihku"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "aku wus supata"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdiku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:50.901741912Z",
+  "model": "glm-5.3"
+}

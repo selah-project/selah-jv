@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Bakal ngadili wong mlarat ⟨umat⟩, bakal ngluwari putra-putrane wong kasusahan, lan bakal ngrémukake sing nindhes.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "bakal ngadili"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "bakal ngluwari"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang putra-putrane"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wong kasusahan"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "lan bakal ngrémukake"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "sing nindhes"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:41.339594844Z",
+  "model": "glm-5.3"
+}

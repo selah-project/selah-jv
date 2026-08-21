@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Ing tentrem yekti aku anggalir lan turu, awit sira, Yahweh, piyambak, mitayani ngedunungake aku.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "ing tentrem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "yekti (bebarengan)"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "aku anggalir"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "lan turu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "piyambak"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "mitayani"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "ngedunungake aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:24.359017495Z",
+  "model": "glm-5.3"
+}

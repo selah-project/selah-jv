@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Dalane setya aku milihi, angel-angel panginteranmu dakdhisikake ing ngarsaku.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "setya"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "aku milihi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "angel-angel panginteranmu"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "dakdhisikake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:14.488019954Z",
+  "model": "glm-5.3"
+}

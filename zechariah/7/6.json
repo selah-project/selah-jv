@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan apa nalika sira mangan, lan apa nalika sira ngombé, apa dudu sira dhéwé sing mangan, lan sira dhéwé sing ngombé?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lan apa nalika"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sira mangan"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "lan apa nalika"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "sira ngombé"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "apa dudu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sira dhéwé"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "sing mangan"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lan sira dhéwé"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "sing ngombé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:37:06.362659872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Yahweh nguncalake marang kowe ⟨את⟩ sinedhan, ⟨את】 pahelan, lan ⟨את⟩ wewarah ing sabarang panjengananmu sing kokgawe, nganti kesirnanmu lan nganti tinarjamah enggal, amarga saka cacadane panggaweyanmu sing koktinggalake Aku.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "nguncalake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinedhan"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "sinedhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pahelan"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "pahelan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wewarah"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "wewarah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sabarang"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "panjenganan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanmamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kokgawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "kesirnanmu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "tinarjamahmu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "enggal"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "cacade"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "panggaweyanmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "koktinggalake Aku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:40.602700644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kaya kidang nepsu ngelak marang ilining banyu, mangkono uga awaking jiwa nepsu marang Kowé, ya Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "kaya kidang"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "nepsu ngelak"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ilining banyu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono uga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "awaking jiwa"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "nepsu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Kowé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:06.111895358Z",
+  "model": "glm-5.3"
+}

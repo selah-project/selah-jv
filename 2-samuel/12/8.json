@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "lan Aku maringi kowé ⟨את⟩ omahé bendaramu, lan ⟨את⟩ garwa-garwané bendaramu ing pangkonmu; lan Aku maringi kowé ⟨את⟩ omahé Yisrael lan Yehudah; lan yèn isih sethithik, Aku bakal nambahaké marang kowé kaya mangkono lan kaya mangkono.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "lan Aku maringi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omahé bendaramu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bendaramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "garwa-garwané bendaramu"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "garwa-garwa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bendaramu"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "ing pangkonmu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "lan Aku maringi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omahé Yisrael lan Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "lan Yehudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan yèn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "isih sethithik"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "Aku bakal nambahaké"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "lan kaya mangkono"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:46.408693714Z",
+  "model": "glm-5.3"
+}

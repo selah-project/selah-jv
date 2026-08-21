@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Barak-suci-Ku sira remehake, lan ⟨את⟩ sabat-sabat-Ku sira nistakake.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "barak-suci-Ku"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "sira remehake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabat-sabat-Ku"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabat-sabat-Ku"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "sira nistakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:13:25.745393260Z",
+  "model": "glm-5.3"
+}

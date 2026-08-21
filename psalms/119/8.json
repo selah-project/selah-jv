@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "⟨את⟩ titah-titahmu dakayomi; aja kari aku nganti tewas.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "titah-titahmu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "titah-titahmu"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "dakayomi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "kari aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tewas"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:41.597260151Z",
+  "model": "glm-5.3"
+}

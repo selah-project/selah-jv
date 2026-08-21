@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Sadurunge panjenengane, para kang ndunungi ara-ara bakal lumungkuh, lan mungsuh-mungsuhe bakal njilat ⟨את⟩ lebu.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "sadurunge panjenengane"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bakal lumungkuh"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "para kang ndunungi ara-ara"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "lan mungsuh-mungsuhe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lebu"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "bakal njilat"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:17.296640574Z",
+  "model": "glm-5.3"
+}

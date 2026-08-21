@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Sing ngirim tandha-tandha lan kaajaiban ana ing tengah-tengahmu, Mitsrajim, marang Fir'aun lan marang kabeh abdine.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tandha-tandha"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "lan kaajaiban"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ana ing tengah-tengahmu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "marang Fir'aun"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan marang kabeh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdine"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:04.448959019Z",
+  "model": "glm-5.3"
+}

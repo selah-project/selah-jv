@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Para anaké wong lanang, nganti kapan kamulyanku didadekake cacad? Kowe padha katresna marang kasusilan lan goleki gorokan. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "para anaké"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyanku"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "didadekake cacad"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "kowe padha katresna"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "marang kasusilan"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "goleki"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "gorokan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:18.895581594Z",
+  "model": "glm-5.3"
+}

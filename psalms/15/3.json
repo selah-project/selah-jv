@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Ora nglunturi nganggo ilaté, ora nglakoni ala marang kanca cedhaké, lan ora ngambah cacad marang wong sing cedhak karo dhèwèké.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nglunturi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nganggo\/marang"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "ilaté"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "marang kanca cedhaké"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "lan cacad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ngambah"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "wong sing cedhak karo dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:01.176441079Z",
+  "model": "glm-5.3"
+}

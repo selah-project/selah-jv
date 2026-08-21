@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 29:15",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Sebab awake dhewe iku tamu ana ing ngarsanira, lan nggon munggah manggon, kaya kabeh leluhur kita; dina-dina kita kaya bayangan ana ing bumi, lan ora ana pangarep-arep.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "tamu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "awake dhewe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ana ing ngarsanira"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "lan nggon munggah manggon"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kaya kabeh"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "leluhur kita"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kaya bayangan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dina-dina kita"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "pangarep-arep"
+    }
+  ],
+  "timestamp": "2026-08-21T04:27:34.304769021Z",
+  "model": "glm-5.3"
+}

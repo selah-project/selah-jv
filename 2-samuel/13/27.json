@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Nanging Avshalom ngudi nganti kendel, lan ⟨raja⟩ ngutus ⟨את⟩ bareng piyambakipun ⟨את⟩ Amnon lan ⟨את⟩ kabeh para putra sang raja.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "ngudi nganti kendel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "marang piyambakipun"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bareng piyambakipun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabeh para putra sang raja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T00:09:11.749532312Z",
+  "model": "glm-5.3"
+}

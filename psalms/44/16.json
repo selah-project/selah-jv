@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Sadina muput aibku ana ing ngarsaku, lan isin rai iki wus nutupi aku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "aibku"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ing ngarsaku"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "lan isin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rai"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "wus nutupi aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:35.633980520Z",
+  "model": "glm-5.3"
+}

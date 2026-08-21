@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aku ngubengi, aku lan atiku, kanggo ngerti lan nlusuri, goleki kawicaksanan lan akal, lan kanggo ngerti kaluputan saka kabodholan, lan kakudunan sanggah kagila-gilaan.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "lan atiku"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kanggo ngerti"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "lan kanggo nlusuri"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "lan goleki"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kawicaksanan"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "lan akal"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "lan kanggo ngerti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kabodholan"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "lan kakudunan"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "kagila-gilaan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:04.796959410Z",
+  "model": "glm-5.3"
+}

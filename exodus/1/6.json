@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Yusuf mati, lan kabeh sadulure, lan kabeh wong ing jaman kuwi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Banjur mati"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulure"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "wong ing jaman"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kuwi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:05.905835946Z",
+  "model": "glm-5.3"
+}

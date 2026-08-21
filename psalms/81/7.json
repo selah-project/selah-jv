@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Safire saka pasungguhan daksingkirake, tangane saka bakul padha nglintas.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "daksingkirake"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "saka pasungguhan"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "safire"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "saka bakul"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "padha nglintas"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:27.690209564Z",
+  "model": "glm-5.3"
+}

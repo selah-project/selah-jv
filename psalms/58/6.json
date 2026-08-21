@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Sing ora ngrungokake swarane wong-wong sing nguwuh, sanadyan pinter banget nggawe jampi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "wong-wong sing nguwuh"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "nggawe"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "jampi"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "pinter banget"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:44.366796156Z",
+  "model": "glm-5.3"
+}

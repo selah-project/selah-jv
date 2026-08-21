@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Luwh apik wong ketemu beruang sing kelangan anak-anake, tinimbang ketemu bodho ing kalindhuane.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "ketemu"
+    },
+    {
+      "surface": "דב",
+      "gloss": "beruang"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "kelangan anak-anake"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "tinimbang aja"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "bodho"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "ing kalindhuane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:15:07.613804676Z",
+  "model": "glm-5.3"
+}

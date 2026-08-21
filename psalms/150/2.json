@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 150,
+  "translation": "Puji Panjenengane ing kaluhuran-gagahane; puji Panjenengane miturut kaluwihaning kaagungane.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Puji Panjenengane"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "ing kaluhuran-gagahane"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "puji Panjenengane"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "miturut kaluwihaning"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kaagungane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:10.906259753Z",
+  "model": "glm-5.3"
+}

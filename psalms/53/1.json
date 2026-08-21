@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Kanggo pangulu kor, miturut Machalat, piwulane Dewid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangulu kor"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "piwulane"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dewid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:12.741815467Z",
+  "model": "glm-5.3"
+}

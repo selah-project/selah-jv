@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Kanggo panglima wirama. Kanggo abdine Yahweh, yaiku Dawid, sing ngandika marang Yahweh ⟨את⟩ tembung-tembunge tembang iki, ing dinane Yahweh ngluwari ⟨את⟩ dheweke saka tangané kabeh mungsuhé lan saka tangané Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo panglima wirama"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kanggo abdine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "yaiku Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembunge tembang iki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "mungsuhé"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "lan saka tangané"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:26.223376353Z",
+  "model": "glm-5.3"
+}

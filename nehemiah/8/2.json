@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Ezra sang imam nggawa ⟨את⟩ Torat mau ing ngarsané jamaah, saka wong lanang tekan wong wadon, lan sapa waé sing paham kanggo ngrungokaké, ing dina siji, ing sasi kapitu.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "lan nggawa"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torat"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "saka wong lanang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan tekan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wong wadon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "sing paham"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kanggo ngrungokaké"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kapitu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:13:22.471471910Z",
+  "model": "glm-5.3"
+}

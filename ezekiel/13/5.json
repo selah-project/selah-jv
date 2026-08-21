@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 13:5",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Kowe ora munggah ana ing panyebelan, lan ora ngadekake pager ing ngisore ⟨את⟩ betha Yisrael, supaya bisa ngadeg ing perang ing dinane Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "בפרצות",
+      "gloss": "ana ing panyebelan"
+    },
+    {
+      "surface": "ותגדרו",
+      "gloss": "ngadekake"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "pager"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing ngisore"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "betha Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "betha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "supaya ngadeg"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ing perang"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:10:29.317448475Z",
+  "model": "glm-5.3"
+}

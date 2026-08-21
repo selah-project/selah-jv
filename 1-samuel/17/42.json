@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Filisti iku ndeleng, banjur weruh ⟨את⟩ David lan cidra marang awaké, jargané ⟨dia⟩ isih enom, abrit rambuté, lan bagus rupané.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "cidra marang awaké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jargané"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨dia isih⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "enom"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "abrit rambuté"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lan"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "bagus"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rupané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:59.544566640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Déné aku iki ngandika ing sajroning karukunanku: Masthi ora bakal kasungsut, salawasé.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "déné aku iki"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "ing sajroning karukunanku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "masthi ora"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bakal kasungsut"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:38.423965426Z",
+  "model": "glm-5.3"
+}

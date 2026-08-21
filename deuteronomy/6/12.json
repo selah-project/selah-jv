@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Ingati-ati supaya sira ora nglalekake ⟨את⟩ Yahweh, sing ngetokake sira saka bumi Mitsrayim, saka omahing para abdi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Ingati-ati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "supaya sira"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nglalekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ngetokake sira"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omahing"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para abdi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:42.325955908Z",
+  "model": "glm-5.3"
+}

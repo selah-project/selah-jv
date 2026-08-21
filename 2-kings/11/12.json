@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur diwetokake ⟨את⟩ putrane sang raja, lan dipasangi ing sirahé ⟨את⟩ makutha lan ⟨את⟩ pasaksian, lan padha nglantik ⟨את⟩ dheweke lan ngurapake dheweke, lan padha nopak tangan, lan padha munjuk: Sugeng sang raja!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "banjur diwetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrane sang raja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan dipasangi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing sirahé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makutha"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "makutha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pasaksian"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "pasaksian"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "lan padha nglantik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "lan ngurapake dheweke"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lan padha nopak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha munjuk"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Sugeng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:44.338379390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan kowe bakal mangkoke menyang ing tabut ⟨את⟩ kasaksiyan sing bakal Aku wenehi marang kowe.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "lan kowe bakal mangkoke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang ing"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasaksiyan"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "kasaksiyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bakal Aku wenehi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:49.706753007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Tunjukna kuping marang swara seruku, ratuku lan Elohimgu, awit marang sira aku ndedonga.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Tunjukna kuping"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "marang swara"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "seruku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ratuku"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "lan Elohimgu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "aku ndedonga"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:26.782205083Z",
+  "model": "glm-5.3"
+}

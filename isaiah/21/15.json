@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Sebab saka ngarsaning pedhang padha nglajar, saka ngarsaning pedhang sinengkel, lan saka ngarsaning gendhewa kadhengkuk, lan saka ngarsaning aboting paprangan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka ngarsaning"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "padha nglajar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka ngarsaning"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "sinengkel"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "lan saka ngarsaning"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "gendhewa"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "kadhengkuk"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "lan saka ngarsaning"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "aboting"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "paprangan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:04.946498220Z",
+  "model": "glm-5.3"
+}

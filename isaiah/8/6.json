@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Amarga jalaran bangsa iki nolak ⟨את⟩ banyune Shiloah sing mili alon, lan bungah marang ⟨את⟩ Retsin lan anake Remalyahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "nolak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyune Shiloah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "banyune"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Shiloah"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "sing mili"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "alon"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "lan bungah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "lan anake"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:50.192722455Z",
+  "model": "glm-5.3"
+}

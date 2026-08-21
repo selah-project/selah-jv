@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 125,
+  "translation": "Yerushalayim — gunung-gunung ngubengi ⟨dhèwèké⟩, lan Yahweh ngubengi umaté, saka saiki nganti salawasé.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨dhèwèké⟩"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "lan Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "umaté"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "saka saiki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:18.682716272Z",
+  "model": "glm-5.3"
+}

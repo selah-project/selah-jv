@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Yahweh ngandika marang Moshe: Nidakana marang wong-wong mau, lan padha-sucèna dhéwé ing dina iki lan sesuk, lan padha umbahana angèn-angèné.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Nidakana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "lan padha-sucèna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dina iki"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "lan sesuk"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "lan padha umbahana"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "angèn-angèné"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:17.916387688Z",
+  "model": "glm-5.3"
+}

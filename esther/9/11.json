@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Ing dina iku iku, cacahing ⟨wong⟩ sing padha dipateni ing Syusan sang kutha karaton teka ing ngarsane sang raja.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "cacahing"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "sing padha dipateni"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ing Syusan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "sang kutha karaton"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:44.853307712Z",
+  "model": "glm-5.3"
+}

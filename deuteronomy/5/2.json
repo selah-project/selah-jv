@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Yahweh, Elohim kita, nasdhakake prajanjian karo kita ing Horeb.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nasdhakake"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "karo kita"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ing Horeb"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:23.698974440Z",
+  "model": "glm-5.3"
+}

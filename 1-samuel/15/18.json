@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan Yahweh ngutus kowe ana ing dalan, lan ngandika: Lungaa, lan sumendheake ⟨את⟩ para dosa — ⟨את⟩ Amalek — dadi karam, lan peranga nglawan dheweke nganti entek bangetake ⟨את⟩ dheweke.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "lan ngutus kowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ana ing dalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lungaa"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "lan sumendheake dadi karam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para dosa"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "para dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "lan perang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nlawan dheweke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "entek bangetake dheweke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:14.263358842Z",
+  "model": "glm-5.3"
+}

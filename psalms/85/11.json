@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Si maha pitutur lan satya padha ketemu, kaluhuran lan wilujeng padha sesulihan ciuman.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "si maha pitutur"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "lan satya"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "padha ketemu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "lan wilujeng"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "padha ciuman"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:57.456162170Z",
+  "model": "glm-5.3"
+}

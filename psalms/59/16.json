@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Dheweke padha sasar golék pangan; menawa ora wareg, padha ngeluh (nginep).",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "יְנוּעוּן",
+      "gloss": "padha sasar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "golék pangan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "wareg"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "padha ngeluh (nginep)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.524607821Z",
+  "model": "glm-5.3"
+}

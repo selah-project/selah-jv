@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Dadi bareng kabeh bangsa iku wis rampung nglintasi ⟨את⟩ Yarden, Yahweh ngandika marang Yehosua, ngendika:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dadi bareng"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "wis rampung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "nglintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:35.526340895Z",
+  "model": "glm-5.3"
+}

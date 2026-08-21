@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Ngelingi ing salawas-lawase prajanjiane, sabda kang didhawuhake marang ewu turunan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ngelingi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ing salawas-lawase"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "prajanjiane"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "marang ewu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "turunan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:25.166436200Z",
+  "model": "glm-5.3"
+}

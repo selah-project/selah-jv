@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Para Peleshet ngumpulake ⟨את⟩ kabeh perkemah-e ing Afeqah, lan Yisrael ngekemah ing mata banyu sing ana ing Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ngumpulake"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Para Peleshet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh perkemah-e"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "perkemah-e"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeqah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "lan Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "ngekemah"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ing mata banyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "ing Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:19.282594249Z",
+  "model": "glm-5.3"
+}

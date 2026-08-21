@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "(Lan Yirmeyahu isih bisa mlebu metu ing tengahing wong akeh, awit dheweke durung dilungguhake ing omah kunjara.)",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Lan Yirmeyahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mlebu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "awit durung"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dilungguhake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "kunjara"
+    }
+  ],
+  "timestamp": "2026-08-21T01:01:11.644410230Z",
+  "model": "glm-5.3"
+}

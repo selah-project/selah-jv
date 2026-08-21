@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Saben wong bekti marang ibuné lan marang raméné, lan ⟨את⟩ sabat-sabatKu kudu sira tuhuanga; Aku Yahweh, Elohimmu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibuné"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "lan raméné"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bekti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sabat-sabatKu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "sabat-sabatKu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kudu sira tuhuanga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:46.213090331Z",
+  "model": "glm-5.3"
+}

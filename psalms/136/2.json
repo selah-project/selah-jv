@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Padha sukur marang ⟨⟨Elohim⟩⟩ para elohim, awit nganti langgeng sih-kasetane.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Padha sukur"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "marang Elohime"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "para elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti langgeng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sih-kasetane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:57.559315075Z",
+  "model": "glm-5.3"
+}

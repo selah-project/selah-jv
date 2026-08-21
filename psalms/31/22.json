@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Pinuji Yahweh, awit Panjenengan ndadèkaké kagèt kasetyané marang aku, ing kutha ingkang kinurungan.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "ndadèkaké kagèt"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyané"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ingkang kinurungan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:59.929663972Z",
+  "model": "glm-5.3"
+}

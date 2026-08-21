@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "sing diucapake ilatku, lan sing dicritakake cangkemku nalika aku ana ing kasusahan",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "diucapake"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ilatku (bibirku)"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "lan sing dicritakake"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "nalika ana ing kasusahan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:49.489869892Z",
+  "model": "glm-5.3"
+}

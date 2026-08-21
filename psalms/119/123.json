@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Mripataku wis entek ⟨nenteni⟩ pitulungan-Mu, lan pangandika kasetyan-Mu.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mripataku"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "wis entek"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "nenteni pitulungan-Mu"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "lan pangandika"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kasetyan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:16.495185893Z",
+  "model": "glm-5.3"
+}

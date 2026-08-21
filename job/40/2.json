@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 40:2",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Apa pangilon kena padu karo Shaddai? Sing ngetokake fault marang El, mugi dheweke mangsuli.",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "pangilon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kara"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "kena pareng"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "sing ngetokake fault"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "mugi mangsuli"
+    }
+  ],
+  "timestamp": "2026-08-21T02:37:20.363608919Z",
+  "model": "glm-5.3"
+}

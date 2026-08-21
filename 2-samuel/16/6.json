@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan dheweke nguncalake watu marang ⟨את⟩ Dawid lan marang ⟨את⟩ kabeh abdining raja Dawid; lan kabeh bangsa iku lan kabeh para gagah ana ing tengené lan ing kiwané.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "lan dheweke nguncalake"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan marang ⟨את⟩",
+      "marks": "kabeh abdining raja Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdining"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "para gagah"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "ing tengené"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "lan ing kiwané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:09:58.264673930Z",
+  "model": "glm-5.3"
+}

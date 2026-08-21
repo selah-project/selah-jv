@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Yahweh ngandika marang Qayin: \"Piye, dhet Hebel sedulurmu?\" Qayin matur: \"Ora_wrata; apa aku iki sing njaga sedulurku?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "piye\/dhet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sedulurmu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wrata (kula ngerti ora)"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "sing njaga"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedulurku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku iki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:45.554531171Z",
+  "model": "glm-5.3"
+}

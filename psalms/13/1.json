@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Kanggo pangendhag, mazmur, karyanipun Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangendhag"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "karyanipun Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:16.589317145Z",
+  "model": "glm-5.3"
+}

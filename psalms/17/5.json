@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Langkahku tetep nggayuh dalan-dalanmu, satémah sikilku ora kagèsèr.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "tetep nggayuh"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "langkahku"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "dalan-dalanmu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "satémah… ora"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "kagèsèr"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "sikilku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:02.957751988Z",
+  "model": "glm-5.3"
+}

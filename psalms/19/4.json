@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Ora ana pangandika lan ora ana tetembungan, ⟨saliyané⟩ swarané durung krungu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandika"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "tetembungan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨saliyané⟩"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "durung krungu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "swarané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:40.388742350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Padha ngutus marang aku miturut pangucap iki kaping papat, lan aku mbalèni ⟨את⟩ padha kaya pangucap iki.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "padha ngutus"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut pangucap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "kaping papat"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "lan aku mbalèni"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ padha",
+      "marks": "padha (Sanbalat lan Gesem)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kaya pangucap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T03:10:27.669318943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Sebab lah, padha ndhelik ngeter-eter nyawa isinku; wong-wong gagah padha nglumpuk nglawan aku — dudu pamberontakanku, lan dudu dosaku, ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "padha ndhelik ngeter-eter"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nyawa isinku"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "padha nglumpuk"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nglawan aku"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "wong-wong gagah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pamberontakanku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan dudu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:33.113688299Z",
+  "model": "glm-5.3"
+}

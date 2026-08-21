@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "⟨את⟩ menarah sing murni, ⟨את⟩ lampu-lampune, lampu-lampu pangaturan, lan ⟨את⟩ sakabehing prabotane, lan ⟨את⟩ lenga pangepangan",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menarah sing murni"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menarah"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "sing murni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampune"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampune"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "lampu-lampu"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "pangaturan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing prabotane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "prabotane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lenga pangepangan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "pangepangan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:05.498115608Z",
+  "model": "glm-5.3"
+}

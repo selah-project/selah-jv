@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan dheweke nyusun ⟨את⟩ kayu-kayune, banjur mucal ⟨את⟩ sapi lanang iku saperangan, lan ngenakake ana ing sangisore kayu-kayu iku.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "lan dheweke nyusun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayu-kayune"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayune"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "banjur mucal saperangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi lanang iku"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi lanang iku"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "lan ngenakake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing sangisore"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:24.341762792Z",
+  "model": "glm-5.3"
+}

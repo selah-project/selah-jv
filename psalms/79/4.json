@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 79,
+  "translation": "Kita ⟨wis dadi⟩ cacad ing mripate para tangga teparo, ejekan lan gonyak-ganyuk ing para kang nglilingi kita.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "⟨wis dadi⟩"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cacad ing mripate"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "para tangga teparo"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ejekan"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "lan gonyak-ganyuk"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "ing para kang nglilingi kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:22.855182668Z",
+  "model": "glm-5.3"
+}

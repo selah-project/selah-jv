@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Kaya dhasar kang didhawuhake Yahweh marang ⟨את⟩ Moshe, mangkono ditindakake dening bocah-bocah wadon Tslofkhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dhasar"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bocah-bocah wadon"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tslofkhad"
+    }
+  ],
+  "timestamp": "2026-08-21T03:55:48.893122454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Banjur raja Dawid ngutus wong, lan njupuk saka omahé Makhir bin Ammiel, saka Lo-Debar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "njupuk dhèwèké"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omahé"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "saka Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debar"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:44.217260086Z",
+  "model": "glm-5.3"
+}

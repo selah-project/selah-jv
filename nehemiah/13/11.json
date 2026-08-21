@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Banjur aku padu karo ⟨את⟩ para panggedhe, lan dakdhawuhi: kenapa Bait Elohim ditinggalake? Banjur daklumpukake dheweke lan dakdegake ing papan pangadegane.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "banjur aku padu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para panggedhe"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "lan dakdhawuhi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "ditinggalake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bait"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "banjur daklumpukake dheweke"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "lan dakdegake dheweke"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "papan pangadegane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:39.157219286Z",
+  "model": "glm-5.3"
+}

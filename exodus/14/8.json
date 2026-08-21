@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Yahweh nglantegi ⟨את⟩ atine Paroh, ratu ing Mitsrajim, sarta iya ndherekake bareng-anak-anake Yisrael; lan anak-anake Yisrael padha metu kanthi asta ing dhuwur.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nglantegi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atine"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ing Mitsrajim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ndherekake bareng"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "padha metu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kanthi asta"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ing dhuwur"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:49.659159014Z",
+  "model": "glm-5.3"
+}

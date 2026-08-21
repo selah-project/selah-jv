@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur sang raja ngutus, lan padha ngumpul marang awake kabeh sesepuh Yehudha lan Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "lan padha ngumpul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "sesepuh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:11.007446725Z",
+  "model": "glm-5.3"
+}

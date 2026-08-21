@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Awit wong sapa wae sing ngamuki ⟨את⟩ bapakne lan ⟨את⟩ ibune, mati bakal dipateni; bapakne lan ibune wis dinamuki, getihe ana ing awake dhewe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa wae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ngamuki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakne"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "ibune"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bakal dipateni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "lan ibune"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "wis dinamuki"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing awake dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:33.080900208Z",
+  "model": "glm-5.3"
+}

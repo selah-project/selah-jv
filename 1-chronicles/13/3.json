@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lawa bali maneh ⟨את⟩ petrane Elohim kita marang kita, awit ing jamané Saul kita ora tau nayuh iku.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "lawa bali maneh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petrane Elohim kita"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petrane"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "kita tau nayuh iku"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ing jamané"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-08-21T03:23:42.141976715Z",
+  "model": "glm-5.3"
+}

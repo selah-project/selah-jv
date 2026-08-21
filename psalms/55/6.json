@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Wedi lan gemeter teka ing aku, lan kalumrahan nutupi aku.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "lan gemeter"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "lan nutupi aku"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kalumrahan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:56.860261174Z",
+  "model": "glm-5.3"
+}

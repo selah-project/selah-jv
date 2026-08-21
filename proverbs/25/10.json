@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Supaya ora sira dicacad déning ⟨sing⟩ ngrungokake, lan cacadmu ora bali maneh.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "dicacad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "lan cacadmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bali maneh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:36.793162531Z",
+  "model": "glm-5.3"
+}

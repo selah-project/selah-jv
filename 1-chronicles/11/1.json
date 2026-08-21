@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur kumpul kabeh Israel marang Dawid ing Khebron, ngucap: Lah, balungmu lan dagingmu iku ⟨⟨⟩⟩ awake dhewe.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "banjur kumpul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ing Khebron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "balungmu"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "lan dagingmu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aku-aku awake dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T04:27:10.079018808Z",
+  "model": "glm-5.3"
+}

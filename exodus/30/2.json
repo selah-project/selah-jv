@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Siku siji dawané, lan siku siji jembaré, kothak ⟨iku bakal dadi⟩; lan rong siku dhuwuré; culané saka awaké dhéwé.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "siku siji"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dawané"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lan siku"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jembaré"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kothak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "lan rong siku"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dhuwuré"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka awaké dhéwé"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "cula-culané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:33.956356939Z",
+  "model": "glm-5.3"
+}

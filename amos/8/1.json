@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Kaya mangkene Adonai Yahweh ndedawuhake marang aku, lan sumepe, ana keranjang woh mangsa panen.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ndedawuhake marang aku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan sumepe"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "keranjang"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "woh mangsa panen"
+    }
+  ],
+  "timestamp": "2026-08-21T01:29:31.987640138Z",
+  "model": "glm-5.3"
+}

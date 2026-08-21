@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Para wong iku ngayuh saperlu bali menyang dharatan, nanging ora bisa, amarga segara saya gedhe ribute nglawan ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "ngayuh"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para wong iku"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "saperlu bali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dharatan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "saya gedhe"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "ribute"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nglawan ⟨dheweke⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:26.375367050Z",
+  "model": "glm-5.3"
+}

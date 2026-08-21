@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Aku bakal menehi prajanjianku antarane Aku lan kowé, lan bakal ngedunia ⟨את⟩ kowé sanget-sanget.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "lan-bakal-menehi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjianku"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antarane-Aku"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "lan-kowé"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "lan-bakal-ngedunia"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩kowé",
+      "marks": "kowé"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:28.099805734Z",
+  "model": "glm-5.3"
+}

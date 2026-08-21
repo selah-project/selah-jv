@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Dhewe-Mu ⟨sing⟩ ngertèni isthilarku lan isinku lan cacade; musuh-musuhku kabèh ⟨ana⟩ ing ngarsa-Mu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Dhewe-Mu"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ngertèni"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "isthilarku"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "lan isinku"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "lan cacade"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ing ngarsa-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "musuh-musuhku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:57.120116293Z",
+  "model": "glm-5.3"
+}

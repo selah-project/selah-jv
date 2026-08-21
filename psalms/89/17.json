@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Ing asma-Mu padha bungah sadina muput, lan ing kaleresan-Mu padha dhuwur diunggahake.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "Ing asma-Mu"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "padha bungah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadina muput"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "lan ing kaleresan-Mu"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "padha dhuwur diunggahake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:43.116920953Z",
+  "model": "glm-5.3"
+}

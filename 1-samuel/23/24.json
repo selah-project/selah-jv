@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur ⟨wong-wong mau⟩ tangkat lan mangkat ing Zif ing ngarepe Saul; nanging David lan para kancane ana ing ara-ara Maon, ing Araba, ing sisih tengen Yeshimon.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "Banjur tangkat"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lan mangkat"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "ing Zif"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "nanging David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "lan para kancane"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ing Araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tengen"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Yeshimon"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:20.796899567Z",
+  "model": "glm-5.3"
+}

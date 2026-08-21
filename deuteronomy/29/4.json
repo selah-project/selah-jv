@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan aku nggawa ⟨את⟩ kowé petang puluh taun ing ara-ara; sandhanganmu ora rusak saka awakmu, lan sapatumu ora rusak saka sikilmu.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "Lan aku nggawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "petang puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "rusak"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "sandhanganmu"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "saka awakmu"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "lan sapatumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "rusak"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sikilmu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:59.191006758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Yagene para bangsa padha rusuh, lan para umat padha ngumandangake kabatilan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "yagene"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "padha rusuh"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "lan para umat"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "padha ngumandangake"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "kabatilan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:42.314772837Z",
+  "model": "glm-5.3"
+}

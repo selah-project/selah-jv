@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Barak njaluk nimbali ⟨את⟩ Zebulun lan ⟨את⟩ Naftali menyang Kedesh, lan dheweke munggah karo sapuluh ewu wong lanang nunggil sikile; lan Devora munggah bareng karo ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "lan njaluk nimbali"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "menyang Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lan dheweke munggah"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "nunggil sikile"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "lan ⟨dheweke wadon⟩ munggah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng karo"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:47.922357277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan wadyabalané lan sing kapidu: nem lan patangpuluh éwu lan limang atus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "lan wadyabalané"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "lan sing kapidu"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "nem"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "lan patangpuluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "éwu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "lan limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:48.261659019Z",
+  "model": "glm-5.3"
+}

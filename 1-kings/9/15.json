@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan iki prakara romusha (pajeg wajib) sing kaangkat dening sang raja Shelomoh, kanggo yasa ⟨את⟩ bait Yahweh lan ⟨את⟩ bait-e dhewe lan ⟨את⟩ haMillo lan ⟨את⟩ tembok Yerushalayim, uga ⟨את⟩ Hatsor lan ⟨את⟩ Megiddo lan ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "prakara"
+    },
+    {
+      "surface": "המס",
+      "gloss": "romusha (pajeg wajib)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kaangkat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kanggo yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bait Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bait-e dhewe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bait-e dhewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "haMillo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "haMillo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tembok Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "tembok-e"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:41.309362773Z",
+  "model": "glm-5.3"
+}

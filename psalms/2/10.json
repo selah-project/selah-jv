@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan saiki, para raja, ndadèkaké pinter; parasemona, para juru pangadil bumi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ndadèkaké pinter"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "parasemona"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "para juru pangadil"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:38.207313875Z",
+  "model": "glm-5.3"
+}

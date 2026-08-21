@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan umat ika padha pasulayan karo Moshe, lan padha munjuk: Oh, andai kita padha maténi nalika sadulur-sadulur kita mati ing ngarsaning Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "pasulayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat ika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "padha munjuk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kang ngendika"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "oh, andai"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "kita mati"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "nalika matiné"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "sadulur-sadulur kita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:15.175988202Z",
+  "model": "glm-5.3"
+}

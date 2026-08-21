@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Serug urip sawise ndadèkaké ⟨את⟩ Nahor saratus taun, lan ndadèkaké anak lanang lan anak wadon.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "lived"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ndadèkaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "rong atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "lan ndadèkaké"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "lan anak wadon"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:29.727394175Z",
+  "model": "glm-5.3"
+}

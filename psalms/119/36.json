@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Miringna atiku marang pasaksimu, lan aja marang pitunan.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Miringna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "pasaksimu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja marang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "pitunan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:50.016639825Z",
+  "model": "glm-5.3"
+}

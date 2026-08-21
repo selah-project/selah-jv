@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Ora padha éling ⟨את⟩ tangané, ⟨ing⟩ dina nalika ⟨dheweke⟩ ngluwari ⟨את⟩ wong saka mungsuh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "padha éling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangané"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangané"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mungsuh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:27.136192128Z",
+  "model": "glm-5.3"
+}

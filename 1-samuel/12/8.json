@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Nalika Yaakov teka ing Mitsrayim, lan leluhurmu njerit marang Yahweh, banjur Yahweh ngutus ⟨את⟩ Moshe lan ⟨את⟩ Aharon, lan déning kaloroné kaluwarni ⟨את⟩ leluhurmu saka Mitsrayim lan dipatah ing panggonan iki.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "lan njerit"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "leluhurmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "banjur ngutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "lan kaluwarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leluhurmu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "leluhurmu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "lan dipatah"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing panggonan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:12.602857485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan gawea ⟨את⟩ jubahing efod, karya tenun, wutuh saka biru tekhelet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan gawea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahing efod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "jubahing"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "tenun"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "wutuh"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru tekhelet"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:51.016236766Z",
+  "model": "glm-5.3"
+}

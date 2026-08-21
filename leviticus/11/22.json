@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "⟨את⟩ Iki saka wong-wong mau kena didhahar kowe: ⟨את⟩ walang kadhi miturut jinisé, lan ⟨את⟩ walang sisinggit miturut jinisé, lan ⟨את⟩ walang kajenggit miturut jinisé, lan ⟨את⟩ walang rang-rang miturut jinisé.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "saka wong-wong mau"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kena didhahar kowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "walang kadhi"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "walang kadhi"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "miturut jinisé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "walang sisinggit"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "walang sisinggit"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "miturut jinisé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "walang kajenggit"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "walang kajenggit"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "miturut jinisé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "walang rang-rang"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "walang rang-rang"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "miturut jinisé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:39.416636988Z",
+  "model": "glm-5.3"
+}

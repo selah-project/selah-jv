@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Apa para elohim kang bangsa-bangsane wis dirusakake para leluhurku bisa ngluwari ⟨את⟩ dheweke — ⟨את⟩ Gozan, ⟨את⟩ Charan, Resef, lan bani Eden sing ana ing Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Apa bisa ngluwari"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "para elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "wis dirusakake"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "para leluhurku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "lan Resef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan bani"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing ana"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "ing Telassar"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:22.201672480Z",
+  "model": "glm-5.3"
+}

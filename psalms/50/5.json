@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Kumpulna marang Aku para setiaku, sing padha ngetokaké prajanjianKu ing atasé kurban.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "kumpulna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "para setiaku"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "sing padha ngetokaké"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjianKu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ing atasé"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:52.925311286Z",
+  "model": "glm-5.3"
+}

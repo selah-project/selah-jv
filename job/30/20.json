@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Aku nguwuh marang Kowe, lan Kowe ora mangsuli; aku ngadeg, lan Kowe mung ngetut-i aku.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "aku nguwuh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Kowe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "mangsuli aku"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "aku ngadeg"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "lan Kowe mung ngetut-i"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:33:28.061415019Z",
+  "model": "glm-5.3"
+}

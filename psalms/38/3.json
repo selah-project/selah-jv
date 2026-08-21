@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Sebab panah-Mu tumindhuwur ing aku, lan tangan-Mu kadhesendhuwur marang aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "panah-Mu"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "kadhesendhuwur"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "lan tumindhuwur"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:29.676434858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Sing wedi marang Yahweh, puji Panjenengane; kabeh uwithe Yaakov, mulyakna Panjenengane; lan begethana marang Panjenengane, kabeh uwithe Yisrael",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Sing wedi marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "puji Panjenengane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "uwit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "mulyakna Panjenengane"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "lan begethana"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "marang Panjenengane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "uwit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:44.174311622Z",
+  "model": "glm-5.3"
+}

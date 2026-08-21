@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Namung kaya anggoné mangan ⟨את⟩ kijang lan ⟨את⟩ rusa, mangkono sira mangané; sing lanang-najis lan sing suci padha mangan bareng.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "namung"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya anggoné"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kijang"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "kijang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rusa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "rusa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "sira mangané"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "sing lanang-najis"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "lan sing suci"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "padha bareng"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mangané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:09.658682908Z",
+  "model": "glm-5.3"
+}

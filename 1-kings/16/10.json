@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Banjur Zimri lumebu lan nyerang ⟨dheweke⟩ lan matèni ⟨dheweke⟩, ing taun kaping selikur lan pitu kuasa Asa raja Yehudha; banjur jumeneng ratu ing panggonane.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lumebu"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "nyerang ⟨dheweke⟩"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "matèni ⟨dheweke⟩"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaping selikur"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "lan pitu"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "kuwasa Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jumeneng ratu"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ing panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:16.521468678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Dados kula ambuka ⟨את〕 cangkem kula, lajeng Panjenenganipun mejahi kula ⟨את⟩ gulungan punika.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Dados kula ambuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cangkem kula"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkem kula"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "Panjenenganipun mejahi kula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulungan punika"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "gulungan punika"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "punika"
+    }
+  ],
+  "timestamp": "2026-08-21T04:12:52.662673981Z",
+  "model": "glm-5.3"
+}

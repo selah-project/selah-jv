@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Yahweh ndhèrèkaké ⟨the⟩ kabeh sing tiba, lan ngunggahaké kabeh sing mlengkung.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "ndhèrèkaké (nyangga)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "sing tiba"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "lan ngunggahaké"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "sing mlengkung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:47.455110794Z",
+  "model": "glm-5.3"
+}

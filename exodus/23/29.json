@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 23:29",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Ora Ingsun ngusir ⟨dheweke⟩ saka ngarsanira ing setaun siji, supaya dudu bumi dadi suma-semu lan-kewan padha nambah nglawan sira — sato ing sawah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "Ingsun-ngusir-dheweke"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "saka-ngarsanira"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ing-setaun"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya-dudu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "suma-semu"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "lan-nambah"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nglawan-sira"
+    },
+    {
+      "surface": "חית",
+      "gloss": "sato"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ing-sawah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:24.430978731Z",
+  "model": "glm-5.3"
+}

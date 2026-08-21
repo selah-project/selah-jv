@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Padha maringake kamulyan marang Yahweh, lan memujine ing pulo-pulo padha dakwartakake — padha nyaritakake.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "padha maringake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "lan memujine"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "ing pulo-pulo"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "padha nyaritakake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:38.131269044Z",
+  "model": "glm-5.3"
+}

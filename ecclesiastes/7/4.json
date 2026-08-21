@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Atine wong wicaksana ana ing omah susah, lan atine wong bodho ana ing omah bungah.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wong wicaksana"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ana ing omah"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "susah"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "lan atine"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wong bodho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ana ing omah"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bungah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:55.710781076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Apa ⟨kaluwihane⟩ manungsa, ing sadaya angel-panangelé sing dilakoni sangisore srengéngé?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kaluwihane"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadaya"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "angel-panangelé"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "sing dilakoni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:42.419290356Z",
+  "model": "glm-5.3"
+}

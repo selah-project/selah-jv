@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Ingsun sumerepi Efrayim, lan Yisra'el ora kasedhem saka Ingsun; amargi saiki kowe wus lanjar, Efrayim; Yisra'el ⟨wis⟩ karusak.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ingsun"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "sumerepi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "lan Yisra'el"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kasedhem"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka Ingsun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amargi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "kowe wus lanjar"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "karusak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:39.144513319Z",
+  "model": "glm-5.3"
+}

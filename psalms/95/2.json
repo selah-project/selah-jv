@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Padha sowan ing ngarsane kalawan pangaturan panuwun, kalawan tembang pamuji padha njebugake swara marang Panjenengane.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "padha sowan ing ngarsane"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ngarsane"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "kalawan pangaturan panuwun"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "kalawan tembang pamuji"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "padha njebugake swara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:52.320889962Z",
+  "model": "glm-5.3"
+}

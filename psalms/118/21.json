@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Aku memuji Kowe, awit Kowe ngwangsuli aku, lan dadi keselametan kanggo aku.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "aku memuji Kowe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Kowe ngwangsuli aku"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "keselametan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:42.132613801Z",
+  "model": "glm-5.3"
+}

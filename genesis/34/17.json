@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lamun kowe ora ngestokake marang kita kanggo disunat, banjur kita njupuk ⟨את⟩ putri kita lan kita lunga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan lamun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ngestokake"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "kanggo disunat"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "lan kita njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putri kita"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "putri kita"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "lan kita lunga"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:20.581547493Z",
+  "model": "glm-5.3"
+}

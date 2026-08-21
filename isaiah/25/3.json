@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Mula bangsa kang santosa bakal ngurmati Kowe, kuthané para bangsa kang keker bakal wedi marang Kowe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mula"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "bakal ngurmati Kowe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "santosa"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kuthané"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "keker"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "bakal wedi marang Kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:50.840071198Z",
+  "model": "glm-5.3"
+}

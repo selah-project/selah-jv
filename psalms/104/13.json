@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Sing ngirig gunung-gunung saka panggung-dhuwuré; saka wohané gaweyan-Mu kenyel ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Sing ngirig"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "saka panggung-dhuwuré"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "saka wohané"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "gaweyan-Mu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "kenyel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:32.030037024Z",
+  "model": "glm-5.3"
+}

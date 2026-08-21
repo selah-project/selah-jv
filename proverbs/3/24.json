@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Menawa kowe mengkur, ora bakal wedi; lan mengkura, turumu bakal manis.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "kowe mengkur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "lan mengkura"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "bakal manis"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "turumu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:31.313767407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Banjur Esau mlayu saperlu nemoni, lan ngambung-ambung, lan tiba ing gulune, lan ambung dheweke, lan padha nangis.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "banjur mlayu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "saperlu nemoni"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "lan ngambung-ambung"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "lan tiba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "gulune"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "lan ambung"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "lan padha nangis"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:27.772477910Z",
+  "model": "glm-5.3"
+}

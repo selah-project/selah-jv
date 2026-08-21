@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Sing padha ndeleng kowe bakal ndeleng mrana marang kowe, marang kowe bakal semedin, dhandhang: Apa iki wong sing guncang bumi, sing getuni karaton-karaton?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "sing padha ndeleng kowe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "bakal ndeleng mrana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "bakal semedin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "sing guncang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "sing getuni"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karaton-karaton"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:59.679790438Z",
+  "model": "glm-5.3"
+}

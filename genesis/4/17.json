@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lajeng Kayin weruh ⟨את⟩ bojoné, banjur ngandhut lan nglairake ⟨את⟩ Khanokh; lan dhèwèké dadi yasa kutha, lan diarani jeneng kutha iku miturut jeneng putrané, Khanokh.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojoné"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojoné"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ngandhut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanokh"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "diarani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha iku"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "miturut jeneng"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:04.219693187Z",
+  "model": "glm-5.3"
+}

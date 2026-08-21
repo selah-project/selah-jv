@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Waregna kita ing èsuk kalimurahanné, supados kita andendang lan bungah ing saliring yuswané.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "waregna"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing ésuk"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kalimurahanné"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "lan andendang"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "lan bungah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saliring"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "yuswané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:37.957581277Z",
+  "model": "glm-5.3"
+}

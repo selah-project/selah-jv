@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 35:23",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan saben wong sing didhelikake duwe ⟨את⟩ kain biru tuas lan ungu lan abrit krimisen saka kole, lan lenan alus, lan rambut kambang, lan kulit wedhus jantan werna abang tuwa, lan kulit tachash, padha nggawa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lan-saben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kadunungan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kain biru tuas, ungu, krimisen, lenan alus, rambut kambang, kulit wedhus, kulit tachash"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "kain-biru-tuas"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "lan-ungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "lan-kole-krimisen"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abrit-krimisen"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan-lenan-alus"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "lan-rambut-kambang"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "lan-kulit"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "wedhus-jantan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "werna-abang-tuwa"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "lan-kulit"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "padha-nggawa"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:25.394158902Z",
+  "model": "glm-5.3"
+}

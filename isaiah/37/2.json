@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan ⟨dheweke⟩ ngutus ⟨את⟩ Elyakim sing ngoleti bêtah, lan ⟨את⟩ Shebna juru tulis, lan ⟨את⟩ para sesepuh imam, kabèh ngonjingi karung, marang Yeshayahu bin Amots sang nabi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoleti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bêtah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Shebna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shebna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "juru tulis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para sesepuh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "ngonjingi"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "karung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:06.566278231Z",
+  "model": "glm-5.3"
+}

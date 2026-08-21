@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Ora bakal ana ala nekani sira, lan wabah ora bakal cedhak karo kemahmu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "bakal nekani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sira"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "lan wabah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "bakal cedhak"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "karo kemahmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:07.993807009Z",
+  "model": "glm-5.3"
+}

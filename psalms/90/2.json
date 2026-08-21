@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Sadurunge gunung-gunung dilairaké, lan Kowé mbabar bumi lan jagad, lan saka salawas-lawas nganti salawas-lawas Kowé ⟨iku⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dilairaké"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "lan Kowé mbabar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "lan jagad"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "lan saka salawas-lawas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.265342609Z",
+  "model": "glm-5.3"
+}

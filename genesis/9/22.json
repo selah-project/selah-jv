@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Kham, bapaké Kenaan, iya ndeleng ⟨את⟩ kacerengané bapakné, lan ia ngandhani kaloro saduluré iku ana ing jaba.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lan iya ndeleng"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapaké"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kacerengané bapakné"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kacerengané"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "lan ia ngandhani"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kalora"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saduluré iku"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ana ing jaba"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:47.390719152Z",
+  "model": "glm-5.3"
+}

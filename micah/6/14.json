@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Kowe bakal mangan nanging ora wareg, lan kaluputanmu ana ing tengah-tengahmu; kowe bakal ngegut nanging ora bisa nylametake, lan sing kaslametake bakal Kukalahake marang pedhang.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "wareg"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "kaluputanmu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ing tengah-tengahmu"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "ngegut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "bisa nylametake"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "kaslametake"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "marang pedhang"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Kukalahake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:33:51.157600968Z",
+  "model": "glm-5.3"
+}

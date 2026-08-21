@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur Yahweh Elohim mbentuk ⟨את⟩ manungsa saka lemah saka ⟨the⟩ bumi, lan ngupakaké ing irungé sangu urip, lan manungsa dadi jiwa urip.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "banjur mbentuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lemah alus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "lan ngupakaké"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "ing irungé"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "sangu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "dadi jiwa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "urip"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:36.691002250Z",
+  "model": "glm-5.3"
+}

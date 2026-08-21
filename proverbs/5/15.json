@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Ngombelah banyu saka sumurmu dhewe, lan kang mili saka ing tengahing tukumu dhewe.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "ngombelah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "saka sumurmu dhewe"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "lan kang mili"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "saka ing tengahing"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "tukumu dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:11.718349687Z",
+  "model": "glm-5.3"
+}

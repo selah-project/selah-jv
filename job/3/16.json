@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 3:16",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "utawa kaya jabang bayi sing kasingkur, aku ora bakal ana, kaya para bayi sing ora tau ndeleng cahya.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "כנפל",
+      "gloss": "kaya jabang bayi tiba"
+    },
+    {
+      "surface": "טמון",
+      "gloss": "sing kasingkur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "aku ana"
+    },
+    {
+      "surface": "כעללים",
+      "gloss": "kaya para bayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:40.766673208Z",
+  "model": "glm-5.3"
+}

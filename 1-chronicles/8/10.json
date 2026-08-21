@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "lan ⟨את⟩ Yeuts, lan ⟨את⟩ Shakhya, lan ⟨את⟩ Mirmah. Iki para putrane, para pangarepe bapak-bapak leluhur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Shakhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shakhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "para pangarepe"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bapak-bapak leluhur"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:35.805059276Z",
+  "model": "glm-5.3"
+}

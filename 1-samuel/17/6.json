@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan pérak prunggu ing sikile, lan godheg prunggu antarane pundhake.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "prunggu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "godheg"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "prunggu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "pundhake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:27.500379601Z",
+  "model": "glm-5.3"
+}

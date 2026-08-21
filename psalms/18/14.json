@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Langu Yahweh ing langit, lan Kang Mahaluhur ngundhakake swarane — es awu lan uwur-uwur geni.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "langu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "lan Kang Mahaluhur"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ngundhakake"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "es awu"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "lan uwur-uwur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:33.834665044Z",
+  "model": "glm-5.3"
+}

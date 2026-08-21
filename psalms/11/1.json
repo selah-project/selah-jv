@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Kanggo pangngedhem, gagaenan Dawid. Ing Yahweh aku ndhedhem; kepriye kowe padha ngucapa marang jiwaku: \"Ulaha minangka manuk mring gunungmu!\"",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangngedhem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "gagaenan Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Ing Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku ndhedhem"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kepriye"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kowe padha ngucapa"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "marang jiwaku"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Ulaha"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "mring gunungmu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "manuk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:32.710503700Z",
+  "model": "glm-5.3"
+}

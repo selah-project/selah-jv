@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Banjur wong kono padha pasulayan karo Moshe, lan padha munjuk: Padhokea banyu supaya bisa ngombé. Moshe wangsul marang padha: Yagéné padha pasulayan karo aku? Yagéné padha nggodha ⟨את⟩ Yahweh?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "banjur padha pasulayan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kono"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha munjuk"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "padhokea"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "supaya bisa ngombé"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang padha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yagéné"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "padha pasulayan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "karo aku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yagéné"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "padha nggodha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:06.059011657Z",
+  "model": "glm-5.3"
+}

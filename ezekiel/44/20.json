@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Lan sirahé ora padha cukur, lan gimbal ora padha nglantar; minangka guneman, padha ngundhuki ⟨את⟩ sirahé.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "lan sirahé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "padha cukur"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "lan gimbal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "padha nglantar"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "minangka guneman"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "padha ngundhuki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahé"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "sirahé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:23:30.509266704Z",
+  "model": "glm-5.3"
+}

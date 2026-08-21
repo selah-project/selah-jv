@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Shemuël saré nganti ésuk, banjur mbukak ⟨את⟩ lawang-lawange bale Yahweh; lan Shemuël wedi andharake ⟨את⟩ pangilon marang Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "banjur saré"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "banjur mbukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lawang-lawange bale Yahweh"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "lawang-lawang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "lan Shemuël"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "andharake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangilon"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pangilon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:06.204867599Z",
+  "model": "glm-5.3"
+}

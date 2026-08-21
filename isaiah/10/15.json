@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Apa kapak ambangga nglawan sing ngethok mawa dhèwèké? apa gergaji ngadhap-agung nglawan sing nglambaraké? kaya galah nglambar marang sing nangkat, sarta ⟨את⟩ sing nangkat — kaya tongkat nangkat, dudu kayu!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "ambangga"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "kapak"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "sing ngethok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mawa dhèwèké"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "ngadhap-agung"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "gergaji"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "sing nglambaraké"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "kaya nglambar"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "galah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sing nangkat (mér-iw)"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "sing nangkat"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "kaya nangkat"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:22.071602133Z",
+  "model": "glm-5.3"
+}

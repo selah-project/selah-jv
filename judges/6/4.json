@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan padha ngadegkemah nglawan dhèwèké, lan padha ngrusak ⟨את⟩ asil bumi nganti tekan ing mrikane kowé tekan Azzah, lan ora padha ninggalaké panguripan ing Israil, apa domba, apa lembu, apa kalipayara.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "lan padha ngadegkemah"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nglawan dhèwèké"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "lan padha ngrusak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asil bumi"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "asil"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan ing"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "mrikane kowé tekan"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "padha ninggalaké"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "panguripan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing Israil"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "apa domba"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "apa lembu"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "apa kalipayara"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:38.466491632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Lan menehi bumdaine dadi dhaerah pusaka, dhaerah pusaka marang Yisrael, ummate.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Lan menehi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "bumdaine"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dhaerah pusaka"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dhaerah pusaka"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "marang Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ummate"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:04.449607106Z",
+  "model": "glm-5.3"
+}

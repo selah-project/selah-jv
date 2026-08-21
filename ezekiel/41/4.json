@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Banjur dheweke ngukur ⟨את⟩ dawane, rong puluh asta, lan jembaré rong puluh asta, ing ngarsaning heikhal; lan dheweke ngandika marang aku: iki ⟨yaiku⟩ Qodesh HaQodashim.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "banjur dheweke ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dawane"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dawane"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rong puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "lan jembaré"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rong puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing ngarsaning"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsane"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikhal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dheweke ngandika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qodesh"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "HaQodashim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:21:45.365654787Z",
+  "model": "glm-5.3"
+}

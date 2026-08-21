@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 75,
+  "translation": "Amarga dudu saka wétan, lan dudu saka kulon, lan dudu saka ara-ara samun ⟨the⟩ pangunggahan ⟨the⟩ ⟨exaltation⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Amarga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "saka wétan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "lan saka kulon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan dudu"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "saka ara-ara samun"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pangunggahan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:24.277799667Z",
+  "model": "glm-5.3"
+}

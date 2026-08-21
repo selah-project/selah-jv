@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Elohim ketemu Bilam, lan dheweke ngandika marang Panjenengane: \"⟨את⟩ pitu altar iku wis kukumpulake, lan kumundhutake lembu lan domba jantan ing ⟨ing⟩ altar.\"",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "lan ketemu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang Panjenengane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitu altar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altar iku"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "wis kukumpulake"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "lan kumundhutake"
+    },
+    {
+      "surface": "פר",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "lan domba jantan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "ing altar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:13.743400509Z",
+  "model": "glm-5.3"
+}

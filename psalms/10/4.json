@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Wong jahat, kalawan sangare dhuwure irunge, ora nggoleki ⟨Elohim⟩; 'ora ana Elohim' — ing saben pasetolane.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "kaya dhuwure"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "irunge"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "nggoleki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "pasetolane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:18.788755167Z",
+  "model": "glm-5.3"
+}

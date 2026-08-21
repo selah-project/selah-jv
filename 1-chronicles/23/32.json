@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan awake dhéwé padha ngati-ati ngajaga ⟨את⟩ tugas kemah pasamuwan, lan ⟨את⟩ tugas panggonan suci, lan tugas para putrane Aharon sedulur-seduluré, kanggo nglayani omahé Yahweh.",
+  "tokens": [
+    {
+      "surface": "וְשָׁמְרוּ",
+      "gloss": "lan awake padha ngajaga"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "tugas kemah pasamuwan"
+    },
+    {
+      "surface": "מִשְׁמֶרֶת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "אֹהֶל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מוֹעֵד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "tugas panggonan suci"
+    },
+    {
+      "surface": "מִשְׁמֶרֶת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "הַקֹּדֶשׁ",
+      "gloss": "panggonan suci"
+    },
+    {
+      "surface": "וּמִשְׁמֶרֶת",
+      "gloss": "lan tugas"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אֲחֵיהֶם",
+      "gloss": "sedulur-seduluré"
+    },
+    {
+      "surface": "לַעֲבֹדַת",
+      "gloss": "kanggo nglayani"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:28:33.272109072Z",
+  "model": "glm-5.3"
+}

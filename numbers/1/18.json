@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨את⟩ saka wong akeh kabeh padha dilumpukake ing dina siji sasi kaping pindho, lan padha medar silsilah miturut kula-kulane, miturut omah bapak-bapahe, ing etungan jeneng, saka umur rongpuluh taun mudhun-ninggal, miturut gegelon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "saka wong akeh kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "padha dilumpukake"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ing dina siji"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kiping pindho"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "lan padha medar silsilah"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "kula-kulane"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "miturut omah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapak-bapahe"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ing etungan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "saka umur"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rongpuluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "mudhun-ninggal"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "miturut gegelon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:29.966551574Z",
+  "model": "glm-5.3"
+}

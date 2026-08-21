@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan padha njaga tugas kepenase, lan ⟨את⟩ tugas pasamuwan kabeh ing ngarepe kemah patemon, kanggo nglakoni ⟨את⟩ pangabdian ⟨the⟩ kemah suci.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "padha njaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugas kepenase"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "tugas kepenase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tugas pasamuwan"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patemon"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kanggo nglakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangabdian"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "pangabdian"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:00.693343473Z",
+  "model": "glm-5.3"
+}

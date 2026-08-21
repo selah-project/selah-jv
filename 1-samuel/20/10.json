@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan Dawid ngandika marang Yonatan: Sapa sing bakal kabarakake marang aku, utawa apa yen bapakmu mbales sira kelawan kasar?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bakal kabarakake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "mbales sira"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kelawan kasar"
+    }
+  ],
+  "timestamp": "2026-08-21T04:01:43.910867980Z",
+  "model": "glm-5.3"
+}

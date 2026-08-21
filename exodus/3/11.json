@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Moshe ngandika marang ⟨the⟩ Elohim: Aku iki sapa, nganti aku lunga menyang Paroh lan ngetokake ⟨את⟩ anak-anak Yisrael saka Mitsrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩ Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku lunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:05.920992344Z",
+  "model": "glm-5.3"
+}

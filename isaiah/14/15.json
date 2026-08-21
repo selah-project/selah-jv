@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Nanging menyang Sheol kowe bakal didhiskend, menyang pojoking luwengan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "kowe bakal didhiskend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "pojoking"
+    },
+    {
+      "surface": "בור",
+      "gloss": "luwengan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:59.679668479Z",
+  "model": "glm-5.3"
+}

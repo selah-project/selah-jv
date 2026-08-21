@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Nanging, dhemene aku urip, lan kamulyané Yahweh bakal mbukak ⟨את⟩ sakwewengkoning bumi.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dhemene urip"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "lan bakal mbukak"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakwewengkoning bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakwewengkoning"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:22:53.586757898Z",
+  "model": "glm-5.3"
+}

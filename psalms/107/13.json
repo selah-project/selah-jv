@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Banjur padha njerit marang Yahweh ing sasarané; saka pancubrané dhéwé Panjenengané nylametaké wong-wong mau.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "banjur padha njerit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ing sasarané"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dhéwé"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "saka pancubrané dhéwé"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Panjenengané nylametaké wong-wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:48.381987448Z",
+  "model": "glm-5.3"
+}

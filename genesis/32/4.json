@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Banjur Yaakov ngutus para utusan ing sangarepe menyang Esau, sedulure, menyang wewengkone Seir, dhaerahe Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "para utusan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing sangarepe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulure"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menyang wewengkone"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dhaerahe"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:58.802646278Z",
+  "model": "glm-5.3"
+}

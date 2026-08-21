@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan kowe bakal ngetung tumrap kowe, saka sesuké sabat, saka dinane kowe ngetokake ⟨את⟩ omer sesaji oboran — pitu sabat kudu dadi sampurna.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "lan kowe bakal ngetung"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tumrap kowe"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "saka sesuké"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabat"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "saka dinane"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "kowe ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "sesaji oboran"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "sabat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "sampurna"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "kudu dadi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:27.967634694Z",
+  "model": "glm-5.3"
+}

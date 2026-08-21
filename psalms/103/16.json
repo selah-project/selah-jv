@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Sebab angin liwati iku, lan ⟨iku⟩ ora ana maneh, lan panggone bakal ora nganggep maneh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "liwati"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "lan ora ana maneh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "nganggep (nangenali)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "panggone"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:20.590691907Z",
+  "model": "glm-5.3"
+}

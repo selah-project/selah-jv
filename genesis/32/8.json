@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Banjur Yaakov wedi banget lan susah ati; lan dinah dadi loro ⟨את⟩ wong kang ⟨את⟩ ⟨karo⟩ dheweke, lan ⟨את⟩ domba-domba, lan ⟨את⟩ sapi-sapi, lan unta-unta, dadi kamp loro.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "banjur wedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "lan susah ati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ing atiné"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "lan dinah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong (kancane)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨karo⟩ dheweke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba-domba"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba-domba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapi-sapi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi-sapi"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "lan unta-unta"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "dadi loro"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "kamp"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:33.385677814Z",
+  "model": "glm-5.3"
+}

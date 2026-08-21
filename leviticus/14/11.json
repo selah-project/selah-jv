@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan imam sing ngluwari marangake ⟨את⟩ wong sing arep diluwari lan ⟨את⟩ kalorone, ana ing ngarsane Yahweh, ing lawanging kemah pasamuwan.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "sing ngluwari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong sing arep diluwari"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "sing arep diluwari"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kalorone"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ana ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:40.774095432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Kita nimbang, wahai Elohim, sih-kabecikan-Mu, ing sajroning balaikutha-Mu.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "kita nimbang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wahai Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sih-kabecikan-Mu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "balaikutha-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:39.947528372Z",
+  "model": "glm-5.3"
+}

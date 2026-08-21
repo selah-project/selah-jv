@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Lan dheweke tresna getunan, lan iku teka marang awake; lan ora seneng marang berkah, lan iku adoh saka dheweke.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "lan tresna"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "getunan"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "lan teka marang awake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "seneng"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "marang berkah"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "lan adoh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:02.496982930Z",
+  "model": "glm-5.3"
+}

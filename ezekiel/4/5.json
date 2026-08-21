@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan aku wus nawakake marang kowé ⟨את⟩ taun-tauné kadurjanané, miturut cacahing dina-dina — telung atus sangang puluh dina — lan kowé bakal nggawa kadurjanan saka omah Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Lan aku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "wus nawakake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taun-tauné"
+    },
+    {
+      "surface": "שני",
+      "gloss": "taun-tauné"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kadurjanané"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "miturut cacahing"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telung"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "lan sangang puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "lan kowé bakal nggawa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kadurjanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saka omah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T01:08:54.038861349Z",
+  "model": "glm-5.3"
+}

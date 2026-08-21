@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Ing dina sangsaraku Adonai tak-guyu; tanganku ing wengi diremesake lan ora kendho; ora gelem diajurake nyawak ⟨aku⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sangsaraku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "tak-guyu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "diremesake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "kendho"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "ora gelem"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "diajurake"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawak"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:52.040603573Z",
+  "model": "glm-5.3"
+}

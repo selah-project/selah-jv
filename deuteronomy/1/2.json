@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sebelas dinane saka Horeb, liwat dalan Redhu Seir, nganti Kadesh Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "saka Horeb"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "liwat dalan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "redhu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:38.665491658Z",
+  "model": "glm-5.3"
+}

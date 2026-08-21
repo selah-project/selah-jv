@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Cethakna paningal-Mu, wangsulana aku, Yahweh Elohim-ku; padangaké mripatku, supaya aku ora saré sarining pati.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "cethakna paningal-Mu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "wangsulana aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "padangaké"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "saré"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sarining pati"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:16.589884877Z",
+  "model": "glm-5.3"
+}

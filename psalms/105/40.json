@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Padha njaluk, lan Dheweke nggawa puyuh, lan rotining langit ngwaregake dheweke.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "padha njaluk"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan nggawa"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "puyuh"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "lan roti"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "ngwaregake dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:52.199140340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Marang wong setia Kowé nindakake kasetyan; marang wong jujur Kowé nindakake kaluhuran.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "wong setia"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "Kowé nindakake kasetyan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wong"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "jujur"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "Kowé nindakake kaluhuran"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:57.167612191Z",
+  "model": "glm-5.3"
+}

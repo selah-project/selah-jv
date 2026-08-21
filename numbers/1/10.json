@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kanggo anak-anaké Yosef: kanggo Efrayim, Elishama anaké Amihud; kanggo Menashé, Gamliel anaké Pedahsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Kanggo anak-anaké"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kanggo Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "kanggo Menashé"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedahsur"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:39.755816429Z",
+  "model": "glm-5.3"
+}

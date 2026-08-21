@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Yahweh ⟨⟨is⟩⟩ Ratu salamé lan langgeng; bangsa-bangsa tisnas saka buminé.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Ratu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan langgeng"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "tisnas"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "saka buminé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:02.897057876Z",
+  "model": "glm-5.3"
+}

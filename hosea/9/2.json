@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Galengan lan panggentengan anggur ora bakal wenei pangan marang ⟨dheweke⟩, lan anggur anyar bakal pules ing ⟨kono⟩.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "galengan"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "lan-panggentengan-anggur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "wenei-pangan"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": ""
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "lan-anggur-anyar"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "bakal-pules"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing-kono"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:52.998708096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Baana bin Khushai, ing Asyer lan ing Bealot.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Khushai"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ing Asyer"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "lan ing Bealot"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:32.619789686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 15:26",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan dhèwèké nindakake ⟨ה⟩ ala ing sajroning mripaté Yahweh, sarta lumaku ing dalané ramané lan ing dosané, sing nggawé Israel padha dosa marang ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan dhèwèké nindakake"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨ה⟩ ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing sajroning mripaté"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "sarta lumaku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalané"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramané"
+    },
+    {
+      "surface": "ובחטאתו",
+      "gloss": "lan ing dosané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "nggawé dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:13.853313364Z",
+  "model": "glm-5.3"
+}

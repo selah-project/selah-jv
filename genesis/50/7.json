@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Lanjur Yosef munggah arep nguburake ⟨את⟩ bapake, lan munggah bareng ⟨את⟩ kabeh abdine Paroh, para sesepuh omahé, lan kabeh sesepuh bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lanjur munggah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "arep nguburake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapake"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bareng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdine"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "sesepuh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:09.727865607Z",
+  "model": "glm-5.3"
+}

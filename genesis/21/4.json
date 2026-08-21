@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Avraham suntiking ⟨את⟩ Yitshak putrane, putra umur wolung dina, kaya sing wis didhawuhake Elohim marang ⟨את⟩-e.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Lan suntiking"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "wolung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wis didhawuhake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-e",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:08.695230756Z",
+  "model": "glm-5.3"
+}

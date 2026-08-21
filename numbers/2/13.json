@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "lan balahe, lan kang dinungang ⟨⟨is⟩⟩ sangang puluh limang ewu lan telung atus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "lan balahe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "lan kang dinungang"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "sangang"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "puluh limang"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "lan telung"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:47.058684021Z",
+  "model": "glm-5.3"
+}

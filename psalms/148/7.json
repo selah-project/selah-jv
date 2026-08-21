@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Muji ⟨את⟩ Yahweh saka ⟨saka⟩ bumi, dine-dine sagara lan saben paliring jero:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "muji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "dine-dine sagara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "paliring jero"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:44.631949432Z",
+  "model": "glm-5.3"
+}

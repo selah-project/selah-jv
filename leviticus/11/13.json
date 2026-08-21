@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan ⟨את⟩ iki saka manuk-manuk kudu padha dicendhangi, aja dipangan awit cendheng iku: ⟨את⟩ burung nasar, lan ⟨את⟩ burung peres, lan ⟨את⟩ burung azniyah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kudu padha dicendhangi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manuk-manuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dipangan"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "cendheng"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burung nasar"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "burung nasar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burung peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "burung peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burung azniyah"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "burung azniyah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:03.920450585Z",
+  "model": "glm-5.3"
+}

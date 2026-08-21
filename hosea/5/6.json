@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Karo wedhusé lan sapi-sapié dhèwèké padha lunga goleki ⟨את⟩ Yahweh, nanging ora padha nemu; Sang Nabi wis mundhur saka ing antarané dhèwèké.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "karo wedhusé"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "lan sapi-sapié"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "padha lunga"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "goleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "padha nemu"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "wis mundhur"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "saka ing antarané dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:39.811142578Z",
+  "model": "glm-5.3"
+}

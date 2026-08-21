@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan kowe njupuk ⟨את⟩ wedhus jantan sing kapindho, lan Aharon lan anak-anake ndhemenke ⟨את⟩ tangan-tangane marang mustha ⟨the⟩ wedhus jantan iku.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "lan kowe njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus jantan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wedhus jantan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "sing kapindho"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "lan ... ndhemenke"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-tangane"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan-tangane"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mustha"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wedhus jantan iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:46.058298030Z",
+  "model": "glm-5.3"
+}

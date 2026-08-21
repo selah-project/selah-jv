@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dhèwèké nyedhekké ⟨את⟩ domba jantan kurban obong iku, lan Aharon karo anak-anaké ndhedhes ⟨את⟩ tangané ing dhasuring domba jantan iku.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nyedhekké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan"
+    },
+    {
+      "surface": "איל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban obong iku"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "ndhedhes"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "karo anak-anaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangané"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangané"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "dhasur"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:25.886303924Z",
+  "model": "glm-5.3"
+}

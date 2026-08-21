@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Ndherekna, Aku wus murnènaké kowé, nanging ora kaya pérak; Aku milih kowé ana ing ljahit bingah-bingah (pacoban kasusahan).",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ndherekna \/ deleng"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "Aku wus murnènaké kowé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kaya pérak"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "Aku milih kowé"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "tjahi \/ ljahit"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pacoban kasusahan (kemlarat)"
+    }
+  ],
+  "timestamp": "2026-08-21T00:43:25.748248923Z",
+  "model": "glm-5.3"
+}

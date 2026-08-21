@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur dheweke tangi maneh nglumpukake, lan Boaz mrentahake ⟨את⟩ para enome, ngendika: uga ing antarane karungan-karungan olèh nglumpuk, lan aja padha ngeneki dheweke.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "banjur dheweke tangi maneh"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "nglumpukake"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "lan mrentahake"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para enome"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "para enome"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ing antarane"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "karungan-karungan"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "olèh nglumpuk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "padha ngeneki dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:34.476880971Z",
+  "model": "glm-5.3"
+}

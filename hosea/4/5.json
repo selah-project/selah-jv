@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Sira bakal tiba ing waya awi, lan nabi uga bakal tiba bareng kowe ing waya wengi; lan Aku numpes ibune kowe.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "sira bakal tiba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing waya awi"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "bakal tiba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bareng kowe"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ing waya wengi"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "lan Aku numpes"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibune kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:07.292724754Z",
+  "model": "glm-5.3"
+}

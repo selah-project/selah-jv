@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Mugi wasanane kena kabesmi, lan ing turune sabanjure jenenge kalenye saka ing pangecapan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mugi dadi"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "wasanane"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kena kabesmi"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ing turune"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sabanjure"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "kalenye"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "jenenge"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:00.338290764Z",
+  "model": "glm-5.3"
+}

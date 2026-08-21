@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Ing wektu iku Hizkiya motong ⟨את⟩ lawang-lawanging balé Yahweh lan ⟨את⟩ cagak-cagak sing Hizkiya raja Yehuda wis paplak emas, lan mènèhaké ⟨את⟩ kabèh marang raja Asur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "motong"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lawang-lawanging balé"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "lawang-lawang"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "balé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "cagak-cagak"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "cagak-cagak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "wis paplak emas"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "lan mènèhaké kabèh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:45.437351976Z",
+  "model": "glm-5.3"
+}

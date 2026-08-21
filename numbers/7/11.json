@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Yahweh matur dhateng Moshe: Siji panggedhe sedina, siji panggedhe sedina, padha ngaturake ⟨את⟩ pasamadyane kangge pasamadyaning altar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan matur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sedina"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sedina"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "padha ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasamadyane"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "pasamadyane"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "kangge pasamadyaning"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:28.762481003Z",
+  "model": "glm-5.3"
+}

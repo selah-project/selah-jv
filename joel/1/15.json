@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Adhuh amarga dina iku, awit cedhak dedina Yahweh, lan bakal teka kaya kamusnahan saka Shaddai.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "adhuh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "amarga dina iku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "cedhak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dedina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "lan kaya kamusnahan"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "saka Shaddai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bakal teka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:02.376493729Z",
+  "model": "glm-5.3"
+}

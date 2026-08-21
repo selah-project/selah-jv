@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Dadéya dalané pepeteng lan licin, lan utusané Yahweh sing ngoyak ⟨kowe⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "dadéya"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "dalané"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pepeteng"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "lan kelincir"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "lan utusané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ngoyak dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:21.577001217Z",
+  "model": "glm-5.3"
+}

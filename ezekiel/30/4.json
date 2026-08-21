@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 30:4",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan teka pedhang ing Mitsrayim, lan ana sesenggakan ing Kush nalika wong-wong tatu tiba ing Mitsrayim, lan petungane dijupuk, lan sasakané diruntuhake.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Lan teka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "lan ana"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "sesenggakan"
+    },
+    {
+      "surface": "בכוש",
+      "gloss": "ing Kush"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "nalika tiba"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "wong-wong tatu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "lan dijupuk"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "petungane"
+    },
+    {
+      "surface": "ונהרסו",
+      "gloss": "lan diruntuhake"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "sasakané"
+    }
+  ],
+  "timestamp": "2026-08-21T04:14:24.033469384Z",
+  "model": "glm-5.3"
+}

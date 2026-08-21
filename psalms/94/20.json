@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Apa korsé panggawe-gela iku mitranira, sing mbangun angkara miturut undhang-undhang?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "mitranira"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "korsé"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "panggawe-gela"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mbangun"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "angkara"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "חק",
+      "gloss": "undhang-undhang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:53.605820291Z",
+  "model": "glm-5.3"
+}

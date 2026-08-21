@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur para abdiné sang raja kang ana ing gapura sang raja padha matur dhateng Mordekai: Yèn kowe nglampahi ⟨את⟩ parentahé sang raja punapa sababipun?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "banjur padha matur"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para abdiné"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ana ing gapura"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "dhateng Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "punapa sababipun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "nglampahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentahé sang raja"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T02:51:35.411201525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Nggon nggawe aku wis nggawe omah kadunungan kanggo kowe, panggonan tetep kanggo dunungmu salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "nggon nggawe"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "aku wis nggawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "kadunungan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo kowe"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "panggonan tetep"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "kanggo dunungmu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:54.676480213Z",
+  "model": "glm-5.3"
+}

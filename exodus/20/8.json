@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Élingana ⟨את⟩ dina Sabat kanggo ngesakake.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Élingana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina Sabat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "kanggo ngesakake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:05.312486527Z",
+  "model": "glm-5.3"
+}

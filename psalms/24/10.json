@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Sapa iku, ratu kamulyan? Yahweh Tzevaot — Panjenengané ratu kamulyan. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "punika"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Panjenengané"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:07.773054672Z",
+  "model": "glm-5.3"
+}

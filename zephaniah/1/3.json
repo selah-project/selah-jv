@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Aku nglumpukake manungsa lan sapi, aku nglumpukake manuk sajrone langit lan iwak sajrone segara, lan kacilakan-kacilakan ⟨את⟩ wong mangkara; lan aku ngethok ⟨את⟩ manungsa saka ing sadhuwure pasemon bumi, sabda Yahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "nglumpukake"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "lan sapi"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "nglumpukake"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sajrone langit"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "lan iwak"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sajrone segara"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "lan kacilakan-kacilakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong mangkara"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "wong mangkara"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "lan aku ngethok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing sadhuwure"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pasemon"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:34.008246457Z",
+  "model": "glm-5.3"
+}

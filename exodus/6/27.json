@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Iku wong-wong sing ngendika marang Paroh raja Mitsrayim, kanggo metuake ⟨את⟩ bani Israël saka Mitsrayim — iku Moshe lan Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Iku"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "wong-wong sing ngendika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kanggo metuake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "lan Aharon"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:31.096815192Z",
+  "model": "glm-5.3"
+}

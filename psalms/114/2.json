@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 114,
+  "translation": "Yehudha dadi padhesane, Yisrael dadi karatonke.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "padhesane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "karatonke"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:53.471024130Z",
+  "model": "glm-5.3"
+}

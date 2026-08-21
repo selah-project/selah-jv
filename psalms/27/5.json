@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Sebab dheweke bakal ndhelikake aku ing padhangane, ing dinane ala; dheweke ndhelikake aku ing papan sidhem ing kemahe; ing watu gedhe dheweke ngunggahake aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יצצפנני",
+      "gloss": "ndhelikake aku"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ing padhangane"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ndhelikake aku"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ing papan sidhem"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "kemahe"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ing watu"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ngunggahake aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:12.302690533Z",
+  "model": "glm-5.3"
+}

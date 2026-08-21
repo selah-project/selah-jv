@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 15:19",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Awake matur: 'Aku mugi paduka paringi berkah, awit paduka wus maringi aku tanah ing Neghev; mugi uga paduka paringi aku sumber banyu.' Saka iku awake paringi ⟨את⟩ sumber ing dhuwur lan ⟨את⟩ sumber ing ngisor.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "banjur awake matur"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "mugi paduka paringi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkah\/paringan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ing Neghev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "paduka maringi aku"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mugi uga paduka paringi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "sumber"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "saka iku awake paringi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumber ing dhuwur"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "sumber"
+    },
+    {
+      "surface": "עליות",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sumber ing ngisor"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "sumber"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ing ngisor"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:39.381402232Z",
+  "model": "glm-5.3"
+}

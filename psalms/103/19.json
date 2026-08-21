@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Yahweh ing swarga wis natadhapake singgasanané, lan karajané marang samubarang wis jumeneng ratu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing swarga"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "wis natadhapake"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "singgasanané"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "lan karajané"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "marang samubarang"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "wis jumeneng ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:08.722431582Z",
+  "model": "glm-5.3"
+}

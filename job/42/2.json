@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kawula sumerep menawa Panjenengan kuwasa marang samubarang, lan ora ana rerencanan sing bisa kasumelangake saka Panjenengan.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "kawula sumerep"
+    },
+    {
+      "surface": "כי",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "samubarang"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "Panjenengan kuwasa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "bisa kasumelangake"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka Panjenengan"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "rerencanan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:21:55.578412504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan sira ngendika marang dheweke, lan sira pasang ⟨את⟩ tembung-tembung ing tutuke; lan Kula bakal ana karo tutukmu lan karo tutuke, lan Kula bakal nuntun ⟨את⟩ sira ⟨את⟩ apa sing sira lakoni.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "lan sira ngendika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "lan sira pasang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembung"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ing tutuke"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "lan Kula"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tutukmu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan karo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "tutuke"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "Kula nuntun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa sing sira lakoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "sira lakoni"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:51.604176420Z",
+  "model": "glm-5.3"
+}

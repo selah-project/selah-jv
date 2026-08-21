@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatot lan ⟨את⟩ padhangane, ⟨את⟩ Almon lan ⟨את⟩ padhangane — kutha patang.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:34.725748957Z",
+  "model": "glm-5.3"
+}

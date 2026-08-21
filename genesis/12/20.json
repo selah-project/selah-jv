@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur Parho mrentahake para abdine prakara Avram, lan padha ngusir ⟨את⟩ dhèwèké lan ⟨את⟩ bojone sarta ⟨את⟩ sakabehaning duwèké.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "banjur mrentahake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "prakara dhèwèké"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "lan padha ngusir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bojone"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehaning duwèké"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehaning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:03.840817794Z",
+  "model": "glm-5.3"
+}

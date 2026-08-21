@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Elisha ngandika marang dhèwèké: Cepuken busur lan panah. Lan dhèwèké njupuk marang Elisha busur lan panah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Cepuken"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "lan panah"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang Elisha"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "ווחצים",
+      "gloss": "lan panah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:57.695931106Z",
+  "model": "glm-5.3"
+}

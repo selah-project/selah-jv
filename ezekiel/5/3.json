@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan pundhutna saka kana sethithik miturut gunggung, lan iketna ⟨את⟩ awake ing pangapitmu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "lan pundhutna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sethithik"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "miturut gunggung"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "lan iketna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "saburine iku"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "ing pangapitmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:09:10.797797247Z",
+  "model": "glm-5.3"
+}

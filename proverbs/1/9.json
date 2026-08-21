@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sebab ⟨iyaiku⟩ uncalan kabegjan tumrap sirahira, lan anting-anting tumrap gulonira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "uncalan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kabegjan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨iyaiku⟩"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "tumrap-sirahira"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "lan-anting-anting"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "tumrap-gulonira"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:43.569178571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan aku bakal ngemahi nglawan sira ngubengi kaya bunderan, lan dak-pèngeti marang sira kanthi panggonan wadya, lan dak-degaké marang sira paga pangubengan.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "aku bakal ngemahi"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "kaya bunderan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nglawan sira"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "dak-pèngeti"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "panggonan wadya"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "dak-degaké"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "paga pangubengan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:00.473691184Z",
+  "model": "glm-5.3"
+}

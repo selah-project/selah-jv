@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan kok sajodhokaké ⟨את⟩ anak-anakmu, lan kok mènèhaké dhèwèké kanthi ngliwataké ⟨את-uke⟩ marang pepujan iku.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "kok sajodhokaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakmu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "kok mènèhaké dhèwèké"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "kanthi ngliwataké"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את-uke⟩",
+      "marks": "marang pepujan iku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang pepujan iku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:11:13.735211221Z",
+  "model": "glm-5.3"
+}

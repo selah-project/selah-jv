@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Nganti salawas-lawase aku ora bakal lali prekat-marang-⟨kowe⟩; awit dening kuwi Kowé wus ndadèkaké aku urip.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "aku bakal lali"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "prekaté Kowé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dening kuwi"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Kowé ndadèkaké aku urip"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:17.242031917Z",
+  "model": "glm-5.3"
+}

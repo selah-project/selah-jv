@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur aku ngandika: Saahe kowe, para pandhita Yaakov, lan panggedhening betha Israel; apa ora kok kudu ngerti ⟨את⟩ putusan?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "banjur aku ngandika"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "saahe kowe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "muhun"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "para pandhita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "lan panggedhening"
+    },
+    {
+      "surface": "בית",
+      "gloss": "betha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kudu ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putusan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "putusan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:16.860055753Z",
+  "model": "glm-5.3"
+}

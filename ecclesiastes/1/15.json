@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sing bengkok ora bisa dibenerake, lan sing kurang ora bisa ditata.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "sing bengkok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "dibenerake"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "lan sing kurang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ditata"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:57.296685169Z",
+  "model": "glm-5.3"
+}

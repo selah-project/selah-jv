@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Saka iki aku weruh yèn Kowé seneng ing aku, jalaran mungsuhku ora mbungkah swara ngluwihi aku.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "saka iki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Kowé seneng"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "mbungkah swara"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngluwihi aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:39.699673435Z",
+  "model": "glm-5.3"
+}

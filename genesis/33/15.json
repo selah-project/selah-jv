@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan Esav ngandika: Muga aku nggawa sawetara saka wong-wong kang ⟨את⟩ ana karo aku. Lan dheweke ngandika: Kanggo apa iki? Muga aku oleh paweweh ing paningalane ndara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan Esav ngandika"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "muga aku nggawa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "muga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo kowe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sawetara saka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ karo aku",
+      "marks": "ana karo aku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan dheweke ngandika"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kanggo apa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "aku oleh"
+    },
+    {
+      "surface": "חן",
+      "gloss": "paweweh"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalane"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ndara"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:05.611337604Z",
+  "model": "glm-5.3"
+}

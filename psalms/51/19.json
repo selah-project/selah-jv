@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Kurban kanggo Elohim yaiku roh kang remuk; ati kang remuk lan kaantep, Elohim, ora Kaucilakake.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "Kurban"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kanggo Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "kang remuk"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "kang remuk"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "lan kaantep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "Kaucilakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:52.207968961Z",
+  "model": "glm-5.3"
+}

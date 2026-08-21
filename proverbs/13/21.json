@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Pati-pati ngejar wong dosa nange apa jahat, lan marang ⟨את⟩ para bener kabecikan bakal diwales",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "wong dosa"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "nange\/ngejar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para bener (wong-wong bener)"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong bener"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "diwales\/ngabebenake"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabecikan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:14:30.161743434Z",
+  "model": "glm-5.3"
+}

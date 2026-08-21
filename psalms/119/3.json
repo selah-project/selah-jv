@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Malah ora padha nindakake kaluputan, ing dalane Panjenengane padha lumaku.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ing dalane"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "padha lumaku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:10.775796755Z",
+  "model": "glm-5.3"
+}

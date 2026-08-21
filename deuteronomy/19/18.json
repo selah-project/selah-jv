@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 19:18",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan para hakim iku padha nliti becik, lan lah yen saksi iku saksi goroh, goroh piyambake wales marang sedulure.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "lan padha nliti"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "para hakim iku"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "העד",
+      "gloss": "saksi iku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "wales"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "marang sedulure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:41.506688349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Kanggo nindakake ⟨את⟩ tata hukum katulis ing sadhuwuring wong-wong mau; iku kaluhuran tumrap kabeh wong kasetia-setyane. Pujia ing Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo nindakake"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing sadhuwuring wong-wong mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata hukum katulis"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tata hukum"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "katulis"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tumrap kabeh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "wong kasetia-setyane"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pujia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:00.890940724Z",
+  "model": "glm-5.3"
+}

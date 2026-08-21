@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Mlebulah ing watu, lan uwisen ing lebu, saka ngarsane wedi Yahweh lan saka kinabektining kaagungane.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "mlebulah"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ing watu"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "uwisen"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ing lebu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "saka kinabektining"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "kaagungane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:24.085221857Z",
+  "model": "glm-5.3"
+}

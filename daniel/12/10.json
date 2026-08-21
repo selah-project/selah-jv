@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Akeh wong bakal kasucèn, dikum_pathi putih, lan kalulut; nanging wong-wong lucu bakal nglakoni kalucuan, lan saka wong lucu ora ana sing bakal mangerteni; nanging wong-wong pinter bakal mangerteni.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "kasucèn"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "dikum_pathi putih"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "lan kalulut"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akeh wong"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "bakal nglakoni kalucuan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong lucu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bakal mangerteni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saka ... kabeh"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong lucu"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "nanging wong-wong pinter"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bakal mangerteni"
+    }
+  ],
+  "timestamp": "2026-08-21T03:02:43.958934368Z",
+  "model": "glm-5.3"
+}

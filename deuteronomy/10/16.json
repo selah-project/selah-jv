@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Mulane sunatna ⟨את⟩ kulit oreling atimu, lan gulamu aja maneh digawe atos.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "sunatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulit oreling atimu"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "kulit orel"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "lan gulamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "digawe atos"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:44.487678037Z",
+  "model": "glm-5.3"
+}

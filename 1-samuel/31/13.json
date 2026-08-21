@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan padha njupuk ⟨את⟩ balung-balunge, lan padha nguburake ing sangisore wit areshel ing Yabesyah, lan padha pasa pitu dina.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lan padha njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balung-balunge"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "balung-balunge"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "lan padha nguburake"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "wit areshel"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ing Yabesyah"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "lan padha pasa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:21.833691215Z",
+  "model": "glm-5.3"
+}

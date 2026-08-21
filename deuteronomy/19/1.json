@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Yèn Yahweh Elohim-mu ngethok ⟨את⟩ para bangsa, sing lemahé diwènèhaké Yahweh Elohim-mu marang sira, lan sira oleh duwé ⟨את⟩ wewengkoné, sarta manggon ing kutha-kuthané lan ing omah-omahé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "ngethok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diwènèhaké"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wewengkoné"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lemahé"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "lan sira oleh duwé"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "sarta manggon"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "ing kutha-kuthané"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "lan ing omah-omahé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:58.993151074Z",
+  "model": "glm-5.3"
+}

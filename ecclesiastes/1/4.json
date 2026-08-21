@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sawijining gegènérasi lunga, lan sawijining gegènérasi teka; nanging bumi iyu tansah ngadeg salawasé.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "sawijining gegènérasi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lunta"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "lan sawijining gegènérasi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nanging bumi iyu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "tansah ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:42.419435160Z",
+  "model": "glm-5.3"
+}

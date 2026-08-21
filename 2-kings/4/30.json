@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur ibune bocah iku ngendika: Miturut uripe Yahweh lan miturut uripe nyawamu, aku ora bakal ninggal kowé. Banjur dheweke ngadeg lan mangkat nyusul dheweke.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lan dheweke ngendika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bocah iku"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "lan urip"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "aku ninggal kowé"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lan dheweke ngadeg"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan mangkat"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "nyusul dheweke (wong wadon iku)"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:46.241753224Z",
+  "model": "glm-5.3"
+}

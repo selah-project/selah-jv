@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Aja krungkah mèlu ⟨את⟩ sing nduwé rirah, lan ⟨את⟩ wong beringas aja kok kumpul.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "krungkah mèlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing nduwé rirah"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sing nduwé"
+    },
+    {
+      "surface": "אף",
+      "gloss": "rirah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "beringas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kok kumpul"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:27.603862244Z",
+  "model": "glm-5.3"
+}

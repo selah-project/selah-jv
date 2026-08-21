@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Saka ⟨את⟩ kewan-kewan sing suci lan saka ⟨את⟩ kewan-kewan sing ora suci, lan saka ⟨את⟩ manuk-manuk, lan ⟨את⟩ sabarang sing mlumah ing sadhuwuring lemah.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Saka"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kewan-kewan"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "sing suci"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kewan-kewan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "ora"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manuk-manuk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan ⟨את⟩ sabarang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mlumah\/njayap"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lemah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:29.772166358Z",
+  "model": "glm-5.3"
+}

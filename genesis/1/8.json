@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim njenengake reregement mau Shemayim. Lan dadi sore, lan dadi esuk — dina kapindho.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lan njenengake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "reregement mau"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Shemayim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sore"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kapindho"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:13.965556229Z",
+  "model": "glm-5.3"
+}

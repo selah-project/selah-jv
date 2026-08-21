@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Kébo wadon loro atus lan kang lanang rong puluh, wedhus wadon loro atus lan biri-biri lanang rong puluh.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "kébo wadon"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "loro atus"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "lan kang lanang"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rong puluh"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "wedhus wadon"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "loro atus"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "lan biri-biri lanang"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rong puluh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:42.017046654Z",
+  "model": "glm-5.3"
+}

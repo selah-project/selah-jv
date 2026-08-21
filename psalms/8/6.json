@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Kowé andadèkaké dhèwèké kurang sethithik saka Elohim, lan kaluhuran lan kamulyan Kowé makuthani ⟨את⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Kowé andadèkaké kurang"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sethithik"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "saka Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "lan kaluhuran"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "lan kamulyan"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "Kowé makuthani"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:20.569070459Z",
+  "model": "glm-5.3"
+}

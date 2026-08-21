@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Kanthi wuluné ⟨dhèwèké⟩ bakal nglambari kowé, lan sangisoring swiwiné kowé ndhelik; piranti tameng lan tameng bunder ⟨yaiku⟩ kajujurané",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "kanthi wuluné"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "bakal nglambari kowé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "lan sangisoring"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "swiwiné"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "kowé ndhelik"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "piranti tameng"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "lan tameng bunder"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "kajujurané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:14.246570420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 108,
+  "translation": "Sapa sing nggawa aku menyang kutha bètèng? Sapa sing nuntun aku nganti tekan Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "nggawa aku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "bètèng"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "nuntun aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:31.109291970Z",
+  "model": "glm-5.3"
+}

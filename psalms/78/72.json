@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan dhèwèké angon marang kaimananing atiné, lan kacekapaning tangane nuntun dhèwèké.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "lan dhèwèké angon marang"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "kaimananing"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "lan kacekapaning"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "nuntun dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:43.743093012Z",
+  "model": "glm-5.3"
+}

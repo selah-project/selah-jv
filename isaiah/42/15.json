@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Aku gawé becomesana gunung-gunung lan bukit-bukit, saka suket-suketé banjur-tandhes kabèh; aku nggawé baé lumba-lumba dadi pulo-pulo, lan rawa-rawa banjur-tandhes.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "aku gawé becomesana"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "lan bukit-bukit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saka suket-suketé kabèh"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "suket-suketé"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "banjur-tandhes"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "aku nggawé"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "lumba-lumba"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "dadi pulo-pulo"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "lan rawa-rawa"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "banjur-tandhes"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:29.604844043Z",
+  "model": "glm-5.3"
+}

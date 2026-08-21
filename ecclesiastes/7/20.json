@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sebab manungsa ora ana sing adil ing bumi sing nglakoni becik lan ora dosa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sing adil"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:20.810773668Z",
+  "model": "glm-5.3"
+}

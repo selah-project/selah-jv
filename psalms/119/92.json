@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Yen ora Toratmu kang dadi kesenenganku, iku temen aku wis binasa ing sangsarku.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "yen ora (kajaba)"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toratmu"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kesenenganku"
+    },
+    {
+      "surface": "אז",
+      "gloss": "iku temen (ing wektu iku)"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "aku wis binasa"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "ing sangsarku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:56.490714816Z",
+  "model": "glm-5.3"
+}

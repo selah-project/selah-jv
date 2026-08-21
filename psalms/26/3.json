@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Sebab sih-sihmu ana ing ngarsane mripataku, lan aku padha mlaku-mlaku ing kaleresanmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sih-sihmu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ana ing ngarsane"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripataku"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "lan aku padha mlaku-mlaku"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ing kaleresanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:28.508020383Z",
+  "model": "glm-5.3"
+}

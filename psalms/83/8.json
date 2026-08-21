@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Gebal, lan Amon, lan Amalek, Peleset karo para panggonané Tzor",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "lan Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "lan Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "para panggonané"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tzor"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:02.437453700Z",
+  "model": "glm-5.3"
+}

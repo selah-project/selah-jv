@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Yahweh wangsulan: Yehuda bakal munggah; kena, Ingsen wus menehi ⟨את⟩ ⟨the⟩ bumi ing tangané.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wangsulan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bakal munggah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kena"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ingsen wus menehi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ing tangané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:17.597558631Z",
+  "model": "glm-5.3"
+}

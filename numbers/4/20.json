@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lawa aja padha mlebu ndeleng, sanadyan setambap, ⟨את⟩ kang suci mau, supaya padha ora mati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lawa aja"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "padha mlebu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "sanadyan setambap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang suci mau"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kang suci mau"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "supaya padha ora mati"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:21.861487488Z",
+  "model": "glm-5.3"
+}

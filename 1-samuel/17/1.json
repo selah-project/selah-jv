@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan wong-wong Pelishti ngempetake ⟨את⟩ bala-balané kanggo perang, banjur kumpul ing Sokho, sing dumunung ing wilayah Yehudha, lan ndhedhes antarane Sokho lan Azekah, ing Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "ngempetake"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong-wong Pelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bala-balané"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "bala-balané"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kanggo perang"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "kumpul"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "dumunung ing wilayah Yehudha"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ndhedhes"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ing Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:37.177400338Z",
+  "model": "glm-5.3"
+}

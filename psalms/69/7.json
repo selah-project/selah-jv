@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Aja nganti isin amarga aku sing ngenteni Kowé, Adonai, Yahweh Tzvaot; aja nganti rumangsa cidra amarga aku sing nggolek Kowé, Elohimé Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "nganti isin"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amarga aku"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "sing ngenteni Kowé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "nganti rumangsa cidra"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amarga aku"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "sing nggolek Kowé"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:55.840577389Z",
+  "model": "glm-5.3"
+}

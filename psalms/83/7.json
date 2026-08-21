@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Khemah-khemahé Edom lan wong-wong Yishmaêl, Moab lan wong Hagri",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "khemah-khemahé"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "lan wong-wong Yishmaêl"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "lan wong Hagri"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:02.437272797Z",
+  "model": "glm-5.3"
+}

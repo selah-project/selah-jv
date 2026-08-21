@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Kaya mangkene Yahweh ngandika: kaya mangkono Aku bakal ngrusak ⟨את⟩ kamulyan Yehudha lan ⟨את⟩ kamulyan Yerushalayim ⟨sing⟩ akkeh.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "Aku bakal ngrusak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyan Yehudha"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "l ⟩⟨את⟩",
+      "marks": "kamulyan Yerushalayim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "akkeh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:53:42.610290963Z",
+  "model": "glm-5.3"
+}

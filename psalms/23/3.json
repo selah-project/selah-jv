@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Nyawaku dibangsétake; panjenengane nuntun aku ing dalan-dalan kabeneran, demi asmané.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nyawaku"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "dibangsétake"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "panjenengane nuntun aku"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "ing dalan-dalan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:02.494542738Z",
+  "model": "glm-5.3"
+}

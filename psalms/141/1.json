@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 141,
+  "translation": "Mazmur kangge Dawid. Yahweh, aku ngundhang Kowé, régorana marang aku; pasangna kuping marang swaraku nalika aku ngundhang Kowé.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kangge Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "aku ngundhang Kowé"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "régorana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pasangna kuping"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swaraku"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nalika aku ngundhang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:56.609292933Z",
+  "model": "glm-5.3"
+}

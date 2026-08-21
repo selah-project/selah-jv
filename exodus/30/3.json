@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan kowe bakal ngliputi ⟨את⟩ iku emas murni: ⟨את⟩ payoné lan ⟨את⟩ temboké ing sakiwa-tengené, lan ⟨את⟩ cula-culané; lan kowe bakal gawé kanggo iku rerenggan wewatesan emas ing sakiwa-tengené.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "lan kowe bakal ngliputi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (mezbah)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payoné"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "payoné"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "temboké"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "temboké"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing sakiwa-tengené"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "cula-culané"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "cula-culané"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowe bakal gawé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo iku"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rerenggan wewatesan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing sakiwa-tengené"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:33.956518563Z",
+  "model": "glm-5.3"
+}

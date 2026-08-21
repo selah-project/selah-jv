@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Kanggo pangembaning serumuten. Kagaweane Dawid. Wong bodho ngucap ing atine: ora ana Elohim. Wong-wong padha ngrusak, padha nglakoni panggawe muji; ora ana sing nglakoni becik.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangembaning serumuten"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagaweane Dawid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wong bodho"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ing atine"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "padha ngrusak"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "padha nglakoni panggawe muji"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sing nglakoni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:03.980814868Z",
+  "model": "glm-5.3"
+}

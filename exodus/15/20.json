@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lanj Miryam sing nabi, sadhèrèké Aharon, njupuk ⟨את⟩ tamburin ing tanganné, lan kabèh wong wadon metu mèlu dhèwèké nganggo tamburin-tamburin lan jogèdan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Lanj njupuk"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "sing nabi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sadhèrèké"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamburin"
+    },
+    {
+      "surface": "התף",
+      "gloss": "tamburin"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "ing tanganné"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "wong wadon"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "mèlu dhèwèké"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "nganggo tamburin-tamburin"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "lan jogèdan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:44.274325523Z",
+  "model": "glm-5.3"
+}

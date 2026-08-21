@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Avshalom ora ngucap apa-apa marang Amnon, ala apa bae utawa becik apa bae, sebab Avshalom sengit marang ⟨את⟩ Amnon amarga perkara sing wis dipeksa ⟨את⟩ Tamar sadulur wadone.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Lan ora"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngucap apa-apa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "ala apa bae"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik apa bae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "sengit"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "dipeksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sadulur wadone"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:18.461216911Z",
+  "model": "glm-5.3"
+}

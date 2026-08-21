@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lagé dadi kagungané wadon-wadon ratu-rawuh pitung atus, lan selir telung atus; lan wadon-wadoné padha mbengokaké ⟨את⟩ atiné.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lagé dadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kagungané"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wadon-wadon"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "ratu-rawuh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "lan selir"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "lan padha mbengokaké"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "wadon-wadoné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atiné"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atiné"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:44.439087560Z",
+  "model": "glm-5.3"
+}

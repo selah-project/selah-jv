@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Ing kono para panggawe ⟨און⟩ wis tiba: padha kadhodhog, lan ora bisa bangkit maneh.",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "נָפְלוּ",
+      "gloss": "padha tiba"
+    },
+    {
+      "surface": "פֹּעֲלֵי",
+      "gloss": "para panggawe"
+    },
+    {
+      "surface": "אָוֶן",
+      "gloss": "⟨און⟩ keliru\/ora-becik"
+    },
+    {
+      "surface": "דֹּחוּ",
+      "gloss": "padha kadhodhog"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יָכְלוּ",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "קוּם",
+      "gloss": "bangkit maneh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:26.992662521Z",
+  "model": "glm-5.3"
+}

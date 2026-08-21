@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Wong jemed padha kalajar sanadyan ora ana sing ngudani; nanging wong tulus iya kaya singa enom, marem percaya.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "padha kalajar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sanadyan ora ana"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "sing ngudani"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong jemed"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "nanging wong tulus"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "kaya singa enom"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "marem percaya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:19:26.176104050Z",
+  "model": "glm-5.3"
+}

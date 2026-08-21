@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Pripun aku badhe ngyanyekake ⟨את⟩ tembage Yahweh ing siti manca?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "pripun"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "aku badhe ngyanyekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembage Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "siti"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "manca"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:22.354875109Z",
+  "model": "glm-5.3"
+}

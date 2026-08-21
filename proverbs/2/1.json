@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Anakku, menawa sira nampa tembung-tembungku, lan parentahku sira simpen ⟨אתך⟩ ing awakmu:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anakku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sira nampa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tembung-tembungku"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "lan parentahku"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "sira simpen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "ing awakmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:23.469767739Z",
+  "model": "glm-5.3"
+}

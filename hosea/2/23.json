@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan bakal dadi ing dina iku, Aku bakal nampa — pangandikané Yahweh — Aku bakal nampa ⟨את⟩ sang langit, lan ⟨sang langit⟩ bakal nampa ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "Aku bakal nampa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "Aku bakal nampa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "והם",
+      "gloss": "lan sang langit"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bakal nampa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:58.586879379Z",
+  "model": "glm-5.3"
+}

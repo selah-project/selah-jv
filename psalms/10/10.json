@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Dhèwèké ndhingkluk lan tansah munggah-munggah, lan para wong cilik tiba amarga kakuwatane.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ndhingkluk"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "munggah-munggah"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "lan tiba"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "amarga kakuwatane"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "para wong cilik"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:30.850607494Z",
+  "model": "glm-5.3"
+}

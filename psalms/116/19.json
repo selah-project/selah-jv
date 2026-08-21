@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Ing pavilyon-pavilyone omah Yahweh, ing tengah-tengahmu, heu Yerushalayim. Pujia-Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "Ing pavilyon-pavilyon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ing tengah-tengahmu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pujia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:25.401538350Z",
+  "model": "glm-5.3"
+}

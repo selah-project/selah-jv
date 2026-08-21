@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Nanging saiki ⟨iku⟩ teka marang kowé, lan kowé dadi sayah; ⟨iku⟩ nyenggol nganti marang kowé, lan kowé dadi kalir-lir",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "lan kowé dadi sayah"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "nyenggol"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "nganti marang kowé"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "lan kowé dadi kalir-lir"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:15.895882979Z",
+  "model": "glm-5.3"
+}

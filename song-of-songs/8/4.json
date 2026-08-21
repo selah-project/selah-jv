@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Tak sumpahaké kowé, ⟨את⟩ para putri Yerushalayim: aya ngungelaké lan aya nyingkaraké ⟨את⟩ katresnan, nganti ⟨dhèwèké⟩ karsa.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "tak sumpahaké"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "para putri Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "para putri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ngungelaké"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan aya"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "nsingkaraké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katresnan"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "katresnan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "dhèwèké karsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:41:21.869918093Z",
+  "model": "glm-5.3"
+}

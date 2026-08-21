@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan ana wektu Aku ngandika ngenani ⟨the⟩ bangsa lan ngenani ⟨the⟩ karaton, kanggo yasa lan kanggo nandur iku.",
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "Lan ana wektu"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "Aku ngandika"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenani"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ngenani"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "kanggo yasa"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "lan kanggo nandur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:55:11.715907776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Anak-anake Gad miturut marga-margane: saka Tsefon, marga wong Tsefoni; saka Khagi, marga wong Khagi; saka Shuni, marga wong Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak-anake"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut marga-margane"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "saka Tsefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "wong Tsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "saka Khagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "wong Khagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "saka Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "wong Shuni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:44.406845071Z",
+  "model": "glm-5.3"
+}

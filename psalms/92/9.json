@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Lan Paduka, ing kaluhuran, salawasé, wahai Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lan Paduka"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ing kaluhuran"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:21.715291816Z",
+  "model": "glm-5.3"
+}

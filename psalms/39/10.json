@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Aku meneng, ora nakakake cangkemku, awit ⟨kowe⟩ iku sing nindakaké.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "aku meneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "nakakake"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨kowe⟩ iku"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nindakaké"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:51.930290753Z",
+  "model": "glm-5.3"
+}

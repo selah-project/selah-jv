@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Nalika mungsuhku bali mundur, dheweke ropo lan sirna saka ngarsanira.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Nalika bali mundur"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mundur"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "dheweke ropo"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "lan sirna"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "saka ngarsanira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:00.266604773Z",
+  "model": "glm-5.3"
+}

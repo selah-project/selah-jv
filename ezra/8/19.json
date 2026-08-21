@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan ⟨את⟩ Hashabya, lan ⟨את⟩ sarone iku Yesayaya, saka anake-anake Merari, sedulur-sedulure lan anak-anake dheweke, rongpuluh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Hashabya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Hashabya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yesayaya"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Yesayaya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "saka anake-anake"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulur-sedulure"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "lan anak-anake dheweke"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rongpuluh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:08:42.171909562Z",
+  "model": "glm-5.3"
+}

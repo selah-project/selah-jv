@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lanj andharembung, ngandika: Apa ta ora kudu awak-awak ngati-ati ngucap ⟨את⟩ sing Yahweh andadekaken ing tutuk-ku?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lanj andharembung"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Apa ta ora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "andadekaken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ing tutuk-ku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "awak-awak ngati-ati"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "awak-awak ngati-ati"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:00.518515625Z",
+  "model": "glm-5.3"
+}

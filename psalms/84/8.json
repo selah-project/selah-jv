@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 84,
+  "translation": "Padha lumaku saka kakuwatan marang kakuwatan, katon ing ngarsane Elohim ing Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "padha lumaku"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "saka kakuwatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kakuwatan"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "katon\/muncul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang\/ing ngarsane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ing Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:32.218155211Z",
+  "model": "glm-5.3"
+}

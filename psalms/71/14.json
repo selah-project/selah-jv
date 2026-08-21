@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Déné aku tansah ngenteni kanthi pangarep-arep, lan aku bakal nambahi sanggah ing saben puji-pujianmu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "déné aku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ngenteni kanthi pangarep-arep"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "lan aku bakal nambahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "puji-pujianmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:19.776503247Z",
+  "model": "glm-5.3"
+}

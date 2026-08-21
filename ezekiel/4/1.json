@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan sira, anak manungsa, ajukna ⟨את⟩ bata, sarta konangna ing sangarepe, banjur ukirna ing dhuwure sawijining kutha, ⟨את⟩ Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lan sira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ajukna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo slira"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "sarta konangna"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "bata (konangna)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing sangarepe"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "banjur ukirna"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:08:52.441822777Z",
+  "model": "glm-5.3"
+}

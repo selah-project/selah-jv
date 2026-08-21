@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Ditulak lan dilirwakake dening wong-wong, wong sakit lan weruh lara; lan kaya sing ndhelikake praupan saka ⟨dheweke⟩, ditulak lan ora dina-dina ⟨kita⟩ ngetung ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "ditulak"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "lan dilirwakake"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "dening wong-wong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "sakit"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "lan weruh"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "lara"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "lan kaya sing ndhelikake"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "praupan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka dheweke"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "ditulak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "ngetung dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:07.721528870Z",
+  "model": "glm-5.3"
+}

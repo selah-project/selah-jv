@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 2:1",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lah utusaning Yahweh munggah saka Gilgal dhateng Bokhim, lan ngandika: Kula ngunggalaken panjenengan ⟨את⟩ saka Mesir lan kula tetaken panjenengan ⟨את⟩ dhateng bumi ingkang kula supataken dhateng para leluhur panjenengan; lan kula ngendika: Kula boten badhe ngrusak prajanjen kula kaliyan panjenengan ⟨את⟩ salaminipun.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lah munggah"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "utusaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "הבכים",
+      "gloss": "Bokhim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "kula ngunggalaken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "panjenengan ⟨את⟩",
+      "marks": "panjenengan (obyek: ditangekaken saka Mesir)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mesir"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "lan kula tetaken"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "panjenengan ⟨את⟩",
+      "marks": "panjenengan (obyek: ditetaaken dhateng bumi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "kula supataken"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "dhateng para leluhur panjenengan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan kula ngendika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "boten"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ngrusak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjen kula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ panjenengan",
+      "marks": "panjenengan (obyek prajanjen)"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salaminipun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:44.342318913Z",
+  "model": "glm-5.3"
+}

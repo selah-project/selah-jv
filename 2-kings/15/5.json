@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lah Yahweh nglaraake ⟨את⟩ sang raja, dadi dheweke katularnan kulit nganti tekan dina patihe, lan dheweke manggon ing omah kalonggaran; lan Yotam putrane sang raja nguwasani omah krajan, milih ⟨את⟩ wong bangsa ing bumi.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "lan nglaraake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dadi dadi"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "katularnan kulit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "patihe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "kalonggaran"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "lan Yotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "nguwasani"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah krajan"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "milih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong bangsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:05.916907531Z",
+  "model": "glm-5.3"
+}

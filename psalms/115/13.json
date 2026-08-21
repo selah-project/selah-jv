@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Bakal nenedhakake berkat marang wong-wong sing wedi marang Yahweh, para sing cilik karo para sing gedhe.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "nenedhakake berkat"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "sing wedi marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "para sing cilik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "para sing gedhe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:28.153774391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Lan panjenengane ngedegaken ⟨את⟩ umaté kalintuwih, sarta manguhake kalawan mungsuh-mungsuhé.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "lan ngedegaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umaté"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umaté"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kalintuwih"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "sarta manguhake"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "kalawan mungsuh-mungsuhé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:53.446387250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "lan wadyabalané lan kang padha kèkèhan pitu èwu sangang atus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "lan wadyabalané"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "lan kang padha kèkèhan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "sangang"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "èwu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "patang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:45.868158342Z",
+  "model": "glm-5.3"
+}

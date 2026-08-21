@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "sing ndadekake donya dadi padhang pasir lan ngrusak kutha-kuthane, tawanane ora dibukak ⟨את⟩ pakunjarane?",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "sing ndadekake"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "donya"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "dadi padhang pasir"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "lan kutha-kuthane"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "ngrusak"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "tawanane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dibukak"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "pakunjarane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:55.551798589Z",
+  "model": "glm-5.3"
+}

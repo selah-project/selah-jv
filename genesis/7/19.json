@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan banyu-banyu iku dadi kuwat banget-banget ing sadhuwuring bumi, kabeh gunung-gunung sing dhuwur ing sangisore kabeh langit katutup.",
+  "tokens": [
+    {
+      "surface": "וheמים",
+      "gloss": "Lan banyu-banyu iku"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "dadi kuwat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "lan ... katutup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "sing dhuwur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:43.068503742Z",
+  "model": "glm-5.3"
+}

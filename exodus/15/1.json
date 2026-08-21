@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Banjur Moshe lan anak-anake Yisrael nyanyi ⟨את⟩ tembang iki marang Yahweh, sarta padha ngucap mangkene: Aku arep nyanyi marang Yahweh, awit dhuwur banget kaunggulake; jaran lan pangunggasake dicekalake ing sagara.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "nyanyi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembang iki"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta padha ngucap"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku arep nyanyi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "dhuwur banget"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "kaunggulake"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "jaran"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "lan pangunggasake"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "dicekalake"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ing sagara"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:47.498226002Z",
+  "model": "glm-5.3"
+}

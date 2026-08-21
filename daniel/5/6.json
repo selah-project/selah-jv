@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Banjur pasemoné sang ratu owah, lan pikiran-pikirané nggawe wedi; sendhi-sendhi panggulé dadi kendho, lan dhengkulé siji ketiban siji liyané.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "pasemoné"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "owah"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "lan pikiran-pikirané"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "nggawe wedi"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "lan sendhi-sendhi"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "panggulé"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "dadi kendho"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "lan dhengkulé"
+    },
+    {
+      "surface": "דא",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "karo siji liyané"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "ketiban"
+    }
+  ],
+  "timestamp": "2026-08-21T02:58:26.893983979Z",
+  "model": "glm-5.3"
+}

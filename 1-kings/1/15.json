@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Bat-Sheba teka marang sang raja ing bilike, lan sang raja wis sepuh sanget; lan Avishag wong Shunem iku nglayani ⟨את⟩ sang raja.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "ing bilike"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "lan sang raja"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wis sepuh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "lan Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "wong Shunem iku"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nglayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:57.076495244Z",
+  "model": "glm-5.3"
+}

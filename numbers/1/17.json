@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Moshe lan Aharon mundhut ⟨את⟩ wong-wong iki, sing wis katetepake miturut jeneng.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lan mundhut"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "lan Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong iki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "wis katetepake"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "miturut jeneng"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:29.966132775Z",
+  "model": "glm-5.3"
+}

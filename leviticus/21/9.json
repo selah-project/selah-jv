@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan putrané ⟨saka⟩ wong imam, menawa dhèwèké wiwit nglakoni zina, ⟨את⟩ bapakné dhèwèké ngecélé; nganggo geni bakal diobong.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Lan putrané (wadon)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "wiwit nglakoni"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "zina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakné"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "ngecélé"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nganggo geni"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "bakal diobong"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:43.488827262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Adonai wènèhaké marang kowé roti papatan lan toya penget, lan gurumu ora bakal ndhelik maneh, lan mripatmu ndeleng ⟨את⟩ gurumu.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "lan wènèhaké"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "צר",
+      "gloss": "papatan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "lan toya"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "penget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "ndhelik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "gurumu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mripatmu"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gurumu"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "gurumu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:37.287183592Z",
+  "model": "glm-5.3"
+}

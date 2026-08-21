@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Banjur bangsa iku padha ngaso ing dinane kang kaping pitu.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "banjur padha ngaso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "kang kaping pitu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:37.770035061Z",
+  "model": "glm-5.3"
+}

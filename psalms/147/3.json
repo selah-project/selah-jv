@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Sing nambani wong-wong sing atine pedhot, lan nambung laran-larane.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "sing nambani"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "wong sing pedhot"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "lan nambung"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "laran-larane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:55.703573924Z",
+  "model": "glm-5.3"
+}

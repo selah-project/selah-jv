@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Avraham dadi sepuh, wis lumebu ing sauntet dina, lan Yahweh wus mberkahi ⟨את⟩ Avraham ing sabarang barang.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "sepuh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lumebu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ing sauntet dina"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "lan Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "mberkahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sabarang barang"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:36.355731444Z",
+  "model": "glm-5.3"
+}

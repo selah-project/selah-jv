@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Luwih panas sirahing Yahweh marang umat-E, lan dheweke ngenyeki ⟨את⟩ darbeane dhewe.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "dadi murka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "idining (luwih panas sirah)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "marang umat-E"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "lan ngenyeki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "darbeane dhewe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "darbeane dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:08.681549131Z",
+  "model": "glm-5.3"
+}

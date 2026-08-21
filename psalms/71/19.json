@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Lan kaluhuran-Mu, Elohim, nganti ing dhuwur; sing Kowé tindakake ⟨is⟩ kaluwihan-kaluwihan; Elohim, sapa ⟨is⟩ kaya Kowé?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Lan kaluhuran-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Kowé tindakake"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "kaluwihan-kaluwihan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kaya Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:03.829302676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Aku memper pelikan ing ara-ara, aku dadi kaya burung kukuk ing panggonan reruntuhan.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "aku memper"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "pelikan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku dadi"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "kaya burung kukuk"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ing panggonan reruntuhan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:37.285883446Z",
+  "model": "glm-5.3"
+}

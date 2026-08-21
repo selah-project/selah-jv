@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Apa aku — marang manungsa kokoganku? apa maneh kenapa rohkku ora kena cekak?",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "apa aku"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "marang manungsa"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kokoganku"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "apa maneh"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "kena cekak"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohkku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:28:58.890099635Z",
+  "model": "glm-5.3"
+}

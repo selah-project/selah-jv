@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Kanggo Dawid, piwulang. Begja wong kang durakané kaunggahake, dosané katutup.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kanggo Dawid"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "piwulang"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Begja"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "kaunggahake"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "duraka"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "katutup"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:35.675449657Z",
+  "model": "glm-5.3"
+}

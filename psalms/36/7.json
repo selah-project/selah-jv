@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Kabeneran-Mu kaya gunung-gunungé El, kukum-Mu pratiwi agung; manungsa lan sato-kewan Paduka slamtakake, dho Yahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "kabeneran-Mu"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "kaya gunung-gunungé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "kukum-Mu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "pratiwi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "agung"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "lan sato-kewan"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "slamtakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:18.131531079Z",
+  "model": "glm-5.3"
+}

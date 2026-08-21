@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Sarta kalingan ⟨את⟩ kita padha manggona; lan negara iku dadi ana ing ngarsanira — padha manggona, padha dol-tinulana, lan padha jumênêng ana ing kono.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ kalingan kita",
+      "marks": "kita"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "padha manggona"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "lan negara iku"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dadi ana"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ing ngarsanira"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "padha manggona"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "sarta padha dol-tinulana"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "sarta padha jumênêngnga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ana ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:45.132039151Z",
+  "model": "glm-5.3"
+}

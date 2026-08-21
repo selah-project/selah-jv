@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Mana, manganana rotimu kanthi bungah, lan ngombana jaramu kanthi ati sing becik, awit wis kawisuwisu Elohim remen marang ⟨את⟩ pakaryanmu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "manganana"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kanthi bungah"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "rotimu"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "lan ngombana"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "kanthi ati"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sing becik"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "jaramu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "wis kawisuwisu"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "remen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaryanmu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "pakaryanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:27.390562408Z",
+  "model": "glm-5.3"
+}

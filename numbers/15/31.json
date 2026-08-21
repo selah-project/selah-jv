@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 15:31",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Awit sabda Yahweh dipun-awur-awurake lan parentahe dipun-pecahake — saka umate pemenggalan bakal kapenggal, kaluputane ana ing panjenengane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "dipun-awur-awurake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "parentahe"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "parentahe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dipun-pecahake"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "pemenggalan"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "bakal kapenggal"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "saka umate"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kaluputane"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:48.678474582Z",
+  "model": "glm-5.3"
+}

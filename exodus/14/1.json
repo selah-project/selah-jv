@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan Yahweh ngandika marang Moshe, sangkata:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkata"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:56.354520103Z",
+  "model": "glm-5.3"
+}

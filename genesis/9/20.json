@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Noach miwiti dadi wong tani ⟨sing⟩ ngolah bumi, lan nanem kebun anggur.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "lan miwiti"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "lan nanem"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebun anggur"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:01.222348906Z",
+  "model": "glm-5.3"
+}

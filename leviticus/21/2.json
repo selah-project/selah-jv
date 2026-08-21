@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "kajaba mung kanggo sanak sedulare sing cedhak karo awake: kanggo ibune, lan kanggo bapakne, lan kanggo putrane, lan kanggo putrine, lan kanggo sedhulure.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kajaba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mung"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "kanggo sanak sedulare"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sing cedhak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "karo awake"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kanggo ibune"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "lan kanggo bapakne"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "lan kanggo putrane"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "lan kanggo putrine"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "lan kanggo sedhulure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:29.896196007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sebab sadurunge bocah iku weruh nyeluk 'bapakku' lan 'embokku', bakal kaangkat ⟨את⟩ bandane Damesyeq lan ⟨את⟩ rampasan Syomron ing ngarepe ratu Asyur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bocah iku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nyeluk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapakku"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "lan embokku"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "bakal kaangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandane Damesyeq"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "banda\/kakuwatan"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesyeq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "rampasan Syomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Syomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:34.914536857Z",
+  "model": "glm-5.3"
+}

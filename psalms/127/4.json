@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 127,
+  "translation": "Kaya panah-panah ing asta wong gagah, kaya mangkono anak-anaking wong enom.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "kaya panah-panah"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing asta"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wong gagah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaking"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "wong enom"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:23.131198913Z",
+  "model": "glm-5.3"
+}

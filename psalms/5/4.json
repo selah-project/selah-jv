@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Yahweh, esuk Kowe ngrungokake swaraku; esuk aku aturake marang Sira, lan aku ngenteni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swaraku"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "aku aturake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Sira"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "lan aku ngenteni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:26.782334106Z",
+  "model": "glm-5.3"
+}

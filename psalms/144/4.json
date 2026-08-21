@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Manusia kaya ⟨the⟩ suwung (habel); dina-dinané kaya bayangan sing liwat.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Manusia"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "suwung (habel)"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "kaya (dipundhingake)"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dina-dinané"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kaya bayangan"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "sing liwat"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:16.724885100Z",
+  "model": "glm-5.3"
+}

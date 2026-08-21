@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Bingahé manungsa sing nemu kawicaksanan, lan manungsa sing oleh pangerten.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bingahé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nemu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kawicaksanan"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "lan manungsa"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "oleh"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "pangerten"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:05.463956815Z",
+  "model": "glm-5.3"
+}

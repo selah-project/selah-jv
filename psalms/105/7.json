@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Panjenengane Yahweh, Elohim kita; ing saben ⟨⟩ bumi ana ukum-ukume.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Panjenengane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ukum-ukume"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:25.166215128Z",
+  "model": "glm-5.3"
+}

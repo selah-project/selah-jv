@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Laku atiné Paroh dadi kukuh, lan ora ngutus ⟨את⟩ wong-wong Israél, kaya sing sampun dipituturake Yahweh lumantar tangané Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dadi kukuh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngutus lunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong Israél"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dipituturake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lumantar tangané"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:36.901667871Z",
+  "model": "glm-5.3"
+}

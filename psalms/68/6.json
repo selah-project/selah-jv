@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Bapak para bocah yatim lan hakim para randha ⟨iku⟩ Elohim ing padunungane kang suci.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Bapak"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "para bocah yatim"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "lan hakim"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "para randha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "ing padunungan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kang suci"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:32.542763712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Karusakanmu iku saka dewemu dhewe, ya Israel; nanging pitulungku ana ing Aku.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "karusakanmu-dewe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing Aku"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "pitulunganmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:24.628377060Z",
+  "model": "glm-5.3"
+}

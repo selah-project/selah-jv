@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Dhèwèké ngandika marang Eliyahu: Apa troubé aku karo kowé, hei wongé Elohim? Kowé teka ing aku kanggo ngèlingi ⟨את⟩ dosaku lan matèni ⟨את⟩ putraku?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dhèwèké ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "karo kowé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "kowe teka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "kanggo ngèlingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dosaku"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "lan matèni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putraku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putraku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:05:27.529378406Z",
+  "model": "glm-5.3"
+}

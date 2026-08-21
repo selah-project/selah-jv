@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan ngukiraké ⟨את⟩ Yehoyakhin menyang Babel, lan ⟨את⟩ ibu sang raja, lan ⟨את⟩ para garwa sang raja, lan ⟨את⟩ para sesepuh purane, lan ⟨את⟩ para jembaring nagara — kalilan saka Yerushalayim menyang Babel.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ngukiraké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakhin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "menyang Babel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "ibu sang raja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para garwa sang raja"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "para garwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para sesepuh purane"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "para sesepuh purane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para jembaring nagara"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "para jembaring"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "kalilan"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "dipunukir"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "saka Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "menyang Babel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:11.143784668Z",
+  "model": "glm-5.3"
+}

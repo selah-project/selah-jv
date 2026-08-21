@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur Yahweh miredhun supaya ndeleng ⟨את⟩ kutha iku lan ⟨את⟩ menara iku, sing didhekur dening para putra Adam.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "miredhun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "supaya ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha iku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "menara iku"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "menara iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "didhekur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:43.313397275Z",
+  "model": "glm-5.3"
+}

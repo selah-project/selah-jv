@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 98,
+  "translation": "Kang ngelingi kasetyane lan kaluhuran-imbane marang wong Israel kabeh; pucuk-pucuk bumi wis ndeleng ⟨את⟩ pitulungan saka Elohim kula.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ngelingi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyane"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "lan kaluhuran-imbane"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "marang wong (omah)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "pucuk-pucuk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitulungan"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "pitulungan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kula"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:19.797708156Z",
+  "model": "glm-5.3"
+}

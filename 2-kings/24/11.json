@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Nevukhadnetsar raja Babel teka marang kutha iku, nalika abdi-abdine ngubengi nganti ngrumpaki.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha iku"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "abdi-abdine"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ngubengi ngrumpaki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nganti (kutha)"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:26.111314547Z",
+  "model": "glm-5.3"
+}

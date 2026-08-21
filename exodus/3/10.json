@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan saiki, teka, lan takkirim dhèwèké menyang Paroh, supaya sira ngetokake ⟨את⟩ umat-Ku, anak-anak Yisrael, saka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "teka"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "lan takkirim dhèwèké"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "supaya ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:05.920835116Z",
+  "model": "glm-5.3"
+}

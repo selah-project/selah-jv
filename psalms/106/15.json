@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Banjur Panjenengane maringi sing padha didhingini, nanging ngutus kalanganing ing sajroning jiwa-bejane.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "banjur maringi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "sing padha didhingini"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nanging ngutus"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kalanganing"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "ing jiwa-bejane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:35.055712732Z",
+  "model": "glm-5.3"
+}

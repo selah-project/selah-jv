@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Babi alas saka ing wana ngrisaki ⟨את⟩ iku, lan sato saka ing sawah ngarit ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ngrisaki ⟨את⟩ iku"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "babi alas"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "saka ing wana"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "lan sato"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "saka ing sawah"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "ngarit ⟨את⟩ iku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:09.083666637Z",
+  "model": "glm-5.3"
+}

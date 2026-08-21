@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Nalika sedulurmu dadi miskin lan adol saka padhukuhane, lan teka sang pambantun sing cedhak marang dheweke, banjur nambuli ⟨את⟩ sing didol sedulure.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "dadi miskin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sedulurmu"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "lan adol"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "saka padhukuhane"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "sang pambantune"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sing cedhak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "lan nambuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing didol"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "sing didol"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:24.754054774Z",
+  "model": "glm-5.3"
+}

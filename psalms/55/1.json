@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Kanggo pangatur ⟨ing⟩ iringan tetabuhan senar, piwulang, kanggo Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangatur"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "⟨ing⟩ iringan tetabuhan senar"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "piwulang"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:22.534173440Z",
+  "model": "glm-5.3"
+}

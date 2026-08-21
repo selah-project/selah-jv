@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 127,
+  "translation": "Punjaning bagya wong lanang sing ngisi ⟨את⟩ petiné panah saka dhèwèké; ⟨dhèwèké⟩ ora bakal isin, awit ⟨dhèwèké⟩ ngandika ⟨את⟩ karo para mungsuh ing gerbang.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "punjaning bagya"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ngisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petiné panah"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "petiné panah"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "saka dhèwèké"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bakal isin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karo para mungsuh"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "para mungsuh"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ing gerbang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:31.853437003Z",
+  "model": "glm-5.3"
+}

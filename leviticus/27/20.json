@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan yen ora nglunasi ⟨את⟩ padhang, lan yen ⟨dheweke⟩ wus kajual ⟨את⟩ padhange marang wong liya, ora bisa dilunasi maneh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lan yen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "nglunasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padhang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padhang"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "wus kajual"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padhange"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padhange"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "marang wong"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "bisa dilunasi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:21.971752877Z",
+  "model": "glm-5.3"
+}

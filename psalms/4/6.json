@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Padha nyembelih kurban kayektèn, lan padha percaya marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "padha nyembelih"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kayektèn"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "lan padha percaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:04.038068768Z",
+  "model": "glm-5.3"
+}

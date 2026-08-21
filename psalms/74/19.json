@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Aja katur swarané dara-mu marang sato galak; nyawané wong miskin-mu aja dilali salawasé.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "katur"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "marang sato galak"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "dara-mu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "kawan-kawan sato"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "wong miskin-mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dilali"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:29.275177977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan bapakne ora tau ngrègèni ⟨⟨dhewe⟩⟩ awake saka jaman dina-dinané, ngucap: Yagéné mangkono kang koklakoni? Lan ia uga rupané endah banget; lan ibune nglairake ⟨את⟩ ia sawisé Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "ngrègèni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "saka jaman dina-dinané"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "yagéné"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "koklakoni"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "endah"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ia"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:51.466396812Z",
+  "model": "glm-5.3"
+}

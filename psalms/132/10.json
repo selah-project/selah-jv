@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Marga ing Davit abdi-Mu, aja owah-owahi praupane Mashíaj-Mu.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "marga ing"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davit"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "owah-owahi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "praupane"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíaj-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:05.641858408Z",
+  "model": "glm-5.3"
+}

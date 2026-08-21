@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan marang Eber lahir anak loro: jeneng sing siji Peleg, awit ing jamané bumi kaperang, lan jeneng duluré Yakqtan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "marang Eber"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lahir"
+    },
+    {
+      "surface": "שני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sing siji"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "ing jamané"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "kaperang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lan jeneng"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "duluré"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yakqtan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:28.123490964Z",
+  "model": "glm-5.3"
+}

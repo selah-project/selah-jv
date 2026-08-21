@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Megahana ing asma sucine; bungaha atine para sing nggoleki Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Megahana"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing asma"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucine"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bungaha"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "para sing nggoleki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:15.654446240Z",
+  "model": "glm-5.3"
+}

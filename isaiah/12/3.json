@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan kowe bakal nglelep banyu karo bungah saka tuking pangyelametan.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "lan kowe bakal nglelep"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "karo bungah"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "saka tuk"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "pangyelametan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:18.156098648Z",
+  "model": "glm-5.3"
+}

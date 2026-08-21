@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Lan ⟨i⟩ munjuk: saiki uga kaya pangucapmu, mangkono ⟨iku⟩; sok sing ⟨את⟩ iku tinemu, dadi abdining kula, lan kowe padha dadi ora duwe salah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan munjuk"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "kaya pangucapmu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tinemu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "abdining kula"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lan kowe padha"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "ora duwe salah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:51.788112688Z",
+  "model": "glm-5.3"
+}

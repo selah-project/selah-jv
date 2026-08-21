@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sebab ⟨את⟩ rangkéan pamÉngkuhipun lan ⟨את⟩ tumpranggu ing pundhakipun, cooké para sing nindhes — sampun Kula remuk, kaya dhatenging Midyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rangkéan pamengkuhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "rangkéan pamengkuhan"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "bebanipun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tumpranggu"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tumpranggu"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ing pundhakipun"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "cooké"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "para sing nindhes"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dhumateng piyambakipun"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "sampun Kula remuk"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaya dhatenging"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:54.143560556Z",
+  "model": "glm-5.3"
+}

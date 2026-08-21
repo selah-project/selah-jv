@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 129,
+  "translation": "Yahweh ⟨iku⟩ adil, ⟨Dhèwèké⟩ ngethok tali-taline wong-wong jahat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ngethok"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong jahat"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:46.403712126Z",
+  "model": "glm-5.3"
+}

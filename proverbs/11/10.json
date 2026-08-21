@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Ing kabecikané wong tulus kutha rame bungah, lan ing karusakané wong jahat ana renge bungah.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "ing kabecikané"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong tulus"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "rame bungah"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "lan ing karusakané"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "renge bungah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:23.341849111Z",
+  "model": "glm-5.3"
+}

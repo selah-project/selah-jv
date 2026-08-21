@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Dhèwèké nglungsurake ⟨את⟩ mesbèh-mesbèh wong asing lan ⟨את⟩ panggonan dhuwur, nugelake ⟨את⟩ tugu-tugu, lan ndhaut ⟨את⟩ Ashérim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "nglungsurake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesbèh-mesbèh wong asing"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mesbèh-mesbèh"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "wong asing"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "lan panggonan dhuwur"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "nugelake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tugu-tugu"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "ndhaut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashérim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ashérim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:37:49.613693713Z",
+  "model": "glm-5.3"
+}

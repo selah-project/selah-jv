@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 22:6",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Banjur sang raja Israél nglumpukake ⟨את⟩ para nabi, kira-kira wong papat atus, lan ngandika marang wong-wong mau: Apa kula tindak dhateng Ramot-Gilad perang, apa kula kendho? Lan padha ngendika: Tindakaen, lan Adonai bakal maringi dhateng asta sang raja.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "banjur nglumpukake"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "kira-kira papat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang padha"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "apa kula tindak"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "kula kendho"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngendika"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tindakaen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan maringi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dhateng asta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:42.172162168Z",
+  "model": "glm-5.3"
+}

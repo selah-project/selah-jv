@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 47:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Lan sira ngucap, 'Salawas-lawase aku dadi ratu'; nganti sira ora nglebokake ⟨את⟩ perkara iki marang atimu, ora sira éling marang accounting wusanané.",
+  "tokens": [
+    {
+      "surface": "ותאמרי",
+      "gloss": "Lan sira ngucap"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "aku dadi"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "sira nglebokake"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨את⟩ perkara iki"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "sira éling"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "wusanané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:21.498730957Z",
+  "model": "glm-5.3"
+}

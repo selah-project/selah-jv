@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Iku ngirim thukule nganti segara, lan nganti bengawe anakané.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Iku ngirim"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "thukule"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "bengawa"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "anakané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:52.309530715Z",
+  "model": "glm-5.3"
+}

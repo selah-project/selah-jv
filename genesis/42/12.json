@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Nanging panjenengané ngandika marang kyai: ora, nanging ⟨iku⟩ kanggo ndeleng kalumrahaning bumi kowe teka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang kyai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kalumrahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kowe teka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ndeleng"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:17.143977789Z",
+  "model": "glm-5.3"
+}

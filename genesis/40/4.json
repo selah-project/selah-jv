@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Pangèrèning juru sajèh napakake ⟨את⟩ Yosef ⟨את⟩ ing salahé wong loro, lan Yosef ngladeni ⟨את⟩ wong loro; lan dhèwèké suwé sawatara dina ing pangayoman.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "banjur napakake"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangèrèn"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "juru sajèh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ing salahé wong loro"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "lan ngladeni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wong loro"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ing pangayoman"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:59.850336848Z",
+  "model": "glm-5.3"
+}

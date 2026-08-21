@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Langkan-langkan gerbang obah amarga swara sing ngundhang, lan bale ieu kebau asap.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "obah"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "langkan-langkan"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "gerbang"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "amarga swara"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "sing ngundhang"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "lan bale ieu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "kebau"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "asap"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:43.901409265Z",
+  "model": "glm-5.3"
+}

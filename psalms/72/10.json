@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Para ratu Tarshish lan pulo-pulo bakal ngaturake ⟨את⟩ pitahez; para ratu Sheba lan Seba bakal ngaturake ⟨את⟩ bebungah.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "lan pulo-pulo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "pitahez"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "bakal ngaturake"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "lan Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "bebungah"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bakal ngaturake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:17.296970287Z",
+  "model": "glm-5.3"
+}

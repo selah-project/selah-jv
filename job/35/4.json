@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Aku bakal mangsuli kowé nganggo tembung, lan ⟨את⟩ kanca-kancamu uga kowé.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "bakal mangsuli kowé"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "nganggo tembung"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kanca-kancamu"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "kanca-kancamu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uga kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:34:00.490393650Z",
+  "model": "glm-5.3"
+}

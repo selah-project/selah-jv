@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "⟨את〉 sandhangan-sandhangan kagunané kanggo ngabdi ing papan suci, ⟨את⟩ sandhangan-sandhangan suci tumrap Aharon imam, lan ⟨את⟩ sandhangan-sandhangané anak-anaké kanggo anggawe imam",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangan-sandhangan kagunané"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhangan-sandhangan"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "kagunané"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "kanggo ngabdi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ing papan suci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangan-sandhangan suci"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhangan-sandhangan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tumrap Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sandhangan-sandhangané anak-anaké"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhangan-sandhangan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kanggo anggawe imam"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:16.437710066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Moshe ngandika marang Aharon: apa sing ditindakake wong iki marang kowe, nganti kowe ngetokake dosa gedhe marang dheweke?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "kowe ngetokake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "gedhe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:27.022359661Z",
+  "model": "glm-5.3"
+}

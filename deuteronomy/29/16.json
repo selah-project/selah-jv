@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan kowe padha ndeleng ⟨את⟩ barang-barange sing rinuga lan ⟨את⟩ brahala-brahalane — kayu lan watu, salaka lan emas — sing ana ing ngarsane dheweke.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "lan kowé padha ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang-barange sing rinuga"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "barang-barange sing rinuga (sesaji bajang)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "brahala-brahalane"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "brahala-brahalane"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "lan watu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "lan emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ana bebarengan karo dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:05.212898045Z",
+  "model": "glm-5.3"
+}

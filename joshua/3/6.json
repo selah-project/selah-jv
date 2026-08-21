@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Yehosua munjuk marang para imam, ngendika: Padha njukupa ⟨את⟩ petining prajanjian, lan padha ngliwati sadurunge ⟨sang⟩ umat. Banjur para imam njukup ⟨את⟩ petining prajanjian lan mlaku sadurunge ⟨sang⟩ umat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk sabda"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "padha njukupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petining prajanjian"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ing prajanjian"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "lan padha ngliwati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨sang⟩ umat"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "banjur padha njukup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petining prajanjian"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ing prajanjian"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lan padha mlaku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨sang⟩ umat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:42:10.902047100Z",
+  "model": "glm-5.3"
+}

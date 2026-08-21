@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Pangembaning dudu Bavel, sing diamati Yesyahu bin Amots.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pangembaning dudu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "diamati"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:18.243346208Z",
+  "model": "glm-5.3"
+}

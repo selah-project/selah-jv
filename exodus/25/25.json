@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan kowe bakal gawe pager satengahira ing saubengé, lan kowe bakal gawe makutha emas ing pageré, ing saubengé.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowe bakal gawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo iku"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "pager"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "satengahira"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing saubengé"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowe bakal gawe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "makutha pinggir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "kanggo pageré"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing saubengé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:46.186432601Z",
+  "model": "glm-5.3"
+}

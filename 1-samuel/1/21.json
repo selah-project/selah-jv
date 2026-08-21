@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan wongira Elkanah munggah bareng saindhenging umahé, kanggo nyembélahaké marang Yahweh ⟨את⟩ sembelihané dina-dina lan ⟨את⟩ nadharé.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wongira"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bareng saindhenging"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "umahé"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kanggo nyembélahaké"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sembelihané dina-dina"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sembelihan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nadharé"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "nadharé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:33.462040174Z",
+  "model": "glm-5.3"
+}

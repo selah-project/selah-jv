@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan anak-anake Kalev bin Yefune: Iru, Ela, lan Naam; lan anak-anake Ela, yaiku Kenaz.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "lan Naam"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "yaiku Kenaz"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:57.717238330Z",
+  "model": "glm-5.3"
+}

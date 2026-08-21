@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan sira padha nglirwakake sakabehing pituturku, lan pangecamku ora sira karepake.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "padha nglirwakake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "pituturku"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "lan pangecamku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "sira karepake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:33.662209261Z",
+  "model": "glm-5.3"
+}

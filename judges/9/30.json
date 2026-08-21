@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Banjur Zebul, pangaguming kutha iku, krungu ⟨את⟩ pangucaping Gaal bin Ebed, lan irunge ⟨munzir⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "banjur krungu"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangaguming"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangucaping Gaal"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangucap-pangucaping"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "lan ⟨munzir⟩"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "irunge (nesune)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:50:55.710308326Z",
+  "model": "glm-5.3"
+}

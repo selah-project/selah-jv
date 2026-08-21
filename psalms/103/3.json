@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Sing ngapura kabeh kaluputanmu, sing nambani kabeh laramu",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "sing ngapura"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "kaluputanmu"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "sing nambani"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "laramu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:31.596082872Z",
+  "model": "glm-5.3"
+}

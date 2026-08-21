@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan menawa wong-wonging bumi nutup ⟨את⟩ mripate saka wong iku, nalika dheweke marengake badhane marang Molekh, ora nganti mateni ⟨את⟩ dheweke:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "nutup (mripat)"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "ngumpetake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong-wonge"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mripate"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mripate"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "nalika marengake"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "badhane"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang Molekh"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ora nganti"
+    },
+    {
+      "surface": "המית",
+      "gloss": "mateni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "wong iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:49.692757548Z",
+  "model": "glm-5.3"
+}

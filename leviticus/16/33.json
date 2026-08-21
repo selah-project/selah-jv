@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan dheweke ndadekake pangapura marang ⟨את⟩ papan paling suci, lan ⟨את⟩ kemah patemon, lan ⟨את⟩ misban iku dheweke apura; lan marang para imam lan marang sakabehing wong jemaah iku dheweke apura.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "lan dheweke ndadekake pangapura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan paling suci"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "papan paling suci"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kakadenan suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kemah patemon"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patemon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "misban"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "misban iku"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dheweke apura"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jemaah"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dheweke apura"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:44.798096426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan saiki, apa ta tak-arep-ake, Adonai? Pangarep-arepku marang Kowe iku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "tak-arep-ake"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "pangarep-arepku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Kowe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:08.712697225Z",
+  "model": "glm-5.3"
+}

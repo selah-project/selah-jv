@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Apa ora ⟨⟨iku⟩⟩ wajib bajur tumrap manungsa ing bumi, lan kaya dina-ne buruh sapaija dina-ne?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wajib bajur"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "tumrap manungsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "lan kaya dina-ne"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "buruh sapaija"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dina-ne"
+    }
+  ],
+  "timestamp": "2026-08-21T02:23:31.888339820Z",
+  "model": "glm-5.3"
+}

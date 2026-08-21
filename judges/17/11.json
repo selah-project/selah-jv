@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Wong Levi iku kersa netep ⟨את⟩ wong iku; lan timur iku dadi kagungane kaya salah sijiné anak-anaké.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "kersa"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Wong Levi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "netep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong iku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "timur iku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kagungane"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "kaya salah sijiné"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "anak-anaké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:54:18.471111059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Elohim kita bakal teka, lan ora bakal meneng: geni anggenthot ing ngarsane, lan ing sakiwa-tengene prahara ngedabarake sanget.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan ora bakal"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "meneng"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "anggenthot"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "lan ing sakiwa-tengene"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "prahara ngedabarake"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:36.120838430Z",
+  "model": "glm-5.3"
+}

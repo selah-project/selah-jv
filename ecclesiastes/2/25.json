@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sebab sapa sing bisa mangan, lan sapa sing bisa bungah, ngluwihi saka aku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bisa mangan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan sapa"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "bisa bungah"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ngluwihi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:37.402928698Z",
+  "model": "glm-5.3"
+}

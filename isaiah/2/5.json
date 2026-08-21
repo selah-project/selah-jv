@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "E, trahipun Yaakov, kema cinipta tuwin tindak kula-dalem ing padhangipun Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "trahipun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kema cinipta"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "tuwin tindak kula-dalem"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ing padhangipun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:42.297273964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan ia ngandhut sarta nglairake putra, lan ia muni, Elohim wis ngilangi ⟨את⟩ cidraningsun.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "lan ia ngandhut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lan nglairake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lan ia muni"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "wis ngilangi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cidraningsun"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "cidraningsun"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:12.631624027Z",
+  "model": "glm-5.3"
+}

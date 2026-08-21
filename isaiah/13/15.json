@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Sarèhé sing kapangkah bakal ditusuk, lan sarèhé sing kacekel bakal tiba ⟨ing⟩ pedhang.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sarèhé"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "sing kapangkah"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ditusuk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sarèhé"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "sing kacekel"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pedhang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:31.766485921Z",
+  "model": "glm-5.3"
+}

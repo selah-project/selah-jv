@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Padha ngapusi marang Yahweh lan padha ngucap: \"Ora iya Dheweke, lan patiyara ora bakal teka marang kita, lan pedhang lan kaliren ora bakal padha deleng.\")",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "padha ngapusi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngucap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iya Dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "patiyara"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "lan pedhang"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "lan kaliren"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "padha deleng"
+    }
+  ],
+  "timestamp": "2026-08-21T00:50:04.006161043Z",
+  "model": "glm-5.3"
+}

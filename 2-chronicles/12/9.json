@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 12:9",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Laje Shishak raja Mitsrajim munggah nglawan Yerushalayim, lan njupuk ⟨את⟩ papan-papan pasimpenan bale Yahweh lan ⟨את⟩ pasimpenan bale ⟨sang⟩ raja — ⟨את⟩ samu barang kabeh ditampa; laje njupuk ⟨את⟩ tameng-tameng emas sing digawe Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "laje munggah"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Shishak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasimpenan bale Yahweh"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "papan-papan pasimpenan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pasimpenan bale sang raja"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "pasimpenan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samu barang kabeh"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "samu barang kabeh"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ditampa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "laje njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tameng-tameng emas"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "tameng-tameng"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:36:38.206806958Z",
+  "model": "glm-5.3"
+}

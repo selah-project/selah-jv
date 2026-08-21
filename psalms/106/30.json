@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Banjur Pinechas ngadeg lan nindakake pangadilan, lan wabah iku kacegat.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "banjur ngadeg"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "lan nindakake pangadilan"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "lan kacegat"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "wabah iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:48.483819473Z",
+  "model": "glm-5.3"
+}

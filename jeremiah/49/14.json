@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Pawarta wis krungu aku saka ⟨את⟩ Yahweh, lan utusan ana ing bangsa-bangsa wis dikirim: padha barengana, padha teka nglawan dheweke, lan padha ngadeg kanggo perang.",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "Pawarta"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "wis krungu aku"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "lan utusan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ana ing bangsa-bangsa"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "wis dikirim"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "padha barengana"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "lan padha teka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nlawan dheweke"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "lan padha ngadeg"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kanggo perang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:05:18.048520314Z",
+  "model": "glm-5.3"
+}

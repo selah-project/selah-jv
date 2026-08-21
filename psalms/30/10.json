@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Apa gunane ing getihku, nalika aku mudhun menyang luwengan? Apa lebu bakal memuji Paduka? Apa bakal micarake katemenan Paduka?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gunane"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "ing getihku"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "nalika aku mudhun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "luwengan"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Apa ... bakal memuji Paduka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lebu"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Apa bakal micarake"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "katemenan Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:15.653434886Z",
+  "model": "glm-5.3"
+}

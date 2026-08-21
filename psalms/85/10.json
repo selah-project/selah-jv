@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Sayange, patiwaluye, kasar wewelene marang wong-wong sing wedi marang ⟨dheweke⟩, supaya kamulyan bisa ndunungi bumi kita.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sayange, patiwaluye"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "kasar"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "marang wong-wong sing wedi marang dheweke"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "wewelene"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "supaya bisa ndunungi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "bumi kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:57.456015624Z",
+  "model": "glm-5.3"
+}

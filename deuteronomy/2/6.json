@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Pangan padha tuku saka ⟨את⟩ dhèwèké nganggo salaka, lan padha mangan; banyu uga padha tuku saka ⟨את⟩ dhèwèké nganggo salaka, lan padha ngombé.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "pangan"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "padha tuku"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "saka ⟨את⟩ dhèwèké"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "nganggo salaka"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "lan padha mangan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "padha tuku"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "saka ⟨את⟩ dhèwèké"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "nganggo salaka"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "lan padha ngombé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:47.923696674Z",
+  "model": "glm-5.3"
+}

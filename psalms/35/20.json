@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Sebab ora ⟨⟨damicar⟩⟩ karukunan sing padha diomongake, lan marang wong tentreming bumi tembung-tembung cidra padha direncanakake",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karukunan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "padha diomongake"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "wong tentreming"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "cidra"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "padha dirancang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:09.281828496Z",
+  "model": "glm-5.3"
+}

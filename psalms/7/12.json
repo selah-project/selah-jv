@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Allah hakim sing bener, lan El sumelak murka saben dina.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Allah"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sing bener"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "sumelak murka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:37.552327800Z",
+  "model": "glm-5.3"
+}

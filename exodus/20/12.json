@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Mulyakake ⟨את⟩ ramamu lan ⟨את⟩ ibumu supaya dawaning umurmu ana ing bumi kang Yahweh Elohimira maringi marang kowe",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "mulyakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramamu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ramamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibumu"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "dawaning umurmu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "umur (dina-dinamu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:58.624031972Z",
+  "model": "glm-5.3"
+}

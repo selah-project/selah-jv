@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Kowe wus anata kabeh wates-watesing bumi; mangsa ketQE... mangsa panas lan mangsa adhem Kowe sing ngawangun.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "wus anata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "wates-wates"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "mangsa panas"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "lan mangsa adhem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "sing ngawangun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:29.274785692Z",
+  "model": "glm-5.3"
+}

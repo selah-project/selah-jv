@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Nanging wong luhur budi ngretehi tumindak luhur, lan ⟨ing⟩ tumindak luhur ⟨iku⟩ dheweke tangga jumeneng.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "nanging wong luhur budi"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "tumindak luhur"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ngretehi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan dheweke"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "tumindak luhur"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tangga jumeneng"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:56.352034407Z",
+  "model": "glm-5.3"
+}

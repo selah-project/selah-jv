@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan manawa muksakake bener-bener ⟨את⟩ sawise pangrungune, banjur ⟨dheweke⟩ bakal nggawa ⟨את⟩ kaluputane.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan manawa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "muksakake"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "bener-bener"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sing dimuksakake sawise iku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "pangrungune"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "banjur nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluputane"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "kaluputane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:16.683173263Z",
+  "model": "glm-5.3"
+}

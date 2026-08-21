@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Banjur Dawid mrentahake supaya ngumpulake ⟨את⟩ wong-wong misten sing ing bumi Israel, lan dheweke ngadekake pangethak watu kanggo ngethahe watu kang wis dirataken, arep yasa dalem Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur mrentahake"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "supaya ngumpulake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong misten"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "wong-wong misten"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lan ngadekake"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "pangethak watu"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "kanggo ngethahe"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "watu"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "kang wis dirataken"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "arep yasa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dalem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:26:33.635121888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan putrane Yehonatan yaiku Meriv-baal; lan Meriv-baal nurunake ⟨את⟩ Mikha.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "lan putrane"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "lan Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurunake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikha"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    }
+  ],
+  "timestamp": "2026-08-21T03:20:21.045673606Z",
+  "model": "glm-5.3"
+}

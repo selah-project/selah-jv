@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Langana mungsuh-mungsuhé wong-wong mau nindhes wong-wong mau, lan wong-wong mau diremukake ing sangisoring tangané.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "lan nindhes wong-wong mau"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "mungsuh-mungsuhé wong-wong mau"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "lan diremukake"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisoring"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:19.598473628Z",
+  "model": "glm-5.3"
+}

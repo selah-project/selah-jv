@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Lan Yosef seda, yuswa satus sapuluh taun, lan dhèwèké ngajagi mayat nganggo rempah-rempah wangi, lan disimpen ing sajroning peti ing Mesir.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "lan seda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yuswa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "satus"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "lan ngajagi mayat nganggo rempah wangi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dhèwèké",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "lan disimpen"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ing sajroning peti"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mesir"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:05.829918234Z",
+  "model": "glm-5.3"
+}

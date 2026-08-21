@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Nanging ia ninggalake ⟨את⟩ pitutur para sesepuh kang wus dipituturake marang ia, lan musewara karo ⟨את⟩ para enom kang wusize bareng ⟨את⟩ ia, kang padha ngadeg ing ngarsane.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Nanging ia ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitutur para sesepuh"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "pitutur"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "dipituturake marang ia"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "lan musewara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para enom"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "para enom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "wusize"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bareng ⟨את⟩ ia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "padha ngadeg"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarsane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:09.928964255Z",
+  "model": "glm-5.3"
+}

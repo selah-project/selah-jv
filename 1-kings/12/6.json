@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 12:6",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Sang Prabu Rehoboam musewara karo ⟨את⟩ para sesepuh kang padha ngadeg ⟨את⟩ ing ngarsane Shelomoh ramane nalika ia isih urip, sangkata: Kapriye panemumu, supaya aku bisa mangsuli ⟨את⟩ umat iki kanthi pitutur?",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "Lan musewara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sang Prabu"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehoboam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para sesepuh"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "padha dadi"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ing ngarsane"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramane"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "nalika dadi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkata"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kapriye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "musewara"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "supaya mangsulake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pitutur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:09.928663235Z",
+  "model": "glm-5.3"
+}

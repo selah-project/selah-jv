@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Dhawuh sing teka marang Yirmeyahu saka ⟨את⟩ Yahweh, ngendika:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "dhawuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "היה",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-21T00:51:07.718469663Z",
+  "model": "glm-5.3"
+}

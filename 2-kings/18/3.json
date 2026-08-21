@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan dheweke nindakake sing jujur ing paningal Yahweh, miturut kabeh sing ditindakake Dawid bapakne.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "sing jujur"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    }
+  ],
+  "timestamp": "2026-08-21T04:07:29.291642884Z",
+  "model": "glm-5.3"
+}

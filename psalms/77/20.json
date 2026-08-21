@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Ana ing sagara dalanmu, lan setapakmu ana ing banyu kang akèh; nanging tilas sikilmu ora kaingelan.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "ana ing sagara"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "dalanmu"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "lan setapakmu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ana ing banyu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "kang akèh"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "nanging tilas sikilmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "kaingelan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:41.531149331Z",
+  "model": "glm-5.3"
+}

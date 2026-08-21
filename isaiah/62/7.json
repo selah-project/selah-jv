@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "lan aja padha mènèhi meneng marang Panjenengané, nganti Panjenengané ndhamel, lan nganti Panjenengané ngadegaké ⟨את⟩ Yerushalayim dadi pinuji ing bumi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "sira mènèhi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "meneng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Panjenengané"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "ndhamel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ngadegaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pinuji"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:49.304041934Z",
+  "model": "glm-5.3"
+}

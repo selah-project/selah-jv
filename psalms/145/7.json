@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Élingan kasugihan kabecikan-Mu bakal mbrodhol saka cangkemé, lan kaleresan-Mu bakal dilagokaké.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "élingan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kasugihan"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "kabecikan-Mu"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "bakal mbrodhol (saka cangkemé)"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "lan kaleresan-Mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bakal dilagokaké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:29.152816751Z",
+  "model": "glm-5.3"
+}

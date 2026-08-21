@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Sigra nulungi aku, Adonai,patiyané-aku!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "sigra"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "nulungi aku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "patiyanné-aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:08.143339839Z",
+  "model": "glm-5.3"
+}

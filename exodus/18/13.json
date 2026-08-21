@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan dumadi ing sesuké, Moshe lungguh ngadili ⟨את⟩ bangsa iku, lan bangsa iku ngadeg ana ing ngarsané Moshe, wiwit ésuk nganti soré.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dumadi"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ing sesuké"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lungguh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lan ngadeg"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing ngarsané"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wiwit"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "soré"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:42.231941539Z",
+  "model": "glm-5.3"
+}

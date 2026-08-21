@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Prajanjian-Ku ora Kuninggakaké, lan sing metu saka ilat-Ku ora Kuganti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "Kuninggakaké"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Prajanjian-Ku"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "lan sing metu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "saka ilat-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "Kuganti"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:28.462820819Z",
+  "model": "glm-5.3"
+}

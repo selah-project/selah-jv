@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Telinga ana ing dheweke nanging ora ngrungokake; uga ora ana ragas napas ing tutuke.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "telinga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ing dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ragas napas"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ing tutuke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:30.192756127Z",
+  "model": "glm-5.3"
+}

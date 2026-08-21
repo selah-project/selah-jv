@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "LARANGAN: ora ana ing ngisor iki — banjur dheweke cium-marang kabeh sadulure, sarta nangis ing sandhuwure; sawise mangkono sadulure padha omong ⟨את⟩ karo dheweke.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "banjur dheweke cium"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang kabeh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulure"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "sarta nangis"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ing sandhuwure"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "padha omong"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulure"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ karo dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:35.403305035Z",
+  "model": "glm-5.3"
+}

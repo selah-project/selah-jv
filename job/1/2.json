@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lair marang dhèwèké pitung lanang lan telu wadon.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "lair"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "lan telu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "anak wadon"
+    }
+  ],
+  "timestamp": "2026-08-21T02:21:11.738330846Z",
+  "model": "glm-5.3"
+}

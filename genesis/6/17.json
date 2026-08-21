@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 6:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan aku, lah, aku bakal nggawa ⟨את⟩ banjir gedhe banyu marang bumi, kanggo ngrusak sakabehing daging sing ana ing jroné roh urip sangisoring langit; sakabehing sing ana ing bumi bakal padha mati.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lah"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "aku bakal nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banjir gedhe"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "banjir gedhe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "kanggo ngrusak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ana ing jroné"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sangisoring"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ana ing bumi"
+    },
+    {
+      "surface": "יגוע",
+      "gloss": "bakal padha mati"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:00.578021245Z",
+  "model": "glm-5.3"
+}

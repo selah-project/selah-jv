@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Kaya manuk sing nglayang saka susuhe, kaya mangkono uga wong sing nglayang saka panggonane.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "kaya manuk"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "sing nglayang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "susuhe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya mangkono uga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "sing nglayang"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "saka panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:38.217793738Z",
+  "model": "glm-5.3"
+}

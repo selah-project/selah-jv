@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Iki sanggane pranatan sing Yahweh wenehi dhawuh marang ⟨את⟩ Moshe: antarane wong lanang lan garwane, antarane bapa lan anake wadon, ing mangsa enome, ing omah bapakne.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sanggane pranatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wenehi dhawuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "lan garwane"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "lan anake wadon"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "ing mangsa enome"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bapakne"
+    }
+  ],
+  "timestamp": "2026-08-20T23:27:45.753536261Z",
+  "model": "glm-5.3"
+}

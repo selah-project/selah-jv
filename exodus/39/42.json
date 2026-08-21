@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Miturut kabeh sing Yahweh paring parentah marang ⟨את⟩ Moshe, mangkono anak-anak Yisrael nindakake ⟨את⟩ kabeh pakaryan iku.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Miturut kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paring parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh pakaryan iku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pakaryan iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:48.395064671Z",
+  "model": "glm-5.3"
+}

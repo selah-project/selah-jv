@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Padha nembangake ⟨kanggo⟩ Panjenengane tembang anyar; padha maeni becik-becik sarta swara banter.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "padha nembangake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo Panjenengane"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "padha maeni becik-becik"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "maeni senar"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "sarta swara banter"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:22.254402563Z",
+  "model": "glm-5.3"
+}

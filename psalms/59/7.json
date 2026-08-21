@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Dheweke bali maneh nalika sore, ngongeke kaya asu, lan muteri ⟨kutha⟩.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "dheweke bali maneh"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "nalika sore"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ngongeke"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "kaya asu"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "lan muteri"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:46.667816554Z",
+  "model": "glm-5.3"
+}

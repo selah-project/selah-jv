@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Yahweh Elohimé marèhaké dhèkné ing ngarsanmu, sarta njalari giris-giris agung, nganti tumpes-tumpes.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "marèhaké dhèkné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsanmu"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "njalari giris-giris"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "giris-giris"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "agung"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "tumpes-tumpes"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:27.567303883Z",
+  "model": "glm-5.3"
+}

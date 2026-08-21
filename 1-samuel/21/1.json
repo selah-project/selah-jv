@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan ⟨dheweke⟩ tangi lan mangkat, lan Yonatan bali menyang ⟨the⟩ kutha.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mangkat"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "lan Yonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bali menyang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:25.271348782Z",
+  "model": "glm-5.3"
+}

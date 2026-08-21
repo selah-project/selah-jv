@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 37:4",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan Dheweke ngandika marang aku: Nabiwa ing balung-balung iki, lan Kowé matur marang dheweke: Balung-balung garing, padha ngrungokake sabda Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "Nabiwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "balung-balung"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "Balung-balung"
+    },
+    {
+      "surface": "היבשות",
+      "gloss": "garing"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:20:12.606346692Z",
+  "model": "glm-5.3"
+}

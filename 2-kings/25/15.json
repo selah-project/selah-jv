@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan ⟨את⟩ pedupaan lan ⟨את⟩ bokor-bokor pangilon — sing saka emas iya emas temen, sing saka salaka iya salaka temen — kabeh mau dijupuk dening panggedhe para jagal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pedupaan"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "pedupaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bokor-bokor pangilon"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "bokor-bokor pangilon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "saka emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "iya emas temen"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "saka salaka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "iya salaka temen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para jagal"
+    }
+  ],
+  "timestamp": "2026-08-21T04:07:38.908313231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Utawa yèn daging urip iku bali malih lan malih dadi putih, banjur ia teka marang sang imam.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "החי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "lan malih"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "dadi putih"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:16.758297861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Ora ⟨⟨את⟩⟩ para mati muji Yah, lan ora kabeh sing mudhun menyang sepe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "para mati"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "muji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "sing mudhun"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sepe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:22.836264236Z",
+  "model": "glm-5.3"
+}

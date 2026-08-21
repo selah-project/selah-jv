@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Sebab ⟨iku⟩ bangsa sing ilang pitutur ⟨dhewe⟩, lan ora ana kawruh ing jerone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "sing ilang"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "pitutur"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨dhewe⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing jerone"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "kawruh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:57:52.651843754Z",
+  "model": "glm-5.3"
+}

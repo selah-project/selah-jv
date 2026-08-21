@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Nalika aku ngèndèh, balungku banjur garing, saka sengakku sedina muput.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nalika"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "aku ngèndèh"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "garing"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "balungku"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "saka sengakku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina"
+    },
+    {
+      "surface": "היום",
+      "gloss": "muput"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:35.675966679Z",
+  "model": "glm-5.3"
+}

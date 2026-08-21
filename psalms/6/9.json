@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Padha mundura saka aku, kowe kabeh panggawe kadurjanan, awit Yahweh wis ngrungokake swara tangisku.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "padha mundura"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadurjanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wis ngrungokake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "tangisku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:30.462439881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur Shlomo yasa ⟨את⟩ omahé, lan mari ngrampungaké.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Banjur yasa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omahé"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "lan mari ngrampungaké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:18.377455473Z",
+  "model": "glm-5.3"
+}

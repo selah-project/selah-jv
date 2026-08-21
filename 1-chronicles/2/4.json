@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Tamar mantune nglairake ⟨את⟩ Peretz lan ⟨את⟩ Zerach kanggo ⟨dheweke⟩; kabeh anak-anake Yehudha lima.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Lan Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mantune"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo ⟨dheweke⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretz"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peretz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-08-21T03:16:14.547421917Z",
+  "model": "glm-5.3"
+}

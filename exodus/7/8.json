@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Banjur Yahweh ngandika marang Moshe lan marang Aharon, ngendika:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Banjur ... ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika:"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:14.774370738Z",
+  "model": "glm-5.3"
+}

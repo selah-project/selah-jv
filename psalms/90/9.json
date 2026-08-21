@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Sebab kabeh dinane kita padha sirna ing bebendu-Mu; taune kita tuntas kaya sawijining sesenggukan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dinane kita"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "padha sirna"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "ing bebendu-Mu"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "tuntas"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "taune kita"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "sesenggukan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:29.922791275Z",
+  "model": "glm-5.3"
+}

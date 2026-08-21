@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Welas asih lan nugraha ⟨is⟩ Yahweh, ora grusa-grusu nesu, lan sugih kasih setya.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "welas asih"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "lan nugraha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dawa (ora grusa-grusu)"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "irung = nesu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "lan sugih"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasih setya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:47.502373210Z",
+  "model": "glm-5.3"
+}

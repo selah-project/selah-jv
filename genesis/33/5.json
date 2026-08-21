@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Banjur sampun ngunggahake ⟨את⟩ mripate sarta mirengsani ⟨את⟩ para wadon iku lan ⟨את⟩ para anak iku, lajeng ngandika: Sapa kabeh iki kowe? Wangsulane: Para anak ingkang kawecnani kasayangan dening Elohim marang ⟨את⟩ abdimu.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngunggahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mripate"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mripate"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mirengsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para wadon iku"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "para wadon iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para anak iku"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "para anak iku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kabeh iki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wangsulane"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "para anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "kawecnani kasayangan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdimu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:47.077953611Z",
+  "model": "glm-5.3"
+}

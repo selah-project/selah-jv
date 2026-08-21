@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Apa wesi bisa ngrusak wesi saka lor lan tembaga?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "apa bisa ngrusak"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "wesi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "wesi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "saka lor"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "lan tembaga"
+    }
+  ],
+  "timestamp": "2026-08-21T00:53:23.506006144Z",
+  "model": "glm-5.3"
+}

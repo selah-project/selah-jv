@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Yehonatan nyopot ⟨את⟩ jubah kang ana ing badané, lan mènèhaké marang Dawid, lan sandhangané, nganti pedhangé, nganti panahé, lan nganti izontange.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "nyopot"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ana ing badané"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "mènèhaké"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedhangé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "panahé"
+    },
+    {
+      "surface": "וועד",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "izontange"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:44.664267692Z",
+  "model": "glm-5.3"
+}

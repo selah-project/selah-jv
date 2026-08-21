@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Mujudake Yahweh, karyane-Karyane kabeh, ing saben panggonan karaton-E; dhasiraku, mujudana ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Mujudake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "karyane-Karyane"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "מקות",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "karaton-E"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "mujudana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "dhasiraku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:48.459984422Z",
+  "model": "glm-5.3"
+}

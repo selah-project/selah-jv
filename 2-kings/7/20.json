@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lakuné mangkono marang awake: wong akèh padha nglempengake ⟨את⟩ awake ing gapura, lan mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lakuné"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "padha nglempengake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "awake"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ing gapura"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lan mati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:25.208478766Z",
+  "model": "glm-5.3"
+}

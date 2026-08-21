@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan bèntèng kadhemen dhuwur témbokmu wis diglumprangake, direndhahake, didhawahake nganti tekan bumi, nganti dadi awu bumi.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "lan bèntèng kadhemen"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kadhemen dhuwur"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "témbokmu"
+    },
+    {
+      "surface": "השח",
+      "gloss": "diglumprangake"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "direndhahake"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "didhawahake nganti tekan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "awu bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:48:46.258051646Z",
+  "model": "glm-5.3"
+}

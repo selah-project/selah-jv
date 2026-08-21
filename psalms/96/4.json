@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 96,
+  "translation": "Sebab Yahweh iku agung lan linuhuran sanget; ⟨ing⟩ ⟨sirah⟩ sadaralah para elohim ⟨piyala⟩ ditatakeni wedi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "lan linuhuran"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nuntut wedi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "piyala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadaralah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaralah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:47.562463482Z",
+  "model": "glm-5.3"
+}

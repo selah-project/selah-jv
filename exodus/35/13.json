@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "⟨את⟩ mejane, lan ⟨את⟩ palang-palange, lan ⟨את⟩ kabeh perabote, lan ⟨את⟩ roti paseba;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mejane"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mejane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palange"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "palang-palange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh perabote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "perabote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "roti paseba"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "paseba"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:39.225258653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 124,
+  "translation": "Tembang pamungkasaniring langkah, gaweane Daud. Lamun dudu Yahweh sing dadi pangayom kita — mangga Israil ngucap",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Tembang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pamungkasaniring langkah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "gaweane Daud"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Lamun dudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "sing dadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pangayom kita"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:15.132512960Z",
+  "model": "glm-5.3"
+}

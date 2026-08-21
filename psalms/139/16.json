@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Balung kula kang durung kadadéan iku paningalimu wus mirsa, lan ing kitabmu kabe kataneman, dina-dina kang tinamtu, sanadyan durung ana siji waé ing antarané.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "balung kula kang durung kadadéan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "mirsa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "paningalimu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitabmu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "kataneman"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "kang tinamtu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanadyan durung"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing antarané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:31.540379461Z",
+  "model": "glm-5.3"
+}

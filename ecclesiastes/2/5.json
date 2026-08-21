@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Aku nggawe kanggo aku taman-taman lan kebon-kebon, lan aku nandur ing kono wit kabeh jinis woh.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "aku nggawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "taman-taman"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "lan kebon-kebon"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "lan aku nandur"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "woh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:43.187272787Z",
+  "model": "glm-5.3"
+}

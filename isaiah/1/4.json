@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Aduh, bangsa sing tindak dosa, umat abot kalawan piala, bibit sing nglakoni piala, putra-putra sing ngrusak — padha ninggalake ⟨את⟩ Yahweh, padha nyepuh ⟨את⟩ sing Suci kagungane Yisrael, padha maledhos murwa.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "aduh"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sing tindak dosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "abot kalawan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "piala"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bibit"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sing nglakoni piala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "sing ngrusak"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "padha ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "padha nyepuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing Suci kagungane Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sing Suci"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "padha maledhos"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "murwa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:01.351515282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Mung marang Elohim jiwaku meneng ⟨⟨⟩⟩; saka Panjenengane kaslametanku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "meneng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka Panjenengane"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kaslametanku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:23.398882134Z",
+  "model": "glm-5.3"
+}

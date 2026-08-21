@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Aku Yahweh Elohimmu, sing ngowahi kok metu saka ⟨את⟩ dhaérah Mitsrayim, murih Kokparingi ⟨את⟩ dhaérah Kenaan, dadi Elohimmu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ngowahi kok metu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kok",
+      "marks": "kok"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka dhaérah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "murih kparingake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhaérah Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhaérah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kok"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:54.235579474Z",
+  "model": "glm-5.3"
+}

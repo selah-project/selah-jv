@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan acalathune: Coba acalathu marang Shlomo sang raja, awit ⟨dheweke⟩ ora bakal nulak raimu, supaya ⟨dheweke⟩ maringake ⟨את⟩ Avishag wong Sunem dadi bojoku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "acalathune"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "calathua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "coba"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "marang Shlomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bakal nulak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raimu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raimu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "supaya maringake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang kula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "wong Sunem"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi bojo"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:16.889434047Z",
+  "model": "glm-5.3"
+}

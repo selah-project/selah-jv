@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Sebab aku ⟨iku⟩ dadi putra marang bapakku, lemah lembut lan mung siji ing ngarsane ibuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku dadi"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "marang bapakku"
+    },
+    {
+      "surface": "רך",
+      "gloss": "lemah lembut"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "lan mung siji"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:55.501769696Z",
+  "model": "glm-5.3"
+}

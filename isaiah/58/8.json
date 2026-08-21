@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Banjur padhange bakal belah kaya swawungu, lan warasmu enggal thukul, lan kabeneranmu lumaku ing ngarepmu, kamulyaning Yahweh bakal ngempalake kau.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "bakal belah"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "kaya swawungu"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "padhange"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "lan warasmu"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "enggal"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "bakal thukul"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "lan bakal lumaku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarepmu"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kabeneranmu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "bakal ngempalake kau"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:32.862042616Z",
+  "model": "glm-5.3"
+}

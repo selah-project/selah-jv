@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 75,
+  "translation": "Aku ngandika marang para kang gumunjung: aja padha gumunjung, lan marang para durjana: aja ngunggahake tandhuk.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Aku ngandika"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "marang para kang gumunjung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "padha gumunjung"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "lan marang para durjana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ngunggahake"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tandhuk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:24.277385089Z",
+  "model": "glm-5.3"
+}

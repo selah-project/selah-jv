@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur lunga siji wong saka trah Levi, lan njupuk ⟨את⟩ siji putrining Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "banjur lunga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji wong"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka trah"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrining Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:59.321334660Z",
+  "model": "glm-5.3"
+}

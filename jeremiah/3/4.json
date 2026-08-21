@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Apa dudu saka saiki kowe wis ngundhang aku: Bapakku, kancanings enome kowe ⟨are⟩?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "apa dudu"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "saka saiki"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kowe wis ngundhang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Bapakku"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kancanings enome"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "enome"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:28.737317064Z",
+  "model": "glm-5.3"
+}

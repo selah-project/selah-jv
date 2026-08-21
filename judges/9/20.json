@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "lan menawa ora, geni metu saka Avimelekh lan ngonsumsi ⟨את⟩ para pangèmpu Shekhem lan ⟨את⟩ kaluwarga Milo; lan geni metu saka para pangèmpu Shekhem lan saka kaluwarga Milo lan ngonsumsi ⟨את⟩ Avimelekh.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "saka Avimelekh"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "lan ngonsumsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pangèmpu Shekhem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "para pangèmpu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaluwarga Milo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kaluwarga"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "saka para pangèmpu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "lan saka kaluwarga"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "lan ngonsumsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:21.861599116Z",
+  "model": "glm-5.3"
+}

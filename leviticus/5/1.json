@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan menawa wong dosa, ngrungokake swara sumpah, dene dheweke dadi saksi — apa dheweke weruh utawa ngerti — menawa ora ngandhakake, dheweke bakal nggawa dosane.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Lan menawa wong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "dene dheweke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ngandhakake"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "bakal nggawa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "dosane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:48.130201359Z",
+  "model": "glm-5.3"
+}

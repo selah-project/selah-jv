@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lah apa kudu ak njupuk ⟨את⟩ rotiku lan ⟨את⟩ banyuku lan ⟨את⟩ sapi potonganku sing tak potongake kanggo para pangguntingku, lan tak paringake marang wong-wong sing ora tak weruhi saka ngendi ⟪wong-wong iku⟫?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rotiku"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "rotiku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "banyuku"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "banyuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sapi potonganku"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "sapi potonganku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "tak potongake"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "kanggo para pangguntingku"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "lan tak paringake"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "marang wong-wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tak weruhi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "saka ngendi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "? (pananda pitakon)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wong-wong iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:21.512993512Z",
+  "model": "glm-5.3"
+}

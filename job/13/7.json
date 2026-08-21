@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 13:7",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Apa kanggo El kowé ngendika ana kaluputan, lan kanggo Panjenengane kowá ngendika apus-apus?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "apa kanggo El"
+    },
+    {
+      "surface": "typedbarו",
+      "gloss": "kowé ngendika"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "lan kanggo Panjenengane"
+    },
+    {
+      "surface": "typedbarו",
+      "gloss": "kowé ngendika"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "apus-apus"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:58.651718810Z",
+  "model": "glm-5.3"
+}

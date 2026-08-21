@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Kanggo panggedhé. Mazmuré Dawid. Elé pujianku, aja meneng.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo panggedhé"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Mazmuré Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elé"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "pujianku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "meneng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:11.838249670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan aku ngandika: Aku ora bakal nggembalani ⟨את⟩ kowe; sing mati, matilah; sing kasamar, samarlah; lan sing kasisa padha mangan, sabén siji ⟨את⟩ daging kanca-kancane.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Lan aku ngandika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "nggembalani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "sing mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "matilah"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "lan sing kasamar"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "samarlah"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "lan sing kasisa"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "padha mangan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sabén siji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "kanca-kancane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:38:57.452391367Z",
+  "model": "glm-5.3"
+}

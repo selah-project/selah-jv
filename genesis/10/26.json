@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Yakqtan nampa keturunan ⟨את⟩ Almodad lan ⟨את⟩ Shelef lan ⟨את⟩ Hatsarmawet lan ⟨את⟩ Yerakh.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Lan Yakqtan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nampa keturunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Hatsarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yerakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerakh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:28.123853584Z",
+  "model": "glm-5.3"
+}

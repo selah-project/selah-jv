@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Yahweh, Elohimku, menawa daklakoni iki, menawa ana kaluputan ing tangan-tanganku —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "daklakoni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "ing tangan-tanganku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:17.307860524Z",
+  "model": "glm-5.3"
+}

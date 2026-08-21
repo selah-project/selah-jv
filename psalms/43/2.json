@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Awit kowe ⟨⟨enggal⟩⟩ Elohim pangayomané aku; kenapa kok nulak aku? Kenapa aku aku lumaku susah ing panganiaya mungsuh?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "pangayomané aku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "kok nulak aku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "susah"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "aku lumaku"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ing panganiaya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:57.573062094Z",
+  "model": "glm-5.3"
+}

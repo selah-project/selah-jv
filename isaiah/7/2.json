@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan dirungokake marang wongé Dawud, ngendika: Aram wis ngadek ing Éfrayim; lan atiné ⟨dhèwèké⟩ sarta atiné umaté getun, kaya getuning kayu-kayu ing wana amarga angin.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "dirungokake"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "marang wongé"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "wis ngadek"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Éfrayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "getun"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "sarta atiné"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umaté"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "kaya getuning"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu-kayu"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ing wana"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:59.640658106Z",
+  "model": "glm-5.3"
+}

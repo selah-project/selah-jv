@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Namung panggonan dhuwur ⟨bama⟩ ora diluputi; isih bangsa iki ngyadèni lan ngobong dupa ing panggonan-panggonan dhuwur.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "namung"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "panggonan dhuwur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "diluputi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iki"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ngyadèni"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "lan ngobong dupa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ing panggonan dhuwur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:31.841066847Z",
+  "model": "glm-5.3"
+}

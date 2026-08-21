@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Saka Yahweh langkah-lange wong kakandhakake; lan dadine kagemane Pangéran dhalane.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "saka Yahweh"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "langkah-lange"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wong"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "kakandhakake"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "lan dadine"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "kagemane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:07.490270490Z",
+  "model": "glm-5.3"
+}

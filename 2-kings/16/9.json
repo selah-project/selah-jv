@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Raja Ashur ngrungokake marang dheweke, lan raja Ashur munggah marang Damsyik, nangkep, lan ngucalake ⟨את⟩ kutha kuwi menyang Kir, lan ⟨את⟩ Rezin dipateni.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damsyik"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "nangkep"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "ngucalake"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "menyang Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rezin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Rezin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "dipateni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:06.904812497Z",
+  "model": "glm-5.3"
+}

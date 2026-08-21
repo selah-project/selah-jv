@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan ing nganggo watu-watu iku dheweke yasa ⟨את⟩ panggonan kurban ing asmane Yahweh, lan gawé selokan wujud ukuran rong saah wiji, ngubengi panggonan kurban iku.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu-watu iku"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "watu-watu iku"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "panggonan kurban"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing asmane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "selokan"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ukuran"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "rong saah"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "wiji"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "panggonan kurban iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:54.774304168Z",
+  "model": "glm-5.3"
+}

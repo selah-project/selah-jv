@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Yahweh nindakake miturut pangucaping Moshe, lan kodhok-kodhok iku mati saka ing ⟨the⟩ omah-omah, saka ing ⟨the⟩ pekarangan, lan saka ing ⟨the⟩ sawah-sawah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan Yahweh nindakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut pangucaping"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "lan ... mati"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kodhok-kodhok iku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka ing"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "omah-omah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka ing"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "pekarangan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka ing"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "sawah-sawah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:38.889382866Z",
+  "model": "glm-5.3"
+}

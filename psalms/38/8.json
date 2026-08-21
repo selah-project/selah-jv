@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Awit gegempolanéku kebak panas barah; lan ora ana wilujengan ing dagingku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "gegempolanéku"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "panas barah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "wilujengan"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ing dagingku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:38.240210529Z",
+  "model": "glm-5.3"
+}

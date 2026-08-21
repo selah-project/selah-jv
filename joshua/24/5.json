@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan dakutus ⟨את⟩ Moshe lan ⟨את⟩ Aharon, lan dakpukul ⟨את⟩ Mitsrayim, kaya déné daklakoni ing tengahé, lan sawisé iku dak metakake ⟨את⟩ kowé.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "lan dakutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "lan dakpukul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya déné"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "daklakoni"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ing tengahé"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "lan sawisé iku"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "dak metakake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:52.775798179Z",
+  "model": "glm-5.3"
+}

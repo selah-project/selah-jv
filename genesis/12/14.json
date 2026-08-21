@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan kadadéyan, bare Avram teka ing Mitsrayim, wong-wong Mitsrayim padha ndeleng ⟨את⟩ wadon iku, yèn ⟨iya⟩ endah temen.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéyan"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "bare teka"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "wong-wong Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadon iku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wadon iku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "endah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iya⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "temen"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:04.788110414Z",
+  "model": "glm-5.3"
+}

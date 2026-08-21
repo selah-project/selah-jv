@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 30:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Sebab kaya mangkene Adonai Yahweh, Kang Suci ing Israyel, mratélakaké: ing bali lan angèn-angèn kowé bakal kaluputan; ing anteng lan ing pracaya bakal dadi kakuwatmu — nanging kowé ora gelem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "mratélakaké"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Kang Suci"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ing Israyel"
+    },
+    {
+      "surface": "בשובה",
+      "gloss": "ing bali"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "lan angèn-angèn"
+    },
+    {
+      "surface": "תושעון",
+      "gloss": "kowé bakal kaluputan"
+    },
+    {
+      "surface": "בהשקט",
+      "gloss": "ing anteng"
+    },
+    {
+      "surface": "ובבטחה",
+      "gloss": "lan ing pracaya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "גבורתכם",
+      "gloss": "kakuwatmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "kowé gelem"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:21.818576383Z",
+  "model": "glm-5.3"
+}

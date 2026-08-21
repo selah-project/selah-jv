@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Aku ora bakal njupuk saka omahmu sapi lanang, saka kandhang-kandhangmu kambing jaler.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "saka omahmu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sapi lanang"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "saka kandhang-kandhangmu"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kambing jaler"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:45.266913947Z",
+  "model": "glm-5.3"
+}

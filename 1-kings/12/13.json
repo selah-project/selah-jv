@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan sang raja mangsuli ⟨את⟩ wong kasebut kanthi atos, sarta ninggalake ⟨את⟩ pituturing para sepuh sing wis dheweke pituturake.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lan mangsuli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong kasebut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kasebut"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kanthi atos"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "sarta ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitutur"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "pitutur"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para sepuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "dheweke pituturake"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:15.805369695Z",
+  "model": "glm-5.3"
+}

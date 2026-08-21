@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Yen sira nahan sandhangané tatramu minangka jaminan, ing satengahing srengéngé lumebu kudu sowanake marang dheweke.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yen"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "nahan jaminan"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "nahan minangka jaminan"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "tatramu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ing satengahing"
+    },
+    {
+      "surface": "בא",
+      "gloss": "lumebu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "sowanake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:15.927280794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan banyu-banyu mau bali saka ing sadhuwuring bumi, tansah mundur lan bali manèh, lan banyu-banyu mau suda ing pungkasaning dina sewatus lan limang puluh dina.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "lan bali"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu-banyu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing sadhuwuring"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "tansah lumaku"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "lan bali manèh"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "lan suda"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu-banyu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ing pungkasaning"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limang puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "lan sewatus"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:18.079616200Z",
+  "model": "glm-5.3"
+}

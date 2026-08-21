@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Bumi gandum lan jelai, lan wit anggur lan wit ara lan dhelik; bumi wit zaitun lenga lan madu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "lan jelai"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "lan wit anggur"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "lan wit ara"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "lan dhelik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "זית",
+      "gloss": "wit zaitun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "lan madu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:39.009374313Z",
+  "model": "glm-5.3"
+}

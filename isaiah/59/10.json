@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Padha ndedemung kaya wong wuta ing sandhing tembok, lan kaya tanpa mata padha ndedemung; padha kelangkah ing awan tengah kaya ing wayah senja, ing panggonan sepi kaya wong mati.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "padha ndedemung"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "kaya wong wuta"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "lan kaya tanpa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "padha ndedemung"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "padha kelangkah"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ing awan tengah"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "kaya ing wayah senja"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "ing panggonan sepi"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "kaya wong mati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:43.882797167Z",
+  "model": "glm-5.3"
+}

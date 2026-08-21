@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Bakal nampa berkah saka ⟨את⟩ Yahweh, lan kadilan saka Elohim kaslametane.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "bakal nampa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "lan kadilan"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "saka Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "kaslametane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:51.484415498Z",
+  "model": "glm-5.3"
+}

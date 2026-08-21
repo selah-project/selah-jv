@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Dawid ngandika marang Evyatar sang imam, putrane Akhimelekh: Cedhakna, mugi, marang aku efod iku; banjur Evyatar nyedhakake ⟨את⟩ efod iku marang Dawid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Cedhakna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod iku"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "banjur nyedhakake"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod iku"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod iku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:35.043904856Z",
+  "model": "glm-5.3"
+}

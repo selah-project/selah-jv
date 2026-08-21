@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Dawid tansah maju saya gedhe, lan Yahweh Tzevaot nungi dheweke.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Lan (Dawid) tansah maju"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "tansah maju"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "saya gedhe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "lan Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nungi dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T03:21:00.335722786Z",
+  "model": "glm-5.3"
+}

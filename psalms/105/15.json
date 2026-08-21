@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Aja padha nyandhing Mashíaj-ku, lan marang para nabi-ku aja padha gawe ala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "padha nyandhing"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Mashíaj-ku"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "lan marang para nabi-ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "padha gawe ala"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:07.661254827Z",
+  "model": "glm-5.3"
+}

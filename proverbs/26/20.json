@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Yen kayu wis entèk, geni mati; lan yen tukang ngempas ilang, pasulayan padhem.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "yen wis entèk"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "mati (dipati geni)"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "lan yen ilang"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "tukang ngempas"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "padhem (pira-pira)"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "pasulayan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:35.821733166Z",
+  "model": "glm-5.3"
+}

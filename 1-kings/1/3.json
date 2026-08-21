@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur padha nggolekake wadon enom kang ayu ing sadhuwuring tapel wates Israeel, lan padha nemu ⟨את⟩ Abisyag wong Sunem, banjur padha nggawa ⟨את⟩ dheweke marang sang raja.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "banjur padha nggolekake"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "wadon enom"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kang ayu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tapel wates"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeel"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "lan padha nemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abisyag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abisyag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "wong Sunem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "banjur padha nggawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (marang sang raja)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:54.071248477Z",
+  "model": "glm-5.3"
+}

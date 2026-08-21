@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Shemuel ngandika marang ⟨ummat⟩ iku: Yahweh, sing nitahaké ⟨את⟩ Moshe lan ⟨את⟩ Aharon, lan sing ngunggahaké ⟨את⟩ leluhurmu saka nagara Mitsrayim —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ummat⟩ iku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nitahaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ngunggahaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leluhurmu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "leluhurmu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka nagara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:12.602322738Z",
+  "model": "glm-5.3"
+}

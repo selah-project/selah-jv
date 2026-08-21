@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Yahweh ngerti panggalihé manungsa, yén ⟨iku⟩ mung liru kothong.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "panggalihé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "liru kothong"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:42.367141906Z",
+  "model": "glm-5.3"
+}

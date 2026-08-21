@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Supaya padha percaya yen matur-marang sira iku Yahweh, Elohimé para leluhure dhéwé — Elohimé Avraham, Elohimé Yitshak, lan Elohimé Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "padha percaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nampilake dhewe (matur-marang)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "para leluhure dhéwé"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "lan Elohimé"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:36.979692077Z",
+  "model": "glm-5.3"
+}

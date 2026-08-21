@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan ⟨את⟩ para putrane sira dak-cedhakake, lan sira nganggoake ⟨את⟩ dheweke nganggo kemis.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para putrane"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "sira dak-cedhakake"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "lan sira nganggoake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dheweke"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kemis"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:18.457676906Z",
+  "model": "glm-5.3"
+}

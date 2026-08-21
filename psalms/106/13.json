@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Padha geses-enggal padha lali marang pakaryan-Pe, ora padha ngenteni pitutur-E.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "geses-enggal"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "padha lali"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "marang pakaryan-Pe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "padha ngenteni"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "pitutur-E"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:35.055342298Z",
+  "model": "glm-5.3"
+}

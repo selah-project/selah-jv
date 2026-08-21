@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Ora bakal ana kedesyah saka para putriné Yisraél, lan ora bakal ana kades saka para putrané Yisraél.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kedesyah"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "saka para putriné"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kades"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "saka para putrané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:29.496364371Z",
+  "model": "glm-5.3"
+}

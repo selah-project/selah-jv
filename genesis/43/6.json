@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Nanging Yisrael ngucap: Yagene kowe nglakoni ala marang aku, ngandhani wong mau yèn isih ana sadulur liyané?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "yagene"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "klakoni ala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ngandhani"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "wong mau"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "isih ana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowé duwé"
+    },
+    {
+      "surface": "אח",
+      "gloss": "sadulur"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:12.934229790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan Yahweh ngandika marang Mosheh: Ya apa kok nyuwara marang Aku? Utamana marang bocah-bocahé Yisrael yen padha mangkat.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "kok nyuwara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Utamana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bocah-bocahé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "lan padha mangkat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:39.412712114Z",
+  "model": "glm-5.3"
+}

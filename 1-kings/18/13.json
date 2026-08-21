@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 18:13",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Apa ora wis katranganake marang bendara ⟨את⟩ sing taklakoni nalika Izebel mateni ⟨את⟩ nabi-nabine Yahweh, sarta takudhupake saka nabi-nabi Yahweh saratus wong, seket-seket ing guwa, lan takparingi roti lan banyu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "katranganake"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "marang bendara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing taklakoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "taklakoni"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "nalika mateni"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabi-nabine Yahweh"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "nabi-nabine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "sarta takudhupake"
+    },
+    {
+      "surface": "מנביאי",
+      "gloss": "saka nabi-nabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "seket"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "seket"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ing guwa"
+    },
+    {
+      "surface": "ואכלכלם",
+      "gloss": "lan takparingi pangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "lan banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:23.189552798Z",
+  "model": "glm-5.3"
+}

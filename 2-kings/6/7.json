@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lange ngendika: Djupukana. Lan panjenengané nguluraké tangane lan njupuk iku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "djupukana (angkatana)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nguluraké"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "njupuk iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:24.337881669Z",
+  "model": "glm-5.3"
+}

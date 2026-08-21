@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lakuné udan kuwi tiba ing sadhuwuring bumi patang puluh dina lan patang puluh wengi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lakuné"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "udan kuwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patang puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "lan patang puluh"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:21.404375439Z",
+  "model": "glm-5.3"
+}

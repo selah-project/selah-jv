@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 142,
+  "translation": "Aku nguwuh marang Kowe, Yahweh; aku wus munjuk: Kowe ⟨⟨iku⟩⟩ perlindunganku, bagianku ing bumining urip.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Aku nguwuh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Kowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku wus munjuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "perlindunganku"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "bagianku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ing urip"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:53.590641815Z",
+  "model": "glm-5.3"
+}

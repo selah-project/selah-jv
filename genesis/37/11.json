@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan sadulure nesu-nesu getun marang ia; nanging bapakne ngati-ati nyimpen ⟨את⟩ pangandikan iku.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "nesu-nesu getun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "marang ia"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulure"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "lan bapakne"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ngati-ati nyimpen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangandikan iku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pangandikan iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:58.482314535Z",
+  "model": "glm-5.3"
+}

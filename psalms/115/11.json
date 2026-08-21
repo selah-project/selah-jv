@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Sira sing wedi marang Yahweh, padha nunggua ing Yahweh: pitulungané lan tamengé ⟨iku⟩ dhéwé.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Sira sing wedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "padha nunggua"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pitulungané"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "lan tamengé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iku⟩ dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:31.366461703Z",
+  "model": "glm-5.3"
+}

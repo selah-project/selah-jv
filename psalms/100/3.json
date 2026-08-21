@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 100,
+  "translation": "Weruha yen Yahweh, ⟨iya⟩ ⟨Dheweke⟩ Elohim; ⟨Dheweke⟩ sing gawe awake dhewe, dudu awake dhewe sing gawe awake; awake dhewe ⟨iku⟩ umate, lan domba-dombane pangonane.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Weruha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iya⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Dheweke⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "sing gawe awake dhewe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "awake dhewe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "lan domba-dombane"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "pangonane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:45.356083076Z",
+  "model": "glm-5.3"
+}

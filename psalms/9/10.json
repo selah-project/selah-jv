@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Yahweh dadi pangunggon tumrap sing tinindasan, pangunggon ing mangsa-mangsa karuwetan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "pangunggon"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "tumrap sing tinindasan"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "pangunggon"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ing mangsa-mangsa"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "karuwetan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:42.006488577Z",
+  "model": "glm-5.3"
+}

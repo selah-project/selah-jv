@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Adam maringi jeneng bojone Chawa, awit ⟨dhewe⟩ dadi indhunge sab sing urip.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lan maringi jeneng"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dhewe⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indhunge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sab"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sing urip"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:56.143393169Z",
+  "model": "glm-5.3"
+}

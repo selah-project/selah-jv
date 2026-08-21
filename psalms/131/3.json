@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 131,
+  "translation": "Muga Israèl ngenteni Yahweh, saka saiki nganti salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "muga ... ngenteni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "saka saiki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:58.490704025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Dheweke sing nuntun umat-Né ing ara-ara samun, sebab awet salawas-lawase karunia-Né.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "sing nuntun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-Né"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara samun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "awet salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "karunia-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:53.345209056Z",
+  "model": "glm-5.3"
+}

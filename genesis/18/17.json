@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Yahweh ngandika: Apa aku kudu ndhelikake saka Avraham ⟨את⟩ sing lagi daklakoni?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Lan Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "apa aku kudu ndhelikake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "saka Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lakoni"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:03.491264906Z",
+  "model": "glm-5.3"
+}

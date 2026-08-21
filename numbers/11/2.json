@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur bangsa iku njerit marang Moshe, lan Moshe nyuwun marang Yahweh, banjur obor iku padhem.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "banjur njerit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "lan nyuwun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "banjur padhem\/lorod"
+    },
+    {
+      "surface": "האש",
+      "gloss": "obor iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:47.821159250Z",
+  "model": "glm-5.3"
+}

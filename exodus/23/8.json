@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan suap agahe dijupuk, awit suap ndadèkaké wuta marang sing mripat tegas lan ngowahi pangucapé wong-wang jujur.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "suap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "agahe"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "suap"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ndadèkaké wuta"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "sing mripat tegas"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ngowahi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangucapé"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong-wang jujur"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:42.706414997Z",
+  "model": "glm-5.3"
+}

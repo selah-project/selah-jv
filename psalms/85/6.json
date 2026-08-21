@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Apa salamane Duh ngramuk marang kawula? Apa nesuMu dawa-tarik nganti turun lan turun-temurun?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Apa salamane"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Duh ngramuk"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "marang kawula"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Apa ... dawa-tarik"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nesuMu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nganti turun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan turun-temurun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:13.425188502Z",
+  "model": "glm-5.3"
+}

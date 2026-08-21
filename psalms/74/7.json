@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Padha ngobong sake ⟨את⟩ papan sucimu, nganti lemah padha ngluhurake ⟨את⟩ pasamuwanmu asmanmu.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "padha ngeculake\/ngobong"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nganggo geni"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "papan sucimu"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nganti lemah"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "padha ngluhurake"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asmanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:05.646398515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Papat ↤ dadi: Apik pasa syukur marang Yahweh lan nyanjung Asmané, Elyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Apik"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "pasa syukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "lan nyanjung"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Asmané"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:27.523774577Z",
+  "model": "glm-5.3"
+}

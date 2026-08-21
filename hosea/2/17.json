@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Aku bakal maringi dheweke ⟨את⟩ kebon anggure saka ing kono, lan ⟨את⟩ lebak Akor dadi lawang pangajeng-ajeng; lan dheweke bakal nyanyi ana ing kono, kaya dene dina-dinane nalika isih enom, lan kaya dina nalika dheweke munggah metu saka bumi Mesir.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "lan Aku bakal maringi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kebon anggure"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "kebon anggure"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka ing kono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lebak Akor"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "lebak"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Akor"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "dadi lawang"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "pangajeng-ajeng"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "lan bakal nyanyi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kaya dene dina-dinane"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "nalika isih enom"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "lan kaya dina"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "munggah metu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:35.281166317Z",
+  "model": "glm-5.3"
+}

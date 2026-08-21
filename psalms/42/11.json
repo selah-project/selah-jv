@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kados tiwas ing balung kawula, mungsuh-mungsuh kawula ngamuk awake; nalika padha ngendika dhateng kawula sadinten muput: Pundi Elohim-Mu?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "kados tiwas"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "ing balung kawula"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ngamuk awake dhateng kawula"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mungsuh-mungsuh kawula"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "nalika padha ngendika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dhateng kawula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadinten muput"
+    },
+    {
+      "surface": "היום",
+      "gloss": "awan punika"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Pundi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:51.480836678Z",
+  "model": "glm-5.3"
+}

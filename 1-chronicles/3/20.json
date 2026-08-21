@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "lan Hashuba, lan Ohel, lan Berekhya, lan Hasadya, lan Yushab-Hesed — lima.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "lan Hashuba"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "lan Ohel"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "lan Berekhya"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "lan Hasadya"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Yushab-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-Hesed"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:34.582885275Z",
+  "model": "glm-5.3"
+}

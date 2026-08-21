@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Sing ing kaanan asor kita, Panjenengané éling marang kita, awit salawasé rahmat-Né.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "ing kaanan asor kita"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "éling"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "rahmat-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:52.993259440Z",
+  "model": "glm-5.3"
+}

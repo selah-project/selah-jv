@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 40:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan ing keranjang sing dhuwur ana saka samubarang panganané Paroh, gawéané juru mbako roti, lan manuk-manuk mau mangan ⟨את⟩-é saka ing keranjang, saka ing dhasirku.",
+  "tokens": [
+    {
+      "surface": "ובסל",
+      "gloss": "lan ing keranjang"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "sing dhuwur"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka samubarang"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "panganan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawéan"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "juru mbako roti"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "lan manuk-manuk mau"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "panganané (kasebut)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הסל",
+      "gloss": "ing keranjang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing dhasir"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dhasirku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:23.548407058Z",
+  "model": "glm-5.3"
+}

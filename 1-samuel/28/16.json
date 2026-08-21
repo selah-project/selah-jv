@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Shmuel ngandika: Lan kalowan apa kok takon aku, padahal Yahweh wis medhar saka kowe, lan dadi mungsuhmu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "lan kenapa"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "kok takon aku"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סר",
+      "gloss": "wis medhar"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "saka kowe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "mungsuhmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:23.058043294Z",
+  "model": "glm-5.3"
+}

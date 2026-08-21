@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Nanging awake dhewe, Yahweh ⟨is⟩ Elohim kita, lan awake ora ninggalake Panjenengane; lan para imam ngabdi marang Yahweh, para putrane Aharon, lan para Lewi ing panguripane.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "nanging awake dhewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "akeh ninggalake Panjenengane"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "lan para imam"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "ngabdi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "lan para Lewi"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "ing panguripane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:38:47.084121057Z",
+  "model": "glm-5.3"
+}

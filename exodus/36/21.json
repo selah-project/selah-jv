@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Sangang Ike, iku dawané papan siji, lan jembaré papan ⟨iku⟩ siji iku 0,3 m.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "sedasa"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dawa"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan ⟨iku⟩"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lan sawijing"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "satengah"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "jembar"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "papan ⟨iku⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:10.680237867Z",
+  "model": "glm-5.3"
+}

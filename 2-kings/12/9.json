@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Para imam marem supaya ora njupuk dhuwit saka ⟨את⟩ wong akeh, lan supaya ora ngundhakake ⟨את⟩ retakane omah.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "marem"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dhuwit"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "wong akeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "lan supaya ora"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ngundhakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "retakane omah"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "retaka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:05.838344700Z",
+  "model": "glm-5.3"
+}

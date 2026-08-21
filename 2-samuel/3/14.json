@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Dawid ngutus utusan marang Ish-Boshet bine Saul, ngendika: Sumanggakna ⟨את⟩ garwaku, ⟨את⟩ Mikhal, sing tak-lamarake dhéwé mawa atus kulup wong Peleshet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan ngutus"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bine"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Sumanggakna wènèhna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garwaku"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "garwaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "tak-lamarake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dhéwé (marang aku)"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "mawa atus"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "kulup"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Peleshet"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:20.345044258Z",
+  "model": "glm-5.3"
+}

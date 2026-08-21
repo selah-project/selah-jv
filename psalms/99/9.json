@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 99,
+  "translation": "Munggahake Yahweh Elohim kita, lan sujud ing gunung sucine, awit suci Yahweh Elohim kita.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "munggahake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "lan sujud"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ing gunung"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:21.096026552Z",
+  "model": "glm-5.3"
+}

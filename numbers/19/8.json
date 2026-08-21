@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan sing mbakari ⟨את⟩ iku ngumbah sandhange ing banyu lan adus badane ing banyu, lan najis nganti surupe srengenge.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "lan sing mbakari"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (sapi wadon — objek ing ayat sadurunge)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ngumbah"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhange"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "lan adus"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "badane"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "lan najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "surupe srengenge"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:49.948792Z",
+  "model": "glm-5.3"
+}

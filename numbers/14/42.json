@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Aja munggah, amarga Yahweh ora ana ing satengahing kowé, supaya kowé ora kagempur ing ngarsaning mungsuhmu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ing satengahing kowé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "kagempur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsaning"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mungsuhmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:06.579693423Z",
+  "model": "glm-5.3"
+}

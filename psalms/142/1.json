@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 142,
+  "translation": "Maskil kagem Dawid, nalika ⟨dheweke⟩ ing sajroning guwa — sawijining pandonga.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagem Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "nalika dheweke dadi\/ing"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ing sajroning guwa"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "sawijining pandonga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:27.480952503Z",
+  "model": "glm-5.3"
+}

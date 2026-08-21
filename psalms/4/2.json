@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Nalika aku nyeluk, walesen aku, Elohim sangisoring kaluputané aku; ing sesempitan Kowe wis ambaake ⟨ing⟩ aku; maha welas aku, lan rungokna pandongaku.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "nalika aku nyeluk"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "walesen aku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "kaluputané aku"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ing sesempitan"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "Kowe wis ambaake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "maha welas aku"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "lan rungokna"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pandongaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:18.895429195Z",
+  "model": "glm-5.3"
+}

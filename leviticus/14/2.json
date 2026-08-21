@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Iki bakal dadi torat ⟨⟨sing lagi kena tzaraat⟩⟩ ing dina marang katresnane, lan ⟨dheweke⟩ dicacad ⟨⟨h⟩⟩ marang sang imam.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torat"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "sing kena tzaraat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "katresnane"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "lan dicacad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:57.992191935Z",
+  "model": "glm-5.3"
+}

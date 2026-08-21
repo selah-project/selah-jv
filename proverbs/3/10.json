@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lanti-lantimu bakal kebak sakabehing, lan genthemu bakal lumayu metu ⟨karo⟩ anggur anyar.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "bakal kebak"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "lanti-lantimu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "lan anggur anyar"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "genthemu"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "bakal lumayu metu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:43.596166903Z",
+  "model": "glm-5.3"
+}

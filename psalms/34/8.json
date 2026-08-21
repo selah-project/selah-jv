@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Utusaning Yahweh macem-macem ngubengi wong-wong sing wedi marang Panjenengane, lan ngluwari dheweke.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "macem-macem ngubengi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "utusaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "wong-wong sing wedi marang Panjenengane"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "lan ngluwari dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:38.687305324Z",
+  "model": "glm-5.3"
+}

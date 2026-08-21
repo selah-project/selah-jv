@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan ia nuntun dheweke nganggo mega ing awan, lan saben wengi nganggo cahya geni.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "lan nuntun dheweke"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "nganggo mega"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ing awan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "באור",
+      "gloss": "nganggo cahya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:48.113033164Z",
+  "model": "glm-5.3"
+}

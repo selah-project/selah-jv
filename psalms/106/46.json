@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan Panjenengane paring ⟨את⟩ wong-wong mau kasayangan ing ngarsane saben sing nawan wong-wong mau.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "paring"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "kasayangan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "sing nawan wong-wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:04.963103293Z",
+  "model": "glm-5.3"
+}

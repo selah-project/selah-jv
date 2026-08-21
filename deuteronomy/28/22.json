@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Yahweh bakal nuhuk kowé nganggo tisis, lan demam, lan pawejang barék, lan kobaring panas, lan kaserihan garing, lan pelayu, lan jamur klawu; lan padha ngoyak kowé nganti kowé tumpes.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "nuhuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "nganggo tisis"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "lan demam"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "lan pawejang barék"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "lan kobaring panas"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "lan kaserihan garing"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "lan pelayu"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "lan jamur klawu"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "lan padha ngoyak kowé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "kowé tumpes"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:08.412442319Z",
+  "model": "glm-5.3"
+}

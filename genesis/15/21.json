@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "lha ⟨את⟩ wong Amori lan ⟨את⟩ wong Kanaan lan ⟨את⟩ wong Girgasi lan ⟨את⟩ wong Yebusi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Amori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Girgasi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "wong Girgasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Yebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "wong Yebusi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:09.299616715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Élingana, hai Yahweh, marang para putrané Edom ⟨את⟩ dinané Yerushalayim, sing padha ngucap: Runtuhna, runtuhna, nganti tekan dhasaré!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Élingana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang para putrané"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinané Yerushalayim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "sing padha ngucap"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Runtuhna"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "runtuhna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "dhasaré"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:52.708875778Z",
+  "model": "glm-5.3"
+}

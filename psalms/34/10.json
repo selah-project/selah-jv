@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Padha bektia marang ⟨את⟩ Yahweh, sisihe kang suci; awit ora ana kaluputan tumrap wong-wonge kang bekti.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "padha bektia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "sisihe kang suci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "tumrap wong-wonge kang bekti"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:42.192599711Z",
+  "model": "glm-5.3"
+}

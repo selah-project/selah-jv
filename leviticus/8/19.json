@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur dipotong, lan Moshe nyemprotaké ⟨את⟩ getihé ing pasisiré altar ing sapubengé.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "nyemprotaké"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihé"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getihé"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing sapubengé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:25.886471561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan dhèwèké ngalahaké ⟨את⟩ Moab, banjur wong Moab dadi abdiné Dawid, sing nggawa persembahan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ngalahaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "wong Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kanggé Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "sing nggawa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "persembahan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:24:40.544197773Z",
+  "model": "glm-5.3"
+}

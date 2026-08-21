@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Atiku panas ing sajroning awake dhewe; nalika aku ngrenungake, geni murub — banjur aku ngandika nganggo ilatku.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "panas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ing sajroning awake dhewe"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "nalika aku ngrenungake"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "murub"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku ngandika"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "nganggo ilatku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:02.706944729Z",
+  "model": "glm-5.3"
+}

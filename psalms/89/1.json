@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Maskil saka Eitan sang Ezrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "sang Ezrahi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:50.901208300Z",
+  "model": "glm-5.3"
+}

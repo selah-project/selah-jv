@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Dinaning kabecikan, sugengna ing kabecikan; lan dinaning kaluputan, padhangna: uga ⟨את⟩ iki madhep karo iki Elohim gawé, supaya manungsa ora nemu apa-apa sawisé.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Dinaning"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sugengna"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ing kabecikan"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "lan dinaning"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "padhangna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki (kabecikan lan kaluputan)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "madhep karo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nemu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apa-apa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:40.785011027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lungguh pangandikane: Buwanga menyang bumi! Lan dibuwang menyang bumi, lan dadi ula, lan Moshe ngunci saka ing ngarsane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lungguh pangandikane"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "buwanga"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menyang bumi"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "dibuwang"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menyang bumi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ngunci"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "saka ing ngarsane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:33.467973673Z",
+  "model": "glm-5.3"
+}

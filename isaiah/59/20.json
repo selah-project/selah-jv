@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Lan teka marang Tsiyon Sang Pambeyayu, lan marang wong-wong sing bali saka pangian ing antarané Yaakov, pangandikané Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Lan teka"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "marang Tsiyon"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "Sang Pambeyayu"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "lan marang wong-wong sing bali"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "saka pangian"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ing antarané Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:26.831675417Z",
+  "model": "glm-5.3"
+}

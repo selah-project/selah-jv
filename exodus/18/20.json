@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan ko-ngelingake ⟨את⟩ wong-wong ⟨את⟩ paundha-undhang lan ⟨את⟩ parentah-toret; sarta ko-andharake marang wong-wong ⟨את⟩ dalan sing bakal dilakoni, lan ⟨את⟩ panggawe sing kudud ditindakake.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "lan ko-ngelingake"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ wong-wong",
+      "marks": "wong-wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paundha-undhang"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "paundha-undhang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "parentah-toret"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "parentah-toret"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "sarta ko-andharake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang wong-wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "sing bakal dilakoni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing daloné"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "panggawe"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "kudud ditindakake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:56.016813759Z",
+  "model": "glm-5.3"
+}

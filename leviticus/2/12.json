@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Minangka peparengan sepisanan kokaturaké ⟨את⟩ iku marang Yahweh, nanging ing pasirahan ora kaangkat dadi ganda énak.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "peparengan"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "sepisanan"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "kokaturaké"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nanging ing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pasirahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "kaangkat"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "dadi ganda"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "énak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:06.672484099Z",
+  "model": "glm-5.3"
+}

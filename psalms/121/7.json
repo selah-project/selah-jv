@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 121,
+  "translation": "Yahweh bakal njaga kowe saka samubarang ala; ⟨dhewe⟩ bakal njaga ⟨את⟩ jiwanira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "bakal njaga kowe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka samubarang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bakal njaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwanira"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jiwanira"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:18.052110027Z",
+  "model": "glm-5.3"
+}

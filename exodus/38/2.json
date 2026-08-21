@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan dheg gawe sungune ing papat sudute, saka awake dhewe sunguné iku, lan dheg saluti ⟨את⟩ kuwi nganggo tembaga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dheg gawe"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sungune"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "papat"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "sudute"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka awake dhewe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "iku"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sunguné"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dheg saluti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuwi (altar)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:12.171737166Z",
+  "model": "glm-5.3"
+}

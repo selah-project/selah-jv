@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Dhèwèké ngadili ⟨את⟩ wong-wong kasebut ing saben wektu; perkara ⟨את⟩ sing angel diaturake marang Moshe, nanging saben perkara sing cilik dhèwèké ngadili dhéwé.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "lan dhèwèké ngadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong kasebut"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong kasebut"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara sing angel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sing angel"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "diaturake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nanging saben"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "sing cilik"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "dhèwèké ngadili"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:26.743184541Z",
+  "model": "glm-5.3"
+}

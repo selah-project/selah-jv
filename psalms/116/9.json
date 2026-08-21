@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Aku bakal lumaku ana ngarsane Yahweh, ing bumi-ing wong urip.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "aku bakal lumaku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ana ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "-ing wong urip"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:27.089324242Z",
+  "model": "glm-5.3"
+}

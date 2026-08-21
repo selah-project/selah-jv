@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Dawid jumeneng ratu ing sadhuwuring kabeh Yisrael, lan Dawid iku nindakake murih-laras lan kaadilan marang saparakyate kabeh.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "lan jumeneng ratu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murih-laras"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "lan kaadilan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang kabeh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saparakyate"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:52.156931990Z",
+  "model": "glm-5.3"
+}

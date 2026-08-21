@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Nazar-nazarku marang Yahweh bakal kubayar, saiki uga, ing ngarsane kabeh umate.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nazar-nazarku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "bakal kubayar"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "נא",
+      "gloss": "saiki uga"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:25.401419829Z",
+  "model": "glm-5.3"
+}

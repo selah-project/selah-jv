@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan ⟨את⟩ wedhus wadon iku mbales kaping papat, awit sing nindakaké ⟨את⟩ perkara iki, lan awit ora duwé welas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus wadon iku"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "wedhus wadon"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mbales"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "kaping papat"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara iki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan awit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "duwé welas"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:46.408326736Z",
+  "model": "glm-5.3"
+}

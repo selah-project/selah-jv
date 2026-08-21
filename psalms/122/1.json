@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 122,
+  "translation": "Kidung salakahe, kagawe Dawid. Aku bungah nalika wong-wong ngandika marang aku: Menyang omah Yahweh kita mangkat.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung salakahe"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "salakahe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagawe Dawid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Aku bungah"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "nalika wong-wong ngandika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kita mangkat"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:55.846687203Z",
+  "model": "glm-5.3"
+}

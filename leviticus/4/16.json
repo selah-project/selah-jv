@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur imam sing dimulyakaké bakal nggawa saka getihé péto iku menyang khemah papan pasamuwan.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "banjur nggawa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "sing dimulyakaké"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "saka getihé"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "péto iku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "papan pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:04.211616749Z",
+  "model": "glm-5.3"
+}

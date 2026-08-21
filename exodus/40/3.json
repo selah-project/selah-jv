@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan kowe bakang nitahake ing kono ⟨את⟩ petine pasaksian, lan kowe bakal nutupi ing sadhuwure peti iku ⟨את⟩ kelambune.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "nitahake ing kono"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petine pasaksian"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "pasaksian"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "nutupi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambune"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "kelambune"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:17.251779560Z",
+  "model": "glm-5.3"
+}

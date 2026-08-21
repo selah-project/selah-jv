@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan iri-iring atine Efrayim bakal sirna, lan para mungsuhe Yehudha bakal dipungkasi; Efrayim ora bakal ngiri-iri ⟨את⟩ Yehudha, lan Yehudha ora bakal ngrusuhi ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "lan bakal sirna"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "iri-iri"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "lan para mungsuh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bakal dipungkasi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ngiri-iri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "lan Yehudha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ngrusuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:16.353568892Z",
+  "model": "glm-5.3"
+}

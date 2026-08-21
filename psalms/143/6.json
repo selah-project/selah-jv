@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 143,
+  "translation": "Aku ngunjukake tanganku marang sira; njawaku kaya bumi wuyah kaselak marang sira. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "aku ngunjukake"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "njawaku"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "kaya bumi"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "wuyah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kaselak marang sira"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:02.158179509Z",
+  "model": "glm-5.3"
+}

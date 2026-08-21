@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan aku ngandika marang kowe ing wektu iku, munjuk: aku ora isa, dhewe wae, nggawa ⟨את⟩ kowe;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngandika"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "dhewe wae"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:04.388038863Z",
+  "model": "glm-5.3"
+}

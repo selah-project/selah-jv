@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Kowé nggonkoke aku ing lubang kang paling ngisor, ing pepeteng, ing palihing sagara.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "kowé nggonkoke aku"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ing lubang"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "kang paling ngisor"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ing pepeteng"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "ing palihing sagara"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:20.845745831Z",
+  "model": "glm-5.3"
+}

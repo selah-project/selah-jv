@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Aja padha manggon ana ing bumiMu, supaya aja nganti dheweke ngrayakake ⟨את⟩ sira marang Aku, awit sira bakal ngabdi marang ⟨את⟩ para allah-e dheweke, awit bakal dadi jerat tumrap sira.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "padha manggon"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ana ing bumiMu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya aja nganti"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ngrayakake"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ngabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para allah-e dheweke"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "para allah-e dheweke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tumrap sira"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "jerat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:22.433249838Z",
+  "model": "glm-5.3"
+}

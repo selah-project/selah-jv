@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Nanging menawa dheweke isih ngadeg siji dina utawa rong dina, ija arep dipunukum, awit iku dhuwute ⟨iya iku⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "siji dina"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "rong dina"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "isih ngadeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "dipunukum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "dhuwute dhewe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iya iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:37.942251712Z",
+  "model": "glm-5.3"
+}

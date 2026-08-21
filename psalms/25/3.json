@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Uga, kabeh sing ngarep-arep marang Kowe ora bakal wirang; wirangna para dur-karpa, tanpa sabab.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "sing ngarep-arep marang Kowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bakal wirang"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "wirangna"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "para dur-karpa"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tanpa sabab"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:38.790966781Z",
+  "model": "glm-5.3"
+}

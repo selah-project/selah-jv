@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Saka panggonan dununge ⟨dhewe⟩ ngati-ati mirsani marang kabeh kang ndunungi bumi.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "saka panggonan"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "dununge"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "ngati-ati mirsani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kang ndunungi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:48.109818846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Apa ora Dheweke ndeleng dalan-dalanku, lan ngetung kabeh langkahku?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dheweke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dalan-dalanku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "langkahku"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "ngetung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:33:06.223530106Z",
+  "model": "glm-5.3"
+}

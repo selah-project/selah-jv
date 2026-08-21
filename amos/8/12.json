@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan wong-wong bakal nglambaraka saka segara nganti segara, lan saka lor nganti wetan; bakal padha ngambah-ngambah goleki ⟨את⟩ pangandikane Yahweh, nanging ora bakal padha nemu.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "Lan bakal nglambaraka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "saka segara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "lan saka lor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "wetan"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "bakal padha ngambah-ngambah"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "goleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangandikane Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pangandikan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "bakal padha nemu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:30:01.311265011Z",
+  "model": "glm-5.3"
+}

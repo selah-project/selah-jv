@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Aravnah ndeleng saka jendhéla, lan weruh ⟨את⟩ raja iku lan ⟨את⟩ abdi-abdiné padha lumampah tumuju dheweke; banjur Aravnah metu, lan sumujud marang sang raja, praupané nganti tekan bumi.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "lan ndeleng saka jendhéla"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja iku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdiné"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdiné"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "padha lumampah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tumuju dheweke"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "banjur metu"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "lan sumujud"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang sang raja"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "praupané"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nganti tekan bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:47.263784915Z",
+  "model": "glm-5.3"
+}

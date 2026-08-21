@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan dheweke munjuk: Aku ora bisa balik karo ⟨את⟩ sira, lan ora bisa mlebu karo ⟨את⟩ sira; lan aku ora arep mangan roti lan ora arep ngombe banyu karo ⟨את⟩ sira ing panggonan iki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aku bisa"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "balik"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "karo ⟨את⟩ sira"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "lan mlebu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "karo ⟨את⟩ sira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "karo ⟨את⟩ sira"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing panggonan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:43.015307086Z",
+  "model": "glm-5.3"
+}

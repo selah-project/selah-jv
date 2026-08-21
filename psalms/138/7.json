@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 138,
+  "translation": "Menawa aku lumaku ing tengahing cilaka, Kowu nguripake aku; nglawan murkane mungsuhku Kowu ngolihake tanḍaṅmu, lan tanḍan tengenmu iya ngluwari aku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku lumaku"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "Kowu nguripake aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "murka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "Kowu ngolihake"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanḍaṅmu"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "lan ngluwari aku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tanḍan tengenmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:37.082471869Z",
+  "model": "glm-5.3"
+}

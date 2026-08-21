@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Kanggo panglima wirama. Mazmure Dawid, tembang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo panglima wirama"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggone Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:28.974731272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan ⟨dhèwèké⟩ ngucapaké telung ewu akeh pitutur, lan tembang-tembange dadi cacahé limang ewu sarta sewu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngucapaké"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pitutur-paribasan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "tembang-tembange"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limang"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "sarta ewu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:46.204151355Z",
+  "model": "glm-5.3"
+}

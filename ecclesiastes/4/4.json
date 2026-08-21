@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan aku ndeleng ⟨את⟩ kabeh kesah lan ⟨את⟩ kabeh kaluwihane panggawe, awit iku irih atine wong marang kanca cedhake; iki uga heseng lan ngejar angin.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "lan aku ndeleng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh kesah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kesah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh kaluwihane panggawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kaluwihan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "irih ati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "marang kanca cedhake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "heseng"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "lan ngejar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:05.699067284Z",
+  "model": "glm-5.3"
+}

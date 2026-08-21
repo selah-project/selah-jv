@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan wong-wong kadur nagara kabeh kaya eri sing diceblosake; sebab ora bisa dijupuk mawa tangan ⟨wae⟩.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "lan wong kadur nagara"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "kaya eri"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "sing diceblosake"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mawa tangan"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "bisa dijupuk"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:25.728706876Z",
+  "model": "glm-5.3"
+}

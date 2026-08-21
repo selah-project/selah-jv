@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dadi, bareng padha ndeleng ⟨את⟩ dheweke, banjur njupuk telung dasa kanca, lan padha dadi karo ⟨את⟩ dheweke.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "bareng padha ndeleng"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telung dasa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kanca"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:53:13.389638575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 76,
+  "translation": "Kanggo sang pangendhaga, kanthi senar kaliven; mazmur kanggo Asaf; tembang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo sang pangendhaga"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "kanthi senar kaliven"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kanggo Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:23.090638530Z",
+  "model": "glm-5.3"
+}

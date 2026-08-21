@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 67,
+  "translation": "Supaya kalakon ing bumi dalane sira, ing antarane sakabehing bangsa pati-slametmu.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "supaya kalakon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "dalane sira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing antarane sakabehing"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "pati-slametmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:31.662222173Z",
+  "model": "glm-5.3"
+}

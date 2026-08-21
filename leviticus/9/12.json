@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Banjur nyembelih ⟨את⟩ kurban bakarané, lan anak-anake Aharon ngaturake marang dheweke ⟨את⟩ getihe, lan dicopraki ing altar, saubeng-ubeng.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakarané"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakarané"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ngaturake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihe"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "dicopraki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "saubeng-ubeng"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:09.962467158Z",
+  "model": "glm-5.3"
+}

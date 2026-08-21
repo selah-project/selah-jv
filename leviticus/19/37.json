@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan kowe kudu ngati-ati ⟨את⟩ sapakaning ukum-ukumIngsun lan ⟨את⟩ sapakaning pangukuman-Ingsun, lan nindakake ⟨את⟩ iki kabeh; Ingsun ⟨⟨iku⟩⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "lan kowe kudu ngati-ati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapakaning ukum-ukum-Ingsun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapakane"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ukum-ukum-Ingsun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapakaning pangukuman-Ingsun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapakane"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pangukuman-Ingsun"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ iki kabeh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ingsun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:45.806133992Z",
+  "model": "glm-5.3"
+}

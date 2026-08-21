@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Benayahu bin Yehoyada ing sangisoring wadyabala; lan Tsadok lan Ebyatar, para imam.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "lan Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "nggonkani \/ ing sangisore"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wadyabala"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "lan Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "lan Ebyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "para imam"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:57.686153117Z",
+  "model": "glm-5.3"
+}

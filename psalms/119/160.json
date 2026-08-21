@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Gladhagan tembungmu ⟨iku⟩ setya; lan salawas-lawase saben sangsané kaadilanmu nganti langgeng.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "gladhagan"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tembungmu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "setya"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "lan salawas-lawase"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sangsan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kaadilanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:39.686055384Z",
+  "model": "glm-5.3"
+}

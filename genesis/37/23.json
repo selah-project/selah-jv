@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan kadadéyan, nalika Yoséf teka marang sedulur-seduluré, banjur padha nyopot ⟨את⟩ Yoséf ⟨את⟩ jubahé, ⟨את⟩ jubah palang-palang sing ana ing badané.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéyan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulur-seduluré"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "padha nyopot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoséf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoséf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahé"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "jubahé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah palang-palang"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "palang-palang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ana ing badané"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:02.601662095Z",
+  "model": "glm-5.3"
+}

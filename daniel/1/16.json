@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan sang juru pangrumat mau ngundhuraké ⟨את⟩ panganan endheke dheweke sarta ombene, lan maringi dheweke janganan wiji-wijian.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "sang juru pangrumat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ngundhuraké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panganan endheke dheweke"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "panganan endheke dheweke"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "sarta omben-omben"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ombene dheweke"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "lan maringi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "janganan wiji-wijian"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:19.207810829Z",
+  "model": "glm-5.3"
+}

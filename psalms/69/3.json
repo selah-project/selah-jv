@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Aku klesut ing sidem sing jero, lan ora ana papan ngadeganku; aku teka ing jerone banyu, lan banjir nglelepake aku.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Aku klesut"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "ing sidem"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "sing jero"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "papan ngadeganku"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aku teka"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "ing jerone"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "lan banjir"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "nglelepake aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:56.714398398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kanggo mangerteni pasemon lan tembung kias, pangandikane wong-wong wicara lan pitakon angeune.",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "kanggo mangerteni"
+    },
+    {
+      "surface": "משל",
+      "gloss": "pasemon"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "lan tembung kias"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wong-wong wicara"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "lan pitakon angeune"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:51.295387059Z",
+  "model": "glm-5.3"
+}

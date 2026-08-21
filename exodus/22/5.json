@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Menawa geni metu lan nemoni eri-eri, banjur kaeaten tumpukan gandum utawa sing ngadeg utawa sawah — sing njalari geni kudu mbayar-rugi ⟨את⟩ kobongan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "lan nemoni"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "eri-eri"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "lan kaeaten"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "tumpukan gandum"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "sing ngadeg"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "mbayar-rugi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mbayar-rugi"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "sing njalari geni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobongan"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "kobongan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:08.183137016Z",
+  "model": "glm-5.3"
+}

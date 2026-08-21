@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lalu Shaul ngandika marang Yonatan, putrane, lan marang kabeh abdi-abdine, supaya mateni ⟨את⟩ Dawid; nanging Yonatan, putrane Shaul, seneng banget marang Dawid.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdine"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "supaya mateni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "nanging Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "seneng"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:56.355601723Z",
+  "model": "glm-5.3"
+}

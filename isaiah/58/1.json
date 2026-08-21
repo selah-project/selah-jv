@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Undhanga nganggo tenggorokan, aja ditahan, kaya sangkala dhuwurake swaramu, lan wedharake marang umat-Ku pamberontakane, lan marang wong saking beja Yaakov dosane.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "undhanga"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "nganggo tenggorokan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ditahan"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "kaya sangkala"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "dhuwurake"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "swaramu"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "lan wedharake"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "marang umat-Ku"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pamberontakane"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "lan marang wong saking beja"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dosane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:47.852768584Z",
+  "model": "glm-5.3"
+}

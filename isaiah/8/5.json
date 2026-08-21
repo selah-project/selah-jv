@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur Yahweh nambah ngendika marang aku maneh, ngucap:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:50.192452135Z",
+  "model": "glm-5.3"
+}

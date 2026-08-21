@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Sesandhangana pedhang-mu ing pupu, satriya; kamulyan-mu lan kaagungan-mu.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "sesandhangana"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedhang-mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "pupu"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "satriya"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "kamulyan-mu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "lan kaagungan-mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:08.344699420Z",
+  "model": "glm-5.3"
+}

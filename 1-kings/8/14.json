@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sang nata mbalikake ⟨את⟩ praupane, lan mbenahi ⟨את⟩ saka wong akehe Israèl, lan saka wong akehe Israèl ngadeg.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "mbalikake"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praupane"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "praupane"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan mbenahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka wong akehe Israèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "wong akehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "wong akehe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:54.676721064Z",
+  "model": "glm-5.3"
+}

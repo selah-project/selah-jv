@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Dawid ngandika marang wong iku: Getihe ⟨is⟩ ing sirahmu dhewe, awit cangkemmu dhewe ndhemokake marang sira, ngucap: Aku kang mateni ⟨את⟩ Mashíaje Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang wong iku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "sirahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "cangkemmu"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ndhemokake"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "mateni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashíaje"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:02:15.643508066Z",
+  "model": "glm-5.3"
+}

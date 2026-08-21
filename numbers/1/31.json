@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 1:31",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sing kadhaftar saka kabeh, yaiku kanggo suku Zevulun, ⟨yaiku⟩ pitung puluh lima ewu lan patang atus.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "sing kadhaftar saka kabeh"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kanggo suku"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "lan puluh lima"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "lan patang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:17.863558493Z",
+  "model": "glm-5.3"
+}

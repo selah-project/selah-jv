@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Sebab lamun dhasar-dhasaré padha dirubuhake, wong jujur — apa sing ditindakake?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab lamun"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "dhasar-dhasaré"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "padha dirubuhake"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "sing ditindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:32.710878233Z",
+  "model": "glm-5.3"
+}

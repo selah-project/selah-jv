@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 21:3",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan padha ngucap: Ya dèkè apa, Yahweh, Elohim-Israel, kadadéan iki ing Israel, kanggo ilange dina iki saka Israel siji suku?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngucap"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ya dèkè apa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "-Israel"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing Israel"
+    },
+    {
+      "surface": "להפקד",
+      "gloss": "kanggo ilange"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "saka Israel"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:02.516662009Z",
+  "model": "glm-5.3"
+}

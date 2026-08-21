@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 9:17",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sebab kaluputan ngobong kaya geni: samiḥ lan eri padha dipangan, banjur geni iku nyala ing sesuketan ing wana, lan gumunung minangka gagahé kukus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ngobong"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kaya geni"
+    },
+    {
+      "surface": "רשעה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "samiḥ"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "lan eri"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "padha dipangan"
+    },
+    {
+      "surface": "ותצת",
+      "gloss": "banjur nyala"
+    },
+    {
+      "surface": "בסבכי",
+      "gloss": "ing sesuketan"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ing wana"
+    },
+    {
+      "surface": "ויתאבכו",
+      "gloss": "lan gumunung"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "minangka gagahé"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "kukus"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:23.500327267Z",
+  "model": "glm-5.3"
+}

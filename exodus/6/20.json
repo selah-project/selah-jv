@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Amram mundhut ⟨את⟩ Yokhebed, bibine dhewe, dadi garwane; lan lairake marang dheweke ⟨את⟩ Aharon lan ⟨את⟩ Moshe; lan taun-taune uripe Amram pitung puluh pitu lan satus taun.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lan mundhut"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhebed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokhebed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "bibine dhewe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi garwane"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lan lairake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "lan taun-taune"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uripe"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "lan telung puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "lan satus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:15.164762226Z",
+  "model": "glm-5.3"
+}

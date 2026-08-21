@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Kowé remen kadilan lan sengit kaluputan; mulané Elohim, Elohimmu, ngurapi kowé lenga bungah luwih tinimbang kanca-kancamu.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "remen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kadilan"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "lan sengit"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "על",
+      "gloss": "margi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mulané"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "ngurapi kowé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "kanca-kancamu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:23.191370481Z",
+  "model": "glm-5.3"
+}

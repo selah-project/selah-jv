@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Marang Aku dhèwèké padha ngluhur: \"Elohai, aku Israèl ngerteni Paduka!\"",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Marang Aku"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "padha ngluhur"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohai"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "ngerteni Paduka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:51.308935053Z",
+  "model": "glm-5.3"
+}

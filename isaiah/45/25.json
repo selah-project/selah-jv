@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Ing Yahweh kabèh wiji Israél bakal diprnai bener lan bakal mamèr.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Ing Yahweh"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "bakal diprnai bener"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "lan bakal mamèr"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "wiji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-21T00:43:10.491383598Z",
+  "model": "glm-5.3"
+}

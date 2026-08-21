@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan padha ngerasèkaké ⟨את⟩ sakabèhing wates wong Émori, saka Arnon nganti Yabok, lan saka ara-ara nganti Yarden.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "lan padha ngerasèkaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhing wates wong Émori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhing"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Émori"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "saka Arnon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:33.354767562Z",
+  "model": "glm-5.3"
+}

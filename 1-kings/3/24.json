@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan sang nata ngendika: Cekela pedhang marang kula. Banjur padha nggawa pedhang iku marang ngarsane sang nata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "cekela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang kula"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "padha nggawa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedhang iku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "marang ngarsane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    }
+  ],
+  "timestamp": "2026-08-21T04:03:56.346699425Z",
+  "model": "glm-5.3"
+}

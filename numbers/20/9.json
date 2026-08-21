@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur Moshe njupuk ⟨את⟩ tongkat iku saka ngarsane Yahweh, kaya dene prentahe marang dheweke.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat iku"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tongkat iku"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "prentahe marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:22.552351588Z",
+  "model": "glm-5.3"
+}

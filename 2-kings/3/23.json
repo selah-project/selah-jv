@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan padha ngendika: Getih iki! Sigeg-sigeg para ratu padha ditumpes, lan padha ngayahi siji lan sijiné; saiki mulaa, Moab, marang pasaéyan!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngendika"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sigeg-sigeg ditinggalaké (binasa)"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "padha ditumpes"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lan padha ngayahi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sijiné"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca\/sijiné"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "saiki mulaa"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "marang pasaéyan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:18.884411331Z",
+  "model": "glm-5.3"
+}

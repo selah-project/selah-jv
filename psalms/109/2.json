@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Sebab cangkemé wong ala lan cangkemé tipu padha kabukak marang aku; padha ngomong ⟨את⟩ aku nganggo ilat goroh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemé"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "lan cangkemé"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tipu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "padha kabukak"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "padha ngomong"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:11.838465271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Nanging Kowé, Adonai, ⟨yaiku⟩ El sang sayang lan peparing, alon nesu, lan kaluwihane kasih-setia lan kaluhuran.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Nanging Kowé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "sang sayang"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "lan peparing"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "alon"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "lan kaluwihane"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasih-setia"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "lan kaluhuran"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:17.939195468Z",
+  "model": "glm-5.3"
+}

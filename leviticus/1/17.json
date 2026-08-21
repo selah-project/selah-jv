@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan iku dip lancang ing swiwiné, ora katela, lan imam nglukut ⟨את⟩ iku ing pasiregan dhuwur ing kayu kang ana ing dhuwur geni; kurban bakaran iku, peperené geni, ambuné marakake katentreman kanggo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "lancang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (manuk)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "ing swiwiné"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "katela"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "lan nglukut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (manuk)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ing pasiregan dhuwur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "האש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "peperené geni"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ambu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "marakake katentreman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:42.180344679Z",
+  "model": "glm-5.3"
+}

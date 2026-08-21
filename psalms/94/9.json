@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Sing nandhur kuping, apa ⟨dheweke⟩ ora krungu? Sing mbentuk mripat, apa ⟨dheweke⟩ ora ndeleng?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Sing nandhur"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "Sing mbentuk"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mripat"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ndeleng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:42.366815690Z",
+  "model": "glm-5.3"
+}

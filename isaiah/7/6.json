@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Ayo munggah marang Yehuda lan nuyuk, lan ndadèkaké bolongan kanggo aku, banjur nganjuk ratu ing tengah-tengahé, ⟨את⟩ anaké Tabael.",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "ayo munggah"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "marang Yehuda"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "lan nuyuk"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "lan ndadèkaké bolongan"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "banjur nganjuk ratu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ing tengah-tengahé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaké Tabael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tabael"
+    }
+  ],
+  "timestamp": "2026-08-21T04:07:54.412316794Z",
+  "model": "glm-5.3"
+}

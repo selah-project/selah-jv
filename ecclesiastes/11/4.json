@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Sapa sing anggamélangi angin ora bakal nandur, lan sapa sing anggamélangi mendhung ora bakal ngontheni.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Sapa sing anggamélangi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "bakal nandur"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "lan sapa sing anggamélangi"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "mendung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "bakal ngontheni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:30.442833978Z",
+  "model": "glm-5.3"
+}

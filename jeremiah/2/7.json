@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur Aku ngajak ⟨את⟩ kowe teka ing bumi Karmel, supaya padha madhang wohané lan kaluhurané; nanging bareng kowe padha teka, padha ngeneki najis ⟨את⟩ bumi-Ku, lan ana pusaka-Ku kok didadèkake samu sing angegirisi.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "Banjur Aku ngajak teka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe (objek sing ditandhani)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "supaya padha madhang"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "wohané"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "lan kaluhurané"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "bareng kowe padha teka"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "padha ngeneki najis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi-Ku"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "bumi-Ku"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "lan ana pusaka-Ku"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "kok didadèkake"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "samu sing angegirisi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:25.866625089Z",
+  "model": "glm-5.3"
+}

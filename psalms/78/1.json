@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Pituwase marang Asaf. Padha ngluntirake kuping, umatku, marang toratku; padha mirsani kupingmu marang tembung-tembunge cangkemku.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "piwuas\/pitutur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "marang Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "padha ngluntirake kuping"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "toratku"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "padha mirsani"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "kupingmu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "marang tembung-tembunge"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:57.956122095Z",
+  "model": "glm-5.3"
+}

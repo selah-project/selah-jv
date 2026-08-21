@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Yahweh, ing katrésnan-Mu Kowé madhegake gunungku dadi kabetyan; Kowé ndhelikake praupan-Mu — aku dadi keplingset.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ing katrésnan-Mu"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "Kowé madhegake"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "gunungku"
+    },
+    {
+      "surface": "עז",
+      "gloss": "dadi kabetyan"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "Kowé ndhelikake"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praupan-Mu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku dadi"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "keplingset"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:38.424096503Z",
+  "model": "glm-5.3"
+}

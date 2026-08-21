@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "⟨את⟩ Papat gerobak loro lan ⟨את⟩ sapi sapi papat diparingake marang anak-anaké Gersyon, miturut pangabdiné.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papat gerobak loro"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "loro"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "gerobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sapi papat"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "papat"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diparingake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang anak-anaké"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersyon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "pangabdiné"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:48.268399308Z",
+  "model": "glm-5.3"
+}

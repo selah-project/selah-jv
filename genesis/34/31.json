@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan awake padha matur: Apa becik nganggep ⟨את⟩ kangmas putri kita minangka sundhal?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan awake padha matur"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "sundhal (kaya sundhal)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nganggep nglakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kangmas putri kita"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "kangmas putri kita"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:29.528918779Z",
+  "model": "glm-5.3"
+}

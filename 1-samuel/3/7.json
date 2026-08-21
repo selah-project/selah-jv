@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Dene Shemuel durung ngerti ⟨את⟩ Yahweh, lan durung kaudhara marang dheweke sabda Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "dene Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "durung"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "lan durung"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "kaudhara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:07.489366127Z",
+  "model": "glm-5.3"
+}

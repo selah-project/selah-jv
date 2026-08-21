@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Arnan mbalik awaké sarta ndeleng ⟨את⟩ ⟨the⟩ utusan, lan ⟨the⟩ papat putrané sing ana kalawané padha ndhelik; lan Arnan nuwunaken gandum.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Lan mbalik awaké"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "sarta ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ utusan"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "⟨the⟩ utusan"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "lan ⟨the⟩ papat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kalawané"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "padha ndhelik"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "lan Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "nuwunaken"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    }
+  ],
+  "timestamp": "2026-08-21T03:26:02.313452891Z",
+  "model": "glm-5.3"
+}

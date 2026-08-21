@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan imam iku ndedonga ⟨את⟩ cacara, lan ngunci ⟨את⟩ cacara punika suwéné pitu dina.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "lan ndedonga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cacara"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cacara"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "lan ngunci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cacara"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "cacara"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:46.771088716Z",
+  "model": "glm-5.3"
+}

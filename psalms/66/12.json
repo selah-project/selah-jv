@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Kowé nggawaké manungsa nganggo ing dhuwur sirah kita; kita mlebu ing geni lan ing banyu, nanging Kowé ngetokna kita menyang kaluwihan.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Kowé nggawaké ... nganggo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "ing dhuwur sirah kita"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "kita mlebu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "lan ing banyu"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "nanging Kowé ngetokna kita"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "menyang kaluwihan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:43.207418273Z",
+  "model": "glm-5.3"
+}

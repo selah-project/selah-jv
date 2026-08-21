@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Aku bakal nindakake kelawan nesu lan kelawan murka pituwas ⟨את⟩ wong-wong bangsa sing ora anjuruk.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "lan Aku bakal nindakake"
+    },
+    {
+      "surface": "באף",
+      "gloss": "kelawan nesu"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "lan kelawan murka"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pituwas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wong-wong bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "anjuruk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:30:41.615302131Z",
+  "model": "glm-5.3"
+}

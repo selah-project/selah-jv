@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ⟨dheweke⟩ ngendika: Endi dalan ⟨kang⟩ bakal daklinggahi? Lan ⟨dheweke⟩ ngendika: Dalan ara-ara Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Endi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "bakal daklinggahi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Dalan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:01.784611845Z",
+  "model": "glm-5.3"
+}

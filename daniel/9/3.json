@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Banjur aku ngadhepake ⟨את⟩ rainé marang Adonai, sang Elohim, kanggo njaluk donga lan pangemunah, mawa pasa, sak, lan awu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "banjur aku ngadhepake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rainé"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rainé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sang Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kanggo njaluk"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "donga"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "lan pangemunah"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "mawa pasa"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "lan sak"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "lan awu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:59:25.857246204Z",
+  "model": "glm-5.3"
+}

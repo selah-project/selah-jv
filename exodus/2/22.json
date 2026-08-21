@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lair ⟨את⟩ putra lanang, lan diarani ⟨את⟩ jenenge Gersyom, awit munjuk: tamu kula dadi ing bumi asing.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "lair"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra lanang"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lan diarani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenenge"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersyom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "גר",
+      "gloss": "tamu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kula dadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "asing"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:58.860912286Z",
+  "model": "glm-5.3"
+}

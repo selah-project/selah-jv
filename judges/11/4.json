@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lang kedadèn sawise dinten-dinten, para putra Amon perang nglawan Israyel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lang kedadèn"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "sawise dinten-dinten"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "padha perang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:42.705324446Z",
+  "model": "glm-5.3"
+}

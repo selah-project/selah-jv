@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan wadyabalané, lan kang padha dinomat saka wonge telung atus limang puluh èwu lan patang atus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "lan wadyabalané"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "lan kang padha dinomat"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "lan limang puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "èwu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "lan patang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:53.007964947Z",
+  "model": "glm-5.3"
+}

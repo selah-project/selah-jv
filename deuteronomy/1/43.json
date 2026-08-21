@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan aku ngandika marang sira, nanging sira ora ngrungokake, lan sira nglirwakake ⟨את⟩ pocaping Yahweh, lan sira rumangsa pinter banget, lan munggah menyang redi.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "lan aku ngandika"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "sira ngrungokake"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "lan sira nglirwakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pocaping Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pocaping"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "rumangsa pinter banget"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "menyang redi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:03.799481285Z",
+  "model": "glm-5.3"
+}

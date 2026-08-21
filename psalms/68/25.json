@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Padha ndeleng iring-iringan-Mu, ya Elohim, iring-iringaning El-ku, ratu-ku, ing ⟨panggonan suci⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "iring-iringan-Mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "iring-iringaning"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ratu-ku"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ing panggonan suci"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:42.883875274Z",
+  "model": "glm-5.3"
+}

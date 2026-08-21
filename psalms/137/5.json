@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Yen aku lalèkaké Kowé, hai Yerushalayim, tangen tengen kawula iki lali.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "lalèkaké Kowé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lali"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "tangen tengen kawula"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:52.708441639Z",
+  "model": "glm-5.3"
+}

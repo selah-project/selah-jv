@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan ia ngayun marang ⟨sang⟩ malakat lan menang, tangis lan nyuwun bebendu marang-é; ing Beit-El nemu-é, lan ing kana ngendika karo kita.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ngayun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malakat"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "lan menang"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "tangis"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "lan nyuwun bebendu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang-é"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "nemu-é"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lan ing kana"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "karo kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:30.096411722Z",
+  "model": "glm-5.3"
+}

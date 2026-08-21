@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Lan si-kasih-setiané Yahweh saka salawas-lawase nganti salawas-lawase marang wong-wong sing wedi marang Panjenengané, lan kaluhuran-kaadilé marang putune putrane.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "lan si-kasih-setiané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "saka salawas-lawase"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wong-wong sing wedi marang Panjenengané"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "lan kaluhuran-kaadilé"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang putune"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putrane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:08.722095025Z",
+  "model": "glm-5.3"
+}

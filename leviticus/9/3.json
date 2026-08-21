@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 9:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan marang para putra Israil kowé kudu ngendika, mangkene: Padha njupukana wedhus jaler kango minangka kurban dosa, lan pedhet lan anak wedhus umur setaun, tanpa cacat, minangka kurban bakar.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kowé kudu ngendika"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "padha njupukana"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "wedhus jaler kango"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kango"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "minangka kurban dosa"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "lan pedhet"
+    },
+    {
+      "surface": "וכבש",
+      "gloss": "lan anak wedhus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umur"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "setaun"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "tanpa cacat"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "minangka kurban bakar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:42.728801458Z",
+  "model": "glm-5.3"
+}

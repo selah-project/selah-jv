@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Sebab aku wis weruh yen Yahweh iku agung, lan Adonai kita luwih dhuwur tinimbang sakabehing elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wis weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "lan Adonai kita"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "luwih dhuwur tinimbang sakabehing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:35.342625802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Wong mati ora bakal urip maneh, para Refa'im ora bakal tangi; mulané sira wus ndhawuhi lan numpes dhèwèké, lan numpes kabèh énggal-énggalané dhèwèké.",
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "wong mati"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bakal urip maneh"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "para Refa'im"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "bakal tangi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "mulané"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "sira wus ndhawuhi"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "lan numpes dhèwèké"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "lan numpes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "énggal-énggalan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:29.746402380Z",
+  "model": "glm-5.3"
+}

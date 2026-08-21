@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim nitahake ⟨את⟩ manusa miturut citra-Né; miturut citra Elohim Paduka nitahake ⟨את⟩ dhèwèké; lanang lan wadon Paduka nitahake ⟨את⟩ kabeh.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Lan nitahake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manusa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "miturut citra-Né"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "miturut citra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "Paduka nitahake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "lan wadon"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "Paduka nitahake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:37.722760184Z",
+  "model": "glm-5.3"
+}

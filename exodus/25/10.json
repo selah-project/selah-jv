@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan padha nggawé peti saka kayu shittim: dawané rong asta lan setengah, ambané saka asta lan setengah, dhuwuré saka asta lan setengah.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Lan padha nggawé"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "rong asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "lan setengah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dawané"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "saka asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "lan setengah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ambané"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "saka asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "lan setengah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dhuwuré"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:53.671878614Z",
+  "model": "glm-5.3"
+}

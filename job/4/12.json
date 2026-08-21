@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan marang aku ana sabda sing diselundupake, lan kupinge nyekel sithiking bisike iku.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "lan marang aku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "diselundupake"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "lan nyekel"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "kupinge"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "sithiking bisik"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "saka iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:16.378475704Z",
+  "model": "glm-5.3"
+}

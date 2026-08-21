@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Moab panci pangumbahku; marang Edom dakuncalake sandhaliku; Pelesyet, padha sorak-sorak marga aku.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "panci"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pangumbahku"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "dakuncalake"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandhaliku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marga aku"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "padha sorak-sorak"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:20.145488120Z",
+  "model": "glm-5.3"
+}

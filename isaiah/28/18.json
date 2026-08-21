@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan prajanjianmu karo ⟨את⟩ mati bakal dibubaraké, lan pangilonmu karo ⟨את⟩ Sheol ora bakal tumenga; camuk banjir, saben lumaku, kowe bakal dadi injèkané.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "lan bakal dibubaraké"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "prajanjianmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mati"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "lan pangilonmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "tumenga"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "camuk"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "banjir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saben"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "lan kowe bakal dadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "injèkané iku"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "dadi injèkan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:15.790661827Z",
+  "model": "glm-5.3"
+}

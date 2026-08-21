@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan kowe nulisake ing cagak lawang omahmu lan ing gapuramu.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "kowe nulisake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "cagak lawang"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "omahmu"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "lan ing gapuramu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:34.621026401Z",
+  "model": "glm-5.3"
+}

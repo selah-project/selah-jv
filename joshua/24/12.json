@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Aku ngutus sadurungira ⟨את⟩ tawon landhung, lan iku ngusir ⟨את⟩ dheweke saka ngarsanira — raja loro wong Amori — dudu mawa pedhangira lan dudu mawa panahira.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Aku ngutus"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sadurungira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawon landhung"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tawon landhung"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "lan iku ngusir"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "saka ngarsanira"
+    },
+    {
+      "surface": "שני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Amori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "mawa pedhangira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan dudu"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "mawa panahira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:30.758231025Z",
+  "model": "glm-5.3"
+}

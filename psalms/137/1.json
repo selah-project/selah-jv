@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Ing pinggir kali-kali Babel, ing kono aku padha lungguh, ya, aku padha nangis, nalaka aku padha eling marang ⟨את⟩ Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ing pinggir"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "aku padha lungguh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "aku padha nangis"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "nalika aku padha eling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:22.354284935Z",
+  "model": "glm-5.3"
+}

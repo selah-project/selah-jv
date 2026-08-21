@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Wong-wong padha nglumpuk nglawan nyawa sang wong tulus, lan getihing sing tanpa salah padha didakwa.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "padha nglumpuk nglawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong tulus"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "lan getihing"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "tanpa salah"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "padha didakwa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:15.829185181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Bilai kena dheweke kalawan medeni — ⟨dheweke⟩ ora ngerti; lan jaringé sing didhelikake iku nyekel ⟨dheweke⟩; ing bilai iku dheweke tiba ing jerone.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "kena dheweke"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "bilai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "lan jaringé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "dewekake ngendhani"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "nyekel dheweke"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "ing bilai"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "dheweke tiba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing jerone"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:21.577307938Z",
+  "model": "glm-5.3"
+}

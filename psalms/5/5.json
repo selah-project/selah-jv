@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Awit dudu El sing seneng ing kaluputan kowe, ora bakal nginep ana ing sandhingmu kaluputan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "seneng"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "nginep ana ing sandhingmu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kaluputan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:48.210396656Z",
+  "model": "glm-5.3"
+}

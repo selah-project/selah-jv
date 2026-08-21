@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur Chizkiyahu mbalikake ⟨את⟩ praupane marang ⟨the⟩ tembok, lan ndedonga marang Yahweh, ngucap:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "banjur mbalikake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praupane"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "praupane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "lan ndedonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-21T00:30:23.113070617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Ndemeni kaleresan lan pangadilan; bumi kebak kasetyaning Yahweh.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ndemeni"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kaleresan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "lan pangadilan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:05.732018065Z",
+  "model": "glm-5.3"
+}

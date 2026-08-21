@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 19:35",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Dheweke nglombokake ⟨את⟩ bapakne uga anggur ing wengi iku, lan sing enom tangi lan saré karo dheweke, lan ora weruh nalikane dheweke saré lan nalikane tangi.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "dheweke nglombokake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakne"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "lan tangi"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "sing enom"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "lan saré"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "karo dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "nalikane dheweke saré"
+    },
+    {
+      "surface": "ובקמה",
+      "gloss": "lan nalikane tangi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:38.562816957Z",
+  "model": "glm-5.3"
+}

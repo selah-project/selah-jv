@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur ana wong siji ndeleng lan nuturake marang Yoab, lan ngendika: Lah, aku ndeleng ⟨את⟩ Avshalom nglenggana ing wit elah.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "banjur ndeleng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "lan nuturake"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "marang Yoab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "nglenggana"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "ing wit elah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:11:11.479249705Z",
+  "model": "glm-5.3"
+}

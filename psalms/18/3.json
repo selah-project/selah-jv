@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Yahweh ⟨iku⟩ watu karangku, lan bètèngku, lan juru-slametku; Elku, watuku, ing Panjenengane aku ndhedhes ⟨dheweke⟩; tamengku, lan sunguning kaslametanku, panggonan dhuwurku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "watu karangku"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "lan bètèngku"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "lan juru-slametku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elku"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "watuku"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "aku ndhedhes"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing Panjenengane"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "tamengku"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "lan sunguning"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "kaslametanku"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "panggonan dhuwurku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:26.223864449Z",
+  "model": "glm-5.3"
+}

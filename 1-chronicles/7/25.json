@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Refah iku putrane, uga Reshef, lan Telah putrane, lan Tahan putrane.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "Lan Refah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "uga Reshef"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "lan Telah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "lan Tahan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:32.844768502Z",
+  "model": "glm-5.3"
+}

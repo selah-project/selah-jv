@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Padha dicurake ing asta pedhang, dadi bageyane asu srigala.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "padha dicurake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "asta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bageyane"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "asu srigala"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dadi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:46.562561170Z",
+  "model": "glm-5.3"
+}

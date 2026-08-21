@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Uga amarga getih sing ora cidra sing dicurahake, nganti Yerushalayim kebak getih ⟨wong⟩ ora cidra; lan Yahweh ora gelem ngapura.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "sing ora cidra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "dicurahake"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "nganti kebak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ora cidra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "gelem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "ngapura"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:03.008917145Z",
+  "model": "glm-5.3"
+}

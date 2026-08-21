@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lagi dianjrakaké metu bangsané kaya dene kéwan wedhus, lan digiring wong-wongé kaya kawanan ing ara-ara samun.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "dianjrakaké metu"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "kaya dene kéwan wedhus"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bangsané"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "digiring wong-wongé"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "kaya kawanan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara samun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:23.073153559Z",
+  "model": "glm-5.3"
+}

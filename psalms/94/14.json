@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Sebab Yahweh ora bakal nglirwakake umate, lan pusakane ora bakal dilirwakake",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "bakal nglirwakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "lan pusakane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "bakal dilirwakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:58.279978061Z",
+  "model": "glm-5.3"
+}

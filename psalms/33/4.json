@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Sebab ⟨iku⟩ leres tembungé Yahweh, lan sakabehing pakaryane ⟨dianakake⟩ ing setya-tulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "leres"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "pakaryane"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ing setya-tulu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:22.254535493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "sing dilakkoni ⟨את⟩ Avraham, lan sumpahe marang Yitshak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dilakkoni (ngetok prajanjian)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "lan sumpahe"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "marang Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:50.963270095Z",
+  "model": "glm-5.3"
+}

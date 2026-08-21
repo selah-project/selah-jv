@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Lan Paroh ngendika: Munggaha, lan kuburana ⟨את⟩ bapakmu, kaya sing dheweke dak-swapani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "munggaha"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "lan kuburana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakmu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "dheweke dak-swapani"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:09.727535761Z",
+  "model": "glm-5.3"
+}

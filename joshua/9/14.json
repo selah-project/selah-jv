@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Para wong lanang iku njupuk saka bahan panganané, nanging cangkeme ⟨את⟩ Yahweh ora kok takon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lan padha njupuk"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para wong lanang iku"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "saka bahan panganané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cangkeme"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "kok takon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:35.986981089Z",
+  "model": "glm-5.3"
+}

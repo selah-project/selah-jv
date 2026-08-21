@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan padha ngucap-ucup ing jero khemahé, ora padha ngrungokake swarane Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "lan padha ngucup-ucup"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "ing jero khemahé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:24.303986632Z",
+  "model": "glm-5.3"
+}

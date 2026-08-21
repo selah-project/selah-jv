@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan iki jeneng-jeneng para wong sing bakal ngadeg ⟨את⟩ bebarengan karo kowe: kanggo Reuven, Elitsur putrane Shedeur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Lan iki"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jeneng-jeneng"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bebarengan karo kowe"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "kanggo Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeur"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:35.608558755Z",
+  "model": "glm-5.3"
+}

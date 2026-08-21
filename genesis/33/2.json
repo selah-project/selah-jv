@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Banjur disedhiyakake ⟨את⟩ abdi wadone lan ⟨את⟩ anak-anake kang ndhisiki, lan ⟨את⟩ Lea lan anak-anake kang mburi, lan ⟨את⟩ Rakhel lan ⟨את⟩ Yosef kang mburi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "banjur disedhiyakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi wadone"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "abdi wadone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anak-anake"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "kang ndhisiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "kang mburi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Rakhel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakhel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "kang mburi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:27.771918083Z",
+  "model": "glm-5.3"
+}

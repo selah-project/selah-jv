@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan bakal mangkéné: nalikané dhèwèké barbengi, kowé sumurupa ⟨את⟩ papan panggonan endi dhèwèké barbengi, banjur kowé lumebu lan mbukak sarèngé ing sikile, lan kowé turon ing kono; lan dhèwèké bakal mulang marang kowé ⟨את⟩ sabarang sing kowé bakal pancakes.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan bakal mangkéné"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "nalikané dhèwèké barbengi"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "kowé sumurupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan panggonan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "papan panggonan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endi"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "dhèwèké barbengi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "banjur kowé lumebu"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "lan mbukak"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "sarèngé ing sikile"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "lan kowé turon"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan dhèwèké"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bakal mulang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabarang sing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "kowé bakal pancakes"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:33.255220271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Aku senengi saka pasamuwan wong-wong ala, lan karo wong-wong duraka aku ora bakal lungguh.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "senengi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan karo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong duraka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "lungguh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:35.903191842Z",
+  "model": "glm-5.3"
+}

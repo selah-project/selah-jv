@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Mordecai wartaake marang dheweke ⟨את⟩ kabeh sing wis kelakon marang awake, lan ⟨את⟩ kasarane wulu emas sing dikandhakake Haman bakal ditimbangake marang kas-kasane sang ratu tumrap wong-wong Yahudi, kanggo numpes dheweke.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "lan wartaake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "wis kelakon marang awake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kasarane wulu emas"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "kasarane"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "wulu emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dikandhakake"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "bakal ditimbangake"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "kas-kasa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "tumrap wong-wong Yahudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "kanggo numpes dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T04:23:07.986482590Z",
+  "model": "glm-5.3"
+}

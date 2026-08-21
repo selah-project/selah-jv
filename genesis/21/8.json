@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan bocah iku tambah dedeg, lan disapih; lan Avraham nindakake paheman agung ing dinane disapihe ⟨את⟩ Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Lan tambah dedeg"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah iku"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "lan disapih"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "paheman"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "disapihe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:40.634061875Z",
+  "model": "glm-5.3"
+}

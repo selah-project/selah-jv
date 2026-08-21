@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Nyawané kita ngenteni Yahweh; panulung kita lan tameng kita ⟨iku⟩ Panjenengane.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "nyawané kita"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ngenteni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "panulung kita"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "lan tameng kita"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:56.869574711Z",
+  "model": "glm-5.3"
+}

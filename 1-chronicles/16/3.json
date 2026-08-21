@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan iku mbagake marang saben wong Yisra'el, saka wong lanang nganti wong wadon, marang saben wong: siji roti bunder, lan pithuk kurungan anggur, lan goring kismis.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "lan mbagake"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang saben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "saka wong lanang"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wong wadon"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "marang saben wong"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "roti bunder"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "pithuk kurungan anggur"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "goring kismis"
+    }
+  ],
+  "timestamp": "2026-08-21T03:23:29.050182769Z",
+  "model": "glm-5.3"
+}

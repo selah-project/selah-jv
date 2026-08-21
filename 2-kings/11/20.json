@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur kabeh bangsa nagara bungah, lan kutha iku tenteram; lan ⟨את⟩ Atalya dipateni pedhang ing bale ratu.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "banjur bungah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "lan kutha iku"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "tenteram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "dipateni"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:16.476932414Z",
+  "model": "glm-5.3"
+}

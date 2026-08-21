@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 9:17",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sebab pategesé kabecikané, lan pategesé endahé! Gandum bakal makmuraké para pemuda, lan anggur anyar para prawan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "pategesé"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "kabecikané"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan pategesé"
+    },
+    {
+      "surface": "יפיו",
+      "gloss": "endahé"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "para pemuda"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "lan anggur anyar"
+    },
+    {
+      "surface": "ינובב",
+      "gloss": "makmuraké"
+    },
+    {
+      "surface": "בתלות",
+      "gloss": "para prawan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:38:15.546474344Z",
+  "model": "glm-5.3"
+}

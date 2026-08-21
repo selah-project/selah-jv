@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Aku bakal ngandika marang ⟨the⟩ lor: Sumangga padha eca! lan marang ⟨the⟩ kidul: Aja nyandhet! Padha ngokna anak lanang-Ku saka adoh, lan anak wadon-Ku saka pucuking bumi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "marang lor"
+    },
+    {
+      "surface": "תני",
+      "gloss": "eca (sumangga)"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "lan marang kidul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "nyandhet"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "ngokna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak lanang-Ku"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "saka adoh"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "lan anak wadon-Ku"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "saka pucuking"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:50.268816975Z",
+  "model": "glm-5.3"
+}

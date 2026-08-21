@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Tekalah karaharjan, padha istirahat ing dhasarané, siji-sijiné sing lumaku ing kalurahané.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "tekalah"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karaharjan"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "padha istirahat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "dhasarané"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "ing kalurahané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:03.725937203Z",
+  "model": "glm-5.3"
+}

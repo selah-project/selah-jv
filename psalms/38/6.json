@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Tatu-tatuku bosok lan malai, amarga karéndahkanéku.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "bosok"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "malai"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "tatu-tatuku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "karéndahkanéku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:38.239885763Z",
+  "model": "glm-5.3"
+}

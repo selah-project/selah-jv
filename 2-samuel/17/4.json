@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan pangandikan iku cocog ing paningal Absalom lan ing paningal kabeh para sesepuh Israèl.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "lan cocog"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pangandikan iku"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningal"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "lan ing paningal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    }
+  ],
+  "timestamp": "2026-08-21T00:10:43.346059064Z",
+  "model": "glm-5.3"
+}

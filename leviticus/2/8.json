@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan kok bakal nggawa ⟨את⟩ minchah sing digawé saka iki-kabeh, marang Yahweh; lan kok bakal ngedhekake ihi marang imam, lan ihi bakal diaturake marang misbèach.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "lan kok bakal nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchah iku"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah (persembahan) iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "digawé"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "saka iki-kabeh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "lan kok bakal ngedhekake ihi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam iku"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "lan ihi bakal diaturake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "misbèach (mesbé) iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:10.434800690Z",
+  "model": "glm-5.3"
+}

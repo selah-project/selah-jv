@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan nyawaku bungah ing Yahweh, sumedher ing pitulung-É.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "lan nyawaku"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "sumedher"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "ing pitulung-É"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:04.411382721Z",
+  "model": "glm-5.3"
+}

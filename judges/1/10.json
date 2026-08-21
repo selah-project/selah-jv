@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Yehuda maju marang wong Kanaan kang manggon ing Khevron — lan jeneng Khevron biyen Kiryat-Arba — lan banjur padha nglumprukake ⟨את⟩ Syesay lan ⟨את⟩ Akhiman lan ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "banjur maju"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "kang manggon"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ing Khevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lan jeneng"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "biyen"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lan padua nglumprukake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syesay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Syesay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:35.283929071Z",
+  "model": "glm-5.3"
+}

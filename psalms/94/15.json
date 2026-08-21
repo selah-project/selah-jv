@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Sebab ukum bakal bali marang kaadilan, lan sawise iku kabeh wong kang atine jujur",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaadilan"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bakal bali"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukum"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "lan sawise iku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wong kang jujur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:58.280110740Z",
+  "model": "glm-5.3"
+}

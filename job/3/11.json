@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kena ta ora aku mati saka guwa garba, nglairake metu saka weteng lan apa ta mati?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kena ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "saka guwa garba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aku mati"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "saka weteng"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "aku metu"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "nglairake mati"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:06.235374004Z",
+  "model": "glm-5.3"
+}

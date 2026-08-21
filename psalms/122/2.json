@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 122,
+  "translation": "Sikile kita padha ngadeg ing gapura-gapurane, hei Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "היו",
+      "gloss": "padha ⟨wis⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Sikile kita"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ing gapura-gapurane"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:55.846859079Z",
+  "model": "glm-5.3"
+}

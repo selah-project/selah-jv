@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "⟨את⟩ sang dawa sing dak-atur ⟨את⟩ kowe nalika kowe metu saka Mitsrayim, lan Roh-Ku jejeg ing tengahmu: aja wedi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang dawa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sang dawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "dak-atur (nempuh prajanjian)"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "nalika kowe metu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "lan Roh-Ku"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "jejeg (ngadeg)"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ing tengahmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "wedi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:40.941778034Z",
+  "model": "glm-5.3"
+}

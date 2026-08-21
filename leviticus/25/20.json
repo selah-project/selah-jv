@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan manawa sira padha ngucap: Pripun kula badhe nedhi ing taun kaping pitu? Awit sampun kula tandur, lan sampun kula undhuh ⟨את⟩ asilipun.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Lan manawa"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sira padha ngucap"
+    },
+    {
+      "surface": "מה",
+      "gloss": "pripun"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "badhe nedhi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "kaping pitu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "awit sampun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "tandur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "undhuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asilipun"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "asilipun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:05.766820009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan kagungané ing warisané: Be'er-Sheva, Sheva, lan Moladhah,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kagungané"
+    },
+    {
+      "surface": "להם",
+      "gloss": "(kagungané-ké)"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "ing warisané"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "lan Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "lan Moladhah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:01.920570901Z",
+  "model": "glm-5.3"
+}

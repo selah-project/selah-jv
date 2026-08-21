@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Dheweke ngundhang Aku, lan Aku ngladeni dheweke; Aku ⟨aku⟩ bareng karo dheweke ing sambekala; Aku nulungi dheweke lan Aku mulyakake dheweke.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "dheweke ngundhang Aku"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "lan Aku ngladeni dheweke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng karo dheweke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ing sambekala"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Aku nulungi dheweke"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "lan Aku mulyakake dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:51.105605715Z",
+  "model": "glm-5.3"
+}

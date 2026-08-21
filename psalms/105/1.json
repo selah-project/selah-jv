@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Sukurana marang Yahweh; kandhana asmane; gawena kawruh marang para bangsa bab tumindak-tumindake.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Sukurana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kandhana"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "gawena kawruh"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "marang para bangsa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "tumindak-tumindake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:15.654141705Z",
+  "model": "glm-5.3"
+}

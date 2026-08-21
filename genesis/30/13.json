@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lêa banjur ngandika: Ing bungahku, awit para putri ndadekake aku bungah; banjur ia jenengake ⟨את⟩ asmane Asher.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lêa"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "ing bungahku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "ndadekake aku bungah"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "para putri"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "banjur ia jenengake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmane"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:11.166270133Z",
+  "model": "glm-5.3"
+}

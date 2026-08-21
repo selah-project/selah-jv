@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan Oholibama nglairake ⟨את⟩ Yeish, lan ⟨את⟩ Yalam, lan ⟨את⟩ Korah; iki para putrane Esav, sing dilairake kanggo awake ing bumi Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "lan Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "dilairake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo awake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:01.494652705Z",
+  "model": "glm-5.3"
+}

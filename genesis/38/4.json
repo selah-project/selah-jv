@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lahira ngandhut maneh lan nglairake anak lanang, lan panjenengane njenengi ⟨את⟩ asmane Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ngandhut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "njenengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmane"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:43.397246806Z",
+  "model": "glm-5.3"
+}

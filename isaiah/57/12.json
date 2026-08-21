@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Aku bakal andhapuk kabeneranira, lan ⟨את⟩ panggaweanira, lan ora bakal migunani ing sira.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "bakal andhapuk"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kabeneranira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panggaweanira"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "panggaweanira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "bakal migunani ing sira"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:00.173017578Z",
+  "model": "glm-5.3"
+}

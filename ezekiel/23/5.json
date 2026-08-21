@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 23:5",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Aholah tindak jina senadyan isih kagunganku, lan klemu-klemu syahwat marang wong-wong sing diladini, yaiku marang Ashur wong-wong sing cedhak.",
+  "tokens": [
+    {
+      "surface": "ותזן",
+      "gloss": "tindak jina"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Aholah"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "senadyan isih kagunganku"
+    },
+    {
+      "surface": "ותעגב",
+      "gloss": "klemu-klemu syahwat"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "wong-wong sing diladini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "wong-wong sing cedhak"
+    }
+  ],
+  "timestamp": "2026-08-21T01:15:18.075158139Z",
+  "model": "glm-5.3"
+}

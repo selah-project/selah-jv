@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dheweke sembelih ⟨את⟩ ⟨the⟩ manuk ⟨the⟩ siji, mara ing pireng lempung, ing dhuwur banyu urip.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "lan sembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mara ing"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "pireng"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "lempung"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:23.966460146Z",
+  "model": "glm-5.3"
+}

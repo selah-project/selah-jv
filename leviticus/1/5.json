@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan dhekna ing ngarepe Yahweh ⟨את⟩ pedhet saka sapi, lan para putrane Aharon, para imam, bakal nyedhakake ⟨את⟩ getihe, lan bakal ngetokake ⟨את⟩ getih iku nang kabeh péranganing altar, sing ana ing lawanging padhepe pasamuan.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "lan dhekna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedhet saka sapi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pedhet\/anak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "lan bakal nyedhakake"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihe"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "lan bakal ngetokake\/nyiramake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih iku"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing\/ana ing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakiwa-tengené\/nang kabeh péranganing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "padhepe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:28.120106919Z",
+  "model": "glm-5.3"
+}

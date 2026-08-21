@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 42:19",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Sapa sing wuta, yasa mung abdi-E? lan sapa sing tuli kaya utusan-E sing dakutus? Sapa sing wuta kaya sing wis marem, lan wuta kaya abdi Yahweh?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mung"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-E"
+    },
+    {
+      "surface": "וחרש",
+      "gloss": "lan tuli"
+    },
+    {
+      "surface": "כמלאכי",
+      "gloss": "kaya utusan-E"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "dakutus"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "כמשלם",
+      "gloss": "kaya sing wis marem"
+    },
+    {
+      "surface": "ועור",
+      "gloss": "lan wuta"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "kaya abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:59.742305602Z",
+  "model": "glm-5.3"
+}

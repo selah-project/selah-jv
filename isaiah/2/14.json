@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan marang samu gunung sing dhuwur, lan marang samu bukit sing kamulyan",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "samu"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "sing dhuwur"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "samu"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "bukit"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "sing kamulyan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:22.542420129Z",
+  "model": "glm-5.3"
+}

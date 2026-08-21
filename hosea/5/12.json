@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Dhèké aku dadi kaya gegathak marang Efrayim, lan kaya bosok marang bèté Yehuda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dhèké aku"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kaya gegathak"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "marang Efrayim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "lan kaya bosok"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "marang bèté"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:18.774413628Z",
+  "model": "glm-5.3"
+}

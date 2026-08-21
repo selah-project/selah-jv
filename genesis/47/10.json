@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Lan Yaakov matur suwun marang ⟨את⟩ Paraoh, banjur metu saka ngarsane Paraoh.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "lan matur suwun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paraoh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "banjur metu"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:49.094677210Z",
+  "model": "glm-5.3"
+}

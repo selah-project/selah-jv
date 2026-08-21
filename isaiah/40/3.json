@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Swarane siji sing nguwuh ing ara-ara: Padha lorodna dalane Yahweh, padha dganna ing tegalan garing dalan agung tumuju marang Elohim kita.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "sing nguwuh"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "padha lorodna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "padha dganna"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ing tegalan garing"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "dalan agung"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "tumuju marang Elohim kita"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:06.543018301Z",
+  "model": "glm-5.3"
+}

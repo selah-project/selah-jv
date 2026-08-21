@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 70,
+  "translation": "Padha bungah lan padha rame ing.pth ing kowé kabeh sing ngojak-ngojak kowé, lan padha munjuk tansah: \"Dipun-agungaken Elohim!\" para sing tresna marang pitulungané kowé.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "padha bungah"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "lan padha rame"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing kowé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "sing ngojak-ngojak kowé"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha munjuk"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "dipun-agungaken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "para sing tresna"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "pitulungané kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:21.986475485Z",
+  "model": "glm-5.3"
+}

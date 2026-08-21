@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Yahweh, asma-Mu ⟨is⟩ tumuju ing salawas-lawase; Yahweh, pangilon-ilon-Mu ⟨is⟩ tumuju ing sabanjure sapiturut-turut.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ing salawas-lawase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "pangilon-ilon-Mu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ing sabanjure sapiturut-turut"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan sapiturut-turut"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:28.612462589Z",
+  "model": "glm-5.3"
+}

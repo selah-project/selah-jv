@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Dheweke ngulurake tangane marang wong-wong sing padha rukun karo dheweke; dheweke nglumuhake prajanjiane.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ngulurake"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "marang wong-wong sing rukun karo dheweke"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nlumuhake"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "prajanjiane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:20.437570621Z",
+  "model": "glm-5.3"
+}

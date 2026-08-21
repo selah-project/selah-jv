@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Golekana Yahweh lan kakuatane; nggolekana raince ava-ava.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Golekana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "lan kakuatane"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nggolekana"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "raince"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ava-ava"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:15.654567316Z",
+  "model": "glm-5.3"
+}

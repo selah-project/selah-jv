@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan Elohim methuk maneh marang Yaakov, ing tekane saka Padan-Aram, lan nguwurake ⟨את⟩ panjenengane.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lan methuk maneh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ing tekane"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "saka Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan nguwurake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "panjenengane (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:02.389979649Z",
+  "model": "glm-5.3"
+}

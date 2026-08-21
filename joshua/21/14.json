@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "lan ⟨את⟩ Yatir lan ⟨את⟩ pangonané, lan ⟨את⟩ Esytemoa lan ⟨את⟩ pangonané.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pangonané"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pangonané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Esytemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esytemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pangonané"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pangonané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:37.956257896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Lan nalika pangéran teka, lumampahipun liwat sarwi-griya gapura punika badhe mlebet, lan lumampahipun piyambak badhe medal.",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "Lan nalika ... teka"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "pangéran"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lumampahipun liwat"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "sarwi-griya"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapura punika"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "badhe mlebet"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "lan lumampahipun piyambak"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "badhe medal"
+    }
+  ],
+  "timestamp": "2026-08-21T01:22:35.539008009Z",
+  "model": "glm-5.3"
+}

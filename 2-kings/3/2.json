@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan tindak ala ing paningalé Yahweh, mung dudu kaya bapakné lan kaya ibuné; lan banjur nyingkirake ⟨את⟩ tugu sang Baal sing digawe bapakné.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Lan tindak"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "mung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "kaya bapakné"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "lan kaya ibuné"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "lan banjur nyingkirake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu sang Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "sang Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:06.313076494Z",
+  "model": "glm-5.3"
+}

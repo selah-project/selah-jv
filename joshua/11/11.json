@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan ⟨dheweke⟩ nglumpeni ⟨את⟩ saben nyawa sing ana ing kono nganggo mata pedhang, diapelekake; ora ana sing kari, saben sing napasan; lan ⟨את⟩ Hatsor diobong nganggo geni.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "lan ⟨dheweke⟩ nglumpeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben nyawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "diapelekake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "kari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "sing napasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "diobong"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nganggo geni"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:38.552172745Z",
+  "model": "glm-5.3"
+}

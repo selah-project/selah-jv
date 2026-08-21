@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kowé ngadegake ⟨את⟩ Kemah Suci miturut ukture, kaya sing wis kaudharake marang kowé ing gunung iku.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "lan kowé ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kemah Suci"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Kemah Suci"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "miturut ukture"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "wis kaudharake marang kowé"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing gunung iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:29.495233559Z",
+  "model": "glm-5.3"
+}

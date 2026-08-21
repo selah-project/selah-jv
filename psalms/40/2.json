@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Kula ngenteni, ngenteni kanthi temen dhateng Yahweh, lajeng Panjenenganipun mangkuh dhateng kula sarta ngrungokake seruan kula.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ngenteni"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "kula ngenteni kanthi temen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "lajeng Panjenenganipun mangkuh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dhateng kula"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "sarta ngrungokake"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "seruan kula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:46.148081706Z",
+  "model": "glm-5.3"
+}

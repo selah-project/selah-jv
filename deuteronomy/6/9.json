@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan iki koktulis ing cagak lawanging omahe sira lan ing gerbang-gerbangmu.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "lan koktulis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "cagak lawang"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "omahe sira"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "lan ing gerbang-gerbangmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:42.325274835Z",
+  "model": "glm-5.3"
+}

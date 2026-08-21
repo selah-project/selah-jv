@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Aduh siji sing ngandika marang bapa, 'Apa kok ndadèkaké?' lan marang wadon, 'Apa kok nglairaké?'",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sing ngandika"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "marang bapa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "kok ndadèkaké\/nglairaké"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "lan marang wadon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "kok nglairaké (ngambu lake)"
+    }
+  ],
+  "timestamp": "2026-08-21T00:43:25.946408151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan ing kasetyan kursi bakal didegake, lan ⟨dheweke⟩ lungguh ing sadhuwure ing satuhu, ing kemah Dawid, ngadili lan ngupadi kaadilan, lan enggal nindakake kaluruhan.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "bakal didegake"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ing kasetyan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kursi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan lungguh"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ing satuhu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ing kemah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "lan ngupadi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kaadilan"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "lan enggal"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaluruhan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:28.558403511Z",
+  "model": "glm-5.3"
+}

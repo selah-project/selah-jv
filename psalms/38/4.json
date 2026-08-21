@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Ora ana karaharjan ing dagingku amarga bendu-Mu, ora ayem ing balungku amarga dosaku.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ora ana"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "karaharjan"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ing dagingku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "bendu-Mu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ayem"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "ing balungku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:29.676602266Z",
+  "model": "glm-5.3"
+}

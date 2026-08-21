@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Paduka ndeleng ⟨את⟩ kasusahaning leluhur kita ing Mitzrayim, lan ⟨את⟩ jeritane Paduka krungu ana ing segara Suph.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "lan Paduka ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahaning leluhur kita"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "leluhur kita"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "jeritane"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "jeritane"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Paduka krungu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-08-21T03:12:26.138319893Z",
+  "model": "glm-5.3"
+}

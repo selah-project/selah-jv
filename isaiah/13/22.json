@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan segawon mejing njojak-njojak ing puri-puriné sing dilungi, lan segawon alas ing dalem-dalem agung kamarawan; lan wis cedhak tekane wayahe, lan dina-dinané ora bakal dawa-dawakaké.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "lan njojak-njojak muni"
+    },
+    {
+      "surface": "איים",
+      "gloss": "segawon mejing"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "ing puri-puriné sing dilungi"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "lan segawon alas"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "ing dalem-dalem agung"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "kamarawan"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "lan wis cedhak"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tekane"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "wayahe"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "lan dina-dinané"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "bakal dawa-dawakaké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:09.278193604Z",
+  "model": "glm-5.3"
+}

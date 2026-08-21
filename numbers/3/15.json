@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ngitungi ⟨את⟩ para putrane Levi miturut omah ing bapak-bapake, miturut klan-klane; saben lanang saka umur sasi siji lan mudhun-ndhuwur ⟨⟨saking iku⟩⟩ kowé ngitung.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "ngitungi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putrane Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "miturut omah ing"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapak-bapake"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut klan-klane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "saka umure"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sasi siji"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "lan ndhuwure"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "kowé ngitung dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:03.852674334Z",
+  "model": "glm-5.3"
+}

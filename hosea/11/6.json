@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Pedhang tumibra ing kutha-kuthané, bakal numpes palang-palangé, lan bakal nimbusi — saka rancangané dhéwé.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "tumibra"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ing kutha-kuthané"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "numpes"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "palang-palangé"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "nimbusi"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "saka rancangané dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:41.348909221Z",
+  "model": "glm-5.3"
+}

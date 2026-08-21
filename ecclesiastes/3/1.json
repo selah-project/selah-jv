@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kanggo sabarang ana wayahe, lan ana mangsa kanggo sabarang karep sangisoring ⟨ing⟩ langit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "kanggo sabarang"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "wayahe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan mangsa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kanggo sabarang"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "karep"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisoring"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:00.300013499Z",
+  "model": "glm-5.3"
+}

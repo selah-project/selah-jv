@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Adonai Yahweh mbukakake kuping ⟨sakingku⟩, lan aku ora mbrontak, ora aku mundur mburi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mbukakake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sakingku"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "mbrontak"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mburi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "mundur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:44.446528965Z",
+  "model": "glm-5.3"
+}

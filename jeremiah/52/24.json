@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Lan panggedhe para juru sita iku njupuk ⟨את⟩ Sraya imam kang utama, lan ⟨את⟩ Tsefanya imam kang kapindho, lan ⟨את⟩ telu para juru jaga ing lawang iku.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para juru sita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Sraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kang utama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Tsefanya"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "kang kapindho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "telu para juru jaga ing lawang iku"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "para juru jaga"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ing lawang iku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:13:04.272729278Z",
+  "model": "glm-5.3"
+}

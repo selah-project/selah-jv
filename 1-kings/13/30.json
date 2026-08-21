@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lajeng disarèkake ⟨את⟩ bangke mau ing kuburé dhéwé, lan padha ngluhuraké patiné, mucap: Susah, sedhèrèkku!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "disarèkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangke"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "bangke"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "ing kuburé"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "padha ngluhuraké patiné"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "munggah ing"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Susah"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedhèrèkku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:34.785714360Z",
+  "model": "glm-5.3"
+}

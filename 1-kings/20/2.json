@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan dheweke ngutus utusan marang Ahab ratu Israel, menyang ⟨את⟩ kutha iku.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Lan ngutus"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "menyang kutha iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:22:10.922518901Z",
+  "model": "glm-5.3"
+}

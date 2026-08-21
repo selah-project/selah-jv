@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan padha matur marang panjenengane: Wong lanang nganggo rambut dawa, sarta nggone ngiket kulit ing pangkal pupune. Banjur dheweke ngandika: Iku Eliyah, wong Tishbi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha matur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "duwe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rambut"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "sarta tali pangiket"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "ngiket"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "ing pangkal pupune"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyah"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "wong Tishbi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:05:33.147608568Z",
+  "model": "glm-5.3"
+}

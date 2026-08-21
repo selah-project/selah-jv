@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan dikupasi ⟨את⟩ kurban bakare, banjur dipotong-potong ⟨את⟩ iku miturut potongan-potongane.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "lan dikupasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakare"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "banjur dipotong-potong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (kurban bakar)"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "miturut potongan-potongane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:28.120386354Z",
+  "model": "glm-5.3"
+}

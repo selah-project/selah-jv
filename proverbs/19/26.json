@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Sing ngrampasa bapak lan ngusir ibu iku ⟨⟨ana⟩⟩ anak sing njalari isin lan cilaka.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "ngrampasa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapak"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "njalari isin"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "njalari cilaka"
+    }
+  ],
+  "timestamp": "2026-08-21T02:16:52.857371555Z",
+  "model": "glm-5.3"
+}

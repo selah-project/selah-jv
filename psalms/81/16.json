@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Wong-wong sing sengit marang Yahweh padha ngapusi marang Panjenengané, lan bakal wekuné langgeng salawasé.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Wong-wong sing sengit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "padha ngapusi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Panjenengané"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "wekuné"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "langgeng salawasé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:17.706208023Z",
+  "model": "glm-5.3"
+}

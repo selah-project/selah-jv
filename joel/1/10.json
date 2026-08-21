@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kebon dirusak, bumi nglamun; awit jagung dirusak, anggur anyar garing, lenga ngademi.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "dirusak"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kebon"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "nglamun"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dirusak"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "jagung"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "anggur anyar"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ngademi"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "lenga"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:38.345903434Z",
+  "model": "glm-5.3"
+}

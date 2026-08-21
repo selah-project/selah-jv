@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Ing dina iku Israèl bakal dadi katelu ⟨karo⟩ Mitsrayim lan Ashur, dadi berkah ing tengah-tengahing bumi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "katelu"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kanggo Mitsrayim"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "lan kanggo Ashur"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing tengah-tengahing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:07.766465878Z",
+  "model": "glm-5.3"
+}

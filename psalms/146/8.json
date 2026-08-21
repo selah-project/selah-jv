@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 146,
+  "translation": "Yahweh mbukak mata wong wuta, Yahweh ngadegake wong sing tundhuk, Yahweh tresna marang wong jujur:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "mbukak mata"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "wong wuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "wong sing tundhuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tresna marang"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong jujur"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:02.400806541Z",
+  "model": "glm-5.3"
+}

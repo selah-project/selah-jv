@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Lan bapak kita munjuk: Padha bali, sithiki tuku pangan kanggo kita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapak kita"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "padha bali"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tuku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sithiki"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pangan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:30.809666682Z",
+  "model": "glm-5.3"
+}

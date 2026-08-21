@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur metu geni saka ngarsané Yahweh, lan angumlul ⟨את⟩ dhèwèké, lan padha mati ana ing ngarsané Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "banjur metu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "saka ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "lan angumlul"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké (Nadav lan Avihu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "lan padha mati"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ana ing ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:19.769040709Z",
+  "model": "glm-5.3"
+}

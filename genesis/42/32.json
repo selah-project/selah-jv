@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kalihwelas kita sadulur, putrane bapak kita; siji ora ana, lan sing paling enom dina iki karo ⟨את⟩ bapak kita ing tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "kalih"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "welas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "sadulur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapak kita"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "lan sing paling enom"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapak kita"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapak kita"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:03.010546227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 34:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lah Yahweh liwat ing ngarepe, lan ngundhangake: Yahweh, Yahweh, El sing welas asih lan murah hati, sabar marang pangrungoné, lan kalimpahahing kasih setya lan setya bener.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "liwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing ngarep"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "padharane"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ngundhangake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "welas asih"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "murah hati"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "sabar dawa"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "pangrungu (gething)"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "kalimpahah"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasih setya"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "setya bener"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:52.792829522Z",
+  "model": "glm-5.3"
+}

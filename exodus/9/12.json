@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Yahweh anggenaken atiné Paroh , lan ora ngrungu marang wong-wong mau, kaya dene kang wis dinawuhake Yahweh marang Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "anggenaken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atiné Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dinawuhake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:45.765866622Z",
+  "model": "glm-5.3"
+}

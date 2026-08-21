@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 9:34",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Laju Paroh ndeleng yèn udan lan esu lan swara-swara iku wis mandheg, sarta dhèwèké tambah dosa manèh, sarta atiné sangsaya atos, dhèwèké lan para abdine.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "laju ndeleng"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "wis mandheg"
+    },
+    {
+      "surface": "המטר",
+      "gloss": "udan"
+    },
+    {
+      "surface": "והברד",
+      "gloss": "lan esu"
+    },
+    {
+      "surface": "והקלת",
+      "gloss": "lan swara-swara"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "sarta tambah"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "dosa manèh"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "sarta njangemi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "lan para abdine"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:36.901493108Z",
+  "model": "glm-5.3"
+}

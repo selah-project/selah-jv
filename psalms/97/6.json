@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 97,
+  "translation": "Langit nitahake kabenerane, lan sakabehing para bangsa ndeleng kamulyane.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "kabenerane"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamulyane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:03.509068674Z",
+  "model": "glm-5.3"
+}

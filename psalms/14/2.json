@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Yahweh saka langit ndeleng mudhun marang para putra manungsa, arep mirsani apa ana sing wicaksana, sing nggoleki ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "saka langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ndeleng mudhun"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arep mirsani"
+    },
+    {
+      "surface": "היש",
+      "gloss": "apa ana"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sing wicaksana"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "sing nggoleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:03.981086691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Ing dina iku luhuring bakal saya gedhe ing Yerushalayim, kaya luhuring Hadad-Rimon ing lembah Megidon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "bakal saya gedhe"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "luhuring"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "kaya luhuring"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "ing lembah"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "Megidon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:38:56.172524897Z",
+  "model": "glm-5.3"
+}

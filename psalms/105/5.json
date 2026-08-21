@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Élingana ka-karunia-nipun ingkang panjenenganipun damel, mu'jizat-ipun sarta panggetih-ing tutuk-ipun",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Élingana"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "karunianipun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "damel"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "mu'jizatipun"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "sarta panggetih"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "tutukipun"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:40.523176542Z",
+  "model": "glm-5.3"
+}

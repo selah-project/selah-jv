@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Aku wis nglalekake ⟨את⟩ omah-Ku, Aku wis ngeculake ⟨את⟩ pusakaku; Aku wis menehake ⟨את⟩ kang ditresnani jiwa-Ku ing asta para mungsuh-e.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "wis nglalekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah-Ku"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "omah-Ku"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "wis ngeculake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusakaku"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "pusakaku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "wis menehake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang ditresnani jiwa-Ku"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "kang ditresnani"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-Ku"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ing asta"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "para mungsuh-e"
+    }
+  ],
+  "timestamp": "2026-08-21T00:53:55.186783830Z",
+  "model": "glm-5.3"
+}

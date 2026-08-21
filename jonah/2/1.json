@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Yahweh nyadiyakake iwak gedhe kanggo nglelen ⟨את⟩ Yonah, lan Yonah dadi ing jero weteng ⟨the⟩ iwak telung dina lan telung wengi.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "lan nyadiyakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "iwak"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "kanggo nglelen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "ing jero weteng"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "iwak kasebut"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "lan telung"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "wengi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:14.272761684Z",
+  "model": "glm-5.3"
+}

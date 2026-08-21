@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sapa sing marekake aku ing ara-ara, panginepaning para padagang dalan, supaya aku bisa ninggalake ⟨את⟩ umatku lan lunga saka ⟨את⟩ padha? Amarga kabeh padha tumindak zina, pasamuwaning para pangkhianat.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "marekake aku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "panginepan"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "para padagang dalan"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "lan aku ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umatku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "lan aku lunga"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "saka ⟨את⟩ padha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kabeh padha"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "tumindak zina"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "para pangkhianat"
+    }
+  ],
+  "timestamp": "2026-08-21T00:52:51.387572040Z",
+  "model": "glm-5.3"
+}

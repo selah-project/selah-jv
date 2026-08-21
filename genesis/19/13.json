@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "sebab kita bakal ngrusak ⟨את⟩ panggonan iki, awit wis gedhe serune wong-wong mau ⟨את⟩ ngadhepi rai Yahweh, lan Yahweh ngutus kita kanggo ngrusak iki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "bakal ngrusak"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan iki"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "wis gedhe"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "serune wong-wong mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ngadhepi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "lan ngutus kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "kanggo ngrusak iki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:29.584273415Z",
+  "model": "glm-5.3"
+}

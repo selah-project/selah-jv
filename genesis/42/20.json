@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan ⟨את⟩ sedulurmu sing bungsu padha-tekakake marang aku, lan ditemtokake temen pangandikamu, lan kowe ora bakal mati. Lan padha nindakake mangkono.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sedurure sing bungsu"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sedulurmu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "sing bungsu"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "padha-tekakake"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ditemtokake temen"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "pangandikamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "kowe mati"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:29.909937233Z",
+  "model": "glm-5.3"
+}

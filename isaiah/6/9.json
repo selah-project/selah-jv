@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan ⟨Adonai⟩ ngandika: Lungaa, lan padha dhawuha marang wong ing kene: Padha ngrungokake tansah ngrungu, nanging aja padha ngerti; lan padha ndelengake tansah ndeleng, nanging aja padha pirsa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lungaa"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "lan padha dhawuha"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "marang wong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ing kene"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "tansah ngrungu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nanging aja"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "padha ngerti"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "lan padha ndelengake"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tansah ndeleng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nanging aja"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "padha pirsa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:05.699836995Z",
+  "model": "glm-5.3"
+}

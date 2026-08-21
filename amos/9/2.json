@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Menawa awake dhé nggarang lumebu nganti ing Sheol, saka kono tanganku nyekel dhèwèké; lan menawa padha munggah nganti ing langit, saka kono dakudhunaké dhèwèké.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "padha nggarang lumebu"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ing Sheol"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "nyekel dhèwèké"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "padha munggah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "dakudhunaké dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:30:52.825033955Z",
+  "model": "glm-5.3"
+}

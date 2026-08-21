@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Uga srengéngé ora naté dideleng, lan ora weruh apa-apa; ènèng marang iki luwih saka marang iku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "dideleng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ènèng"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "marang iki"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "saka marang iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:58.587559716Z",
+  "model": "glm-5.3"
+}

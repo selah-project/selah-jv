@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Goliat iku munjuk: Kula ngejiki ⟨את⟩ pasukan-pasukane Yisrael ing dina iki; wenehna kula sawijining wong, supaya padha perang ana bebarengan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "sang Goliat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kula"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ngejiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasukan-pasukane Yisrael"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "pasukan-pasukan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "wenehna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sawijining wong"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "supaya padha perang"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bebarengan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:32.087152556Z",
+  "model": "glm-5.3"
+}

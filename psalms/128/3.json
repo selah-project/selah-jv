@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 128,
+  "translation": "Garwanira kaya thukul anggur ngembat ing ingkun omahmu; anak-anakmu kaya thukul zaitun ngubengi méjamu.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "garwanira"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "kaya thukul anggur"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ngembat"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ing ingkun"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "omahmu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "kaya thukul-thukul"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "méjamu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:44.096326353Z",
+  "model": "glm-5.3"
+}

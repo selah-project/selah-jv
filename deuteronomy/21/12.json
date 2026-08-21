@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "banjur kowe nggawa dheweke menyang tengahing omahmu, lan dheweke ngundhuh ⟨את⟩ sirahé, lan dheweke ngetut ⟨את⟩ kukuné",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "banjur kowe nggawa dheweke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tengahing"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "omahmu"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "lan dheweke ngundhuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahé"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "lan dheweke ngetut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukuné"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "kukuné"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:41.746432334Z",
+  "model": "glm-5.3"
+}

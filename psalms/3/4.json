@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Nanging Paduka, Yahweh, ⟨⟨is⟩⟩ tamèng ing sandhingku, kamulyané, sarta sing ngunggahaké sirahku.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Nanging Paduka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tamèng"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ing sandhingku"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyané"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "sarta sing ngunggahaké"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirahku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:36.410540503Z",
+  "model": "glm-5.3"
+}

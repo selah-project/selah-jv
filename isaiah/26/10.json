@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Sanadyan wong jahat kasihanan, piyambakipun boten sinau kabeneran; ing bumi ingkang lugu piyambakipun nindakaken kajahatan, lan piyambakipun boten mirsani kaluhuranipun Yahweh.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "kasihanan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "בל",
+      "gloss": "boten"
+    },
+    {
+      "surface": "למד",
+      "gloss": "sinau"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ingkang lugu"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "nindakaken kajahatan"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "lan boten"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kaluhuranipun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:33.263941322Z",
+  "model": "glm-5.3"
+}

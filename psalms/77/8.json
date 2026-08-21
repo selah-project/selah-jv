@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Apa salawas-lawase Adonai bakal nyingkirake? Lan ora bakal nambah katrampil marang kawulanipun malih?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "apa salawas-lawase"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "bakal nyingkirake"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "bakal nambah"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "katrampil"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "malih"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:21.303103685Z",
+  "model": "glm-5.3"
+}

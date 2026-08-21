@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ananging aku iki kalilan kuwat, ⟨את⟩ rohe Yahweh, lan kaadilan lan kakuwatan, kanggo ngandhakake marang Yaakov palangkane, lan marang Israël dosane.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ananging"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku iki"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "kalilan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuwat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rohe Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rohe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "lan kaadilan"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "lan kakuwatan"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "kanggo ngandhakake"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "marang Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "palangkane"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "lan marang Israël"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dosane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:49.830044539Z",
+  "model": "glm-5.3"
+}

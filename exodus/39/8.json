@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan dheweke nggawe ⟨את⟩ jasang (hoshen) iku — gawean tukang tenun ahli, kaya gaweyane efod: emas, biru tua, wungu abrit, lan lenan putih bengkel.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jasang (hoshen)"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "jasang"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawean"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "tukang tenun ahli"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kaya gaweyane"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "biru tua"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "wungu abrit"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "lan rermes"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abritidan"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan lenan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "bengkel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:27.115631658Z",
+  "model": "glm-5.3"
+}

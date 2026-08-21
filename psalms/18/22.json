@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Sebab aku njaga dalane Yahweh, lan ora gawe-gawe ala nglawan Elohimku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "aku njaga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "gawe-gawe ala"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "nglawan Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:52.541656456Z",
+  "model": "glm-5.3"
+}

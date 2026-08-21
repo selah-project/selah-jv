@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur wong Mitsrayim ndadekake ⟨את⟩ para putra Israyel nyambut gawe kanthi kalawan kaku.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ndadekake nyambut gawe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putra Israyel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "kanthi kalawan kaku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:32.776895730Z",
+  "model": "glm-5.3"
+}

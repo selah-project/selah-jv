@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sing kapeksa ing antarane, kanggo sirepe Gad, limang ewu lan patang puluh ewu — nem atusan lan seket.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "sing kapeksa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kanggo sirepe"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "lan patang puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atusan"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "lan seket"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:20.696127332Z",
+  "model": "glm-5.3"
+}

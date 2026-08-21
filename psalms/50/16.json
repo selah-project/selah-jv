@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Nanging marang wonglares Elohim ngendika: apa kok nduwé hak catet kukum-kukumKu, sarta kok emban prasastyane Ingsun ing cangkemmu?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Nanging marang wonglares"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kok nduwé hak"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "catet"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "kukum-kukumKu"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "sarta kok emban"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prasastyane Ingsun"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "cangkemmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:01.926766360Z",
+  "model": "glm-5.3"
+}

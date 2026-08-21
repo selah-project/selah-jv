@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "lan ngandika marang dhèwèké: Kaya mangkene pangandikané Yiftah: Ora, Israël ora njupuk ⟨את⟩ bumi Moab lan ⟨את⟩ bumi para putra Ammon,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikané"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bumi para putra Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:49.666288386Z",
+  "model": "glm-5.3"
+}

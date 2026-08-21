@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Sapisan aku ngandika lan ora bakal mangsuli, lan kaping pindho lan ora bakal nambahi.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "sapisan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aku ngandika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "mangsuli"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "lan kaping pindho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nambahi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:36:45.998756213Z",
+  "model": "glm-5.3"
+}

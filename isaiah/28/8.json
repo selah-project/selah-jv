@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Sabab sakabehing meja padha kebak muntah lan lebu, nganti ora ana panggonan sing resik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "meja"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "padha kebak"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "muntah"
+    },
+    {
+      "surface": "צאHa",
+      "gloss": "lan lebu"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panggonan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:06.854801871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Sebab karatonan iku duweke Yahweh, lan Panjenengane mamaréntah ing antarane para bangsa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "duweke Yahweh"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karatonan"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "lan mamaréntah"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing antarane para bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:54.459635704Z",
+  "model": "glm-5.3"
+}

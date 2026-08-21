@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur Yehuda padha kumpul kanggo nyuwun pitulungan marang Yahweh; uga saka kabèh kutha-kuthané Yehuda padha teka nyuwun ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "banjur padha kumpul"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "kanggo nyuwun"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "saka Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka kabèh"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kuthané"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "nyuwun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:40:26.360778604Z",
+  "model": "glm-5.3"
+}

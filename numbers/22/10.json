@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan Bilam ngandika marang ⟨the⟩ Elohim: Balak bin Tsippor, raja ing Moab, ngutus aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Tsippor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:26.981238200Z",
+  "model": "glm-5.3"
+}

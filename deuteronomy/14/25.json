@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lah kowe mranakake ing dhuwit, lan kowe ngiket dhuwit iku ing tanganmu, lan kowe lunga menyang panggonan sing bakal dipilih Yahweh, Elohimmu, ing kono.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "kowe mranakake"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ing dhuwit"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "lan kowe ngiket"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "dhuwit iku"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ing tanganmu"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "lan kowe lunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "bakal dipilih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:32.216301619Z",
+  "model": "glm-5.3"
+}

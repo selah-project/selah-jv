@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan kadadéan, nalika Ajab ndeleng ⟨את⟩ Elyahu, Ajab ngandika marang sira: Kowe iki ta sing ngrak-rakake Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "nalika ndeleng"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "kowe iki ta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "sing ngrak-rakake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:38.433275415Z",
+  "model": "glm-5.3"
+}

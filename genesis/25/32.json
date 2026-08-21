@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Esau ngandika: Lah, aku iki arep mati, lan apa gunane ⟨iku⟩ marang aku — hak lair mbarep?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "arep"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "lan apa gunane"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "hak lair mbarep"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:35.561773992Z",
+  "model": "glm-5.3"
+}

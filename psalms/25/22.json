@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Ngluwari Elohim ⟨את⟩ Yisrael saka sakabehe sesakane.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka sakabehe"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sesakane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:02.069689545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan peti Yahweh manggon ing omahé Oved-Edom wong Gati telung sasi, lan Yahweh mbarkahi ⟨את⟩ Oved-Edom lan ⟨את⟩ sakabehing omahé.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wong Gati"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telung"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan mbarkahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing omahé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "omahé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:02:03.616862707Z",
+  "model": "glm-5.3"
+}

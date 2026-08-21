@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Yahweh bakal njaga ⟨dia⟩ lan nguripake ⟨dia⟩, bakal dibungkakake ing ⟨the⟩ bumi; lan aja kowe pasrahake ⟨dia⟩ marang ⟨the⟩ karepe mungsuh-mungsuhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "bakal njaga dia"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "lan nguripake dia"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "bakal dibungkakake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "kowe pasrahake dia"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "marang karepe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "mungsuh-mungsuhe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:45.958436491Z",
+  "model": "glm-5.3"
+}

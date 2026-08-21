@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan Panjenengané nggawa aku menyang panggonan iki, lan maringi aku ⟨את⟩ bumi iki, bumi sing ngucuraké susu lan madu.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "nggawa aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ngucuraké"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "madu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:46.098456134Z",
+  "model": "glm-5.3"
+}

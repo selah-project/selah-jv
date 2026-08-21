@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan putrane Elpaal: Ever, lan Misham, lan Shemed — iku sire sing yasa ⟨את⟩ Ono lan ⟨את⟩ Lod, karo desa-desa ing sekitare.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan putrane"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "lan Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "lan Shemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku sire"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "karo desa-desa ing sekitare"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:35.805318985Z",
+  "model": "glm-5.3"
+}

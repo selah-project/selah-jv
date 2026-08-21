@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Dadéya ⟨kéwané⟩ kaya sekam sangarepe angin, lan utusané Yahweh sing nundhung.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "dadéya"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kaya sekam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sangarepe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "lan utusané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "nundhung"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:21.576784222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan ia ngandika: Mistuwa, Daniel, sabab tembung-tembung iku katutup lan kasegel nganti wektuning wekasan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ia ngandika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mistuwa"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "katutup"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "lan kasegel"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung iku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "wekasan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:02:43.958639611Z",
+  "model": "glm-5.3"
+}

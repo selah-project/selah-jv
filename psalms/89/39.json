@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Nanging Paduka sampun nulak lan nyingkiri, sampun nedya nesu karo Mashíach-Paduka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nanging Paduka"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "sampun nulak"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "lan nyingkiri"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "sampun nedya nesu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashíach-Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:34.519123292Z",
+  "model": "glm-5.3"
+}

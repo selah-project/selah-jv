@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan metu sulur saka tunggul Yishai, lan tunas saka oyode bakal ngundhuhaké.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "sulur"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "saka tunggul"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "lan tunas"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "saka oyod-oyodé"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "bakal ngundhuhaké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:00.934542148Z",
+  "model": "glm-5.3"
+}

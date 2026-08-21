@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan kowe bakal gawe patang cincin emas kanggo iku, lan kowe bakal momotake ⟨את⟩ cincin-cincin iku ing patang suduting ⟨iku⟩, kang ana ing patang sikile.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowe bakal gawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo iku"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patang"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "cincin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "lan kowe bakal momotake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cincin-cincin iku"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "cincin-cincin iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "patang"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "suduting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "kanggo patang"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sikile"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:46.186712866Z",
+  "model": "glm-5.3"
+}

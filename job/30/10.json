@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Dheweke gething marang aku, dheweke adoh saka aku, lan saka ngarsaku ora ngentaraake ludhu.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "gething marang aku"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "lan saka ngarsaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ngentaraake"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ludhu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:32:47.985577137Z",
+  "model": "glm-5.3"
+}

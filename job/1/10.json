@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Apa kowe mboten nggawe pager sakubenging dheweke lan sakubenging osaking dheweke lan sakubenging sedaya ingkang dhimiliki dheweke? Pakaryan tanganipun sampun kowe mberkahi, lan ternakipun njingrah ing bumi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa mboten"
+    },
+    {
+      "surface": "את",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "kowe nggawe pager"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "sakubenging dheweke"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "lan sakubenging"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "osaking dheweke"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "lan sakubenging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dhimiliki dheweke"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "saka sedaya sisih"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pakaryan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tanganipun"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "kowe mberkahi"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "lan ternakipun"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "njingrah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:21:38.505559497Z",
+  "model": "glm-5.3"
+}

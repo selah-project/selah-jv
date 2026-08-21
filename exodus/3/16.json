@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lunga, kumpulna ⟨את⟩ para sesepuh Yisrael, lan kaandikakaké marang dhèwèké: Yahweh, Elohimé para leluhurmu, medhar marang aku — Elohimé Avraham, Yitshak, lan Yaakov — ngandika: temen-temenan aku wis ngrawuhi ⟨את⟩ kowé lan ⟨את⟩ sing ditindakaké marang kowé ing Mesir.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Lunga"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "lan kumpulna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para sesepuh Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "lan kaandikakaké"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "para leluhurmu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "medhar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "lan Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "temen-temenan"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "aku wis ngrawuhi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sing ditindakaké marang kowé ing Mesir"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "sing ditindakaké"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mesir"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:17.523521128Z",
+  "model": "glm-5.3"
+}

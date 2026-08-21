@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Sebab dheweke ora ndiya lan ora ngelingi kasusahané wong kasusahan, lan ora ndhelikake rainé saka ing awake; lan nalika awake njaluk pitulungan marang dheweke, dheweke ngluungi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ndiya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ngelingi"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "kasusahané"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wong kasusahan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ndhelikake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rainé"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka ing awake"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "lan nalika awake njaluk pitulungan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngluungi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:45.566983685Z",
+  "model": "glm-5.3"
+}

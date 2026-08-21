@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan kadadéan ing wiwitané padha manggon ana ing kono, ora padha bekti marang ⟨את⟩ Yahweh, banjur Yahweh ngutus ⟨את⟩ singa-singa marang wong-wong mau, lan singa-singa iku padha matèni wong-wong mau.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéan"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "ing wiwitané"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "padha manggon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "padha bekti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "banjur ngutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "singa-singa"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "singa-singa"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "padha matèni"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "wong-wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:58.600385891Z",
+  "model": "glm-5.3"
+}

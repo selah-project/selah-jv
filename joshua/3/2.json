@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur dumadi pas bubar telung dina, para pangatur prajurit padha mili tengahing kamp.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur dumadi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "pas bubar"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "padha mili"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "para pangatur prajurit"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "tengahing"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    }
+  ],
+  "timestamp": "2026-08-20T23:42:01.638937789Z",
+  "model": "glm-5.3"
+}

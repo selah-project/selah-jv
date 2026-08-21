@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan padha bakal njupuk ⟨את⟩ emas, ⟨את⟩ jaka biru, ⟨את⟩ wungu, ⟨את⟩ ulat-the-abrit, lan ⟨את⟩ linen-alus",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "lan padha"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "bakal njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jaka biru"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "jaka biru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wungu"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "wungu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulat-the-abrit"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "the-abrit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "linen-alus"
+    },
+    {
+      "surface": "השש",
+      "gloss": "linen-alus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:37.523954662Z",
+  "model": "glm-5.3"
+}

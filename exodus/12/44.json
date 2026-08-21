@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan saben abdi wong tuku-kin ing sarpa, lan kok-sunat ⟨את⟩ dhèwèké, banjur olèh mangan saka ⟨iku⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Lan saben"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "tuku-kin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ing sarpa"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "lan kok-sunat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "olèh mangan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "saka ⟨iku⟩"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:47.067925974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Para wong iku padha wedi marang Yahweh kanthi wedi agung banget ⟨את⟩ Yahweh, banjur ngetungake kurban marang Yahweh lan ngetungake prasetya.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "para wong iku"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "agung banget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ngetungake kurban"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ngetungake prasetya"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "prasetya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:26.376116750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Adoh saka wong ati ala iku kaslametan, awit angger-angger-Mu ora padha digoleki.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "saka wong ati ala"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "kaslametan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "angger-angger-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "padha digoleki"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:42.572424926Z",
+  "model": "glm-5.3"
+}

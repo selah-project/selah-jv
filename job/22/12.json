@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 22:12",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Apa ora Eloha ing dhuwuring langit? Delengen pucuking lintang, yèn uga dhuwur.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "dhuwur"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "lan delengen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pucuk"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "lintang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "dhuwur"
+    }
+  ],
+  "timestamp": "2026-08-21T02:28:23.123970310Z",
+  "model": "glm-5.3"
+}

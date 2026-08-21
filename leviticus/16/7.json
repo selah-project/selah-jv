@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan panjenengane mundhut ⟨את⟩ kalih kambing janggut kasebut, lan ngadegaké ⟨את⟩ kalihé ana ing ngarsaning Yahweh, ing lawanging kemah pasamuwan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "lan mundhut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalih kambing janggut"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kalih"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kambing janggut kasebut"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "lan ngadegaké"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kalihé"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ing lawanging"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:48.138049915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Eliyahu ngandika marang wong akeh kabeh: Sedenana marang aku. Wong akeh kabeh padha sededana marang dheweke. Banjur dheweke ndandani ⟨את⟩ panggonan kurbane Yahweh sing wis ruksak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang ... kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "sedenana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "padha sededana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ndandani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan kurbane Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "panggonan kurban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "sing wis ruksak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:54.773944875Z",
+  "model": "glm-5.3"
+}

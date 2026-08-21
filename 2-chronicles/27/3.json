@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Panjenengane yasa ⟨את⟩ gapura dhuwuring omahe Yahweh, lan ing temboking Ofel panjenengane yasa kathah.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "panjenengane"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gapura dhuwuring omah Yahweh"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapura"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "dhuwur"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "lan ing temboking"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kathah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:41:46.347126181Z",
+  "model": "glm-5.3"
+}

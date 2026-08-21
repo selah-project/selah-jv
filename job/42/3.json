@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Sapa iki sing ndhelikake ⟨the⟩ pitutur tanpa kawruh? Mulane aku wis medharake lan ora aku ngerti; samubarang mirunggan saka aku, lan ora aku pirsa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ndhelikake"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "pitutur"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kawruh"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Mulane"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "aku wis medharake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "aku ngerti"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "samubarang mirunggan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "aku pirsa"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:05.260446859Z",
+  "model": "glm-5.3"
+}

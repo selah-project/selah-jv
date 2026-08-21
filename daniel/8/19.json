@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 8:19",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur ngandika: Ndherekna, ingsun bakal medarakake ⟨את⟩ apa sing bakal kelakon ing pungkasaning bebendu, awit ing mangsa katetep pungkasane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ndherekana"
+    },
+    {
+      "surface": "מודיעך",
+      "gloss": "ingsun medarakake marang sira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apa sing bakal kelakon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa sing"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal kelakon"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ing pungkasan"
+    },
+    {
+      "surface": "הזעם",
+      "gloss": "bebendu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ing mangsa katetep"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "pungkasan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:00:08.931404787Z",
+  "model": "glm-5.3"
+}

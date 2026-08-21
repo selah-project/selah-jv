@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Aku bakal dadi kaya embun kanggo Yisrael, dhèwèké bakal ngembang kaya kembang bakung, lan oyod-oyodé bakal sumebar kaya Libanon.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "Aku bakal dadi"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "kaya embun"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kanggo Yisrael"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "bakal ngembang"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "kaya kembang bakung"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lan sumebar"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "oyod-oyodé"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "kaya Libanon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:47.961728793Z",
+  "model": "glm-5.3"
+}

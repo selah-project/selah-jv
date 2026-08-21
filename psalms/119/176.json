@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku kesasar kaya wedhus sing ilang; mugi Paduka nggoleki abdiPaduka, awit parentahPaduka ora tak lali.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "aku kesasar"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "kaya wedhus"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "sing ilang"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "mugi nggoleki"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdiPaduka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "parentahPaduka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "tak lali"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:21.900229075Z",
+  "model": "glm-5.3"
+}

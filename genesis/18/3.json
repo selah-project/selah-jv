@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan ngendika: Adonai, menawa kawula nemu katresnan ing paningal Panjenengan, sampun ngantos, mugi, tumada saka ing kawula;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "kawula nemu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "katresnan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ing paningal Panjenengan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sampun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngantos"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "tumada"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kawula"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:19.660134829Z",
+  "model": "glm-5.3"
+}

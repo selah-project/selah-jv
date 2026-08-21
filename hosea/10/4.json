@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Padha ngucap pangucap, sumpah goroh, gawé prajanjian; muri-muri tuwuh kaya jembar ing galengan-galengané padang.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Padha ngucap"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "pangucap (tembung)"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "goroh (kalirong)"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nggawé (madeg)"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "muri-muri tuwuh"
+    },
+    {
+      "surface": "כראש",
+      "gloss": "kaya (uwab-uwab racun)"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kukum (adil)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "galengan-galengané"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "padang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:20.821441294Z",
+  "model": "glm-5.3"
+}

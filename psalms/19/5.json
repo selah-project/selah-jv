@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Menyang ing bumi kabeh metu taliné, lan ing ujungé donya tembung-tembungé; kanggo srengéngé ⟨Elohim wus njajahake⟩ kemah ing kono.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ing kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "קום",
+      "gloss": "taliné"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "lan ing ujungé"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "donya"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "tembung-tembungé"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "kanggo srengéngé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "njajahake (kemah)"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:53.092266302Z",
+  "model": "glm-5.3"
+}

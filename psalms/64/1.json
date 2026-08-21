@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Kanggo panggedening wirama. Mizmor kagungane Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo panggedening wirama"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagungane Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:07.911281090Z",
+  "model": "glm-5.3"
+}

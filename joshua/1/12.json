@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan marang wong Reuben, lan marang wong Gad, lan marang setengah klan Menasye, Yehoshua ngendika, ngucap:",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Lan marang wong Reuben"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "lan marang wong Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "lan marang setengah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "klan"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menasye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:27.323991589Z",
+  "model": "glm-5.3"
+}

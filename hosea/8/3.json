@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Israèl nyingkirake kabecikan; mungsuh bakal ngoyak dhèwèké.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "nyingkirake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "bakal ngoyak"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:51.309039368Z",
+  "model": "glm-5.3"
+}

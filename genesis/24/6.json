@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Avraham ngandika marang ⟨dhèwèké⟩: njaga awake dhéwé kowé, supaya aja nganti kokbalekaké ⟨את⟩ putraku menyang kono.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang ⟨dhèwèké⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "njaga awake dhéwé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya aja nganti"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "kokbalekaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putraku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putraku"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "menyang kono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:51.476619229Z",
+  "model": "glm-5.3"
+}

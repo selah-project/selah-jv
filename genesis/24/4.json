@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "nanging menyang nagaraku lan menyang kaluwargaku kowe arep lunga, lan arep njupuk bojo kanggo putraku, kanggo Yitshak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "nagaraku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan menyang"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "kaluwargaku"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kowe arep lunga"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "lan arep njupuk"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bojo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kanggo putraku"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kanggo Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:36.356416516Z",
+  "model": "glm-5.3"
+}

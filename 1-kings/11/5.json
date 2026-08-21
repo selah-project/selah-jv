@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Shelomoh lumaku nutut Ashtoreth, allahé wong Tsidon, lan nutut Milkom, barang jijiké wong Amon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nutut"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoreth"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "allahé"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "wong Tsidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "lan nutut"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "barang jijiké"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "wong Amon"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:54.005643072Z",
+  "model": "glm-5.3"
+}

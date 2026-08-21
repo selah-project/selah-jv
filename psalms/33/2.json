@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Padha suka-suka marang Yahweh nganggo kinor, nganggo nebel sepuluh senar padha zamzamake ⟨kanggo⟩ Panjenengane.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "suka-suka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "nganggo kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nganggo nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "sepuluh senar"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "padha zamzamake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:22.254285584Z",
+  "model": "glm-5.3"
+}

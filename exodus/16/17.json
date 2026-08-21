@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan para putra Israël nglakoni mangkono, sarta padha nglumpukake — sing akeh lan sing sethithik.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lan padha nglakoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "sarta padha nglumpukake"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "sing akeh"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "lan sing sethithik"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:48.006830843Z",
+  "model": "glm-5.3"
+}

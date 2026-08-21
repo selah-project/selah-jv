@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan yen padha disebulake, sakabehing pasamuhan bakal nglumpuk marang sliramu ing lawanging kemah pasamuwan.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "lan yen padha disebulake"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "karo iku"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "bakal nglumpuk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sliramu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "pasamuhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:16.099905352Z",
+  "model": "glm-5.3"
+}

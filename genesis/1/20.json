@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim ngandika: Kena ⟨ing⟩ banyu ngrembuyarake grombolan makluk nduwé nyawa urip, lan manuk mabur ing dhuwur ⟨ing⟩ bumi, ing sisiné jèmbaran ⟨ing⟩ langit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "kena ngrembuyarake"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨ing⟩ banyu"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "grombolan makluk"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "urip"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "lan manuk"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "mabur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ing⟩ bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sisiné"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "jèmbaran"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨ing⟩ langit"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:32.096079094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Ing dina iku tembang iki bakal ditembangake ing tanah Yehudah: kutha kang patrap yaiku kita; kaslametan bakal didadekake tembok lan batar",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "bakal ditembangake"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kang patrap"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "kaslametan"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "bakal didadekake"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "lan batar"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:50.537123592Z",
+  "model": "glm-5.3"
+}

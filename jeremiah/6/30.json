@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Perak tinolak, mengkono kasebut marang ⟨את⟩ dhèwèké, awit Yahweh nulak ⟨את⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "tinolak"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kasebut"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "nulak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:56.102771690Z",
+  "model": "glm-5.3"
+}

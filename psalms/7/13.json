@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Menawa dheweke ora bali, pedhangé bakal ditajem, busuré wis dilenggahi tali lan disiyapaké.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "wali"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedhangé"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "ditajem"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "busuré"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dilenggahi tali"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "lan disiyapaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:02.588398745Z",
+  "model": "glm-5.3"
+}

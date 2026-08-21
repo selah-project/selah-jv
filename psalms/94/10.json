@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Sing ngukum para bangsa, apa ⟨dheweke⟩ ora ngukemi? Sing mulangake manungsa kawruh, apa ⟨dheweke⟩ ora ngerti?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Sing ngukum"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ngukemi"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Sing mulangake"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kawruh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:42.367034968Z",
+  "model": "glm-5.3"
+}

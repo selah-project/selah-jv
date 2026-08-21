@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Menyang tanah kang mili susu lan madu; awit Aku ora bakal munggah ing tengah-tengahmu, awit dhoodho kang ati osik sira, supaya Aku aja numpes sira ing dalan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "kang mili"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "lan madu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Aku bakal munggah"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ing tengah-tengahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "dhoodho"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kang ati osik"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "gulu (osik)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya aja"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "Aku numpes sira"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:44.490207820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Supaya aku ndeleng ing kabecikaning wong-wong pilihanMu, supaya bungah ing bungahe bangsaMu, lan memuji bareng pusakaMu.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "supaya ndeleng"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "ing kabecikaning"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "wong-wong pilihanMu"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "supaya bungah"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ing bungahe"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "bangsaMu"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "lan memuji"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "pusakaMu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:22.008903362Z",
+  "model": "glm-5.3"
+}

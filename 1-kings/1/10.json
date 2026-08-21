@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Nanging ⟨את⟩ Natan sang nabi lan Benayahu lan ⟨את⟩ para jago lan ⟨את⟩ Shelomoh sedulure, ora dilundhang.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nanging ⟨את⟩",
+      "marks": "Natan sang nabi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "lan Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para jago"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "para jago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Shelomoh sedulure"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulure"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dilundhang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:46.663106017Z",
+  "model": "glm-5.3"
+}

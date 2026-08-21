@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Ing dina katelu kabar iku kandhamarake marang Lavan, yaiku yen Yaakov padha kabur.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kandhamarake"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "marang Lavan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katelu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "padha kabur"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:19.738021540Z",
+  "model": "glm-5.3"
+}

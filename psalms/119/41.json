@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Lan mugi kasetyan-Mu teka marang aku, Yahweh, pitulungan-Mu, miturut pangandika-Mu",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "lan mugi teka marang aku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasetyan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "pitulungan-Mu"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "miturut pangandika-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:42.606353712Z",
+  "model": "glm-5.3"
+}

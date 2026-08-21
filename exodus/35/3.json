@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Aja ngurubake geni ing sakabehing panggonanmu ing dina Sabat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ngurubake"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sakabehing"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "panggonanmu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:03.755074495Z",
+  "model": "glm-5.3"
+}

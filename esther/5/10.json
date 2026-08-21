@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Nanging Haman nahan awake, banjur teka menyang omahé, lan ngundang lan ngajokake ⟨את⟩ kanca-kancane lan ⟨את⟩ Zeresh bojone.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "nanging nahan awake"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lan ngundang"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "banjur ngajokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca-kancane"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "kanca-kancane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojone"
+    }
+  ],
+  "timestamp": "2026-08-21T02:52:02.272906607Z",
+  "model": "glm-5.3"
+}

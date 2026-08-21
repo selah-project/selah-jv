@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Bene Merari, miturut klane-klane dhewe, miturut omah bapak-bapake dhewe, sira kudu ngétung ⟨את⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bene"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut klane-klane dhewe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "miturut omah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapak-bapake dhewe"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "sira kudu ngétung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:30.211055321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Lan Yosef nguripi ⟨את⟩ bapané lan ⟨את⟩ sadulur-saduluré sarta ⟨את⟩ sakabèting kulawargané bapané mawa pangan miturut cangkemé para bocah.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "lan nguripi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapané"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadulur-saduluré"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-saduluré"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèting kulawargané bapané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèting"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawargané"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapané"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pangan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "miturut cangkemé"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "para bocah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:49.095055340Z",
+  "model": "glm-5.3"
+}

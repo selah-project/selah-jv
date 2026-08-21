@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Tuntasana umbah aku saka kaluputanku, lan saka dosaku resikna aku.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "tuntasana"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "umbah aku"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "saka kaluputanku"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "lan saka dosaku"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "resikna aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:45.224555449Z",
+  "model": "glm-5.3"
+}

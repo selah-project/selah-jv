@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": " Sang perereget getih dheweke bakal mateni ⟨את⟩ sang pembunuh; nalika ketemu karo wong mau, dheweke bakal mateni.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "Sang perereget"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "bakal mateni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang pembunuh"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "sang pembunuh"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "nalika ketemu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "karo wong mau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "bakal mateni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:30.061042274Z",
+  "model": "glm-5.3"
+}

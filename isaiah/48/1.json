@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 48:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Krunguna iki, saike wong Keturahane Yaakov, sing kasebut ing asma Yisrael, lan saka banyune Yehudha padha metu, sing sumapa ing asma Yahweh lan marang Elohire Yisrael ngelingake — dudu ing kasetyan lan dudu ing kadhaulatan.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "krunguna"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saike wong keturahane"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הנקראים",
+      "gloss": "sing kasebut"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing asma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וממי",
+      "gloss": "lan saka banyune"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "padha metu"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "sing sumapa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "lan Elohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יזכירו",
+      "gloss": "ngelingake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ing kasetyan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan dudu"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ing kadhaulatan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:43:57.740163551Z",
+  "model": "glm-5.3"
+}

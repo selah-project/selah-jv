@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan padha ngliwati ⟨את⟩ Yarden, banjur padha ng tendha ing Aroer, sisih tengen ⟨saka⟩ kutha kang ana ing tengahing lembah Gad, lan nganti tekan Ya'zer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "lan padha ngliwati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "banjur padha ng tendha"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "ing Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sisih tengen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan nganti tekan"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'zer"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:29.278386764Z",
+  "model": "glm-5.3"
+}

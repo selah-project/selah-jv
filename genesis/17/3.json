@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Banjur Avram sumujud anadahake raine, lan Elohim ngendika ⟨את⟩ karo awake, ngendika:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "banjur-sumujud"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "raine"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lan-ngendika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩karo-awake",
+      "marks": "awake (Avram)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:28.099957692Z",
+  "model": "glm-5.3"
+}

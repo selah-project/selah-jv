@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Mugi Elohim ngadeg, mugi satru-satrune kasebar, lan para kang padu sengit marang Panjenengane padha ngoyak saka ngarsane.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "mugi ... ngadeg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "kasebar"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "satru-satrune"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "lan ... padha ngoyak"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "para kang padu sengit marang Panjenengane"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "saka ngarsane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:28.974928548Z",
+  "model": "glm-5.3"
+}

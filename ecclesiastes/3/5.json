@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Wektu ngeculake watu, lan wektu nglumpukake watu; wektu ngrangkul, lan wektu adoh saka pangrangkul.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ngeculake"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "nglumpukake"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "nrangkul"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "saka pangrangkul"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:31.896300392Z",
+  "model": "glm-5.3"
+}

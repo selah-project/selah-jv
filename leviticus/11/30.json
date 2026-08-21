@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan tokek, lan biawak, lan kadal, lan bunglon pasir, lan bunglon.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "lan tokek"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "lan biawak"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "lan kadal"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "lan bunglon pasir"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "lan bunglon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:45.404702433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 146,
+  "translation": "Becik-beciking wong sing duwe pitulung saka Elohimé Yaakov, sing pangarep-arepé ana ing Yahweh, Elohimé ⟨dhèwèké⟩:",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "becik-beciking"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "sing duwe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "pitulung saka"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "pangarep-arepé"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:02.400199855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Mitzrayim nurrenake ⟨את⟩ wong Ludi, lan ⟨את⟩ wong Anam, lan ⟨את⟩ wong Lehab, lan ⟨את⟩ wong Naphtukhi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Lan Mitzrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nurrenake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Ludi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "wong Ludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Anam"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "wong Anam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Lehab"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "wong Lehab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Naphtukhi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "wong Naphtukhi"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:37.442991985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banget cidra kita tumindak marang sira, lan ora kita njaga ⟨את⟩ parentah lan ⟨את⟩ sarat-sarat lan ⟨את⟩ paugeran sing sira dhawuhake ⟨את⟩ Moshe, abdimu.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "banget cidra"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "kita tumindak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "kita njaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sarat-sarat"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sarat-sarat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "paugeran"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "paugeran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "sira dhawuhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:25:35.289910274Z",
+  "model": "glm-5.3"
+}

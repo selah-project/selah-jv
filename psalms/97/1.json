@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 97,
+  "translation": "Yahweh dadi ratu — bumi kudu bungah, pulo-pulo kang akeh padha suka ria.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dadi ratu"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "kudu bungah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "padha suka ria"
+    },
+    {
+      "surface": "איים",
+      "gloss": "pulo-pulo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akeh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:09.320797292Z",
+  "model": "glm-5.3"
+}

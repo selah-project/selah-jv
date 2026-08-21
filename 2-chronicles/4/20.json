@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan ⟨את⟩ pra-menore lan lumpure kanggo ngurubake miturut pakuning sadurunge Debir, saka emas murni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pra-menore"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "pra-menore"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "lumpure"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "kanggo ngurubake"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "miturut pakuning"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "murni"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:39.459684329Z",
+  "model": "glm-5.3"
+}

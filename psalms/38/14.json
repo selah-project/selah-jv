@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Dhene aku kaya wong bisu, ora ngrungokake, lan kaya wong getun, ora mbukak tutuke.",
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "dhene aku"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kaya wong tuli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "lan kaya wong getun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "mbukak"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "tutuke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:23.616211797Z",
+  "model": "glm-5.3"
+}

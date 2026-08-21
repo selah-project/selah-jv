@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "⟨את⟩ saben gagak miturut jinisé.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben gagak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gagak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "miturut jinisé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:03.920891496Z",
+  "model": "glm-5.3"
+}

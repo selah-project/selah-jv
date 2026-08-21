@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Lan aku nangis nalika pasa jiwa-ku, lan iku dadi cacad-cecaman marang aku.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "lan aku nangis"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "nalika pasa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "cacad-cecaman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:15.828559939Z",
+  "model": "glm-5.3"
+}

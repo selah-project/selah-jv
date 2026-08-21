@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan sira bakal netepi wates ⟨את⟩ wong-wong mau ing sapubengé, ngendika: Padha waspada aja munggah ing redi iku utawa ndemok pinggiré; sapa sing ndemok redi iku mesti dipatèni.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Lan netepi wates"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing sapubengé"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Padha waspada"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aja"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi iku"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "utawa ndemok"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "pinggiré"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa sing"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ndemok"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi iku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mesti mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dipatèni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:17.916731090Z",
+  "model": "glm-5.3"
+}

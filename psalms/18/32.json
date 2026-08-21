@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Sebab sapa sang El saliyané Yahweh? Lan sapa Watu saliyané Elohine?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "sang El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "saliyané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan sapa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Watu (karang)"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "saliyané"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohine"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:57.943118758Z",
+  "model": "glm-5.3"
+}

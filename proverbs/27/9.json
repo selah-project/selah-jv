@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Minyak lan dupa ndadèkaké ati bungah, lan manisé kanca ⟨saka⟩ pitutur jiwa.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "Minyak"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "lan dupa"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ndadèkaké bungah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "lan manisé"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "saka pitutur"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:42.290528529Z",
+  "model": "glm-5.3"
+}

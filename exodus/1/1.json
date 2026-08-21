@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan iki jeneng-jenenge para putra Israeil sing teka ing Mitsrayim: ⟨את⟩ Yaakov lan siji-siji wong lan kaluwargane padha teka.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Lan iki"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jeneng-jenenge"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeil"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "sing teka"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji-siji wong"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "lan kaluwargane"
+    },
+    {
+      "surface": "באו",
+      "gloss": "padha teka"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:37.093085641Z",
+  "model": "glm-5.3"
+}

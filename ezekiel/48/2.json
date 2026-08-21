@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "L ing dhuwuring wates Dan, saka bagean wétan nganti bagean kulon (nganti segara) — Asher, siji.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Lan ing dhuwuring"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "saka bagean"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "bagean"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "nganti segara (kulon)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-21T04:15:32.130182709Z",
+  "model": "glm-5.3"
+}

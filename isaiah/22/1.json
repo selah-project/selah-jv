@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Wogané lembah pangilonan: apa kowé saiki, jalaran sedyané kowé munggah ing payon-payon?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "wogané"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "pangilonan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "sedyané kowé"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ing payon-payon"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:48.992399081Z",
+  "model": "glm-5.3"
+}

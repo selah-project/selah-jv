@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan sing najokake ramane utawa ibune — mati temen dipatèni.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Lan sing najokake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramane"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "utawa ibune"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "temen dipatèni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:52.907634641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 16:28",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan kowe zina marang para putra Ashur, merga kowe ora tau wareg; lan kowe tetep zina, lan kowe uga ora wareg.",
+  "tokens": [
+    {
+      "surface": "ותזני",
+      "gloss": "lan kowe zina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "מבלתי",
+      "gloss": "merga ora"
+    },
+    {
+      "surface": "שבעתך",
+      "gloss": "kowe wareg"
+    },
+    {
+      "surface": "ותזנים",
+      "gloss": "lan kowe tetep zina"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan kowe uga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "kowe wareg"
+    }
+  ],
+  "timestamp": "2026-08-21T01:11:34.886577038Z",
+  "model": "glm-5.3"
+}

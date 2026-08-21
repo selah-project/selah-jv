@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "lan Akitub nglairake ⟨את⟩ Tsadok, lan Tsadok nglairake ⟨את⟩ Akimaats;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "lan Akitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "lan Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akimaats"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akimaats"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:57.657735367Z",
+  "model": "glm-5.3"
+}

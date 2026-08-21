@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Sebab dhuwure ⟨⟨⟩⟩langit saka bumi, mengono uga dhuwure dalan-dalanKu saka dalan-dalanmu, lan panggaben-panggabenKu saka panggaben-panggabenmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "dhuwure"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengono uga"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "dhuwure"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dalan-dalanKu"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "saka dalan-dalanmu"
+    },
+    {
+      "surface": "וּמַחְשְׁבֹתַי",
+      "gloss": "lan panggaben-panggabenKu"
+    },
+    {
+      "surface": "מִמַּחְשְׁבֹתֵיכֶם",
+      "gloss": "saka panggaben-panggabenmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:44.424912928Z",
+  "model": "glm-5.3"
+}

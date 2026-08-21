@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur bareng Shaul wis seda, Daud bali saka ngalahake ⟨את⟩ wong Amalek, lan Daud manggon ing Tsiklag rong dina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur kadadéan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "מות",
+      "gloss": "seda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "lan Daud"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "saka ngalahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "wong Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "ing Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "rong"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:16.218460977Z",
+  "model": "glm-5.3"
+}

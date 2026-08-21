@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lahirhé Bilhah ngandhut, nglairake marang Yaakov saputrā.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ngandhut"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "marang Yaakov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:48.857122628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Wong-wong gumedhe nggawe bolong-jebakan marang aku, sing ora miturut Toretmu.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "nggawe bolong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "wong-wong gumedhe"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "jebakan (lubang)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "miturut Toretmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:02.036662480Z",
+  "model": "glm-5.3"
+}

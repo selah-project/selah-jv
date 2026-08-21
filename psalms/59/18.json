@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Dhateng Paduka, oh Keluwihanku, aku bakan nyanyi memuji, awit Elohim papan pangungsèn dhuwurku, Elohim kabecikanku.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Keluwihanku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dhateng Paduka"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku nyanyi memuji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "papan pangungsèn dhuwurku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "kabecikanku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:57.463948190Z",
+  "model": "glm-5.3"
+}

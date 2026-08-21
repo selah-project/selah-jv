@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur bangkit Yonatan putrané Saul, lan lunga marang Dawid ing Horesya, lan nguataké ⟨את⟩ tanganné ing Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "banjur bangkit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan lunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "ing Horesya"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "lan nguataké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganné"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tanganné"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ing Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:44.288717908Z",
+  "model": "glm-5.3"
+}

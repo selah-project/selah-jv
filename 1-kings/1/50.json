@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 1:50",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Adoniyah wedi marang Shelomoh, banjur tangi lan lunga, sarta nyekel ing sungu-sungunge ⟨the⟩ altar.",
+  "tokens": [
+    {
+      "surface": "ואדניהו",
+      "gloss": "Lan Adoniyah"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "nyekel maneh"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "ing sungu-sungunge"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:09.346252986Z",
+  "model": "glm-5.3"
+}

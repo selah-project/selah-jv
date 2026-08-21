@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dhèwèké ngandika marang Yehuda supaya nggoleki ⟨את⟩ Yahweh, Elohim para leluhuré, lan nindakake sang Toret lan préntah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "marang Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "supaya nggoleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "para leluhuré"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "sang Toret"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "lan préntah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:37:49.613851932Z",
+  "model": "glm-5.3"
+}

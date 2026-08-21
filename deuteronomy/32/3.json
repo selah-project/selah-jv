@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Sebab asma Yahweh dak-wujudake; padha maringi kaluhuran marang Elohim kita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "dak-wujudake"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "padha maringi"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "marang Elohim kita"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:28.315114696Z",
+  "model": "glm-5.3"
+}

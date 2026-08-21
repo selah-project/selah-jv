@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sebab saka katresnané Yahweh marang ⟨את⟩ kowe lan saka panjagaané marang ⟨את⟩ sumpah sing diucapake marang para leluhurmu, Yahweh ngetokake ⟨את⟩ kowe kanthi tangan kang kuwat, lan nglunasi kowe saka omah para abdi, saka tangané Paroh raja Misrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "saka katresnané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe (objek katresnané)"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "lan saka panjagaané"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumpah"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "diucapake sumpahe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "marang para leluhurmu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe (objek ngetokake)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kanthi tangan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kang kuwat"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "lan nglunasi kowe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:32.755778051Z",
+  "model": "glm-5.3"
+}

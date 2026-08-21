@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan panjenengane ngaturake ⟨את⟩ kurban bakar iku, lan nindakaké miturut adat pancasané.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Lan panjenengane ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "lan nindakaké"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "miturut adat pancasané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:23.198814979Z",
+  "model": "glm-5.3"
+}

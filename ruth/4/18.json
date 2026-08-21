@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan iki kabeh keturunane Perets: Perets nglairake ⟨את⟩ Khetsron.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khetsron"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetsron"
+    }
+  ],
+  "timestamp": "2026-08-21T02:41:31.345552095Z",
+  "model": "glm-5.3"
+}

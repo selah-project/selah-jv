@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur utusan iku lunga, teka, lan nglaporake marang Dawid ⟨את⟩ kabeh sing diongkonake Yoab.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "banjur lunga"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nglaporake"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh sing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "diongkonake"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:29.541640502Z",
+  "model": "glm-5.3"
+}

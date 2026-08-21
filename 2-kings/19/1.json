@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan kadadéyan, bareng ratu Khizkiyahu krungu iku, banjur nyobek ⟨את⟩ sandhangané, lan sumengkel sarung karung, lan lumebu ing dalem Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéyan"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "bareng krungu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "banjur nyobek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangané"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "lan sumengkel"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "sarung karung"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan lumebu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dalem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:45.687839309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Dene Ingsun mulani Efrayim mlaku, Ingsun nggondholi ing lengene, nanging padha ora weruh yèn Ingsun sing nambani dheweke.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Dene Ingsun"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "Ingsun mulani mlaku"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "Ingsun nggondholi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "lene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "padha weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "Ingsun nambani dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:09.995103269Z",
+  "model": "glm-5.3"
+}

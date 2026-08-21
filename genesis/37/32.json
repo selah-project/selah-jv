@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan padha ngirim ⟨את⟩ jubah palang-palang iku, banjur padha ngaturake marang bapakne, sarta padha ngucap: Iki padha sukani; mangga padha pirsa, apa iku jubah anakmu, apa dudu.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "lan padha ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubah iku"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "palang-palang iku"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "banjur padha ngaturake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta padha ngucap"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "padha sukani"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "mangga padha pirsa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "apa iku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:54.953620738Z",
+  "model": "glm-5.3"
+}

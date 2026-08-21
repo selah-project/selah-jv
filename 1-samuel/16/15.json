@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Para abdiné Shaül ngendika marang panjenengané: Punika, kula mugi, roh Ala kang nggetuni panjenengan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para abdiné"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang panjenengané"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "punika"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kula mugi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "nggetuni panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:21.772103499Z",
+  "model": "glm-5.3"
+}

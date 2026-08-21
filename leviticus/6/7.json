@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan iki toreté minchah: ngcedakake ⟨את⟩-é — anak-anaké Aharon ngcedakake ing ngarsané Yahweh, ing ngarsaning mizbeach.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "toreté"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ngcedakake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "minchah (sembahé)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsaning"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:07.898682469Z",
+  "model": "glm-5.3"
+}

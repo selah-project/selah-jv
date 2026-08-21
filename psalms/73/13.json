@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Temeh supe aku ndadekake resik atiku, lan aku ngumbah tanganku ing kaluputan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "temeh"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "supe"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ndadekake resik aku"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "lan aku ngumbah"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ing kaluputan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tanganku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:04.840173668Z",
+  "model": "glm-5.3"
+}

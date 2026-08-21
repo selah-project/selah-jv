@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Serapim ngadeg ing dhuwuré Panjenengané; enem swiwi, enem swiwi kanggo saben siji; mawa kalih diapusi praupané, mawa kalih diapusi sikilé, lan mawa kalih mabur.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serapim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Panjenengané"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enem"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "swiwi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enem"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "swiwi"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "kanggo saben siji"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "mawa kalih"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "diapusi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "praupané"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "lan mawa kalih"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "diapusi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sikilé"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "lan mawa kalih"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "mabur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:43.901133485Z",
+  "model": "glm-5.3"
+}

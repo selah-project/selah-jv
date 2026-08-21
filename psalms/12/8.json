@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Kowé, Yahweh, sing ngetrena ⟨את⟩ awake; kowé ngetoni awake saka ing angkat-angkatan iki, salawas-lawasé.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "ngetrena awake"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "ngetoni awake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ing angkat-angkatan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawasé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:08.508035539Z",
+  "model": "glm-5.3"
+}

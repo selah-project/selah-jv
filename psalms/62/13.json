@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Lan munggah ing Dhea, Adonai, kasih setya; awit Dhea piyambak mbalèni marang saben wong miturut pandamelé.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "lan munggah ing Dhea"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasih setya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Dhea piyambak"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "mbalèni"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "marang saben wong"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "miturut pandamelé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:05.914989805Z",
+  "model": "glm-5.3"
+}

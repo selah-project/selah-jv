@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 117,
+  "translation": "Sebab kasih setiane kang ngungkuli kita, lan setane Yahweh ⟨langgeng⟩ nganti salawas-lawase; pamujia Yah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ngungkuli"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasih setiane"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "lan setane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pamujia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:25.404833287Z",
+  "model": "glm-5.3"
+}

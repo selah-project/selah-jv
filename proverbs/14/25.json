@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Saksi setya ngluwari nyawa; sing ngapusake luput iku penipuan.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "setya"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "sing ngapusake"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "luput"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "penipuan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:14:27.329792686Z",
+  "model": "glm-5.3"
+}

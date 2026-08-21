@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Rancangané wong sing sregep mung nuwuhaké kaluwihan; nanging saben wong sing grusa-grusu mung nuwuhaké kakorangan.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "rancangané"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "wong sing sregep"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "kaluwihan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nanging saben"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "sing grusa-grusu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "kakorangan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:16:41.235818199Z",
+  "model": "glm-5.3"
+}

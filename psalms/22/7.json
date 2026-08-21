@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Déné aku ⟨iku⟩ ulat, dudu manungsa; cidra manungsa, lan sinengsarani umat.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Déné aku"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "cidra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "lan sinengsarani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:32.622078358Z",
+  "model": "glm-5.3"
+}

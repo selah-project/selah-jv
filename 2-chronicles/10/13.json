@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sang nata maturi wong-wonge kanthi atos, lan sang nata Rehoboam ngeculake ⟨את⟩ pitedahe para sesepuh.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "maturi wong-wonge"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kanthi atos"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ngeculake"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehoboam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitedahe para sesepuh"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "pitedahe"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para sesepuh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:36:27.298525455Z",
+  "model": "glm-5.3"
+}

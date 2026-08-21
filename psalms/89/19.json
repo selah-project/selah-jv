@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Awit manunggalé perisay kita ⟨iku⟩ marang Yahweh, lan ratu kita marang Sang Suci ing Yisrael.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "perisay kita"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "lan marang Sang Suci"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ratu kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:43.117321163Z",
+  "model": "glm-5.3"
+}

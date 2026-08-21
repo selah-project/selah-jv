@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Kanggo pangandhita wirama; mizmor kanggo Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangandhita wirama"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:14.388363409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Uzzi nurokake ⟨את⟩ Zerachyah, lan Zerachyah nurokake ⟨את⟩ Merayot.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Lan Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachyah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "lan Zerachyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayot"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:00.676177515Z",
+  "model": "glm-5.3"
+}

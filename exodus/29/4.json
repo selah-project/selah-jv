@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan ⟨את⟩ Aharon lan ⟨את⟩ anake kowe aturaka cedhak ing lawanging kemah pasamuwan, lan kowe umbahi ⟨את⟩ dheweke nganggo banyu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "kowe aturaka cedhak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "kowe umbahi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nganggo banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:39.688930410Z",
+  "model": "glm-5.3"
+}

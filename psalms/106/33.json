@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Sebab padha ngegeti ⟨את⟩ rohe, satemah Moshe ngucap krampung ing lambe-lambe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "padha ngegeti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rohe"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rohe"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "satemah ngucap krampung"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ing lambe-lambe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:36.649599545Z",
+  "model": "glm-5.3"
+}

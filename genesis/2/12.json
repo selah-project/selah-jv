@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan emas ing bumi iku becik; ing kono ana bedolakh lan watu syoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "lan emas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolakh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "lan watu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "syoham"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:30.941822724Z",
+  "model": "glm-5.3"
+}

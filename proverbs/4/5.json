@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Tuku katrampilan, tuku pangerten; aja lali, lan aja mlengos saka pangucaping cangkemku.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "tuku"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "katrampilan"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "tuku"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pangerten"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lali"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תט",
+      "gloss": "mlengos"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "saka pangucapan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:12.402495956Z",
+  "model": "glm-5.3"
+}

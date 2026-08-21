@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Wong-wong sing kapaten ⟨wong-wonge⟩ bakal dibuwang, lan bangke-bangke bakal mundhak ambune, lan gunung-gunung bakal lumar saka getihe.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "lan wong sing kapaten"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "bakal dibuwang"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "lan bangke-bangke"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bakal mundhak"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "ambune"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "lan bakal lumar"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "saka getihe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:58.432795015Z",
+  "model": "glm-5.3"
+}

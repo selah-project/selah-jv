@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Ndelenana, Aku wus weneh ing ngarsanira dina iki ⟨את⟩ urip lan ⟨את⟩ kabecikan, lan ⟨את⟩ pati lan ⟨את⟩ kakraan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Ndelenana"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku wus weneh"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsanira"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urip"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabecikan"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pati"
+    },
+    {
+      "surface": "המות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kakraan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kakraan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:39.068182749Z",
+  "model": "glm-5.3"
+}

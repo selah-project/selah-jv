@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Nalika sliramu lumaku, langkahmu ora bakal kepetengan; lan menawa sliramu mlayu, ora bakal klencu.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "nalika sliramu lumaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "bakal sempit\/kepetengan"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "langkahmu"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "sliramu mlayu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "bakal klencu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:59.952319309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Siraha, mripate Yahweh marang wong-wong sing wedi marang Panjenengane, marang para sing ngenteni kasetyane.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "siraha"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mripat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wong-wong sing wedi marang Panjenengane"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "marang para sing ngenteni"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:56.869305444Z",
+  "model": "glm-5.3"
+}

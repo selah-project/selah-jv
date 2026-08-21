@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan kowe nggawa ing kono kurban obongmu lan kurban sembelihanmu, lan ⟨את⟩ persepuluhanmu lan ⟨את⟩ persembahtanganmu, lan nadzarmu lan persembahan sukarelamu, lan anak sulunge sapi-sapimu lan wedhus-wedhusmu.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "lan-kowe-nggawa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing-kono"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "kurban-obongmu"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "lan-kurban-sembelihanmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "persepuluhanmu"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "persepuluhanmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "persembahtanganmu"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "persembahtanganmu"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "lan-nadzarmu"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "lan-persembahan-sukarelamu"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "lan-anak-sulunge"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "sapi-sapimu"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "lan-wedhus-wedhusmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:13.592876441Z",
+  "model": "glm-5.3"
+}

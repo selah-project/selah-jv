@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Awit ⟨dheweke⟩ ora nggatekake panggaweane Yahweh, lan ora marang gaweyan tangan-⟨tangan⟩-e, ⟨panjenengane⟩ ngrubuhake ⟨dheweke⟩ lan ora ngadegake maneh ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ora nggatekake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "panggawean"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan ora marang"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gaweyan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangan-tangan-e"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ngrubuhake dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ngadegake dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:48.327567945Z",
+  "model": "glm-5.3"
+}

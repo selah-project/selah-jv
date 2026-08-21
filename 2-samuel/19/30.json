@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan raja ngandika marang dheweke: Yaapa kok isih ngomongake prakaramu? Wus tak ngandika: kowe lan Tsiba padha para ⟨את⟩ sawah iku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "למה",
+      "gloss": "yaapa"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kok ngomongake"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "prakaramu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "wus tak ngandika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "lan Tsiba"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "padha para"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sawah iku"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sawah iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:11:24.139266343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim ndeleng ⟨את⟩ pangérawe iku bilih becik, lan Elohim misahake antarane pangérawe iku lan peteng.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lan ... ndeleng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangérawe"
+    },
+    {
+      "surface": "האור",
+      "gloss": "pangérawe iku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilih"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "lan ... misahake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "האור",
+      "gloss": "pangérawe iku"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "peteng"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:15.793774168Z",
+  "model": "glm-5.3"
+}

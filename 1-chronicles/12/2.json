@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Para juru-panah gendewa, nganggo tangan tengen lan tangan kiwa nganggo watu lan panah ing gendewa; saka sedulure Shaul, saka Binyamin.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "para juru-panah"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "gendewa"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "nganggo tangan tengen"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "lan tangan kiwa"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "nganggo watu"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "lan panah"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ing gendewa"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "saka sedulure"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "saka Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-21T03:21:31.357736129Z",
+  "model": "glm-5.3"
+}

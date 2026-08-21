@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 15:24",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lamun ana wong lanang tumindak rasmi ⟨את⟩ dheweke lan kadadeyan haidhe ana ing dhuwure, dheweke lumuh pitung dina, lan pasangan apa wae sing dheweke tinurenan dadi lumuh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "tumindak rasmi"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "tinurenan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kadadeyan"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "haidhe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dheweke lumuh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan pasangan apa wae"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "pasangan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "dheweke tinurenan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dadi lumuh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:51.305121069Z",
+  "model": "glm-5.3"
+}

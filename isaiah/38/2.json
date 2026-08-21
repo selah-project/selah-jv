@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Banjur Khizkiyahu mbalikake rainé marang tembok lan ndedonga marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "banjur mbalikake"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rainé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "lan ndedonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:20.917476949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan iku ngukur ⟨את⟩ pendhapa gapura iku wolu asta, lan cagane loro asta, lan pendhapa gapura iku ngadhep ⟨the⟩ bageyan.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "lan iku ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pendhapa gapura"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "pendhapa"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapura iku"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "wolu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "וילו",
+      "gloss": "lan cagane"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "lan pendhapa"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapura iku"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ngadhep bageyan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:14:52.883314295Z",
+  "model": "glm-5.3"
+}

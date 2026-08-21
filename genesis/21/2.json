@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Sarah ngandhut lan nglairake Avraham putra ing jaman sepuhe, ing wektu sing wis ditetepake sing wis dhiwacakake Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Lan ngandhut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lan nglairake"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "marang Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "ing jaman sepuhe"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ing wektu sing ditetepake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wis dhiwacakake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-e",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:08.694390139Z",
+  "model": "glm-5.3"
+}

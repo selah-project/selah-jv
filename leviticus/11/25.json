@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan sapa wae sing nggawa saka bangké dibatangé padha ngumbah klambiné lan najis nganti sore.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lan sapa wae"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "saka bangké dibatangé"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ngumbah"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "klambiné"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "lan najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:42.280779065Z",
+  "model": "glm-5.3"
+}

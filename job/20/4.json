@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Apa kowe durung weruh iki saka biyèn, wiwit saka wektu manungsa tinatake ing bumi",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "apa kowe durung weruh"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wiwit saka wektu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka"
+    },
+    {
+      "surface": "שים",
+      "gloss": "tinatake"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:28:52.335048661Z",
+  "model": "glm-5.3"
+}

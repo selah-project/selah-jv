@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan kadadéan, bareng karaton kukuhat marang panjenengane, panjenengane matèni ⟨את⟩ abdi-abdiné sing wus matèni ⟨את⟩ raja bapakné.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kukuhat"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "matèni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdiné"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdiné"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "sing wus matèni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    }
+  ],
+  "timestamp": "2026-08-21T03:42:28.232429580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan umat iku tinindhes, siji marang siji, lan siji marang kancane; sing enom nggalak-ngalik marang sing tuwa, lan sing asor marang sing luhur.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "tinindhes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat iku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "marang siji"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan siji"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "marang kancane"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "nggalak-ngalik"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "sing enom"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "marang sing tuwa"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "lan sing asor"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "marang sing luhur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:33.206208285Z",
+  "model": "glm-5.3"
+}

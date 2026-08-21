@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Awit swara nangisé wus mubeng ⟨את⟩ wewengkone Moab; nganti Eglayim pangedange, lan nganti Beer-Elime pangedange.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "wus mubeng"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "swara nangis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wewengkone"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wewengkone"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglayim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "pangedange"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "lan nganti Beer-"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elime"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "pangedange"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:58.281122984Z",
+  "model": "glm-5.3"
+}

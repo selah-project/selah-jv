@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Banjur wong Mesir bakal weruh yen Aku iki Yahweh, nalika Ingsun ngluwihi ⟨את⟩ tangan-Ku marang Mesir, lan Ingsun ngetokake ⟨את⟩ para putra Israel saka antarane.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "bakal weruh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mesir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "nalika Ingsun ngluwihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-Ku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "lan Ingsun ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putra Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "saka antarane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:14.773700756Z",
+  "model": "glm-5.3"
+}

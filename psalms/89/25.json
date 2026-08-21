@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Lan setyaku lan kasetyaning-kawulaku bakal ana ing sapadha-ne, lan lumantar asmanku sungune bakal dhuwur.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "lan setyaku"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "lan kasetyaning-kawulaku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ana ing sapadhane"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "lan lumantar asmanku"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "bakal dhuwur"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "sungune"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:34.626875470Z",
+  "model": "glm-5.3"
+}

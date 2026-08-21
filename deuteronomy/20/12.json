@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Nanging yèn iku ora gelem damé karo sira, nanging marebuti perang karo sira, kokupengana iku.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "nanging yèn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "gelem damé"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo sira"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "marebuti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo sira"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "kokupengana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:41.933733818Z",
+  "model": "glm-5.3"
+}

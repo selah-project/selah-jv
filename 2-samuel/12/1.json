@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur Yahweh ngutus ⟨את⟩ Natan marang Dawid; banjur teka dhèwèké marang panjenengane, banjur ngandika marang panjenengane: Ana wong loro ana ing sawijining kutha, siji sugih lan siji mlarat.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "banjur ngutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "שני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "wong"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ana ing kutha"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sawijining"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "sugih"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "lan siji"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mlarat"
+    }
+  ],
+  "timestamp": "2026-08-21T04:46:42.824415428Z",
+  "model": "glm-5.3"
+}

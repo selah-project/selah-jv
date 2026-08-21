@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan sawijining wong nemu awake, lan lah ia kesasar ing padhang; lan wong iku takon marang awake, ngucap: Kowé ngojak apa?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "lan nemu awake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sawijining wong"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "kesasar"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing padhang"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "lan takon marang awake"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ngojak"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:27.085649161Z",
+  "model": "glm-5.3"
+}

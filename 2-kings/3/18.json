@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan iki ⟨⟨is⟩⟩ sepele ing paningale Yahweh, lan Panjenengane bakal menehi ⟨את⟩ Moab ing tanganmu.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "lan sepele"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "lan bakal menehi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ing tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:26.314595056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Aku Yahweh, iku asma-Ku; lan kamulyan-Ku ora Kuparingake marang liya, lan pepujian-Ku ora kanggo brahala-brahala pahatan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "asma-Ku"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "lan kamulyan-Ku"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "marang liya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Kuparingake"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "lan pepujian-Ku"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "ora kanggo brahala-brahala pahatan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:41.208322865Z",
+  "model": "glm-5.3"
+}

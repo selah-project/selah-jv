@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Bakal tambah-mambah raosate para sing gegegas marang liyane; ora bakal dak-uncalake unjukan sesajene saka getih, lan ora bakal dak-angkat ⟨את⟩ asma-asmane ing lambeku.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "bakal tambah-mambah"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "raosate \/ sesembahane"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "marang liyane"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "sing gegegas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "dak-uncalake"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "unjukan sesajene"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "saka getih"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "dak-angkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma-asmane"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "asma-asmane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lambeku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:11.002457611Z",
+  "model": "glm-5.3"
+}

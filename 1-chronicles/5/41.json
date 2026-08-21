@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Yehotsadak katibo nalika Yahweh niboake ⟨את⟩ Yehuda lan Yerushalayim ing tangan Nebukadnetsar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Lan Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "katibo"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "nalika niboake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing tangan"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnetsar"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:00.521805638Z",
+  "model": "glm-5.3"
+}

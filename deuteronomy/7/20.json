@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan uga ⟨את⟩ tawon-tawon bakal ditumpe Yahweh Elohimira ing tengah-tengahe, nganti sirna apa sing isih turah lan sing ndhelik saka ngarsamu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawon-tawon"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tawon-tawon"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bakal ditumpe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing tengah-tengahe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "sirna"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "sing isih turah"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "lan sing ndhelik"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "saka ngarsamu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:52.946301049Z",
+  "model": "glm-5.3"
+}

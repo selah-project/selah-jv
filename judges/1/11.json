@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur ⟨ia⟩ maju saka kana marang padunung Dhébir — lan jeneng Dhébir biyen Kiryat-Séfer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "banjur maju"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "padunung"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Dhébir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lan jeneng"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Dhébir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "biyen"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:35.284060599Z",
+  "model": "glm-5.3"
+}

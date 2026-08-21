@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 7:2",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan sang raja munjuk marang Ester: uga ing dina kang kapindho, ing pasamuan anggur, apa pandhuku panjenengan, Ester sang prameswari, supaya kaparingake dhateng panjenengan? lan apa panyuwun panjenengan, nganti satengahing karaton, supaya kalampahan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "marang Ester"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kang kapindho"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "ing pasamuan"
+    },
+    {
+      "surface": "היין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "pandhuku panjenengan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "sang prameswari"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "lan kaparingake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dhateng panjenengan"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan apa"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "panyuwun panjenengan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "satengahing"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "lan kalampahan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:57.844293609Z",
+  "model": "glm-5.3"
+}

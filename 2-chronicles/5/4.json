@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan para sesepuh Israèl padha teka kabèh, banjur para Lewi mundhak ⟨את⟩ Pithan iku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lan padha teka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "banjur padha mundhak"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "para Lewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pithan iku"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Pithan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:33:56.586480248Z",
+  "model": "glm-5.3"
+}

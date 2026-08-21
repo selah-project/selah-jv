@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨dheweke⟩ nyembelih ⟨את⟩ sapi lan nggawa ⟨את⟩ bocah mau marang Eli.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "lan ⟨dheweke⟩ nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "⟨the⟩ sapi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "lan nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah mau"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨the⟩ bocah mau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:25.149237703Z",
+  "model": "glm-5.3"
+}

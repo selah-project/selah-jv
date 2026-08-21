@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Mulane ora kita wedi nalika bumi owah, lan nalika gunung-gunung keseret menyang jroning segara.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "kita wedi"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "nalika owah"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "lan nalika keseret"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "menyang jroning"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "segara"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:03.350679027Z",
+  "model": "glm-5.3"
+}

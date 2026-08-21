@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Bandha lan sugih ⟨ana⟩ ing omah-E, lan kabecik-E ngadeg langgeng.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "bandha"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "lan sugih"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ing omah-E"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "lan kabecik-E"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "langgeng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:26.592968102Z",
+  "model": "glm-5.3"
+}

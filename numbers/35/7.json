@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Kabeh kutha kang sira awehake marang wong Lewi: patang puluh wolung kutha, ⟨את⟩ kutha-kuthané lan ⟨את⟩ panggonan pangonané.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "sira awehake"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "marang wong Lewi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patang puluh"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "wolung"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "kutha-kuthané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "panggonan pangonané"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "panggonan pangonané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:42.208695507Z",
+  "model": "glm-5.3"
+}

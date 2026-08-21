@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan kowé bakal nadhakake ⟨את⟩ Aharon lan ⟨את⟩ putra-putrané marang ing lawanging kemah pasamuwan, lan kowé bakal ndhelikake ⟨את⟩ awaké ing toya.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "lan kowé bakal nadhakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "putra-putrané"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrané"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "lan kowé bakal ndhelikake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ awaké",
+      "marks": "Aharon lan putra-putrané"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing toya"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:02.492793602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Gunung-gunung munggah, lembah-lembah mudhun, menyang panggonan sing Kowé yasa tumrap dhèwèké.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "mudhun"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "lembah-lembah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Kowé yasa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tumrap dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:49.268435589Z",
+  "model": "glm-5.3"
+}

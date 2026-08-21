@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Apa aku kurang wong-wong edan, nganti kowe ngetokake ⟨את⟩ wong iki supaya pada edan neng aku? Apa wong iki kudu teka menyang omahku?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "wong-wong edan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kowe ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong iki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wong iki"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "supaya pada edan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "neng aku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wong iki"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kudu teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "omahku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:30.504782432Z",
+  "model": "glm-5.3"
+}

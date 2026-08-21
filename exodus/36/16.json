@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan dheweke nyambungake ⟨את⟩ limang lawon kasebut piyambak, lan ⟨את⟩ nenem lawon kasebut piyambak.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "lan dheweke nyambungake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limang lawon kasebut"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "lawon kasebut"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "piyambak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "nenem lawon kasebut"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nenem"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "lawon kasebut"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "piyambak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:10.243681655Z",
+  "model": "glm-5.3"
+}

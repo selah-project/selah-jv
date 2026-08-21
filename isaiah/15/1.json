@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Pikulan Moab. Awit ing wayah wengi Ar-Moab dirusak, kasilent; awit ing wayah wengi Kir-Moab dirusak, kasilent.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pikulan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ing wayah wengi"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dirusak"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "kasilent"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ing wayah wengi"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "dirusak"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "kasilent"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:04.464941789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Banjur sang raja tangi, nyobek ⟨את⟩ sandhangé, lan tumangkul ing lemah; lan kabeh abdiné padha ngadeg, sandhangé sampyan sobek.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "nyobek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangé"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangé"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "tumangkul"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ing lemah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdiné"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "padha ngadeg"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "sampyan sobek"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "sandhangé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:37.301847763Z",
+  "model": "glm-5.3"
+}

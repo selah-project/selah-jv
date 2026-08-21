@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Aku nguwuh marang Elohim sing Mahaluhur, marang El sing ngrampungake tumrap aku.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "aku nguwuh"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "sing Mahaluhur"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "marang El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "sing ngrampungake"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tumrap aku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:45.054553819Z",
+  "model": "glm-5.3"
+}

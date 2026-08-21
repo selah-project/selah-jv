@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan Aku bakal maringi udanira ing mangsane, lan bumi iku bakal aweh asile, lan wit ing sawah bakal ngunggahake wohe.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Lan Aku bakal maringi"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "udanira"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ing mangsane"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "lan bakal aweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "asile"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "lan wit"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ing sawah"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bakal ngunggahake"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "wohe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:28.961333847Z",
+  "model": "glm-5.3"
+}

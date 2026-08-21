@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sing padha sengit marang kabecikan lan tresna marang kaluputan; sing nglapah kulit saka awake lan daging saka balunge.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "sing padha sengit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "marang kabecikan"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "lan tresna"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "marang kaluputan"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "sing nglapah"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "saka awake"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "lan daging"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "balunge"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:16.860334459Z",
+  "model": "glm-5.3"
+}

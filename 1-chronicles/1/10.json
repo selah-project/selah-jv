@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Kush nurrenake ⟨את⟩ Nimrod; dheweke wiwit dadi wong gagah ing bumi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Lan Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nurrenake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "החל",
+      "gloss": "wiwit"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wong gagah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:37.442868233Z",
+  "model": "glm-5.3"
+}

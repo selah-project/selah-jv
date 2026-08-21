@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan bani-bani Ammon liwat ⟨את⟩ Yarden kanggo perang uga marang Yehudha lan marang Binyamin lan marang bêt Ephrajim, lan Israel kakesheng sanget.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "lan liwat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani-bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kanggo perang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "marang Yehudha"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "lan marang Binyamin"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "lan marang bêt"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "lan kakesheng"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    }
+  ],
+  "timestamp": "2026-08-20T23:50:25.539424731Z",
+  "model": "glm-5.3"
+}

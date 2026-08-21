@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Yahweh iku ⟨urip⟩, lan pinuji watu karangku, lan kasangga dhuwur Eloah slamatku.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "lan pinuji"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "watu karangku"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "lan kasangga dhuwur"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "slamatku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:20.223520600Z",
+  "model": "glm-5.3"
+}

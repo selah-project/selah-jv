@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Nuguhana ⟨את⟩ Yahweh lan padha urip, supaya ⟨Ia⟩ ora ndadèkaké geni nyala ing betha Yusuf lan mundhak, lan ora ana sing matèni ing Bet-El.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "nuguhana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "lan padha urip"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "nyala murub"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "kaya geni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "betha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "ו אכלה",
+      "gloss": "lan mundhak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "sing matèni"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ing Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T01:29:51.468597165Z",
+  "model": "glm-5.3"
+}

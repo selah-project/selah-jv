@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan padha njupuk ⟨את⟩ ilad pawon-tungku, lan padha ngadeg ing ngarsane Paroh, lan Moshe ngeburi ⟨את⟩ iku marang langit, lan dadi sisihan bisul-bisul mbesik sing miyaraké ing manungsa lan ing kewan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lan padha njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilad pawon-tungku"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "ilad"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "pawon-tungku"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "lan padha ngadeg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "lan ngeburi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (ilad iku)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "marang langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "sisihan"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "bisul-bisul mbesik"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "miyaraké"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ing manungsa"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "lan ing kewan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:45.765526486Z",
+  "model": "glm-5.3"
+}

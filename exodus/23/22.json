@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Awit menawa temen rungu ing swarane lan nindakake kabeh kang kukandhakake, Aku bakal dados mungsuh ⟨את⟩ mungsuhmu lan ngencoki ⟨את⟩ sing ngencokimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "temen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "rungu"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ing swarane"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "kukandhakake"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "lan bakal dados mungsuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mungsuhmu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mungsuhmu"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "lan ngencoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing ngencokimu"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "sing ngencokimu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:18.281885999Z",
+  "model": "glm-5.3"
+}

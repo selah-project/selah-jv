@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 20:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan Ben-Hadad ngirim mréné marang awake sarta ngandika: Mengkonopara dewa nindakake mréné marang ingsun, lan mengkono maneh para dewa nambahi, menawa biding Shomeron bisa minangka cepengan tumrap sakehing wong kang nunggangi sakabehing wong kang ana ing sapadhaking sikilingsun.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan ngirim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang ingsun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para dewa"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "lan mengkono maneh"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "nambahi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "ישפק",
+      "gloss": "bisa minangka cepengan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "biding"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "לשעלים",
+      "gloss": "tumrap cepengan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sakehing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "ana ing sapadhaking sikilingsun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:55.473937872Z",
+  "model": "glm-5.3"
+}

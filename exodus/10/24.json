@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Paraoh banjur ngundangake Moshe, lan ngandika: Sumangga, matur nuwun ⟨את⟩ Yahweh; mung kewan-kewanmu lan sapi-mu kudu ditinggal, bocah-bocahmu uga bisa mlayu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lan ngundangake"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Sumangga"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "matur nuwun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "mung"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "kewan-kewanmu"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "lan sapi-mu"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "kudu ditinggal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "bocah-bocahmu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "bisa mlayu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bareng kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:22.239347545Z",
+  "model": "glm-5.3"
+}

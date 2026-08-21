@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Aja padha seneng marang aku dhihi saka prajuritku sing palsu, saka sing padu gethuku tanpa sabab padha ngguyu ⟨ndelengake⟩ mripat",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "padha seneng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "para mungsuhku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kanthi palsu"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "sing padu gethek marang aku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sabab"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "ngguyu-keker"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mripat"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:09.281570422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Lan para bangsa bakal lumaku marang cahyanira, lan para ratu marang padange wiyaré sangisingira.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "lan bakal lumaku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "marang cahyanira"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "lan para ratu"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "marang padange wiyaré"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "sangisingira"
+    }
+  ],
+  "timestamp": "2026-08-21T04:10:02.486756147Z",
+  "model": "glm-5.3"
+}

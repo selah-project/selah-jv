@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 122,
+  "translation": "Dhemi sadulur-sadulurku lan kanca-kancaku, kula matur: mugi karahayon ana ing sliramu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Dhemi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sadulur-sadulurku"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "lan kanca-kancaku"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "kula matur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "(patrap alus)"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karahayon"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing sliramu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:09.560260703Z",
+  "model": "glm-5.3"
+}

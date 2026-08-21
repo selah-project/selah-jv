@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Supaya kabungahan kumluwut nglagokake pamuji marang Sira lan ora meneng. Yahweh, Elohim-ku, ing salawas-lawase aku ngaturake puji syukur marang Sira.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "nglagokake pamuji marang Sira"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabungahan kumluwut"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "meneng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ing salawas-lawase"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aku ngaturake puji syukur marang Sira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:01.730367371Z",
+  "model": "glm-5.3"
+}

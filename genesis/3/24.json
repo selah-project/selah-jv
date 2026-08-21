@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ⟨dhèwèké⟩ ngusir ⟨את⟩ manungsa, lan ndadèkaké dumunung ing sisih wétan taman Eden ⟨את⟩ para kerub lan ⟨את⟩ pedhang murub kang muter-muter, kanggo njaga ⟨את⟩ dalané wit panguripan.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "lan ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "lan ndadèkaké dumunung"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "saka sisih wétan"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "ing taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "para kerub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pedhang murub"
+    },
+    {
+      "surface": "להט",
+      "gloss": "murub"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "kang muter-muter"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kanggo njaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wit"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "panguripan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:01.174336347Z",
+  "model": "glm-5.3"
+}

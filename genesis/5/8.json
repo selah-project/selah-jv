@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Dadi kabeh umure Shet rolas las taun sangang atus taun, banjur mati.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dadi (padha dadi)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "umure"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "las (sepuluh)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "lan sangang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "banjur mati"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:09.184828413Z",
+  "model": "glm-5.3"
+}

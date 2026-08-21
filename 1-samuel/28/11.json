@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan wong wadon mau ngucap: ⟨את⟩ sapa ta tak-nggetake dhumateng panjenengan? Lan dheweke ngucap: ⟨את⟩ Shemuel — nggetna dhumateng aku.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lan wong wadon mau ngucap"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wong wadon mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "tak-nggetake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "dhumateng panjenengan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dheweke ngucap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "nggetna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dhumateng aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:10.033271932Z",
+  "model": "glm-5.3"
+}

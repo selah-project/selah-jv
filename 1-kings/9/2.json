@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Yahweh mulih medhar marang Shelomoh kaping pindho, kaya dene medharing Panjenengane marang awake ing Givon",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "medhar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kaping pindho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "medhar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "ing Givon"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:18.328944983Z",
+  "model": "glm-5.3"
+}

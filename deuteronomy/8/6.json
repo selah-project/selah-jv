@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan kowe bakal ngati-ati ngglindhihi ⟨את⟩ parentahé Yahweh Elohimmu, kanggo mlaku ing dalan-dalané lan kanggo bekti marang ⟨את⟩-Né.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "lan kowe bakal ngati-ati ngglindhihi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentahé"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentahé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kanggo mlaku"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ing dalan-dalané"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "lan kanggo bekti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-Né",
+      "marks": "Yahweh Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:39.009069607Z",
+  "model": "glm-5.3"
+}

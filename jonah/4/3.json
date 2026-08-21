@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan saha, Yahweh, kondsira mundhut ⟨את⟩ nyawaku saka aku, sebecik luwih mati aku tinimbang urip.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Lan saha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kondsira mundhut"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawaku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik luwih"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "mati aku"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "tinimbang urip"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:11.318304487Z",
+  "model": "glm-5.3"
+}

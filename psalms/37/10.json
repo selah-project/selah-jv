@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan maneh sethithik, lan ora ana wong ala; lan kowé anggatekake ing panggone, lan dheweke ora ana.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "lan maneh"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sethithik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "lan kowé anggatekake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "panggone"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "lan dheweke ora ana"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:21.397698565Z",
+  "model": "glm-5.3"
+}

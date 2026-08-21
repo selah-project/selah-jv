@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Kotz nglairake ⟨את⟩ Anub lan ⟨את⟩ Hatzovevah, lan kaum-kulawargane Akharkhèl anak-e Harum.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Lan Kotz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anub"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Hatzovevah"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Hatzovevah"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "lan kaum-kulawargane"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Akharkhèl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak-e"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harum"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:25.328886119Z",
+  "model": "glm-5.3"
+}

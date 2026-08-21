@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Dawid wedi marang ⟨את⟩ Elohim ing dina iku, muwun: kepriyé aku bisa nggawa marang aku ⟨את⟩ peti-É Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "muwun"
+    },
+    {
+      "surface": "היך",
+      "gloss": "kepriyé"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "aku nggawa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:51.303149752Z",
+  "model": "glm-5.3"
+}

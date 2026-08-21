@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Kapungkas patang puluh dina kanggo ⟨dirine⟩, awit mangkono mau kapungkasan dina-dinane para kang disangeti; banjur wong Mesir nangisi ⟨את⟩ ⟨dirine⟩ pitung puluh dina.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "kapungkas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo ⟨dirine⟩"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patang puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono mau"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "kapungkasan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dina-dinane"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "para kang disangeti"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "banjur nangisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dirine"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mesir"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitung puluh"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:39.678375766Z",
+  "model": "glm-5.3"
+}

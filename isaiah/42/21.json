@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Yahweh kersa dhemi kabenerane, bakal ngedegake Torot lan ndadekake kaluhuran.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kersa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "dhemi"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "kabenerane"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "bakal ngedegake"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torot"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "lan ndadekake kaluhuran"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:02.652949671Z",
+  "model": "glm-5.3"
+}

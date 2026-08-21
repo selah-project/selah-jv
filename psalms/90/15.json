@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Bungahna kita miturut dinten-dinten kowé nandhangi kita, taun-taun kita nyingkur ⟨iku⟩ ala.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "bungahna"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "miturut dinten-dinten"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "kowé nandhangi kita"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "taun-taun"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "kita nyingkur"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:37.957726320Z",
+  "model": "glm-5.3"
+}

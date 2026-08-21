@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur Yahweh tata-tata yèn ⟨⟨dhèwèké⟩⟩ wis nitahake ⟨את⟩ manungsa ing bumi, lan atiné nesu-nesu ing sajroning atine",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "tata-tata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wis nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "nesu-nesu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:23.580348398Z",
+  "model": "glm-5.3"
+}

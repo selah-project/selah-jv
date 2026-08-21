@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Wadon iku ngandika marang ula: Saka wohing wit-wit ing taman iki padhaane padha bisa mangan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wadon iku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "saka wohing"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wit-wit"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ing taman"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "padha mangan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:51.139107558Z",
+  "model": "glm-5.3"
+}

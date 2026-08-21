@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Pinuji dadi Yahweh, Elohime Israel, saka sadurung jaman nganti tekan salawas-lawase, lan kabeh bangsa iku ngucap Amin. Puji-en Yah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji dadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "sadurung jaman"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Puji-en"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:39.858422817Z",
+  "model": "glm-5.3"
+}

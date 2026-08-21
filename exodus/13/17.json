@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan kadadéyan, nalika Paroh nguncalake ⟨את⟩ wong kono, Elohim ora nuntun dheweke marga dalaning bumi Pelesyet, sanadyan cedhak; sabab Elohim wus ngandika: Supaya ora nganti wong kono mundur atine bareng ndeleng perang, lan bali menyang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéyan"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "nalika nguncalake"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong kono"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kono"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "nuntun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "marga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sanadyan"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "cedhak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ora nganti"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "mundur atine"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kono"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "bareng ndeleng"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "lan bali"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "menyang Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:40.926364108Z",
+  "model": "glm-5.3"
+}

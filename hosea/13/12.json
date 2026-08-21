@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Kasalahan Efrayim kaikat, dosané kadhelikaké.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "kaikat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasalahan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "kadhelikaké"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dosané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:24.628964934Z",
+  "model": "glm-5.3"
+}

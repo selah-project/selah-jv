@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Kalumrahan bapakmu lan kalumrahan ibumu, aja kokbukak; ibumu ⟨iku⟩, aja kokbukak kalumrahane.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kalumrahan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "lan kalumrahan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kokbukak"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ibumu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iku⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kokbukak"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "kalumrahane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:51.004166109Z",
+  "model": "glm-5.3"
+}

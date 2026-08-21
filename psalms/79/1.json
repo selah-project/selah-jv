@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 79,
+  "translation": "Mazmur marang Asaf. Elohim, para bangsa wis teka ing warisan-Mu, wis nglumrahake ⟨את⟩ padaleman kadhas-Mu, ndadekake ⟨את⟩ Yerushalayim dadi tumpukan watu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "marang Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wiska teka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ing warisan-Mu"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "wisku nglumrahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padaleman kadhas-Mu"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "padaleman"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kadhas-Mu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ndadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "dadi tumpukan watu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:22.854507992Z",
+  "model": "glm-5.3"
+}

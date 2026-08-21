@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Urip iku dheweke nyuwun saka Paduka, lan Paduka maringi marang dheweke — dawaning dina, langgeng lawan salawasé.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nyuwun"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka Paduka"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Paduka maringi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dawaning"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "langgeng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lawan salawasé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:04.627262571Z",
+  "model": "glm-5.3"
+}

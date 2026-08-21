@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Padha getun ing ngarsané, sadaya bumi; ya bumi sing ndunungi bakal teteg, ora bakal obah.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "padha getun"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "saka ngarsané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "bakal teteg"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bumi sing ndunungi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "bakal obah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:24:28.313923626Z",
+  "model": "glm-5.3"
+}

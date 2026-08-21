@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Kagungané Dawid. Dhateng Paduka, Yahweh, awakku kula angkat.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kagungané Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dhateng Paduka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "awakku"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kula angkat"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:40.328350451Z",
+  "model": "glm-5.3"
+}

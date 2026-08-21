@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Bat-Sheba sumengker ngawula marang sang raja, lan sang raja ngandika: Ana apa karo kowe?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "banjur sumengker"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ngawula"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang sang raja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ana apa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "karo kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:57.076611592Z",
+  "model": "glm-5.3"
+}

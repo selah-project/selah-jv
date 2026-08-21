@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan ia kaundhuh, lan kabektakake marang ibune, lan ia lungguh ing pangkoné nganti tengah dinten, lan ia seda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "lan ia kaundhuh"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "lan kabektakake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan ia lungguh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "pangkoné"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tengah dinten"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lan ia seda"
+    }
+  ],
+  "timestamp": "2026-08-21T04:06:21.566470605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aku ndeleng, lan cula iku nindakake perang marang wong-wong suci, lan bisa ngungkalake dheweke.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "aku (ana\/iku)"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "lan cula"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "perang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "wong-wong suci"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "lan bisa"
+    },
+    {
+      "surface": "להון",
+      "gloss": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T04:24:02.778536317Z",
+  "model": "glm-5.3"
+}

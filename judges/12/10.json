@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Ibtsan seda, lan ◄ia► disarekake ing Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Lan ◄ia► seda"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "lan ◄ia► disarekake"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:24.215146604Z",
+  "model": "glm-5.3"
+}

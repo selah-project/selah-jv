@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan dheweke nglumpukake ⟨את⟩ kabeh panggedhe Israel, sarta para imam lan para Lewi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Lan dheweke nglumpukake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh panggedhe Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "sarta para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "lan para Lewi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:57.342896671Z",
+  "model": "glm-5.3"
+}

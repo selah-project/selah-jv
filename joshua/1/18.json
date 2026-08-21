@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sapa wong sing nglawan cangkeme kowe lan ora ngrungokake ⟨את⟩ tembung-tembungmu, ing kabeh sing kok parentah marang dhèwèké, bakal dipatèni; mung saya kukuh lan saya wani.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cangkeme kowe"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "cangkeme kowe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembungmu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tembung-tembungmu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ing kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "kok parentah marang dhèwèké"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bakal dipatèni"
+    },
+    {
+      "surface": "רק",
+      "gloss": "mung"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "saya kukuh"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "lan saya wani"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:18.447442278Z",
+  "model": "glm-5.3"
+}

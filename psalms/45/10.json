@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Putrané para raja ana ing antarane sing pinuji-mu; selir agung ngadeg ing tengenira, nganggo emas murni saka Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "ing antarane sing pinuji-mu"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "selir agung"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ing tengenira"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "nganggo emas murni"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "saka Ophir"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:49.678181242Z",
+  "model": "glm-5.3"
+}

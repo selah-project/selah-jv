@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 13:13",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan sira bakal ngandika marang padha, kaya mangkene sabdane Yahweh: Lah, Aku ngisi ⟨את⟩ sakabehing kang ndunungi bumi iki, lan ⟨את⟩ para ratu kang lenggah marang ing singgasanane Dawid, lan ⟨את⟩ para imam, lan ⟨את⟩ para nabi, lan ⟨את⟩ sakabehing kang ndunungi Yerushalayim, mawa kemabangan.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "lan sira bakal ngandika"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang padha"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabdane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lah, Aku iki"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "Aku ngisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing kang ndunungi bumi iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kang ndunungi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para ratu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kang lenggah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang ing Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "singgasanane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing kang ndunungi Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kang ndunungi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שכרון",
+      "gloss": "mawa kemabangan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:10:57.181944248Z",
+  "model": "glm-5.3"
+}

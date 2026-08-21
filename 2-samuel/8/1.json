@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur kadadéan sawisé mangkono, Daud ngejeg ⟨את⟩ wong Palèstyina lan ngasoraké dhèwèké; lan Daud njupuk ⟨את⟩ Metheg-Ammah saka tangané Palèstyina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ngejeg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Palèstyina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Palèstyina"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ngasoraké dhèwèké"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metheg-Ammah"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "tali kendhali"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "Ammah"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palèstyina"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:36.756245754Z",
+  "model": "glm-5.3"
+}

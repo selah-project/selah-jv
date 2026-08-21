@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Banjur Mosheh mrentah ⟨את⟩ wong akeh iku ing dinane iku, ngendika:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mrentah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong akeh iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh iku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:46.951902555Z",
+  "model": "glm-5.3"
+}

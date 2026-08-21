@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Ram nurrakake ⟨את⟩ Aminadab, lan Aminadab nurrakake ⟨את⟩ Nachshon, pangèrane anak-anak Yehudha.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Lan Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurrakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "lan Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nurrakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pangèran"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:49.982627789Z",
+  "model": "glm-5.3"
+}

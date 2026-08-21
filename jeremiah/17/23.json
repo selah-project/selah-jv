@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Nanging padha ora ngrungokake, lan ora padha mdhengakake ⟨את⟩ kupinge, sarta padha ngatos-atosake ⟨את⟩ guluhe, supaya ora ngrungokake lan supaya ora nampa pangepiye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "padha mdhengakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kupinge"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "kupinge"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "padha ngatos-atosake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guluhe"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "guluhe"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "lan supaya ora"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "nampa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pengepiye"
+    }
+  ],
+  "timestamp": "2026-08-21T00:54:48.047085997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Awit ⟨dhewe⟩ ing sadhuwuring segara ndhedhes ⟨dhé⟩, lan ing sadhuwuring kali-kali ngukuhaké ⟨dhé⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dhewe⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "ndhedhes ⟨dhé⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing sadhuwuring"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ngukuhaké ⟨dhé⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:50.271095915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Awit kaluputanku kuandharake, lan aku giati amargi dosaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "kaluputanku"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "kuandharake"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "aku giati"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "amargi dosaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:32.636972147Z",
+  "model": "glm-5.3"
+}

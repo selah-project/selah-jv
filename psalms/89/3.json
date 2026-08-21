@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Amarga aku wus ngandika: 'Salawasé kasetyan didhirikake; ing langit ⟨kau⟩ dhadèkake setyanmu ing jerone.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Amarga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku wus ngandika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Salawasé"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "didhirikake"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "⟨kau⟩ dhadèkake"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "setyanmu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing jerone"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:50.901575988Z",
+  "model": "glm-5.3"
+}

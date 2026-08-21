@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Bumine padha ngemprang kodhok, ing kamar-kamar para ratuné.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "ngemprang"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "buminé"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "kodhok"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "ing kamar-kamar"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "para ratuné"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:36.477724848Z",
+  "model": "glm-5.3"
+}

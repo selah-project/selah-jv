@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Munga wong-wong sing wedi marang Kowe bali marang aku, lan padha ngerti pasaksian-pasaksian-Mu",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "wong-wong sing wedi marang Kowe"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "lan padha ngerti"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "pasaksian-pasaksian-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:10.823847501Z",
+  "model": "glm-5.3"
+}

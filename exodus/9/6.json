@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Yahweh nindakake ⟨את⟩ perkara iku ing sanesane dinane, banjur sakabehing kewan-pijin Mesir padha mati; nanging saka kewan-pijine wong Israel ora ana siji bae sing mati.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ing sanesane dinane"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "banjur mati"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "kewan-pijin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "saka kewan-pijine"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:22.583854393Z",
+  "model": "glm-5.3"
+}

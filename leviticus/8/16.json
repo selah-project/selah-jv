@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dijupuk ⟨את⟩ sakèhé lemak kang ana ing njero weteng, lan ⟨את⟩ rontal ing ati, lan ⟨את⟩ loro panggalgiyah, lan ⟨את⟩ lemaké wong-wong mau; lan Mosheh ngobongaké ing pasucèn.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakèhé lemak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakèhé"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "njero weteng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "rontal ing ati"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "rontal"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "loro panggalgiyah"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "loro"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "panggalgiyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lemaké"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "lemaké"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ngobongaké"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ing pasucèn"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:32.672075114Z",
+  "model": "glm-5.3"
+}

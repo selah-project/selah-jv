@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Manawa aku ngandika, \"Kula bakal aturaken mangkene\", lah, aku kok ngelalekake marang trah'e anaking Paduka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku ngandika"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "bakal aturaken"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "דור",
+      "gloss": "trah"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anaking Paduka"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "aku ngelalekake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:04.840539731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Yen liyane dijupuk kanggo awake, panganane, sandhangane lan hak bejane ora enteng kurangake.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "liyane"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo awake"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "panganane"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "sandhangane"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "lan hak bejane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "enteng kurangake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:30.990164106Z",
+  "model": "glm-5.3"
+}

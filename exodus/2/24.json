@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Elohim ngrungokake ⟨את⟩ eruh-e, lan Elohim eling ⟨את⟩ prajanjiane, ⟨את⟩ Avraham, ⟨את⟩ Yitshak, lan ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eruh-e"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "eruh-e"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "lan eling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjiane"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "prajanjiane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:58.861259446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Sebab abdine Aku ⟨iha⟩ dheweke, sing Kawedharake metu ⟨את⟩ saka tanah Mitsrayim; ora bisa didol kanthi panjaluk awaké abdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdine Aku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Kawedharake metu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "saka tanah Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "bisa didol"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "kanthi panjaluk"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "awaké abdi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:44.490839537Z",
+  "model": "glm-5.3"
+}

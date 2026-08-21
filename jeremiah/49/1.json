@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 49:1",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Miturut bani Ammon mangkono sabdane Yahweh: Apa ⟨the⟩ Israèl ora duwé anak lanang? Apa ora duwé ahli waris? Yagéné Malkam nduwéni ⟨את⟩ Gad, lan umaté padha manggon ing kutha-kuthané?",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "miturut bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ahli waris"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "yagéné"
+    },
+    {
+      "surface": "ירש",
+      "gloss": "nduwéni"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gad"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "lan umaté"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ing kutha-kuthané"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "manggon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:05:46.192356018Z",
+  "model": "glm-5.3"
+}

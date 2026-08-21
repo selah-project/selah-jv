@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan ⟨את⟩ menara Penuel iku diruntuhake, lan dipateni ⟨את⟩ wong-wonging kutha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "menara Penuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "menara"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "diruntuhake"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "lan dipateni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wonging kutha"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wong-wonging"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:01.091242108Z",
+  "model": "glm-5.3"
+}

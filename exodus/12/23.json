@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sebab Yahweh bakal liwat kanggo nglumpruk ⟨את⟩ Mesir, lan nalika ⟨Ia⟩ mirsani ⟨את⟩ getih ing palang ing dhuwur lan ing saklawé paling lawang, Yahweh bakal ngléwati palanging lawang iku, lan ora bakal ngidinna Sang Pangajur lumebu menyang omah-omahmu kanggo nglumpruk.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "liwat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "kanggo nglumpruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mesir"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "palang ing dhuwur"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "saklawé"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "paling lawang"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "ngléwati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "palanging"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "lawang iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ora bakal"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ngidinna"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "Sang Pangajur"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "lumebu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "omah-omahmu"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "kanggo nglumpruk"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:54.233977262Z",
+  "model": "glm-5.3"
+}

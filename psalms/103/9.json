@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Ora salawase ⟨Panjenengane⟩ padu, lan ora nganti langgeng ⟨Panjenengane⟩ ngepek bendu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawase"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "⟨Panjenengane⟩ padu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti langgeng"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "⟨Panjenengane⟩ ngepek bendu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:39.998023766Z",
+  "model": "glm-5.3"
+}

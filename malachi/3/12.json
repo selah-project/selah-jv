@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan kabeh bangsa bakal ngucap berkah marang ⟨את⟩kowe kabeh, awit kowe dadi dharah kang karesepan, pangandikane Yahweh para bala.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "bakal ngucap berkah"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kowe kabeh",
+      "marks": "kowe kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kowe dadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dharah"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kang karesepan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "para bala"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:44.909458114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Dene bab kalairanmu, ing dinane kok lair ⟨אתך⟩ ari-arimu ora dipotong, lan ing banyu ora kok umus supaya resik, lan ora kok uyahi nganggo uyah, lan ora kok bunteli lawon.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Dene bab kalairanmu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "lair"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipotong"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "ari-arimu"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "lan ing banyu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "kok umus"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "supaya resik"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "lan kok uyahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "kok uyahi"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "lan kok bunteli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "kok bunteli"
+    }
+  ],
+  "timestamp": "2026-08-21T01:11:01.355037909Z",
+  "model": "glm-5.3"
+}

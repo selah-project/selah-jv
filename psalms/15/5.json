@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Witane dhuwite ora diwenehake minangka bunga, lan suap marang wong sing ora dosa ora dijupuk; sing nindakake iki ora bakal oyag salawase.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "dhuwite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diwenehake"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "minangka bunga"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "lan suap"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wong sing ora dosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bakal oyag"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawase"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:12.604174276Z",
+  "model": "glm-5.3"
+}

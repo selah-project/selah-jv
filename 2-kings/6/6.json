@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan wongé Elohim ngendika: Ing endi ⟨את⟩ tiba? Lan panjenengané nuduhaké ⟨את⟩ panggonan iku; banjur motong kayu lan nglungaké ing kono, lan wesi iku banjur ngambang.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ing endi"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "nuduhaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "motong"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "nglungaké"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "digawé ngambang"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "wesi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:24.337744972Z",
+  "model": "glm-5.3"
+}

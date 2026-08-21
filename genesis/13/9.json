@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Apa ⟨ora⟩ kabeh bumi iku ing ngarsanira? Pisaha, nyuwun, saka aku; menawa ing kiwa, aku ing tengen; lan menawa ing tengen, aku ing kiwa.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ⟨ora⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsanira"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "pisaha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyuwun"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "ing kiwa"
+    },
+    {
+      "surface": "ו אימנה",
+      "gloss": "lan aku-tengen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "tengen"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "lan aku-kiwa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:59.360008360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Sing ngucapaké asma-Mu ⟨kanthi⟩ niat ala, musuh-Mu nganggo ⟨ kang⟩ luput.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "ngucapaké Asma-Mu"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "kanthi niat ala"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nganggo"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "luput\/sipit"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "musuh-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:33.090463659Z",
+  "model": "glm-5.3"
+}

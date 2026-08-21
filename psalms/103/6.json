@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Yahweh nindakake kaadilan lan ⟨the⟩ pangadilan kanggo kabeh sing ditindes.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "kaadilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "lan pangadilan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kanggo kabeh"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "sing ditindes"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:47.502126919Z",
+  "model": "glm-5.3"
+}

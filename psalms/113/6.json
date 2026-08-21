@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 113,
+  "translation": "Sang andhapake dhewe kanggo ndeleng ing langit lan ing bumi.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "Sang andhapake dhewe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kanggo ndeleng"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "lan ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:29.807459845Z",
+  "model": "glm-5.3"
+}

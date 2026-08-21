@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Aku nganggoke langit kelengitan, lan Aku ndadekake kain sak tumutupane.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Aku nganggoke"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "kelengitan"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "lan kain sak"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "Aku ndadekake"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "tumutupane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:09.232910542Z",
+  "model": "glm-5.3"
+}

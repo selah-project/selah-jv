@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan ora bakal diarani maneh jenengmu ⟨את⟩ Avram, lan bakal dadi jenengmu Avraham, awit bapaké pirang-pirang bangsa Aku wènèhi dhèwè marang kowé.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bakal diarani"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenengmu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jenengmu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jenengmu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapaké"
+    },
+    {
+      "surface": "המון",
+      "gloss": "pirang-pirang\/bala"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Aku wènèhi dhèwè marang kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:40.007515258Z",
+  "model": "glm-5.3"
+}

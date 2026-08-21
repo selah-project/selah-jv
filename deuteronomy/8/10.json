@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan sira bakal mangan lan wareg, lan bakal memuji ⟨את⟩ Yahweh Elohim-mu bab ⟨the⟩ tanah sing becik sing wis diparingake marang sira.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "lan sira bakal mangan"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "lan wareg"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "lan bakal memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "bab"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ tanah"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "sing becik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wis diparingake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:30.931976834Z",
+  "model": "glm-5.3"
+}

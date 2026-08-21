@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Yahweh nemtokake wektu kang wis katetepake, ngendika: Sesuk Yahweh bakal nindakake ⟨את⟩ perkara iki ing bumi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nemtokake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wektu kang wis katetepake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "sesuk"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakal nindakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:22.583576479Z",
+  "model": "glm-5.3"
+}

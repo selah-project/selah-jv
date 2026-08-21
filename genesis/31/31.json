@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Yaakov njawab lan ngandika marang Lavan: Aku wedi, awit aku ngira yen kowe bakal ngrebut ⟨את⟩ putri-putrimu saka aku.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "njawab"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "marang Lavan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "aku wedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku ngira"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ngrebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putrimu"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "putri-putrimu"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "saka aku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:43.167032491Z",
+  "model": "glm-5.3"
+}

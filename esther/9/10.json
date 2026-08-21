@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sepuluh iku putrane Haman, putrane Hamdata, mungsuh wong Yehudi, padha dipateni; nanging marang jarahan awake dhewe ora nulak ⟨את⟩ tangane.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "wong Yehudi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "padha dipateni"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "nanging marang jarahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nulak\/ngejurekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:44.853167898Z",
+  "model": "glm-5.3"
+}

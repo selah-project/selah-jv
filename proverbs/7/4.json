@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Dhawuhna marang hakhmah, 'Kowé ⟨את⟩ sadulur wadonku', lan marang binah sebutna kanca raket.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Dhawuhna"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "marang hakhmah"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sadulur wadonku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kowé (hakhmah sing disapa)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "lan marang kawruh-raket"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "marang binah"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "sebutna"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:25.855774416Z",
+  "model": "glm-5.3"
+}

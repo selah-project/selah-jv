@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Apa Aku mangan daging sapi-sapi enak? Apa Aku ngombé getah wedhusé janggèl?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "Apa Aku mangan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "sapi-sapi enak"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "lan getah"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "wedhusé janggèl"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "Aku ngombé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:01.926319675Z",
+  "model": "glm-5.3"
+}

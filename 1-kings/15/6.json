@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan ana perang antarane Rehavam lan antarane Yarovam sadina-dina uripe.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Lan perang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadina-dina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "(dina-dina)"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "uripe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:21.664507569Z",
+  "model": "glm-5.3"
+}

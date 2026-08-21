@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 146,
+  "translation": "Yahweh njaga ⟨את⟩ para wong lanjang; yatim lan randha ditetepake, lan dalaning wong-wong ala didadekake mlenceng.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "njaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para wong lanjang"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "para wong lanjang"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "lan randha"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ditetepake"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "lan dalaning"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "dadekake mlenceng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:06.294649576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Bareng-bareng tawanana padha tentrem, ora krungu swara sing ngundhaki.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "bareng-bareng"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "tawanana"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "padha tentrem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "sing ngundhaki"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:31.758208910Z",
+  "model": "glm-5.3"
+}

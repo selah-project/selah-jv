@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Padhangana prajanjen-mu, amarga papan-petenging bumi kebak papan panggonaning kekerasan.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Padhangana"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "prajanjen-mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "papan-peteng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "papan panggonan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:29.275315895Z",
+  "model": "glm-5.3"
+}

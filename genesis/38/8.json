@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan Yehudha ngandika marang Onan: Sowana marang bojone kakangmu lan lakonana yibum ⟨את⟩ marang dheweke, lan ngadegake turun tumrap kakangmu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "marang Onan"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "sowana\/marang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang\/ing"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kakangmu"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "lakonana yibum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (Tamar)"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turun\/bibit"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "tumrap kakangmu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:58.953632920Z",
+  "model": "glm-5.3"
+}

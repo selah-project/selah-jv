@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Banjur dijupuk ⟨את⟩ kabeh emas lan salaka, sarta ⟨את⟩ kabeh prabot sing tinemu ing bale Yahweh lan ing papan-papan sandi bale ratu, uga ⟨את⟩ para sandera; banjur bali menyang Shomron.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh emas lan salaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "lan salaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "kabeh prabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "prabot"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "sing tinemu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ing bale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "lan ing papan-papan sandi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uga ⟨את⟩",
+      "marks": "para sandera"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "jaminan\/sandera"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "banjur bali"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "menyang Shomron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:21.775880118Z",
+  "model": "glm-5.3"
+}

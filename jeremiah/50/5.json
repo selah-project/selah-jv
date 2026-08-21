@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Tsiyon padha takon ⟨את⟩ dalan, mengkene rainé padha: Ayo teka, ayo nunggal marang Yahweh, prajanjian langgeng sing ora bakal dilali.",
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "padha takon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mengkene"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "rainé"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ayo teka"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "ayo nunggal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "langgeng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "dilali"
+    }
+  ],
+  "timestamp": "2026-08-21T04:12:25.939422791Z",
+  "model": "glm-5.3"
+}

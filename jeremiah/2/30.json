@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sia-sia Aku nglithi ⟨את⟩ anak-anakmu kabeh; ora ana sing nampa piwulang; pedhangmu nyisaake nabi-nabimu, kaya singa ngrusak.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "Aku nglithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakmu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "piwulang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nampa"
+    },
+    {
+      "surface": "אכלha",
+      "gloss": "nyisaake"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "pedhangmu"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "nabi-nabimu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kaya singa"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ngrusak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:20.968994625Z",
+  "model": "glm-5.3"
+}

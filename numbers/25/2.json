@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan ⟨dhewe⟩ ngajak umat iku marang paseban-paseban para déwane, lan umat iku mangan lan sumuwun marang para déwane.",
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "ngajak"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "umat iku"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "marang paseban-paseban"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "para déwane"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat iku"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "sumuwun"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "marang para déwane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:24.741130329Z",
+  "model": "glm-5.3"
+}

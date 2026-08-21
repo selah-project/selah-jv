@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Banjur para putrané Yisrael padha mbuwang ⟨את⟩-é para Baal lan ⟨את⟩-é Ashtarot, sarta padha ngladèni ⟨את⟩ Yahweh ijen waé.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "padha mbuwang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "sarta padha ngladèni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ijen waé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:54.576846379Z",
+  "model": "glm-5.3"
+}

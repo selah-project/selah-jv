@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Isuk wis cetha cahyané, lan para wong mau kasurung lunga — dheweke lan kalodhan-kalodhané.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "isuk"
+    },
+    {
+      "surface": "אור",
+      "gloss": "wis cetha cahyané"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "lan para wong"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kasurung lunga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "lan kalodhan-kalodhané"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:13.889302932Z",
+  "model": "glm-5.3"
+}

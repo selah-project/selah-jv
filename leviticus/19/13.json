@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Aja nindes kancaira, lan aja ngrampas; upah panggone wong sing nyambut gawe ⟨אתך⟩ aja nganti keliliran nganti esuk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "nindes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kancaira"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kancaira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ngrampas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "keliliran\/nang kono"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "upah panggone"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "wong nyambut gawe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:59.562573621Z",
+  "model": "glm-5.3"
+}

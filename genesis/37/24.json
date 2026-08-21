@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan padha njupuk dhèwèké, lan nguncalake ⟨את⟩ dhèwèké menyang sumur; lan sumur iku kosong, ora ana banyu ing njeroné.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "njupuk dhèwèké"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "nguncalake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "menyang sumur"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "lan sumur"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing njeroné"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:02.601825354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Sing luwih wigati tinimbang emas, ya luwih tinimbang akeh emas murni; luwih manis tinimbang sari madu lan tetesing sarang madu.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "Sing luwih wigati"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "tinimbang emas"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ya luwih tinimbang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "luwih manis"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "tinimbang sari madu"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "lan tetesing"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "sarang madu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:09.276701634Z",
+  "model": "glm-5.3"
+}

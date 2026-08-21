@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ratu Shelomoh luwih agung katimbang sakabehing para ratu ing bumi, ing kaluwihan sarta ing kawicaksanan.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "lan luwih agung"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "katimbang sakabehing"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "ing kaluwihan"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "sarta ing kawicaksanan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:50.504299555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Kowe ⟨enggone⟩ ratuku, Elohim; paringana paren panglipur-luwih tumrap Yakub.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨enggone⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ratuku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paringana paren"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "panglipur-luwih"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakub"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:57.324182960Z",
+  "model": "glm-5.3"
+}

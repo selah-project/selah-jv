@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan para sesepuh Yisrael kabeh teka, lan para imam angkat ⟨את⟩ ⟨the⟩ Peti.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "angkat"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peti"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Peti"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:17.316785964Z",
+  "model": "glm-5.3"
+}

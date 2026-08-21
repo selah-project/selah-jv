@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Yarobam ngandika ing atine: Saiki karajan bakal bali marang kulawargane Dawid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ing atine"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "marang kulawargane"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:37.747525792Z",
+  "model": "glm-5.3"
+}

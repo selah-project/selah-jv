@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Bangun, Yahweh, menyang panggonan anggenmu ngaso, kowe lan peti kakuwasanmu.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "menyang panggonan anggenmu ngaso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "lan peti"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuwasanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:35.753178648Z",
+  "model": "glm-5.3"
+}

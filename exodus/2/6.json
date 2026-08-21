@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan panjenengane mbukak lan mirsani ⟨את⟩ bocah iku, lan lah, bocah lanang nangis, lan panjenengane kasihan marang panjenengane, lan kandha: Saka among bocah-bocahing wong Ibrani iki ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "lan mbukak"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "lan mirsani panjenengane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bocah lanang"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nangis"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "lan kasihan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lan kandha"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "saka among bocah-bocah"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "wong Ibrani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:41.030798136Z",
+  "model": "glm-5.3"
+}

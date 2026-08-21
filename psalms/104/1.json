@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Dipuji kowé, jiwané aku, ⟨את⟩ Yahweh; Yahweh, Elohire aku, kowé dadi gedhé banget; hormat lan kamulyan kokenengi.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "dipuji kowé"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwané aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohire aku"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "kowé dadi gedhé"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hormat"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "lan kamulyan"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "kokenengi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:44.423130664Z",
+  "model": "glm-5.3"
+}

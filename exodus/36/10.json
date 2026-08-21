@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Banjur ⟨dhèwèké⟩ nyambungake ⟨את⟩ limang hanggar siji marang sijiné, lan limang hanggar manèh ⟨dhèwèké⟩ nyambungake siji marang sijiné.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "banjur nyambungake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limang hanggar"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "hanggar"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sijiné"
+    },
+    {
+      "surface": "ווחמש",
+      "gloss": "lan limang"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "hanggar"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "nyambungake"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sijiné"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:05.660340597Z",
+  "model": "glm-5.3"
+}

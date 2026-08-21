@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Marang Kowé ⟨padha⟩ njerit, lan padha luwar; ing Kowé padha setya, lan ora padha isin.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Marang Kowé"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "⟨padha⟩ njerit"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "lan padha luwar"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing Kowé"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "padha setya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "padha isin"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:32.621931230Z",
+  "model": "glm-5.3"
+}

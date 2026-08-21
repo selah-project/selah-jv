@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Swara ramé saka kutha, swara saka kayon, swara Yahweh mbales wales marang mungsuh-mungsuhe.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ramé"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "saka kutha"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "saka kayon"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "mbales"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "wales"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "marang mungsuh-mungsuhe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:12.985491062Z",
+  "model": "glm-5.3"
+}

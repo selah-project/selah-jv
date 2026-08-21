@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Tekane congkah banjur tekane cilaka, lan marang ⟨את⟩ wong-wong sing andhap asor ana katresnan marang kebijaksanaan.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "tekane"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "congkah"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "banjur tekane"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong-wong sing andhap asor"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "wong-wong sing andhap asor"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "katresanan marang kebijaksanaan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:39.262767130Z",
+  "model": "glm-5.3"
+}

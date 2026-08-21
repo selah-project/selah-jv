@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan singkirké nesu saka atimu, lan buwangen ala saka awakmu; amargi mangsa bocah lan siyahe rambut ⟨iku⟩ habel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "lan singkirké"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "saka atimu"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "lan buwangen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "saka awakmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amargi"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "mangsa bocah"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "lan siyahe rambut"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "habel"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:22.016114054Z",
+  "model": "glm-5.3"
+}

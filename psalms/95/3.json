@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Sebab El kang agung ⟨yaiku⟩ Yahweh, lan Raja kang agung ⟨mungguh⟩ sadhuwure para elohim kabeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kang agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "lan Raja"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "kang agung"
+    },
+    {
+      "surface": "על",
+      "gloss": "sadhuwure"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:52.320996009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Aja Ingkang kawulaké, Yahweh, kepenginané wong lanang; sulayané aja dilakokaké, supaya dhèwèké ora ngunggulaké awaké. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kawulaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "kepenginané"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "sulayané"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "dilakokaké"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ngunggulaké awaké"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:36.161598369Z",
+  "model": "glm-5.3"
+}

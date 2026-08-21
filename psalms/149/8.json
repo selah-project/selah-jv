@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Kanggo ngiket para ratu-né ing ranté, lan para gedhé-né ing gewang wesi.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "kanggo ngiket"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "para ratu-né"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ing ranté"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "lan para gedhé-né"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ing gewang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "wesi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:30.046106623Z",
+  "model": "glm-5.3"
+}

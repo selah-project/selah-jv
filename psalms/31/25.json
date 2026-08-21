@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Padha teguh, lan dadi wani ⟨⟨atimu⟩⟩, sira kabeh sing padha ngarep-arep marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "padha teguh"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "lan ⟨⟨dadi wani⟩⟩"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "sing padha ngarep-arep"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:27.952522295Z",
+  "model": "glm-5.3"
+}

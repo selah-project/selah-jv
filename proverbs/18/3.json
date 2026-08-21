@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Nalika wong jahat teka, panguwuha uga teka, lan bebarengan karo cidra ana kawurukan.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "nalika teka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "panguwuhan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan bebarengan karo"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "cidra"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "kawurukan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:15:43.782655152Z",
+  "model": "glm-5.3"
+}

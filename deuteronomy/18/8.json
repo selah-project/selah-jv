@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "bageyan kaya bageyan padha mangan, kejaba saka pituwas dol-tinulahe, miturut wit para bapak.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "bageyan"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "kaya bageyan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "padha mangan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kejaba"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "saka dol-tinulahe"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "para bapak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:46.897380790Z",
+  "model": "glm-5.3"
+}

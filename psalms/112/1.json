@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Puduji Yah! Bejane wong sing wedi marang ⟨את⟩ Yahweh, ing angger-angger-E dhemen sanget.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "puduji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bejane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "ing angger-angger-E"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "dhemen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:26.592530928Z",
+  "model": "glm-5.3"
+}

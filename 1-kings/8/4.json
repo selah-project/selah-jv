@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan padha ngunggahake ⟨את⟩ Peti Yahweh lan ⟨את⟩ Tenda Pasamuwan lan ⟨את⟩ kabeh piranti kakususan kang ana ing sajroning tenda; para imam lan para Lewi padha ngunggahake ⟨את⟩ kasebut.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "padha ngunggahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peti Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Peti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Tenda Pasamuwan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tenda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pasamuwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabeh piranti kakususan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "piranti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kakususan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ana ing sajroning tenda"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "padha ngunggahake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bendhu-bendhu kasebut"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "lan para Lewi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:17.316922091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Kajahatan direka ing pasareane, dheweke madeg ing dalan sing ora becik, barang ala ora disingkiri.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "direka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "pasareane"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "madeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "רע",
+      "gloss": "barang ala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "disingkiri"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:18.131184541Z",
+  "model": "glm-5.3"
+}

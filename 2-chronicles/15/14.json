@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan padha sumpah marang Yahweh swarane banter, sarta ing jeritan bungah, ing saka-sarune lan ing saka-sarune sangak.",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "Lan padha sumpah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "banter"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "sarta ing jeritan bungah"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "ing saka-sarune"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "ing saka-sarune sangak"
+    }
+  ],
+  "timestamp": "2026-08-21T03:37:59.227276291Z",
+  "model": "glm-5.3"
+}

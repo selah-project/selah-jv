@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 113,
+  "translation": "Sing ndadekake wadon mandhul iku dudu bengok-bengok maneh, nanging dadi ibu sing bungah marang anake-anake. Pujia Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "sing ndadekake lungguh (ndadekake becik)"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "wadon mandhul"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah (kaluwargane)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibu"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "anake-anake"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pujia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:10.801062427Z",
+  "model": "glm-5.3"
+}

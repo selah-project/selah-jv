@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Kabeh iku kaya dene kanggo kabeh: katemuan siji tumrap wong tulus lan wong cidra, tumrap wong becik lan tumrap wong suci lan wong najis, lan wong nyembelih kurban lan wong sing ora nyembelih; kaya wong becik, kaya wong dosa; wong mènèhi supata kaya wong wedi marang supata.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "kabeh iku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kanggo kabeh"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "katemuan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "tumrap wong tulus"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "lan wong cidra"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "tumrap wong becik"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "lan wong suci"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "lan wong najis"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "lan wong nyembelih"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "lan wong sing"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ora"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "nyembelih"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "kaya wong becik"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "kaya wong dosa"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "wong mènèhi supata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "supata"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:19.137960928Z",
+  "model": "glm-5.3"
+}

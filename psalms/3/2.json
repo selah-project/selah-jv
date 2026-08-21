@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Yahweh, tansah akèh mungsuhku; akèh sing ngadeg nglawan aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nglawan aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:36.410213683Z",
+  "model": "glm-5.3"
+}

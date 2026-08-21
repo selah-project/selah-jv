@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Banjur lunga lan nindakake miturut sabda Yahweh; banjur lunga lan manggon ana ing kali Kerit, sing ana ing ngarepe Yarden.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "banjur lunga"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "banjur lunga"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ana ing kali"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarepe"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:58.054805413Z",
+  "model": "glm-5.3"
+}

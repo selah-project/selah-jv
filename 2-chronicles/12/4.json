@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan awake ngrebut ⟨את⟩ kutha-kutha bèntèng kang kakandhak marang Yehuda, lan teka nganti Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "lan awake ngrebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha-kutha bèntèng"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "bèntèng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kakandhak marang Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:36:06.091647973Z",
+  "model": "glm-5.3"
+}

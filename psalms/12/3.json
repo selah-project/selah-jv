@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Kanggo rumangsani lanang nganggo ⟨את⟩ kanca-kanca nganggo sesipiran; lambe alus, ati kang tansah nglambrangi.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "sesipiran"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "Kanggo rumangsani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca-kanca"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca-kanca"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lambe"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "alus"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ati kang"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "tansah nglambrangi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nganggo"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:24.430827179Z",
+  "model": "glm-5.3"
+}

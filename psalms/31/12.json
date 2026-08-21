@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Saking sadaya mungsuh kawula, kawula dadi ewadan, malih dhateng tatangga kawula prayoga; lan geregem dhateng kanca-kanca kawula; para ing pandeleng kawula ing njobo padha minggat saking kawula.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "saking sadaya"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mungsuh kawula"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kawula dados"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ewadan\/cemohan"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "lan dhateng tatangga kawula"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "prayoga banget"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "lan geregem"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "dhateng kanca-kanca kawula"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ingkang pandeleng"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ing njobo"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "padha minggat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saking kawula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:44.423276459Z",
+  "model": "glm-5.3"
+}

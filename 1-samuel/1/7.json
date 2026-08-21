@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Mangkono uga tindakané taun ing taun, saben-sabené dhèwèké munggah menyang bét Yahweh, mangkono pangangkuné marang awaké; banjur dhèwèké nangis lan ora gelem mangan.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "mangkono uga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "tindakané"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "saben-sabené"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "dhèwèké munggah"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "menyang bét"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "pangangkuné"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "banjur dhèwèké nangis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "gelem mangan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:14.844757261Z",
+  "model": "glm-5.3"
+}

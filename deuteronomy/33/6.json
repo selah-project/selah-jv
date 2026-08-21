@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Muga Reuven urip lan aja mati, lan munung wongé ⟨isih⟩ ana cacahé.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "muga urip"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan munung dadi"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "wongé"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ana cacahé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:30.949331109Z",
+  "model": "glm-5.3"
+}

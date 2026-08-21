@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 39:9",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Apa reem gelem ngayahi ingkawumu, apa dhewe nelasaken ⟨wengi⟩ ing palungan pakanmu?",
+  "tokens": [
+    {
+      "surface": "היאבה",
+      "gloss": "apa ... gelem"
+    },
+    {
+      "surface": "רים",
+      "gloss": "reem (banteng liar)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ngayahi ingkawumu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nelasaken wengi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "אבוסך",
+      "gloss": "palungan pakanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:36:27.534701286Z",
+  "model": "glm-5.3"
+}

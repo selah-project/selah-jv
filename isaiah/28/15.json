@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Sebab padha munjuk: 'Kita wus ngayahi prajanjian karo ⟨את⟩ pati, lan karo Sheol kita wus gawe pasemon; yèn bungsang sangar ngliwati, ora bakal ndumuk kita; sebab luput kita dadèkaké pangayoman, lan ing goroh kita ndhelik.'",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "padha munjuk"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "kita wus ngayahi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pati"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan karo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "kita wus gawe"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "pasemon"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "bungsang"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "sangar ngliwati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "bakal ndumuk kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "kita dadèkaké"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "luput"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "pangayoman"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "lan ing goroh"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "kita ndhelik"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:23.690637236Z",
+  "model": "glm-5.3"
+}

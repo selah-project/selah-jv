@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan kadadéan, ing tamune wong-wong mau, panjenengane ndeleng ⟨את⟩ Eliab, lan munjuk: Satemah ing ngarsane Yahweh Sang Jinebusan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ing tamune"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "אך",
+      "gloss": "satemah"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Sang Jinebusan-E"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:47.694035078Z",
+  "model": "glm-5.3"
+}

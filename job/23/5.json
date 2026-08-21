@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 23:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Aku arep ngertosake ⟨tembung-tembung⟩ sing bakal diwales marang aku, lan arep ngerti apa sing bakal dikandhakake marang aku.",
+  "tokens": [
+    {
+      "surface": "אדעה",
+      "gloss": "arep ngertosake"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "יענני",
+      "gloss": "bakal diwales marang aku"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "lan arep ngerti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bakal dikandhakake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:29:30.846931754Z",
+  "model": "glm-5.3"
+}

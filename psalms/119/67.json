@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Sadurunge aku nandhang sengsara, aku iku kliru; nanging saiki sabdamu aku kukupe.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "aku nandhang sengsara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku iku"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "kliru"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "nanging saiki"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sabdamu"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "aku kukupe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:34.222666354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Minyak kanggo panguripan, bumbu-bumbu wangi kanggo minyak pangurapan, lan kanggo dupa wangi-wangian;",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "kanggo panguripan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bumbu-bumbu wangi"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "kanggo minyak"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pangurapan"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "lan kanggo dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "wangi-wangian"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:43.553944895Z",
+  "model": "glm-5.3"
+}

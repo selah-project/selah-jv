@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Becik Yahweh marang ⟨sabanaré⟩, lan pitunas-é marang sababarang pakaryan-é.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Becik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang ⟨sabanaré⟩"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "lan pitunas-é"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sababarang"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "pakaryan-é"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:33.304029026Z",
+  "model": "glm-5.3"
+}

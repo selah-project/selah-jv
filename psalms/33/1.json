@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Sumanggala para wong tulas ing Yahweh, awit tumrap wong jujur ⟨iku⟩ pantes pinuji.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "sumanggala"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "para wong tulas"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "tumrap wong jujur"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pantes"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pinuji"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:22.254099499Z",
+  "model": "glm-5.3"
+}

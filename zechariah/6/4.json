@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan aku mangsuli lan ngucap marang utusan sing ngandika ing aku iki: Apa iki, bendaraku?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "lan aku mangsuli"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngucap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "utusan iku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sing ngandika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendaraku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:52.056028047Z",
+  "model": "glm-5.3"
+}

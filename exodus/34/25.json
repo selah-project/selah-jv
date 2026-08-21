@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Aja nyembelih nganggo barang asem getih kurban-Ku, lan aja kurban pesta Pésakh nginep nganti ésuk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "nyembelih"
+    },
+    {
+      "surface": "על",
+      "gloss": "nganggo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "barang asem"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurban-Ku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nginep"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "nganti ésuk"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pesta"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésakh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:56.036816910Z",
+  "model": "glm-5.3"
+}

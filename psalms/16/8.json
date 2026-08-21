@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Aku ndèlèh Yahweh sangarepé aku tansah; awit saka tengené ⟨akaiku⟩ aku ora bakal kocap.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "aku ndèlèh\/njurungake majeng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "sangarepé aku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "saka tengené aku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bakal kocap\/goyah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:52.609441553Z",
+  "model": "glm-5.3"
+}

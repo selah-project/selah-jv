@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Nyawaku nemplek ing lebu; uripana aku miturut sabda-Mu.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ntemplek"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ing lebu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "uripana aku"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "miturut sabda-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:15.723663825Z",
+  "model": "glm-5.3"
+}

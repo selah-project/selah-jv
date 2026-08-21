@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Balekna bungahing katulunganira marang aku, lan ruh kang lila iku nudge aku.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "balekna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "bungahing"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "katulunganira"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "lan ruh"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "kang lila"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "nudge aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:59.409324308Z",
+  "model": "glm-5.3"
+}

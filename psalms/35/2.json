@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Cekela tameng asem uga perisai gedhe, lan tangia dadi pitulunganku.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "cekela"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tameng"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "uga perisai gedhe"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "lan tangia"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "dadi pitulunganku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:26.276250926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 141,
+  "translation": "Sedyaku muga dhadhi ⟨dupa⟩ ing ngarsa-Mu, pangangkat telapak tanganku ⟨dhadhi⟩ pawèwèh sonten.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "muga dhadhi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sedyaku"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsa-Mu"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "pangangkat"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "telapak tanganku"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "pawèwèh"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sonten"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:56.609515989Z",
+  "model": "glm-5.3"
+}

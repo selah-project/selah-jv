@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sirah-mu ing dhuwur awak-mu kaya Karmel, lan rik-rik sirah-mu kaya ungu argaman; ratu kasandhet ing gelungan-é.",
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "sirah-mu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ing dhuwur awak-mu"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "kaya Karmel"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "lan rik-rik"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "sirah-mu"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "kaya ungu argaman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "kasandhet"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "ing gelungan-é"
+    }
+  ],
+  "timestamp": "2026-08-21T02:41:38.160783422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 61,
+  "translation": "Runguha, Elohim, serunuku; tanggapna dongaku.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Runguha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "serunuku"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tanggapna"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "dongaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:18.759332903Z",
+  "model": "glm-5.3"
+}

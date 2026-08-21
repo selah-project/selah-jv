@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Lo-Ruhamah disapih; lan ⟨ia⟩ ngandhaman lan nglairake anak lanang.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "nyapih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ngandhaman"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lanang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:00.414603933Z",
+  "model": "glm-5.3"
+}

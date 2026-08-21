@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "⟨את⟩ sapa sing bakal diwulangake kawruh, lan ⟨את⟩ sapa sing bakal dingerteni pawartos? Wong sing lagi disapih saka susu, sing lagi ditatah saka dhadha.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "bakal diwulangake"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kawruh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "bakal dingerteni"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "pawartos"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "disapih"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "saka susu"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ditatah"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "saka dhadha"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:02.485813037Z",
+  "model": "glm-5.3"
+}

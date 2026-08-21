@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Nalika kowe isih ngendika kana karo rajane, lah aku bakal teka sawise kowe, lan bakal kukpakani ⟨את⟩ tembung-tembungmu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "isih"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "rajane"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sawise kowe"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "bakal kukpakani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembungmu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tembung-tembungmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:57.076348266Z",
+  "model": "glm-5.3"
+}

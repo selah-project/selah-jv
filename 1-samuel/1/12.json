@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lai kadadéan, nalika dhèwèké suwé ndedonga ing ngarsané Yahweh, Eli ngati-ati ⟨את⟩ cangkemé.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Lai kadadéan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "suwé"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "ndedonga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "lan Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ngati-ati mirsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cangkemé"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "cangkemé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:55:54.645917663Z",
+  "model": "glm-5.3"
+}

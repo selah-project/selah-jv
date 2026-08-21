@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Pujia Elohim mawa gamelan, puji-puji; pujilah ratu kita, puji-puji.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Pujia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mawa gamelan, puji-puji"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "ratu kita"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "puji-puji"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:11.633533380Z",
+  "model": "glm-5.3"
+}

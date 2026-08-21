@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan ia njupuk ⟨את⟩ pedhet sing wong-wong iku gawé, banjur kobongake ing geni, digiling nganti dadi bledug, banjur disebarake ing dhuwuré lumahing banyu, lan ia gawé ngombé ⟨את⟩ kaum Israël.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedhet"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "pedhet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "kobongake"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "digiling"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nganti dadi"
+    },
+    {
+      "surface": "דק",
+      "gloss": "bledug (alem)"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "disebarake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lumahing"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "gawé ngombé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaum Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kaum\/putrané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:59.619308447Z",
+  "model": "glm-5.3"
+}

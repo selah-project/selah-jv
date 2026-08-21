@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 111,
+  "translation": "Wiwiting kawicaksanan ⟨yaiku⟩ bekti marang Yahweh; kapinteran becik tumrap kabeh sing nglakoni ⟨iku⟩; memujine ngadeg salawase.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "wiwiting"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kawicaksanan"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bekti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "kapinteran"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tumrap kabeh"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "sing nglakoni"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "memujine"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawase"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:22.722574980Z",
+  "model": "glm-5.3"
+}

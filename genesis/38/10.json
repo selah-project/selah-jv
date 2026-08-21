@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan ala ing paningal Yahweh apa sing dilakoni, lan Panjenengane mateni uga ⟨את⟩ Onan.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakoni"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mateni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:24.189368563Z",
+  "model": "glm-5.3"
+}

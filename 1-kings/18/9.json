@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan ia ngandika: Apa dosaku, kok kowé masang ⟨את⟩ abdimu ing tangané Akhab supaya matèni aku?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ia ngandika"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "masangake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdimu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing tangané"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "supaya matèni aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:08.445817564Z",
+  "model": "glm-5.3"
+}

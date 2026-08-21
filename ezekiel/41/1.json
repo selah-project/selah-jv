@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Banjur dheweke nggawa aku marang ⟨ing⟩ heikhal, lan dheweke ngukur ⟨את⟩ tiyang-tiyang lawang iku, enem asta ambane saka ing kene, lan enem asta ambane saka ing kana, jembaring kemah iku.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "banjur dheweke nggawa aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨ing⟩ heikhal"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "lan dheweke ngukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiyang-tiyang lawang"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "tiyang-tiyang lawang iku"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enem"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ambane"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "saka ing kene"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan enem"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ambane"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "saka ing kana"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "jembaring"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah iku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:21:45.365092131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 34:17",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Sarta dene sira, kawula-kawulane kawula, mangkono pangandikane Adonai Yahweh: Dhuh, kawula ngadili antarane wedhus lan wedhus, antarane para biribiri lan para wedhus lanang.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "sarta dene sira"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "kawula-kawulane kawula"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "dhuh kawula"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "שה",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "lan wedhus"
+    },
+    {
+      "surface": "לאילים",
+      "gloss": "antarane para biribiri"
+    },
+    {
+      "surface": "ולעתודים",
+      "gloss": "lan para wedhus lanang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:17:58.655013307Z",
+  "model": "glm-5.3"
+}

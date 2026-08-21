@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Pinuji Yahweh salawase-lawase. Amin, lan amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawase-lawase"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "lan amin"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:00.382668036Z",
+  "model": "glm-5.3"
+}

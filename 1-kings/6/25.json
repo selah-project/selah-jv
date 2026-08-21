@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan sing kaping sepuluh ing asta ⟨⟨yaiku⟩⟩ kerub kang kapindho: siji ukurané lan siji wanguné kanggo loro kerub-kerub iku.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "lan sepuluh"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ing asta"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kang kapindho"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ukurané"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "lan wanguné"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "kanggo loro"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerub-kerub iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:49.205280825Z",
+  "model": "glm-5.3"
+}

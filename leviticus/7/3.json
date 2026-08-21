@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan ⟨את⟩ sakabehing gajihé kudu diaturake saka iku: ⟨את⟩ buntuté lan ⟨את⟩ gajih sing nutupi ⟨את⟩ wetengjero.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing gajihé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "gajihé"
+    },
+    {
+      "surface": "יקրיב",
+      "gloss": "kudu diaturake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buntuté"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "buntuté"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "gajih"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "gajih"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "sing nutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wetengjero"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wetengjero"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:22.918692944Z",
+  "model": "glm-5.3"
+}

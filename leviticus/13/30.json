@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan kohen iku mirsani ⟨את⟩ neg'a iku, lan lah, tampohe luwih jero saka kulit, lan ing kono ana rambut kuning tipis, banjur kohen iku nganggep lua ⟨את⟩ wong iku — iku nethek, ya tsara'at ing sirah utawa ing janggut iku.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neg'a iku"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "neg'a"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "tampohe"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "jero"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "lan ing kono"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rambut"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "kuning"
+    },
+    {
+      "surface": "דק",
+      "gloss": "tipis"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nganggep lua"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wong iku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "nethek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "janggut"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:57.089955710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Obed nampa keturunan ⟨את⟩ Yehu, lan Yehu nampa keturunan ⟨את⟩ Azaryah.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "lan Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nampa keturunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "lan Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nampa keturunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:42.914961649Z",
+  "model": "glm-5.3"
+}

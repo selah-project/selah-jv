@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan wong-wong mau padha njupuk ⟨את⟩ putri-putrine dadi bojone, lan ⟨את⟩ putri-putrine dhewe padha diwenehake marang putra-putrane, lan padha nglayani ⟨את⟩ allah-allahé.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Lan padha njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putrine"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "putri-putrine"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo awake dhewe"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "dadi bojo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "putri-putrine"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "putri-putrine"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "padha diwenehake"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "marang putra-putrane"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "lan padha nglayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allah-allahé"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah-allahé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:23.871675311Z",
+  "model": "glm-5.3"
+}

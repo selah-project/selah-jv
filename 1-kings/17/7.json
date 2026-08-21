@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Banjur bareng wis suwé, kaline garing, awit ora ana udan ing bumi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Banjur kadadéan"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "bareng wis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "suwé dina-dina"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kaline"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "udan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:58.055214745Z",
+  "model": "glm-5.3"
+}

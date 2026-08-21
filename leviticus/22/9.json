@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Dheweke kudu ngajagi ⟨את⟩ panemoningsun, supaya ora nggawa dosa amarga iku lan mati amarga iku, awit padha ngluhurake; aku Yahweh sing ngedekekake dheweke.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "padha ngajagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panemoningsun"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "panemoningsun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "amarga iku"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "lan mati"
+    },
+    {
+      "surface": "בו",
+      "gloss": "amarga iku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "padha ngluhurake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "sing ngedekekake dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:22.645061028Z",
+  "model": "glm-5.3"
+}

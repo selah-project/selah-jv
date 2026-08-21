@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 33:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Leah uga muncul sarta para anake, banjur padha sumujud; sawise iku Yosef lan Rahel muncul, sarta padha sumujud.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "muncul"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "sarta para anake"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "padha sumujud"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sawise iku"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "muncul"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "lan Rahel"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "padha sumujud"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:47.078560349Z",
+  "model": "glm-5.3"
+}

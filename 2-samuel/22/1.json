@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan Dawid ngandika marang Yahweh ⟨את⟩ tembung-tembunging tembang iki, ing dinane Yahweh ngluwari ⟨את⟩ panjenengane saka tanganing kabeh mungsuhe lan saka tanganing Sha-ul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembunging tembang iki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembunging"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ panjenengane",
+      "marks": "panjenengane"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "saka tanganing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "mungsuhe"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "lan saka tanganing"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:33.203613214Z",
+  "model": "glm-5.3"
+}

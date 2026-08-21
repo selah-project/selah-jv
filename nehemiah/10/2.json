@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ing sangisore sing katetepake: Nechemyah sang Tirshata, putrane Chakalyah, lan Tsidkiyah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "lan ing sangisore"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "sing katetepake"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "sang Tirshata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Chakalyah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "lan Tsidkiyah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:12:06.692754311Z",
+  "model": "glm-5.3"
+}

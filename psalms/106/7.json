@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Leluhur kita ing Mitsrayim ora nggatekake elmu-mukjizatMu; ora ngeling-eling ⟨את⟩ kaluwihaning kasetyanMu; nanging padha mbrontak ana ing segara, ing Segara Suph.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "leluhur kita"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nggatekake"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "elmu-mukjizatMu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ngeling-eling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluwihaning kasetyanMu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kaluwihaning"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "kasetyanMu"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "nanging padha mbrontak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ing segara"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:22.009298052Z",
+  "model": "glm-5.3"
+}

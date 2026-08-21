@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Mripatku luyu amarga saka padamedenanku; Yahweh, saben dina tak seru Kowé, tak jembarake telapak tanganku marang Kowé.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "luyu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "עני",
+      "gloss": "padamedenanku"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "tak seru Kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "tak jembarake"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Kowé"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "telapak tanganku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:10.135851634Z",
+  "model": "glm-5.3"
+}

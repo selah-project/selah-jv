@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan Moshe dhawuhake marang ⟨את⟩ wong Lewi, para pangemot ⟨את⟩ peti prajanjenane Yahweh, ngendika:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "lan dhawuhake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "wong Lewi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "para pangemot"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:45.173216437Z",
+  "model": "glm-5.3"
+}

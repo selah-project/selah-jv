@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 19:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Papan-papan gundhul ing pinggir kali, ing cangkemé kali, lan kabeh sing ditandur ing pinggir kali bakal garing, kadhorok, lan ora ana manèh.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "papan-papan gundhul"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing pinggir"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kali"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemé"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "kali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "sing ditandur"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "pinggir kali"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "bakal garing"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "kadhorok"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "lan ora ana manèh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:05.497773469Z",
+  "model": "glm-5.3"
+}

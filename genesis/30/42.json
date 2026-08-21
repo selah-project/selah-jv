@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Nanging nalika domba iku lemah, awake dhéwé ora nglèlèhake ⟨את⟩ iku; dadi sing lemah dadi duweke Lavan, lan sing kuwat dadi duweke Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "nanging nalika lemah"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "nglèlèhake"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "sing lemah"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "duweke Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "lan sing kuwat"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "duweke Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:27.605751031Z",
+  "model": "glm-5.3"
+}

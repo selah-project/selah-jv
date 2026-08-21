@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan dhaṭeng sabdane: Kalakune Kenaan, abdi para abdi bakal dadi dheweke marang sedulure.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dhaṭeng sabdane"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "kalakune"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "marang sedulure"
+    }
+  ],
+  "timestamp": "2026-08-21T03:48:57.083740315Z",
+  "model": "glm-5.3"
+}

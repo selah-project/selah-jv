@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Dawid sanget kangen, lan ngucap: Sapa sing isa ngumbahi aku banyu saka sumur Bèt-Lekhem, kang ana ing gapura?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "lan sanget kangen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "sing isa ngumbahi aku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "saka sumur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bèt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ana ing gapura"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:25.788867573Z",
+  "model": "glm-5.3"
+}

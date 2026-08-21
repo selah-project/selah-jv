@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Sing nglestarékake ⟨⟨the⟩⟩ nyawa kita ing urip, lan ora maringake supaya sikil kita kèserèt.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Sing nglestarékake"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nyawa kita"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ing urip"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maringake"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "supaya kèserèt"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "sikil kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:43.206856903Z",
+  "model": "glm-5.3"
+}

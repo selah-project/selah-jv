@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sang raja njabut ⟨את⟩ cincin paspé sanesipun sing wus dipundhut saka Haman, lan maringaké marang Mordekhay; Ester banjur ndadekaké Mordekhay sangizing ⟨את⟩ omahé Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "njabut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cincin paspé"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "cincin paspé sanesipun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "wus dipundhut\/dicaosaken"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "saka Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "lan maringaké"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "marang Mordekhay"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "banjur ndadekaké"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sangizing"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:57.534760023Z",
+  "model": "glm-5.3"
+}

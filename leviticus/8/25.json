@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dheweke njupuk ⟨את⟩ lemak lan ⟨את⟩ buntut lemak lan ⟨את⟩ sakabehing lemak sing ana ing sadhuwuring weteng, lan ⟨את⟩ wuwunging ati, lan ⟨את⟩ loro ginjel lan ⟨את⟩ lemake, lan ⟨את⟩ pupu tengen.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "buntut lemak"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "buntut lemak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing lemak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "weteng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wuwunging ati"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "wuwunging"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "loro ginjel"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "loro"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ginjel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lemake"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "lemake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pupu tengen"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "pupu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "tengen"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:49.961491047Z",
+  "model": "glm-5.3"
+}

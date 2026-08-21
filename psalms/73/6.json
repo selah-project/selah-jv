@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Mula kaluwihan dadi kalung ing gulune, lan katulangan ala nutupi dheweke kaya sandhangan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mula"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "dadi kalung ing gulune"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "kaluwihan"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "nutupi"
+    },
+    {
+      "surface": "שית",
+      "gloss": "kaya sandhangan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "katulangan ala"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:53.663941722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 36:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan raja Asyur ngutus ⟨את⟩ Rabsake saka Lakhis marang Yerushalayim, menyang raja Hizkiyahu, kanthi wadya sing gedhé; lan djedheg ing luwihing banyu (konduit) ing kolam dhuwur, ing dalan ladhangé pangumbah.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabsake"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "sake"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "saka Lakhis"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "marang Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "kanthi wadya"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "gedhé"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lan djedheg"
+    },
+    {
+      "surface": "בתעלת",
+      "gloss": "ing luwihing banyu"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ing kolam"
+    },
+    {
+      "surface": "העליונה",
+      "gloss": "dhuwur"
+    },
+    {
+      "surface": "במסלת",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ladhang"
+    },
+    {
+      "surface": "כובס",
+      "gloss": "pangumbah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:44.342889761Z",
+  "model": "glm-5.3"
+}

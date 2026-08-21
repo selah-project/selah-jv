@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "⟨את⟩ pangadilan- Ingsen kowe padha nindakake, lan ⟨את⟩ pakum-kum-Ingsen kowe padha nguri-uri, supaya lumaku miturut iku: Ingsen Yahweh, Elohim- mu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangadilan-Ingsen"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pangadilan-Ingsen"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kowe padha nindakake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pakum-kum-Ingsen"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "pakum-kum-Ingsen"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kowe padha nguri-uri"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "supaya lumaku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "miturut iku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ingsen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:59.396394606Z",
+  "model": "glm-5.3"
+}

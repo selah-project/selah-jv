@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur Moshe ngulungake ⟨את⟩ mantune, lan dhèwèké lunga marang nagarine dhéwé.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "banjur ngulungake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantune"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mantune"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan dhèwèké lunga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨lumakune⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nagarine dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:26.743342841Z",
+  "model": "glm-5.3"
+}

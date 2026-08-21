@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Wawaning tembung Yahweh marang Yisrael, lumantar tangan Malakhi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "wawaning"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lumantar tangan"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malakhi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:39:46.415056071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan padha nyampah marang dhaerah kang endah, ora padha percaya marang sabda-⟨e⟩.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "lan padha nyampah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "marang dhaerah"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "kang endah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "padha percaya"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "marang sabda-e"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:13.270759544Z",
+  "model": "glm-5.3"
+}

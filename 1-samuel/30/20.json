@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Dawid njupuk ⟨את⟩ kabeh wedhus lan sapi, digiringi ing ngarepe kewan-kewan kuwi, lan wong-wong padha ngucap: Iki rampasan Dawid.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh wedhus lan sapi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "lan sapi"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "digiringi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "kewan-kewan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kuwi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan wong-wong padha ngucap"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:54.439975173Z",
+  "model": "glm-5.3"
+}

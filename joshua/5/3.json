@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Yehosua nggawe pisau-pisau saka watu marang dhewe, lan ngsunatake ⟨את⟩ para putrane Israil ing Bukit Kulup-kulup.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan nggawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhewe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pisau-pisau"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "saka watu"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "lan ngsunatake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putrane Israil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Bukit"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Kulup-kulup"
+    }
+  ],
+  "timestamp": "2026-08-20T23:42:42.541165399Z",
+  "model": "glm-5.3"
+}

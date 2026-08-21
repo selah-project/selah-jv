@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan sapi lan beruang padha nggegemi bareng ngumbar anakané; lan singa kaya kebo mangan damen.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "lan sapi"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "lan beruang"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "padha nggegemi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "ngumbar"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "anakané"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "lan singa"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "kaya kebo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "damen"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:40.414945606Z",
+  "model": "glm-5.3"
+}

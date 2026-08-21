@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur ⟨dhèknè⟩ tangi, teka, lan mangkat menyang Shomeron; nalika ⟨dhèknè⟩ ing Beit-Eked para pangoné, ing dalan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mangkat"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "menyang Shomeron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dhèknè⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "para pangoné"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:08.261905785Z",
+  "model": "glm-5.3"
+}

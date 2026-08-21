@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Padha ngaturake syukur marang Yahweh amarga sihne sing kalintu, lan kaluhurane marang para putra manungsa.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "padha ngaturake syukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sihne sing kalintu"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "lan kaluhurane"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang para putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:44.367881023Z",
+  "model": "glm-5.3"
+}

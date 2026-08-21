@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 56,
+  "translation": "Saben dina tembungku padha dibengkokake; sedaya pikirane marang aku iku kanggo ala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembungku"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "padha dibengkokake"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "pikirane"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kanggo ala"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:40.075741376Z",
+  "model": "glm-5.3"
+}

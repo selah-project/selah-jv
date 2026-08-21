@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 34:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan Shekem ngandika marang bapakne lan marang sadulur-sadulure: kula mugi pangestu ing panjenengan, lan saklintunipun pangandika panjenengan dhateng kula, kula paringi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "sadulur-sadulure"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "kula mugi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "pangestu"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ing panjenengan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan saklintunipun"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "pangandika panjenengan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dhateng kula"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kula paringi"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:51.644157457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Kamulyan tumrap wong lanang ⟨iku⟩ mandheg saka pasulayan, nanging saka bodho kabeh cengkorongan.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "tumrap wong lanang"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mandheg"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "saka pasulayan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nanging saka kabeh"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "bodho"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "cengkorongan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:16:28.424057998Z",
+  "model": "glm-5.3"
+}

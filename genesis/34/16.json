@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Banjur kita menehi ⟨את⟩ anu wadon kita marang kowe, lan ⟨את⟩ anu wadon kowe kita jupuk kanggo kita, lan kita padha manggon ⟨את⟩ karo kowe, lan kita dadi satunggal bangsa.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "banjur kita menehi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anu wadon kita"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "anu wadon kita"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anu wadon kowe"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "anu wadon kowe"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "kita jupuk"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "lan kita padha manggon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ karo kowe"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "lan kita dadi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "satunggal bangsa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:36.624034013Z",
+  "model": "glm-5.3"
+}

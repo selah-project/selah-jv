@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 30:26",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Nalika aku ngati-ati ⟨kabecikan⟩, ala kang teka; nalika aku ngenteni pepadhang, peteng kang teka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "aku ngati-ati"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ואיחלה",
+      "gloss": "aku ngenteni"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "pepadhang"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "peteng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:32:56.321576083Z",
+  "model": "glm-5.3"
+}

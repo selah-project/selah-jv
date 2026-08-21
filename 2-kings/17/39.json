@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Nanging mung ⟨את⟩ Yahweh, Elohimmu, kok wedi, lan Panjenengane bakal ngluwari ⟨את⟩ kowe saka astane kabeh mungsuhmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kok wedi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan Panjenengane"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "bakal ngluwari"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka astane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mungsuhmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:47.498247470Z",
+  "model": "glm-5.3"
+}

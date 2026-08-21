@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Saka umur rong puluh taun lan munggah, kabeh kang metu lumebu wadya ing Israel, kowanira ngetung ⟨את⟩ dheweke miturut wadya-wadyane, kowe lan Aaron.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "saka umur"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rong puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kang metu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "lumebu wadya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing Israel"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "kowanira ngetung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "miturut wadya-wadyane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ו אהרן",
+      "gloss": "lan Aaron"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:36.646784319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Ia mateni wit anggure kanthi es ambunyu, lan wit ara-arané kanthi mawa es cethik.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "mateni"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "kanthi es ambunyu"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "wit anggure"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "lan wit ara-arané"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "kanthi mawa es cethik"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:33.689790347Z",
+  "model": "glm-5.3"
+}

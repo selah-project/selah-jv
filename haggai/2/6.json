@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sebab mangkono pangandikane Yahweh Tzevaot: isih seje sithik, lan Aku ngguncang ⟨את⟩ langit lan ⟨את⟩ bumi lan ⟨את⟩ sagara lan ⟨את⟩ tlatah garing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "seje (sapisan)"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sithik"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan Aku"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ngguncang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sagara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tlatah garing"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "tlatah garing"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:40.941998266Z",
+  "model": "glm-5.3"
+}

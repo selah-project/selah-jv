@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Miturut pangonane dhewe padha wareg; padha wareg, lan atine padha dhuwur-mendhuwur; mulane padha lali marang Aku",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "Miturut pangonane dhewe"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "padha wareg"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "padha wareg"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "lan padha dhuwur-mendhuwur"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "atine"
+    },
+    {
+      "surface": "על",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "padha lali marang Aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:16.089828964Z",
+  "model": "glm-5.3"
+}

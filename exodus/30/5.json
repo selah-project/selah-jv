@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan kowe bakal nggawe ⟨את⟩ palang-palange saka kayu wit akasia, lan kowe bakal nutupe ⟨את⟩ wujude emas.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowe bakal nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "palang-palange"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu saka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wit akasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "lan kowe bakal nutupe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wujude emas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:21.748387022Z",
+  "model": "glm-5.3"
+}

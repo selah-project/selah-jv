@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Dadi ala banget marang Yonah — ala gedhe — lan panas atine ⟨dhewe⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "dadi ala banget"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "lan panas atine"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨dhewe⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:11.317789236Z",
+  "model": "glm-5.3"
+}

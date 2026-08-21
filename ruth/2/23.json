@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ruth 2:23",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Dheweke banjur ndheket karo para enom wadon Boaz kanggo ngglithik, nganti rampunge panen wiji jelai lan panen wiji gandum; lan dheweke tumanggenal ⟨את⟩ marase.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "banjur ndheket"
+    },
+    {
+      "surface": "בנערות",
+      "gloss": "karo para enom wadon"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "kanggo ngglithik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "rampunge"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "wiji jelai"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "lan panen"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "wiji gandum"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "lan tumanggenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marase"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "marase"
+    }
+  ],
+  "timestamp": "2026-08-21T02:41:18.210115654Z",
+  "model": "glm-5.3"
+}

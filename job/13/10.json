@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Temen Panjenengané bakal nglèrèh ⟨את⟩ sira, apa manèh yèn ing sidhem sira munggèhaké rai (pilih-pilih adhi).",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "temeen"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "bakal nglèrèh"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa manèh yèn"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ing sidhem"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "munggèhaké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:54.708221767Z",
+  "model": "glm-5.3"
+}

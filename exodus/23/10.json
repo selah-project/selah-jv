@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lenem taun kowé nandur ⟨את⟩ buminira, lan kowé numplak ⟨את⟩ pituwasé.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Lan enem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "kowé nandur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buminira"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "buminira"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "lan kowé numplak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pituwasé"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "pituwasé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:54.463297829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Wektu ngojok, lan wektu ngilangake; wektu njaga, lan wektu ngeculake.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ngojok"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ngilangake"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "njaga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ngeculake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:31.896514301Z",
+  "model": "glm-5.3"
+}

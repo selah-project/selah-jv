@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan panjenengane ngaturake ⟨את⟩ persembahané wong akèh iku, lan njupuk ⟨את⟩ wedhus janggut kurban dosa sing kanggo wong akèh iku, lan nyembelih, lan ndadèkaké dosa kurban, kaya sing kapisan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Lan panjenengane ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahané"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "persembahané"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus janggut"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "wedhus janggut"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kanggo wong akèh"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "lan nyembelih"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "lan ndadèkaké dosa kurban"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "kaya sing kapisan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:23.198690946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 108,
+  "translation": "Apa dudu Engkau, Elohim, sing nulak aku? Lan ora metu, Engkau, Elohim, bareng wadyabalaku?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Apa dudu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "nulak aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "bareng wadyabalaku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:31.109419679Z",
+  "model": "glm-5.3"
+}

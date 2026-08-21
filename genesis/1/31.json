@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim mirsani ⟨את⟩ kabeh sing wis dilakoni, lan lah, becik banget. Lan dadi soré, lan dadi ésuk — dina kaping enem.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lan mirsani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh sing wis dilakoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wis dilakoni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Lan dadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "soré"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "kaping enem"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:12.114993395Z",
+  "model": "glm-5.3"
+}

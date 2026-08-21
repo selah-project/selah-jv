@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Kanggo panggedhe, miturut Gittit, mazmur kanggo Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo panggedhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:38.878433718Z",
+  "model": "glm-5.3"
+}

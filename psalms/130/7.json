@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 130,
+  "translation": "Ngentenana, O Yisrael, marang Yahweh; awit bareng Yahweh ⟨ana⟩ kasetyan, lan kalimpahan bareng Panjenengane: pambebas.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "ngentenana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "lan kalimpahan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng Panjenengane"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "pambebas"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:09.273830125Z",
+  "model": "glm-5.3"
+}

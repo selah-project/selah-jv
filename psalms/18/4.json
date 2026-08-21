@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Sing layak pinuji, aku nyeru Yahweh, lan saka mungsuh-mungsuhku aku kaslametake.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "sing layak pinuji"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku nyeru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mungsuh-mungsuhku"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "aku kaslametake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:26.224017920Z",
+  "model": "glm-5.3"
+}

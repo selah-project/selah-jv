@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Dene sira, angkatna ⟨את⟩ tongkatmu lan sumanggakna ⟨את⟩ tanganmu ing dhuwur sagara, banjur belahen; lan bocah-bocahé Yisrael bakal lumebu ing tengahing sagara ing dharatan garing.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dene sira"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "angkatna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkatmu"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tongkatmu"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "lan sumanggakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "banjur belahen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lan bakal lumebu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bocah-bocahé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ing dharatan garing"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:39.412874182Z",
+  "model": "glm-5.3"
+}

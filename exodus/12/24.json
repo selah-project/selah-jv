@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan sira nganggalana ⟨את⟩ sabda iki minangka dadaran kanggo sira lan kanggo anak-anakmu nganti salawas-lawasé.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nganggalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabda iki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "minangka dadaran"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo sira"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "lan kanggo anak-anakmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawasé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:54.234138248Z",
+  "model": "glm-5.3"
+}

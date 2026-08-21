@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Banjur Sha'ul sumerap ⟨את⟩ bala wong Pelishti, lan dheweke wedi, lan atine geter banget.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Banjur sumerap"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bala wong Pelishti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "bala"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Pelishti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan dheweke wedi"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "lan geter"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T04:01:37.831976884Z",
+  "model": "glm-5.3"
+}

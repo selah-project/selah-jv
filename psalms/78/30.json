@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Ora padha mantuk saka karepe; isih panganane ana ing cangkeme.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "padha mantuk"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "saka karepe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "panganane"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ana ing cangkeme"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:27.183975770Z",
+  "model": "glm-5.3"
+}

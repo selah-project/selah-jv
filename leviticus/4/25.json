@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Sang imam njupuk getih kurban dosa kuwi nganggo driji, lan ngénéhi getihé ing sungu-sungu altar kurban bakaran, lan getihé diunjuraké ⟨את⟩ ing sisi-sisi dhasar altar kurban bakaran.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "saka getih"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "nganggo driji"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ngénéhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "sungu-sungu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "getihé"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihé"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "diunjuraké"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "sisi dhasar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:09.159920749Z",
+  "model": "glm-5.3"
+}

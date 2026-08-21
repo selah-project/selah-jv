@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sebab Paduka ngluru kaluputanku, lan dosaku Paduka slilir-sliriri?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "Paduka ngluru"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "kaluputanku"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "lan dosaku"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "Paduka slilir-sliriri"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:32.297735154Z",
+  "model": "glm-5.3"
+}

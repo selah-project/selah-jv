@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 138,
+  "translation": "Amarga luhur Yahweh, nanging marang sing asor ⟨Ia⟩ mirsani, lan marang sing congkah saka kadohan ⟨Ia⟩ ngerteni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "רם",
+      "gloss": "luhur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "nanging sing asor"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "lan sing congkah"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "saka kadohan"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ngerteni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:37.082312167Z",
+  "model": "glm-5.3"
+}

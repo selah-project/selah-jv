@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Munga atiku ⟨is⟩ sampurna ing satatum-Mu, supaya aku ora isin",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "munga ... dadi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sampurna"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ing satatum-Mu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "isin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:10.823954660Z",
+  "model": "glm-5.3"
+}

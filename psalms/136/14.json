@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Lan nuwunaken Yisraél liwat tengah-tengahé, sebab awet salawas-lawase karunia-Né.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "lan nuwunaken ngliwatake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "liwat tengah-tengahé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "awet salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "karunia-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:53.344930041Z",
+  "model": "glm-5.3"
+}

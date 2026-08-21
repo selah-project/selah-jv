@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Mula saking punika satunggal lanang badhe nilaraken ⟨את⟩ ramanipun saha ⟨את⟩ ibunipun, lan badhe nunggalaken piyambakipun kaliyan bojonipun, lan kekalihipun badhe dados satunggal daging.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "saking"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mula saking punika"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "badhe nilaraken"
+    },
+    {
+      "surface": "איש",
+      "gloss": "satunggal lanang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramanipun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramanipun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibunipun"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibunipun"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "lan badhe nunggalaken kaliyan"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "bojonipun"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "lan badhe dados"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "satunggal daging"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "satunggal"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:34.977239648Z",
+  "model": "glm-5.3"
+}

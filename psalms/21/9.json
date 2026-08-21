@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Tanganmu bakal nemu ⟨את⟩ sakéhé mungsuhmu; tangan-tengenmu bakal nemu ⟨את⟩ para sing sengit marang sira.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "bakal-nemu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sakéhé"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mungsuhmu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tangan-tengenmu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "bakal-nemu"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "para-sing-sengit-marangmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:17.708780189Z",
+  "model": "glm-5.3"
+}

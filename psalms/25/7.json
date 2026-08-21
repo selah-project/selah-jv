@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Dosa-dosane mangsa enomku lan panglanggaranku aja kaelinga; miturut bagasparm elinga aku sira, murih karahayonmu ya Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Dosa-dosa"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "mangsa enomku"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "lan panglanggaranku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "kaelinga"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "miturut bagasparm"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "elinga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "למען",
+      "gloss": "murih"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "karahayonmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:24.505492492Z",
+  "model": "glm-5.3"
+}

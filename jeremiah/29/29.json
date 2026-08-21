@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Banjur Tsefanyah sang imam maca ⟨את⟩ serat iki sajroning kupinge Yeremyah sang nabi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur maca"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serat iki"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "serat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sajroning kupinge"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:11:28.183025786Z",
+  "model": "glm-5.3"
+}

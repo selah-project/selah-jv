@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Kandhana marang Elohim: 'PEndhet ajrih panjenengané amarga pandamelané! Kanthi kaluwihané kukuming panjenengané, mungsuhmu bakal mitênah manuh marang panjenengané.'",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "kandhana"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "pEndhet"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ajrih"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "pandamelan panjenengané"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "kanthi kaluwihané"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kukuming panjenengané"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bakal mitênah manuh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang panjenengané"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mungsuh panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:00.045450769Z",
+  "model": "glm-5.3"
+}

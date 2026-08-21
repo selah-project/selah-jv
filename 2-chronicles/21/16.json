@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Yahweh nggugah nglawan Yehoram ⟨את⟩ semangate wong-wong Palisstim lan ⟨את⟩ wong Arab, sing cedhak karo wong Kusyim",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "Lan Yahweh nggugah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semangate wong-wong Palisstim lan wong Arab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "semangate"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "wong-wong Palisstim"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "lan wong Arab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "cedhak karo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sacedhake"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "wong Kusyim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:39:36.121512252Z",
+  "model": "glm-5.3"
+}

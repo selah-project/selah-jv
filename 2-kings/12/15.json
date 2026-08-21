@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "sebab marang para panggawe karya padha menehi iku, lan nganggo iku padha ndandani ⟨את⟩ bage Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "marang para panggawe"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "karya"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "padha menehi iku"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "lan padha ndandani"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nganggo iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bage Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:07:08.879548049Z",
+  "model": "glm-5.3"
+}

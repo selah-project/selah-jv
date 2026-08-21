@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan piyambaké ngandika marang dheweke: Kula ingkang; mangkata, kandhaa marang bendaramu: Lah, Eliyahu ing kene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Kula ingkang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mangkata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kandhaa"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "marang bendaramu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:10.973040714Z",
+  "model": "glm-5.3"
+}

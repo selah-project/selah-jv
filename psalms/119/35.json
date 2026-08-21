@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Tuntuna aku ing dalaning préntahmu, awit ing kono aku kendel-kendel.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Tuntuna aku"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "préntahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aku kendel-kendel"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:50.016510682Z",
+  "model": "glm-5.3"
+}

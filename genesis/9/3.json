@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Saben kaglundhahan urip iku dadi duweke panjenengan kanggo pangan, kaya sayur ijo-ijohe wangi Aku wenehake ⟨את⟩ kabeh marang panjenengan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kaglundhahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo panjenengan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "kanggo pangan"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "kaya sayur ijo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "suket wangi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku wenehake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang panjenengan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:54.018949558Z",
+  "model": "glm-5.3"
+}

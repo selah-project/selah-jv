@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan ana siji putrane Aḥimelekh, putrane Aḥitub, kang slamet; jenenge Ebyatar; lan dheweke mbungkas ngetutake Dawid.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "Lan ana...kang slamet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "Aḥimelekh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Aḥitub"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebyatar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "lan mbungkas"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngetutake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:20.592333147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 79,
+  "translation": "Sebab ⟨dhèwèké⟩ wis madhang ⟨את⟩ Yaakov, lan ⟨את⟩ papan dunungé wis direnggakaké ⟨dhèwèké⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wis madhang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "papan dunungé"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "papan dunungé"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "wis direnggakaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:33.928830988Z",
+  "model": "glm-5.3"
+}

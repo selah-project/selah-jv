@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Nalika aku munjuk, 'Sikilku kendho', kasetyan-Mu, Yahweh, nayuh aku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku munjuk"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kendho"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sikilku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasetyan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "nayuh aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:53.605489425Z",
+  "model": "glm-5.3"
+}

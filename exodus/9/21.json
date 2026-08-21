@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan saka sing ora ndadekake atine marang sabda Yahweh, iku nilarake abdi-abdine lan ⟨את⟩ kewan-kewan ing sawah.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ndadekake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "nilarake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdine"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kewan-kewan"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "kewan-kewan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing sawah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:04.535379637Z",
+  "model": "glm-5.3"
+}

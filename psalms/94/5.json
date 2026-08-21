@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Umatmu, Yahweh, padha diremukake, lan pusakamu padha disiksa.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "padha diremukake"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "lan pusakamu"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "padha disiksa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.019017783Z",
+  "model": "glm-5.3"
+}

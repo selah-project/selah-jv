@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Padha mbalela panjenengan marang Yahweh, wiwit saka dina anggen Ingsun mangerteni ⟨את⟩ panjenengan.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "padha mbalela"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "panjenengan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "wiwit saka dina"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "anggen Ingsun mangerteni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ panjenengan",
+      "marks": "panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:59.233757592Z",
+  "model": "glm-5.3"
+}

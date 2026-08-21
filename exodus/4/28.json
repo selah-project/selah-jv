@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lah Moshe aturaké dhateng Aharon ⟨את⟩ sadaya tembung Yahweh ingkang ngutus panjenengané, saha ⟨את⟩ sadaya pratandha ingkang dhawuhaké dhateng panjenengané.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Lah ... aturaké"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "dhateng Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya tembung Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ngutus panjenengané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya pratandha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "pratandha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "dhawuhaké dhateng panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:50.018640069Z",
+  "model": "glm-5.3"
+}

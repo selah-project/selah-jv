@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "bumi kang peteng sanget, kaya peteng awan sumele; tedhenging pati, tanpa tatan apa-apa, lan kang suminar uga kaya peteng awan sumele",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "peteng sanget"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "peteng awan sumele"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "tedhenging pati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "tatan apa-apa"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "kang suminar"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "peteng awan sumele"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:06.673546694Z",
+  "model": "glm-5.3"
+}

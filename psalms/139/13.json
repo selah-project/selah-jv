@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Awit déning Kowé kang nitahake ⟨את⟩ gulaku, Kowé kang ngliliti aku ing guwa garbane ibuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "gulaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gulaku"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "ngliliti aku"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "ing guwa garbane"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:31.539921847Z",
+  "model": "glm-5.3"
+}

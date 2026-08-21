@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 54,
+  "translation": "Awit ing tengen lan ing kiwa sira bakal mbledug; lan wandumu bakal nambahi waris bangsa-bangsa, lan kutha-kutha sing rang sepé padha didunungi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ing tengen"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "lan ing kiwa"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "sira bakal mbledug"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "lan wandumu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "bakal nambahi waris"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "lan kutha-kutha"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "sing rang sepé"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "padha didunungi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:29.668690492Z",
+  "model": "glm-5.3"
+}

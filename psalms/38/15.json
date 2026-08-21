@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan aku dadi kaya wong ⟨sing⟩ ora ngrungokake, lan ora ana ing tutuke ewa-ewa.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "lan aku dadi"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kaya wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sing⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ing tutuke"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ewa-ewa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:23.616454503Z",
+  "model": "glm-5.3"
+}

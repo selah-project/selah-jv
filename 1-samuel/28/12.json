@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan bareng wong wadon mau ndeleng ⟨את⟩ Shemuel, banjur ngedoret kanthi swara agung; lan wong wadon mau ngucap marang Shaul, mangkene: Kenapa kok ngapusi aku — lan kowe iki Shaul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "lan wong wadon mau ndeleng"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wong wadon mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "banjur ngedoret"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kanthi swara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lan wong wadon mau ngucap"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wong wadon mau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "kok ngapusi aku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "lan kowe iki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:10.033430212Z",
+  "model": "glm-5.3"
+}

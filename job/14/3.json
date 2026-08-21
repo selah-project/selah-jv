@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Apa malah ing ⟨wong⟩ kaya iki Kowe mbukak mripatMU, lan aku Kowè gawa ing pangadilan karo Kowé?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "apa malah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨wong⟩ kaya iki"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "Kowe mbukak"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "mripatMU"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "lan aku ⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "Kowè gawa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ing pangadilan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:25:24.105856936Z",
+  "model": "glm-5.3"
+}

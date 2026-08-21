@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Akan maturi ⟨את⟩ Yehosyua, lan ngandika: Satemené aku dosa marang Yahweh, Elohime Yisrael, lan kaya mangkono lan kaya mangkono iku sing daklakoni.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "maturi"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Satemené"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "sing daklakoni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:24.539339688Z",
+  "model": "glm-5.3"
+}

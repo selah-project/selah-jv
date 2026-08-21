@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Putra manungsa, gawenana weruh ⟨את⟩ Yerushalayim ⟨את⟩ jigegirane:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "gawenana weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jigegirane"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "jigegirane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:11:01.354679418Z",
+  "model": "glm-5.3"
+}

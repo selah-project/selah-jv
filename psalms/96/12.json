@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 96,
+  "translation": "Sawah padha jubah-jubah lan sakabehane sing ana ing kono; banjur wit-witan alas kabeh padha nyolet.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "jubah-jubah"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabehane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nyolet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "wit-witan"
+    },
+    {
+      "surface": "יער",
+      "gloss": "alas"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:35.239467839Z",
+  "model": "glm-5.3"
+}

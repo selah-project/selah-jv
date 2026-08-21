@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Aku bakal tumut ing sajroning kakuwatané Adonai Yahweh; aku bakal éling-élingaké kalumrahanmu, kowé wae.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "aku bakal tumut"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ing sajroning kakuwatané"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "aku bakal éling-élingaké"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kalumrahanmu"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kowé wae"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:19.776861024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Yen ana pasulayan antarane wong-wong, lan padha mareng ngadhepe pangadilan, lan padha dipun-putus, kudu ngabacake sing bener lan ngukum sing kaluputan ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pasulayan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "lan padha mareng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadhepe"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "lan padha dipun-putus"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "kudu ngabacake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing bener"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "sing bener"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "lan ngukum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing kaluputan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sing kaluputan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:03.712745769Z",
+  "model": "glm-5.3"
+}

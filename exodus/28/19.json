@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Larik katelu: lesem, shevo, lan achlamah.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "lan larik kasebut"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katelu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "lesem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "shevo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "lan achlamah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:27.324627588Z",
+  "model": "glm-5.3"
+}

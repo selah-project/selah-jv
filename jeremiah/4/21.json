@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Nganti samENG kaluwarane aku arep ndeleng ⟨את⟩ panji-panji, aku krungu swara sangkakala?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "samENG kaluwarane"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "aku arep ndeleng"
+    },
+    {
+      "surface": "נס",
+      "gloss": "⟨את⟩ panji-panji",
+      "marks": "panji-panji"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "aku krungu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sangkakala"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:51.592717700Z",
+  "model": "glm-5.3"
+}

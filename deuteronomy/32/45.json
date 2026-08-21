@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Moshe rampung ngucapake ⟨את⟩ kabeh tembung-tembung iki marang kabeh Israel.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "rampung"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngucapake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:05.621617272Z",
+  "model": "glm-5.3"
+}

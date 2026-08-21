@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Dheweke nyerang ⟨את⟩ wong Palishti nganti Azzah lan ⟨את⟩ wewengkone, saka menara juru kunci nganti kutha bèntèng.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nyerang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Palishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Palishti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wewengkone"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "wewengkone"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "saka menara"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "juru kunci"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "bèntèng"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:40.770495554Z",
+  "model": "glm-5.3"
+}

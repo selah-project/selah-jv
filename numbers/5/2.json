@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Parentaha marang ⟨את⟩ bani IsraEL supaya padha ngluwarake saka pamukiman kabeh wong kena larangan kulit, lan kabeh wong kepetingan, lan kabeh wong najis awit bangke.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "parentaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani IsraEL"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "IsraEL"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "supaya padha ngluwarake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "pamukiman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "wong kena larangan kulit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "זב",
+      "gloss": "wong kepetingan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "wong najis"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "awit bangke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:24.117862691Z",
+  "model": "glm-5.3"
+}

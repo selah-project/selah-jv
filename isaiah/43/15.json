@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Aku iku Yahweh, Sing SuciMU, Nitahaka Israèl, Ratumu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Sing Suci-mu"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Nitahaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Ratu-mu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:08.064071565Z",
+  "model": "glm-5.3"
+}

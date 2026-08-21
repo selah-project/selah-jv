@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Padha nindakake perang marang ⟨את⟩ Bera ratu Sedom lan ⟨את⟩ Birsha ratu Amorah, Shinab ratu Admah, lan Shemever ratu Tseboim, lan ratu Bela — iku yaiku Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera ratu Sedom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Birsha ratu Amorah"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admah"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "lan Shemever"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "lan ratu"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-21T04:43:41.058817974Z",
+  "model": "glm-5.3"
+}

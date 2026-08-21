@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Lan kabeh ratu bakal sumujud marang panjenengane; kabeh bangsa bakal ngabekti ⟨את⟩ panjenengane.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "lan bakal sumujud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "bakal ngabekti panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:17.297130188Z",
+  "model": "glm-5.3"
+}

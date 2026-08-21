@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Ora bakal ana gundhik ing sirahé, lan pinggir jangguté ora bakal dicukur, lan ing awaké dhéwé ora bakal nglakoni tatu irisan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "nggundhikake"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "gundhik"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "ing sirahé"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "lan pinggir"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "jangguté"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "dicukur"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "lan ing awaké"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "nglakoni tatu"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "irisan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:41.460823899Z",
+  "model": "glm-5.3"
+}

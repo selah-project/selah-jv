@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Dadi kabeh umure Adam sing wis urip iku sangang atus taun telung puluh taun, banjur padha mati.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dadi (padha dadi)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "umure (dina-dinane)"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sangang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "lan telung puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "banjur mati"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:09.183912198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan matamu aja ngasihi ⟨⟨⟩⟩: nyawa kanggo nyawa, mata kanggo mata, untu kanggo untu, tangan kanggo tangan, sikil kanggo sikil.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ngasihi"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "matamu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "kanggo nyawa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "kanggo mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "untu"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "kanggo untu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kanggo tangan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sikil"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "kanggo sikil"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:29.669317806Z",
+  "model": "glm-5.3"
+}

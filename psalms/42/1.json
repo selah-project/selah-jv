@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kanggo pangginging tembang. Piwulaking ati, kagawe para putrane Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangginging tembang"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "piwulaking ati"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kagawe para putrane"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:06.111647944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sabab ⟨iya⟩ ngandika: Apa pangérané-Ku kabeh kaya-dadi ratu bareng-bareng?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "⟨iya⟩ ngandika"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pangérané-Ku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bareng-bareng"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:17.919538751Z",
+  "model": "glm-5.3"
+}

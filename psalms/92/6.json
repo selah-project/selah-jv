@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Dhuh, kadhang gedéné panggawéyan-Mu, Yahweh; banget jeroné pikiran-Paduka!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "dhuh, kadhang"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "gedéné"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "panggawéyan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "jeroné"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "pikiran-Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:58.160718798Z",
+  "model": "glm-5.3"
+}

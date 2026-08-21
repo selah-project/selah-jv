@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Sebab Yahweh tresna marang kaadilan, lan ora bakal nilar ⟨את⟩ para khaside-E; tuminé padha dijaga, nanging wiji para wong atyadar bakal dijegreg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tresna marang"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kaadilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora bakal"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "nilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para khaside-E"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "para khaside-E"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tuminé"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "padha dijaga"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "nanging wiji"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "para wong atyadar"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "dijegreg"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:13.296581580Z",
+  "model": "glm-5.3"
+}

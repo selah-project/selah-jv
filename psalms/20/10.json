@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Yahweh, wilujengake! Sang Prabu paring wangsul marang aku kabeh ana ing dinane anggonku nguwalet.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "wilujengake"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sang Prabu"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "paring wangsul marang aku kabeh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ana ing dinane"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "anggonku nguwalet"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:51.402240425Z",
+  "model": "glm-5.3"
+}

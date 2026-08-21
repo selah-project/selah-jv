@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan kowe bakal nandur ⟨את⟩ taun kaping wolu, lan bakal mangan saka panen lawas nganti taun kaping sanga; nganti teka panene, kowe bakal mangan sing lawas.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "lan kowe bakal nandur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taun kaping wolu"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "kaping wolu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "lan kowe bakal mangan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "panen"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "lawas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "kaping sanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "panene"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kowe bakal mangan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "sing lawas"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:27.508702586Z",
+  "model": "glm-5.3"
+}

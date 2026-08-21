@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Lan Yisrael ngandika marang Yosef: \"Ndeleng raimu aku ora nyana, lan lah, Elohim nduduhake ⟨את⟩ aku uga ⟨את⟩ wiji-wijimu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "aku nyana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "nduduhake"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiji-wijimu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wiji-wijimu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:53.372085315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Tuhu, aku ngakeni prentahMu; ing kaluhuranMu uripake aku.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tuhu"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "aku ngakeni"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "prentahMu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ing kaluhuranMu"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "uripake aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:02.623324590Z",
+  "model": "glm-5.3"
+}

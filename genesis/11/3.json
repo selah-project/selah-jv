@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 11:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan padha ngendika, siji marang kanca sijiné: Ayo, tindakna bata, lan bakarna nganti mateng; lan bata iku dadi watu kanggo padha, lan bitumen dadi semèn kanggo padha.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngendika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca sijiné"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "נלבנה",
+      "gloss": "tindakna bata"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ונשרפה",
+      "gloss": "lan bakarna"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "nganti mateng (dibakar banget)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo padha"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "bata iku"
+    },
+    {
+      "surface": "לאבן",
+      "gloss": "watu"
+    },
+    {
+      "surface": "והחמר",
+      "gloss": "lan bitumen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo padha"
+    },
+    {
+      "surface": "לחמר",
+      "gloss": "semèn"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:46.694890281Z",
+  "model": "glm-5.3"
+}

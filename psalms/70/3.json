@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 70,
+  "translation": "Isin lan kawuwuhan para sing ngoyak ⟨את⟩ nyawaku; umundur buri lan kaisinan para sing seneng ing cilakaku.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "isin"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "lan kawuwuhan"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "para sing ngoyak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "umundur"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "buri"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "lan kaisinan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "para sing seneng"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ing cilakaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:05.681868620Z",
+  "model": "glm-5.3"
+}

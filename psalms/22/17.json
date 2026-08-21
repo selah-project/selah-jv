@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Sebab asu-asu ngubengi aku; pasukan para nglakoni ala ngubungi aku; kaya singa ana ing tangan lan sikilku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ngubengi aku"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "asu-asu"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "pasukan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "para nglakoni ala"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "ngubungi aku"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "kaya singa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "lan sikilku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:42.191503414Z",
+  "model": "glm-5.3"
+}

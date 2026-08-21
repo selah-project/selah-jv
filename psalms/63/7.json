@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Nalika aku éling Kowé ing dhipanéku, ing prapatan jaga wengi aku ngunceki ⟨bab⟩ Kowé.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "aku éling Kowé"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "dhipanéku"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "ing prapatan jaga wengi"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "aku ngunceki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:18.724797201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 16:31",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Banjur bareng rampung ngucap ⟨את⟩ kabeh tembung-tembung iki, bumi sing ana ing sangisore awake padha belah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur-bareng"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "rampung"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh tembung-tembung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "lan-belah"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "sangisore-awake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:01.604080142Z",
+  "model": "glm-5.3"
+}

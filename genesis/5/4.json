@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Luwihane dina-dinane Adam sawise nampa ⟨את⟩ Shet wolung atus taun, lan isih nampa anak lanang lan wadon.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi (dina-dina)"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dina-dinane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nampa anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "wolung"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "lan nampa anak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "lan anak wadon"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:15.719736463Z",
+  "model": "glm-5.3"
+}

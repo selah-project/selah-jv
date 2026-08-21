@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan ⟨את⟩ abdi lanangmu, ⟨את⟩ abdi wadonmu, ⟨את⟩ enom-enommu kang becik, lan ⟨את⟩ keledaimu bakal dijupuk, lan dienggo ing panggawéané dhéwé.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abdi lanangmu"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "abdi lanangmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abdi wadonmu"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "abdi wadonmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "enom-enommu"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "enom-enommu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "kang becik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keledaimu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "keledaimu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bakal dijupuk"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lan dienggo"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "ing panggawéané dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:06.751651127Z",
+  "model": "glm-5.3"
+}

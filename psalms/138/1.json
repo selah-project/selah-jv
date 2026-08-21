@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 138,
+  "translation": "Kanggo Dawid. Aku matur nuwun marang Paduka kanthi sadaya atiku; ing ngarsane Elohim aku nembang memuji Paduka.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kanggo Dawid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aku matur nuwun marang Paduka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kanthi sadaya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "aku nembang memuji Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:34.295025047Z",
+  "model": "glm-5.3"
+}

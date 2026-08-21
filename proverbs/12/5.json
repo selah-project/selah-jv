@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Pangaptiné wong tulus ⟨iku⟩ murih, siasaté wong jahat ⟨iku⟩ pangucul.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "pangaptiné"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong tulus"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "murih"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "siasaté"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pangucul"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:06.973769211Z",
+  "model": "glm-5.3"
+}

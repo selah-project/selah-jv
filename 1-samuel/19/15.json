@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Banjur Shaul ngutus ⟨את⟩ para utusan kanggo mirsani ⟨את⟩ Dawid, ngendika: Angkatana ⟨את⟩ panjenengane ing ranjang marang aku, supaya mati.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para utusan"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "para utusan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kanggo mirsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Angkatana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ panjenengane",
+      "marks": "ranjang"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "ing ranjang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "supaya mati"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:54.033478107Z",
+  "model": "glm-5.3"
+}

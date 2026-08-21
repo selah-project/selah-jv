@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Padha ngluwengi saiki ⟨את⟩ kang didhawuhake Yahweh: Sira ngadeg, adu bandhing ⟨את⟩ gunung-gunung, lan kalengkahan iku ngluwengi swaramu.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Padha ngluwengi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang didhawuhake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sira ngadeg"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "adu bandhing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung-gunung"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "lan ... ngluwengi"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "kalengkahan iku"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "swaramu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:23.873573815Z",
+  "model": "glm-5.3"
+}

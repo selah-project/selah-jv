@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Manawa sumelangé sang panguwasa mundhak nunggang awake, aja kari panggonanmu, awit kalém-rémo ngendhekaké kaluputan gedhé.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sumelang"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "sang panguwasa"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "mundhak"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nunggang awake"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "panggonanmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "kari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "kalém-rémo"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ngendhekaké"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "gedhé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:39.151796930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Kasih setia-Mu, Yahweh, ndadèni bumi penuh; mulangana aku paket-paket-Mu.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Kasih setia-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ndadèni penuh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "paket-paket-Mu"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mulangana aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:26.487976699Z",
+  "model": "glm-5.3"
+}

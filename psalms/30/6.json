@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Sebab sakedar kedheping mripat ⟨⟨ing⟩⟩ benduné-Né, ⟨⟀⟩⟩urip ⟨ing⟩ katrésnan-Né; ing wayah sonten tangis nginep, nanging ing ésuk rénéyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sakedar kedheping mripat"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ing benduné-Né"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "ing katrésnan-Né"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ing wayah sonten"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nginep"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "tangis"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "nanging ing ésuk"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rénéyan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:38.423817627Z",
+  "model": "glm-5.3"
+}

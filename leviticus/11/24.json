@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan marang iki kabeh kowe dadi najis: saben sing ndumuk bangkene bakal najis nganti sore.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Lan marang iki kabeh"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "kowe dadi najis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sing ndumuk"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bangkene"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bakal najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:28.413402511Z",
+  "model": "glm-5.3"
+}

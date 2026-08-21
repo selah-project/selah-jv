@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan ratuné Aram lagi perang nglawan Yisrael, lan mabet rembug karo para abdiné, ngendika: Ing panggonané si anu lan si anu, pangkemahanku ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lagi (kadadéan)"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nglawan Yisrael"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "mabet rembug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "karo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdiné"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "si anu"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "lan si anu"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "pangkemahanku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:24.338030942Z",
+  "model": "glm-5.3"
+}

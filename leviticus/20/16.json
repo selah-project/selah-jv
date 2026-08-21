@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan wong wadon sing cedhak marang sato kéwan sembarang supaya nggandheng ⟨את⟩ iku — lah kowe bakal matèni ⟨את⟩ wong wadon iku lan ⟨את⟩ sato kéwan iku; mesthi dipateni loro-lorone, getihe ana ing awake dhéwé.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Lan wong wadon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "cedhak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sembarang"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sato kéwan"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "supaya nggandheng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (sato kéwan)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "kowe bakal matèni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong wadon iku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wong wadon iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sato kéwan iku"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sato kéwan iku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dipateni"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mesthi"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ana ing awake dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:50.409171701Z",
+  "model": "glm-5.3"
+}

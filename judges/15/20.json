@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan ia ngadili ⟨את⟩ Yisrael ing jaman wong Peliseti rongpuluh taun.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ing jaman"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Peliseti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rongpuluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:53:20.361480301Z",
+  "model": "glm-5.3"
+}

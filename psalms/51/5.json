@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Sebab aku weruh pangkhianatanku, lan dosaku tansah ana ing ngarsaniku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pangkhianatanku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "lan dosaku"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ing ngarsaniku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:41.577506886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Yahweh ngandika marang Moshe sarta marang Aharon, sang ngandika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sarta marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sang ngandika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:34.501461254Z",
+  "model": "glm-5.3"
+}

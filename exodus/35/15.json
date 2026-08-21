@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "lan ⟨את⟩ altare dupa, lan ⟨את⟩ palang-palange, lan ⟨את⟩ lenga pamurjan, lan ⟨את⟩ dupa rempah-rempah, lan ⟨את⟩ kréwét lawang ing sangarepe lawang Kemah Suci;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altare dupa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palange"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "palang-palange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lenga pamurjan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pamurjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dupa rempah-rempah"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rempah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kréwét lawang"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kréwét"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ing sangarepe lawang"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Kemah Suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:39.225743959Z",
+  "model": "glm-5.3"
+}

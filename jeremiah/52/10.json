@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Lan raja Babel nyembelih ⟨את⟩ para putrane Tsidkiyahu ing ngarsane mripate, uga ⟨את⟩ kabeh panggedhe Yehuda padha disembelih ing Rivla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "lan nyembelih"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putrane Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "ing ngarsane mripate"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh panggedhe Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "disembelih"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "ing Rivla"
+    }
+  ],
+  "timestamp": "2026-08-21T01:06:31.640512612Z",
+  "model": "glm-5.3"
+}

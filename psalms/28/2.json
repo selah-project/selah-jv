@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Pirengake swara pangapunukku nalika dakseru marang Kowé, nalika dakungkah tanganku marang papan suci paling jero sing Gènès.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Pirengake"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pangapunukku"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "nalika dakseru"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Kowé"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "nalika dakungkah"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "papan suci paling jero"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "kasing Gènès"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:05.371200460Z",
+  "model": "glm-5.3"
+}

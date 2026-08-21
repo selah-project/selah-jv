@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Apik apa yèn Panjenengané nitèni ⟨את⟩ sira? Apa kaya ngolok-oloké ana ing manungsa, sarta ngolok-olok Panjenengané?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "apik apa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "nitèni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "kaya ngolok-oloké"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "ana ing manungsa"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "ngolok-olok"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:54.707974243Z",
+  "model": "glm-5.3"
+}

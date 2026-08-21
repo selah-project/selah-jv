@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan rohé Mitrayim kênyut ing jeroné, lan rencanané Dak-telan; lan padha nglamar marang para brahala, lan marang sing nganggo mantra, lan marang sing nguwongaké roh, lan marang sing nduwé kaweruh roh.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "lan kênyut"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rohé"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ing jeroné"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "lan rencanané"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "Dak-telan"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "lan padha nglamar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "para brahala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "sing nganggo mantra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "sing nguwongaké roh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "sing nduwé kaweruh roh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:00.217602087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Kanggo pangendhahing pasamuwan; \"Aja dirusak\"; mazmur kanggo David, miktam; nalika Shaul ngutus wong lan padha nginteni ⟨את⟩ omahé supaya matèni dhèwèké.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangendhahing pasamuwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "dirusak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "nalika ngutus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "lan padha nginteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omahé"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "supaya matèni dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:33.113195695Z",
+  "model": "glm-5.3"
+}

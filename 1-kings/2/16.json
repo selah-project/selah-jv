@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan saiki panyuwun sawiji akula nyuwun ⟨את⟩ saka kowé: aja kumalihaken ⟨את⟩ praènaku. Banjur panjenengané matur dhumateng panjenengané: 'Aturna.'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "panyuwun"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "sawiji"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "akula"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nyuwun"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ saka kowé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "kumalihaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praènaku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "praènaku"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "banjur matur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dhumateng panjenengané"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Aturna"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:22.231899317Z",
+  "model": "glm-5.3"
+}

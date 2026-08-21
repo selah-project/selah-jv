@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Yahweh bakal ngahepi ⟨את⟩ Yehudha minangka pasrining dhewe ing lemah suci, lan bakal milih maneh Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "lan bakal ngahepi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "pasrining dhewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "lan bakal milih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:37:16.459365158Z",
+  "model": "glm-5.3"
+}

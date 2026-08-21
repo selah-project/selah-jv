@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Wusananing tembung, kabèh wis kawanuhaké: padha bekti marang ⟨את⟩ Elohim lan njaga ⟨את⟩ prénta-préntané, awit iki kabèh sanggané manungsa.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "wusananing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "wis kawanuhaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "padha bekti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "prénta-préntané"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "prénta-préntané"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "njaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sanggané manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:13.464125759Z",
+  "model": "glm-5.3"
+}

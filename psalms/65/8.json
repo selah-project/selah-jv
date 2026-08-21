@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Ingkang merenthang soraing segara, sora ombak-ombakipun, sarta gègèranipun para bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "merenthang"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "soraing"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "sora"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ombak-ombakipun"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "sarta gègèranipun"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "para bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:47.192302232Z",
+  "model": "glm-5.3"
+}

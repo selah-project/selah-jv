@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Awit sapa ing langit kang bisa madhani Yahweh? Sapa kang padha karo Yahweh ing antarane para putrapara El?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "bisa madhani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "padha karo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ing antarane para putra"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "para El"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:44.212805257Z",
+  "model": "glm-5.3"
+}

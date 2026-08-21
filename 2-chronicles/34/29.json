@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lajeng sang raja ngutus lan ngumpulake ⟨את⟩ kabeh para sepuh Yehuda lan Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lajeng ngutus"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ngumpulake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh para sepuh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sepuh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:47:56.513413144Z",
+  "model": "glm-5.3"
+}

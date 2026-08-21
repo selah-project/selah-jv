@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Padha ndadekake cangkeme ana ing langit, lan ilate lumaku ana ing bumi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "padha ndadekake"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ana ing langit"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "lan ilate"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ana ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:01.115971538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 13:4",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Banjur Aviya ngadeg ing dhuwuré gunung Tsemarayim, sing ana ing pagunungan Efrayim, banjur ngandika: Padha ngrungokna aku, Yaravam lan saburé Israèl.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "להר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "צמרים",
+      "gloss": "Tsemarayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing pagunungan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Padha ngrungokna aku"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saburé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    }
+  ],
+  "timestamp": "2026-08-21T03:38:31.429569144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan sanadyan temen aku kliru, klesa-klesaku manggon ing ⟨את⟩ aku dhewe.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "lan sanadyan"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "temen"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "aku kliru"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku dhewe",
+      "marks": "aku dhewe"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "klesa-klesaku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:27:18.374600259Z",
+  "model": "glm-5.3"
+}

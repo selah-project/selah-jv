@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Lan padha suda lan tundhuk amarga penekanan, ala lan susah.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "lan padha suda"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "lan tundhuk"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "penekanan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "lan susah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:02.758276085Z",
+  "model": "glm-5.3"
+}

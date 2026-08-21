@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Wong-wong bangsa ana gègèrané, karajan-karajan kok gemeter; ⟨Dhèwèké⟩ muni swarane, bumi léléh.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "ana gègèrané"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wong-wong bangsa"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "gemeter"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karajan-karajan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "muni"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "léléh"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:20.221967262Z",
+  "model": "glm-5.3"
+}

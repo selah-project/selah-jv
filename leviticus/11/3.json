@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Saben kang duwéuku sikil belah lan kabèh kaperang dadi rong pérangan sikil,lan kang ngundhakaké balung monyot (ngunyah maneh),saka kewan — ⟨את⟩ iku kena padha dipangan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Saben"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "kang duwé sikil belah"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sikil belah"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "lan kabèh kaperang dadi rong pérangan"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "belahan"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "sikil"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "lan kang ngundhakaké"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "balung monyot"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "saka kewan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kena padha dipangan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:01.378930681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Cobalah ngendikana ingkuping wong akèh, supaya padha njaluk: wong lanang saka ⟨את⟩ kanca kang lanang, wong wadon saka ⟨את⟩ kanca kang wadon, prabot praka lan prabot mas.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ngendikana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "cobalah"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ing kuping"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "supaya padha njaluk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca lanange"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "wong wadon"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "kanca wadone"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "prabot"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "praka"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "prabot"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "mas"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:27.844017900Z",
+  "model": "glm-5.3"
+}

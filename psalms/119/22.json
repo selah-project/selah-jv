@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Gulungaken saka ing dhuwur awaking sun ana cila-cala lan pangarep-arepan, awit sun angrungkeksi kaseksèn-Panjenengan.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "gulungaken"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "saka ing dhuwur awaking sun"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "cila-cala"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "lan pangarep-arepan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kaseksèn-Panjenengan"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "sun angrungkeksi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:20.832979003Z",
+  "model": "glm-5.3"
+}

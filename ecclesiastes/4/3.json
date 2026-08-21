@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan luwih becik tinimbang kalorone ⟨את⟩ sing nganti saiki ora tau ana, sing ora ndeleng ⟨את⟩ panggawe ala sing ditindakake ing sangisore srengenge.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "lan luwih becik"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "tinimbang kalorone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing ora tau ana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "nganti saiki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tau ana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggawe ala"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengenge"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:05.698904285Z",
+  "model": "glm-5.3"
+}

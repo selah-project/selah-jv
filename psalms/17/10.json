@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lemake wis nutup ⟨atos⟩, cangkeme ngendika kanthi congkah.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "lemake"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "wis nutup"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kanthi congkah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:36.756489216Z",
+  "model": "glm-5.3"
+}

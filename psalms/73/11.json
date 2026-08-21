@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Lan padha matur: kepriyé El mangertos? apa ana kawruh ing sang Elyon?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "lan padha matur"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "kepriyé"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mangertos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "apa ana"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kawruh"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "ing sang Elyon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:01.116348723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Lan padha matur: Muga-muga mirengaken, bendara, temen kita wis mudhun ing wiwitan kanggo tuku panganan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "padha matur"
+    },
+    {
+      "surface": "בי",
+      "gloss": "muga-muga mirengaken"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "temen mudhun"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "kita mudhun"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "ing wiwitan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kanggo tuku"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "panganan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:54.952776826Z",
+  "model": "glm-5.3"
+}

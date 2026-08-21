@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan wong kabèh bakal weruh, yaiku Efrayim lan sing manggon ing Samaria, sing ngucap kanthi kadigdaya lan pangarsa ati:",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Lan bakal weruh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "lan sing manggon"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaria"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "kanthi kadigdaya"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "lan pangarsa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:41.158629756Z",
+  "model": "glm-5.3"
+}

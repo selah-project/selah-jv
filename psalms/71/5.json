@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Sebab Engkau ⟨⟨enggan⟩⟩ iki pangarep-arepku, Adonai Yahweh, pangayoman-ku wiwit saka enomku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Engkau"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "pangarep-arepku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "pangayoman-ku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "wiwit saka enomku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:52.648889606Z",
+  "model": "glm-5.3"
+}

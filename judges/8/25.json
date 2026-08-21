@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan padha ngendika: ‘Bakal kula paringi, temen kula paringi.’ Lan padha ngambahake ⟨את⟩ sandhangan iku, lan padha ngejakake ing kono saben wong anteng saka rampasané.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngendika"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "bakal kula paringi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "temen kula paringi"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "lan padha ngambahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangan"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "sandhangan"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "lan padha ngejakake"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "anteng"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "saka rampasané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:50:35.521869455Z",
+  "model": "glm-5.3"
+}

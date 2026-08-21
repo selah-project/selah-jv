@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Apa dudu — jransamu iku pasemuanmu, pangarep-arepmu, lan kamurnènaning dalanmu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa dudu"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "jransamu"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "pasemuanmu"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "pangarep-arepmu"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "lan kamurnènaning"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "dalanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:15.896108440Z",
+  "model": "glm-5.3"
+}

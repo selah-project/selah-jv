@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Bambu remuk ora bakal diremukake, lan sumbu sing rindang ora bakal dipadhamke; marang kasunyatan panjenengane ngetokake kukum.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "bambu"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "remuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "diremukake"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "lan sumbu"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "rindang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "dipadhamke"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "marang kasunyatan"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kukum"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:53.571214871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Lan dhèwèké nguculaké ⟨את⟩ sedulur-seduluré, lan padha mangkat; lan dhèwèké ngandika marang wong-wong mau: aja padha gelut ing dalan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan dhèwèké nguculaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedulur-seduluré"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulur-seduluré"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lan padha mangkat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dhèwèké ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "padha gelut"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:34.474380970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Banjur Sha'ul yasa siji mesbesi kanggo Yahweh; ⟨את⟩ iku wiwite anggone yasa mesbesi kanggo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesbesi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (wiwite anggone yasa mesbesi)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "wiwite"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "anggone yasa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesbesi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:44.007036015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Rakhel maringake marang dhèwèké ⟨את⟩ Bilha abdiné dadi bojo, lan Yaakov sesirah marang dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "lan maringake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "abdiné"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi bojo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan sesirah"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:01.156083331Z",
+  "model": "glm-5.3"
+}

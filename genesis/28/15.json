@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 28:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan lah, Aku iki karo kowé, lan Aku bakal nglindhungi kowé ing sabarang panggonan sing kok lakoni, lan bakal mbalikake kowé marang ⟨the⟩ lemah iki; awit Aku ora bakal ngilangake kowé, nganti Aku mesthi wis nindakake ⟨את⟩ sing wus Kokandhakake marang kowé.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo kowé"
+    },
+    {
+      "surface": "ושמרתיך",
+      "gloss": "lan Aku-bakal-nglindhungi kowé"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sabarang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kok-laku"
+    },
+    {
+      "surface": "והשבתיך",
+      "gloss": "lan bakal-mbalikake kowé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨the⟩ lemah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "Aku-bakal-ngilangake kowé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mesthi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Aku-wis-nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing wus Kokandhakake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "wus-Kokandhakake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:44.137413875Z",
+  "model": "glm-5.3"
+}

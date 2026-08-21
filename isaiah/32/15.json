@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "nganti Roh katindhihake ing salumahing saka ing dhuwur, lan ara-ara dadi kebon lan kebon kang direckakaké dadi wana",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "katindhihake"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ing salumahing"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Roh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "saka ing dhuwur"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "dadi kebon"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "lan kebon"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "dadi wana"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "direckakaké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:37.140691500Z",
+  "model": "glm-5.3"
+}

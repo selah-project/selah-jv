@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan kadadéan ing sajroning dhalan, ing panginepan, Yahweh sarawuh nemoni panjenengané, lan ngudi matèni panjenengané.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing sajroning dhalan"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "ing panginepan"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "sarawuh nemoni panjenengané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "lan ngudi"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "matèni panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:23.303710895Z",
+  "model": "glm-5.3"
+}

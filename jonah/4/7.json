@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur Elohim ngrantam ulat gulala nalika fajar nganjuk, ing esuk banjur; lan ulat iku nuthuk ⟨את⟩ qiqayon iku, banjur ⟨iku⟩ garing.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "banjur ngrantam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat gulala"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "nalika...nganjuk"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "fajar"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ing esuk banjur"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "lan nuthuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiqayon iku"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiqayon iku"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "banjur garing"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:08.666817205Z",
+  "model": "glm-5.3"
+}

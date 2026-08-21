@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Aku bakal maringi kowé pangon-pangon miturut atin-Ku, lan dhèwèké bakal angon ⟨אתכם⟩ kanthi kawruh lan trep.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "lan Aku bakal maringi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pangon-pangon"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "miturut atin-Ku"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "lan dhèwèké bakal angon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kanthi kawruh"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "lan trep"
+    }
+  ],
+  "timestamp": "2026-08-21T00:51:07.680498737Z",
+  "model": "glm-5.3"
+}

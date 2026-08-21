@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Pinuji wohing lambenira, lan wohing lemahira, lan wohing kewan-kewanira, Pedhot pedhet sapi-sapimu lan pedhot pedhet wedhus-wedhusira.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "wohing"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "lambenira"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "lan wohing"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "lemahira"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "lan wohing"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "kewan-kewanira"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "pedhot pedhet"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "sapi-sapimu"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "lan pedhot pedhet"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "wedhus-wedhusira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:52.738994343Z",
+  "model": "glm-5.3"
+}

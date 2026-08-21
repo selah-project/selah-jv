@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Avimelekh manggon ing Arumah, lan Zevul ngusir ⟨את⟩ Gaal lan ⟨את⟩ sedulur-sedulure saka panggonan ing Shekhem.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "ing Arumah"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sedulur-sedulure"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulur-sedulure"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "saka panggonan"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ing Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:17.840897585Z",
+  "model": "glm-5.3"
+}

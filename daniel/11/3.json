@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan bakal ngadeg sawijining raja gagah, lan bakal anggoné mréntah praja gedhé, lan bakal nindakaké miturut karsané.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "lan bakal ngadeg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gagah"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "lan bakal mréntah"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "praja"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gedhé"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lan bakal nindakaké"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "miturut karsané"
+    }
+  ],
+  "timestamp": "2026-08-21T03:04:07.443137526Z",
+  "model": "glm-5.3"
+}

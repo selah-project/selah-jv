@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Para putrané Elohim padha ndeleng ⟨את⟩ putri-putriné manungsa, yèn ayu temen; banjur padha njupuk bojo saka kabèh sing padha dipilih.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putri-putriné manungsa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putriné"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "ayu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "temen"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "banjur padha njupuk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "padha"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "bojo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka kabèh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "padha dipilih"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:18.605024041Z",
+  "model": "glm-5.3"
+}

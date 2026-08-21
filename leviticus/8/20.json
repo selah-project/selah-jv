@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan ⟨את⟩ domba jantan iku diperang dadi pérangan-pérangané, lan Moshe ngobongaké ⟨את⟩ sirahé, ⟨את⟩ pérangan-pérangané, lan ⟨את⟩ gajihé.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan iku"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan iku"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "diperang"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "dadi pérangan-pérangané"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ngobongaké (dadi uwab)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahé"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pérangan-pérangané"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "pérangan-pérangané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "gajihé"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "gajihé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:25.886708805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Sapa waé sing padha ndeleng aku padha gawe guyon; ngelepake lambe, ngoyakake sirah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sapa waé"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "sing padha ndeleng aku"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "padha gawe guyon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ake"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "ngelepake"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "lambe"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ngoyakake"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:32.622230426Z",
+  "model": "glm-5.3"
+}

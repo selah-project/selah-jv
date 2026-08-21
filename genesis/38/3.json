@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lahira ngandhut banjur nglairake lanang, lan panjenengane njenengi ⟨את⟩ asmane Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ngandhut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "njenengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmane"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:43.397038409Z",
+  "model": "glm-5.3"
+}

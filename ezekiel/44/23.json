@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Lan ⟨את⟩ umat-Ku padha diajari bedane antarane sing suci lan sing umum, lan antarane sing najis lan sing murni padha diwaruhi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "padha diajari"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sing suci"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "lan sing umum"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "sing najis"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "lan sing murni"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "padha diwaruhi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:15:17.742126406Z",
+  "model": "glm-5.3"
+}

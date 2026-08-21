@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Kidung, mazmur kapunjukan kanggo Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kidung"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kanggo Asaf"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:15.146783873Z",
+  "model": "glm-5.3"
+}

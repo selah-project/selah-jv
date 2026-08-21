@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Aku Yahweh, lan ora ana maneh, saliyané Aku ora ana Elohim; Aku ngiket sliramu, sanajan sliramu ora ngerteni Aku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "saliyané Aku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Aku ngiket sliramu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sanajan ora"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "sliramu ora ngerteni Aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:43:57.146488171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Apa ora padha weruh kabeh sing padha nglakoni piala, sing padha mamah umate aku, mamah roti — Yahweh ora kok dipangucali?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "padha weruh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "sing padha nglakoni"
+    },
+    {
+      "surface": "און",
+      "gloss": "piala"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "sing padha mamah"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umate aku"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mamah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora kok"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "dipangucali"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:03.981396006Z",
+  "model": "glm-5.3"
+}

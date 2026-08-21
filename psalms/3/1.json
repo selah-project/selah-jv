@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Mizmor kanggo Daud, nalika dhèwèké ngungsi saka sanding Avshalom anaké.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Daud"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "nalika ngungsi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka sanding"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:36.409985075Z",
+  "model": "glm-5.3"
+}

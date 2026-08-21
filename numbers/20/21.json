@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Edom nulak maring Israel diajak liwat ing watese, mulane Israel medhar saka ing dhuwure.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "nulak"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diajak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "liwat"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "ing watese"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "mulane medhar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "saka ing dhuwure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:39.501760863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan dumadi ing taun kaping telu saka Hoshéa bin Ela ratu Israél, Hizkiya bin Ahaz ratu Yehuda dadi ratu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dumadi"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kaping telu"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "saka Hoshéa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dadi ratu"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-21T05:01:12.941380387Z",
+  "model": "glm-5.3"
+}

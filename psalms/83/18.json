@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Coba padha isin lan padha wedi salawas-lawase, ya padha rumangsa winiru lan padala.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "coba padha isin"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "lan padha wedi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ya padha rumangsa winiru"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "lan padala"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:42.707255252Z",
+  "model": "glm-5.3"
+}

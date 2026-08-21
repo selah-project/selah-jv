@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 24:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Dheweke ngucap: Ngombénen, bendara; banjur dheweke gegesai, ngandhapake kendhile marang tangane, lan maringi dheweke ngombé.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "dheweke ngucap"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ngombénen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "banjur dheweke gegesai"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ngandhapake"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kendhile"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "lan maringi dheweke ngombé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:50.158081499Z",
+  "model": "glm-5.3"
+}

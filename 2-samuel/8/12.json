@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Saka Aram, saka Moab, saka para putra Ammon, saka wong-wong Peleshet, saka Amalek, lan saka rampasan perangé Hadadezer anak Rehob raja Zoba.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "saka Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "lan saka Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "lan saka para putra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "lan saka wong-wong Peleshet"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "lan saka Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "lan saka rampasan perang"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zoba"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:59.015955071Z",
+  "model": "glm-5.3"
+}

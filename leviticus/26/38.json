@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kowé bakal tinêm ing antarané para bangsa, lan bumi para mungsuhmu bakal mangan ⟨את⟩ kowé.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "kowé bakal tinêm"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing antarané para bangsa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "bakal mangan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowé",
+      "marks": "kowé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "para mungsuhmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:53.610678380Z",
+  "model": "glm-5.3"
+}

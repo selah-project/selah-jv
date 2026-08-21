@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 124,
+  "translation": "Pinuji Yahweh, sing ora paring kita dadi santapan ing gegriyané wongé.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "pinuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "sing ora"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "paring kita"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "santapan\/korban"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ing gegriyané wongé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:18.782195120Z",
+  "model": "glm-5.3"
+}

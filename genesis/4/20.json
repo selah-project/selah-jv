@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lanj Adha nglairake ⟨את⟩ Yaval; dhèwèké iku dadi bapak para sing ndedemen ing khemah lan sinewan ternak.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapak"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ndedemen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ternak"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:04.220576959Z",
+  "model": "glm-5.3"
+}

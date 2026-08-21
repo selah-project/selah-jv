@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 67,
+  "translation": "Bangsabangsa padha bungah lan sraya-sraya, awit Kowe ngadili ⟨את⟩ umat-umat kanthi kelurusan, lan bangsabangsa ing bumi Kowe tuntun. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "padha bungah"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "lan sraya-sraya"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bangsabangsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "Kowe ngadili"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "umat-umat"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "kanthi kelurusan"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "lan bangsabangsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "Kowe tuntun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:40.409933047Z",
+  "model": "glm-5.3"
+}

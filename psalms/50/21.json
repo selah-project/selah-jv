@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Iki kokgawe lan aku meneng; kokdyengake yen Aku ⟨is⟩ kaya kowe; Aku bakal ngero'i' sira lan kudangake ⟨iku⟩ ing paningalmu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kokgawe"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "lan aku meneng"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "kokdyengake"
+    },
+    {
+      "surface": "היות",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kaya kowe"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "Aku ngero'i' sira"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "lan kudangake"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ing paningalmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:46.051995667Z",
+  "model": "glm-5.3"
+}

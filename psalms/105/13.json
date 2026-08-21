@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Lan padha ngumbara saka bangsa menyang bangsa, saka karajan menyang wong liya.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "lan padha ngumbara"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "saka bangsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "saka karajan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:07.660906306Z",
+  "model": "glm-5.3"
+}

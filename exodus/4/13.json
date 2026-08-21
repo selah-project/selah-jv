@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan panjenengané ngendika: Nuwun, Adonai, utusanana mugi lumantar asta sapa sing Paduka utus.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nuwun"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "utusanana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lumantar asta"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "Paduka utus"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:51.603670429Z",
+  "model": "glm-5.3"
+}

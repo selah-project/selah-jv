@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Ora dipanggang nganggo ragi; bagéané wus Dakwénékake ⟨את⟩ saka persembahan geni-Ku; kadadosan suci ing sangisoring kadadosan suci iku, kaya korban dosa lan kaya korban salah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "dipanggang"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "bageyane"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Dakwenekake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan geni-Ku"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "saka persembahan geni-Ku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadadosan suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kadadosan-kadadosan suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "kaya korban dosa"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "lan kaya korban salah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:12.164772647Z",
+  "model": "glm-5.3"
+}

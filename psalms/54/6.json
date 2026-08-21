@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 54,
+  "translation": "Pratandha, Elohim ⟨iku⟩ pitulung kanggo aku; Adonai ⟨is⟩ karo wong-wong sing nyengkuyung nyawa aku.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Pratandha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pitulung"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "karo sing nyengkuyung"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:09.189821389Z",
+  "model": "glm-5.3"
+}

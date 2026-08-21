@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Nalika taun kapethak likur, ing mangsa pamaréntahané Asa ratu Yéhudah, Ela anaké Baasa jumeneng ratu ing Israél, ing Tirtsah, lawasé rong taun.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "nalika taun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kapethak"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "likur"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "pamaréntahané Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhudah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jumeneng ratu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "ing Tirtsah"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "rong taun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:47.611862878Z",
+  "model": "glm-5.3"
+}

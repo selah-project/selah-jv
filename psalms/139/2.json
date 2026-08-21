@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Paduka nguningani lenggahku lan tangkiku; Paduka nggarap pangracutku saka adoh.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Paduka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nguningani"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "lenggahku"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "lan tangkiku"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "Paduka nggarap"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "pangracutku"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "saka adoh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:03.912349222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "lan ⟨את⟩ Kibtsayim sarta ⟨את⟩ padhangane, lan ⟨את⟩ Beth-Khoron sarta ⟨את⟩ padhangane — kutha papat",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Kibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Beth-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "papat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:26.306850731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Mung Panjenengane ⟨iku⟩ cadas-ku lan kaslametan-ku, pagubengan dhuwur-ku, ora aku bakal obak banget.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Panjenengane ⟨iku⟩"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "cadas-ku"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "lan kaslametan-ku"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "pagubengan dhuwur-ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bakal obak"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:23.399010044Z",
+  "model": "glm-5.3"
+}

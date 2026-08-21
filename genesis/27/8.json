@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan saiki, anakku, ngraosna swaraku, marang ⟨את⟩ kang aku parentahaké marang kowé.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngraosna"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "swaraku"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "marang kang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parentahaké"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kowé",
+      "marks": "kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:58.798104307Z",
+  "model": "glm-5.3"
+}

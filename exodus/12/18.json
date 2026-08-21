@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Ing sasi kapisan, ing dina kaping patbelas sasi iku, ing wayah sore, sira bakal mangan roti tanpa ragi, nganti dina kaping selikur sasi iku ing wayah sore.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "ing sasi kapisan"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ing kaping pat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ing wayah sore"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sira bakal mangan"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "lan rolas (selikur)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ing wayah sore"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:16.954071516Z",
+  "model": "glm-5.3"
+}

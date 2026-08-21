@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Dinaku kaya bayangan natèb, lan aku kaya suket kuncang.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "dinaku"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "kaya bayangan"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "natèb"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kaya suket"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "kuncang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:37.501857208Z",
+  "model": "glm-5.3"
+}

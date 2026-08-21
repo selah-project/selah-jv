@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Ngombang banjur ngombang ⟨את⟩ bumi, lan direbut banjur direbut, awit Yahweh wus ngucapake ⟨את⟩ pangucap iki.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Ngombang banjur"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ngombang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "lan direbut banjur"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "direbut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wus ngucapake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangucap iki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pangucap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:53.334978261Z",
+  "model": "glm-5.3"
+}

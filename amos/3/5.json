@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Apa manuk tiba ing jaring ⟨⟨ing⟩⟩ bumi, lan mangsa ora ana ing kono? Apa jaring maju saka bumi, lan ora nangkap apa-apa?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "apa...tiba"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "lan mangsa-lodhang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "apa...maju"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jaring"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "lan nangkap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "nangkap"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:25.854448735Z",
+  "model": "glm-5.3"
+}

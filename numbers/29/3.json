@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Langkunge: tepung alus sing diuleni lenga, telung saprasaton kanggo sapi iku, rong saprasaton kanggo domba lanang iku.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "Lan langkunge"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tepung alus"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "sing diuleni"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telung"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "saprasaton"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "kanggo sapi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "rong"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "saprasaton"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "kanggo domba lanang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:27:42.092670551Z",
+  "model": "glm-5.3"
+}

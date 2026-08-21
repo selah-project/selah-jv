@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Sebangsa mangkono Adonai ngandika marang aku: Manawa mung setaun, kaya tauné wong kaji upah, bakal entek kaluhurané Kédar kabeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "manawa mung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "setaun"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "kaya tauné"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "wong kaji upah"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "bakal entek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kaluhurané ... kabeh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kédar"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:04.946660899Z",
+  "model": "glm-5.3"
+}

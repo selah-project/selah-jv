@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Aku weruh sidhemmu lan lungamuh lan tekanmu, lan ⟨את⟩ mregas-mregasmu marang Aku.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "sidhemmu"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "lungamuh"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "tekanmu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku weruh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mregas-mregasmu"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "mregas-mregasmu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang Aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:14.511226430Z",
+  "model": "glm-5.3"
+}

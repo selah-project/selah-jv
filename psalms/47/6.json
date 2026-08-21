@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Elohim munggah ing sajroning sorak-sorak, Yahweh ing swara sanging.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ing sajroning sorak-sorak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ing swara"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sanging"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:11.633416781Z",
+  "model": "glm-5.3"
+}

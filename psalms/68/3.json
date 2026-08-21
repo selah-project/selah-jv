@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Kaya pucuking udud kasirakake, mugi mangkono Panjenengane nundhung; kaya lilin malih ing ngarsaning geni, mangkono para wong ala bakal sirna saka ngarsane Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "kaya ... kasirakake"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "pucuking udud"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "kasirakake"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "kaya ... malih"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "lilin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ing ngarsaning"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bakal sirna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "para wong ala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:28.975074524Z",
+  "model": "glm-5.3"
+}

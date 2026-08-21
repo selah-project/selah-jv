@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Sang imam mirsani, lah, yen ana semu dhuwur putih ing kulit, lan iku wis malih rikne dadi putih, lan ana uriping daging seger ing semu iku —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "semu dhuwur"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "putih"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ing kulit"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "wis malih"
+    },
+    {
+      "surface": "שער",
+      "gloss": "rikne"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "dadi putih"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "uriping daging seger"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "חי",
+      "gloss": "seger\/urip"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "ing semu iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:20.286164814Z",
+  "model": "glm-5.3"
+}

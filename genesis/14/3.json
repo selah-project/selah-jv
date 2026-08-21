@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Kabeh iki padha gabung menyang lebak HaSiddim, iku ⟨yaiku⟩ segara uyah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "padha gabung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "lebak"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "HaSiddim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "uyah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:00.138992036Z",
+  "model": "glm-5.3"
+}

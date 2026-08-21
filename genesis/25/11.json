@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Banjur sawise sedane Avraham, Elohim mberkahi ⟨את⟩ Yitshak anakne; lan Yitshak manggon ana ing sacedhake Beer-Lachai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur kadadéan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sedane"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan mberkahi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anakne"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ing sacedhake"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:11.094640129Z",
+  "model": "glm-5.3"
+}

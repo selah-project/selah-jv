@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "lan ⟨את⟩ umpak-umpak iku digawe, lan ⟨את⟩ baskom-baskom iku digawe ing sangisore umpak-umpak",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umpak-umpak"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "umpak-umpak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baskom-baskom"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "baskom-baskom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "umpak-umpak"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:49.669307794Z",
+  "model": "glm-5.3"
+}

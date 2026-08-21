@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan nalikané dinane, Elqanah ngorbanake, lan banjur maringi Penina bojone, lan marang kabeh putra-putrane lan putri-putrine, bagean-bagean.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan nalikané"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ngrbanake"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "lan maringi"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lan marang kabeh"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "putra-putrane"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "lan putri-putrine"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "bagean-bagean"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:20.631048434Z",
+  "model": "glm-5.3"
+}

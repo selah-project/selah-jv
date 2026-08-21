@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Para kasihku lan kanca-kancaku ngadeg adoh saka leraku, lan sanak-kadhangku saka let adoh padha ngadeg.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "para-kasihku"
+    },
+    {
+      "surface": "ויעי",
+      "gloss": "lan-kanca-kancaku"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "adoh-saka"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "leraku"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "padha-ngadeg"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "lan-sanak-kadhangku"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "saka-let-adoh"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "padha-ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:35.229275527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan malékat Yahweh ngandika marang ⟨dhèwèké⟩: Aku ngundhakake ⟨את⟩ waturirmé, nganti ora bisa kai-angi saka akèhé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malékat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ngundhakake"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "kawiwitan ngundhakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waturirmé"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "waturirmé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bisa kai-angi"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "saka akèhé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:45.705509168Z",
+  "model": "glm-5.3"
+}

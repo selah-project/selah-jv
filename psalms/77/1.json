@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Kanggo pangendhag seni, miturut Yedutun, mazmur kanggo Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangendhag seni"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kanggo Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:52.040233021Z",
+  "model": "glm-5.3"
+}

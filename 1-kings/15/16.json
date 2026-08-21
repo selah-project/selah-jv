@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan ana perang antarane Asa lan antarane Baasha ratu Israyel sedina-dinemane kang loro.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Lan ana perang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina-dinemane"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "kang loro"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:01.534160849Z",
+  "model": "glm-5.3"
+}

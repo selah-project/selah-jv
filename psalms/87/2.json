@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 87,
+  "translation": "Yahweh tresna marang gapura-gapura Tzion, luwih katimbang sadaya padunungan Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "tresna marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "gapura-gapura"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "luwih katimbang sadaya"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "padunungan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:06.587925794Z",
+  "model": "glm-5.3"
+}

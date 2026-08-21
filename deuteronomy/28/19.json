@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Sinedhana kowe ing tembene mlebu, lan sinedhana kowe ing tembene metu.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "sinedhana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ing tembene mlebu"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "lan sinedhana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ing tembene metu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:40.602418201Z",
+  "model": "glm-5.3"
+}

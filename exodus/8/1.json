@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Yahweh ngandika marang Moshe: Kandhaa marang Aharon: Sumangaake tangane klawu gagange ing sandhuwure kali-kali, ing sandhuwure blumbang-blumbang, lan ing sandhuwure rawa-rawa, lan dadia ⟨את⟩ kodhok-kodhok munggah ing tanah Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kandhaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "sumangaake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane klawu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangane klawu"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "klawu gagange"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwure"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwure"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "blumbang-blumbang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing sandhuwure"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "rawa-rawa"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "lan dadia munggah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kodhok-kodhok"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kodhok-kodhok"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:41.856982928Z",
+  "model": "glm-5.3"
+}

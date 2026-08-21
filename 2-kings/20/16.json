@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan Yeshayahu ngandika marang Hizkiyahu: 'Sruwuni pangandikané Yahweh.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sruwuni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pangandikané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:30:21.008266357Z",
+  "model": "glm-5.3"
+}

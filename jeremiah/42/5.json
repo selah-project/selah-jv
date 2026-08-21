@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 42:5",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan awake ngucap marang Yirmeyahu: Muga Yahweh dadi saksi ing antarane kita sing bener lan setia, yen ora miturut saben dawuh sing Yahweh Elohim-mu ngutus kowe katurake marang kita, mengkono kita lakoni.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Lan awake"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "muga dadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ing antarane kita"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bener"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "lan setia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut saben"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dawuh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישלחך",
+      "gloss": "ngutus kowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kita lakoni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:02:57.821631194Z",
+  "model": "glm-5.3"
+}

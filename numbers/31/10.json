@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan ⟨את⟩ kutha-kuthane kabeh ing panggonane padha manggon, lan ⟨את⟩ bètèng-bètengé kabeh, padha diobong nganggo geni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kutha-kuthane kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kutha-kuthane"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "ing panggonane padha manggon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bètèng-bètengé kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "bètèng-bètengé"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "padha diobong"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nganggo geni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:18.285485425Z",
+  "model": "glm-5.3"
+}

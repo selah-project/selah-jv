@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lah bakal takon marang panjenengané apa waras, lan bakal mènèhi panjenengané rong roti, lan panjenengané njupuk saka astané",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "bakal takon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang panjenengané"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "apa waras"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bakal mènèhi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "panjenengané"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "rong"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "saka astané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:38.988013059Z",
+  "model": "glm-5.3"
+}

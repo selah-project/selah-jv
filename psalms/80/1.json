@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Kanggo pangendhagara, miturut Soshanim-Edut, pasemon kanggo Asaf, mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangendhagara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Soshanim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "-Edut"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "pasemon kanggo Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:09.135225546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Atiku kesasar, wedi gêgisik ngejer aku; ⟨את⟩ senja kang kula-karepake ditetepake dadi girising aku.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "kesasar"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "wedi gêgisik"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "ngejer aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senja"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "senja"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "kang kula-karepake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ditetepake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "girising aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:21.444650692Z",
+  "model": "glm-5.3"
+}

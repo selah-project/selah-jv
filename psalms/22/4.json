@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan Panjenengan suci, ingkang pidalem ing salebeting puji-puji Israél.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lan Panjenengan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ingkang pidalem"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "puji-puji"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:36.066851900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan bare Paroh mudhun kanggo adus ing pinggir kali, lan para abadining wadone lumaku ing sisih pinggir kali, lan panjenengane mirsani ⟨את⟩ papan那条the box ing tengahing wulu pring, lan ngutus ⟨את⟩ abadine, lan abadi iku njupuk.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "mudhun"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bare"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "kanggo adus"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing pinggir"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "lan para abadining wadone"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "יד",
+      "gloss": "pinggir"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "lan mirsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan\/kothak cilik"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kothak"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "wulu pring"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "lan ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abadine"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "abadine wadon"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "lan njupuk"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:41.030504391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Marang aku numpak murkamu, lan karo kabeh ombakmu kowé nandhakake aku. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "numpak"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "murkamu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ombakmu"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "kowé nandhakake"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:20.845871606Z",
+  "model": "glm-5.3"
+}

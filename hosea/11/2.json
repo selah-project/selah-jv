@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Padha ngundang dheweke, nanging padha mlaku adoh saka ngarsane; marang para Baal padha nyembelih kurban, lan marang brahala padha ngobong dupa.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "padha ngundang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "padha mlaku"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "adoh saka ngarsane"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "marang para Baal"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "padha nyembelih kurban"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "lan marang brahala"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "padha ngobong dupa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:09.994981149Z",
+  "model": "glm-5.3"
+}

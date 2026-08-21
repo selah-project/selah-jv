@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 143,
+  "translation": "Aku eling marang dina-dina biyen; aku ngumumi sakabehing panggaweamu; ing panggawean tanganmu aku renungake.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "aku eling"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "biyen"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "aku ngumuni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sakabehing"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "panggaweamu"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ing panggawean"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "aku renungake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:02.157956834Z",
+  "model": "glm-5.3"
+}

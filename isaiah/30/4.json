@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Sebab pangérané wis ana ing Tzoan, lan para utusané wis tekan ing Khanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wis ana"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "ing Tzoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "pangérané"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "lan para utusané"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "ing Khanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "wis tekan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:23.347764989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Brahalaning para bangsa ⟨iku⟩ pérak lan emas, gawéané tangané manungsa.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Brahalaning"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "lan emas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawéané"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangané"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:28.613006773Z",
+  "model": "glm-5.3"
+}

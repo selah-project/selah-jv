@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan ⟨את⟩ kasusut kasusutan susu sepuluh iki kabekakna marang panglimaning éwonan, lan ⟨את⟩ kakang-kakangmu padha amriksa marang kawilujengané, lan ⟨את⟩ pasréwané padha amila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kasusut susu sepuluh"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "kasusutan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "susu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "kabekakna"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "marang panglima"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "éwonan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kakang-kakangmu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kakang-kakangmu"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "amriksa"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kawilujengan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pasréwané"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "pasréwané"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "amila"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:53.732311721Z",
+  "model": "glm-5.3"
+}

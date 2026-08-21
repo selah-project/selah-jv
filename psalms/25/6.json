@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Elinga pitulung-pitulungmu ya Yahweh, lan bagas-bagasparm, awit wiwit jaman kuna padha mau.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Elinga"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "pitulung-pitulungmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "lan bagas-bagasparm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "wiwit jaman kuna"
+    },
+    {
+      "surface": "המה",
+      "gloss": "padha mau"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:24.505310786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan marang saben nyawa mati aja tumut; kanggo bapakné lan kanggo ibuné aja dicemari.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Lan marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tumut"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kanggo bapakné"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "lan kanggo ibuné"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dicemari"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:43.489310907Z",
+  "model": "glm-5.3"
+}

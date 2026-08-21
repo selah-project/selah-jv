@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Dhèwèké nggendhong ⟨את⟩ aku lan ngumbalake aku ing pepeteng, lan dudu ing pepadhang.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "nggendhong"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan ngumbalake"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ing pepeteng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan dudu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ing pepadhang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:43:51.961313309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Mulane kondhokna: Lah, Aku iki maringake ⟨את⟩ prajanjian-Ku — damé — marang dhèwèké.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mulane"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kondhokna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Lah, Aku iki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maringake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjian-Ku damé"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjian-Ku"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "damé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:13.160018344Z",
+  "model": "glm-5.3"
+}

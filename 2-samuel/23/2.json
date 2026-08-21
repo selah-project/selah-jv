@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Rokh Yahweh wicara ing aku, lan tembunge ana ing lambéku.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Rokh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wicara"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "lan tembunge"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lambéku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:03:26.055475740Z",
+  "model": "glm-5.3"
+}

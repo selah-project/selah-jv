@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Dene saiki, bareng surat iki teka marang kowé, lan ⟨את⟩ ana ing tanganmu anak-anaké bendaramu, lan ⟨את⟩ ana ing tanganmu para jaran-kreta lan jaran-jaran, sarta kutha bètèng lan gegaman —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Dene saiki"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "bareng teka"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "surat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ ana ing tanganmu",
+      "marks": "anak-anaké bendaramu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "bendaramu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ ana ing tanganmu",
+      "marks": "para jaran-kreta lan jaran-jaran"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "para jaran-kreta"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "lan jaran-jaran"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "sarta kutha"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "bètèng"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "lan gegaman"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:12.441525397Z",
+  "model": "glm-5.3"
+}

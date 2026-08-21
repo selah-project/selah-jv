@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Ora bakal ana marang kowe para elohim liyan ing ngarsa-∥-ku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsa-ku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:42.853101399Z",
+  "model": "glm-5.3"
+}

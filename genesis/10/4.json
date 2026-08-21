@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan anak-anaké Yawan: Elishah, Tarshish, Kitim, lan Dodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Lan anak-anaké"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yawan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elishah"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "lan Tarshish"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "lan Dodanim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:57.246918580Z",
+  "model": "glm-5.3"
+}

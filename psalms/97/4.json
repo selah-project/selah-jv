@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 97,
+  "translation": "Kilat-kilate ndadekake donya padhang; bumi kagethek lan greget.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "ndadekake padhang"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "kilat-kilate"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "donya"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "kagethek"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "lan greget"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:09.321208855Z",
+  "model": "glm-5.3"
+}

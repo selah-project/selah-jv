@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Marang sang wadon ⟨Elohim⟩ ngandika: Aku bakal nambah-nambah piala lan metengmu; ing sangsaya piala kowe bakal nglairake anak-anak; lan marang bojomu kasengsemmu, lan dheweke bakal mrentah marang kowe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sang wadon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nambah-nambah"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "Aku bakal nambahake"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "piyalamu"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "lan metengmu"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "ing sangsaya piala"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "kowé bakal nglairake"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "bojomu"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "kasengsemmu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan dhèwèké"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "bakal mrentah"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:48:44.796212962Z",
+  "model": "glm-5.3"
+}

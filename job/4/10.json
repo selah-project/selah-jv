@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Swara singane singa, lan guyuhe singa galak, lan untune anak-anak singa padha diuculi.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "swara singane"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "lan guyuhe"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singa galak"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "lan untune"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "anak-anak singa"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "padha diuculi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:16.378204394Z",
+  "model": "glm-5.3"
+}

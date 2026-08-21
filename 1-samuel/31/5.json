@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Nalika pangemot sanjatané weruh yén Shaúl wis mati, dhèwèké uga tiba pedhangé lan mati bareng karo ⟨dhèwèké⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pangemot"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sanjatané"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yén"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "uga tiba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedhangé"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng karo ⟨dhèwèké⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:01.179753969Z",
+  "model": "glm-5.3"
+}

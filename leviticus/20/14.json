@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan lanang sing njupuk ⟨את⟩ wong wadon uga ⟨את⟩ ibune — iku zimah (kalakuwan ala) — ing geni wong bakal ngobong dheweke lan wong-wong mau, supaya aja ana zimah ing antaramu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Lan lanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong wadon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wong wadon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uga ⟨את⟩",
+      "marks": "ibune"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimah (kalakuwan ala)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "wong bakal ngobong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke (wong lanang mau)"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "lan ⟨את⟩ wong-wong mau",
+      "marks": "wong wadon lan ibune"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya aja"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zimah"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ing antaramu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:50.408858248Z",
+  "model": "glm-5.3"
+}

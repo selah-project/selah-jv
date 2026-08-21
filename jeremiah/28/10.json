@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Banjur Hananyah sang nabi njupuk ⟨את⟩ palang pangguna saka ing geger Yirmeyah sang nabi, lan dipethelake.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang pangguna"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "palang pangguna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "geger (bahuning gulu)"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "lan dipethelake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:57:51.438402022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Aja kowe padha nyoba ⟨את⟩ Yahweh Elohim-kowé, kaya sing kowe padha coba ing Massah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "kowe padha nyoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim-kowé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "kowe padha coba"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "ing Massah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:39.826530553Z",
+  "model": "glm-5.3"
+}

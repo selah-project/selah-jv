@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Pamuji ing Yahweh bakal diucapake cangkemku, lan saben daging maringi berkah ⟨ing⟩ Asma Suce landhung ing salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "pamuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakal diucapake"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan maringi berkah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Asma"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Suce"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "landhung ing salawas-lawase"
+    },
+    {
+      "surface": "ועד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:02.444801851Z",
+  "model": "glm-5.3"
+}

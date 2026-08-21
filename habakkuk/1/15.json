@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 1:15",
+  "book": "habakkuk",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kabeh dijukuk nganggo pancing, ditarek nganggo jalahe, lan kalumudhakake ing klambu-paringane; mula banget bungah lan girang.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בחכה",
+      "gloss": "nganggo pancing"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dijukuk"
+    },
+    {
+      "surface": "יגרהו",
+      "gloss": "ditarek"
+    },
+    {
+      "surface": "בחרמו",
+      "gloss": "nganggo jalahe"
+    },
+    {
+      "surface": "ויאספהו",
+      "gloss": "kalumudhakake"
+    },
+    {
+      "surface": "במכמרתו",
+      "gloss": "ing klambu-paringane"
+    },
+    {
+      "surface": "על",
+      "gloss": "mula"
+    },
+    {
+      "surface": "כן",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "ויגיל",
+      "gloss": "girang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:33:44.781981045Z",
+  "model": "glm-5.3"
+}

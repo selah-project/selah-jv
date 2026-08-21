@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur padha nindakake ⟨את⟩ riyaya ⟨the⟩ sukkot, kaya kang kaserat, lan korban bakar dina baka-dina miturut cacahé, miturut paḍem, padatan dina ing dinane.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riyaya"
+    },
+    {
+      "surface": "חג",
+      "gloss": "riyaya"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "sukkot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "kaya kang kaserat"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "lan korban bakar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "baka-dina"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "miturut cacahé"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "miturut paḍem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "padatan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ing dinane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:05:19.538458524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ⟨את⟩ Resen, antarane Ninewe lan antarane Kalakh — iku ⟨is⟩ kutha sing gedhe dhewe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "sing gedhe dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:32.693373317Z",
+  "model": "glm-5.3"
+}

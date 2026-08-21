@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Daud ngluru, ⟨dheweke⟩ lan papat atus wong; lan rong atus wong padha ngadeg, sing wis kesel ora kuwat ngliwati ⟨את⟩ kali Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "ngluru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dheweke⟩"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "lan papat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "lan padha ngadeg"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "rong atus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "wis kesel"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kali Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "kali"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:25.873453199Z",
+  "model": "glm-5.3"
+}

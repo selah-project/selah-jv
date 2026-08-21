@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Sebab Yahweh mirsani ⟨את⟩ kasusahané Israèl, kang getun banget; lan ora ana sing dikunci lan ora ana sing kari, lan ora ana panulung kanggo Israèl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahané Israèl"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusahané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "getun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "lan ora ana sing"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "dikunci"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "lan ora ana sing"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "kari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "panulung"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kanggo Israèl"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:52.447232923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "E Yisra'el, prayoga nunggu ing Yahweh: pitulungané lan tamengé ⟨iku⟩ dhéwé.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "E Yisra'el"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "prayoga nunggu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pitulungané"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "lan tamengé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iku⟩ dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:31.366193849Z",
+  "model": "glm-5.3"
+}

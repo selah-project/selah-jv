@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan padha njupuk ⟨את⟩ rampasan kabeh lan ⟨את⟩ jarahan kabeh, saka manungsa lan saka sapi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "padha njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rampasan kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "rampasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jarahan kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "jarahan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "saka manungsa"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "lan saka sapi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:18.285677711Z",
+  "model": "glm-5.3"
+}

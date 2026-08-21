@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan saka wong cilik ing bumi, pangerna para juru sembelih nilarake dadi pengerna anggur lan pengolahan lemah.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "saka wong cilik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "nilarake"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangerna"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para juru sembelih"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "pengerna anggur"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "pengolahan lemah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:28.867077208Z",
+  "model": "glm-5.3"
+}

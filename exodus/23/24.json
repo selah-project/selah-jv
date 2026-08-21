@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Aja sumujud mring allahé dhèwèké, lan aja ngabdi marang ⟨dhèwèké⟩, lan aja nindakake kaya panggawéyané dhèwèké; awit runtuh-runtuhake waé, lan pecah-pecahake tugu-tuguné.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "sumujud"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "mring allahé dhèwèké"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "ngabdi marang dhèwèké"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "kaya panggawéyané dhèwèké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "runtuh"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "runtuhake dhèwèké"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "lan pecah"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "pecahake"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "tugu-tuguné"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:18.282200310Z",
+  "model": "glm-5.3"
+}

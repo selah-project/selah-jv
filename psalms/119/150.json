@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Cedhak wong-wong sing ngoyak pepeteng saka pepalane; adoh saka Toratmu.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "cedhak"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "sing ngoyak"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pepeteng saka pepalane"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "saka Toratmu"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "adoh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:35.766908010Z",
+  "model": "glm-5.3"
+}

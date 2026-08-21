@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dhèwèké nglungsurake saka sakabèhé kutha-kutha Yehuda ⟨את⟩ panggonan dhuwur lan ⟨את⟩ undhak-undhak panembah srengéngé; lan karajan iku tentrem ing ngarsané.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "nglungsurake"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka sakabèhé"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan dhuwur"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "panggonan dhuwur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "undhak-undhak panembah srengéngé"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "undhak-undhak panembah srengéngé"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "lan tentrem"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajan iku"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarsané"
+    }
+  ],
+  "timestamp": "2026-08-21T03:37:49.613993690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Aku, Qohelet, wis dadi ratu marang Yisrael ing Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "wis dadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang\/duweni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:36.623576646Z",
+  "model": "glm-5.3"
+}

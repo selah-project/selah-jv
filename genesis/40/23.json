@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan ora éling panggedhe para juru olah-omben marang ⟨את⟩ Yosef, lan dilali marang dheweke.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "éling"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "para juru olah-omben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "lan dilali marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:49.417838670Z",
+  "model": "glm-5.3"
+}

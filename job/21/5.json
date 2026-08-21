@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Padha madhepa marang aku lan padha kagum, lan padha ngetokna tangan ana ing lambe.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "padha madhepa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "lan padha kagum"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "lan padha ngetokna"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "פה",
+      "gloss": "lambe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:28:00.170119671Z",
+  "model": "glm-5.3"
+}

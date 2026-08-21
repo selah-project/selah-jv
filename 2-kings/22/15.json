@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan dheweke matur marang kabeh: Mangkene sabda Yahweh, Elohime Yisrael: Kandhaana marang wong lanang sing ngutus ⟨את⟩ kabeh marang aku:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lan banjur matur"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang kabeh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "kandhaana"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "marang wong lanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kabeh",
+      "marks": "kabeh (para utusan)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:30:57.583396449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Sebab ing swarga pedhang-Ku wis wareg ngombe; nderekna, bakal mudhun marang Edom, lan marang bangsa sing dak-karamake, kanggo pangadilan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "wis wareg ngombe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing swarga"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "pedhang-Ku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nderekna"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "bakal mudhun"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "sing dak-karamake"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kanggo pangadilan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:15.862193392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Ora kendhat tiange ⟨the⟩ mendhung ing rina, lan tiange geni ing wengi, saka ngarepe bangsa kasebut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ora"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kendhat"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tiang"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mendung"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ing rina"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "lan tiang"
+    },
+    {
+      "surface": "האש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "saka ngarepe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:32.999684086Z",
+  "model": "glm-5.3"
+}

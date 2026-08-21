@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lha saiki para-lah tanah iki ⟨את⟩ minangka pusaka kanggo sangang suku, sarta separoning suku Manasyé.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lha saiki"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "para-lah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah iki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "minangka pusaka"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "kanggo sangang"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "suku"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sarta separoning"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Manasyé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:01.679853339Z",
+  "model": "glm-5.3"
+}

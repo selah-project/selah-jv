@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan bangsa iku ora bali marang sing ndhakdhak dhèwèké, lan ⟨את⟩ Yahweh Tzvaot ora padha digolèki.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "lan bangsa iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "sing ndhakdhak dhèwèké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tzvaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "padha digolèki"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:22.246097472Z",
+  "model": "glm-5.3"
+}

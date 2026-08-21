@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Wenehna kita pitulungan nglawan sangsara, lan luput pangarep-arepe manungsa.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "wenehna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "pitulungan"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "luput"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "pangarep-arep"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:56.886920140Z",
+  "model": "glm-5.3"
+}

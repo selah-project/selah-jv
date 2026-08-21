@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur Yahweh ngutus ⟨את⟩ Yerubbaal lan ⟨את⟩ Bedan lan ⟨את⟩ Yiptah lan ⟨את⟩ Shemuel, lan ngluwari ⟨את⟩ kowe saka tangané mungsuh-mungsuhmu saka saubengé, sarta kowe padha manggon kalayan aman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "banjur ngutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yiptah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiptah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "lan ngluwari"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mungsuh-mungsuhmu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "saka saubengé"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "sarta padha manggon"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "kalayan aman"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:08.255083923Z",
+  "model": "glm-5.3"
+}

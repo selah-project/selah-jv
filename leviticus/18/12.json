@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Kalarahané sadhèriné bapakmu aja kandhani, awit dagingé bapakmu iku dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kalarahané"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sadhèriné"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kandhani"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "dagingé"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:00.236220744Z",
+  "model": "glm-5.3"
+}

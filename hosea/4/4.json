@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Nanging uwong aja padha gugat, lan aja ana sing ngukuh; lan umatmu kayasa wong kang padha gugat marang imam.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uwong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "padha gugat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "ngukuh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "uwong"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "lan umatmu"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "kayasa wong kang padha gugat"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:18.132616375Z",
+  "model": "glm-5.3"
+}

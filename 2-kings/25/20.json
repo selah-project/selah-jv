@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lalu Nebuzaradan, panglima para jagabaya, njupuk ⟨אתם⟩ lan nggawa ⟨אתם⟩ marang sang raja Babel, ing Riblah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lalu njupuk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "para tawanan iku"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "panglima"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "para jagabaya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "para tawanan iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ing Riblah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:07:39.121652415Z",
+  "model": "glm-5.3"
+}

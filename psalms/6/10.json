@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Yahweh wis ngrungokake panyuwunku; Yahweh bakal nampa pandonga wanduku.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "wis ngrungokake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "panyuwunku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pandonga wanduku"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bakal nampa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:30.462744648Z",
+  "model": "glm-5.3"
+}

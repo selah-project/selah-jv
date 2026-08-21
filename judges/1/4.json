@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Yehuda munggah, lan Yahweh menehi ⟨את⟩ ⟨the⟩ wong Kanaan lan ⟨the⟩ wong Perizi ing tangané; lan dhèwèké padha ngantemi ing Bezek kasebut sepuluh èwu wong.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "banjur munggah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan menehi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "lan wong Perizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ing tangané"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "padha ngantemi"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ing Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "èwu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:17.597868027Z",
+  "model": "glm-5.3"
+}

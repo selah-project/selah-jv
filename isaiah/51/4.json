@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Perhatékna aku, umat-Ku, lan kaum-Ku, padha nglumprehna kupingmu marang aku: sebab tora bakal metu saka ⟨את⟩ ngarsa-Ku, lan tatan hukum-Ku dadi cahya kanggo bangsa-bangsa, Ingsun bakal nggarakake rikat.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "perhatékna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "lan kaum-Ku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "padha nglumprehna kupingmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "saka ⟨את⟩ ngarsa-Ku",
+      "marks": "saka ⟨את⟩ ngarsa-Ku"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "bakal metu"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "lan tatan hukum-Ku"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "dadi cahya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kanggo bangsa-bangsa"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "Ingsun bakal nggarakake rikat"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:35.194289442Z",
+  "model": "glm-5.3"
+}

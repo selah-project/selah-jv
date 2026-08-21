@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Lan putra-putrane Reuwen: Khanokh, lan Pallu, lan Khetsron, lan Karmi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan putra-putrane"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuwen"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "lan Pallu"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "lan Khetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "lan Karmi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:12.829117335Z",
+  "model": "glm-5.3"
+}

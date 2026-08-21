@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan kowe ndadekake ⟨את⟩ mesbesen emas kanggo dupa ing ngarepe Peti Pasaksaksi, lan kowe mapaake ⟨את⟩ kelambi lawang ing pasanggrahan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "lan kowe ndadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesbesen emas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesbesen"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "kanggo dupa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Peti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Pasaksaksi"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "lan kowe mapaake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambi lawang"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kelambi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ing pasanggrahan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:59.049501553Z",
+  "model": "glm-5.3"
+}

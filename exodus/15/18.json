@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Yahweh jumeneng ratu ing salawas-lawase, lan langgeng salawasé.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "jumeneng ratu"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ing salawas-lawase"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan langgeng salawasé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:44.273986178Z",
+  "model": "glm-5.3"
+}

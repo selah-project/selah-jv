@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Ora ana wong lanang kang bakal njupuk ⟨את⟩ garwane bapake, lan ora bakal mbukak sisihe sandhangan bapake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bakal njupuk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garwane bapake"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "garwane"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "bakal mbukak"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "sisihe sandhangan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:31.590997182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Awit panjenengane bakal ngluwari ⟨את⟩ wong mlarat kang njerit, lan ⟨את⟩ wong cilaka, kang ora duwe pitulungan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "bakal ngluwari"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "kang njerit"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "lan wong cilaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kang ora ana"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pitulungan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo awake dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:17.297271593Z",
+  "model": "glm-5.3"
+}

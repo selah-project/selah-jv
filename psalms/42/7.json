@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Elohim-ku, jiwa-ku tansah susah marang aku; mulane dakelingake Sampéyan saka nagari Yarden lan Hermonim, saka gunung Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "tansah susah"
+    },
+    {
+      "surface": "על",
+      "gloss": "mulane (amarga ing dhuwure)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "dakelingake Sampéyan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka nagari"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "lan Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "saka gunung"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:24.211794570Z",
+  "model": "glm-5.3"
+}

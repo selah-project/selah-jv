@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Ora bakal didunungi salawasé, lan ora bakal tumanen nganti tumutur; lan wong Arab ora ngadegaké kemah ing kana, lan para pangon ora ngarêbêsaké ing kana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ora"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "didunungi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "tumanen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "דור",
+      "gloss": "tumutur (silkêdhe)"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "lan silkêdhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "ngadegaké kemah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "wong Arab"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "lan para pangon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "ngarêbêsaké (kandhangé)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:43.527501153Z",
+  "model": "glm-5.3"
+}

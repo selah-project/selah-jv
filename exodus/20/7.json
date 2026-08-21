@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Aja nganggo ⟨את⟩ asma Yahweh Elohim-mu kanthi sia-sia, sebab Yahweh ora bakal ngapura ⟨את⟩ sapa wae sing nganggo ⟨את⟩ asma-Né kanthi sia-sia.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nganggo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kanthi sia-sia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bakal ngapura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapa wae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sapa wae"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nganggo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma-Né"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asma-Né"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kanthi sia-sia"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:05.312329590Z",
+  "model": "glm-5.3"
+}

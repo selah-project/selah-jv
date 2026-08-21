@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Supaya Aku nyekel ⟨את⟩ umat Israel ing atine dhewe, kang padha methithul saka ngarsa-Ku liwat brahala-brahala padha, kabeh.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "nyekel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ing atine dhewe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "padha methithul"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "saka ngarsa-Ku"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "liwat brahala-brahala"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kabeh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:12:09.770723963Z",
+  "model": "glm-5.3"
+}

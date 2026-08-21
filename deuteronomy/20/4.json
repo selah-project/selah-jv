@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "awit Yahweh, Elohimmu, iku Kang lumaku bareng kowe, kanggo perang tumuju kowe nglawan mungsuhmu, kanggo nylametake ⟨את⟩ kowe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "Kang lumaku"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bareng kowe"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "kanggo perang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tumuju kowe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mungsuhmu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kanggo nylametake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:36:17.686715849Z",
+  "model": "glm-5.3"
+}

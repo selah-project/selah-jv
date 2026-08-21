@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Sapta-sapta kita nglumpukake bebana, ora ana jeblugan, lan ora ana sing metu, lan ora ana tatu sorane ing alun-alun kita.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "sapta-sapta kita"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "nglumpukake bebana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "jeblugan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "sing metu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "tatu sorane"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "ing alun-alun kita"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:13.391853445Z",
+  "model": "glm-5.3"
+}

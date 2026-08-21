@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sebab wong jahat mamèr ing kareping uripe, lan wong serrah ngucap berkah — ngenyèk Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "mamèr"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "karep"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uripe"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "lan wong serrah"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ngucap berkah"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ngenyèk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:18.788626616Z",
+  "model": "glm-5.3"
+}

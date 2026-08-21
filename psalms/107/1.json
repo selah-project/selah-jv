@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Padha muji marang Yahweh, awit ⟨dheweke⟩ iku becik, awit welas-asihé langgeng nganti salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "padha muji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "welas-asihé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:56.144269274Z",
+  "model": "glm-5.3"
+}

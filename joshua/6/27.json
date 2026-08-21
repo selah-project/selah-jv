@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Yahweh mantu ⟨את⟩ Yehosyua, lan kapirtané sumebar ing sadhengah ⟨ing⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan ... (ana)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosyua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan ... (ana)"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kapirtané"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadhengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:04.985760671Z",
+  "model": "glm-5.3"
+}

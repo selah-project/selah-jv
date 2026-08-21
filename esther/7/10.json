@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Banjur dhèwèké nggantung ⟨את⟩ Haman ing kayu sing disiapaké kanggo Mordekhai, lan murkané sang raja sansaya surut.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "banjur dhèwèké nggantung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "disiapaké"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kanggo Mordekhai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "lan murkané"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "sansaya surut"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:11.355663057Z",
+  "model": "glm-5.3"
+}

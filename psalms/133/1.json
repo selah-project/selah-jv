@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 133,
+  "translation": "Tembang penungan, kangge Dawid. Dheseng, kepriye becik lan kepriye éca para sadherek linggih, uga bebarengan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Tembang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "penungan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kangge Dawid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dheseng"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kepriye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan kepriye"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "éca"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "linggih"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "para sadherek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bebarengan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:27.598789538Z",
+  "model": "glm-5.3"
+}

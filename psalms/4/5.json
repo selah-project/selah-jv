@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Padha gegrana lan aja dosa; ngucapa ing atimu, ing dhetmu, lan menenga. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "padha gegrana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ngucapa"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ing atimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "dhetmu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "lan menenga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:04.037842645Z",
+  "model": "glm-5.3"
+}

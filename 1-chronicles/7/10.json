@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Langkungé putrané Yediael: Bilhan; lan putra-putrané Bilhan: Yeush, lan Binyamin, lan Ehud, lan Kenaana, lan Zetan, lan Tarsis, lan Ahisyahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan putra-putrané"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan putra-putrané"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "lan Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "lan Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "lan Kenaana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "lan Zetan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "lan Tarsis"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "lan Ahisyahar"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:29.713863375Z",
+  "model": "glm-5.3"
+}

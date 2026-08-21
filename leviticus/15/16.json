@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan manawa saka wong lanang metu saka awaké banyu mani, banjur dhèwèké adus ing banyu ⟨את⟩ sakabèhing dagingé, lan dadi ora murni nganti sore.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "lan manawa wong lanang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka awaké"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "kaparingan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "banyu mani"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "banjur adus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhing dagingé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhing"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingé"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "lan dadi ora murni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:32.283932412Z",
+  "model": "glm-5.3"
+}

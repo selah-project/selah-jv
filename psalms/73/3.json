@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Sebab aku padha gēmēs marang para wong congkak, nalika katon katentremané para wong ala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "aku padha iri"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "marang para wong congkak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "katentremané"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "para wong ala"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nalika katon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:39.825971491Z",
+  "model": "glm-5.3"
+}

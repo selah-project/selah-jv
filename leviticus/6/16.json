@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan saben sesajèn imam kudu kabèh diobong, ora kena didhahar.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "sesajèn"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora kena"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "didhahar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:26.938931683Z",
+  "model": "glm-5.3"
+}

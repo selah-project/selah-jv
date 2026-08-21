@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Ing papan panggonan endi wong nyembelih ⟨את⟩ kurban oboran, ing kono padha nyembelih ⟨את⟩ kurban-asham; lan ⟨את⟩ getihe kena dipririsake ing sakupinge altar.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "ing papan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "panggonan endi"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "padha nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban oboran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban oboran"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "padha nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban-asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "kurban-asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "getihe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "dipririsake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakupinge"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:22.918455160Z",
+  "model": "glm-5.3"
+}

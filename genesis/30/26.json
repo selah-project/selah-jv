@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Padha ewaha ⟨את⟩ garwa-garwaku lan ⟨את⟩ anak-anakku, sing dakgladi marang kowe nganggo awake dhewe, supaya aku mangkat; awit kowe dhewe wis ngerti ⟨את⟩ pakaryanku sing dakgladi marang kowe.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "padha ewaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garwa-garwaku"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "garwa-garwaku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakku"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "anak-anakku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "dakgladi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ marang kowe"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nganggo awake dhewe"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "supaya aku mangkat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe dhewe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wis ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakaryanku"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "pakaryanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "dakgladi marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:13.010971386Z",
+  "model": "glm-5.3"
+}

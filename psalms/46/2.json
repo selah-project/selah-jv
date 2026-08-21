@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Elohim ⟨is⟩ pangungsian kita lan kakuwasan, pitulungan ing sasatrane tinemu banget.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "pangungsian"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "lan kakuwasan"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "pitulungan"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ing sasatrane"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tinemu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:03.350509996Z",
+  "model": "glm-5.3"
+}

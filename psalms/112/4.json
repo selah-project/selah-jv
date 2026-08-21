@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "M sumebar ing pepeteng cahya kanggo wong-wong jujur — welas asih, lan maha welas, lan jujur.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "m sumebar"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ing pepeteng"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kanggo wong-wong jujur"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "welas asih"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "lan maha welas"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "lan jujur"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:26.593099879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Mangsa matèni, lan mangsa nambani; mangsa ngrubuhake, lan mangsa yasa.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "matèni"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan mangsa"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "nambani"
+    },
+    {
+      "surface": "עת",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ngrubuhake"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan mangsa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "yasa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:00.300408974Z",
+  "model": "glm-5.3"
+}

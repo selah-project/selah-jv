@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Bubara dina nalika aku lair, lan wengi sing ngandika: Wong lanang wis kasuwun ing guwa garba.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "bubara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "nalika aku lair"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "lan wengi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "kasuwun ing guwa garba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wong lanang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:39.146904791Z",
+  "model": "glm-5.3"
+}

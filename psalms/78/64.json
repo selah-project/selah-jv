@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Para imamé tiba dening pedhang, lan para randhane ora nangis.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "para imamé"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "dening pedhang"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "para randhane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "nangis"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:17.349853277Z",
+  "model": "glm-5.3"
+}

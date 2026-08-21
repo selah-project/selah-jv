@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Kowe mbukak ⟨את⟩ tanganmu, lan maremaké ⟨the⟩ pepéning sadhéngah kang urip.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "mbukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "lan maremaké"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sadhedhengah"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kang urip"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "pepéning (karep)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:47.455364490Z",
+  "model": "glm-5.3"
+}

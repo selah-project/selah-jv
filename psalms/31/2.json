@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Ing Kowé, Yahweh, aku ndhedher perlindhungan; aja nganti aku isin salawasé; ing kaleresan-Mu wènèhna aku wilujeng.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "ing Kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku ndhedher perlindhungan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nganti aku isin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ing kaleresan-Mu"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "wènèhna aku wilujeng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:10.759312304Z",
+  "model": "glm-5.3"
+}

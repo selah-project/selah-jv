@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Wong kang akeh padha mbenahi saben wong kang sumadya dhéwa kanggo manggon ing Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "padha mbenahi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kang akeh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "kang sumadya dhéwa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kanggo manggon"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:14:40.135052449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Padha nggoleki kadurjanan; 'Kawiwitan' ⟨pangandikane⟩ 'panggolekan sing diubengi'; lan jero sanubari wong sarta ati sing jero.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "padha nggoleki"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kadurjanan"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "kawiwitan"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "panggolekan"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "sing diubengi\/digoleki mati-matian"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "lan jero sanubari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "sarta ati"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "sing jero"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:11.540097351Z",
+  "model": "glm-5.3"
+}

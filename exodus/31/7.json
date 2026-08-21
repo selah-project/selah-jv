@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "⟨את⟩ khemah pasamuan, lan ⟨את⟩ Peti pasaksèn, lan ⟨את⟩ panutup pangapura sing ana ing dhuwuré, lan ⟨את⟩ kabeh praboté khemah iku —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah pasamuan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Peti pasaksèn"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "⟨the⟩ Peti"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "pasaksèn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "panutup pangapura"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "⟨the⟩ panutup pangapura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ana ing dhuwuré"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabeh praboté khemah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "praboté"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:34.641341852Z",
+  "model": "glm-5.3"
+}

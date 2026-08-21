@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Atiku sumilir-debat, kawasku nglilani aku, lan padhanging paningalku, malah iku ora ana ⟨sarta⟩ aku.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "sumilir-debat"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "nglilani-aku"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kawasku"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "lan-padhang"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "paningalku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "malah"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora-ana"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ sarta-aku",
+      "marks": "aku (kanti aku)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:35.229154109Z",
+  "model": "glm-5.3"
+}

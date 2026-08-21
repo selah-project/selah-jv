@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Dhèwèké nuntun para wong andhap asor ing kaadilan, lan mulang para wong andhap asor dadalané.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "nuntun"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "para wong andhap asor"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ing kaadilan"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "lan mulang"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "para wong andhap asor"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "dadalané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:29.851011593Z",
+  "model": "glm-5.3"
+}

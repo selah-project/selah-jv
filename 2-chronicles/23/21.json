@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan kabeh wong saka bumi iki bungah, lan kutha iku ana ing katentreman; lan ⟨את⟩ Atalya padha dipateni mawa pedhang.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "lan padha bungah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "saka bumi iki"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "lan kutha iku"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ana ing katentreman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "padha dipateni"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mawa pedhang"
+    }
+  ],
+  "timestamp": "2026-08-21T03:38:55.005977366Z",
+  "model": "glm-5.3"
+}

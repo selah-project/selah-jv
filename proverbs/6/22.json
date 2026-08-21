@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Nalika kowé lumaku, iku tuntun ⟨את⟩ kowé ⟨את בשכבך⟩; nalika kowé tumangga, iku njaga kowé; lan bareng kowé tangi, iku omong-omong karo kowé.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "nalika-kowé-lumaku"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "tuntun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "nalika-kowé-tumangga"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "njaga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "lan-bareng-kowé-tangi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "omong-karo-kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:15.178330005Z",
+  "model": "glm-5.3"
+}

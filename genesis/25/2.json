@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lairipun Kanggo ⟨את⟩ Zimran lan ⟨את⟩ Yokshan lan ⟨את⟩ Medan lan ⟨את⟩ Midyan lan ⟨את⟩ Yishbak lan ⟨את⟩ Shuakh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "lairipun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Kanggo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Shuakh"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuakh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:31.584201854Z",
+  "model": "glm-5.3"
+}

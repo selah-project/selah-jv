@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Sing ngrayu ala sajroning atine, sedina-dina padha ngundhakake perang.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ngrayu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sajroning atine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina-dina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ngundhakake"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:14.946574367Z",
+  "model": "glm-5.3"
+}

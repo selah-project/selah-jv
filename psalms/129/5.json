@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 129,
+  "translation": "Bingung lan mundur buri ⟨⟨marang⟩⟩ kabeh sing sengit marang Tziyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bingung"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "lan mundur"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "buri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "sing sengit"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:45.716110688Z",
+  "model": "glm-5.3"
+}

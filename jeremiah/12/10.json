@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Para pangon sing akeh padha ngrusak kebunku, padha nyigli ⟨את⟩ pekaranganku; padha ndadekna ⟨את⟩ pekarangan kang dak tresnani dadi ara-ara tanah sepi.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "para pangon"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "padha ngrusak"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kebunku"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "padha nyigli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pekaranganku"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "pekaranganku"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "padha ndadekna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pekarangan kang dak tresnani"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "pekarangan"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "kang dak tresnani"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "dadi ara-ara"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tanah sepi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:53:29.273873514Z",
+  "model": "glm-5.3"
+}

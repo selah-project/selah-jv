@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Kanggo medarake yen lurus ⟨iku⟩ Yahweh,牢记 batuku, lan ora ana kaluputan ing Panjenengane.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "kanggo medarake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "batuku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:12.364346968Z",
+  "model": "glm-5.3"
+}

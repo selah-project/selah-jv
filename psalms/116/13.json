@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Cangkir kaselametan dakunggahake, lan ing asmane Yahweh dakundhangi.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "cangkir"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kaselametan"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "dakunggahake"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "lan ing asmane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "dakundhangi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:44.229232483Z",
+  "model": "glm-5.3"
+}

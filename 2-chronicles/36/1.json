@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Banjur wong ing bumi iku njupuk ⟨את⟩ Yehoachaz anaké Yosia, lan dhèwèké ngangkat dadi ratu nggantèni bapakné ing Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ing bumi iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosia"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "lan ngangkat dadi ratu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nggantèni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:47:53.960707416Z",
+  "model": "glm-5.3"
+}

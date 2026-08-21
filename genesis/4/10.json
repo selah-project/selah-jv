@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lange dhumawuh: \"Apa sing kadadeyan iki? Swara getihe sedulurmu nglolosok marang Aku saka siti.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dhumawuh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sing kadadeyan\/sing sampun dipunlakoni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getih-getih"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sedulurmu"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "nglolosok"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "siti"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:45.554972266Z",
+  "model": "glm-5.3"
+}

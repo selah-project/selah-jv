@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 146,
+  "translation": "Swasane metu, awake bali marang bumine; ing dina iku pikiran-pikirane padha sirna.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "swasane"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "marang bumine"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "padha sirna"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "pikiran-pikirane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:30.380155933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan nalika kowe mbabut ⟨את⟩ panen bumi‹mu›, aja nganti tuntas mbabut pojok sawah‹mu›, lan sisa panen‹mu› aja dikumpulake.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "lan nalika kowe mbabut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panen"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "bumimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "nganti tuntas"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pojok"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "sawahmu"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "kanggo dibabut"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "lan sisa kang tiba"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "panenmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "dikumpulake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:35.426790499Z",
+  "model": "glm-5.3"
+}

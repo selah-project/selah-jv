@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan dheweke ndhawuhake: bareng kowe nulangake ⟨את⟩ para wadon Ibrani lan ndeleng ing sadhuwure watu panggonan nglairake, menawa kang lair lanang, patenana ⟨את⟩ dheweke; nanging menawa wadon, kuripuna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ndhawuhake"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "bareng kowe nulangake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para wadon Ibrani"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "para wadon Ibrani"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "watu (panggonan nglairake)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "patenana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke (sang lanang)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nanging menawa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wadon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "kuripuna"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:22.189984076Z",
+  "model": "glm-5.3"
+}

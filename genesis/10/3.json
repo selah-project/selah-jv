@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan anak-anaké Gomer: Ashkenaz, Rifat, lan Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Lan anak-anaké"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "lan Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "lan Togarma"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:57.246684221Z",
+  "model": "glm-5.3"
+}

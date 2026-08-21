@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Nanging aku marang Kowé aku ngendi bareng, ya Yahweh; aku munjuk: Elohim kaulah kang duweku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nanging aku"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang Kowé"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku ngendi bareng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku munjuk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kang duweku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kaulah Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:56.906305018Z",
+  "model": "glm-5.3"
+}

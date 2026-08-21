@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Banjur sedulur-sedulure Yusuf cacah sepuluh padha medhun tuku gabah saka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Banjur ... padha medhun"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedulur-sedhaké"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "cacah sepuluh"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kanggo tuku"
+    },
+    {
+      "surface": "בר",
+      "gloss": "gabah"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:50.724914693Z",
+  "model": "glm-5.3"
+}

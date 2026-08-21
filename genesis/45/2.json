@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Banjur banget swarane saka tangise, nganti sok-sok Mitsrayim krungu, sarta kulawargane Paroh krungu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "banjur maringi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarane"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "saka tangise"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "banjur krungu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "lan krungu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:50.192003056Z",
+  "model": "glm-5.3"
+}

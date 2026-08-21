@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Elohim saka langit ndeleng mudhun ⟨⟨marang⟩⟩ anak-anak manungsa, arep mirsani apa ana sing wicaksana, sing ngudi ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "saka langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "ndeleng mudhun"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨marang⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arep mirsani"
+    },
+    {
+      "surface": "היש",
+      "gloss": "apa ana"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "sing wicaksana"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "sing ngudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:12.742206453Z",
+  "model": "glm-5.3"
+}

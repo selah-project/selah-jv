@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Luwih becik anak enom sing miskin nanging wicara, tinimbang ratu sing wis sepuh lan bodho, sing ora weruh nampa ewa-ewa maneh.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "anak enom"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "nanging wicara"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "tinimbang ratu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "sepuh"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "lan bodho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "nampa ewa-ewa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:53.125365912Z",
+  "model": "glm-5.3"
+}

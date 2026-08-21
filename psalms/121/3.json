@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 121,
+  "translation": "Aja diparengake sikilmu mumet, aja tindak tuwuhan Kang Njagani sliramu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "diparengake"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "mumet"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sikilmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "tindak tuwuhan"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "Kang Njagani sliramu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:28.541293103Z",
+  "model": "glm-5.3"
+}

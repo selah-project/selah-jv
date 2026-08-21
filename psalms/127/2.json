@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 127,
+  "translation": "Sia-sia tumrap kowe, para sing tangi esuk-tangi, sing ngentèni lungguh nganti bengi, para mangan roti susah; kaya mangkono Panjenengané maringi sare marang sing ditresnani-Na.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tumrap kowe"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "para sing tangi esuh-tangi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "para sing ngentèni bengi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "lungguh"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "para mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "susah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "marang sing ditresnani-Na"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "sare"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:23.130956820Z",
+  "model": "glm-5.3"
+}

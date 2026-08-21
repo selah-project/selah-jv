@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Sesesana ⟨את⟩ wong Midyan, lan padha nggebug ⟨את⟩ dheweke.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Sesesana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Midyan"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "wong Midyan"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "lan padha nggebug"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ padha",
+      "marks": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:50.683570224Z",
+  "model": "glm-5.3"
+}

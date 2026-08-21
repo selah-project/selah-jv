@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 96,
+  "translation": "Bumi langit bungah, bumi gumuyu; segara gunem-gunem lan sabarange.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "gumuyu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "gunem-gunem"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "lan sabarange"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:35.239332094Z",
+  "model": "glm-5.3"
+}

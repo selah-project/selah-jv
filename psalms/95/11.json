@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Mulané Aku anggèni supata ing sajroning bebendu-Ku: bakal ora padha teka ing papan pasarén-Ku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Mulané"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Aku anggèni supata"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ing sajroning bebendu-Ku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bakal ora"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "papan pasarén-Ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:22.921424928Z",
+  "model": "glm-5.3"
+}

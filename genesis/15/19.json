@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "⟨את⟩ wong Keni lan ⟨את⟩ wong Kenizi lan ⟨את⟩ wong Kadmoni,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Keni"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "wong Keni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Kenizi"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "wong Kenizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Kadmoni"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "wong Kadmoni"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:24.267509101Z",
+  "model": "glm-5.3"
+}

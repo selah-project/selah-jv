@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Kanggo para tukang kayu, para tukang watu, lan para tukang tembok, lan kanggo tuku kayu lan watu pahatan, kanggo nguatake ⟨את⟩ omah iku.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "kanggo para tukang kayu"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "lan para tukang watu"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "lan para tukang tembok"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "lan kanggo tuku"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "lan watu"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "pahatan"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "kanggo nguatake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah iku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:30:27.691914802Z",
+  "model": "glm-5.3"
+}

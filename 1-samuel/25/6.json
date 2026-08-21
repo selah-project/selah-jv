@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan padha mangucapa mangkéné: Dhumateng ingkang gesang, lan kawula panjenengan katrahan, lan dalem panjenengan katrahan, lan sadaya ingkang kagungan panjenengan katrahan.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "lan padha mangucapa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkéné"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "dhumateng ingkang gesang"
+    },
+    {
+      "surface": "ו אתה",
+      "gloss": "lan kawula panjenengan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "katrahan"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "lan dalem panjenengan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "katrahan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kagungan panjenengan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "katrahan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:20.422566044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lah malaikat Yahweh nimbali Avraham kapindho saka langit",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nimbali"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kapindho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:27.404644427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Lan sang raja bakal kapéncut ing kaendahanira, awit Panjenengané iku bendaramu; lan sujudna marang Panjenengané.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "lan bakal kapéncut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ing kaendahanira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Panjenengané iku"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bendaramu"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "lan sujudna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:49.678474637Z",
+  "model": "glm-5.3"
+}

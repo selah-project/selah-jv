@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨את⟩ wong Pathrus, lan ⟨את⟩ wong Kaslukhi — saka kono metu wong Palishti — lan ⟨את⟩ wong Kaftor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Pathrus"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "wong Pathrus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Kaslukhi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "wong Kaslukhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "metu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Palishti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Kaftor"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "wong Kaftor"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:37.443121098Z",
+  "model": "glm-5.3"
+}

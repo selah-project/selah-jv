@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan kowe padha tangi saka panyergapan, lan padha nguwasani ⟨את⟩ kutha; lan Yahweh Elohimmu bakal maringi ⟨the⟩ kutha ing tanganmu.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "lan kowe"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "padha tangi"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "saka panyergapan"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "lan padha nguwasani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "lan bakal maringi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ing tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:06.587699464Z",
+  "model": "glm-5.3"
+}

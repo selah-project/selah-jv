@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur ⟨dhèwèké⟩ njupuk ⟨את⟩ sesepuh-sesepuh kutha iku, lan ⟨את⟩ eri-eriné ara-ara lan ⟨את⟩ eri eri-eriné, lan nganggo iku ⟨dhèwèké⟩ ngrungokaké ⟨את⟩ wong-wong Sukot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesepuh-sesepuh kutha iku"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "sesepuh-sesepuh"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "eri-eriné ara-ara"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "eri-eriné"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "eri eri-eriné"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "eri eri-eriné"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "lan ngrungokaké"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nganggo iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong Sukot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:04.941770150Z",
+  "model": "glm-5.3"
+}

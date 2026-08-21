@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "lan Akimaats nglairake ⟨את⟩ Azarjah, lan Azarjah nglairake ⟨את⟩ Yokhanan;",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "lan Akimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "lan Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yokhanan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:57.657900090Z",
+  "model": "glm-5.3"
+}

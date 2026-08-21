@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Dhèwèké padha ngati-ati marang ⟨את⟩ tembung-tembunging prajanjian iki lan padha nglakoni ⟨את⟩, supaya padha becik-ngranu ing ⟨את⟩ sabarang sing padha koklakoni.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Dhèwèké padha ngati-ati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembunging prajanjian iki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ויעשיתם",
+      "gloss": "lan padha nglakoni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembunging prajanjian iki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "padha becik-nranu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabarang sing padha koklakoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "padha koklakoni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:58.496905166Z",
+  "model": "glm-5.3"
+}

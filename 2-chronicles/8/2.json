@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Déning kutha-kutha kang diwènèhaké Khuram marang Shelomoh, Shelomoh yasa ⟨את⟩ kabèh, lan dhèwèké nggonakaké ana kono ⟨את⟩ wong-wong Israël.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "lan kutha-kutha iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diwènèhaké"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Khuram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "marang Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kabèh (kutha-kutha iku)"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "nggonakaké ndunungi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ana kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    }
+  ],
+  "timestamp": "2026-08-21T03:35:23.283301928Z",
+  "model": "glm-5.3"
+}

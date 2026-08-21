@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan imam iku wangsul ⟨את⟩ Dawid lan ngandika: ora ana roti umum ing ngisor tanganku, nanging mung roti suci kang ana, menawa para pemuda iku wis padha njaga awake saka wong wadon.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lan wangsul"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "חל",
+      "gloss": "umum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngisor"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mung"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "padha njaga awake"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "para pemuda"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "saka wong wadon"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:40.592917041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Bibir-ku bakal ngumandhangake swara bungah, awit aku nyanyi memuji marang Sira, lan jiwa-ku, sing wus Sira tebus.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "bakal ngumandhangake swara bungah"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibir-ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku nyanyi memuji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Sira"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "lan jiwa-ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "Sira wus tebus"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:16.647173752Z",
+  "model": "glm-5.3"
+}

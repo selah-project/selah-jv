@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan ia nggawe ⟨את⟩ omah-omah ing panggonan dhuwur, lan ia ngangkat imam saka wong-wonge kang akeh, kang dudu saka anak-anake Lewi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan ia nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah-omah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah-omah"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ing panggonan dhuwur"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "lan ia ngangkat"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "imam"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "saka wong-wonge kang akeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wonge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨dadi⟩"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "saka anak-anake"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:03.981717503Z",
+  "model": "glm-5.3"
+}

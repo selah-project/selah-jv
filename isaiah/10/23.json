@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Awit kawiwitan lan katetepan, Adonai Yahweh Tzevaot nindakake ing tengahing kabeh ⟨⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kawiwitan"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "lan katetepan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:06.246970650Z",
+  "model": "glm-5.3"
+}

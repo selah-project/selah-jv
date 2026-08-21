@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 2:14",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Daraku, ing clathakaning watu karang, ing pidhelikaning sangga, atempalna aku culik rupamu, atempalna aku krungu swaramu ⟨את⟩ — awit swaramu ngeleg lan rupamu endah.",
+  "tokens": [
+    {
+      "surface": "יונתי",
+      "gloss": "daraku"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "ing clathakaning"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "watu karang"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ing pidhelikaning"
+    },
+    {
+      "surface": "המדרגה",
+      "gloss": "sangga"
+    },
+    {
+      "surface": "הראיני",
+      "gloss": "atempalna aku culik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rupamu"
+    },
+    {
+      "surface": "מראיך",
+      "gloss": "rupamu"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "atempalna aku krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swaramu"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "swaramu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "swaramu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ngeleg"
+    },
+    {
+      "surface": "ומראיך",
+      "gloss": "lan rupamu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "endah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:20.800740396Z",
+  "model": "glm-5.3"
+}

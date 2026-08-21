@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Aku ⟨ing⟩ Yahweh, Elohim-mu, sing wus metokake saka ing bumi Mitsrayim, saka ing omah para abdi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "wus metokake"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka ing bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka ing omah"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para abdi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:42.852960103Z",
+  "model": "glm-5.3"
+}

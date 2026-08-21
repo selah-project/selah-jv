@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Aja kowé nyerahake abdi marang bendarane, abdi kang nylametake awake marang kowé saka ing antarane bendarane.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "kowé nyerahake"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bendarane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "nylametake awake"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "saka ing antarane"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bendarane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:28.094936998Z",
+  "model": "glm-5.3"
+}

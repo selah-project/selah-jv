@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan ratu Israel mangsuli lan ngandika: Miturut pangandikamu, bendara ratu, aku iki kagunganmu, lan kabeh sing kagunganku iku dudu ⟨⟩ dupomu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lan mangsuli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Miturut pangandikamu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kagunganmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kagunganku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:22:10.922818107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan Yaakov ngandika marang Ribkah ibuné: Lah, Esav sedhérékku ⟨is⟩ wongng oyod, nanging aku ⟨is⟩ wong licin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribkah"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibuné"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lah"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedhérékku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "שער",
+      "gloss": "oyod (wulu)",
+      "vowel_note": "עיר-גוף"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "nanging aku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "licin"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:42.335998922Z",
+  "model": "glm-5.3"
+}

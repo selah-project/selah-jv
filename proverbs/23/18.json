@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Sebab sungguh ana bakuning wektu, lan pangarepmu ora bakal kaserat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sungguh (melu כי)"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "bakuning wektu"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "lan pangarepmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "bakal kaserat"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:53.886663997Z",
+  "model": "glm-5.3"
+}

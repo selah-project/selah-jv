@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Kanggo pangulu ibadah; mazmur kanggo putra-putra Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangulu ibadah"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kanggo putra-putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:24.883670958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Marang panggonan mesbech sing digawe ing kono ing wiwitan; banjur Avram nyebat Asma Yahweh ing kono.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mesbech"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ing wiwitan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur nyebat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:03.945079889Z",
+  "model": "glm-5.3"
+}

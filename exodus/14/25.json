@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan njupuk ⟨את⟩ rodha krata-ne, lan nggiring abot-abot; lan wong Mitsrajim padha ngucap: Aku ngungsi saka ngarsane Israil, awit Yahweh perang kanggo dhèwèké nglawan Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rodha"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "rodha"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "krata-ne"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "nggiring"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "abot-abot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mitsrajim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "aku ngungsi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo dhèwèké"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "nglawan Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:28.493335433Z",
+  "model": "glm-5.3"
+}

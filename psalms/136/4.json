@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Marang Sang Nindakake kaperluan-gumilang sing agung piyambakipun, awit nganti langgeng sih-kasetane.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Marang Sang Nindakake"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kaperluan-gumilang"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "sing agung"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "piyambakipun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti langgeng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sih-kasetane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:57.559678516Z",
+  "model": "glm-5.3"
+}

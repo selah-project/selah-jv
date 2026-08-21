@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan piyambaké ngandika: Aku ora kang ngganggu ⟨את⟩ Yisrael, nanging kowe lan kulawargané bapakmu, amarga sira ninggalaké ⟨את⟩ parentahé Yahweh, lan sira manut marang para Baal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "kang ngganggu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "lan kulawarga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "amarga sira ninggalaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "lan sira manut"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:38.433540945Z",
+  "model": "glm-5.3"
+}

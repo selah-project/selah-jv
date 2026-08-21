@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Dadi ing dina iku Esav bali menyang dalane dhewe, menyang Seir.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Dadi ... bali"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "menyang dalane dhewe"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "menyang Seir"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:05.611607663Z",
+  "model": "glm-5.3"
+}

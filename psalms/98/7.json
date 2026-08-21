@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 98,
+  "translation": "Sagara mbletasake lan isi-ne kabeh, donya lan para sing manggon ing jerone.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "mbletasake"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "lan isi-ne"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "donya"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "lan para sing manggon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing jerone"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:37.609790730Z",
+  "model": "glm-5.3"
+}

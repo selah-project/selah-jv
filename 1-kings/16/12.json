@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Banjur Zimri numpes ⟨את⟩ sadaya kulawarga Baasa, miturut pangandikane Yahweh, sing Didhawuhake marang Baasa lumantar tangané Yehu sang nabi.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "numpes"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya kulawarga Baasa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Didhawuhake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lumantar tangané"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:16.521851388Z",
+  "model": "glm-5.3"
+}

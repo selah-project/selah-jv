@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lanjining wong ⟨saka⟩ Elohim ngandika marang raja: Menawa kowe menehi aku ⟨את⟩ satengahing griyamu, aku ora bakal moca kowea, lan aku ora bakal madhang roti lan ora ngombeya banyu ing panggonan iki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lanjining ... ngandika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨saka⟩ Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kowe menehi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "satengahing griyamu"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "satengahing"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "griyamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "aku bakal moca"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kowea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aku bakal madhang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ngombeya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing panggonan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:14.036663554Z",
+  "model": "glm-5.3"
+}

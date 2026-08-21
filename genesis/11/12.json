@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Sarta Arpakhshad urip telung puluh limang taun, banjur nglairaké ⟨את⟩ Shelakh.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "sarta Arpakhshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "telung puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "banjur nglairaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:34.177015155Z",
+  "model": "glm-5.3"
+}

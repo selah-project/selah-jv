@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Atine dadi kandel kaya lemak; aku nrina ing TORAT-mu.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "dadi kandel\/bebal"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "kaya lemak"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "atine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "TORAT-mu"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "aku nrina"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:55.473456434Z",
+  "model": "glm-5.3"
+}

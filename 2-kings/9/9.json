@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Dak-paringake ⟨את⟩ omahé Akháb kaya omahé Yaravam bin Nevat, lan kaya omahé Basya bin Ahiyah.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "lan Dak-paringake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omahé Akháb"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akháb"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kaya omahé"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "lan kaya omahé"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiyah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:21.764848498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan aku angkat ⟨את⟩ mripatku, lan aku ndeleng, lah, sawijining wong nganggo sandhangan linen, lan bangkekané kaliliran ana emas saka Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "lan aku angkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mripatku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "lan aku ndeleng"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sawijining"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "nganggo sandhangan"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "linen"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "lan bangkekané"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "kaliliran"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ana emas"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "saka Uphaz"
+    }
+  ],
+  "timestamp": "2026-08-21T04:24:32.395971793Z",
+  "model": "glm-5.3"
+}

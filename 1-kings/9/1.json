@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan dumadi nalika Shelomoh rampung yasa ⟨את⟩ omahing Yahweh lan ⟨את⟩ omahing Sang Prabu sarta ⟨את⟩ sakabehing kasenengen Shelomoh sing kendelane ditindakake",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dumadi"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "nalika rampung"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omahing Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "omahing Sang Prabu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sang Prabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "sakabehing kasenengen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "kasenengen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "karendelan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ditindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:18.328712457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Ing saben wektu sandhanganmu kudu putih, lan lenga ing sirahmu aja nganti kurang.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "sandhanganmu"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "putih"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "lan lenga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "sirahmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "nganti kurang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:27.390732582Z",
+  "model": "glm-5.3"
+}

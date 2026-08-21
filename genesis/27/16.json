@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan ⟨את⟩ kulit anak-anak kambing wadon iku dilapisi marang asta-astané lan marang pérangan licin gulune.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kulit anak-anak kambing"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "anak-anak kambing"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "wadon iku"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "dilapisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "asta-astané"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "pérangan licin"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "gulune"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:34.139630716Z",
+  "model": "glm-5.3"
+}

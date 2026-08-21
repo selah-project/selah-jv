@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan padha nyembelih ⟨את⟩ para putrane lan ⟨את⟩ para putrine marang para Sheddhim.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "lan padha nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putrane"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para putrine"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "para putrine"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "marang para Sheddhim"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:08.681007433Z",
+  "model": "glm-5.3"
+}

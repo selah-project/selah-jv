@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Nanging Sara iya ingkar, ngucap: Aku ora ketawa; awit wedi. Lan ⟨Dhèwèké⟩ ngandika: Ora, awit kowé wis ketawa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "ותכחש",
+      "gloss": "nanging Sara ingkar"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "aku ora ketawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "kowe wis ketawa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:53.831825116Z",
+  "model": "glm-5.3"
+}

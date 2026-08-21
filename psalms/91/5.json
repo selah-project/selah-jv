@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Ora bakal wedi marang kageteran ing wengi, apa dene panah sing mabur awan-awan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "kageteran"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "panah"
+    },
+    {
+      "surface": "יָעוּף",
+      "gloss": "mabur"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awan-awan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:04.761983191Z",
+  "model": "glm-5.3"
+}

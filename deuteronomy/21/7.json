@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Banjur padha matur lan munjuk: Tanganku ora ngetokake ⟨את⟩ getih iki, lan mripatkulon ora mirsani.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "padha matur"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Tanganku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih iki"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "lan mripatkulon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "mirsani"
+    }
+  ],
+  "timestamp": "2026-08-20T23:36:00.426333225Z",
+  "model": "glm-5.3"
+}

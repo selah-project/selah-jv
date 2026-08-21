@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur Israil dadi cilik banget sebab anane Midian, lan para putrané Israil padha ngedumun marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "Banjur dadi cilik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sebab anane"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "lan padha ngedumun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:27.092667865Z",
+  "model": "glm-5.3"
+}

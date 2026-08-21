@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 93,
+  "translation": "Pasewakanmu ngadeg wiwit ing kuna; kowé ⟨√⟩ saka jaman kawula.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "pasewakanmu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "wiwit ing kuna"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "saka jaman kawula"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.901304816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "lan ⟨את⟩ kulite bantheng iku, lan ⟨את⟩ kabeh daginge, bebarengan endhase lan sikile, uga jerone weteng lan rabuke",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kulite bantheng"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bantheng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabeh daginge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "daginge"
+    },
+    {
+      "surface": "על",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "endhase"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan bebarengan"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "jerone weteng"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "rabuke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:58.835309902Z",
+  "model": "glm-5.3"
+}

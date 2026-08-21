@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Aku bakal nyingkiri ⟨את⟩ asma-asmane para Baal saka tutuke, lan ora bakal kakenang maneh miturut asmane.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Lan Aku bakal nyingkiri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma-asmane para Baal"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "asma-asmane"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "saka tutuke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "bakal kakenang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "miturut asmane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:35.281555792Z",
+  "model": "glm-5.3"
+}

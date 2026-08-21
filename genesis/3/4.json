@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur ula ngandika marang wadon iku: Mesthi ora, mati kowé ora bakal mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wadon iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "bakal mati"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:51.140067750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Dhawuha marang Zerubbabel, panguwasa wilayah Yehudha, ngendika: Ingsun ngeguake ⟨את⟩ langit lan ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dhawuha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "panguwasa wilayah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ingsun"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ngeguake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:51.637195811Z",
+  "model": "glm-5.3"
+}

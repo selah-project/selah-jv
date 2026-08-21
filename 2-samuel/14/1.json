@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan Yoab bin Tseruyah ngerteni manawa atine sang ratu ⟨⟨mareng⟩⟩ Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ngerteni"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mareng"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-21T00:09:25.441724279Z",
+  "model": "glm-5.3"
+}

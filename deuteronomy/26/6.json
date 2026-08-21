@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan wong Mitzrayim iku nglakoni ala marang ⟨את⟩ kita, lan nyasarakake kita, lan nglebokake marang kita pakaryan abot.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "nglakoni ala"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kita",
+      "marks": "kita"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "wong Mitzrayim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "nyasarakake kita"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "nglebokake"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "pakaryan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "abot"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:49.844651805Z",
+  "model": "glm-5.3"
+}

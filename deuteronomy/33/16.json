@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 33:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "lan sarwi kaluhuraning bumi sakawanè; lan karahayoné Sang sing sumanding ing sajroning dhuri, muga tumiba ing sirahé Yosef, ing pucuking sirahé sang sing kasarèkake saka sedulur-seduluré.",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "lan sarwi kaluhuraning"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "sakawanè"
+    },
+    {
+      "surface": "ורצון",
+      "gloss": "lan karahayoné"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "Sang sing sumanding"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "ing sajroning dhuri"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "muga tumiba"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ing sirahé"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ולקדקד",
+      "gloss": "ing pucuking sirahé"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "sang sing kasarèkake"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saka sedulur-seduluré"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:54.326134867Z",
+  "model": "glm-5.3"
+}

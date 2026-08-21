@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku tumindakake atiku kanggo nindakake ukum-ukummu, nganti salawas-lawase, nganti untu.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "kutumindakake"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atkanku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo nindakake"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ukum-ukummu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nganti pungkasaning (untu)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:17.743858039Z",
+  "model": "glm-5.3"
+}

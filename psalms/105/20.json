@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Sang raja ngutus lan ngluwari dheweke, panguwasa para bangsa mardikake dheweke.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "ngluwari dheweke"
+    },
+    {
+      "surface": "משל",
+      "gloss": "panguwasa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "mardikake dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:13.837543698Z",
+  "model": "glm-5.3"
+}

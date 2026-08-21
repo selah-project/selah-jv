@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Bangunta, Yahweh, padhangana dhéwé ing sandhingé, suwunna supaya dhèwèké tumekluk; ngluwari awakku saka wong ala kalawan pedhangmu",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangunta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "padhangana dhéwé"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ing sandhingé"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "suwunna supaya dhèwèké tumekluk"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "awakku"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "saka wong ala"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedhangmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:31.959844143Z",
+  "model": "glm-5.3"
+}

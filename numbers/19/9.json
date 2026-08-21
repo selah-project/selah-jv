@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 19:9",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan wong kang suci ngumpulake ⟨את⟩ awu sapi muatan iku, lan nyimpen ing njaba kamp ing panggonan suci; lan iku dadi kagungané pasamuwané bani Israil minangka pasimpenan kanggo banyu pangresikan (niddah) — kurban dosa iku.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "lan ngumpulake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awu sapi muatan iku"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "awu"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "sapi muatan iku"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "lan nyimpen"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ing njaba"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing panggonan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suci"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "kagungané pasamuwané"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "minangka pasimpenan"
+    },
+    {
+      "surface": "למי",
+      "gloss": "kanggo banyu"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "pangresikan (niddah)"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:11.875190337Z",
+  "model": "glm-5.3"
+}

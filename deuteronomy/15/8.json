@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Nanging sira kudu mbukak sungsum ⟨את⟩ tanganmu marang dhèwèké, lan kudu ngulakake dhèwèké cumprang, sapantes kapirané sing dialami dhèwèké.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mbukak sungsum"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "sira kudu mbukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "lan kudu ngulakake"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "די",
+      "gloss": "sapantes"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "kapirané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "dialami kapiran"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:52.223306186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 97,
+  "translation": "Isin kabeh sing ngabdi marang brahala, sing mengaku-mengaku ing elil; sujud marang Panjenengane, kabeh para elohim.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "isinen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sing ngabdi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "marang brahala"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "sing mengaku-mengaku"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "ing elil"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sujud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Panjenengane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:03.509187265Z",
+  "model": "glm-5.3"
+}

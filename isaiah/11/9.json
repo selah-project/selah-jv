@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Ora bakal ngrugekake lan ora bakal ngrisak ing sadhengah redi kasucenku, sebab bumi wis kebak kawruh ⟨את⟩ Yahweh, kaya banyu kang nutupi segara.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "bakal ngrugekake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "bakal ngrisak"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadhengah"
+    },
+    {
+      "surface": "הר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kasucenku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "wis kebak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kawruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    },
+    {
+      "surface": "לים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "kang nutupi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:41.112058229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Aku bakal nyaritakake paugeran: Yahweh ngandika marang Aku, 'Sune iku Kowé; ing dina iki Aku wus nglairake Kowé.'",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Aku bakal nyaritakake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pranatan bab"
+    },
+    {
+      "surface": "חק",
+      "gloss": "paugeran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Sune"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dina iki"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "wus nglairake Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:45.088173766Z",
+  "model": "glm-5.3"
+}

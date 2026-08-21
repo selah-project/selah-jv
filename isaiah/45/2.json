@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Aku bakal lumaku ing ngarepmu, lan papan sing bengkong takluruhake, lawang-lawung tembaga takpecah, lan palang-palang wesi takgetuni.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarepmu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "bakal lumaku"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "lan papan sing bengkong"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "takluruhake"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "lawang-lawung"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "takpecah"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "lan palang-palang"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "wesi"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "takgetuni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:43:54.338028534Z",
+  "model": "glm-5.3"
+}

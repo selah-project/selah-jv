@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 82,
+  "translation": "Nanging kaya adam padha bakal mati, lan kaya siji saka para pangéran padha bakal tiba.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Nanging"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "kaya adam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "padha bakal mati"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "lan kaya siji saka"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "para pangéran"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "padha bakal tiba"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:03.674888983Z",
+  "model": "glm-5.3"
+}

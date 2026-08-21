@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sebab sadurunge pangananku esanku wis teka, lan serak-serakku dicurahake kaya banyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "pangananku"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "esanku"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "wis teka"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "lan dicurahake"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "serak-serakku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:32.631773750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "lan Beit-ha-Arabah, lan Tsemarayim, lan Beit-El.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "lan Beit-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ha-Arabah"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "lan Tsemarayim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "lan Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:38.553009671Z",
+  "model": "glm-5.3"
+}

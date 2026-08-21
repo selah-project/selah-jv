@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Ing sasi kapisan, ing dinane siji ⟨sasi iku⟩, kowe bakal ngadegake ⟨את⟩ padhegone kemah pasamuwan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ing siji"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sasi iku"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padhegone kemah pasamuwan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "padhegone"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:17.251617544Z",
+  "model": "glm-5.3"
+}

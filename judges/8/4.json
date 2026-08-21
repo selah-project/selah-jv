@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Gideon banjur teka nganti ing Yarden, ngliwati, dheweke karo telung atus iku wong kang ⟨את⟩ bareng karo dheweke, lagi kesel nanging lagi angoyak-oyak.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "ing Yarden"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "karo telung"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bareng karo dheweke"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "lagi kesel"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "nanging lagi angoyak-oyak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:06.001557120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Kamdhangane Yisrael ndadekake saksi ing ngarepe; lan Yisrael lan Efrayim kapundhungklaké ing kaluputane, uga Yehuda kepundhungklaké bebarengan karo dhèwèké.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ndadekake saksi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamdhangane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "lan Yisrael"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "lan Efrayim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "kapundhungklaké"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "ing kaluputane"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "kepundhungklaké"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bebarengan karo dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:39.810886035Z",
+  "model": "glm-5.3"
+}

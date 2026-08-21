@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Yehoshafat saré karo para leluhure, lan disarèkaké karo para leluhure ing kuthane Dawid; lan Yehoram anaké dadi ratu nggantèni dhèwèké.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "para leluhure"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "disarèkaké"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "para leluhure"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kuthane"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dadi ratu"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nggantèni dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T03:40:38.360117451Z",
+  "model": "glm-5.3"
+}

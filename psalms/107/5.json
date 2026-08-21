@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Lapar uga ngelak, nyawane ing jerone kalemes.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Lapar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "ngelak"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawane"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing jerone"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "kalemes"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:02.696859452Z",
+  "model": "glm-5.3"
+}

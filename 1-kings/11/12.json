@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Mung bare, ing wayahe sira ora bakal Ingsun tindakake, marga Dawid bapakmu; ingastahe anandhamu bakal Ingsun cobak.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "mung bare"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "ing wayahe sira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "bakal Ingsun tindakake"
+    },
+    {
+      "surface": "למען",
+      "gloss": "marga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ingastahe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anandhamu"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "bakal Ingsun cobak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:42.729153568Z",
+  "model": "glm-5.3"
+}

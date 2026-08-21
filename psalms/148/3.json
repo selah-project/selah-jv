@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Pamujana Panjenengane, srengéngé lan rembulan; pamujana Panjenengane, kabeh lintang-langité saka cahya.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pamujana Panjenengane"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "lan rembulan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pamujana Panjenengane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "lintang-langité"
+    },
+    {
+      "surface": "אור",
+      "gloss": "saka cahya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:24.402677247Z",
+  "model": "glm-5.3"
+}

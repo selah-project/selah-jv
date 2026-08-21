@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Banjur mati ing kana Moshe, abdiné Yahweh, ing bumi Moab, miturut sabdané Yahweh.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemé\/sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:48.833897907Z",
+  "model": "glm-5.3"
+}

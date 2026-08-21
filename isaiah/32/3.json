@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan ora bakal sumelang mripate para sing ndeleng, lan kupinge para sing ngrungokke bakal nglumpuki pangrungune.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "bakal sumelang"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripat"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "para sing ndeleng"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "lan kuping"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "para sing ngrungokke"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "bakal nglumpuki pangrungune"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:06.071912485Z",
+  "model": "glm-5.3"
+}

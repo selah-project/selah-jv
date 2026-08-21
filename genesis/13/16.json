@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Bak-Ingsun ndadekake ⟨את⟩ waturmu kaya lemahing bumi, sing kudu wong bisa ngetung ⟨את⟩ lemahing bumi, iku uga waturmu bisa kaitung.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Lan Bak-Ingsun ndadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waturmu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "waturmu"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "kaya lemahing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "ngetung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemahing bumi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lemahing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "iku uga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "waturmu"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "bisa kaitung"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:49.832850815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Aku nandhur dhèwèké ing antarané para bangsa, lan ing panggonan adoh dhèwèké bakal éling marang Aku, lan bakal urip bebarengan karo ⟨את⟩ anak-anaké, lan bakal bali.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "nandhur dhèwèké"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ing antarané para bangsa"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "lan ing panggonan adoh"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "bakal éling marang Aku"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "lan bakal urip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaké"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "lan bakal bali"
+    }
+  ],
+  "timestamp": "2026-08-21T01:38:39.053224756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Mulane umate bali marang kene, lan banyu pasungan sing kebak padha disedhot ing nggone.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "marang kene"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan banyu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sing kebak"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "padha disedhot"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ing nggone"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:01.116211094Z",
+  "model": "glm-5.3"
+}

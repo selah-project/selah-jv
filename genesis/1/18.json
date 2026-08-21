@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "lan kanggo mrentah ing rina lan ing wengi, lan kanggo mbédakaké antarané ⟨ing⟩ cahya lan antarané ⟨ing⟩ peteng; lan Elohim mirsani yakin ⟨iku⟩ becik.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "lan kanggo mrentah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing rina"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "lan ing wengi"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "lan kanggo mbédakaké"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarané"
+    },
+    {
+      "surface": "האור",
+      "gloss": "⟨ing⟩ cahya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarané"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "⟨ing⟩ peteng"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan mirsani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:32.095361147Z",
+  "model": "glm-5.3"
+}

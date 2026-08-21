@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Lan padha bungah amarga wis tentrem, banjur Dituntun marang pelabuhan sing padha dikarepake.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "lan padha bungah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "wis tentrem"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "banjur Dituntun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "pelabuhan"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "sing padha dikarepake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:06.770873791Z",
+  "model": "glm-5.3"
+}

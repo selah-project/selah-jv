@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lah sira padha ngupadi ⟨את⟩ ukaranku lan ⟨את⟩ pangukumanku, lan aja sira nindakake saka sakabehing pangersang iki, ana wong asli lan tamu sing mengku panggonan ing antarané sira.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "lah sira padha ngupadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukaranku"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ukaranku"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pangukumanku"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pangukumanku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sira nindakake"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka sakabehing"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "pangersang iki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "wong asli"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "lan tamu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sing mengku panggonan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ing antarané sira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:55.268790240Z",
+  "model": "glm-5.3"
+}

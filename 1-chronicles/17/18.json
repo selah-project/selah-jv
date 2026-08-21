@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Punapa malih saged Dawid aturaken dhateng Paduka kanggo kaluhuranipun ⟨את⟩ abdi Paduka? Dene Paduka ⟨את⟩ abdi Paduka sampun Pirsa.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "punapa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "saged ... malih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "malih"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dhateng Paduka"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "kanggo kaluhuranipun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi Paduka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi Paduka"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dene Paduka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi Paduka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi Paduka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sampun Pirsa"
+    }
+  ],
+  "timestamp": "2026-08-21T03:24:34.974603657Z",
+  "model": "glm-5.3"
+}

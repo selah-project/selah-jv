@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Mulane aku metu ndedonga sira, goleki pandumdhemu, lan ak ketemu kowé.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mulane-ingsun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "aku metu"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ndedonga sira"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "goleki"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pandumdhemu"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "lan aku ketumu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:15.423030896Z",
+  "model": "glm-5.3"
+}

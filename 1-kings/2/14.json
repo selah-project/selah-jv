@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Dhawuhé: 'Ana atur sawijining dhumateng kowé.' Banjur matur: 'Aturna.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dhawuhé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "atur sawijining"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(dhumateng ingkang)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "dhumateng kowé"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "banjur matur"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Aturna"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:22.231509984Z",
+  "model": "glm-5.3"
+}

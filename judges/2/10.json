@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan uga sakabehing wong jamane iku padha kaimpun marang leluhure, banjur ana jaman liya jumeneng sawise dheweke, sing ora ngerti ⟨את⟩ Yahweh lan uga ⟨את⟩ panggawe kang wis Kadadèkake marang Israèl.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Lan uga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "wong jamane"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "padha kaimpun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "leluhure"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "banjur jumeneng"
+    },
+    {
+      "surface": "דור",
+      "gloss": "jaman"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sawise dheweke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggawe"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wis Kadadèkake"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "marang Israèl"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:49.050356411Z",
+  "model": "glm-5.3"
+}

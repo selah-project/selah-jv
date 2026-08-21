@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Wong-wong iku nggawe Yahweh cemburu karo allah-allah asing, karo perkara-getuning ati padha ndadekaké susah.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "padha ndadekaké cemburu"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "karo allah-allah asing"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "karo perkara-getuning ati"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "padha ndadekaké susah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:03.521459371Z",
+  "model": "glm-5.3"
+}

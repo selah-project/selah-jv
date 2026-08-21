@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Sampé ngumpulaken sadaya bendu-Mu, sampé malihaken saking swasana panas irunge murka-Mu.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "sampé ngumpulaken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "bendu-Mu"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "sampé malihaken"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "swasana panas"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "irung-Mu (murka)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:01.339651647Z",
+  "model": "glm-5.3"
+}

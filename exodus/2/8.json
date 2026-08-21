@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan bare Paroh kandha marang panjenengane: Tindaka. Lan prameswari enom iku tindak lan nimbali ⟨את⟩ ibune bocah iku.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lan kandha"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bare"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "tindaka"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "lan tindak"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "prameswari enom"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "lan nimbali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibune bocah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:41.031100338Z",
+  "model": "glm-5.3"
+}

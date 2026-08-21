@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Bangsa-bangsa katemplung ing lubang sing padha digawe dhewe; ing jala sing direngkuh, sikilé dhewe katangkep.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "katemplung"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Bangsa-bangsa"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ing lubang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sing padha digawe dhewe"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "ing jala"
+    },
+    {
+      "surface": "זו",
+      "gloss": "iku"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "sing direngkuh"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "katangkep"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "sikilé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:43.129531230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan njabut ⟨את⟩ jelmahe (wewadhal) bebarengan karo wulune, lan nguncalaké ing sisih wétaning mezbah, menyang papaning awu.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "njabut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jelmahé"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "jelmahé (wewadhal)"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "bebarengan karo isine"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "nguncalaké"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (jelmah karo wulu)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "papan"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "awu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:01.603853106Z",
+  "model": "glm-5.3"
+}

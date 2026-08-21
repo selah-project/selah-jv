@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "lan yèn kowé nyampahaké angger-anggerku, lan yèn ⟨את⟩ ukumku jiwané kowé gethingi, nganti ora nglakoni ⟨את⟩ saprentahku, dadi nglanggar ⟨את⟩ prajanjianku —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan yèn"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "angger-anggerku"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "nyampahaké"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan yèn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukumku"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ukumku"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "gethingi"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jiwané kowé"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nganti ora"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "nlakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saprentahku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapre"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "prentahku"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "dadi nglanggar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjianku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjianku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:36.707772987Z",
+  "model": "glm-5.3"
+}

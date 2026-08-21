@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Anake Shem: Elam, lan Ashur, lan Arpakhshad, lan Lud, lan Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "lan Ashur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "lan Arpakhshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "lan Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "lan Aram"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:31.056747484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Sirah lagu sangisoring pangunggahan. Elinga, Yahweh, tumrap Dawud, ⟨את⟩ kabeh kasusahane.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sangisoring pangunggahan"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "elinga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tumrap Dawud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh kasusahane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "kasusahane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:00.339077142Z",
+  "model": "glm-5.3"
+}

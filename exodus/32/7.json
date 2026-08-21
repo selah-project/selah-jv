@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Yahweh ngendika marang Moshe: Sumangga, mudhuna, sebab ummatira sing kokunggahake saka bumi Mitsrayim wis ngrusak awake dhewe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sumangga"
+    },
+    {
+      "surface": "רד",
+      "gloss": "mudhuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "wis ngrusak awake dhewe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummatira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "kokunggahake"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:34.775466495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 4:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Sing saru-saru ⟨are⟩ ditangekna dening tembungmu, lan dhengkul sing nglenggok sira paraga.",
+  "tokens": [
+    {
+      "surface": "כושל",
+      "gloss": "sing saru-saru"
+    },
+    {
+      "surface": "יקימון",
+      "gloss": "ditangekna"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "tembungmu"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "dhengkul"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "nglenggok"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "paraga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:35.896371440Z",
+  "model": "glm-5.3"
+}

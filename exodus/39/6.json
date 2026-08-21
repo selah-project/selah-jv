@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan padha nggawe ⟨את⟩ watu-watu syoham sing dibungkus ing pasangan emas, sing direngga kaya renggaing matera, miturut asma-asma bareng Israil.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "padha nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu-watu syoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "watu-watu"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "syoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "dibungkus\/kepasang"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "pasangan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "direngga"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "renggaing"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "matera"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "asma-asma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:27.115295262Z",
+  "model": "glm-5.3"
+}

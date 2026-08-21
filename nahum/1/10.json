@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Awit dene kaya eri kasenjata, lan mabuk marang kangjolêke, kabèh didhahar kaya damen garing kapenuhan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dene"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "eri"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "kasenjata"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "lan mabuk marang kangjolêke"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "mabuk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "didhahar"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kaya damen"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kapenuhan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:20.504237782Z",
+  "model": "glm-5.3"
+}

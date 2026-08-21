@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjurlane ratu Israèl matur: Aduh, awit Yahweh wis nimbali ⟨את⟩ telu ratu iki supaya padha diwenehake marang astane Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "matur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nimbali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "telu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "supaya diwenehake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ padha",
+      "marks": "telu ratu iki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "marang astane"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:28.489001468Z",
+  "model": "glm-5.3"
+}

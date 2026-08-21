@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Dina iki kowanira padha metu, ing sasi Abib.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowanira"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "padha metu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:42.780818555Z",
+  "model": "glm-5.3"
+}

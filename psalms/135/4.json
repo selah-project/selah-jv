@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Awit Yaakov dipilih dening Yah kanggo awake dhewe, Yisrael dadi kasugihane sing mligi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipilih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo awake dhewe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "dadi kasugihane sing mligi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:38.550810807Z",
+  "model": "glm-5.3"
+}

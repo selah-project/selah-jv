@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Curing ana ing dhuwuré; padha mudhun urip-urip menyang Sheol; awit piala ana ing panggonane, ing tengah-tengahe.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "curing"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "padha mudhun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip-urip"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "piala"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "ing panggonane"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ing tengah-tengahe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:04.244141670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sebab saiki kowé padha dadi ⟨ora-apa-apa⟩; kowé ndeleng ⟨the⟩ kegemeteran, lan padha wedi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kowé padha dadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ora-apa-apa⟩"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "kowé ndeleng"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "kegemeteran"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "lan padha wedi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:15.566255579Z",
+  "model": "glm-5.3"
+}

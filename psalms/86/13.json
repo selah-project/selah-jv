@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Sebab kasih-setia-Mu gedhe banget marang aku, lan Kowé wus nylametake ⟨את⟩ nyawaku saka Sheol, panggonan paling ngisor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasih-setia-Mu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "lan Kowé wus nylametake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawaku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "saka Sheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "panggonan paling ngisor"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:17.938863621Z",
+  "model": "glm-5.3"
+}

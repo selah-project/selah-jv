@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Isinana, Tsidon, awit samodra wis ngandika — bètènging samodra — ngendika: Aku ora ngrasakaké lara, lan ora nglairaké, lan ora ngedharaké para enom, ora nuntun para prawan dadi wong diwasa.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "isinana"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wis ngandika"
+    },
+    {
+      "surface": "ים",
+      "gloss": "samodra"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "bètènging"
+    },
+    {
+      "surface": "הים",
+      "gloss": "samodra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ngrasakaké lara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "nlairaké"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "nedharaké"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "para enom"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "nuntun dadi wong diwasa"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "para prawan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:48:38.380292416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Apa isih ana ing omahé wong lacur pepining kalacuran, lan éfa sing nyepakake kang ⟨isih⟩ nesu?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "האש",
+      "gloss": "apa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong lacur"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "pepining"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kalacuran"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "lan éfa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "nyepakake"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "nesu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:33:10.660964754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan ia maringi ⟨את⟩ asma panggonan iku Beith-El; nanging Lus asmaning kutha mau ing kawitan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "lan ia maringi asma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Lus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asmaning"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "ing kawitan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:53.263072127Z",
+  "model": "glm-5.3"
+}

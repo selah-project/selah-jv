@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Ora migunani kalonge dudu-dudan, nanging kabeciken ngluwari saka pati.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "migunani"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "kalonge"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dudu-dudan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "nanging kabeciken"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "saka pati"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:58.891139232Z",
+  "model": "glm-5.3"
+}

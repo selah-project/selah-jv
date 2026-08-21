@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Duh! ⟨⟨the⟩⟩ kutha getih, kabeh⟨is⟩ kebohongan lan kekejaman kebak, ora kendho⟨is⟩ sasane",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Duh!"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "kebohongan"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "kekejaman"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kendho"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sasane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:33:47.627353007Z",
+  "model": "glm-5.3"
+}

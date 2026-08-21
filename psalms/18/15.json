@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur Panjenengané ngutus panahé lan ngumbarké wong-wong mau; kilat akèh banjur ngguncang dhèwèké.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "panahé"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "ngumbarké wong-wong mau"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "kilat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "ngguncang dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:33.834790730Z",
+  "model": "glm-5.3"
+}

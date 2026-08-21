@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Namung saka kaluhurane wong-wong mau padha ngrancang ngeculake dheweke; kalumrahen ing goroh: cangkeme padha nguwurake, nanging ing sajroning atine padha nglebokake pangeruni. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "namung"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "saka kaluhurane"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "padha ngrancang"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "ngeculake dheweke"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "padha kalumrahen"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ing goroh"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "padha nguwurake"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "nanging ing sajroning atine"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "padha nglebokake pangeruni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:20.984694876Z",
+  "model": "glm-5.3"
+}

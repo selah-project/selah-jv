@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan kowe bakal ninggalake katresnan marang ⟨את⟩ Yahweh, Elohim-mu, karo sakabehing atimu, lan sakabehing nyawamu, lan sakabehing kuasamu.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "lan kowe bakal katresnan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "karo sakabehing"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "kuasamu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:25.250295573Z",
+  "model": "glm-5.3"
+}

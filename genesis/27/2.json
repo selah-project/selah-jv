@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan panjenengane ngandika: Poma, kula wus sepuh, kula mboten sumerep dinten sedan kula.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Poma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "poma"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "kula wus sepuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mboten"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "kula mboten sumerep"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dinten"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "sedan kula"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:00.213444150Z",
+  "model": "glm-5.3"
+}

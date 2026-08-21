@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Ing taun kaping telu karatoné Yehoyakim ratu Yehudah, Nebukhadnetsar ratu Babel teka menyang Yerushalayim lan ngepung ⟨iya⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ing taun"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "kaping telu"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "karatoné"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukhadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "menyang Yerushalayim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "lan ngepung"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨iya⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:54:56.702490674Z",
+  "model": "glm-5.3"
+}

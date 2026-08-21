@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan wong sing lanjama karo ⟨את⟩ bojone wong lanang, sing lanjama karo ⟨את⟩ bojone kanca-kancane, mati bakal dipateni: sing lanjama lan sing lanjama wadon.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Lan wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "lanjama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojone wong lanang"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "lanjama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojone kanca-kancane"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca-kancane"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bakal dipateni"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "sing lanjama"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "lan sing lanjama wadon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:33.081154314Z",
+  "model": "glm-5.3"
+}

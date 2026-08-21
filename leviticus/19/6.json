@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Ing dina sidhemé kowé bakal dipangan, lan ing sesuké; nanging sing isih nganti dina katelu, ing geni bakal dibakar.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "sidhemé kowé"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bakal dipangan"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "lan ing sesuké"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "nanging sing isih"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katelu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bakal dibakar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:41.002440248Z",
+  "model": "glm-5.3"
+}

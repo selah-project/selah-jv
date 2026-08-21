@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 10:18",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur Aram kalunga saka ngarsane Yisrael, lan Dawud iwasake saka anggone Aram pitung atus kereta lan patang puluh ewu jaran tunggang, lan ⟨את⟩ Shobakh panggedene balane didhampar, nganti mati ing kono.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "banjur kalunga"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "lan Dawud iwasake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "מארם",
+      "gloss": "saka anggone Aram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "lan patang puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "jaran tunggang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shobakh panggedene balane"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "Shobakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panggedene"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "balane"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "didhampar"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "nganti mati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:17.428546938Z",
+  "model": "glm-5.3"
+}

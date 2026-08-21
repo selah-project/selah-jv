@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Lan aku bakal ngomongaké prasasti-prasasti-Mu ing sangarepé para ratu, lan ora bakal isin",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "lan aku bakal ngomongaké"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "prasasti-prasasti-Mu"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ing sangarepé"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "bakal isin"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:02.798932463Z",
+  "model": "glm-5.3"
+}

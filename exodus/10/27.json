@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Nanging Yahweh ndadèkaké atiné Paroh saya atos, lan ⟨dhèwèké⟩ ora gelem nguculaké ⟨wong-wong⟩ iku.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "lan ndadèkaké saya atos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atiné Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "gelem"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "nguculaké wong-wong iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:18.978197809Z",
+  "model": "glm-5.3"
+}

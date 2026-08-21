@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Tangan tengen Yahweh dhuwur kaluhuran, tangan tengen Yahweh nindakake kabrakasan.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "tangan tengen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "dhuwur kaluhuran"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan tengen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kabrakasan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:03.869982993Z",
+  "model": "glm-5.3"
+}

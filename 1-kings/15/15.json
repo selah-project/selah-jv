@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan digawa ⟨את⟩ pasucèn bapakne uga pasucèn dhih dewe menyang ing Bait Yahweh: selaka, lan emas, lan piranti.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "digawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasucèn bapakne"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "pasucèn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "uga pasucèn dhih dewe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bait"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selaka"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "lan emas"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "lan piranti"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:01.534051354Z",
+  "model": "glm-5.3"
+}

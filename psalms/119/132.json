@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Mangsula marang aku lan para mrene aku, kaya ing dudutan ⟨the⟩ marang wong-wong sing tresna marang ⟨את⟩ asma-Mu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Mangsula"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "lan para mrene aku"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kaya ing dudutan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "marang wong-wong sing tresna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-Mu",
+      "marks": "asma-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:49.414512388Z",
+  "model": "glm-5.3"
+}

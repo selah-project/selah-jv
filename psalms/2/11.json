@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Padha ngabdia ⟨את⟩ Yahweh nganggo wedi abrit, lan padha bungah nganggo gemeter.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "padha ngabdia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "nganggo wedi abrit"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "lan padha bungah"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "nganggo gemeter"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:38.207460542Z",
+  "model": "glm-5.3"
+}

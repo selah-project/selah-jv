@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Apik ⟨iku⟩ wong sing welas asih lan nilarake ⟨utang⟩; dhèwèké ngaturaké bab-babé kalawan hukum.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Apik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "sing welas asih"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "lan nilarake ⟨utang⟩"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "ngaturaké"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "bab-babé"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kalawan hukum"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:38.570180565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan dheweke ngadili ⟨את⟩ Yisrael rong puluh telu taun; banjur seda lan disarekake ing Syamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rong puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "telu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "seda"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "disarekake"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "ing Syamir"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:34.259508316Z",
+  "model": "glm-5.3"
+}

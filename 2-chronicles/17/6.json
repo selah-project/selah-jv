@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan atine munggah ing dalan-dalaning Yahweh; luwih-luwih maneh dheweke nyingkirake ⟨את⟩ panggonan dhuwur lan ⟨את⟩ sanggar Asyera saka Yehudha.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ing dalan-dalaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "luwih-luwih maneh"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nyingkirake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan dhuwur"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "panggonan dhuwur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanggar Asyera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "sanggar Asyera"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "saka Yehudha"
+    }
+  ],
+  "timestamp": "2026-08-21T03:38:06.619799238Z",
+  "model": "glm-5.3"
+}

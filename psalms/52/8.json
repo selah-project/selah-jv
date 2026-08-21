@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Para wong jujur bakal mirsani, lan wedi, lan ngguyu marang ⟨dhèwèké⟩.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bakal mirsani"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "para wong jujur"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "lan wedi"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ngguyu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:28.952226365Z",
+  "model": "glm-5.3"
+}

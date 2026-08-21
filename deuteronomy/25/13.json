@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Ora ana ing kantongmu watu lan watu, sing gedhe lan sing cilik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo\/kang duwe"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "ing kantongmu"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "lan watu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "sing gedhe"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "lan sing cilik"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:01.293973309Z",
+  "model": "glm-5.3"
+}

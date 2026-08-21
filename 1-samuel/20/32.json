@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan Yonatan mangsuli ⟨את⟩ Saul bapakne, lan ngandika marang dheweke: Kena apa kudu dipateni? apa kang kokgawe keliru?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lan mangsuli"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kena apa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kudu dipateni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kokgawe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:08.391322956Z",
+  "model": "glm-5.3"
+}

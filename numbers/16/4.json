@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Moshe krungu, lan tiba sumujud ⟨ing⟩ raihé.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "lan tiba sumujud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "raihé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:52.364168304Z",
+  "model": "glm-5.3"
+}

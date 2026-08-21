@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Usirana wong sinisiran, lan pasulayan ⟨iku⟩ bakal metu; banjur padu lan cidra bakal sirna.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "usirana"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "wong sinisiran"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lan bakal metu"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "pasulayan"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "banjur bakal sirna"
+    },
+    {
+      "surface": "דין",
+      "gloss": "padu"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "lan cidra"
+    }
+  ],
+  "timestamp": "2026-08-21T02:16:42.011796812Z",
+  "model": "glm-5.3"
+}

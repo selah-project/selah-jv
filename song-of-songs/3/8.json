@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kabeh padha ngecak pedhang, padha katerangan ing perang; saben wong pedhange ana ing pupune, amarga wedi ing wengi-wengi.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "ngecak"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "katerangan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "pedhange"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "pupune"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "amarga wedi"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ing wengi-wengi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:53.879236192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 75,
+  "translation": "Dene aku bakal nitahaké salawasé, aku bakal nyanyi memuji marang Elohime Yitshak-Yaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dene aku"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nitahaké"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nyanyi memuji"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:36.140883509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Menawa anak-anake nglirwakake torat-Ku, lan ing pakukum-Ku ora lumaku,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "nglirwakake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "torat-Ku"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "lan ing pakukum-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "lumaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:45.904631494Z",
+  "model": "glm-5.3"
+}

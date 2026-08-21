@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan sang imam ndeleng ⟨את⟩ wabah ing kulit sang daging, lan rambut ing wabah wis malih putih, lan rupa wabah iku ngadhem luwih saka kulit daginge — wabah tsara'at iku; lan sang imam ndeleng dhèwèké lan ngucapake ora suci ⟨את⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wabah"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ing kulit"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "sang daging"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "lan rambut"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "ing wabah"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "malih"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "putih"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "lan rupa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ngadhem"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "luwih saka kulit"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "daginge"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "וראהו",
+      "gloss": "lan ndeleng dhèwèké"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "lan ngucapake ora suci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dhèwèké",
+      "marks": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:17.498621387Z",
+  "model": "glm-5.3"
+}

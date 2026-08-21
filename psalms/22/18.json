@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Aku bisa ngetung ⟨sakabehing⟩ balungku; dhèwèké padha ndeleng ndedonga lan mirsani aku.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "aku bisa ngetung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "balungku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dhèwèké padha"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ndeleng ndedonga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:42.191763213Z",
+  "model": "glm-5.3"
+}

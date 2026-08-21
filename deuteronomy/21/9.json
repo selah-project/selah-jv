@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan sira bakal ngluwari ⟨את⟩ getih sing ora salah saka tengah-tengahmu, amarga sira nindakake ⟨את⟩ sing bener ing paningaling Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lan sira"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "sing ora salah"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "saka tengah-tengahmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "sing bener"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:40.536783944Z",
+  "model": "glm-5.3"
+}

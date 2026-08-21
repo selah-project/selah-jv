@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Lan putra-putrane Shim'on: Yemuél, lan Yamin, lan Ohad, lan Yakhin, lan Tsokhar, lan Shaúl putrane wong wadon Kenaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan putra-putrane"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuél"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "lan Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "lan Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "lan Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "lan Tsokhar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "lan Shaúl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "wong wadon Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:12.829369710Z",
+  "model": "glm-5.3"
+}

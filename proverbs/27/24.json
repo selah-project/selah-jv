@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Sebab ora tansah dadi darbeking banda, lan makutha ora nganti tumeka turun-temurun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "darbeking banda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "makutha"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "tumeka turun-temurun"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:51:28.384092045Z",
+  "model": "glm-5.3"
+}

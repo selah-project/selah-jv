@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sebab Aram wis ngrencanakake ala nglawan sira — Efrayim lan anake Remaljahu — ngendika:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-é"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ngrencanakake"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nglawan sira"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "lan anake"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-21T04:07:54.412089269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Moshe paring parentah marang ⟨את⟩ Elazar imam lan marang ⟨את⟩ Yehosua bin Nun lan marang ⟨את⟩ para sesepuh bapak-bapak suku-sukune bare-bare Israael, bab kabeh kuwi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "lan paring parentah"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bab kabeh kuwi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar imam"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosua bin Nun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para sesepuh bapak-bapak suku"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bapak-bapak"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "suku-sukune"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bare-bare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:33.690134483Z",
+  "model": "glm-5.3"
+}

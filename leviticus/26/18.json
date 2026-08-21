@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan yen nganti ing iki kowe ora ngrungokake Aku, Aku bakal nambah nindakake pangukuman marang ⟨את⟩kowe pitu tikel amarga dosa-dosamu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ing iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kowe ngrungokake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "Aku bakal nambah"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "nindakake pangukuman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu tikel"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosa-dosamu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:57.328396137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Wong ala bakal ndeleng lan nesu; untune digemerokake lan ilang kakehe; pepinginané wong ala bakal sirna.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Wong ala"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "lan nesu"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "untune"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "digemerokake"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "lan ilang kakehe"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "pepinginane"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sirna"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:07.403836322Z",
+  "model": "glm-5.3"
+}

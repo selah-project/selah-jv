@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Sing padha ngucap: Ayo kokrebutake dhewe kanggo ⟨את⟩ pangonan-pangonaning Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "padha ngucap"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "kokrebutake"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo dhewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangonan-pangonaning Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pangonan-pangonan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:57.626085023Z",
+  "model": "glm-5.3"
+}

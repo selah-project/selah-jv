@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan katemu dhèwèké marang sang raja: bener temen ⟨⟨iku⟩⟩ pancen pangucap sing takrungu ing nagariku, prakara tembungmu lan prakara kawijayanmu",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "katemu dhèwèké"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bener temen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "pancen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pangucap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "takrungu"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "ing nagariku"
+    },
+    {
+      "surface": "על",
+      "gloss": "prakara"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tembungmu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan prakara"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "kawijayanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:37.959491487Z",
+  "model": "glm-5.3"
+}

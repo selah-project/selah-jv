@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan ⟨Eliyahu⟩ ngandika: Sampun angel panjenengan anggoné panyuwun; nanging yen kowe ndeleng aku ⟨את⟩ dijupuk saka ⟨את⟩ kowe, bakal kelakon mangkono kanggo kowe; nanging yen ora, ora bakal kelakon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "sampun angel"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "anggoné panyuwun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kowe ndeleng"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "saka ⟨את⟩ kowe"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bakal kelakon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo kowe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal kelakon"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:04.887650135Z",
+  "model": "glm-5.3"
+}

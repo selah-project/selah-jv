@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Suwara-mu nguwuh, sira putri Gallim! Parengna angen-angen ing Laishah, wah Anaathoth sing cilaka!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "nguwuh"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suwara-mu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Gallim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "parengna angen-angen"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Laishah"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:20.495054500Z",
+  "model": "glm-5.3"
+}

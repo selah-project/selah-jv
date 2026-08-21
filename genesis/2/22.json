@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lajeng Yahweh Elohim ngadegaké ⟨את⟩ balung rusuk sing sampun dipundhut saking sang manungsa dadi satunggal wadon, lan ngaturaken piyambakipun dhateng sang manungsa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lajeng ngadegaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balung rusuk"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "balung rusuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "sampun dipundhut"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saking"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manungsa"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi satunggal wadon"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "lan ngaturaken piyambakipun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manungsa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:34.976485741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan para sesepuh kutané bakal ngundang awake lan micara marang awake; lan awake ngadeg lan ngucap: 'Aku ora karep njupuk awake.'",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "lan bakal ngundang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "awake"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kutané"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "lan micara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "lan ngadeg"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aku ora karep"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "njupuk awake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:05.895098275Z",
+  "model": "glm-5.3"
+}

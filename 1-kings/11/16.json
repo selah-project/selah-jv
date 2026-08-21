@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "sebab Yoab lan sabarang Israyel manggon ana ing kono nem sasi, nganti kasirna sabarang lanang ing Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "nem"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sabarang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "kasirna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ing Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:41.000275379Z",
+  "model": "glm-5.3"
+}

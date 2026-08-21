@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Banjur dheweke nulis layang-layang kanthi asma Ahab, lan dimeteri kanthi meterene, lan layang-layang iku dikirim marang para sesepuh lan marang para panggedhe sing ana ing kuthane, sing padha manggon bareng ⟨את⟩ Navot.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "nulis"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "layang-layang"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "kanthi asma"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "dimeteri"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "kanthi meterene"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "dikirim"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "layang-layang iku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "ing kuthane"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "sing padha manggon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    }
+  ],
+  "timestamp": "2026-08-21T00:22:53.760805029Z",
+  "model": "glm-5.3"
+}

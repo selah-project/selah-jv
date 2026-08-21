@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Wewatesan iku mubeng ⟨את⟩-e saka lor menyang Khanaton, lan pangmetuan-e ana ing lembah Yiftakh-El.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "mubeng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wewatesan"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "wewatesan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "saka lor"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "Khanaton"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "pangmetuan-e"
+    },
+    {
+      "surface": "גי",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:57.046677449Z",
+  "model": "glm-5.3"
+}

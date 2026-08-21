@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Dhuh Adonai, dak-muji ⟨את⟩-ingsun marang ⟨the⟩ para bangsa; dak-gendhingake ⟨את⟩-ingsun marang ⟨the⟩ para lom.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "dak-muji ⟨את⟩-ingsun"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "marang ⟨the⟩ para bangsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "dhuh Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "dak-gendhingake ⟨את⟩-ingsun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "marang ⟨the⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "para lom"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:07.434797324Z",
+  "model": "glm-5.3"
+}

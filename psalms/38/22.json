@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Aja nglungani aku, Yahweh, Elohiméaku; aja doh saka aku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "nglungani aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé-aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "doh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:08.143176759Z",
+  "model": "glm-5.3"
+}

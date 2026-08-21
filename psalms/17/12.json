@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Rupane kaya singa ngelam-lam arep nyobek, lan kaya anak singa mungguh ing pangumpetan.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "rupane"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kaya singa"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "ngelam-lam"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "arep nyobek"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "lan kaya anak singa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mungguh"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ing pangumpetan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:36.756731040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Kabodhohan ditetepake ing panggonan dhuwur, lan wong sugih padha lenggah ing panggonan asor.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ditetepake (diduweni)"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "kabodhohan"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ing panggonan dhuwur"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "dhuwur (panggonan akeh)"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "lan wong sugih"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ing panggonan asor"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "padha lenggah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:05.967532559Z",
+  "model": "glm-5.3"
+}

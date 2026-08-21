@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Banjur Ravshakeh bali, lan nemu ⟨את⟩ ratu Assyria lagi perang nglawan Livnah, amarga krungu yèn ⟨sang raja⟩ wis mangkat saka Lakhis.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "banjur bali"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "nemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ratu Assyria"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assyria"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "mangkat"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "saka Lakhis"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:27.270383663Z",
+  "model": "glm-5.3"
+}

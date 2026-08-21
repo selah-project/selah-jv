@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Cedhak Yahweh marang kabeh sing ngundhang Panjenengane, marang kabeh sing ngundhang Panjenengane ing satuhu.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Cedhak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang kabeh"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "sing ngundhang Panjenengane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ngundhang Panjenengane"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ing satuhu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:50.593117451Z",
+  "model": "glm-5.3"
+}

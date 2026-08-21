@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Elohim kawula, kawula nyeru ing siyang, nanging Panjenengan mboten matur; lan ing dalu, lan boten wonten kendel menawi kawula.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kawula"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kawula nyeru"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ing siyang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging boten"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "Panjenengan matur balik"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan ing dalu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan boten"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "kendel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kangge kawula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:36.066729420Z",
+  "model": "glm-5.3"
+}

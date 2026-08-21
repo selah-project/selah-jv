@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Saka tengahing wong cacade padha diusir; wong padha nguji marang ⟨dheweke⟩ kaya marang maling.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "גו",
+      "gloss": "tengahing"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "padha diusir"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "padha nguji"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "kaya marang maling"
+    }
+  ],
+  "timestamp": "2026-08-21T04:21:28.773183016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Ora bakal bali maneh menyang omahé, lan panggonané ora bakal ngerti dhèwèké maneh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "menyang omahé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "bakal ngerti dhèwèké"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "panggonané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:24.934527645Z",
+  "model": "glm-5.3"
+}

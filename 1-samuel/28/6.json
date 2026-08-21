@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan Sha'ul takon marang Yahweh, nanging Yahweh ora nanggepi dheweke — ora ing impèn, ora ing Urim, ora ing para nabi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Lan takon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "nanggepi dheweke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ora ing"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "impèn"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ora ing"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ora ing"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "para nabi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:01:37.832212024Z",
+  "model": "glm-5.3"
+}

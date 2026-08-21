@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Sok sing cangkeme ngucap ⟨the⟩ goroh, lan ⟨the⟩ tangan tengené ⟨is⟩ tangan-tengening cidra.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "tangan tengené"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan-tengening"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "cidra"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:36.572036060Z",
+  "model": "glm-5.3"
+}

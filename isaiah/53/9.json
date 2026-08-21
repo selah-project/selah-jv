@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Kubure ditetepake bareng wong-wong ala, lan ⟨את⟩ wong sugih ing patine; sanadyan ora nathe kekerasan dilakoni, lan ora ana pparentahan ing tutuke.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ditetepake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong ala"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kubure"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong sugih"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "wong sugih"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "ing patine"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanadyan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakoni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pparentahan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ing tutuke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:58.018268990Z",
+  "model": "glm-5.3"
+}

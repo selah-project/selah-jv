@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur Moshe lan Aharon diajak bali menyang Paroh, lan ia ngendika marang padha: Padha mangkata, ngabektia ⟨את⟩ Yahweh, Elohimmu. Sapa baé sing arep lunga?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "banjur diajak bali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ia ngendika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang padha"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "padha mangkata"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ngabektia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan sapa baé"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "sing arep lunga"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:09.403668118Z",
+  "model": "glm-5.3"
+}

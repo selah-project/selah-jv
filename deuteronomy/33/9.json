@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Selayange marang bapakne lan ibune: aku ora ndeleng ⟨את⟩ dheweke; lan ⟨את⟩ sadulure ora dipaham; lan ⟨את⟩ anake ora dingerteni — awit padha njaga sabdamu lan prajanjianmu padha dienggo-enggo.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "selayange"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "marang bapakne"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "lan marang ibune"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ndeleng dheweke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadulure"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulure"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "dipaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anake"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dingerteni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "padha njaga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sabdamu"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "lan prajanjianmu"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "padha dienggo-enggo"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:55.739400992Z",
+  "model": "glm-5.3"
+}

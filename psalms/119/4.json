@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Dheweke sing nitahake parentah supaya padha ngajabut sakabehing titihe kanthi tengah-tengah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Dheweke"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "nitahake parentah"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "titihe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "supaya ngajabut"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kanthi tengah-tengah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:10.775944554Z",
+  "model": "glm-5.3"
+}

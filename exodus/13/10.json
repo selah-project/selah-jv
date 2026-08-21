@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan kowe kudu ngajagi ⟨את⟩ pranatan iki miturut wayahe, saka taun nganti taun.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "lan kowe ngajagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pranatan iki"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "pranatan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "miturut wayahe"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "saka taun"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "nganti taun"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:58.604365484Z",
+  "model": "glm-5.3"
+}

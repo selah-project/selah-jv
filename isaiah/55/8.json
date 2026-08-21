@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Awit ora padha panggemaku karo ⟨panggemane⟩ kowé kabèh, lan ora dalan-dalanmu kono dalan-dalanku, pangandikane Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "panggemaku"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "panggemane kowé kabèh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "dalan-dalanmu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dalan-dalanku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:53.015022442Z",
+  "model": "glm-5.3"
+}

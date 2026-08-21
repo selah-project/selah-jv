@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 18:8",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan saka Tibhat lan saka Khun, kutha-kuthane Hadad'ezer, Dawid mundhut tombaga sing akèh banget; saka iku Shlomo gawé ⟨את⟩ sagara tombaga lan ⟨את⟩ sagasana lan ⟨את⟩ prabot tombaga.",
+  "tokens": [
+    {
+      "surface": "ומטבחת",
+      "gloss": "saka Tibhat"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "saka Khun"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kuthane"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad'ezer"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mundhut"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tombaga"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "בה",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagara tombaga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tombaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sagasana"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sagasana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "prabot tombaga"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "prabot"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tombaga"
+    }
+  ],
+  "timestamp": "2026-08-21T03:25:38.360053366Z",
+  "model": "glm-5.3"
+}

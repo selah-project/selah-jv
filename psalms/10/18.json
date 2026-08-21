@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Kanggo ngadili yatim lan wong kapencil, supados manungsa saking bumi mboten nambah malih kanggo nggegirisi.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "Kanggo ngadili"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "lan wong kapencil"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mboten"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nambah malih"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "malih"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "kanggo nggegirisi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saking"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:21.300578342Z",
+  "model": "glm-5.3"
+}

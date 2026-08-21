@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan manungsa iku padha weruh ⟨את⟩ Chawwah, garwane; banjur ngandhut lan nglairake ⟨את⟩ Qayin, lan dheweke matur: Aku wis tumbas wong lanang ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Lan manungsa iku"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chawwah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chawwah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "garwane"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "banjur ngandhut"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lan nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lan dheweke matur"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Aku wis tumbas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:04.455064292Z",
+  "model": "glm-5.3"
+}

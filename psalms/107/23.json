@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Para sing mudhun marang sagara ing praune, sing ngayahi dagang ing banyu sing jembar.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "para sing mudhun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "marang ⟨the⟩ sagara"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ing praune"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "sing ngayahi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "dagang"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sing jembar"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:44.368440786Z",
+  "model": "glm-5.3"
+}

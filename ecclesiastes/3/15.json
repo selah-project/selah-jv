@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sing wis kelakon wis suwé ana, lan sing bakal kelakon wis suwé kelakon uga; lan Elohum nggoleki ⟨את⟩ sing kasuduk.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wis kelakon"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "wis suwé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bakal kelakon"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "wis suwé"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kelakon uga"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "lan Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "nggoleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing kasuduk"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "sing kasuduk"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:54.801451755Z",
+  "model": "glm-5.3"
+}

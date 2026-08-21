@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Nanging Yehuda ngandika marang Yisrael, bapakné: Utusna ⟨את⟩ bocah mau karo aku, supaya kita tangi lan mangkat, supaya kita urip lan ora mati — kita, kowé, lan tarunané kita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "utusna"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bocah mau"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ karo aku",
+      "marks": "aku (preposisi 'karo', dudu penanda objek)"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "lan tangi"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "lan mangkat"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "lan urip"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "tarunané kita"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:12.934623671Z",
+  "model": "glm-5.3"
+}

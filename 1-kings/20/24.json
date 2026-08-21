@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan ⟨את⟩ perkara iki lakonana: buwana para ratu, saben siji saka panggonane, lan pasangna para bupati ing panggonane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "perkara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lakonana"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "buwana"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben siji"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "saka panggonane"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "lan pasangna"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "para bupati"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "ing panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:55.137682152Z",
+  "model": "glm-5.3"
+}

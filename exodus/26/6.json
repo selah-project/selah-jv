@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kowé bakal nggawé sèket kait saka emas, lan kowé nyambungake ⟨את⟩ ⟨the⟩ kelambu-kelambu iku, siji marang seduluré, nganggo ⟨the⟩ kait-kait iku, lan bakal dadi ⟨is⟩ ⟨the⟩ kemah iku siji.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowé bakal nggawé"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sèket"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kait"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "saka emas"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "lan kowé nyambungake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambu-kelambu iku"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kelambu-kelambu iku"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "siji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "seduluré"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "nganggo kait-kait iku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah iku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:26.490683189Z",
+  "model": "glm-5.3"
+}

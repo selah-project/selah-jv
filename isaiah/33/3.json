@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Saka swarane swara ramé bangsa-bangsa padha lumayu; saka kaluhuranmu para bangsa padha kasirnakake.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "saka swarane"
+    },
+    {
+      "surface": "המון",
+      "gloss": "swara ramé"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "padha lumayu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "saka kaluhuranmu"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "padha kasirnakake"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:36.323079502Z",
+  "model": "glm-5.3"
+}

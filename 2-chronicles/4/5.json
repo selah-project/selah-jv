@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Kakebelané sawidak telung jari, lambéné kaya panggawé lambéné cangkir, mekar kembang bakung; ngamot bath telung éwu.",
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "lan kakébalané"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "sawidak telung jari"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "lan lambéné"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kaya panggawé"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lambéné"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "cangkir"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "mekar"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "kembang bakung"
+    },
+    {
+      "surface": "מחזיק",
+      "loss": "",
+      "gloss": "ngamot"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bath"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "éwu"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "ngamot"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:49.048486776Z",
+  "model": "glm-5.3"
+}

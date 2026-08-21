@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Lan dibanjurake ngadegake kabeh nganti tumulya, salawase; wewaton wis didhawuhake lan ora bakal kelangkungan.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "lan dibanjurake ngadegake kabeh"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "nganti tumulya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawase"
+    },
+    {
+      "surface": "חק",
+      "gloss": "wewaton"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wis didhawuhake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "bakal kelangkungan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:44.631653914Z",
+  "model": "glm-5.3"
+}

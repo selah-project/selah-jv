@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lima raja-raja iki padha ngungsi lan ndhelik ing guwa, ing Makkeda.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "padha ngungsi"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "lima"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "lan padha ndhelik"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ing guwa"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "ing Makkeda"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:07.667161992Z",
+  "model": "glm-5.3"
+}

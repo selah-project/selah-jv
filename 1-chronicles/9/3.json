@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan ing Yerushalayim padha manggon saka putrane Yehudha, saka putrane Binyamin, saka putrane Efrayim lan Manasye.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "lan ing Yerushalayim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "padha manggon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "lan Manasye"
+    }
+  ],
+  "timestamp": "2026-08-21T03:21:05.212390950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan ⟨את⟩ Kedemot sarta ⟨את⟩ padhangane, lan ⟨את⟩ Mefa'at sarta ⟨את⟩ padhangane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Mefa'at"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefa'at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "padhangane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:19:24.933545806Z",
+  "model": "glm-5.3"
+}

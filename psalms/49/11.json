@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Saben wong weruh yèn para wicara padha mati, bebarengan karo wong bodho lan kang krebo padha binasa, lan ninggalaké bandhané marang wong liya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "para wicara"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "padha mati"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "wong bodho"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "lan kang krebo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "padha binasa"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "lan ninggalaké"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "marang wong liya"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "bandhané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:15.666425109Z",
+  "model": "glm-5.3"
+}

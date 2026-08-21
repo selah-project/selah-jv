@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨dheweke⟩ ngandika: Jenenge diarani Lo-Ammi, awit kowe dudu umat-Ku, lan Aku ora bakal dadi ⟨Elohim⟩-mu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "diarani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umate-Ku (Lo-Ammi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "lan Aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:07.120146149Z",
+  "model": "glm-5.3"
+}

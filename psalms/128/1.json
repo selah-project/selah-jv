@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 128,
+  "translation": "Kidung undhak-undhakan. Duh bejane sapa wae sing wedi marang Yahweh, sing lumaku ing dalan-dalané!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "undhak-undhakan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "duh bejane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa wae"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ing dalan-dalané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:44.095875172Z",
+  "model": "glm-5.3"
+}

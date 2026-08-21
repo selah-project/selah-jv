@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan manungsa karemu, lan tiyang karendahake, lan mripaté para luhuring ati bakal karendahake.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "lan karemu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "lan karendahake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tiyang"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "lan mripaté"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "para luhuring ati"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "bakal karendahake"
+    }
+  ],
+  "timestamp": "2026-08-21T04:48:06.865401903Z",
+  "model": "glm-5.3"
+}

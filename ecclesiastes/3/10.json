@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Aku wis ndeleng ⟨את⟩ pangengguran sing diwenehake Elohim marang para putra manungsa supaya nandhang sangsara ing kono.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku wis ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangengguran"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "pangengguran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diwenehake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang para putra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "supaya nandhang sangsara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:01.112407620Z",
+  "model": "glm-5.3"
+}

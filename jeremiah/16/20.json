@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Apa manungsa iku yasa para Allah kanggo awake dhewe, lan kono dudu Allah?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Apa ... yasa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo awake dhewe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para Allah"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "lan kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Allah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:54:03.028213965Z",
+  "model": "glm-5.3"
+}

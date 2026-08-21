@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Iki asma-asmane putrané Aharon, para imam sing dimiyasa, sing wis dipunuli astané kanggo nglayani dados imam.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "asma-asmane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "sing dimiyasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "dipunuli"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "astané"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kanggo nglayani dados imam"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:22.806819632Z",
+  "model": "glm-5.3"
+}

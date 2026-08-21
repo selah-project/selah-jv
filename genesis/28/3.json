@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan El Shaddai nlabuhi ⟨את⟩ sliramu, ndadekake sliramu wuruk lan tambah-tumambah, supaya sliramu dadi pasamuwané para bangsa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nlabuhi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sliramu"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ndadekake sliramu wuruk"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "lan tambah-tumambahake sliramu"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "supaya sliramu dadi"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "pasamuwané"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:08.974883151Z",
+  "model": "glm-5.3"
+}

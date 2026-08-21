@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sapa ta ngerti rohing anak-anak manungsa iku tumindak munggah marang dhuwur, apa rohe kewan-kewan iku tumindak mudhun marang ngisor, marang bumi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sing munggah"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "marang dhuwur"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "apa roh"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kewan-kewan"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "sing mudhun"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "marang ngisor"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "marang bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:26.303457605Z",
+  "model": "glm-5.3"
+}

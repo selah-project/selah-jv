@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Saindhenging bumi bakal sujud marang panjenengané lan gamel marang panjenengané, bakal ngagemel asma panjenengané. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "bakal sujud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang panjenengané"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "lan bakal ngagemel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang panjenengané"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bakal ngagemel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma panjenengané"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:00.045576786Z",
+  "model": "glm-5.3"
+}

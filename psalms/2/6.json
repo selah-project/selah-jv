@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Dene Aku wus ngukuhake Raja-Ku, ana ing Tsiyon, gunung sucining-Ingsun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Dene Aku"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "wus ngukuhake (ngantenake)"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Raja-Ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "sucining-Ingsun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:45.088023411Z",
+  "model": "glm-5.3"
+}

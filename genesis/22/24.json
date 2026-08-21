@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan seliré, asmané Reuma, dhèwèké uga nglairake ⟨את⟩ Tebah lan ⟨את⟩ Gaham lan ⟨את⟩ Tahas lan ⟨את⟩ Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Lan seliré"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebah"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Gaham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Tahas"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:03.186829280Z",
+  "model": "glm-5.3"
+}

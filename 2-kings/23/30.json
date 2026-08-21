@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan abdine numpakake awake sing wis mati saka Megido, lan nggawa awake menyang Yerushalayim, lan nguburake awake ing kubure; lan umat ⟨saka⟩ bumi njupuk ⟨את⟩ Yehoahaz anakne Yosyiahu, lan ngurapake ⟨את⟩ dheweke, lan ndadekake ⟨את⟩ dheweke dadi ratu mengganteni bapakne.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "lan numpakake awake"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdine"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sing wis mati"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "saka Megido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "lan nggawa awake"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "menyang Yerushalayim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "lan nguburake awake"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "ing kubure"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨saka⟩ bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anakne"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yosyiahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "lan ngurapake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "lan ndadekake dadi ratu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mengganteni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    }
+  ],
+  "timestamp": "2026-08-21T00:30:40.926087492Z",
+  "model": "glm-5.3"
+}

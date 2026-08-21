@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Menawa Adonai wis ngumbah ⟨את⟩ regediputing putri-putri Tsiyon, lan ⟨את⟩ getihe Yerushalayim wis ditampaking saka sajroning kutha, mawa roh papaste lan mawa roh pangobong.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Menawa"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "wis ngumbah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "regediputing putri-putri Tsiyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "regediputing"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "getihe Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "wis ditampaking"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "saka sajroning kutha"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "mawa roh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "papaste"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "lan mawa roh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "pangobong"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:18.457310977Z",
+  "model": "glm-5.3"
+}

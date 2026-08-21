@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan padha nggawe loceng saka emas murni, lan padha natokake ⟨את⟩ loceng-locheng ing tengahing dalima-dalima, ing pinggir ngisoring jubah, ngubengi, ing tengahing dalima-dalima.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lan padha nggawe"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "loceng-locheng"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "lan padha natokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loceng-locheng"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "loceng-locheng"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "dalima-dalima"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "pinggir ngisoring"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "dalima-dalima"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:53.817387886Z",
+  "model": "glm-5.3"
+}

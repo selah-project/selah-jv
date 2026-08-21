@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Lut metu marang wong-wong mau ing ana ing lawang, lawangé ditutup ing sangarepe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ing ana ing lawang"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "lawangé"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ditutup"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ing sangarepe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:19.260021438Z",
+  "model": "glm-5.3"
+}

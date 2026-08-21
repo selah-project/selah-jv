@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Dadèkna para bendarané kaya Oreb lan kaya Zeeb, lan kaya Zebah lan kaya Zalmuna kabeh pangèrané.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Dadèkna"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "para bendarané"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "kaya Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "lan kaya Zeeb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "lan kaya Zebah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "lan kaya Zalmunna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "pangèrané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:43.580112343Z",
+  "model": "glm-5.3"
+}

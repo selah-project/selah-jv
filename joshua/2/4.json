@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan wadon mau njupuk ⟨את⟩ wong loro iku lan ndhelikake, banjur ngandika mangkene: Bener, wong-wong mau teka marang aku, nanging aku ora weruh saka endi ⟨ing ngendi⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wadon mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong loro"
+    },
+    {
+      "surface": "שני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "ndhelikake"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Bener"
+    },
+    {
+      "surface": "באו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku weruh"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "saka endi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:51.464965116Z",
+  "model": "glm-5.3"
+}

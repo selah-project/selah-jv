@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan wong-wong iku nundhung ⟨את⟩ dheweke ing panggonan tahanan, awit durung katetepake apa sing kudu ditindakake marang dheweke.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "nundhung ing panggonan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ing panggonan tahanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "durung"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "katetepake"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kudu ditindakake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:18.727442802Z",
+  "model": "glm-5.3"
+}

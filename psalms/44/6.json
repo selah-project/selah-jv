@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Liwat Kowe mungsuh kita sundhul kita; liwat asma-Mu kang nunggakake kita kita injak.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Liwat Kowe"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "mungsuh kita"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "kita sundhul"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "liwat asma-Mu"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "kita injak"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "kang nunggakake kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:57.324452398Z",
+  "model": "glm-5.3"
+}

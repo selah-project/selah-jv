@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 18:4",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lalu sang raja ngandika marang wong-wong iku: Apa kang becik ing panjenengané, iku daklakoni. Lalu sang raja ngadeg ana ing sisih gapura, lan kabèh wong iku metu miturut atusan lan miturut éwonan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa kang"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ing panjenengané"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "daklakoni"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "יד",
+      "gloss": "sisih"
+    },
+    {
+      "surface": "השער",
+      "gloss": "gapura"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabèh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "metu"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "miturut atusan"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "lan miturut éwonan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:11:00.865746606Z",
+  "model": "glm-5.3"
+}

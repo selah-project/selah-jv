@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 146,
+  "translation": "Yahweh jumeneng raja salawase, Elohimmu, Tsiyon, tumut turun-temurun; padha memuji Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "jumeneng raja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawase"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tumut"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "turun-temurun"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "padha memuji"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:06.294941847Z",
+  "model": "glm-5.3"
+}

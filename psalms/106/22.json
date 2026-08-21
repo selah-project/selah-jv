@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Karya-karya kang mukjizat ing dhaerah Kham, laku-laku kang nggirisi ana ing segara Suph.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "mukjizat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing dhaerah"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "nggirisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing\/ana ing"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:13.270466412Z",
+  "model": "glm-5.3"
+}

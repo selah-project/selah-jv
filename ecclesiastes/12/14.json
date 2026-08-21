@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Awit ⟨את⟩ saben pakaryané Elohim bakal digawa ing pangadilan, dhumateng saben sing kasingidan, apa déné becik apa déné ala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben pakaryané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "pakaryané"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bakal digawa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ing pangadilan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhumateng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "sing kasingidan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa déné"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "apa déné"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:13.464422851Z",
+  "model": "glm-5.3"
+}

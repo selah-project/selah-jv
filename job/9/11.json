@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lah, menawa Panjenengane ngliwati aku, aku ora ndeleng; lan menawa lumampah, aku ora mangerti ⟨iku⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "lan menawa lumampah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "mangerti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨iku⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:23:04.943529159Z",
+  "model": "glm-5.3"
+}

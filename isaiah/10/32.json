@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Isih dina iki ing Nob areng ngadeg; banjur dhèke ngapusi-ngapusi tangane marang dhuwuré Gunung Bet-Zion, dhuwuré Gibeah Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "ing Nob"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "areng ngadeg"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "ngapusi-ngapusi tangane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "הר",
+      "gloss": "dhuwuré gunung"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "dhuwuré Gibeah"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:20.495294099Z",
+  "model": "glm-5.3"
+}

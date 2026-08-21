@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Ora ana-ana tumrap aku yen aku ngukum ⟨את⟩ kowe bener; nganti aku pejah, aku ora bakal njabut kaluhuranku saka aku.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "ora ana-ana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tumrap aku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ngukum bener"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "aku pejah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "njabut"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "kaluhuranku"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:31:04.514850806Z",
+  "model": "glm-5.3"
+}

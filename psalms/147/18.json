@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Ngutus sabdane lan nglerakake; ndadekake angine ngumbe, banyu-banyu ngalir.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sabdane"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "lan nglerakake"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ndadekake ngumbe"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "angine"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ngalir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu-banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:39.234974997Z",
+  "model": "glm-5.3"
+}

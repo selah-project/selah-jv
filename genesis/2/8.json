@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur Yahweh Elohim nanem kebon ing Eden, ing sisih wétan, lan panjenengané ngunjukaké ing kono ⟨את⟩ manungsa kang wus dibentuk.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "banjur nanem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "kebon"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "ing Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ing sisih wétan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "banjur ngunjukaké"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "dibentuk"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:36.691311586Z",
+  "model": "glm-5.3"
+}

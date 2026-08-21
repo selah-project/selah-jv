@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan padha nguburake ⟨את⟩ Avner ing Hevron; lan sang prabu ngunggalaké ⟨את⟩ swarané lan nangis ing pasareané Avner; lan sakabèhé wong padha nangis.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "padha nguburake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ing Hevron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ngunggalaké"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang prabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarané"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "swarané"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nangis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pasarean"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "padha nangis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:34.806850859Z",
+  "model": "glm-5.3"
+}

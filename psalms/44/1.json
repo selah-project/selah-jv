@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Dhumateng pengatur padhukunan; dhumateng para putrane Korach; maskil (gita pasinaon).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dhumateng pengatur padhukunan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "dhumateng para putrane"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil (gita pasinaon)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:20.259683702Z",
+  "model": "glm-5.3"
+}

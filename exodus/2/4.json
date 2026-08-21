@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur sadherek wadone ngadeg adoh, supaya weruh apa sing bakal ditindakake marang ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "banjur ngadeg"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sadherek wadone"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "supaya weruh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:59.322070891Z",
+  "model": "glm-5.3"
+}

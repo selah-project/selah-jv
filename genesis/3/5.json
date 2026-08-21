@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "sebab Elohim ngerti yèn ing dinaé kowé mangan saka iku, banjur mripatmu padha dibukak, lan kowé bakal dadi kaya Elohim, kang weruh becik lan ala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinaé"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "kowé mangan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "banjur padha dibukak"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "mripatmu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "lan kowé bakal dadi"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "kaya Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kang weruh"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "lan ala"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:40.264172074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan teka kabeh suku-sukune Yisrael marang Daud ing Khevron, lan padha ngucap: Punden, kula punika balung saha daging panjenengan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-sukune"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ing Khevron"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngucap"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "punden kula punika"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "balung panjenengan"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "saha daging panjenengan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kula"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:29.698282940Z",
+  "model": "glm-5.3"
+}

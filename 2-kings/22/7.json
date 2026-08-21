@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Nanging dudu kudu diétung ⟨את⟩ bareng wong-wong iku ◄perak► ◄sing diwenehake► ◄ing tangané►, ◄amarga► ◄kanthi setya► ◄wong-wong iku nindakake►.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "kudu diétung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bareng wong-wong iku"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "sing diwenehake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangané"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "kanthi setya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wong-wong iku"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "nindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:30:27.692039015Z",
+  "model": "glm-5.3"
+}

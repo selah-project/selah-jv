@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan dheweke ngucap: Yahweh ⟨iku⟩ watu-gampingku, lan bèntèngku, lan pangluwarku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dheweke ngucap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "watu-gampingku"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "lan bèntèngku"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "lan pangluwarku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:33.203835710Z",
+  "model": "glm-5.3"
+}

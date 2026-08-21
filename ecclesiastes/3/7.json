@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Wektu nglunturake, lan wektu nguntal; wektu meneng, lan wektu ngendika.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "nglunturake"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "nguntal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "meneng"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:31.896679334Z",
+  "model": "glm-5.3"
+}

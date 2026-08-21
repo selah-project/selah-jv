@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Banjur kabar teka marang Dawid ⟨את⟩ kang ditindakaké Ritspah putriné Aya, seliring Saul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "banjur kabar teka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang ditindakaké Ritspah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ditindakaké"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putriné"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "seliring"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:18.900041279Z",
+  "model": "glm-5.3"
+}

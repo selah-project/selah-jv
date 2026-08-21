@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Nalika cilaka aku njaluk marang Yahweh, lan maturu ing Elohim kawula; saka padhesane Dheweke nglengo swaraku, lan panyuwunku teka ing ngarsane, tekan ing telingane.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "nalika cilaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "njaluk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kawula"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "maturu njaluk tulung"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nglengo"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "saka padhesane"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swaraku"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "lan panyuwunku"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "ing telingane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:11.226256906Z",
+  "model": "glm-5.3"
+}

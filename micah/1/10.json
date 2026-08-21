@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Ing Gat aja kandha, nangisa aja nangis; ing Beth Le-Aphrah gulungen awakmu ing lebu.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Ing Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kandha"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "nangisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "nangis"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing Beth"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Le-Aphrah"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lebu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "gulungen awakmu ing"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:17.942263236Z",
+  "model": "glm-5.3"
+}

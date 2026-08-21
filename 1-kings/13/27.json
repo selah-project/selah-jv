@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Dhèwèké ngendika marang anak-anaké, kalawan munjuk: Padha olèhaké ⟨את⟩kadhal iku marang aku. Banjur padha ngolèhaké.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dhèwèké ngendika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kalawan munjuk"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "padha ngolèhaké"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadhal"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "kadhal"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "banjur padha ngolèhaké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:04.828959597Z",
+  "model": "glm-5.3"
+}

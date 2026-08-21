@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 19:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lajeng Yesayahu bin Amots ngutus dhateng Hizkiyahu, ngendika: Makaten sabda Yahweh, Elohimipun Yisrael, ingkang Paduka panedha dhateng Ingsun prakawis Sanherib raja Assur — Ingsun sampun mireng.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lajeng ngutus"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "כה",
+      "gloss": "makaten"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimipun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "התפללת",
+      "gloss": "Paduka panedha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dhateng Ingsun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "prakawis"
+    },
+    {
+      "surface": "סנחרב",
+      "gloss": "Sanherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ingsun sampun mireng"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:55.203674738Z",
+  "model": "glm-5.3"
+}

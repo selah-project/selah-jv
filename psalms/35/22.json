@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Kowe wis ndeleng, Yahweh aja meneng, Adonai aja adoh saka aku.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Kowe wis ndeleng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "meneng"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "adosh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:55.355921260Z",
+  "model": "glm-5.3"
+}

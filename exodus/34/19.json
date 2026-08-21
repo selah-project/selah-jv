@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Sabanjur sing mbukak cambuk iku kanggone Aku; lan sakabehing kewan-susuhe kudu lanang, sabanjur sing mbukak lambu, sapi utawa wedhus.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "sing mbukak"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "cambuk\/lambu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggone Aku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "kewan-susuhemu"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "kudu lanang"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "sabanjur sing mbukak"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "utawa wedhus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:23.513042566Z",
+  "model": "glm-5.3"
+}

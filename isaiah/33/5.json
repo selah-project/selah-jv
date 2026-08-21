@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Yahweh misahe dhuwur, awit sumep ing panggonan dhuwur; kabehaken Tziyon kalawan ukum lan kadholdholen.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "misahe dhuwur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sumep"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "panggonan dhuwur"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kabehaken"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukum"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "lan kadholdholen"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:00.376940424Z",
+  "model": "glm-5.3"
+}

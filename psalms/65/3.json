@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Dhemitan-ngrungokake pendonga; nganti Kowé sedaya daging bakal teka.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pendonga"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "nganti Kowé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakal teka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:04.026064519Z",
+  "model": "glm-5.3"
+}

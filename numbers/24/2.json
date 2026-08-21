@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Baream angangkat ⟨את⟩ paningalé, lan weruh ⟨את⟩ Yisrael padha anggoni miturut suku-sukuné, lan ana ing dhuwuré rohé Allah.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "angangkat"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Baream"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paningalé"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "paningalé"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "padha anggoni"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "miturut suku-sukuné"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "lan ana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rohé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Allah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:31.867474712Z",
+  "model": "glm-5.3"
+}

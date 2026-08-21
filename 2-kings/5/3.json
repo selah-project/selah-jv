@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Landhene pangucape marang nyai majikane: Dhuh, prayogane bendharaku ana ngarsane nabi sing ana ing Shomron — iya bakal nambani ⟨את⟩ panjenengane saka leprane!",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "nyai majikane"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Dhuh, prayogane"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendharaku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ana ngarsane"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ana ing Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "iya wektu iku"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "nambani\/njupuki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "panjenengane"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "saka leprane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:25:35.444769666Z",
+  "model": "glm-5.3"
+}

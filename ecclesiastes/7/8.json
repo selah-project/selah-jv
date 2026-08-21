@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Luwih becik pungkasaning perkara tinimbang wiwitane; luwih becik wong sabar semangate tinimbang wong luhur semangate.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "pungkasaning"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "tinimbang wiwitane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "sabar"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "semangate"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "tinimbang luhur"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "semangate"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:05.302470405Z",
+  "model": "glm-5.3"
+}

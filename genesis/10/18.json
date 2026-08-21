@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "lan ⟨את⟩ wong Arwadi, lan ⟨את⟩ wong Zemari, lan ⟨את⟩ wong Hamati; banjur sabanjure para kluwarga wong Kanaan iku sumebar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "wong Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Zemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "wong Zemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "wong Hamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "banjur sabanjure"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "sumebar"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "para kluwarga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:33.018475294Z",
+  "model": "glm-5.3"
+}

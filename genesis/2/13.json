@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan jeneng kali kang kapindho yaiku Gichon, iku ⟨iku⟩ sing ngubengi ⟨את⟩ sabumi Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "lan jeneng"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kang kapindho"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "sing ngubengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabumi Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-21T03:48:42.533374096Z",
+  "model": "glm-5.3"
+}

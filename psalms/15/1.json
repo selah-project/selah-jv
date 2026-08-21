@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Mizmor kanggo Dawid. Yahweh, sira endi sing bisa nginep ing padhean-Mu? Sira endi sing bisa manggon ing redi sucimu?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sira endi"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bisa nginep"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ing padhean-Mu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sira endi"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bisa manggon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sucimu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:01.176117685Z",
+  "model": "glm-5.3"
+}

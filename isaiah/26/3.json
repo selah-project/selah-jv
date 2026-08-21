@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Wujud panggayuh sing sumengkok marang Kowe Kowe anjagi salamat-tentrem, amarga ing Kaum ⟨dhewe⟩ pituwas.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "wujud panggayuh"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "sumengkok"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "anjagi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salamat-tentrem"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tentrem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing Kaum"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "pituwas"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:48.496746666Z",
+  "model": "glm-5.3"
+}

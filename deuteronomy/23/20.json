@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Apa kowé ora nggeni neshek marang sedulurmu: neshek salaka, neshek panganan, neshek samubarang sing dijak neshek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "nggeni neshek (njaluk babing)"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "marang sedulurmu"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "neshek (babing)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salaka (dhuwit)"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "neshek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "panganan"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "neshek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "samubarang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "dijak neshek"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:29.496746941Z",
+  "model": "glm-5.3"
+}

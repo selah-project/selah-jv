@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan Yahweh ngandika marang Moshe: Cekela ⟨את⟩ kabeh pangulune umat iku lan sulaen ⟨את⟩ wong-wong mau ing ngarsane Yahweh, adhep-adhepan srengenge, banjur enggal sumelak anggone duka Yahweh saka Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "cekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh pangulune umat iku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pangulune"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat iku"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "sulaen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ing ngarsane Yahweh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "adhep-adhepan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengenge"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "enggal sumelak"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "anggone duka murub"
+    },
+    {
+      "surface": "אף",
+      "gloss": "rikahe duka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "saka Israel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:24.741508077Z",
+  "model": "glm-5.3"
+}

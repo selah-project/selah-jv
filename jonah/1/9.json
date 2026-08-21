@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨⟨ia⟩⟩ munjuk marang wong-wong mau: Aku wong Ibrani, lan Yahweh, Elohime ⟨⟨langit⟩⟩, aku nakluk ing Patelange, kang nitahake ⟨את⟩ segara lan ⟨את⟩ dharatan garing.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lunthuk munjuk"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "wong Ibrani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "nakluk ing Patelange"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dharatan garing"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dharatan garing"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:30.057340619Z",
+  "model": "glm-5.3"
+}

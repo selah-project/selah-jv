@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Yahweh ngutus ⟨את⟩ sawijining wong nabi marang para putrané Israil, lan dhèwèké ngandika marang wong-wong mau: Kaya mangkene pangandikané Yahweh, Elohimé Israil: Aku iki sing ngunggahaké sira ⟨את⟩ saka Mesir, lan sing ngetokaké sira ⟨את⟩ saka omahé para abdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sawijining wong"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kaya mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku iki"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "sing ngunggahaké"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira (saka Mesir)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mesir"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "lan sing ngetokaké"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira (saka omahé para abdi)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omahé"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para abdi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:27.092964426Z",
+  "model": "glm-5.3"
+}

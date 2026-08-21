@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 82,
+  "translation": "Mazmur tumrap Asaf. Elohim ngadeg ing pasamuwané El; ing satengahé para elohim ⟨⟨Elohim milihi⟩⟩ ngadili.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "tumrap Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "ing pasamuwané"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing satengahé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ngadili"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:47.335317004Z",
+  "model": "glm-5.3"
+}

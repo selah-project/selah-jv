@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Aku kesel anggonku nyeru; tenggorokanku garing; mripataku entek anggonku ngenteni Elohim-ku.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Aku kesel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "anggonku nyeru"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "garing"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "tenggorokanku"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "entek"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripataku"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "anggonku ngenteni"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim-ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:56.714551568Z",
+  "model": "glm-5.3"
+}

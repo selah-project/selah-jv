@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Dosa tutuke, tembung lambe-lambe; muga padha katangkep ing kaluhurane, lan saka sumpah lan goroh padha critakake.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "tutuke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lambe-lambe"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "muga padha katangkep"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "ing kaluhurane"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "lan saka sumpah"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "lan goroh"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "padha critakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.524170735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Mung ing dosa-dosane Yarobeam anake Nevat sing marakake ⟨את⟩ Israel tindak dosa, dheweke nrémpél, ora nyingsir saka kono.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Mung"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "ing dosa-dosane"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anake"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "marakake tindak dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "nrémpél"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nyingsir"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "saka kono"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:06.313221318Z",
+  "model": "glm-5.3"
+}

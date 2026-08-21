@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Sing nglumpati bangsa-bangsa akeh lan mateni para ratu kang krejeg.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "sing nglumpati"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "lan mateni"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "krejeg"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:04.449250619Z",
+  "model": "glm-5.3"
+}

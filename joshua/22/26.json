@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Banjur aku ngandika: Ayo kula nindakaken, nggawe ⟨את⟩ pasiruan punapa dhumateng kula, dudu kanggo kurban obong lan dudu kanggo kurban sembelihan.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "aku ngandika"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nindakaken"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ayo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dhumateng kula"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasiruan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pasiruan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "kurban obong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan dudu"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kurban sembelihan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:06.088267610Z",
+  "model": "glm-5.3"
+}

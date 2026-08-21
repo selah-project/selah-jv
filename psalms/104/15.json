@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Lan anggur ngresemaké atiné manungsa, ndadèkaké rai sumêlang saka lenga, lan roti nyengkuyung atiné manungsa.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "lan anggur"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ngresemaké"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "ndadèkaké sumêlang"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "saka lenga"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "lan roti"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "nyengkuyung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:32.030476111Z",
+  "model": "glm-5.3"
+}

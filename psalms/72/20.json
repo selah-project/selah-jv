@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Rampung pandonga-dongane Dawid, putrane Yisai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "rampung"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "pandonga-dongane"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yisai"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:30.347873698Z",
+  "model": "glm-5.3"
+}

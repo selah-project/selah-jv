@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Aku, aku ⟨iya⟩ sing nglipur kowé: sapa kowé, nganti kowé wedi marang manungsa sing bakal mati, lan marang anaké manungsa sing kawedhar dadi suket?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iya⟩"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "sing-nglipur-kowe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "lan-kowe-wedi"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "marang-manungsa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bakal-mati"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "lan-marang-anake"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "suket"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "kawedhar-dadi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:18.480162841Z",
+  "model": "glm-5.3"
+}

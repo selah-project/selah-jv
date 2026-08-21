@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Banjur padha matur marang panjenengané: mboten, bendara; abdi-dalem padhanipun teka mundhut rejeki pangan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "banjur padha matur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang panjenengané"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mboten"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "abdi-dalem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "mundhut rejeki"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pangan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:17.143692200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ratu saka Sheba ndeleng ⟨את⟩ kabeh Kawicaksanan⟨e⟩ Shelomoh, lan ⟨את⟩ omah sing ⟨iya⟩ yasa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Lan ndeleng"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "saka Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh Kawicaksanan(e)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Kawicaksanan⟨e⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "lan ⟨את⟩ omah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "⟨iya⟩ yasa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:38.057068591Z",
+  "model": "glm-5.3"
+}

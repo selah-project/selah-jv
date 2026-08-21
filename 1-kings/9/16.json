@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Paroh raja Mitsrayim teka munggah lan nglumpuki ⟨את⟩ Gezer, lajeng ngobong nganggo geni, lan ⟨את⟩ wong Kanaan sing ndunungi ing kutha iku dipateni; lajeng kutha iku diparingake dadi sesulih marang putrine, garwane Shelomoh.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "teka munggah"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "lajeng nglumpuki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "lajeng ngobong"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nganggo geni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Kanaan sing ndunungi kutha"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "sing ndunungi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dipateni"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "lajeng diparingake"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "dadi sesulih"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "marang putrine"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "garwane"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:41.309559808Z",
+  "model": "glm-5.3"
+}

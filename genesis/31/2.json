@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan Yaakov mirsani ⟨את⟩ raine Lavan, lah lah, ora ⟨maneh kaya⟩ marang awake kaya dhisik ing dina lawas.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raine"
+    },
+    {
+      "surface": "פני",
+      "gloss": "raine"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah lah"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "kaya dhisik"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ing dina lawas"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:33.484036113Z",
+  "model": "glm-5.3"
+}

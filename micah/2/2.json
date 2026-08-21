@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Padha ngintro sawah lan ngrebut, lan omah padha dijupuk; padha nindes ⟨את⟩ wong lan ⟨את⟩ omahé, ⟨את⟩ wong lan ⟨את⟩ warisané.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "padha ngintro"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "lan ngrebut"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "lan omah"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "padha dijupuk"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "padha nindes"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wong",
+      "marks": "wong"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "lan omahé",
+      "marks": "omahé"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "wong",
+      "marks": "wong"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "lan warisané",
+      "marks": "warisané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:26.686784569Z",
+  "model": "glm-5.3"
+}

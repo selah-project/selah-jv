@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 3:17",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "uga Araha lan Kali Yarden lan ⟨the⟩ watese, saka Kineret nganti Segara ⟨the⟩ Araha, Segara Uyah, ing ngisor lereng Pesga, arah wetan.",
+  "tokens": [
+    {
+      "surface": "והערבה",
+      "gloss": "uga Araha"
+    },
+    {
+      "surface": "והירדן",
+      "gloss": "lan Kali Yarden"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "lan watese"
+    },
+    {
+      "surface": "מכנרת",
+      "gloss": "saka Kineret"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Segara"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araha"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Segara"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Uyah"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing ngisor"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "lereng"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pesga"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "arah wetan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:53.904565477Z",
+  "model": "glm-5.3"
+}

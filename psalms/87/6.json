@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 87,
+  "translation": "Yahweh bakal ngetung nalika nulis para bangsa: iki lair ing kono. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bakal ngetung"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "nalika nulis"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lair"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:51.696327740Z",
+  "model": "glm-5.3"
+}

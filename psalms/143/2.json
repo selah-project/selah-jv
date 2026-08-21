@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 143,
+  "translation": "Lan aja mleluwuh marang ⟨את⟩ abdimu, awit ora ana sing-bener ing ngarsamu, sapa wong urip.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Lan aja"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mleluwuh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "marang pangadilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdimu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ana sing-bener"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wong urip"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:48.979311317Z",
+  "model": "glm-5.3"
+}

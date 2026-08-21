@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Sing ngrusak awake dhewe marang Yahweh; dudu ⟨the⟩ anake, nanging cacate; sesa bengkong lan muntir-muntir.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "ngrusak awake dhewe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang-luwihe (marang Yahweh)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "cacate"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sesa (generasi)"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "bengkong"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "lan muntir-muntir"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:02.156811744Z",
+  "model": "glm-5.3"
+}

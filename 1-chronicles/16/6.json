@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Benayahu lan Yaḥaziel para imam ⟨nganggo⟩ saro terus-terusan ing ngarepePeti prajanjian ⟨saka⟩ Elohim",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Lan Benayahu"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "lan Yaḥaziel"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "saro"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "terus-terusan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Peti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:22:48.340461579Z",
+  "model": "glm-5.3"
+}

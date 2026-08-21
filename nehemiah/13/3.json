@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan kadadéan, bareng krungu ⟨את⟩ piwucale torèt, padha misahake saka Yisraél saben wong campur-campur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lan kadadéan"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "bareng krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piwucale torèt"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "piwucale torèt"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "padha misahake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wong campur-campur"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "saka Yisraél"
+    }
+  ],
+  "timestamp": "2026-08-21T03:14:48.407525583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Saka Tziyon, kasampurnaning endah, Elohim sumberar.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "saka Tziyon"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "kasampurnaning"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "éndah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "sumberar"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:36.120663528Z",
+  "model": "glm-5.3"
+}

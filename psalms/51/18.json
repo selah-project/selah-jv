@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Sebab korban sapepe sing ora Kacepengake — anggoningsun arep menehi; kurban obongan ora Kakenakake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "Kacepengake"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban sapepe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "— anggoningsun arep menehi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kurban obongan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Kakenakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:52.207811082Z",
+  "model": "glm-5.3"
+}

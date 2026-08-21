@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Sebab Yahweh ngrungokake wong-wong mlarat, lan ⟨את⟩ tawanan-tawanané ora diremehake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kanggo"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "wong-wong mlarat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tawanan-tawanané"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "tawanan-tawanané"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "diremehake"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:18.649464556Z",
+  "model": "glm-5.3"
+}

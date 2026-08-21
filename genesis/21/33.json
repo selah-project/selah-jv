@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan ⟨Avraham⟩ nandur wit eshel ing Beersheba, sarta nyebat ing kono Asma Yahweh, El Olam.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "nandur"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "wit eshel"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ing Beersheba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta nyebat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:17.690241929Z",
+  "model": "glm-5.3"
+}

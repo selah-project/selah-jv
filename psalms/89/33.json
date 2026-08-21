@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Lan Aku bakal ngukum pangedumané dhéwé nganggo penthang, lan kaluputané dhéwé nganggo genjot.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "lan Aku bakal ngukum"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "nganggo penthang"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pangedumané dhéwé"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "lan nganggo genjot"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kaluputané dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:28.462447240Z",
+  "model": "glm-5.3"
+}

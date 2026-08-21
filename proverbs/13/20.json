@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Sijining lumaku karo ⟨את⟩ wong wicaksana bakal wicaksana, nangkan kancané wong begjed bakal kaloka ala.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong wicaksana"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wong wicaksana"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "bakal wicaksana"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "nangkan kancané"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "wong begjed"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "bakal kaloka ala"
+    }
+  ],
+  "timestamp": "2026-08-21T02:14:11.116376988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Mata tinimbang mata, untu tinimbang untu, tangan tinimbang tangan, sikil tinimbang sikil.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "untu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "שן",
+      "gloss": "untu"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sikil"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sikil"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:37.942840184Z",
+  "model": "glm-5.3"
+}

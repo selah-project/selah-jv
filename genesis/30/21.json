@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Sawise iku ia nglairake ana putri, lan ia njenengi ⟨את⟩ jenenge Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "sawise iku"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ia nglairake"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "lan ia njenengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenenge"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:12.630960568Z",
+  "model": "glm-5.3"
+}

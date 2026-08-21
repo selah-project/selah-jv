@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 146,
+  "translation": "Sing nitahake ⟨את⟩ langit lan bumi, ⟨את⟩ sagara lan ⟨את⟩ sabarang sing ana ing sajroné, Sing njaga kasetyan nganti langgeng:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "lan bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sagara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabarang sing ana ing sajroné"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ana ing sajroné"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Sing njaga"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti langgeng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:02.400457399Z",
+  "model": "glm-5.3"
+}

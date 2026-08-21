@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Warisan-kula ⟨⟨את⟩⟩ iya iku pasaksimu, nganti salawas-lawase; awit iku dadi suka bathinku.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "kukinti dadi warisan"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "pasaksimu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "suka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "bathin (atkanku)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:17.743742243Z",
+  "model": "glm-5.3"
+}

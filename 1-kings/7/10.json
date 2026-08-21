@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan dhasaré ⟨iku⟩ saka watu-watu larang rega, watu-watu gedhé, watu-watuné sapuluh asta lan watu-watuné wolu asta.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "lan dhasaré"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "watu-watu"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "larang rega"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "watu-watu"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gedhé"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "watu-watuné"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "lan watu-watuné"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "wolu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:54.246869064Z",
+  "model": "glm-5.3"
+}

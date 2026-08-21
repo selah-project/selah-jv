@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Ing wektu iku Merodakh-Baladan, putrane Baladan, ratu Babel, ngirim layang lan pènget marang Hizkiyahu; awit ⟨iwak⟩ krungu yen ⟨iya⟩ lara lan wis mari.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "Merodakh"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "-Baladan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "layang"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "lan pènget"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "awit krungu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "lara"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wis mari"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:10.833313362Z",
+  "model": "glm-5.3"
+}

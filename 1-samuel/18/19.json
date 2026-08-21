@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan kadadéan, ing wektune pasake ⟨את⟩ Merab putrine Shaul marang Dawid, dhewe malah dipasake dadi garwane Adriel sang Mecholathi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wektune"
+    },
+    {
+      "surface": "תת",
+      "gloss": "pasake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrine"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "dhewe"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dipasake"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adriel"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "sang Mecholathi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi garwane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:49.152473559Z",
+  "model": "glm-5.3"
+}

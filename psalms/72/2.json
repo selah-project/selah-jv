@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Bakal ngadili umatmu kanthi kabeneran, lan wong mlaratmu kanthi ukum.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "bakal ngadili"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "kanthi kabeneran"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "lan wong mlaratmu"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kanthi ukum"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:41.339333225Z",
+  "model": "glm-5.3"
+}

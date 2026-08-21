@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 150,
+  "translation": "Puji Panjenengane kanthi swarane sangkala; puji Panjenengane kanthi nebel lan kinnor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Puji Panjenengane"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "kanthi swarane"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sangkala"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "puji Panjenengane"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "kanthi nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "lan kinnor"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:10.906368285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨dheweke⟩ ngandika: Yahweh saka Tzion ngglendhung kaya singa, lan saka Yerushalayim nguwuhake swarane; lan padhang pangonane para pangon nglara, lan pucuke Karmel garing.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "saka Tzion"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ngglendhung kaya singa"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "lan saka Yerushalayim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nguwuhake"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "lan nglara"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "padhang pangonan"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "para pangon"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "lan garing"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pucuk"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:49.619114206Z",
+  "model": "glm-5.3"
+}

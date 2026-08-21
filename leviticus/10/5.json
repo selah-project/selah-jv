@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan padha nedhak, banjur nggawa ⟨את⟩ wong-wong mau ing jubahé menyang njaba kamp, kaya sing dikandhakaké Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "lan padha nedhak"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "banjur nggawa wong-wong mau"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "ing jubahé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "njaba"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikandhakaké"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:06.129874026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Bd. iku padha ndeleng panggawean-panggaweanipun Yahweh, lan kaluhuranipun ing sagantengan.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "bd. iku"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "panggawean-panggaweanipun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "lan kaluhuranipun"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "ing sagantengan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:44.368571141Z",
+  "model": "glm-5.3"
+}

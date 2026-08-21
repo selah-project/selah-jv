@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sebab kowe arep dadi kaya wit elam sing roné luntur, lan kaya kebon sing ora duwé banyu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kowe arep dadi"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "kaya wit elam"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "luntur"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "roné"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "lan kaya kebon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "duwé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:13.874602714Z",
+  "model": "glm-5.3"
+}

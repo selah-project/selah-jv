@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Mulané Hanun njupuk ⟨את⟩ para abdiné Dawid, banjur didhukur, lan motong ⟨את⟩ sandhangé nganti setengah, tekan pangkal pupu, banjur ditibakaké.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para abdiné Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para abdiné"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "didhukur"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "motong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangé"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "sandhangé"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "nganti setengah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tekan"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "pangkal pupu"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ditibakaké"
+    }
+  ],
+  "timestamp": "2026-08-21T03:25:11.201852897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sang imam sing ngilapake ⟨את⟩ iku dadi dosa, dheweke kudu mangan; ing panggonan suci iku didhahar, ing pelatariane kemah pasamuwan.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "sing ngilapake dosa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "kudu mangan"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing panggonan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "didhahar"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ing pelatariane"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:27.255240599Z",
+  "model": "glm-5.3"
+}

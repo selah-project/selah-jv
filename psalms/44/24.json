@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Sumecha! Dhadhap apa kok tumanem Adonai? Bangun! Aja nulak kita salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "sumecha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dhadhap apa"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "kok tumanem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "bangun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "nulak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:21.925213035Z",
+  "model": "glm-5.3"
+}

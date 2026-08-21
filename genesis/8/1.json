@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Elohim éling marang ⟨את⟩ Nuh, lan ⟨את⟩ sedhéning kewan urip, lan ⟨את⟩ sedhéning ternak sing ⟨את⟩ ana karo panjenengané ing bahtera; lan Elohim ngliwatake angin ing sadhuwuring bumi, lan banyu-banyu mau sirep.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "lan éling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nuh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sedhéning kewan urip"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedhéning"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "kewan urip"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sedhéning ternak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedhéning"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ karo panjenengané"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "ing bahtera"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "lan ngliwatake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "lan sirep"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu-banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:18.079060682Z",
+  "model": "glm-5.3"
+}

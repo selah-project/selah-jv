@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Awit sira, Adonai, ⟨iku⟩ becik lan sedia paring pangapura, lan sugih kasetyan marang kabeh sing ngunjukake sira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "lan sedia paring pangapura"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "lan sugih"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang kabeh"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "sing ngunjukake sira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:34.563259598Z",
+  "model": "glm-5.3"
+}

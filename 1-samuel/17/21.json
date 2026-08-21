@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Yisrael lan Filisti padha nata barisan ⟨את⟩ wilangan nglawan wilakan barisan.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "lan padha nata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "lan Filisti"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "barisan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "barisan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:39.307834742Z",
+  "model": "glm-5.3"
+}

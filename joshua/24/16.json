@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur wong akèh iku mangsuli lan ngandika: Adohana tumrap aku kabèh ninggalake ⟨את⟩ Yahweh kanggo ngabekti allah-allah liyané.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Banjur ... mangsuli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Adohana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tumrap aku kabèh"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kanggo ngabekti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:08.085225097Z",
+  "model": "glm-5.3"
+}

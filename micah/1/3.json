@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sebab lah, Yahweh metu saka panggonane, lan miredhak, lan ngidak-idak ing sadhuwuring papan dhuwure bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "saka panggonane"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "lan miredhak"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "lan ngidak-idak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "papan dhuwure"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:51.851919271Z",
+  "model": "glm-5.3"
+}

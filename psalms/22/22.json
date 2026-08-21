@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Slametna aku saka tutuking singa; lan saka tandhukening sapi alas Sampun Kautatani aku",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Slametna aku"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "saka tutuking"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "lan saka tandhukening"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "sapi alas"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Sampun Kautatani aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:44.174029890Z",
+  "model": "glm-5.3"
+}

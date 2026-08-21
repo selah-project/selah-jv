@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Padha sengit marang sing ngecam ing gapura, lan sing ngendika jujur padha dibencèni.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "padha sengit"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ing gapura"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "sing ngecam"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "lan sing ngendika"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "jujur"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "padha dibencèni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:30:13.327685940Z",
+  "model": "glm-5.3"
+}

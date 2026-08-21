@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan saka para panyanyi: Elyashiv; lan saka para penjaga gapura: Shallum, lan Telem, lan Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "para panyanyi"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "para penjaga gapura"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "lan Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "lan Uri"
+    }
+  ],
+  "timestamp": "2026-08-21T04:25:06.435430933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan saben palanan sing dipalani dening wong iku sing rerunu, dadi tame",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "palanan (sadhel)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "dipalani"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "wong iku sing rerunu"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dadi tame"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:07.720745476Z",
+  "model": "glm-5.3"
+}

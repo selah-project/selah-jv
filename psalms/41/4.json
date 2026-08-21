@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Yahweh bakal nyengkuyung ⟨dia⟩ ing ⟨the⟩ dipan lara; kabeh peturune kowe malik ing sakité.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "bakal nyengkuyung dia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "dipan"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "lara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "peturune"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "kowe malik"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "ing sakité"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:45.958604209Z",
+  "model": "glm-5.3"
+}

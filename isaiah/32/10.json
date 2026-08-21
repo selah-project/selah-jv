@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Luwih saka setaun, dina-dina kowé bakal girising, sira sing percaya, awit panèn anggur wis entek, pamanèn ora bakaa teka.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "על",
+      "gloss": "luwih saka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "setaun"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "bakal girising"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "sira sing percaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "wis entek"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "panèn anggur"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "pamanèn"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bakaa teka"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:29.279345441Z",
+  "model": "glm-5.3"
+}

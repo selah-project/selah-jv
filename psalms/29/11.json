@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Yahweh maringi kakukuhan marang umate; Yahweh nberkahi ⟨את⟩ umate karta tentrem.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakukuhan"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "marang umate"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nberkahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umate"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "karta tentrem"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:21.632370120Z",
+  "model": "glm-5.3"
+}

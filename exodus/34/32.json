@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan sawisé iku kabeh barepe Israél ngedhekake awake, lan dheweke paring parentah marang padha ⟨את⟩ kabeh kang wis dikandhakake Yahweh ⟨את⟩ karo dheweke ing redhu Sinay.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "lan sawisé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "ngedhekake awake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barepe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "lan maringi parentah marang padha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh (kang dikandhakake Yahweh)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikandhakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ karo dheweke",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redhu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:22.068006280Z",
+  "model": "glm-5.3"
+}

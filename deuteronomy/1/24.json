@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lajeng sami mwilapa lan sami munggah dhateng redana, lajeng sami rawuh ngantos lebak Eshkol, sarta sami ngliti ⟨את⟩ lemah wau.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "sami mwilapa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "sami munggah"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "dhateng redana"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "sami rawuh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngantos"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "lebak"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "sami ngliti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lemah wau"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:13.514147600Z",
+  "model": "glm-5.3"
+}

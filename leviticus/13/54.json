@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "banjur imam mituturi supaya diumbah ⟨את⟩ barang sing ana lanané, lan disimpen pitung dina kapindho.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mituturi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "supaya diumbah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang sing ana lanané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lanané"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "disimpen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kapindho"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:31.137303061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan dheweke njupuk awake kabeh lan ndadekake liwat ⟨את⟩ kali iku, lan ndadekake liwat ⟨את⟩ sakabehing duweke.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "njupuk awake kabeh"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ndadekake liwat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kali iku"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ndadekake liwat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing duweke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dudu dudu — duweke"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:30.250082319Z",
+  "model": "glm-5.3"
+}

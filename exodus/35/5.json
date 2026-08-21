@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Pundhut saka ⟨את⟩ ⟨saka ing⟩ antarané kowé sesaos kanggo Yahweh; sapa wae kang atine karela, iya nggawa ⟨את⟩ sesaose Yahweh: emas, lan pérak, lan tembaga.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Pundhut"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ ⟨saka ing⟩ antarané kowé"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "sesaos"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa wae"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "karela"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "iya nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesaose Yahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "sesaose"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "lan pérak"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "lan tembaga"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:04.468550972Z",
+  "model": "glm-5.3"
+}

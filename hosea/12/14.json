@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan liwat nabi, Yahweh mundhakake ⟨את⟩ Israyel saka Mesir, lan liwat nabi iku dijaga.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "liwat nabi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mundhakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mesir"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "lan liwat nabi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "dijaga"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:10.953917209Z",
+  "model": "glm-5.3"
+}

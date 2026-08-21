@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Yahweh ngendika marang Moshe: ngendikaa marang para imam, para putrane Aharon, lan kaaaa marang dheweke: awit ⟨jiwa⟩ ora kena tumemi ing antarane bangsane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngendika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngendikaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "lan kaaaa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "awit jiwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kena tumemi"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "ing antarane bangsane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:29.895963673Z",
+  "model": "glm-5.3"
+}

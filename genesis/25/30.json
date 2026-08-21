@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Esau ngandika marang Yaakov: Sumelaki aku mula saka ⟨sup⟩ abang ⟨sing⟩ abang iki, amarga aku lesu. Mulane jenenge diarani Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "sumelaki aku"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mula"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abang"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨sing⟩ abang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "lesu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨mulane⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "diarani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:35.561359130Z",
+  "model": "glm-5.3"
+}

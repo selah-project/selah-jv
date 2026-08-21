@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Bandhané wong sugih iku kutha bègjané; kamprehané wong mlarat iku kalimané.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "bandha"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "wong sugih"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "bèngga"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "kamprehan"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "kalimin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:17.720785667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 56,
+  "translation": "Ing Elohim aku ngalembana sabdane; ing Elohim aku ndhedhes ati; aku ora bakal wedi — apa sing bisa ditindakake daging marang aku?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ing Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "aku ngalembana"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sabdane"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ing Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku ndhedhes ati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:40.075469824Z",
+  "model": "glm-5.3"
+}

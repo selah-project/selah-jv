@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Lan aku bodho, ora weruh; kaya kewan ◌ kawan karo Kowe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bodho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "kewan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo Kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:45.643727808Z",
+  "model": "glm-5.3"
+}

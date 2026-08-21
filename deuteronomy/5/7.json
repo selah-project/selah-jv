@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Ora bakal ana marang kowé elohim liyané ing ngarsaku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyané"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsaku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:19.845232434Z",
+  "model": "glm-5.3"
+}

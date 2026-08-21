@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Sakah sadurahing dalaning Yahweh ⟨yaiku⟩ katresnan setya lan bebener, kanggo para kang njaga prajanje lan pasaksine.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sakah"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "sadurahing dalaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "katresnan setya"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "lan bebener"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "kanggo para kang njaga"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "prajanje"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "lan pasaksine"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:29.851252735Z",
+  "model": "glm-5.3"
+}

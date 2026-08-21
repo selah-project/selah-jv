@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Amarga sira, Yahweh, ⟨iku⟩ pangungsenku; Elyon sampun sira dadekake dumadine sira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "pangungsenku"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "sampun sira dadekake"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "dumadine sira"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:07.993515940Z",
+  "model": "glm-5.3"
+}

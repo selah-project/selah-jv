@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Sing lemu ing bumi bakal mangan lan sumujud ing ngarepe; kabeh sing mudhun marang lemah bakal lenggah sujud, lan ⟨jiwané⟩ ora bisa nguripi manèh.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "bakal mangan"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "lan sumujud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "sing lemu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bakal lenggah sujud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "sing mudhun"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "lan jiwané"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "bisa nguripi manèh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:54.459863561Z",
+  "model": "glm-5.3"
+}

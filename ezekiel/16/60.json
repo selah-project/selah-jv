@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezekiel 16:60",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Nanging Aku bakal éling, Aku dhéwé, ⟨את⟩ prajanjiKu karo kowe ⟨את⟩ ing dina-dinané mangsa nemmu, lan Aku bakal ngadegaké kanggo kowe prajanjian langgeng.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Aku bakal éling"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku dhéwé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjiKu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjiKu"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "kowe ⟨את⟩",
+      "marks": "dina-dinané mangsa nemmu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ing dina-dinané"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "mangsa nemmu"
+    },
+    {
+      "surface": "והקמותי",
+      "gloss": "Aku bakal ngadegaké"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo kowe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "langgeng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:11:38.900731646Z",
+  "model": "glm-5.3"
+}

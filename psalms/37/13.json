@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Adonai bakal ngguyu marang dheweke, awit Panjenengane wis ndeleng yen dinane bakal teka.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "bakal ngguyu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wis ndeleng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "dinane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:44.973473243Z",
+  "model": "glm-5.3"
+}

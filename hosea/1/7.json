@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨את⟩ kulawarga Yehuda tak kasihi, lan dakslametake ing Yahweh, Elohire; lan ora dakslametake kanthi panah, lan kanthi pedhang, lan kanthi perang, kanthi jaran lan kanthi juru jaran.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kulawarga Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "tak kasihi"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "dakslametake"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "dakslametake"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "kanthi panah"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "lan kanthi pedhang"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "lan kanthi perang"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "jaran"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "lan juru jaran"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:00.414463838Z",
+  "model": "glm-5.3"
+}

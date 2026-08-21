@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Siji torah bakal dadi kanggo ⟨the⟩ wong asli, lan kanggo ⟨the⟩ wong thokolan sing nyenengi ing tengah-tengahmu.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "kanggo wong asli"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "lan kanggo wong thokolan"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sing nyenengi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ing tengah-tengahmu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:36.561991795Z",
+  "model": "glm-5.3"
+}

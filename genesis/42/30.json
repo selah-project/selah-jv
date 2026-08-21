@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Wong iku, bendarane bumi iku, ngendika ⟨את⟩ kasar marang kito, lan ndadekake kito kaya mata-matane ⟨את⟩ bumi iku.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendarane"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ marang kito"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "kasar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan ndadekake"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kito",
+      "marks": "kaya mata-mata"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "kaya mata-mata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi iku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:09.869995941Z",
+  "model": "glm-5.3"
+}

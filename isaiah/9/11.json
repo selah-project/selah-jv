@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Aram saka ing wétan lan Filisti saka ing buri, lan padha ngetokake ⟨את⟩ Yisrael kanthi cangkem kabèh. Ing kabèh iki anggone nesu durung mari, lan isih tangane kalungguhan.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "saka ing wétan"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "lan Filisti"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "saka ing buri"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "lan padha ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kanthi ... kabèh"
+    },
+    {
+      "surface": "פה",
+      "gloss": "cangkem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing kabèh"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "durung"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mari\/mundur"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "anggone nesu"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "lan isih tangane"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "kalungguhan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:22.245959122Z",
+  "model": "glm-5.3"
+}

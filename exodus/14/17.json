@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan aku, lah, aku ngatelakake ⟨את⟩ ati wong Mitsrayim, lan bakal padha ndherekake dheweke; lan aku bakal dimulyakake ana ing Par'o lan ing saindhenging wadyabalane, ing kereta-keretane lan ing para jaranane.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lah"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "ngatelakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lan bakal padha ndherekake"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "sangise dheweke"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "lan aku bakal dimulyakake"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ana ing Par'o"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan ing saindhenging"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "wadyabalane"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ing kereta-keretane"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "lan ing para jaranane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:39.150359550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan kabèh wong Mitzrayim padha nggali sakiwa-tengené kali iku goleh banyu kanggo diombé, awit ora bisa ngombé saka banyu-banyune kali iku.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "padha nggali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mitzrayim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "sakiwa-tengené"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kali iku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "kanggo diombé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ngombé"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "saka banyu-banyune"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kali iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:14.487329596Z",
+  "model": "glm-5.3"
+}

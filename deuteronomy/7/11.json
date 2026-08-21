@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Mulanè kowé kudu ngajagi ⟨את⟩ parentah iku lan ⟨את⟩ sarat-saraté lan ⟨את⟩ kukum-kukumé, sing takdhawuhaké marang kowé ing diné iki, kanggo nglakoni.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "kowé kudu ngajagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentah iku"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "parentah iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sarat-saraté"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sarat-saraté"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kukum-kukumé"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "kukum-kukumé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "takdhawuhaké marang kowé"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing diné iki"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kanggo nglakoni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:36.730007586Z",
+  "model": "glm-5.3"
+}

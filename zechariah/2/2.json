@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan aku ngandika marang malaékat sing ngendika ing aku: Apa iki? Banjur dhèwèké ngandika marang aku: Iki sungu-sungu sing nyingkir ⟨את⟩ Yehuda, ⟨את⟩ Yisraél lan Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaékat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sing ngendika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur dhèwèké ngandika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "sungu-sungu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "nsingkir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:37:33.277761731Z",
+  "model": "glm-5.3"
+}

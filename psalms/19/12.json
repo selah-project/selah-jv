@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Malah abdimu den-wedharake dening iku; ing nglestarekake iku ana ganjaran sing gedhe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Malah"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "den-wedharake"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dening iku"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ing nglestarekake iku"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ganjaran"
+    },
+    {
+      "surface": "רב",
+      "gloss": "gedhe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:09.276834304Z",
+  "model": "glm-5.3"
+}

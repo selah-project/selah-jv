@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lalu ia mlayu menyang Eli lan ngucap: Ingsun ng kowe njaluk aku. Nanging ia ngucap: Aku ora njaluk; bali, sumedya turu. Lalu ia lunga lan sumedya turu.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "lalu ia mlayu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ingsun ng kowe njaluk aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku njaluk"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "sumedya turu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lalu ia lunga"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "lan sumedya turu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:07.489028867Z",
+  "model": "glm-5.3"
+}

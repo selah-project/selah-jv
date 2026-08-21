@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Lan padha ngucap: Yah ora ngerteni, lan Elohime Yaacob ora nggatekake.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngucap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ngerteni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "nggatekake"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaacob"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.019470196Z",
+  "model": "glm-5.3"
+}

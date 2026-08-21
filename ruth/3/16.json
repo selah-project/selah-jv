@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ia teka marang maratuwane, lan ia matur: Sapa kowe, anakku? Lan ia caritakake marang ia ⟨את⟩ kabeh kang ditindakake wong iku marang ia.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "lan ia teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "maratuwane"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lan ia matur"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "lan ia caritakake"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang ia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang ia"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:26.834359483Z",
+  "model": "glm-5.3"
+}

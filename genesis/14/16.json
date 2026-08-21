@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dipundhut bali ⟨את⟩ sakabehing bandha, uga ⟨את⟩ Lot sadulure lan bandhane didadèkake bali, lan uga ⟨את⟩ para wadon lan ⟨את⟩ para wong iku.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lan dipundhut bali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing bandha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "bandha"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulure"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "lan bandhane"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "didadèkake bali"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para wadon"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "para wadon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para wong iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "para wong iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:54.910190860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Awit yèn sira isih ora gelem nglilakake ⟨⟨את⟩⟩ dhéwé, lan isih ngukut ana ing panggonmu —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ora gelem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "nglilakake"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "lan isih ngukut"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ngukut"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ana ing panggonmu —"
+    }
+  ],
+  "timestamp": "2026-08-21T04:44:04.166452958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Pasamuwan dhuwur marang El ana ing congoh-e, lan pedhang runcing rong sisih ana ing tangan-e.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "pasamuwan dhuwur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ing congoh-e"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "lan pedhang"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "runcing rong sisih"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ing tangan-e"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:30.045774294Z",
+  "model": "glm-5.3"
+}

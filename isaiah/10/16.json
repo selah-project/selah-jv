@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Mulane Adonai, Yahweh Tzvaot, bakal ngutus kasuketan ing tengahing sing-lemu-lemuné; lan sangisoré kamulyané ana murub murub, kaya murubing geni.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "bakal ngutus"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "ing sing-lemu-lemuné"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kasuketan"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "lan sangisoré"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "kamulyané"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "murub"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "murub (nomina)"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "kaya murubing"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:22.071782005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Dawid nglamunake ⟨את⟩ panglamunan iki marang Sha-ul lan marang Yehonatan putrane.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "banjur nglamunake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panglamunan iki"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "panglamunan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:02:02.087704333Z",
+  "model": "glm-5.3"
+}

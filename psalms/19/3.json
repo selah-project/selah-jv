@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Dina marang dina wus medharaké pangandikané, lan wengi marang wengi nuduhaké kawruh.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "marang dina"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "wus medharaké"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikané"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan wengi"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "marang wengi"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "nuduhaké"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kawruh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:40.388541096Z",
+  "model": "glm-5.3"
+}

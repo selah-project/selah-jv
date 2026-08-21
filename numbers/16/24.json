@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Aturana marang ⟨the⟩ pasamuan, sang ngendika: Padha medhuna saka sakiwa-tengené padunungané Korach, Datan lan Abiram.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "aturana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "pasamuan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sang ngendika"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "padha medhuna"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "saka sakiwa-tengené"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "padunungané"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "lan Abiram"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:29.074450695Z",
+  "model": "glm-5.3"
+}

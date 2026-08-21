@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 122,
+  "translation": "Sebab ing kono suku-suku padha munggah, suku-sukune Yah, dadi pasaksian kanggo Yisrael, kanggo memuji asmane Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "padha munggah"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-sukune"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "pasaksian"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kanggo Yisrael"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "kanggo memuji"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:55.847123346Z",
+  "model": "glm-5.3"
+}

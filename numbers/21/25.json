@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Yisrael njupuk ⟨את⟩ kabeh kutha-kutha iki, lan Yisrael manggen ing kabeh kutha-kuthane wong Emori, ing Cheshbon lan ing kabeh anak-anak kuthane.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh kutha-kutha iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kutha-kutha iki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing kabeh"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ing Cheshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan ing kabeh"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "anak-anak kuthane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:39.542304409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Aharon ngandika: aja nesu, ndaraku; kowe dhewe weruh ⟨את⟩ wong iki, yèn dheweke kebak ing ala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "emu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ndaraku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe dhewe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong iki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ing ala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:27.022698020Z",
+  "model": "glm-5.3"
+}

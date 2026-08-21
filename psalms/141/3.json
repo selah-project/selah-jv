@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 141,
+  "translation": "Paringana, Yahweh, panjaga ing cangkemku; jagaana lawanging lambeku.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Paringana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "panjaga"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ing cangkemku"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "jagaana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "דל",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lambeku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:56.609686622Z",
+  "model": "glm-5.3"
+}

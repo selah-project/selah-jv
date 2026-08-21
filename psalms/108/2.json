@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 108,
+  "translation": "Precaya ⟨⟨ing⟩⟩ atiku, Elohim; aku bakal nyanyi, ya, aku bakal mazmur, uga kamulyan-ku.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "precaya\/tegak"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku bakal nyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ya, aku bakal mazmur"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyan-ku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:24.960819008Z",
+  "model": "glm-5.3"
+}

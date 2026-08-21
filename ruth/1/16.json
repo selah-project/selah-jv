@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Rut matur: Aja kokudhani aku nganti kari kowe utawa mulih saka mburimu; awit menyang endi kowe lunga, aku uga lunga, lan ing endi kowe nginep, aku uga nginep; umatmu iku umatku, lan elohim-mu iku elohim-ku.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Banjur matur"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "kokudhani"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "nganti kari kowe"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "utawa mulih"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "saka mburimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "endi"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "kowe lunga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku uga lunga"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "lan ing endi"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "kowe nginep"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "aku uga nginep"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "iku umatku"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "lan elohim-mu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "iku elohim-ku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:38.013203928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan padha nanem ⟨את⟩ sanjatané ing griya Ashtarot, lan ⟨את⟩ awaké padha patrap ing cagaking bètènging Beit-Syan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "padha nanem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanjatané"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sanjatané"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ing griya"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "awaké"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "awaké"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "padha patrap"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ing cagaking bètènging"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Syan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:40.222306029Z",
+  "model": "glm-5.3"
+}

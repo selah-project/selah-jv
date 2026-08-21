@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Kebencèn Yahweh marang sing bengkok atiné, lan kasenané marang sing wutuh ing lakuné.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "kebencèn (endah-ingkar)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "sing bengkok"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "lan kasenané"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "sing wutuh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ing lakune"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:22.612163209Z",
+  "model": "glm-5.3"
+}

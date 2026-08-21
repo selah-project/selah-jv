@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Mangkono pangandikane Adonai Yahweh: Aku bakal nglumpuhake ⟨את⟩ ramé-raméné Misrayim ingasta Nebukadretsar ratu Babel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "lan Aku bakal nglumpuhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ramé-raméné Misrayim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ramé-raméné"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ingasta"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-21T01:16:44.061743226Z",
+  "model": "glm-5.3"
+}

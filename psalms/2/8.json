@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Nyuwuna saka Ingsun, lan Ingsun bakal paring bangsa-bangsa dadi warisanmu, lan panguwasanmu nganti wewatesaning bumi.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Nyuwuna"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka Ingsun"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "lan Ingsun bakal paring"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "warisanmu"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "lan panguwasanmu"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "wewatesaning"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:45.088294733Z",
+  "model": "glm-5.3"
+}

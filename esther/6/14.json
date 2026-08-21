@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Dheweke isih ngomong karo Haman, para sida-sidane ratu teka, banjur gegeger ngajak ⟨את⟩ Haman menyaqa banquet sing digawe Ester.",
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "isih"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "karo Haman"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "lan para sida-sidane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "banjur gegeger"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ngajak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyaqa"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "banquet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:09.439689997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "lan ⟨את⟩ wong Arwadi, lan ⟨את⟩ wong Zemari, lan ⟨את⟩ wong Hamati",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Arwadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "wong Arwadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Zemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "wong Zemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "wong Hamati"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:13.313816649Z",
+  "model": "glm-5.3"
+}

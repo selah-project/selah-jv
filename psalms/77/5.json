@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Kowé nyekeli paluwangané mripatku; aku kagugah lan ora bisa ngomong.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "nyekeli"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "paluwangan (kang dijaga)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "aku kagugah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngomong"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:08.112482486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan piyambakipun tindhak ⟨את⟩ kaliyan sadherek-sadherekipun, lan padha rawuh dhateng Yarden, lan padha ngegor kayu-kayu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "piyambakipun tindhak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kaliyan sadherek-sadherekipun"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "padha rawuh"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "dhateng Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "padha ngegor"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:25:04.522835694Z",
+  "model": "glm-5.3"
+}

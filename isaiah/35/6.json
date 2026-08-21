@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Banjur wong pincang bakal mlumpat kaya rusa, lan ilat wong gagu bakal nyanyi; awit banyu mujur ing ara-ara, lan kali-kali ing padang gersang.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "bakal mlumpat"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "kaya rusa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "wong pincang"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "lan bakal nyanyi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilat"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "wong gagu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "mujur"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "lan kali-kali"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ing padang gersang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:44.314834654Z",
+  "model": "glm-5.3"
+}

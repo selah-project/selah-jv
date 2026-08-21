@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan para anak Yisrael dadi ngabdi ⟨את⟩ Eglon ratu Moab wolulas taun.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "dadi ngabdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "wolulas (wolu)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(lan) las"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:00.999038794Z",
+  "model": "glm-5.3"
+}

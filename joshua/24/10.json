@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Nanging Aku ora kepengin ngrungokake Bileam, lan dheweke mari-mari maringi berkah ⟨את⟩ sira, lan Aku nylametake ⟨את⟩ sira saka tangane.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "Aku ora kepengin"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan dheweke maringi berkah"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "mari-mari"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "lan Aku nylametake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "saka tangane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:30.757923934Z",
+  "model": "glm-5.3"
+}

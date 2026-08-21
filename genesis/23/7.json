@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur Avraham jumeneng lan sumengkrem marang wong-wonging bumi, yaiku marang para putra Het.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "jumeneng"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sumengkrem"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "marang wong-wonging"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang para putra"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:40.447223754Z",
+  "model": "glm-5.3"
+}

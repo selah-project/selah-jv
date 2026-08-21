@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lah, siji tangan nyentuh aku, lan nudge aku nganti ing dengkulku lan tapak tanganku.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "nyentuh"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "lan nudge aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nganti ing"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "dengkulku"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "lan tapak"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:00:14.452704433Z",
+  "model": "glm-5.3"
+}

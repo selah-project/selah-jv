@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Banjur Moshe tangi lan tindak menyang Datan lan Aviram, lan para sesepuh Israyel padha lumampah ing sapinsore.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "banjur tangi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan tindak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "lan Aviram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lan padha lumampah"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ing sapinsore"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:35.265571705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan atiné ⟨⟨iku⟩⟩ ora tetep karo-Nge, lan ora setia ing prajanéjané.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "lan atiné"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tetep"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "karo-Nge"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "setia"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "ing prajanéjané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:29.546331275Z",
+  "model": "glm-5.3"
+}

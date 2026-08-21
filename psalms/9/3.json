@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Aku bungah lan aku reremban ing Panjenenganmu; aku mazmurake asmanmu, Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Aku bungah"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "lan aku reremban"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing Panjenenganmu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku mazmurake"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asmanmu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:00.266479708Z",
+  "model": "glm-5.3"
+}

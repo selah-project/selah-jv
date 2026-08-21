@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 35:6",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan saka ⟨את⟩ kutha-kutha kang sira awehake marang wong Lewi: ⟨את⟩ enem kutha perlindungan, kang sira awehake supaya wong mateni bisa ngungsi menyang kana; lan saliyané iku sira awehake patang puluh loro kutha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kutha-kutha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "sira awehake"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "marang wong Lewi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enem kutha perlindungan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enem"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "sira awehake"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "supaya bisa ngungsi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "menyang kana"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "wong mateni"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "lan saliyané iku"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "sira awehake"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patang puluh"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:42.208541145Z",
+  "model": "glm-5.3"
+}

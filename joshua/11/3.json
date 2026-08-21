@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "marang wong Kanaan ing sisih wétan lan ing sisih kulon, lan wong Emori, lan wong Hiti, lan wong Perizi, lan wong Yevusi ing pagunungan, lan wong Hiwi ing sangisore Hermon, ing nagara Mitzpah",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "saka sisih wétan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "lan saka segara (sisih kulon)"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "lan wong Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "lan wong Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "lan wong Perizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "lan wong Yevusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing pagunungan"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "lan wong Hiwi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing nagara"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:59.413184754Z",
+  "model": "glm-5.3"
+}

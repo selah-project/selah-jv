@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Elohim Tsabaot, baliya, kula nyuwun; mandengana saka ing langit lan delengena, lan neliksikana sulur iki.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "baliya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kula nyuwun"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "mandengana"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "saka ing langit"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "lan delengena"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "lan neliksikana"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "sulur"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:09.083787092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Sebab wigatiné marang Yahweh Elohimmu saben sing nindakake kelakuan iki, saben sing nindakake kaluputan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "wigatiné (kang njijikake)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sing nindakake"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kelakuan iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sing nindakake"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kaluputan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:01.294506813Z",
+  "model": "glm-5.3"
+}

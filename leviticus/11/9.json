@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "⟨את⟩ iki sira mangan saka saben sing ana ing banyu: saben sing duwe sirip lan sisik ing banyu, ing segara-segara lan ing kali-kali, ⟨אתם⟩ iku padha sira mangan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sira mangan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka saben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duwe"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "sirip"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "lan sisik"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ing segara-segara"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "lan ing kali-kali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "iku padha sira mangan"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "padha sira mangan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:10.958282618Z",
+  "model": "glm-5.3"
+}

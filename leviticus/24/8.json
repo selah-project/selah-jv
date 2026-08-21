@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Ing dina Sabat, ing dina Sabat, diaturaké iku sangarepe Yahweh, kawitan saka ⟨את⟩ para putra Israel, prajanji langgeng.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat iku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat iku"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "diaturaké iku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sangarepe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kawitan terus"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "para putra Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanji"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "langgeng"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:26.622430716Z",
+  "model": "glm-5.3"
+}

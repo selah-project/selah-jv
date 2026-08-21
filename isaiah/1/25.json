@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Aku bakal mbalikake tanganku marang sira, lan nyaringi kaya ⟨ing⟩ bèrèsi kotoranmu, lan nyirnakake sakabèhé timahmu.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "lan Aku bakal mbalikake"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "lan nyaringi (ngetokake ilat)"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kaya bèrèsi (ndhedhet nganggo bóraks)"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "kotoranmu"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "lan nyirnakake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "timahmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:20.630673165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan kadadéan saka cahyaning cidrané, dhèwèké ngerèsa ⟨את⟩ bumi lan miyarani ⟨את⟩ watu lan ⟨את⟩ kayu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "saka cahyaning"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "cidrané"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ngerèsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "miyarani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "watu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kayu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kayu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:15.789189596Z",
+  "model": "glm-5.3"
+}

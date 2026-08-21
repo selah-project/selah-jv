@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan lawang-lawang ing dalan katutup, nalika swarané panggiling dadi asor, lan wong tangi ing swara manuk, lan sakabèhé para putri tembang dadi asor.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "lan katutup"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "lawang-lawang"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "nalika dadi asor"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swarané"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "panggiling"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "lan tangi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ing swara"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "lan dadi asor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "para putri"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "tembang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:54.717762549Z",
+  "model": "glm-5.3"
+}

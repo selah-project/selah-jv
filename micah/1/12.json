@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sebab sing ndunungi Maroth ngenteni kabecikan, sebab ala wis mudhun saka ⟨את⟩ Yahweh tekan gapura Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ngenteni"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "sing ndunungi"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maroth"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wis mudhun"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "tekan gapura"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:17.942572713Z",
+  "model": "glm-5.3"
+}

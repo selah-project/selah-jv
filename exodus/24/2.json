@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Moshe waé sing arep cedhak marang Yahweh; nanging dhèwèké ora oleh cedhak, lan ⟨⟉ oro wong akèh⟩⟩ ora oleh munggah karo dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "lan arep cedhak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "waé dhewe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "lan dhèwèké"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "oleh cedhak"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "lan wong akèhé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "oleh munggah"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "karo dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:14.487294377Z",
+  "model": "glm-5.3"
+}

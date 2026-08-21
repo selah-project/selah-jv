@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Yahweh ngandika marang Moshe: Atine Paroh abot, dheweke nulak nglepasake bangsa iku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "abot"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nulak"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "nglepasake"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:09.375912399Z",
+  "model": "glm-5.3"
+}

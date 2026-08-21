@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Saiki kesah, tulisa ing prasasti karo ⟨את⟩ wong-wong mau, lan ukirana ing kitab, supaya dadi kaseksèn kanggo dina tembèn, salawasé nganti salamlamane.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kesah"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "tulisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "prasasti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "karo wong-wong mau"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan-ing"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "ukirana"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "supaya-dadi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kanggo-dina"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "tembèn"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamlamane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:34.913552618Z",
+  "model": "glm-5.3"
+}

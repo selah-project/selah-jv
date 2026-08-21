@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan peti ⟨את⟩-arané Elohim kacekel, lan anak-anaké Eli loro padha mati, Khopni lan Pinhas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "lan peti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "kacekel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "padha mati"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Khopni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "lan Pinhas"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:09.245512629Z",
+  "model": "glm-5.3"
+}

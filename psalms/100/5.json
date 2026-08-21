@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 100,
+  "translation": "Sebab Yahweh ⟨is⟩ becik, ing salami-salamine ∼ welas asih ∼ karso-N▒ tumut ing te▒-te▒ sawawah-wawah, lan ing kawit kawasahe tumut tumrap para ratu ing bumi, ing saben-sabene pasamuwan-jagad ∼ karso-N▒ tumrap ing saben arah-papat, tumut ing ∼ pasamuwan-jagad ∼ miwah ∼ peputren ∼ karso-N▒ ∼ ing sandhing ∼ peputren ∼ ∼ karso-N▒ ∼ ing kono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ing salami-salamine"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "welas asih-E"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "דר",
+      "gloss": "saturunan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan saturunan"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "kadhetulan-E"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:28.072809959Z",
+  "model": "glm-5.3"
+}

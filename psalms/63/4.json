@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Sebab sih-kesetiaan-Mu luwih becik tinimbang urip, bibir-ku bakal memuji Kowé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sih-kesetiaan-Mu"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "tinimbang urip"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bibir-ku"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "bakal memuji Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:02.301298871Z",
+  "model": "glm-5.3"
+}

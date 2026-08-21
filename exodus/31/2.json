@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Nduwenana, Aku wus jumenengake jeneng: Betzalel, putrane Uri, putrane Hur, saka suku Yehuda;",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "nduwenana (sira)"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Aku wus jumenengake"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betzalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "saka suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:50.489466151Z",
+  "model": "glm-5.3"
+}

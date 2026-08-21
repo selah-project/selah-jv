@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "⟨את⟩ pathok-pathokane palenggahan lan ⟨את⟩ pathok-pathokane tarub, sarta ⟨את⟩ tali-taline",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pathok-pathokane palenggahan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pathok-pathokane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "palenggahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pathok-pathokane tarub"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "pathok-pathokane"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tarub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "tali-taline"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "tali-taline"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:16.437502842Z",
+  "model": "glm-5.3"
+}

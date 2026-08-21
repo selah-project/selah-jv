@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Déné sira, tangia, mulia menyang omahmu; nalika sukumu lumebu ing kutha, bocah iku bakal mati.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Déné sira"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "tangia"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mulia"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "menyang omahmu"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "nalika lumebu"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "sukumu"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bakal mati"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:41.928800932Z",
+  "model": "glm-5.3"
+}

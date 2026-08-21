@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Kanggo pangrawit. Tembang, mazmur. Munjuk nguwuh marang Elohim, saindhenging bumi!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangrawit"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mnujuk nguwuh"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:00.045088630Z",
+  "model": "glm-5.3"
+}

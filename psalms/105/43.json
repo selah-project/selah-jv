@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Banjur ditokaké ⟨את⟩ umate kanthi bungah, kapilihe kanthi srunean.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ditokaké"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "kanthi bungah"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "kanthi srunean"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapilihe"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "kapilihe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:17.143821314Z",
+  "model": "glm-5.3"
+}

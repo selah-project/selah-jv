@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 130,
+  "translation": "Aku ngenteni Yahweh, jiwaniku ngenteni, lan marang sabdane aku ngenteni kelangan.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "aku ngenteni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "ngenteni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaniku"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "lan marang sabdane"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "aku ngenteni kelangan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:09.273540919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan isih kari bocah wadon Tsiyon, kala pager ing kebun anggur, kala pondhok ing kebun timun, kala kutha sing dikepung.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "lan isih kari"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bocah wadon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "kala pager"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "ing kebun anggur"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "kala pondhok"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "ing kebun timun"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "kala kutha"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "sing dikepung"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:59.767688874Z",
+  "model": "glm-5.3"
+}

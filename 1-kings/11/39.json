@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan dakwenehi papa ⟨את⟩ turune Dawid amarga saka iki, nanging dudu ing sedasa dinane.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "lan dakwenehi papa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turune Dawid"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turune"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedasa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dinane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:12.575033909Z",
+  "model": "glm-5.3"
+}

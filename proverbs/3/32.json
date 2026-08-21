@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Saben sing béngkong ⟨iku⟩ sigraaning Yahweh, nanging ⟨את⟩ wong jujur oleh sesorah rahasia-Né.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "saben"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "sigraaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "sing béngkong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nanging ⟨את⟩",
+      "marks": "wong jujur"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sesorah rahasia-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:17.886896180Z",
+  "model": "glm-5.3"
+}

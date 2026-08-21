@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 87,
+  "translation": "Aku ngelingake Rahab lan Babil ing ngarsane para sing weruh Aku; nyatané Palèstina lan Tsor karo Kush: iki wong lair ing kono.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "aku ngelingake"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "lan Babil"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "ing ngarsane para sing weruh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nyatané"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Palèstina"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "lan Tsor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lair"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:06.588255417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Sakabehing karsané Yahweh wis dilakoni ing langit lan ing bumi, ing segara-segara lan ing saketheaning sagara jero.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "karsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wis dilakoni"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "lan ing bumi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ing segara-segara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan ing saketheaning"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "sagara jero"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:35.343006126Z",
+  "model": "glm-5.3"
+}

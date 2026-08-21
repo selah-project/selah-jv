@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sebab saiki bakal padha ngucap: Ora ana ratu tumrap aku, jalaran aku ora bekti marang ⟨את⟩ Yahweh; nanging ratu, apa bisa nindakaké apa tumrap aku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakal padha ngucap"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "لנو",
+      "gloss": "tumrap aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "bekti (wedi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "nanging ratu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bisa nindakaké"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tumrap aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:20.821295568Z",
+  "model": "glm-5.3"
+}

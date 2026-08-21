@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Munga munggaha marang aku, lan ajuana aku, supaya awakula padha nglabrak ⟨את⟩ Gibeon, awit iku wis ndamai karo ⟨את⟩ Yehosua lan ⟨את⟩ para putra Israel.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "munga munggaha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "lan ajuana aku"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "supaya awakula padha nglabrak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "wis ndamai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehosua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para putra Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:04.477316017Z",
+  "model": "glm-5.3"
+}

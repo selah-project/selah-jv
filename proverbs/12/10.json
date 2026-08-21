@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Wong jujur angenani nyawane kewan-kewane, nanging welas asih wong-wong jahat iku kejem.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "angenani"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "kewan-kewane"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "nanging welas asih"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong jahat"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "kejem"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:24.367436486Z",
+  "model": "glm-5.3"
+}

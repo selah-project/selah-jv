@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Elohim, kowe wis ngerti kabodoanéku, lan kaluputanku saka ing Kowé ora kasingidan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wis ngerti"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "kabodoanéku"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "lan kaluputanku"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka ing Kowé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "kasingidan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:55.840444869Z",
+  "model": "glm-5.3"
+}

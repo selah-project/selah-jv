@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Aku bakal nyerang ⟨את⟩ padunung kutha iki, ⟨את⟩ para manungsa lan ⟨את⟩ kewan-kewan; ing pageblug agung dhèwèké bakal padha mati.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "lan Aku bakal nyerang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padunung kutha iki"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "padunung"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "para manungsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kewan-kewan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kewan-kewan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ing pageblug"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bakal padha mati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:56:02.717206289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Padha wedi marang Kowé suwéné srengéngé, lan ing ngarsané rembulan, angkatan tumurun-temurun.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "padha wedi marang Kowé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "suwéné \/ bebarengan karo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "lan ing ngarsané"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "rembulan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "angkatan"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "turun-temurun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:43.531312364Z",
+  "model": "glm-5.3"
+}

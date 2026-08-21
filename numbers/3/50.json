@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Saka ⟨את⟩ para sulih bani IsraEL dijupuk ⟨את⟩ dhuwit: lima lan enem pulu lan telung atus saka ewu, ing shekel suci",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ saka"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "para sulih"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "IsraEL"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhuwit"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "dhuwit"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "lan enem pulu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "lan telu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "saka ewu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ing shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:44.436836121Z",
+  "model": "glm-5.3"
+}

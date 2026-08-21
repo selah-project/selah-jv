@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sebab arep isin ⟨saka⟩ wit-wit elam sing kok karepake, lan arep semu semu ⟨saka⟩ kebon-kebon sing kok pilih.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "arep isin"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "wit-wit elam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "kok karepake"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "lan arep semu semu"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "kebon-kebon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "kok pilih"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:13.874286104Z",
+  "model": "glm-5.3"
+}

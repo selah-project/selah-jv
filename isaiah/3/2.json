@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Prajurit lan wong Paperangan, Sang Ngemis Mitraturut prajurit lan wong paperangan, hakim lan nabi, juru tenung lan sesepuh.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "prajurit teguh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan wong"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "paperangan"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "lan nabi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "lan juru tenung"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "lan sesepuh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:18.398373478Z",
+  "model": "glm-5.3"
+}

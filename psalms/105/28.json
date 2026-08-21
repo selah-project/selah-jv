@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Dheweke ngirimi pepeteng, banjur peteng banget, lan wong-wong mau ora nglawan ⟨את⟩ tembung-E.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ngirimi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pepeteng"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "banjur peteng banget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-E"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "tembung-E"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:30.950472005Z",
+  "model": "glm-5.3"
+}

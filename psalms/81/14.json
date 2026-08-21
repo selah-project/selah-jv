@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Yèn baé umat-Ku padha ngrungokake Aku, Yisrael ing dalan-Ku bakal lumaku!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Yèn baé"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ing dalan-Ku"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "bakal lumaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:17.705880435Z",
+  "model": "glm-5.3"
+}

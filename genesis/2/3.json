@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Elohim ngunèkake berkah marang ⟨את⟩ dina kaping pitu, lan ngukuhake dadi suci ⟨את⟩ iku, awit ing sajroning iku Panjenengané mandeg saka sakèhé panggawéyané sing dititahaké Elohim kanggo digawé.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ngunèkake berkah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dina kaping pitu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kaping pitu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ngukuhake dadi suci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iku",
+      "marks": "dina kaping pitu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing sajroning iku"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mandeg"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka sakèhé"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "panggawéyané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "dititahaké"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo digawé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:48:49.871521462Z",
+  "model": "glm-5.3"
+}

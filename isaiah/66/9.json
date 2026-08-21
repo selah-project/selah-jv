@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Apa Aku njalari nglahirake lan ora ngalahirake? pangandikane Yahweh; apa Aku sing njalari lair lan nahan? pangandikane Elohim-mu.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "apa Aku"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "njalari nglahirake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "ngalahirake"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "sing njalari lair"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "lan nahan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:20.560658397Z",
+  "model": "glm-5.3"
+}

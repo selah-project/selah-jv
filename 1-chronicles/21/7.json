@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan dados ala ing paningalé Elohim bab ⟨the⟩ dhawuh punika, lan Panjenengané nuthuk ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "lan-dados ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bab"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "dhawuh"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "punika"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lan-nuthuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T03:26:03.609060540Z",
+  "model": "glm-5.3"
+}

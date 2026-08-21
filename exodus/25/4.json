@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Langit-langit biru, lan wungu, lan ulatbunga abang, lan linen alus, lan rambute kambing.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "biru langit-langit"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "wungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ulatbunga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abang"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "linen alus"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "kambing"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:03.917564821Z",
+  "model": "glm-5.3"
+}

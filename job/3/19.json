@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Cilik lan gedhé padha ana ing kono, lan abdi bébas saka bendarané.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "cilik"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "lan gedhé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "padha ana"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "lan abdi"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "bébas"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "saka bendarané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:31.758341650Z",
+  "model": "glm-5.3"
+}

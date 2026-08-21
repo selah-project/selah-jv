@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sebab apa kaduwéné wong wicara luwih saka wong bodho? Apa kaduwéné wong miskin sing weruh mlaku ing ngarsané wong urip?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "luwih"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "kaduwéné wong wicara"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "wong bodho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kaduwéné wong miskin"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sing weruh"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "mlaku"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wong urip"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:58.588052501Z",
+  "model": "glm-5.3"
+}

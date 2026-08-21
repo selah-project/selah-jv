@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 14:3",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan para priyayine padha ngutus para enome menyang banyu; padha teka ing sumuran, ora nemu banyu; padha bali karo jurrene kosong; padha isin lan padha cilaka, lan padha nutupi sirah-sirahe.",
+  "tokens": [
+    {
+      "surface": "ואדריהם",
+      "gloss": "lan para priyayine"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "padha ngutus"
+    },
+    {
+      "surface": "צעוריהם",
+      "gloss": "para enome"
+    },
+    {
+      "surface": "למים",
+      "gloss": "menyang banyu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "sumuran-sumuran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "padha nemu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "padha bali"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "jurrene"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "padha isin"
+    },
+    {
+      "surface": "והכלמו",
+      "gloss": "lan padha cilaka"
+    },
+    {
+      "surface": "וחפו",
+      "gloss": "lan padha nutupi"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "sirah-sirahe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:53:50.258756167Z",
+  "model": "glm-5.3"
+}

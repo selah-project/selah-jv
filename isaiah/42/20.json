@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Ndeleng samubarang kae akeh, nanging ora anjaga; kuping dijembarake, nanging ora ngrungok.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "anjaga"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "dijembarake"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngrungok"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:59.742444684Z",
+  "model": "glm-5.3"
+}

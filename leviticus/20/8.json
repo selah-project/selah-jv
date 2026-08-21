@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan padha nggatèkake ⟨את⟩ kaadhang-kaadhang-Ku, sarta padha nindakake ⟨את⟩ iku kabeh — Aku iki Yahweh, Kang nyucènaké kowé.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "padha nggatèkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaadhang-kaadhang-Ku"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "kaadhang-kaadhang-Ku"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "sarta padha nindakake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iku kabeh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Kang nyucènaké kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:09.246189974Z",
+  "model": "glm-5.3"
+}

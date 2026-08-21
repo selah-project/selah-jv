@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Banjur padha percaya ing tembung-tembunge, padha ngyanyekake memujie",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "padha percaya"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "ing tembung-tembunge"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "padha ngyanyekake"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "memujie"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:27.028947217Z",
+  "model": "glm-5.3"
+}

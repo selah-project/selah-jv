@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Yehosyua tangi enggal ing esuk, lan mriksa ⟨את⟩ bangsa iku; lan munggah dheweke para sesepuhe Israël ing ngarepe bangsa iku, menyang Ay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "lan tangi enggal"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "lan mriksa (ngétung)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhewe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "para sesepuhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:04.167244822Z",
+  "model": "glm-5.3"
+}

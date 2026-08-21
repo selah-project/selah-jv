@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Nanging kowé ora gelem munggah, lan kowé padha mbalela marang ⟨את⟩ pocaping Yahweh Elohimmu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "kowé gelem"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "kowé padha mbalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pocaping"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pocaping"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:02.946811928Z",
+  "model": "glm-5.3"
+}

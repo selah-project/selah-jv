@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Sebab astané Yahweh bakal anggoné sumèpi ing redi iki, lan Moab bakal kainjak-inginjak sangisoré, kaya damen kainjak-inginjak ing papan sampah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "bakal anggoné sumèpi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "asta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "וינדוש",
+      "gloss": "lan kainjak-inginjak",
+      "marks": ""
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "lan kainjak-inginjak"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sangisoré-Pane"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "kaya kainjak-inginjak"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "damen"
+    },
+    {
+      "surface": "במי",
+      "gloss": "ing papan"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "sampah (Madmenah)"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:35.005641318Z",
+  "model": "glm-5.3"
+}

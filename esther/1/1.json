@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Dadi ing jamané Achashverosh — iku Achashverosh sing jumeneng ratu saka Hodu nganti Kush, pitu lan rong puluh lan satus laladan —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dadi kadadéyan"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ing jamané"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sing jumeneng ratu"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "saka Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "lan rong puluh"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "lan satus"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "laladan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:51:49.520310405Z",
+  "model": "glm-5.3"
+}

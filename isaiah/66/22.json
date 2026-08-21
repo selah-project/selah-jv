@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 66:22",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Sebab kaya ⟨the⟩ langit anyar lan ⟨the⟩ bumi anyar sing Aku nggawe iku ngadeg ing ngarsa-Ku, cumpane Yahweh, mangkono uga wurune kowe lan asmane kowe bakal ngadeg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "החדשים",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "lan bumi"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nggawe"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "cumpane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono uga"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "wurune kowe"
+    },
+    {
+      "surface": "ושמכם",
+      "gloss": "lan asmane kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:30.464829985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Lan manungsa ing kamulyan ora bakal langgeng; ⟨ia⟩ dipadhakake karo kewan-kewan — padha tinamus.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Lan manungsa"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ing kamulyan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora bakal"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "langgeng"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "dipadhakake"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "karo kewan-kewan"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "padha tinamus"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:46.141347881Z",
+  "model": "glm-5.3"
+}

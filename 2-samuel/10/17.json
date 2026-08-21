@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan wis kawartakake marang Dawud, banjur ia ngempalake ⟨את⟩ sakabehane Yisrael, sarta ngliwati ⟨את⟩ Kali Yarden lan tekan ing Helam. Lan Aram andhap-andhapi barisane ngadhepi Dawud, banjur perang nglawan ⟨ia⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "lan wis kawartakake"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawud"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "banjur ia ngempalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehane Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "sarta ngliwati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kali Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Kali Yarden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan tekan ing"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "Helam"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "banjur andhap-andhapi barisane"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ngadhepi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "banjur perang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nglawan ⟨ia⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:17.428207043Z",
+  "model": "glm-5.3"
+}

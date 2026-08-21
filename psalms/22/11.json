@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Marang Paduka aku dibuwang saka weteng, saka guwa garba ibuku; El-ku Paduka ⟨iku⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Marang Paduka"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "aku dibuwang"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "saka weteng"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "saka guwa garba"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Paduka ⟨iku⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:32.222401543Z",
+  "model": "glm-5.3"
+}

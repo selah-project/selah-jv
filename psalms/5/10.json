@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Sebab ing cangkeme dheweke ora ana sing teteg; jeroane dheweke⟨⟩ bebaya; kuburan sing mbukak panggorokane dheweke; ilate dheweke ngalus-ilusake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "ing cangkeme dheweke"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "sing teteg"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "jeroane dheweke"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bebaya"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kuburan"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "sing mbukak"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "panggorokane dheweke"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilate dheweke"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "ngalus-ilusake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:57.391948853Z",
+  "model": "glm-5.3"
+}

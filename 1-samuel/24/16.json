@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan dadi Yahweh ⟨⟨dadi⟩⟩ hakim, lan ngadili antarane aku lan kowe, lan ndeleng lan mbela ⟨את⟩ perkaraku, lan ngluwari aku saka tanganmu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan-dadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "lan-ngadili"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antarane-aku"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "lan-antarane-kowe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan-ndeleng"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "lan-mbela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkaraku"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "perkaraku"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "lan-ngluwari-aku"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "saka-tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:42.929290950Z",
+  "model": "glm-5.3"
+}

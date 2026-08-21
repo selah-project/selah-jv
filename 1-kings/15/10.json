@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan patang puluh sataun panjenengane jumeneng ana ing Yerushalayim; lan asma ibune Maakha, putrane Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "lan patang puluh"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "sataun"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jumeneng"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ana ing Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lan asma"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:59.561909021Z",
+  "model": "glm-5.3"
+}

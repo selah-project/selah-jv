@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Paduka nggoyahake ⟨the⟩ bumi, Paduka ngebelah ⟨dhcpun⟩; mariaken retakanipun, awit ⟨dhcpun⟩ sampun goyang.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Paduka nggoyahake"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "Paduka ngebelah"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "mariakena"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "retakanipun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sampun goyang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:48.112309925Z",
+  "model": "glm-5.3"
+}

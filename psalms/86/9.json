@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Sedaya bangsa sing Kowe titahake bakal teka lan sumujud ing ngarsan-Mu, Adonai, lan migunakake asma-Mu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Kowe titahake"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "lan sumujud"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsan-Mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "lan migunakake"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "asma-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:48.378120087Z",
+  "model": "glm-5.3"
+}

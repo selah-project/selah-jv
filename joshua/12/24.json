@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "ratu ⟨ing⟩ Tirtsah siji — kabeh ratu iku telung puluh ⟨lan⟩ siji.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tirtsah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telung puluh"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "lan siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:21.434467145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan dheweke menehi ⟨את⟩ panganan éca lan ⟨את⟩ roti sing digawé marang ing astane Yaakov, anaké.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "lan dheweke menehi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panganan éca"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "panganan éca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "digawé"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing astane"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "anaké"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:19.272771871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Sebab supene teka amarga akethe cacahing reribet, lan swarane bodho ing akethe tembung.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "supene"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "amarga akethe"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "reribet"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "lan swarane"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "bodho"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ing akethe"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "tembung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:53.403171317Z",
+  "model": "glm-5.3"
+}

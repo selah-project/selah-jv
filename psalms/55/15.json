@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Sing barêng-barêng ngamanisake pawartas rahasia, ing sajroning bethel Elohim padha lumaku karo rerungokadhang.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "barêng-barêng"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "ngamanisake"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "pawartas rahasia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing sajroning bethel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim",
+      "marks": "bethel Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "padha lumaku"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "karo rerungokadhang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:04.244008088Z",
+  "model": "glm-5.3"
+}

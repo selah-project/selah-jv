@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan nrapike ⟨את⟩ tangane ing dhuwur sirahé kurbané, lan menyembelih ⟨את⟩ ing ngarsane kemah pasamuwan, lan putra-putrane Aharon ngecor ⟨את⟩ getihé ing mesbe, ngubengi.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "nrapike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbané"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "lan menyembelih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(kurban iku) ing ngarsane kemah pasamuwan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "lan ngecor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putrane"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihé"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihé"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mesbe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:34.455817606Z",
+  "model": "glm-5.3"
+}

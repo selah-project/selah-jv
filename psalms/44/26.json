@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Awit jiwané kita sampe tinarub ing lebu, wetengé kita nemplek ing bumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "sampe tinarub"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ing lebu"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "jiwané kita"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ntemplek"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "wetengé kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:20.540579233Z",
+  "model": "glm-5.3"
+}

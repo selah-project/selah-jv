@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan wong-wonge nindakake mangkono, lan njupuk rong sapi sing lagi nyusoni, lan ngiketake ing gerobak, lan ⟨את⟩ anake padha ngurung ing omah.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong-wonge"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "rong"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "sing lagi nyusoni"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "lan ngiketake"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ing gerobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anake"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "anake"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "padha ngurung"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing omah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:02.108961535Z",
+  "model": "glm-5.3"
+}

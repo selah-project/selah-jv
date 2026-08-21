@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Shiggaion kanggo Daud, sing dilagokake marang Yahweh, bab-ing tembung-tembungé Kush, anaké Wong Benyamin.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shiggaion"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Daud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שר",
+      "gloss": "dilagokake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "bab-ing"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembungé"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Wong Benyamin"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:17.307367267Z",
+  "model": "glm-5.3"
+}

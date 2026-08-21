@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lagipun mirsani ing kene lan ing kana, lan weruh yen ora ana wong, banjur nyepak ⟨את⟩ wong Mesir iku lan ndhelikake ing pasir.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "lagipun mirsani"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ing kene"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "lan ing kana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "banjur nyepak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Mesir iku"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "wong Mesir iku"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "lan ndhelikake dheweke"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "ing pasir"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:39.129769979Z",
+  "model": "glm-5.3"
+}

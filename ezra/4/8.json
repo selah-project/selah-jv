@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 4:8",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Rehum sing nguwasani tata-titi, lan Sjimsjay juru tulis, padha nulis satunggal surat nglawan Yerushalayim marang Artachshashta sang ratu, kados makaten.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Rehum"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sing nguwasani"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "tata-titi"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "lan Sjimsjay"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "juru tulis"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "padha nulis"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "surat"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "satunggal"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לארתחששתא",
+      "gloss": "marang Artachshashta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "kados makaten"
+    }
+  ],
+  "timestamp": "2026-08-21T03:05:19.919004598Z",
+  "model": "glm-5.3"
+}

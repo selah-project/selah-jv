@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Bakal mlaku manut Yahweh; kaya singa ⟨Dhèwèké⟩ bakal ngongok, sebab Dadine ngongok, lan anak-anak bakal gumirisa teka saka sagara ⟨saka kulon⟩.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "manut-saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bakal-mlaku"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "kaya-singa"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "bakal-ngongok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dhèwèké"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ngongok"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "lan-bakal-gumirisa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "saka-sagara(kulon)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:06.135107722Z",
+  "model": "glm-5.3"
+}

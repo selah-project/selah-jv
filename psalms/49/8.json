@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Sadulur ⟨⟨ora bisa⟩⟩ tinimbang ditebus; ⟨⟨ora⟩⟩ bisa menawa wong nglunasi, ora bisa menehi marang Elohim pamurine",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "sadulur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "bisa nglunasi"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "tinimbang ditebus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bisa menehi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "pamurine"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:02.166531397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Banjur bareng ratu krungu ⟨את⟩ pangandikaning Torèt, dhèwèké nyirati ⟨את⟩ sandhangané.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur bareng"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangandikaning Torèt"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangandikaning"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torèt"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "nyirati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangané"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    }
+  ],
+  "timestamp": "2026-08-21T03:46:53.410007101Z",
+  "model": "glm-5.3"
+}

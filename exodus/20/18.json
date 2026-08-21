@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan kabèh wong iku ndeleng ⟨את⟩ swara-swara iku lan ⟨את⟩ obor-obor iku lan ⟨את⟩ swara sangkala iku lan ⟨את⟩ gunung sing ngukus iku; banjur wong iku padha ndeleng lan padha getun lan padha ngadeg adoh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Lan kabèh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swara-swara iku"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "swara-swara iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "obor-obor iku"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "obor-obor iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "swara sangkala iku"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sangkala iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "gunung iku"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung iku"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "sing ngukus"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "banjur ndeleng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "lan padha getun"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "lan padha ngadeg"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "adoh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:49.643980202Z",
+  "model": "glm-5.3"
+}

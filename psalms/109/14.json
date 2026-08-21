@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Mugi kasalahane leluhure kaelingake ing ngarsane Yahweh, lan dosane ibune aja kalenyee.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "mugi kaelingake"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasalahan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "leluhure"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "lan dosane"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "kalenyee"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:00.338491185Z",
+  "model": "glm-5.3"
+}

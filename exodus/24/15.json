@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Moshe munggah menyang gunung kuwi, banjur awan-awan iku nutupi ⟨את⟩ gunung kuwi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung kuwi"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "nutupi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awan-awan iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung kuwi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung kuwi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:29.867175657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Aku iki Yahweh, Elohim-Mu, sing ngunggahake kowé saka tlatah Mitzrayim; ambakna cangkemmu, lan bakal Sungetoki —",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-Mu"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "sing ngunggahake kowé"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka tlatah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "ambakna"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "cangkemmu"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "lan bakal Sungetoki (Sungebaki)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:42.275356737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Banjur Bilam tangi ing esuk, lan njapalake ⟨את⟩ kaldhewene, lan lunga karo para panggedhe Moab.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "banjur tangi"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "lan njapalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaldhewene"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "kaldhewene"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan lunga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:18.424571990Z",
+  "model": "glm-5.3"
+}

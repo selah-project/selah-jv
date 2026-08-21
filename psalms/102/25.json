@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Aku ngucap: El kawula, aja njupuk aku ing satengahing dina-dinaku; ing padha-padha anggeré taun-taunmu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aku ngucap"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El kawula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "njupuk aku munggah"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ing satengahing"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dina-dinaku"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ing padha"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "padha-padha angger"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "taun-taunmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:34.676413085Z",
+  "model": "glm-5.3"
+}

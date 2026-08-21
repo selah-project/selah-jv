@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Lan kowe ngandika marang para abdimu: Yén sadhérékmur sing enom ora mudun karo ⟨את⟩ kowé, kowé bakal ora bisa ndeleng maneh ⟨את⟩ rainé aku.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lan kowe ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "para abdimu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yén"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "mudun"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sadhérékmur"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "sing enom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ karo kowé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "bakal bisa maneh"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rainé aku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:39.154260317Z",
+  "model": "glm-5.3"
+}

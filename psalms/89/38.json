@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Kaya rembulan ⟨bakal⟩ didhegaké salamané, lan saksi ing langit kang satia. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "kaya rembulan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "didhegaké"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salamané"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan saksi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "satia"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:34.518995233Z",
+  "model": "glm-5.3"
+}

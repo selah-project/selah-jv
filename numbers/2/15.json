@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "lan balahe, lan kang dinungang ⟨⟨is⟩⟩ limang puluh papat ewu lan enem atus limang puluh.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "lan balahe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "lan kang dinungang"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limang"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "puluh papat"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan enem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "limang puluh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:47.059164059Z",
+  "model": "glm-5.3"
+}

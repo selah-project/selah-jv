@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan dadi perkara iki dadi dosa, lan wong-wonge padha mangkat mlayu ing ngarsane siji-sijine, nganti tekan Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "dadi dosa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "padha mangkat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wonge"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji-sijine"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:03.981540396Z",
+  "model": "glm-5.3"
+}

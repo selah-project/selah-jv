@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Wadon enom iku ayu banget, lan dadi pangopene sang raja sarta padha ngladeni awake; nanging sang raja ora anganggep awake saka cipratan.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "wadon enom iku"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ayu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "banget tekan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "satemah"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kanggo sang raja"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "pangopene"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "sarta padha ngladeni awake"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "nanging sang raja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "anganggep awake saka cipratan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:54.071384433Z",
+  "model": "glm-5.3"
+}

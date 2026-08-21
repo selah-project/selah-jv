@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan kowe bakal dadi para wong kudus marang Aku; daging kéwan kasar ing padesan aja kok madhang; marang asu kok buwang ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Lan para wong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kudus"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "kowe bakal dadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "Lan daging"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing padesan"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "kéwan kasar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kok madhang"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "marang asu"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "kok buwang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (daging kéwan kasar)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:30.073550467Z",
+  "model": "glm-5.3"
+}

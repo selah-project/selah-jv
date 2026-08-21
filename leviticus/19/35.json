@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Aja kok nindakake kaluputan ing pangadilan, ing ukuran dawa, ing timbangan, lan ing ukuran gandum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kok nindakake"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ing pangadilan"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ing ukuran dawa"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ing timbangan"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "lan ing ukuran gandum"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:04.812435274Z",
+  "model": "glm-5.3"
+}

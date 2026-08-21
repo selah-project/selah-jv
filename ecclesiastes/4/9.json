@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Loro iku luwih becik katimbang siji, awit duwé ganjaran becik ing pakaryané.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "katimbang"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יש",
+      "gloss": "duwé"
+    },
+    {
+      "surface": "להם",
+      "gloss": "-é"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ganjaran"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ing pakaryané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:16.572878349Z",
+  "model": "glm-5.3"
+}

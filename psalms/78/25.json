@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Rotiné para kang maha-kuwat wong mangan; panganan dikirimaké marang ⟨wong-wong mau⟩ nganti wareg.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "rotiné"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "para kang maha-kuwat"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "panganan"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "dikirimaké"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang ⟨wong-wong mau⟩"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "nganti wareg"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:59.455467336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Ngendikaa marang wong-wonge Israel, mangkene: Sawijining wong wadon manawa ngandomi lan nglairake lanang, dhèwèké ora suci pitung dina, kaya dene dina-dinane pangucilan saka larané, kaya mangkono ora suciné.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Ngendikaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wong-wonge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wadon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "ngandomi"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "lan nglairake"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "ora suci"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kaya dene dina-dinane"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "pangucilan"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "larané"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "ora suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:04.017228057Z",
+  "model": "glm-5.3"
+}

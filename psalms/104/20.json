@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Kowé ngetrepake peteng, lan dadi wengi; ing kono kabeh sato alas nyusup nglaju.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "ngetrepake"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "peteng"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "nyusup nglaju"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "sato"
+    },
+    {
+      "surface": "יער",
+      "gloss": "alas"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:53.904990211Z",
+  "model": "glm-5.3"
+}

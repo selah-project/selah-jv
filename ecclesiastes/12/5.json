@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Uga saka sing dhuwur ⟨padha⟩ wedi, lan greget-greget ing dalan, lan wit badham ngembah, lan walang dadi abot, lan woh kaper padha tinggal; awit manungsa lumaku menyang omah kalanggengané, lan para tangis padha muter-muter ing pasaran.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "saka sing dhuwur"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "lan greget-greget"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "lan ngembah"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "wit badham"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "lan dadi abot"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "walang"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "lan padha tinggal"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "woh kaper"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "kalanggengané"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "lan padha muter-muter"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ing pasaran"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "para tangis"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:35.609467499Z",
+  "model": "glm-5.3"
+}

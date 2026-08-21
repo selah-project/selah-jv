@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sebab Yahweh bakal dadi penggoncanmu, lan bakal njaga sikilmu supaya ora katangkep.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "penggoncanmu"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "lan njaga"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sikilmu"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "saka jeru katangkep"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:22.208331231Z",
+  "model": "glm-5.3"
+}

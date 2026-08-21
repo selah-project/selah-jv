@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Kedhorongake saka kesel, paningalanku; tuwa amarga mungsuhku kabeh.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "Kedhorongake"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "saka kesel"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "paningalanku"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "tuwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amarga ... kabeh"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mungsuhku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:51.453004409Z",
+  "model": "glm-5.3"
+}

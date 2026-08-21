@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Yahweh ngandika marang Moshe ing ara-ara Sinai, sing ngendika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sing ngendika"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:02.402518470Z",
+  "model": "glm-5.3"
+}

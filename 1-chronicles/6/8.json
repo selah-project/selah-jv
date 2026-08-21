@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Elkana putrane, Ebyasaf putrane, lan Asir putrane;",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "lan Ebyasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "lan Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:00.750865066Z",
+  "model": "glm-5.3"
+}

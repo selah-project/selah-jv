@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Énggal énggalana iki: musuh wus ngina Yahweh, lan umat bodho wus nista asmamu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Énggal énggalana"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "musuh"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "wus ngina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan umat"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bodho"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "wus nista"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asmamu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:29.275013536Z",
+  "model": "glm-5.3"
+}

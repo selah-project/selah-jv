@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan Yahweh ngandika: Sapa sing bisa nggodha ⟨את⟩ Ahab supaya munggah lan tiba ana ing Ramot-Gilead? Lan sing siji ngucap ing mengkéné, lan sing sijiné ngucap ing mengkono.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dheweke ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "bisa nggodha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "supaya munggah"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "lan tiba"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "ana ing Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sing siki"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ing mengkéné"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "lan sing sijiné"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ing mengkono"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:50.019184583Z",
+  "model": "glm-5.3"
+}

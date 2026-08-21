@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Supaya aku caritaake kabeh memujimu ing gapura-gapura putrine Tzion; aku bungah ing kawilujenganmu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Supaya"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "aku caritaake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "memujimu"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "ing gapura-gapura"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrine"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "aku bungah"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ing kawilujenganmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:43.129401386Z",
+  "model": "glm-5.3"
+}

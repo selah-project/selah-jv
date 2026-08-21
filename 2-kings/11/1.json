@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Atalya, ibune Ahaziahu, ndeleng yen putrane wis mati, banjur tangi lan numpes ⟨את⟩ saben keturunan ⟨saka⟩ karajan.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Lan Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "banjur tangi"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "numpes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben keturunan karajan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "keturunan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:00.655772928Z",
+  "model": "glm-5.3"
+}

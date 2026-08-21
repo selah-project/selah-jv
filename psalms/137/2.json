@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Ing wit-wit pring (ararim) ing tengah-tengahe, aku padha nggantungake kendhi-kendhi kencur (kinor) kula.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "wit ararim"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ing tengah-tengahe"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "aku padha nggantungake"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kinor-kinor kula"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:22.354499424Z",
+  "model": "glm-5.3"
+}

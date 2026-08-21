@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Aja ngumpulake ⟨⟨karo⟩⟩ wong dosa nyawaku, lan karo wong-wong panggetih uripku",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ngumpulake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "wong dosa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan karo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "panggetih"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uripku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:22.363362811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sebab ⟨dheweke⟩ ora weruh apa sing bakal kelakon; sebab nalika kelakon, sapa sing bisa ngandhani ⟨dheweke⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ora weruh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sing bakal kelakon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kelakon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bisa ngandhani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨dheweke⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:49.381263539Z",
+  "model": "glm-5.3"
+}

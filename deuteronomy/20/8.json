@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Para juru tata tansah pitutur marang ⟨את⟩ wong kang akeh, ngendika: Endi wong sing wedi lan atiné lemes? Kudu lunga lan bali menyang omahé, supaya dudu atiné sadulur-saduluré malèt kaya déné atiné dhéwé.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "tansah pitutur"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "para juru tata"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pitutur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kang akeh"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "endi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "lemes"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "kudu lunga"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan bali"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "menyang omahé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya dudu"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "malèt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atiné"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-saduluré"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "kaya atiné dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:36:19.866654739Z",
+  "model": "glm-5.3"
+}

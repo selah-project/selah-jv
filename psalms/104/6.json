@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Samudra iku Kowluthi kaya sandhangan; ing sadhuwuring gunung-gunung banyu madheg.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "samudra jero"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kaya sandhangan"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "Kowluthi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "madheg"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:49.268129962Z",
+  "model": "glm-5.3"
+}

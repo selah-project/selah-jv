@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Yitro, bapak-mantu Moshe, njupuk ⟨את⟩ Tsiporah garwane Moshe, sawise ditulak bali.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "bapak-mantu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiporah"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsiporah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "garwane"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ditulak bali"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:00.239097498Z",
+  "model": "glm-5.3"
+}

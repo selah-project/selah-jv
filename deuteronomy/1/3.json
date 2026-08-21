@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan kadadéan ing tahun kaping sekawan puluh, ing wulan kaping sebelas, ing dino kapisan saking wulan, Moshe nituturake marang para putra Yisrael miturut kabeh sing dawuhake Yahweh ⟨אתו⟩ marang dheweke.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lan kadadéan"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "ing kaping sekawan puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "ing kaping sebelas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(puluh siji)"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wulan"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ing dino kapisan"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "saking wulan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nituturake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "dawuhake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:38.665713963Z",
+  "model": "glm-5.3"
+}

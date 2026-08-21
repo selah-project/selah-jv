@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Menawa kita wus lali asmaning Elohim kita, lan ngacengake tanganku marang El kang ndhedhes,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "kita wus lali"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "lan ngacengake"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "marang El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kang ndhedhes"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:21.924657166Z",
+  "model": "glm-5.3"
+}

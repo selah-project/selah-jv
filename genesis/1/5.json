@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim njenengake pangérawe iku Dina, lan peteng iku Jenengi Wengi; lan dadi sanja, lan dadi esuk — dina setunggal.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lan ... njenengake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "pangérawe iku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "lan peteng iku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Jenengi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Wengi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sanja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "setunggal"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:15.794359976Z",
+  "model": "glm-5.3"
+}

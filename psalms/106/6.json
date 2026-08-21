@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Kita padha dosa karo leluhur kita; kita nyimpang, kita nglakoni kaluputan.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "kita padha dosa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "leluhur kita"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "kita nyimpang"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "kita nglakoni kaluputan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:22.009114043Z",
+  "model": "glm-5.3"
+}

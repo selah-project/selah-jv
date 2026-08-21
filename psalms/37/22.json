@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Sebab wong kang diberkati déning-E bakal oleh nagari ⟨bumi⟩; lan wong kang dilakoni bakal dibuwang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "wong kang diberkati déning-E"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bakal oleh\/nuwun nagari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nagari\/bumi"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "lan wong kang dilakoni"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bakal dipungkas\/dibuwang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:07.490118923Z",
+  "model": "glm-5.3"
+}

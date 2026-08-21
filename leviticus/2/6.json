@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Pitha-pitha ⟨את⟩: dadipe kupat kudu dipecah dadi pirang-pirang wujud, lan kok ngetokake lenga ing dhuwuré; iku minchah.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "dipecah dadi wujud-wujud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ihi: 'iku (roti)'"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "wujud-wujud (pitha)"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "lan kok ngetokake"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah (persembahan)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:10.434467540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan matèriné wis cekap kanggo sakabèhing pakaryan kanggo digawé ⟨את⟩, lan luwih.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "lan matèriné"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wis"
+    },
+    {
+      "surface": "דים",
+      "gloss": "cekap"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kanggo sakabèhing"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "pakaryan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo digawé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pakaryan"
+    },
+    {
+      "surface": "ו הותר",
+      "gloss": "lan luwih"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:20.200057995Z",
+  "model": "glm-5.3"
+}

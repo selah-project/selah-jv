@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Sebab ⟨את⟩ sadaya bumi sing kadeleng deningmu, marang awakmu Ingunakake, lan marang waturmu nganti salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "engkau"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kadeleng deningmu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang awakmu"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "Ingunakake"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "lan marang waturmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:49.832649741Z",
+  "model": "glm-5.3"
+}

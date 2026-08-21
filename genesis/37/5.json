@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Banjur Yusup ngimpi ⟨sawijining⟩ impèn, lan kuwi dicaritakake marang para saduluré, lan ⟨dhèwèké⟩ tambah soked maneh mitenah ⟨את⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "banjur ngimpi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusup"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "impèn"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "lan dicaritakaké"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "marang para saduluré"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "lan tambah maneh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "soked"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "mitenah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké (Yusup)"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:49.899301580Z",
+  "model": "glm-5.3"
+}

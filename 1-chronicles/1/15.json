@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "lan ⟨את⟩ wong Hiwi, lan ⟨את⟩ wong Arki, lan ⟨את⟩ wong Sini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "wong Hiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "wong Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "wong Sini"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:13.313611948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan kadadéyan nalika Yitshak wis sepuh, lan matane rusuh saka ndeleng, banjur ngundhang ⟨את⟩ Esau anaké kang mbarep, lan ngandika marang panjenengane: Anakku. Lan panjenengane matur: Menawi kula nyawang.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "sepuh"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "rusuh"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "matane"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "saka ndeleng"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ngundhang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esau"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "kang mbarep"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Anakku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "matur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Menawi kula nyawang"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:00.213136848Z",
+  "model": "glm-5.3"
+}

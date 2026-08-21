@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 123,
+  "translation": "Welasana kita, Yahweh, welasana kita, awit saya watesa tikel kasarwa ing pangina-ina.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "welasana kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "welasana kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "רב",
+      "gloss": "saya watesa tikel"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "kasarwa ing"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "pangina-ina"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:36.775998528Z",
+  "model": "glm-5.3"
+}

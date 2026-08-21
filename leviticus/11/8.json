@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Saka dagingé aja didhahar, lan bangkéé aja disentuh, larang ⟨kuwi⟩ kanggo kowe.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "saka dagingé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "didhahar"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "lan bangkéé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "disentuh"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "larang"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨kuwi⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:56.828214117Z",
+  "model": "glm-5.3"
+}

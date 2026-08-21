@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku bakal memuji ⟨kowe⟩ ing kaleresan ati, nalikaku sininau putusan-putusan padamu kang bener.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "aku bakal memuji ⟨kowe⟩"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "ing kaleresan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "nalikaku sininau"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan-putusan padamu"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kang bener saka kokmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:41.597156649Z",
+  "model": "glm-5.3"
+}

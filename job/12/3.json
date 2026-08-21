@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Aku uga duwe kalbu kaya déné kowé kabeh; aku ora tiba sangisoré kowé. Apa maneh ⟨את⟩ sapa sing ora duwé kaya mangkono iki?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku duwe"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kalbu"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "kaya kowé kabeh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sangisoré kowé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapa sing ora duwé kaya mangkono iki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki kabeh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:35.316764102Z",
+  "model": "glm-5.3"
+}

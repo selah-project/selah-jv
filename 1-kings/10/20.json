@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Loro welas singa ngadeg ing kana, ing enem undhak-undhak kasebut, ing sisih kiwa lan tengen; ora tau digawe mangkono kanggo kabisan karaton.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "welas"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "singa-singa"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enem"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "undhak-undhak kasebut"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ing sisih kiwa"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "lan ing sisih tengen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kanggo kabisan"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karaton-karaton"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:54.840889180Z",
+  "model": "glm-5.3"
+}

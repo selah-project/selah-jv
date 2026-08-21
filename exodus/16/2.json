@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Banjur kandha gumun saben jamaahé anak-anak Yisrael nglawan Moshe lan nglawan Aharon ing ara-ara.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "banjur padha kandha gumun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamaahé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan nglawan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:06.367715439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kowe bakal mangan daging anak-anakmu lanang, lan daging anak-anakmu wadon bakal kowe pangan.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "lan kowe bakal mangan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anakmu lanang"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "lan daging"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "anak-anakmu wadon"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kowe pangan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:47.120829031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Aku memuji Kowe, Adonai Elohim-ku, karo sakabehing atiku; lan aku bakal mulyakake asma-Mu langgeng.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Aku memuji Kowe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "karo sakabehing"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "lan aku bakal mulyakake"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "langgeng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:48.378621395Z",
+  "model": "glm-5.3"
+}

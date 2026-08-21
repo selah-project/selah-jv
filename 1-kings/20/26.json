@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur kadadéan ing baline taun, Ben-Hadad mriksa ⟨את⟩ Aram, sarta munggah menyang Afek kanggo perang nglawan Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur kadadéan"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ing baline"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mriksa\/nimbali"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sarta munggah"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "menyang Afek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kanggo perang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T00:22:41.529094123Z",
+  "model": "glm-5.3"
+}

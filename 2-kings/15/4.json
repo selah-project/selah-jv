@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Mung panggonan dhuwur iku ora dicabut; isih wonge ndherek nyembelih kurban lan ngundhuh dupa ing panggonan dhuwur.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "mung"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "panggonan dhuwur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "dicabut"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong ndherek"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nyembelih kurban"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ngundhuh dupa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ing panggonan dhuwur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:07.062973142Z",
+  "model": "glm-5.3"
+}

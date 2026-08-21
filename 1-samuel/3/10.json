@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Yahweh teka, lan ngadeg, lan ndedawuh kaya ping kapindho kaya ping sadurunge: Samuel, Samuel. Lan Samuel matur: Atur sabda, amarga abdika ngrungokake.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "lan ngadeg"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lan ndedawuh"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "kaya ping kapindho"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "kaya ping sadurunge"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "atur sabda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:04.815846618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aja dadi tiang tumindak leres kebangeten, lan aja ngaku wicara kebangeten; kénapa kowé nganti binasa?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tiang tumindak leres"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kebangeten"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ngaku wicara"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "kebangeten"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kénapa"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "nganti binasa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:40.785325523Z",
+  "model": "glm-5.3"
+}

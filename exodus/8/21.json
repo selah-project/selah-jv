@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur Paroh nimbali marang Moshe lan marang Aharon, lan ngendika: Padha tindaka, padha nyembelih kurban marang Elohimira ing ⟨the⟩ tanah iku.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur nimbali"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "lan marang Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "padha tindaka"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "padha nyembelih kurban"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "marang Elohimira"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:42.229885123Z",
+  "model": "glm-5.3"
+}

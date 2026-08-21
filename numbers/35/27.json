@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "lan goel sang getih nemu ⟨את⟩ dheweke ing jaba wewengkone kutha perlindungane, lan goel sang getih mateni ⟨את⟩ sang mateni — ora ana dosa getih tumrape dheweke.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "lan nemu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke (sang mateni)"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang getih"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ing jaba"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "wewengkone"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "perlindungane"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "lan mateni"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sang getih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang mateni"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "sang mateni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tumrape dheweke"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dosa getih"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:34.281687185Z",
+  "model": "glm-5.3"
+}

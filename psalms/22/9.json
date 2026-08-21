@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "\"Gulungake marang Yahweh, munih ⟨dhewe⟩ panjenengane ngluwari ⟨dhewe⟩, munih panjenengane ngluwari ⟨dhewe⟩, awit panjenengane karenan marang ⟨dhewe⟩.\"",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Gulungake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "munih ⟨dhewe⟩ panjenengane ngluwari ⟨dhewe⟩"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "munih panjenengane ngluwari ⟨dhewe⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "karenan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "marang ⟨dhewe⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:32.222052189Z",
+  "model": "glm-5.3"
+}

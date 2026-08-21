@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sebab Yahweh wis mbalèkaké ⟨את⟩ kamulyaning Yaakov, kaya kamulyaning Yisrael; sebab para pangosong wis ngosongi, lan ngrusak wit randu-randuné.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wis mbalèkaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyaning Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamulyaning"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "kaya kamulyaning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "para pangosong"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "wis ngosongi"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "lan wit randu-randuné"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "ngrusak"
+    }
+  ],
+  "timestamp": "2026-08-21T01:34:37.288086349Z",
+  "model": "glm-5.3"
+}

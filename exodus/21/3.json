@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Menawa dheweke teka karo awake dhewe, karo awake dhewe dheweke metu; menawa dheweke duwe bojo, bojone metu bareng karo dheweke.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "karo awake dhewe"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "karo awake dhewe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "duwe bojo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bojo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng karo dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:04.873174896Z",
+  "model": "glm-5.3"
+}

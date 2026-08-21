@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan ⟨את⟩ bumi sing Ingsun wenehake marang Avraham lan marang Yitshak, marang panjenengane Ingsun bakal maringake, lan marang wawuhe panjenengane sawise panjenengane Ingsun bakal maringake ⟨את⟩ bumi iku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ingsun wenehake"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "marang Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "lan marang Yitshak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "Ingsun bakal maringake"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "lan marang wawuhe panjenengane"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sawise panjenengane"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Ingsun bakal maringake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi iku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:02.391399640Z",
+  "model": "glm-5.3"
+}

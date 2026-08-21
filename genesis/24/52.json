@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur kadadéan, bareng abdiné Avraham krungu ⟨את⟩ pangucapané wong-wong mau, dhèwèké sumungkem nganti marang bumi, ing ngarsané Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangucapané wong-wong mau"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "pangucapané wong-wong mau"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sumungkem"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nganti marang bumi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ing ngarsané Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:05.834928458Z",
+  "model": "glm-5.3"
+}

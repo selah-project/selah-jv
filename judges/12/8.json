@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sasampunipun, Ibtsan saka Beit-Lekhem ngadili ⟨את⟩ Israyel.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sasampunipun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:40.393495105Z",
+  "model": "glm-5.3"
+}

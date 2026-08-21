@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan yèn dhèwèké wong miskin, aja kowé saré nduwéni gadhéé.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan yèn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "kowé saré"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "nduwéni gadhéé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:15.097119261Z",
+  "model": "glm-5.3"
+}

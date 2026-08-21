@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Nanging ⟨Ia⟩ nylametake dhèwèké miturut asma-Né, supaya ngenalaken ⟨את⟩ kakuwatane-Né.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "nanging ⟨Ia⟩ nylametake dhèwèké"
+    },
+    {
+      "surface": "למען",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asma-Né"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "supaya ngenalaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakuwatane-Né"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "kakuwatane-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:22.009458506Z",
+  "model": "glm-5.3"
+}

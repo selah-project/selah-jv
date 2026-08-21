@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan wong iku nindakake ⟨את⟩ palang sing tengah mungguh ing tengahing papan-papan saka pucuk nganti pucuk.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "palang"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "sing tengah"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "mungguh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "pucuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "pucuk"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:55.984680384Z",
+  "model": "glm-5.3"
+}

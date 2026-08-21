@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Menawa ing tembe tinemu tinemu ing tangane gedhe curi mau, saka lembu nganti keledai nganti wedhus sing isih urip, ping pindho kudu mbales.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "ing tembe tinemu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tinemu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ing tangane"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "gedhe curi mau"
+    },
+    {
+      "surface": "משור",
+      "gloss": "saka lembu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keledai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "שה",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sing isih urip"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ping pindho"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kudu mbales"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:10.582329439Z",
+  "model": "glm-5.3"
+}

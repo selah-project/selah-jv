@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Dadèkna aku krungu bungah lan suka, supaya balung sing sampéyan wis remuk bisa bungah-bungah.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Dadèkna aku krungu"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "lan suka"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "bisa bungah-bungah"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "balung"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "sampéyan wis remuk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:47.293931272Z",
+  "model": "glm-5.3"
+}

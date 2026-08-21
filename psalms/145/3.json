@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Agung Yahweh lan banget dipuji, lan kadigdayan-Θ ora ana watesé panelutané.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "lan banget dipuji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "lan kadigdayan-Θ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "watesé panelutané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:45.148867169Z",
+  "model": "glm-5.3"
+}

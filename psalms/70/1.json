@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 70,
+  "translation": "Kanggo pangendhaga, mazmur IPDaud, kanggo ngingu-ingu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangendhaga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mazmur Daud"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "kanggo ngingu-ingu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:05.681426369Z",
+  "model": "glm-5.3"
+}

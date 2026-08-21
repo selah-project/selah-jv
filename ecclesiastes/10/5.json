@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Ana ⟨sawijining⟩ ala sing tak-akoni ana ing sangisore ⟨srengéngé⟩, kaya kliru sing metu saka ngarsane sang panguwasa.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "tak-akoni (tak-deleng)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨srengéngé⟩"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "kaya kliru"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "sing metu"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "sang panguwasa"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:05.967296467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 54,
+  "translation": "Gegoroh bakal balik marang mungsuh-mungsuhku; ing setya-Mu, sirnakake dhewe.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "bakal balik"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "gegoroh"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "marang mungsuh-mungsuhku"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ing setya-Mu"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "sirnakake dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:09.189932146Z",
+  "model": "glm-5.3"
+}

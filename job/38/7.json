@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 38:7",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Nalika bintang-bintang esuk padha nyanyi bebarengan, sarta kabeh putrane Elohim surak-surak bungah?",
+  "tokens": [
+    {
+      "surface": "ברן",
+      "gloss": "nalika nyanyi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "bintang-bintang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "ויריעו",
+      "gloss": "sarta padha surak-surak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T02:36:46.682524682Z",
+  "model": "glm-5.3"
+}

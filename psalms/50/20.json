@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Sira lungguh ngomong nglawan sadulurmu, marang putra embokmu sira menehi fitnah.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "sira lungguh"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "nglawan sadulurmu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "sira ngomong"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "marang putra"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "embokmu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sira menehi"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "fitnah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:06.128647428Z",
+  "model": "glm-5.3"
+}

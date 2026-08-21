@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sapi weruh sing duwe ⟨dheweke⟩, lan keledai alang-alange sing nduweni, nanging Yisrael ora weruh, umat sun ora ngerti-rumangsani.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "sing duwe dheweke"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "lan keledai"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "alang-alange"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sing nduweni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat sun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "ngerti-rumangsani"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:01.351334839Z",
+  "model": "glm-5.3"
+}

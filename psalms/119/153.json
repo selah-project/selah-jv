@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Deleng padhatraaking sun, lan nylametana sun, awit Torah-Mu ora sun lali.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "deleng"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "padhatraaking sun"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "lan nylametana sun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah-Mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "sun lali"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:42.572104850Z",
+  "model": "glm-5.3"
+}

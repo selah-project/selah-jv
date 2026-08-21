@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Sebab Kowé iku karangku lan bèntèngku; mulané marga Asma-Mu, tuntunna aku lan pandhèwani aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "karangku"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "lan bèntèngku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "mulané marga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Asma-Mu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tuntunna aku"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "lan pandhèwani aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:10.759639134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Awit Yahweh remen ing umat ⟨⟨ing⟩⟩ Panjenengané; Wong Asor dipaido kamulyan ⟨⟠nganggo⟩⟩ pitulungan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "remen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ing umate"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "dipaido kamulyan"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "Wong Asor"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "nganggo pitulungan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:12.895579368Z",
+  "model": "glm-5.3"
+}

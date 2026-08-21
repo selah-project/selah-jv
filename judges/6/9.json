@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Dakbebaskake ⟨את⟩ kowé saka tangan Mitsrajim lan saka tangan kabeh panindasmu, lan Dakudhungake ⟨את⟩ dhéwé saka ngarsanmu, lan Dakaringake marang kowé ⟨את⟩ buminé.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "lan Dakbebaskake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowé",
+      "marks": "kowé"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "lan saka tangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "panindasmu"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "lan Dakudhungake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dhéwé"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "saka ngarsanmu"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "lan Dakaringake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buminé"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "buminé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:42.732801037Z",
+  "model": "glm-5.3"
+}

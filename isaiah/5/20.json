@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Cilaka marang para sing ngendika ala iku becik, lan becik iku ala; sing anggèl pepeteng dadi padhang, lan padhang dadi pepeteng; sing anggèl gethah dadi legi, lan legi dadi gethah!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "para sing ngendika"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "lan becik"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sing anggèl"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pepeteng"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "dadi padhang"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "lan padhang"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "dadi pepeteng"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sing anggèl"
+    },
+    {
+      "surface": "מר",
+      "gloss": "gethah"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "dadi legi"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "lan legi"
+    },
+    {
+      "surface": "למר",
+      "gloss": "dadi gethah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:12.412572112Z",
+  "model": "glm-5.3"
+}

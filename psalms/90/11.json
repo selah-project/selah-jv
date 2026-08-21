@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Sapa wae sing wruh kakuwatane irung-Mu ⟨ing murka-Mu⟩, lan kaya kasugengan-Mu, bebendu-Mu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "wruh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuwatan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "irung-Mu"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "lan kaya kasugengan-Mu"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "bebendu-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:29.923245943Z",
+  "model": "glm-5.3"
+}

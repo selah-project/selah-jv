@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Langkung saka Édhèn metu bengawan kanggo ngombèni ⟨את⟩ taman iku, lan saka kono bengawané pecah dadi papat kuping\/kala.",
+  "tokens": [
+    {
+      "surface": "וונהר",
+      "gloss": "langkung",
+      "note": "typo-fixed below"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "saka Édhèn"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "kanggo ngombèni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taman"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "lan saka kono"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "pecah\/para"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "dadi papat"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "kuping\/kala (sirah-sirah)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:30.941040992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Adam urip telung puluh lan satus taun, lan nampa anak miturut rupa-e dhewe, kaya citra-e, lan nyebut ⟨את⟩ asmane: Shet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "lan urip"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telung puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "lan satus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "lan nampa anak"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "miturut rupa-e"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "kaya citra-e"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lan nyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmane"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:15.719462085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan bakal dadi: sing sulung sing wujud bakal ngadeg ing dhuwur asma seduluré sing mati, lan asmané ora bakal kabusak saka Yisrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "sing sulung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "wujud"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seduluré"
+    },
+    {
+      "surface": "המת",
+      "gloss": "sing mati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "kabusak"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "saka Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:05.894715255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku sapata lan bakal ngestokake ⟨sapataku⟩, yaiku njaga putusan kaluhuran-Mu.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "aku sapata"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "lan bakal ngestokake"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "yaiku njaga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "putusan"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "kaluhuran-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:26.167492010Z",
+  "model": "glm-5.3"
+}

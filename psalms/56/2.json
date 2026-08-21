@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 56,
+  "translation": "Dhuh mugi Elohim paring nugraha marang aku, awit manusa arep ngeleg aku; sedina muput anggone perang nyesekake aku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "mugi paring nugraha marang aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "arep ngeleg aku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina"
+    },
+    {
+      "surface": "היום",
+      "gloss": "muput"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "nyesekake aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:27.971357916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Lan bakal dadi: sadurunge dheweke ngundhang, Aku bakal mangsuli; isih dheweke ngendika, lan Aku bakal ngrungokake.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ngundhang"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan Aku"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "bakal mangsuli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan Aku"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "bakal ngrungokake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:27.854322724Z",
+  "model": "glm-5.3"
+}

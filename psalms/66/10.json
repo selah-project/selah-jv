@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Awit Kowé wus nyoba kita, ya Elohim; Kowé wus murnékake kita kaya pamurnian perak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "Kowé wus nyoba kita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "Kowé wus murnékake kita"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "kaya pamurnian"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:43.207173894Z",
+  "model": "glm-5.3"
+}

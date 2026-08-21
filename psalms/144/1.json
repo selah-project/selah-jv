@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Kagungane Dawid. Pinuji Yahweh, watu karangku, sing mulangi tanganku kanggo perang, driji-drijiku kanggo paperangan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kagungane Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "watu karangku"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "sing mulangi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "kanggo perang"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "driji-drijiku"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kanggo paperangan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:55.172645510Z",
+  "model": "glm-5.3"
+}

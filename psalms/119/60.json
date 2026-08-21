@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku enggal-enggal, ora ana kang kendho, nglakoni prentah-prentahmu.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "aku enggal-enggal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "kendho (aku ora kendho)"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "prentah-prentahmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:11.547504902Z",
+  "model": "glm-5.3"
+}

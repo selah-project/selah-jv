@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Jejer bulune dagingku saka wedi Panjenengan, lan saking ukum-ukum Panjenengan aku padha wedi.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "jejer bulune"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "saka wedi Panjenengan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "lan saking ukum-ukum Panjenengan"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "aku padha wedi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:45.875346895Z",
+  "model": "glm-5.3"
+}

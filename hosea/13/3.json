@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Mulane bakal padha ⟨dadi⟩ kaya mendhung esuk, lan kaya embun esuk sing lumaku lunga, kaya damen saka lantai jemuran sing kabung angin, lan kaya pega saka cendhela.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal padha ⟨dadi⟩"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "kaya mendhung"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "lan kaya embun"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "esuk banget"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sing lumaku lunga"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kaya damen"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "kabung angin"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "saka lantai jemuran"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "lan kaya pega"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "saka cendhela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:51.631284146Z",
+  "model": "glm-5.3"
+}

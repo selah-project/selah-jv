@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Sing ndadekake tapel watesmu tentrem, saka lemakening gandum panjenengane kasangaken kowe.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "sing ndadekake"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "tapel watesmu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tentrem"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemake"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "kasangaken kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:13.584066724Z",
+  "model": "glm-5.3"
+}

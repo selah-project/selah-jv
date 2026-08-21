@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 75,
+  "translation": "Lan kabeh sungune wong jahat bakal kugi, sungune wong jujur bakal dhuwur tinanggenah.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "sungu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "kugi"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "dhuwur tinanggenah"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "sungu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong jujur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:36.141030615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan saiki, sumangga, tangisé anak-anak Yisrael wis teka marang aku, lan aku uga wis weruh ⟨את⟩ panekesané pangenggoné wong Mitsrayim nindhes dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sumangga"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "tangisé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "wis teka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku wis weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panekesané"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "panekesané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pangenggoné"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "nindhes"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:05.920567051Z",
+  "model": "glm-5.3"
+}

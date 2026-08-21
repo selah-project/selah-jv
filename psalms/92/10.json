@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Sebab nyatané, mungsuh-Mu, wahai Yahweh; sebab nyatané, mungsuh-Mu bakal tiris; kabeh pandar kaluputan bakal kaceplesaké.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nyatané"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mungsuh-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wahai Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nyatané"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mungsuh-Mu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bakal tiris"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "bakal kaceplesaké"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pandar"
+    },
+    {
+      "surface": "און",
+      "gloss": "kaluputan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:21.715525021Z",
+  "model": "glm-5.3"
+}

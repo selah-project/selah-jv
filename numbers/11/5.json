@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Kita éling ⟨את⟩ iwak sing kita pangan ing Mesir tanpa bayaran: ⟨את⟩ timun, lan ⟨את⟩ semangka, lan ⟨את⟩ godhong bawang, lan ⟨את⟩ bawang, lan ⟨את⟩ bawang putih.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "kita éling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwak"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "iwak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "kita pangan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mesir"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa bayaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "timun"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "timun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "semangka"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "semangka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "godhong bawang"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "godhong bawang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bawang"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "bawang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bawang putih"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "bawang putih"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:49.387981441Z",
+  "model": "glm-5.3"
+}

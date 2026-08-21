@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lamun kowé ora nglenturi swarané Yahweh, nanging kowé nglawan ⟨את⟩ cangkeme Yahweh, tangane Yahweh bakal tumiba marang kowé lan marang bapak-bapakmu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nglenturi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "swarané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cangkeme Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bakal tumiba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "lan marang bapak-bapakmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:45.885451238Z",
+  "model": "glm-5.3"
+}

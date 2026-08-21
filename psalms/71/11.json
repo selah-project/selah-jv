@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Ngendika mangkene: \"Elohim wus ninggalake dheweke; kejar lan candhak, amarga ora ana sing ngluwari.\"",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika mangkene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "wus ninggalake"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "kejar"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "lan candhak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "sing ngluwari"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:58.755379274Z",
+  "model": "glm-5.3"
+}

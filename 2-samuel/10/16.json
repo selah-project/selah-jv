@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur Hadadezer ngutus lan ngetokake ⟨את⟩ wong Aram sing ana ing sebrang kali, lan padha teka ing Helam; lan Showbakh, panggedhe balane Hadadezer, ana ing ngarepe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wong Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "sebrang"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lan padha teka"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "Helam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "lan Showbakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bala"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ing ngarepe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:25.630867965Z",
+  "model": "glm-5.3"
+}

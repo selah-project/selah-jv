@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Sebab salawas-lawasé ora bakal goyang; kanggo pangéling-éling salawas-lawasé bakal ⟨dadi⟩ wong adil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawasé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bakal goyang"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "kanggo pangéling-éling"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawasé"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ⟨dadi⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong adil"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:38.570358974Z",
+  "model": "glm-5.3"
+}

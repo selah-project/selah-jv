@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Moshe ngutus wong goleki kabar ⟨את⟩ Yaezer, banjur wong-wong mau ngepung kutha-kuthane, lan ngusir ⟨את⟩ para Emori sing ana ing kono.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "wong goleki kabar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaezer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "banjur wong-wong mau ngepung"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "kutha-kuthane"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "lan ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "para Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ana ing kono"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:01.838449011Z",
+  "model": "glm-5.3"
+}

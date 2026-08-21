@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Sebab saka adoh kowe bakal ndeleng ⟨את⟩ tanah iku, nanging kono kowe ora bakaa mlebu menyang tanah sing dakwenehake marang anake Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "saka adoh"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kowe ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah iku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah iku"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "nanging kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora bakaa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kowe mlebu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אני",
+      "gloss": "daku-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wenehake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:49.247427944Z",
+  "model": "glm-5.3"
+}

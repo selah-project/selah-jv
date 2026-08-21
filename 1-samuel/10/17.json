@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur Shemuel nglumpukake ⟨את⟩ bangsa iku marang Yahweh ing haMitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "banjur nglumpukake"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ing haMitspa"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:27.150300985Z",
+  "model": "glm-5.3"
+}

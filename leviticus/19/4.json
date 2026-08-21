@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Aja sira malih marang brahala, lan brahala cor ora kudu sira gawé marang awakmu; Aku Yahweh, Elohimmu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "sira malih"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "brahala"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "lan brahala"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "cor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kudu sira gawé"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang awakmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:46.213233952Z",
+  "model": "glm-5.3"
+}

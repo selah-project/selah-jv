@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan kaadilan dadi iket pinggule, lan kasetia dadi iket suwene.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaadilan"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "iket"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "pinggule"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "lan kasetia"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "iket"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "suwene"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:40.414444435Z",
+  "model": "glm-5.3"
+}

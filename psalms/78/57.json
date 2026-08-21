@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan padha mundur lan padha ngianat kaya bapak-bapake ⟨dhewe⟩, padha malih kaya panah dupes",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "padha mundur"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "padha ngianat"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "kaya bapak-bapake"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "padha malih"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "kaya panah"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "dupes"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:23.238310640Z",
+  "model": "glm-5.3"
+}

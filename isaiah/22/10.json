@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan ⟨את⟩ omah-omahing Yerushalayim kowe padha ngétang, lan kowe padha ngrompak omah-omah iku kanggo manuhake ⟨את⟩ tembok.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "omah-omahing Yerushalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "omah-omahing"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "kowe padha ngétang"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "lan kowe padha ngrompak"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "omah-omah iku"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "kanggo manuhake"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "tembok"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:27.378926904Z",
+  "model": "glm-5.3"
+}

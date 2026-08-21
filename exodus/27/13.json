@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan jembaré ⟨the⟩ pekarangan iku ing sisih ngajeng, mangétan, seket asta.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "lan jembaré"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨the⟩ pekarangan iku"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ngajeng"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "mangétan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "seket"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "asta"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:07.528632925Z",
+  "model": "glm-5.3"
+}

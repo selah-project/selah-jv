@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Tanganmu bakal kalungguhan ing dhuwur mungsuh-mungsuhanmu, lan saterumu kabeh bakal kapisah-kapisah.",
+  "tokens": [
+    {
+      "surface": "תרום",
+      "gloss": "bakal kalungguhan kaluhur"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "mungsuh-mungsuhanmu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan ... kabeh"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "saterumu"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bakal kapisah-kapisah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:23.729116647Z",
+  "model": "glm-5.3"
+}

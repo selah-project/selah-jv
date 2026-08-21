@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan ⟨Dia⟩ ngutus lumantar tangané Natan sang nabi, sarta nyebut ⟨את⟩ asmané Yedidyah, murih Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan ngutus"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "lumantar tangané"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sarta nyebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmané"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "murih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:37.888652539Z",
+  "model": "glm-5.3"
+}

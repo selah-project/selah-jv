@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Aku ngerti kabeh manuk redi-redi, lan sato ing sawah ⟨karo⟩ aku.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Aku ngerti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "redi-redi"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "lan sato"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ing sawah"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨karo⟩ aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:45.267403126Z",
+  "model": "glm-5.3"
+}

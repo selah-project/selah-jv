@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Banjur Adonai tangi kaya wong turu, kaya pahlawan sing njerit saka anggur.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "kaya wong turu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kaya pahlawan"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "sing njerit"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "saka anggur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:22.792167563Z",
+  "model": "glm-5.3"
+}

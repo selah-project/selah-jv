@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 1:11",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kanggo apa kagungane akèhé kurbanmu iki kanggo aku? Yahweh ngandika. Aku wis wareg kurban bakar klawu lan lemake sapi ingonan, lan getihe sapi, domba, lan kambang — aku ora gelem.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kanggo apa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akèhé"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "kurbanmu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבעתי",
+      "gloss": "aku wis wareg"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "klawu"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "lan lemake"
+    },
+    {
+      "surface": "מריאים",
+      "gloss": "sapi ingonan"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "lan getihe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "וכבשים",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "kambang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "aku gelem"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:40.695561975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Moshe lan Aharon nindakake ⟨את⟩ sakabehing tandha-tandha iku ing ngarepe Paroh; lan Yahweh nglantakake ⟨את⟩ atine Paroh, sarta ora nglilakake ⟨את⟩ para putrane Yisrael metu saka nagarane.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "lan Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "lan Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing tandha-tandha iku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "tandha-tandha"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "lan nglantakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atine Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nglilakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putrane Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "saka nagarane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:28.700855688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Aja padha gawé tingalan ⟨את⟩ jiwa-jiwanira ing saben sing nglukis sing nglukis, lan aja padha najis ing kalungguhané, supaya ora dadi najis ing kalungguhané.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "padha gawé tingalan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwa-jiwanira"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jiwa-jiwanira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sing nglukis"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sing nglukis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "padha najis"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing kalungguhané"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "supaya dadi najis"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing kalungguhané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:00.780375362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kabeh tembung-tembung iku nganti ngosongaken, ora ana wong sing bisa ngucapake; mripat ora wareg ndeleng, lan kuping ora kena kebak saka pangrungu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "nganti ngosongaken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngucapake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "wareg"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mripat"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "saka pangrungu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:36.298015053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ⟨את⟩ Wong Pathros, ⟨את⟩ Wong Kasluh — saka kono metu wong Filisti — lan ⟨את⟩ Wong Kaftor.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Wong Pathros"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Wong Pathros"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Wong Kasluh"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Wong Kasluh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ing ngendi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "metu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Filisti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Wong Kaftor"
+    },
+    {
+      "surface": "כפתורים",
+      "gloss": "Wong Kaftor"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:30.833412768Z",
+  "model": "glm-5.3"
+}

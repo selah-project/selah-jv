@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Raksnana aku kaya putraning mripat, ing samanging swiwinmu kadhènanana aku.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Raksnana aku"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "kaya putraning"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri saka"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mripat"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ing samanging"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "swiwinmu"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "kadhènanana aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:02.958270925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Yahweh ngandika marang dheweke: Jenenge Yizreel, awit mung sethithik maneh Aku bakal nuntut ⟨את⟩ getihe Yizreel marang wonge Yehu, lan Aku bakal mungkasi karaton wonge Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sethithik"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "Aku bakal nuntut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihe Yizreel"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wong\/wongtuwone"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "Aku bakal mungkasi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:24.178124567Z",
+  "model": "glm-5.3"
+}

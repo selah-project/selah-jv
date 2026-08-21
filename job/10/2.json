@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Kula ngandika marang Elohim: Aja nyingkiri kula; andhesna kula, apa sababe Panjenengan nuntut kula.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kula ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "nsingkiri kula"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "andhesna kula"
+    },
+    {
+      "surface": "על",
+      "gloss": "apa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sababe"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "nuntut kula"
+    }
+  ],
+  "timestamp": "2026-08-21T02:25:25.819633953Z",
+  "model": "glm-5.3"
+}

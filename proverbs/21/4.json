@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Munyuking paningalan lan ambuning ati —wit si ala iku—dosa.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "munyuking"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "paningalan"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "lan ambuning"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "נר",
+      "gloss": "wit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "si ala"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:16:53.645735912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Kareping wong wedi marang Panjenengane dibyahi, lan ⟨את⟩ anggone nangis Didengere, lan Dislametake dheweke.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "kareping"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wong wedi marang Panjenengane"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dibyahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anggone nangis"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "anggone nangis"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "Didengere"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "lan Dislametake dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:50.593296380Z",
+  "model": "glm-5.3"
+}

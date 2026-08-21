@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Yahweh, Adonai kita, punapa linuwih agunge asma-Mu ing sadengahing bumi!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai kita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "punapa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "linuwih agung"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-Mu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadengahing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:13.818028707Z",
+  "model": "glm-5.3"
+}

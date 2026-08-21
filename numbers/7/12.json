@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan dadi sing ngaturake ⟨את⟩ pasamadyane ing dino kapisan yaiku Nakhshon putrane Amminadhab, saka suku Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lan dadi"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "sing ngaturake"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dino"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasamadyane"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "pasamadyane"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadhab"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "saka suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:28.762684992Z",
+  "model": "glm-5.3"
+}

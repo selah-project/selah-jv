@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "⟨את⟩ kelambi-kelambi tarub ⟨את⟩ saka-sakane lan ⟨את⟩ pupundhene, sarta ⟨את⟩ lawe lawang tarub iku",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambi-kelambi tarub"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "kelambi-kelambi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tarub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka-sakane"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "saka-sakane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "luga ⟨את⟩",
+      "marks": "pupundhene"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "pupundhene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "lawe lawang tarub"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "lawe"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tarub iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:16.437147029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Apa gelagah thukul tanpa rawa? apa suket rawa dhuwur tanpa banyu?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "apa ... thukul"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "gelagah"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "rawa"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "dhuwur"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "suket rawa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:12.227581236Z",
+  "model": "glm-5.3"
+}

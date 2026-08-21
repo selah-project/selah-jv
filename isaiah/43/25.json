@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Aku, Aku dhewe ⟨⟨iku⟩⟩ sing mundhut dosa-dosa pambrontakanmu, kanggo kelangan-XYZ Aku dhewe; lan dosa-dosamu ora bakal Aku élingi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku dhewe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iku⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "mundhut (nadhahi)"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "dosa-dosa pambrontakanmu"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "kanggo kelangan-XYZ Aku dhewe"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "lan dosa-dosamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "Aku élingi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:28.965094125Z",
+  "model": "glm-5.3"
+}

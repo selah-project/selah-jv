@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "O katamanku, lan anaking lantajan-katamanku, sangkape sing takrungu saka ⟨את⟩ Yahweh Tzvaot, Elohimé Yisrael, takandhakake marang kowé.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "O katamanku"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "lan anaking"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "lantajan-katamanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sangkape"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "sing takrungu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Tzvaot, Elohimé Yisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "takandhakake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:28.865266114Z",
+  "model": "glm-5.3"
+}

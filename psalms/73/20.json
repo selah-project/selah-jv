@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Kaya mengkalih saking tangi, Adonai, nalika kowé tangi citrané wong iku kowé nistakaké.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "kaya mengkalih"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "saking tangi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "nalika tangi"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "citrané wong iku"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "kowé nistakaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:07.625293877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Akèh sing ngandika marang jiwaku: \"Ora ana pitulungan kanggo dhèwèké ing Elohim.\" Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Akèh"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "marang jiwaku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "pitulungan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo dhèwèké"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ing Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:36.410378355Z",
+  "model": "glm-5.3"
+}

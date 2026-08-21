@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan mezbah iku belah, lan awu saka mezbah iku tumpah, kaya tandha sing diwenehake wong ⟨saka⟩ Elohim lumantar dhaftaripun Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "lan mezbah iku"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "belah"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "lan tumpah"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "awu iku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah iku"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "kaya tandha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diwenehake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨saka⟩ Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "lumantar dhaftaripun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:14.036024783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Sebab kuping ngundhuh tembung-tembung, lan langit-langit ngrasakake supaya mangan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "ngundhuh (nguji)"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "lan langit-langit"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "ngrasakake"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "supaya mangan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:21:19.172414656Z",
+  "model": "glm-5.3"
+}

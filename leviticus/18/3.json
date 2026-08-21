@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Padha panggaweane ing bumi Mitsrajim, ing endi kowe padha manggon ana, aja kowe padha nindakake; lan padha panggaweane ing bumi Kenaan, ing endi Ingsen nggawa kowe ⟨את⟩ menyang kono, aja kowe padha nindakake; lan ing pa kum-kumume wong kono aja kowe padha lumaku.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "padha panggaweane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ing endi"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "kowe padha manggon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kowe padha nindakake"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "lan padha panggaweane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ing endi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ingsen"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe (objek saka nggawa)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "menyang kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kowe padha nindakake"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "lan ing pakum-kumume wong kono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kowe padha lumaku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:59.396166890Z",
+  "model": "glm-5.3"
+}

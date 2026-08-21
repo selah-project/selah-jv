@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Wesi lan gangsa pasake-kuncimu, lan kaya dinamu, kuwatmu-lawas.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "wesi"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "lan gangsa"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "pasak-pasakmu"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "lan kaya dinamu"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "kuwatmu-lawas"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:21.615212836Z",
+  "model": "glm-5.3"
+}

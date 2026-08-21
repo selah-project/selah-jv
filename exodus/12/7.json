@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan padha njupuk saka getihé, lan ngolèhaké ing kalih tiying lawang lan ing balén luar ing omah-omah sing bakal mangan ⟨את⟩ iku ing kono.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "lan padha njupuk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getihé"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "lan ngolèhaké"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kalih"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "tiying lawang"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "balén luar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "omah-omah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal mangan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (si kéban)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:36.736611126Z",
+  "model": "glm-5.3"
+}

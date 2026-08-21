@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Médhok nggoléki aku ing pituduh, dhéwé dadiké singa ana ing papan sing diesingkir.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "médhok"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "nggoléki ing pituduh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhéwé dadiké"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "singa"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ana ing papan sing diesingkir"
+    }
+  ],
+  "timestamp": "2026-08-21T02:43:33.139348110Z",
+  "model": "glm-5.3"
+}

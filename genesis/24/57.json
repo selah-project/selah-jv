@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan padha matur: Ayo ngundang kenya iku, supaya tak pitakoni ⟨את⟩ lambehe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha matur"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ayo ngundang"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "kenya iku"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "supaya tak pitakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lambehe"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "lambehe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:21.769682350Z",
+  "model": "glm-5.3"
+}

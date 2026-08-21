@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 96,
+  "translation": "Ngandikana ing para bangsa: Yahweh wis jumeneng ratu; dunya uga ditetepake, ora bakal geser; ⟨dheweke⟩ ngadili para bangsa miturut kadadilan.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ngandikana"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing para bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wis jumeneng ratu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ditetepake"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "dunya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora bakal"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "geser"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "miturut kadadilan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:35.239192622Z",
+  "model": "glm-5.3"
+}

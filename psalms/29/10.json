@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Yahweh lungguh minangka ratu ing samubarang banjir; lan Yahweh tetep dadi ratu salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ing samubarang banjir"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lungguh minangka ratu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan tetep dadi ratu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:21.632230797Z",
+  "model": "glm-5.3"
+}

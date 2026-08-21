@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Dawid munggah saka ing kono, lan dumunung ing beteng-beteng ⟨saka⟩ En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka ing kono"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan dumunung"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "ing beteng-beteng"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:52.968755048Z",
+  "model": "glm-5.3"
+}

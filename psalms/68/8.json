@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Elohim, nalika Kowe metu ing ngarsane umat-Mu, nalika Kwoke lumaku liwat ara-ara samun — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "nalika Kwoke metu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "nalika Kwoke lumaku"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "liwat ara-ara samun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:32.543023371Z",
+  "model": "glm-5.3"
+}

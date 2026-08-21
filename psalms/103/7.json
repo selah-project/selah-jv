@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Dheweke ndadekake kalakune kaloka marang Moshe, marang anake-anake Yisrael panggaweane.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "ndadekake kaloka"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "kalakune"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "marang Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang anake-anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "panggaweane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:47.502257524Z",
+  "model": "glm-5.3"
+}

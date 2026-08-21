@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sing mrintah marang srengéngé, lan ⟨srengéngé⟩ ora thithik, lan ing gising lintang-lintang disegel.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Sing mrintah"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "marang srengéngé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "thithik"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "lan ing gising"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "lintang-lintang"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "disegel"
+    }
+  ],
+  "timestamp": "2026-08-21T02:23:36.880214546Z",
+  "model": "glm-5.3"
+}

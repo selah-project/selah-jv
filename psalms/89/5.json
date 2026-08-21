@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Nganti salawas-lawase aku bakal ngadegake wiji turunmu, lan aku bakal yasa kursi kakangman nurun tumurun. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "aku bakal ngadegake"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wiji turunmu"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "lan aku bakal yasa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "nurun"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "tumurun"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kursi kakangman"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:44.212361862Z",
+  "model": "glm-5.3"
+}

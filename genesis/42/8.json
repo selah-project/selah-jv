@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan Yosef mangerteni ⟨את⟩ para sadulure, nanging ⟨דхеweke⟩ padha ora mangerteni ⟨את⟩ panjenengane.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Lan mangerteni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para sadulure"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "para sadulure"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nanging dheweke padha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "mangerteni ⟨את⟩ panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:30.519790996Z",
+  "model": "glm-5.3"
+}

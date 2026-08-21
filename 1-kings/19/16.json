@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan ⟨את⟩ Yehu putrané Nimsyi kowé melingani dadi ratu ing Israèl, lan ⟨את⟩ Elisya putrané Safat, saka Abèl-Mekola, kowé melingani dadi nabi minangka ganténmu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimsyi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "kowé melingani"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "dadi ratu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elisya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Safat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "saka Abèl"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mekola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "kowé melingani"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "dadi nabi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "minangka ganténmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:52.956064015Z",
+  "model": "glm-5.3"
+}

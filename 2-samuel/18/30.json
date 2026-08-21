@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Sang Raja ngandika: Sumingida, lan ngadeg ing kene. Banjur ia sumingida lan ngadeg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Sang Raja"
+    },
+    {
+      "surface": "סב",
+      "gloss": "sumingida"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ing kene"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "banjur sumingida"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T00:11:19.021902493Z",
+  "model": "glm-5.3"
+}

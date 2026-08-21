@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 11:30",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Zanoah, Adulam lan dhesa-dhesane, Lakhis lan tegalane, Azeka lan dhesa-dhesane; lan padha manggon saka Be'er-Syeba nganti Gei-Hinom",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "Zanoah"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "lan dhesa-dhesane"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakhis"
+    },
+    {
+      "surface": "ושדתיה",
+      "gloss": "lan tegalane"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "lan dhesa-dhesane"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "padha manggon"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "saka Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Gei"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    }
+  ],
+  "timestamp": "2026-08-21T03:13:56.333874554Z",
+  "model": "glm-5.3"
+}

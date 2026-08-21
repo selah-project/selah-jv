@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 138,
+  "translation": "Padha nyembah ing Kowe, Yahweh, para ratu sakabehing bumi, awit padha krungu tembung-tembuning lambe-Mu.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "padha nyembah ing Kowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "padha krungu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tembung-tembuning"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "lambe-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:24.556315421Z",
+  "model": "glm-5.3"
+}

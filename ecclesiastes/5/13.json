@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan sugih iku ilang ing pangupa-pangupan ala, lan ⟨dheweke⟩ nglairake anak, lan ora ana apa-apa ing tangane.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "lan ilang"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "sugih"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ing pangupa-pangupan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "lan nglairake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ing tangane"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apa-apa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:53.662611924Z",
+  "model": "glm-5.3"
+}

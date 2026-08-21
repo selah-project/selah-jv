@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kaya dene sing didhawuhi Yahweh ⟨את⟩ Moshe, mangkono dheweke ngetung ⟨את⟩ wong-wong mau ing ara-ara Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene sing"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "didhawuhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "lan ngetung wong-wong mau"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:29.966734011Z",
+  "model": "glm-5.3"
+}

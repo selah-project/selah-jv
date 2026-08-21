@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan bani Israèl padha ngati-atiana ⟨את⟩ sabat iku, kanggo nindakaké ⟨את⟩ sabat iku ing worun-woruné, prajanjian langgeng.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "lan padha ngati-atiana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabat iku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabat iku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo nindakaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabat iku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sabat iku"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ing worun-woruné"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "langgeng"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:39.689116823Z",
+  "model": "glm-5.3"
+}

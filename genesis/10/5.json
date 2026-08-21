@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Saka kasebut dipisahake pulo-pulo para bangsa ing tanah-tanahé, saben wong miturut basané, miturut marga-margané, ing bangsa-bangsane.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "saka kasebut"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "dipisahake"
+    },
+    {
+      "surface": "איי",
+      "gloss": "pulo-pulo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ing tanah-tanahé"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "miturut basané"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut marga-margané"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ing bangsa-bangsane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:37.151880129Z",
+  "model": "glm-5.3"
+}

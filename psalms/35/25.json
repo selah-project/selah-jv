@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Aja padha ngucap ing atine ⟨⟨para musuhku⟩⟩: Héah, iku pepenginané awaké dhéwé! Aja padha ngucap: Wong iki wis tinelan kabèh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "padha ngucap"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ing atine"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Héah"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": " pepenginané awaké dhéwé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "padha ngucap"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "wis tinelan kabèh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:40.272370619Z",
+  "model": "glm-5.3"
+}

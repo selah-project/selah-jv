@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Yahweh paring pituwas marang aku miturut kaluhuraning atiku; miturut suci-beninging tanganku ⟨iya⟩ mbalekake marang aku.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "paring pituwas marang aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "miturut kaluhuraning atiku"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "suci-beninging tanganku"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mbalekake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:52.541192407Z",
+  "model": "glm-5.3"
+}

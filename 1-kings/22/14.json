@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Mikhayahu ngendika: Minurka Yahweh urip, ⟨את⟩ sing Yahweh andhakake marang aku, ⟨את⟩ iku takandhakake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan-ngendika"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satemah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "andhakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang-aku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku-takandhakake"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "takandhakake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:16.532185001Z",
+  "model": "glm-5.3"
+}

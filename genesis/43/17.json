@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Wong iku nindakake kaya sing didhawuhi Yusuf, lan wong iku nggawa ⟨את⟩ wong-wong mau mlebet omah Yusuf.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "didhawuhi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nggawa mlebet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mlebet omah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:54.952097185Z",
+  "model": "glm-5.3"
+}

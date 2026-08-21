@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Yahweh ngruntuhake rencanane bangsa-bangsa; Panjenengané nulak rancang-rancanging para bebrayan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "ngruntuhake"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "rencanane"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "nulak"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "rancang-rancanging"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bebrayan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:50.916027050Z",
+  "model": "glm-5.3"
+}

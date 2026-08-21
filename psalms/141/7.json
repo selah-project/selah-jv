@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 141,
+  "translation": "Kados wong nandhur lan mbolongaken siti ing bumi, mawa tinabur balungku ngarsa ing cangkeming Sheol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "kados"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "wong nandhur"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "lan mbolongaken"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "mawa tinabur"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "balungku"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngarsa ing cangkem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:52.031795137Z",
+  "model": "glm-5.3"
+}

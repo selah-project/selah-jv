@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan aku ngandika marang wong-wonge: Menawa becik ing panemumu, athona bathi-kubaku; lan menawa ora, padha mandega. Lan banjur padha nimbang ⟨את⟩ bathi-kubaku: telung puluh salaka.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Lan aku ngandika"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang wong-wonge"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ing panemumu"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "athona"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "bathi-kubaku"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "padha mandega"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "lan banjur padha nimbang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bathi-kubaku"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "bathi-kubaku"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telung puluh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salaka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:38:57.453030168Z",
+  "model": "glm-5.3"
+}

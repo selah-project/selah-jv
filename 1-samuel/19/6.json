@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Shaul mituruti swara Yehonatan, lan Shaul sumpah: 'Dudu liya, Yahweh sing urip, dheweke ora bakal dipateni.'",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lan mituruti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "lan sumpah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dipateni"
+    }
+  ],
+  "timestamp": "2026-08-21T04:46:32.413660510Z",
+  "model": "glm-5.3"
+}

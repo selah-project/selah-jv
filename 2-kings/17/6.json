@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Ing taun kang kasanga kanggo Hoshea, ratu Ashur ngejar ⟨את⟩ Shomeron, banjur ngusir ⟨את⟩ Yisrael menyang Ashur, lan ndadekake ⟨את⟩ padunungané ing Halah lan ing Habor, kali Gozan, lan para kutha ing Midi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "kasanga"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "kanggo Hoshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ngejar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "banjur ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "menyang Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ndadekake padunungan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "padunungané ing Halah"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "ing Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "lan ing Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "lan para kutha"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ing Midi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:06.546698566Z",
+  "model": "glm-5.3"
+}

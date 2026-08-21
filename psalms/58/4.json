@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Wong nakal padha nyimpang saka guwa garba; padha kesasar saka weteng, dadi tukang ngucap goroh.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "padha nyimpang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong nakal"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "saka guwa garba"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "padha kesasar"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "saka weteng"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tukang ngucap"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "goroh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:51.736192640Z",
+  "model": "glm-5.3"
+}

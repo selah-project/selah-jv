@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Mawa kawicaksanan omah kadadekake, lan mawa panemu kadimantepake.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "mawa kawicaksanan"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "kadadekake"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "lan mawa panemu"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "kadimantepake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:52.557833177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ing nesu Kowé nglumpati bumi, ing piyunge Kowé ngilem ngunjal bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "ing nesu"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "nglumpati"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ing piyunge"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "ngilem ngunjal"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:34:56.097270546Z",
+  "model": "glm-5.3"
+}

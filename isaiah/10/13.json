@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 10:13",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Awit panjenengané ngendika: sarwaning tanganku sing nindakaké iki, lan sarwa kawicaksanan-ku, awit aku trampil; dakyingkah tapa watesing para bangsa, lan kajengané daklasa, lan kaya jaran-kuwat dakandhapaké para sing tron.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "sarwaning"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "daknindakaké"
+    },
+    {
+      "surface": "ובחכמתי",
+      "gloss": "sarta kawicaksananku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נבנותי",
+      "gloss": "aku trampil"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "dakyingkah"
+    },
+    {
+      "surface": "גבולת",
+      "gloss": "watesing"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "ועתידתיהם",
+      "gloss": "sarta kajengané"
+    },
+    {
+      "surface": "שושתי",
+      "gloss": "daklasa"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "sarta dakandhapaké"
+    },
+    {
+      "surface": "כאביר",
+      "gloss": "kaya jaran-kuwat"
+    },
+    {
+      "surface": "יושבים",
+      "gloss": "para sing tron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:22.071122253Z",
+  "model": "glm-5.3"
+}

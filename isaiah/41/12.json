@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Sira bakal ngluruhi dhèwèké nanging ora bakal kasumurupan — para wong sing padha pasulayan karo sira; bakal dadi kaya ora ana lan kaya barang tanpa isi — para wong sing padha perang karo sira.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "sira bakal ngluruhi dhèwèké"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "bakal kasumurupan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "para wong"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "sing padha pasulayan karo sira"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "kaya ora ana"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "lan kaya barang tanpa isi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "para wong"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "sing padha perang karo sira"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:56.355843243Z",
+  "model": "glm-5.3"
+}

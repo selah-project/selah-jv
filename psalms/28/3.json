@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Aja Kowé nèrèaké aku bareng wong-wong cidra, lan bareng wong sing padha nindakaké ala, sing ngomong dédamèn marang kanca-kancané, nanging jahat ing sajroning atiné.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "Kowé nèrèaké aku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong cidra"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan bareng"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wong sing padha nindakaké"
+    },
+    {
+      "surface": "און",
+      "gloss": "ala"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sing ngomong"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "dédamèn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "kanca-kancané"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "nanging jahat"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ing sajroning atiné"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:05.371336386Z",
+  "model": "glm-5.3"
+}

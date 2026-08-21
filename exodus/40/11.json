@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan kowé bakal ngurapi ⟨את⟩ bejana wisuh lan ⟨את⟩ sanggané, lan ngucapake suci ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "lan kowé bakal ngurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bejana wisuh"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bejana wisuh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sanggané"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sanggané"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "lan ngucapake suci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iku",
+      "marks": "bejana wisuh lan sanggané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:02.492618560Z",
+  "model": "glm-5.3"
+}

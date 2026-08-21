@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "ratu ⟨ing⟩ Dor, ⟨ing⟩ laladan Nafat-Dor, siji; ratu ⟨ing⟩ para bangsa, ⟨ing⟩ Gilgal, siji;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "⟨ing⟩ Nafat"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "⟨ing⟩ Gilgal"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:21.434264778Z",
+  "model": "glm-5.3"
+}

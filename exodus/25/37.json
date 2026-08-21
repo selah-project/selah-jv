@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan sira bakal nggawe ⟨את⟩ pitu lampune, lan ngunggahake ⟨את⟩ lampune, supaya padhang marang sangarepe.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan sira bakal nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitu lampune"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampune"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "lan ngunggahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampune"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampune"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "lan supaya padhang"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngarsa"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sangarepe"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:16.657080208Z",
+  "model": "glm-5.3"
+}

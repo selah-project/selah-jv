@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Adonai Yahweh maringi aku ilat katrampilan, supaya aku bisa ngertipira mrawuhi ⟨את⟩ sing ngelantur nganggo tembung; saben esuk banget dhewe ⟨dhewe⟩ ngunggelake kupinge aku, supaya krungu kaya katrampilan.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilat"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "katrampilan"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "supaya bisa ngertipira"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "mrawuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing ngelantur"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "sing ngelantur"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nganggo tembung"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ngunggelake"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "saben esuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "banget-dhewe esuk-dhewe"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ngunggelake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kupinge"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "supaya krungu"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "kaya katrampilan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:09.233054643Z",
+  "model": "glm-5.3"
+}

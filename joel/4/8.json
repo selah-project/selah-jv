@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Aku bakal ngadol ⟨את⟩ anak-anakmu lan ⟨את⟩ putrimu marang tangané anak-anake Yehudha, lan dhèwèké bakal ngadhul marang Wong Sabaea, marang bangsa sing adoh banget; awit Yahweh wus ngandika.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "Lan Aku bakal ngadol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anakmu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "putrimu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "putrimu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "marang tangané"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "lan bakal ngadhul dhèwèké"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "marang Wong Sabaea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "sing adoh banget"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wus ngandika"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:54.171144393Z",
+  "model": "glm-5.3"
+}

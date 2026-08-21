@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Apa kadhuwuring kakawisané ora ndadèkaké wedi ⟨את⟩ sira, lan kawediné tiba marang sira?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "kadhuwuring kakawisané"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "ndadèkaké wedi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "lan kawediné"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "marang sira"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:54.708382181Z",
+  "model": "glm-5.3"
+}

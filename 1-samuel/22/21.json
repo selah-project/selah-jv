@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan Aviathar wurukaké marang Dawid, yakuwi Saul matèni ⟨את⟩ para imamé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "lan wurukaké"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Aviathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yakuwi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "matèni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imamé Yahweh"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "para imamé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:27.278294309Z",
+  "model": "glm-5.3"
+}

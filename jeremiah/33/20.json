@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Kaya mangkene pituture Yahweh: manawa kowe bisa ngluputake ⟨את⟩ prajanjianku ⟨karo⟩ dina lan ⟨את⟩ prajanjianku ⟨karo⟩ wengi, nganti dadi ora ana awan lan wengi ing wayahe dhewe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pituture"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "kowe bisa ngluputake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjianku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjianku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "prajanjianku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjianku"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "nganti dadi ora"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ana"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan wengi"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ing wayahe dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:59:45.262184382Z",
+  "model": "glm-5.3"
+}

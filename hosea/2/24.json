@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan bumi bakal nampa ⟨את⟩ wiji-wijian lan ⟨את⟩ anggur enom lan ⟨את⟩ lenga zaitun; lan kabèh bakal nampa ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "lan bumi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bakal nampa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiji-wijian"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "wiji-wijian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anggur enom"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "anggur enom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lenga zaitun"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "lenga zaitun"
+    },
+    {
+      "surface": "והם",
+      "gloss": "lan kabèh"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bakal nampa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:58.587023812Z",
+  "model": "glm-5.3"
+}

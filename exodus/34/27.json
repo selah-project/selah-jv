@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan Yahweh ngandika marang Moshe: Tulisen kanggo sira ⟨את⟩ tembung-tembung iki, awit miturut cangkemé tembung-tembung iki Aku ngethok prajanji karo ⟨את⟩ sira lan ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Tulisen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo sira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembung iki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemé"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "Aku ngethok"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "karo ⟨את⟩ sira"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:56.037241438Z",
+  "model": "glm-5.3"
+}

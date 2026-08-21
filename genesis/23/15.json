@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Bendaraku, ngrungokana aku: sawah papat atus syikel pérak — antarane aku lan kowé, apa iku? Mulané kubur ⟨את⟩ wong matimu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Bendaraku"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ngrungokana aku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "papat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syikel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "antarane aku"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "lan kowé"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong matimu"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "wong matimu"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubur"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:21.732600747Z",
+  "model": "glm-5.3"
+}

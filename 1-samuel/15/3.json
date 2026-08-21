@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Saiki mangkata, sira nggebug ⟨את⟩ Amalek, lan sira ngeremakake ⟨את⟩ sakabèhé sing diduwèni; aja oleh welas marang dhèwèké, nanging patèna, saka lanang nganti wadon, saka bocah cilik nganti isih nyusu, saka lembu nganti wedhus, saka onta nganti keledai.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mangkata"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "sira nggebug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "sira ngeremakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhé sing diduwèni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "diduwèni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "welas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "patèna"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "saka lanang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wadon"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "saka bocah cilik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "isih nyusu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "saka lembu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "שה",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "saka onta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "keledai"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:39.448790463Z",
+  "model": "glm-5.3"
+}

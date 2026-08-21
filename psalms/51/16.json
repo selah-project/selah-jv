@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Nylametna aku saka getih-getih, Elohim, Elohining kaslametanku, ilatku bakal mbengok bungah ngenani kaluhuranira.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Nyslametna aku"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "saka getih-getih"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohining"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "kaslametanku"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "bakal mbengok bungah"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ilatku"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kaluhuranira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:59.409622993Z",
+  "model": "glm-5.3"
+}

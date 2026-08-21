@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sing ngluwari Tsiyon nganggo getih, lan Yerushalayim nganggo kadurjanan.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "nganggo getih"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "nganggo kadurjanan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:19.397475210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan loro-lorone uga padha mati, Mahlon lan Kilyon; banjur wong wadon iku kari sawise loro-anake lan bojone.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "padha mati"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "loro-lorone"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "lan Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "kari"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wong wadon iku"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sawise loro-"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "anake"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "lan bojone"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:56.520270377Z",
+  "model": "glm-5.3"
+}

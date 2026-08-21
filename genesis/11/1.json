@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan kadadéyan ⟨⟨sadonya⟩ kabeh duwé lambe siji, lan tembung-tembung padha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨sadonya⟩"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lambe (basa)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "lan tembung-tembung"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "padha (siji)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:46.694379590Z",
+  "model": "glm-5.3"
+}

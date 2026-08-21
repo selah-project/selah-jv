@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sing ing astane ⟨⟨ana⟩⟩ nyawa saben makluk urip, lan roh saben daging manungsa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ing astane"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "חי",
+      "gloss": "makluk urip"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "lan roh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:23:58.647041762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lah kula ugi sampun ngendika: Kula boten badhe ngusir dheweke ⟨את⟩ saking ngarsa panjenengan; dheweke badhe dados eri ing sisih panjenengan, lan para elohim-ipun badhe dados jeru tumrap panjenengan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "lan ugi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kula ngendika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "boten"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "dheweke ⟨את⟩",
+      "marks": "dheweke (para Kanaan ingkang boten kausir)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "saking ngarsa panjenengan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "lan badhe dados"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "panjenengan"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "dados eri ing sisih"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "lan para elohim-ipun"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "badhe dados"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "panjenengan"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "jeru (jerat)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:44.342763533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Mesthi wong bener bakal muji asma-Mu; wong jujur bakal manggon ngarsa ⟨את⟩ praenan-Mu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Mesthi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong bener"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "bakal muji"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "asma-Mu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bakal manggon"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praenan-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praenan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:54.820324182Z",
+  "model": "glm-5.3"
+}

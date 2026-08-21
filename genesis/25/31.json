@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Yaakov ngandika:adolna ing dina iki ⟨את⟩ hak lair mbarepmu marang aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "adolna"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ing dina iki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hak lair mbarepmu"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "hak lair mbarepmu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:35.561561556Z",
+  "model": "glm-5.3"
+}

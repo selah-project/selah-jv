@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan sira padha ngucap: 'Ora trep dalane Adonai.' Saben wong miturut dalane dhewe Aku ngukumi ⟨את⟩ sira, omah Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "lan sira padha ngucap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "trep"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "miturut dalane dhewe"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "Aku ngukumi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira, omah Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T01:17:49.527520620Z",
+  "model": "glm-5.3"
+}

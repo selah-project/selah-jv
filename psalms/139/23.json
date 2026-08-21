@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Ulah jlajah aku, El, lan padha ngerti atiku; padha uji aku, lan padha ngerti pira-pirasaku.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "ulah jlajah aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "lan padha ngerti"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "padha uji aku"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "lan padha ngerti"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "pira-pirasaku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:15.822446378Z",
+  "model": "glm-5.3"
+}

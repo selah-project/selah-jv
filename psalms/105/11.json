@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "ngendika: Kanggo kowé Aku bakal maringi ⟨את⟩ tanahe Kenaan, dadi taliuk warismu.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo kowé"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Aku bakal maringi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanahe Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tali ukur (dadi taliuk\/pectal)"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "warisanmu (para)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:50.963667351Z",
+  "model": "glm-5.3"
+}

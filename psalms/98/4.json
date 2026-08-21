@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 98,
+  "translation": "Sorak-sorakana mring Yahweh, saindhenging bumi; padha muncaha lan bungaha, sarta padha nembanga.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "sorak-sorakana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mring Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "padha muncaha"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "lan bungaha"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "sarta padha nembanga"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:19.797949578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Aja kacaket banyu ngalebokna aku, lan aja jurang ngleleg aku, lan aja sumur nutup cangkeme dhuwur aku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ngalebokna aku"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "kacaket"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ngleleg aku"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "jurang leming"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "nutup"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "dhuwur aku"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "cangkeme"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:59.619949340Z",
+  "model": "glm-5.3"
+}

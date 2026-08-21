@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aja bungah, mungsuhku, nglawan aku; sebab aku wis tiba, aku wis ngadeg maneh; sebab aku lungguh ing pepeteng, Yahweh dadi cahya kanggo aku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nglawan-aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "aku-wis-tiba"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "aku-wis-ngadeg-maneh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "aku-lungguh"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ing-pepeteng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dadi-cahya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo-aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:54.664973305Z",
+  "model": "glm-5.3"
+}

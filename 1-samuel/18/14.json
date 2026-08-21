@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Dawid tansah nindakake kaluhuran ing saben dalane, lan Yahweh kene nangeri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan ⟨dadi⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "nindakake kaluhuran"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kene nangeri"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:13.065224962Z",
+  "model": "glm-5.3"
+}

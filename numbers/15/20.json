@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Saka wiwitane adonanmu kowe ngangkat ⟨את⟩ roti bunder (ḥallah) minangka peparing, kaya peparinging lantai irten, mengkono uga kowe ngangkat ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "saka wiwitane"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "adonanmu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "roti bunder (ḥallah)"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "kowe ngangkat"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "peparing"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "kaya peparinging"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "lantai irten"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono uga"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "kowe ngangkat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (roti bunder ḥallah)"
+    }
+  ],
+  "timestamp": "2026-08-21T03:55:03.525610234Z",
+  "model": "glm-5.3"
+}

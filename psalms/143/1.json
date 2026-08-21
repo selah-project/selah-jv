@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 143,
+  "translation": "Mizmor kanggo Dawid. Yahweh, ngestokake dongaku, cethongna kupingmu marang panyuwunku; ing kaluhuran-imanmu walesana aku, ing kadhaulatmu-bener.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngestokake"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "dongaku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "cethongna kupingmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "panyuwunku"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "ing kaluhuran-imanmu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "walesana aku"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ing kadhaulatmu-bener"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:48.979086267Z",
+  "model": "glm-5.3"
+}

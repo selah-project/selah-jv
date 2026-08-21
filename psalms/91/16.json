@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Kang dawa umur Aku maremakake dheweke, lan Aku ndadekake dheweke mirseni pitulunganku.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "kang dawa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "umur\/dina-dina"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "Aku maremakake dheweke"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "lan Aku ndadekake dheweke mirseni"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "pitulunganku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:51.105741970Z",
+  "model": "glm-5.3"
+}

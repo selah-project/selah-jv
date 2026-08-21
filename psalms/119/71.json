@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Becik kanggo aku yen aku didadekake sengsara, supaya aku sinau katetepan-mu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "aku didadekake sengsara"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "aku sinau"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katetepan-mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:55.473635103Z",
+  "model": "glm-5.3"
+}

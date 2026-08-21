@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Elihu ngenteni ⟨את⟩ Ayub nganggo tembung, awit wong-wong tuwa iku ⟨are⟩ luwih sepuh tinimbang dheweke mungguh ing dina-dina.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ngenteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "nganggo tembung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "wong-wong tuwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "luwih sepuh tinimbang dheweke"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "mungguh ing dina-dina"
+    }
+  ],
+  "timestamp": "2026-08-21T02:33:43.535606219Z",
+  "model": "glm-5.3"
+}

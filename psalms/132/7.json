@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Ayo mlebu padhemahe, ayo sumujud ing tlapakan sikile.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "ayo mlebu"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "padhemahe"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "ayo sumujud"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "ing tlapakan"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sikile"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:35.753039446Z",
+  "model": "glm-5.3"
+}

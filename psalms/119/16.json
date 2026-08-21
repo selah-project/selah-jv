@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Ing satatan-Su aku bakal seneng-seneng, ora bakal aku lali sabda-Mu.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "ing satatan-Su"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "aku bakal seneng-seneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "bakal aku lali"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sabda-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:55.341063177Z",
+  "model": "glm-5.3"
+}

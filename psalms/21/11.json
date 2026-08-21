@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Wohé bakal kok tumpes-tumpesaké saka bumi, lan wijiné saka antarané para putraning manungsa.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "wohé"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka-bumi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "bakal-kok-tumpes-tumpesaké"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "lan-wijiné"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "saka-antarané-para-putraning"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:17.709206825Z",
+  "model": "glm-5.3"
+}

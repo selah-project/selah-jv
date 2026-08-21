@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Wong bodho ⟨⟨sebab⟩⟩ dalan pambrontakané, lan amarga kaluputané dhéwé disiksa.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "wong bodho"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "amarga dalan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pambrontakané"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "lan amarga kaluputané"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "disiksa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:52.330607577Z",
+  "model": "glm-5.3"
+}

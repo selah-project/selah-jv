@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Yahweh, Elohimmu, sing lumaku ing ngarepmu, iku sing bakal perang kanggo kowé, miturut kabeh sing wis ditindakake marang ⟨את⟩ kowé ing Mitzrayim, ing ngarsané panonmu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ing ngarepmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "bakal perang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo kowé"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ marang kowé"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitzrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ing ngarsané panonmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:04.776235345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Kutha-kutha Aroer ditinggalake; dadi panggonane kawan-kewan, lan padha ngaso, lan ora ana sing ngegregetake.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "ditinggalake"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "dadi panggonane kawan-kewan"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "lan padha ngaso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "sing ngegregetake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:13.015266960Z",
+  "model": "glm-5.3"
+}

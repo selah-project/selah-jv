@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan ia ngregedi saka ing lenga kuwi ing Pedeman (mizbeach) ping pitu, lan ia murokake ⟨את⟩ Pedeman mau lan ⟨את⟩ sakabèhing prabotané, uga ⟨את⟩ Baskom ngumbah lan ⟨את⟩ sikilané, supaya kaluhuran.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "Lan ia ngregedi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka ing lenga kuwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Pedeman (mizbeach)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ping pitu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kaping-kaping"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "lan ia murokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pedeman (mizbeach) mau"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Pedeman (mizbeach) mau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabèhing prabotané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhing"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "prabotané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uga ⟨את⟩",
+      "marks": "Baskom ngumbah"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "Baskom ngumbah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uga ⟨את⟩",
+      "marks": "sikilané"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sikilané"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "supaya kaluhuran"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:12.459564562Z",
+  "model": "glm-5.3"
+}

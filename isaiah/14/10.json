@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Kabeh padha matur sarta padha ngendika marang sira: Kowe uga kadhol kaya dene awake dhewe; marang aku kowe wis padha.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Kabeh"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "padha matur"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sarta padha ngendika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "kadhol"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "kaya dene awake dhewe"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "wis padha"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:36.227725661Z",
+  "model": "glm-5.3"
+}

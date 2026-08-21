@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Singa ngundhuh ing mangsa ketiga ⟨iku⟩ putra sing ngati-ati; sing tilem ing mangsa panèn ⟨iku⟩ putra sing gawe isin.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "ngundhuh"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ing mangsa ketiga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ngati-ati"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "tilem"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ing mangsa panèn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "gawe isin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:59.488704786Z",
+  "model": "glm-5.3"
+}

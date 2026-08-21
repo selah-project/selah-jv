@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lagi ditilar ana lanang sulung kabeh ing Mitsrayim, tembé-kawitane kukuhé, ing pasaréané Ham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ditilar ana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "lanang sulung"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "tembé-kawitane"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "kukuhé \/ bisane"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ing pasaréané"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:23.073040679Z",
+  "model": "glm-5.3"
+}

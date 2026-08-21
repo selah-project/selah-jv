@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Amarga sira teka arep ndeleng praanganku — sapa sing njaluk iki saka tanganmu, ngunjak-injak pelataranku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "sira teka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arep ndeleng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "praanganku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "njaluk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "saka tanganmu"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "ngunjak-injak"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "pelataranku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:40.695773850Z",
+  "model": "glm-5.3"
+}

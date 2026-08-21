@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "⟨Dhèwèké⟩ bakal mlebu ing generasi leluhure; nganti salawasane ⟨dhèwèké⟩ ora bakal ndeleng cahya.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "bakal mlebu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generasi"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "leluhure"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salawasane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:28.284821542Z",
+  "model": "glm-5.3"
+}

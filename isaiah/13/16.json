@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan anak-anaké bakal dijegreg ing sangarepe paningalé; omah-omahé bakal dirampok, lan bojo-bojoné bakal dipeperang.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "lan anak-anaké"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "dijegreg"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ing sangarepe paningalé"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "dirampok"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "omah-omahé"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "lan bojo-bojoné"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "dipeperang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:31.766744437Z",
+  "model": "glm-5.3"
+}

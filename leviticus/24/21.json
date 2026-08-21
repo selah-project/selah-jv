@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan sing matèni kéwan kudu mbales iku, lan sing matèni manungsa kudu dipatèni.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "lan sing matèni"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kéwan"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "kudu mbales iku"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "lan sing matèni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kudu dipatèni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:38.532980029Z",
+  "model": "glm-5.3"
+}

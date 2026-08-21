@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan abdi lanangmu lan abdi wadonmu, sing bakal diduwéni ⟨ing⟩ panjenengan, ⟨iku⟩ saka ⟨את⟩ bangsa-bangsa sing ngubengi panjenengan; saka bangsa kui panjenengan tuku abdi lanang lan abdi wadon.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Lan abdi lanangmu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "lan abdi wadonmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal diduwéni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ing⟩ panjenengan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "bangsa-bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "ngubengi panjenengan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "saka bangsa kui"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "panjenengan tuku"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi lanang"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lan abdi wadon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:44.491121859Z",
+  "model": "glm-5.3"
+}

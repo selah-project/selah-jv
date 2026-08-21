@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur Shemuel nyedhekake ⟨את⟩ sakabehing suku Israyel, lan kasorbit suku Binyamin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "banjur nyedhekake"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing suku Israyel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "lan kasorbit"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:27.150961298Z",
+  "model": "glm-5.3"
+}

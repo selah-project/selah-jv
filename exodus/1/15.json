@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ratu Mitsrajim matur marang para juru nulang para wadon Ibrani, kang jeneng sijine ⟨the⟩ Shifrah lan jeneng ⟨the⟩ liyane Puah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "marang para juru nulang"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "para wadon Ibrani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "sijine"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifrah"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lan jeneng"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "liyane"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:22.189733525Z",
+  "model": "glm-5.3"
+}

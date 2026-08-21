@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 1:10",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lakune ing dina iku, pangandikane Yahweh: bakal ana swara tangis saka Gapura Iwak, lan rengetan saka Mishneh, lan prahara gedhe saka bukit-bukit.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Lakune"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "tangis"
+    },
+    {
+      "surface": "משער",
+      "gloss": "saka Gapura"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "Iwak"
+    },
+    {
+      "surface": "ויללה",
+      "gloss": "lan rengetan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "Mishneh"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "lan prahara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "מהגבעות",
+      "gloss": "saka bukit-bukit"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:39.855816422Z",
+  "model": "glm-5.3"
+}

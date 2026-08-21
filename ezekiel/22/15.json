@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan aku ngebaraké ⟨את⟩ kowé ing antarane para bangsa, lan aku njaraké ing tlatah-tlatah, lan aku mariake najismu saka ing kowé.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "aku ngebaraké"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing antarane para bangsa"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "aku njaraké"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ing tlatah-tlatah"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "aku mariake"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "najismu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka ing kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:14:17.355472929Z",
+  "model": "glm-5.3"
+}

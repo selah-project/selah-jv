@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan saiki, celathu-wae, njangkarakna ⟨את⟩ kewan-kewanmu lan ⟨את⟩ sakabehing sing kagunganmu ing sawah; saben wong lan saben kewan sing ketemu ing sawah lan ora diklumpukaké mulih marang omah, es bakal tumiba ing atasé, lan bakal padha mati.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "celathu-wae, njangkarakna"
+    },
+    {
+      "surface": "העז",
+      "gloss": "nggayuh prayoga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kewan-kewanmu"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "kewan-kewanmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kagunganmu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing sawah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "lan saben kewan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ketemu"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing sawah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "diklumpukaké mulih"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "marang omah"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "bakal tumiba"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ing atasé"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "es"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "lan bakal padha mati"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:05.292472475Z",
+  "model": "glm-5.3"
+}

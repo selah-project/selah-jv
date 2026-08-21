@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan bumi iku ⟨iku⟩ kosong lan kothong, lan peteng ing sandhuwuring pasuryaning jurang jero; lan Rohing Elohim nglambari ing sandhuwuring pasuryaning banyu.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Lan bumi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "lan kothong"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "lan peteng"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwuring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pasuryaning"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "jurang jero"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "lan Rohing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "nglambari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwuring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pasuryaning"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:15.792085278Z",
+  "model": "glm-5.3"
+}

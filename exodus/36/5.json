@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan padha ngandika marang Moshe, ngucap: Wong-wong saya tambah gawé nggawa luwih saka cukupé bahan kanggo pakaryan kang Yahweh parentahaké kanggo digawé ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "saya tambah gawé"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "luwih saka cukupé"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "bahan pangabektèn"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "kanggo pakaryan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "parentahaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "kanggo digawé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "pakaryan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:20.199595884Z",
+  "model": "glm-5.3"
+}

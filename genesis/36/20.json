@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Iki para putrane Seir sang Khori, sing ndunungi ⟨ing⟩ tanah iku: Lotan, Syobal, Tsibeon, lan Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "sang Khori"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sing ndunungi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah iku"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "Syobal"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "Tsibeon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "Anah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:04.092729415Z",
+  "model": "glm-5.3"
+}

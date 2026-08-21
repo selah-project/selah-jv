@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Dadi aku tuku ⟨את⟩ iwak klambi iku, miturut sabda Yahweh, lan aku enthengake ing pinggulku.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Dadi aku tuku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwak klambi iku"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "iwak klambi iku"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "lan aku enthengake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "pinggulku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:53:41.716891667Z",
+  "model": "glm-5.3"
+}

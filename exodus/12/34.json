@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Wong mau ngunggahake ⟨את⟩ adonane sadurunge tuwa, papan pangulenané kaiket ing sandhangané, ing pundhaké.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ngunggahake"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adonane"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "adonane"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "tuwa (fermentasi)"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "papan pangulenané"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "kaiket"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "ing sandhangané"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "pundhaké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:11.226203388Z",
+  "model": "glm-5.3"
+}

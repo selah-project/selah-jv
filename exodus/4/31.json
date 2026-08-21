@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Wong akèh iku percaya, sarta krungu yèn Yahweh wis nglungguhi ⟨את⟩ para putra Israël lan yèn wis ndeleng ⟨את⟩ kasusahané; banjur padha sumembah lan padha sujud.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh iku"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "sarta krungu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wis nglungguhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putra Israël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "lan yèn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wis ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahané"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "kasusahané"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "banjur padha sumembah"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "lan padha sujud"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:13.478407025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Banjur ⟨⟨dia⟩⟩ ngleburake ⟨את⟩ dhèkné ing lebak ing bumi Moab, ngadhep Beit-Peor; lan ora ana wong sing mangertèni ⟨את⟩ pekuburané nganti tekan diné iki.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "ngaleburake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèkné"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "ing lebak"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngadhep"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mangertèni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pekuburané"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "pekuburané"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "diné"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:48.834143648Z",
+  "model": "glm-5.3"
+}

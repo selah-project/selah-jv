@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 8:19",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Dhèwèké ngandika: Sadulurku, putrané ibuku, iku ⟨⟨lorone⟩⟩; dadi Yahweh urip, manawa kowe nguripake ⟨את⟩ dhèwèké, ora bakal dak pateni ⟨את⟩ kowé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sadulurku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "iku"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "החיתם",
+      "gloss": "kowe nguripake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké (sadurungé dipateni)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "dak pateni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:01.091600610Z",
+  "model": "glm-5.3"
+}

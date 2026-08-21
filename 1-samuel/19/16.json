@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Para utusan teka, lan lah, ⟨ing⟩ ranjang ana terafim, lan sampiran saka wulu kambing ing sisih endhase.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "para utusan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ranjang"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "sampiran"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "ing sisih endhase"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:54.033799426Z",
+  "model": "glm-5.3"
+}

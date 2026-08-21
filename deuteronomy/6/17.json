@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sira kudu ngati-ati ngupadi rumeksani ⟨את⟩ parentahé Yahweh Elohimira, sarta pangapuse sarta ukum-ukumé, kang dhawuhaké marang sira.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "ngati-ati"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "sira rumeksani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentahé"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "parentahé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "sarta pangapuse"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "sarta ukum-ukumé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "dhawuhaké marang sira"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:53.493238065Z",
+  "model": "glm-5.3"
+}

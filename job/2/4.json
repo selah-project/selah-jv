@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur ha-satan wangsulan ⟨את⟩ Yahweh lan ngandika: kulit ana gantine kulit, lan sapérakopunapa kang diduwéni wong bakal diwènèhaké ana gantine nyawané.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "banjur wangsulan"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ana gantine"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabèh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "diduwéni wong"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bakal diwènèhaké"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ana gantine"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:21:13.768024875Z",
+  "model": "glm-5.3"
+}

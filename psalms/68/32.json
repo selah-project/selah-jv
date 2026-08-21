@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Para pangagung bakal teka saka Mitsrayim; Kush bakal mesatake tangane marang Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "para pangagung"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "bakal mesatake"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:46.577704131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Laul mikukuh Sabul lan sabeh wong Yisrael ⟨את⟩ pangucap-pangucape Goliat iku, lan padha jigrig lan padha wedi sanget.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lan mikukuh"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangucap-pangucape Goliat"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangucap-pangucap"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "lan padha jigrig"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "lan padha wedi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:32.087327990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Adonai, bibakake lambunge aku, lan cangkemingsun bakal nuduhake pengamu-mu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lambunge aku"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "bibakake"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "lan cangkemingsun"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bakal nuduhake"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "pengamu-mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:52.207573547Z",
+  "model": "glm-5.3"
+}

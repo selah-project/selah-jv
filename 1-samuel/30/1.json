@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan kadadéan, nalika Dawid lan wong-wongé teka ing Tsiklag ing dina katelu, para Amalek wis nyebar ngrembakaa menyang Negéb lan menyang Tsiklag, lan padha nggebug ⟨את⟩ Tsiklag, lan padha ngobong ⟨את⟩ kutha iku ing geni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "nalika teka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "lan wong-wongé"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "ing Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katelu"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "para Amalek"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "padha nyebar ngrembakaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negéb"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan menyang"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "padha nggebug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "lan padha ngobong"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kutha iku"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:44.617881040Z",
+  "model": "glm-5.3"
+}

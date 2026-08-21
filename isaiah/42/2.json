@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Ora bakal njerit, ora bakal nungkat, lan ora bakal ngrungokake ing dalan swarane.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "njerit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "nungkat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "swarane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:53.571087733Z",
+  "model": "glm-5.3"
+}

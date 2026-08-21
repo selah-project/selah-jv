@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan sira padha sunat ⟨את⟩ daging kulupmu, lan iku dadi pratanda prajanjian ing antarané-Ingsun lan ing antarané sira.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "lan sira padha sunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging kulupmu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "kulupmu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan iku dadi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "pratanda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ing antarané-Ingsun"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "lan ing antarané sira"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:31.541471818Z",
+  "model": "glm-5.3"
+}

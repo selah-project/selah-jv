@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 110,
+  "translation": "Adonai ing sisih tengenmu, numpes para ratu ing dina patmane.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sisih tengenmu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "numpes"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "patmane"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:57.702416034Z",
+  "model": "glm-5.3"
+}

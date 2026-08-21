@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Dhèwèké banjur lunga saka ⟨את⟩-né, lan nutup lawang ing awake lan ing anak-anaké; ⟨dhèwèké⟩ padha ngaturake marang ibuné, lan dhèwèké ngunjukake.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "banjur lunga"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "saka ⟨את⟩-né"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "lan nutup"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ing awake"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dhèwèké (anak-anak)"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "padha ngaturake"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "marang ibuné"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "lan dhèwèké (ibu)"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "ngunjukake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:25:14.193909964Z",
+  "model": "glm-5.3"
+}

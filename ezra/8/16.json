@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 8:16",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur takkirim menyang Eli'ezer, menyang Ariel, menyang Semaiah, lan menyang Elnatan, lan menyang Yarib, lan menyang Elnatan, lan menyang Natan, lan menyang Zekharayah, lan menyang Meshulam, para pangarep; uga menyang Yoyarib lan menyang Elnatan, para wong kang ngerti.",
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "banjur takkirim"
+    },
+    {
+      "surface": "לאליעזר",
+      "gloss": "menyang Eli'ezer"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "menyang Ariel"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "menyang Semaiah"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "lan menyang Elnatan"
+    },
+    {
+      "surface": "וליריב",
+      "gloss": "lan menyang Yarib"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "lan menyang Elnatan"
+    },
+    {
+      "surface": "ולנתן",
+      "gloss": "lan menyang Natan"
+    },
+    {
+      "surface": "ולזכריה",
+      "gloss": "lan menyang Zekharayah"
+    },
+    {
+      "surface": "ולמשלם",
+      "gloss": "lan menyang Meshulam"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "para pangarep"
+    },
+    {
+      "surface": "וליויריב",
+      "gloss": "uga menyang Yoyarib"
+    },
+    {
+      "surface": "ולאלנתן",
+      "gloss": "lan menyang Elnatan"
+    },
+    {
+      "surface": "מבינים",
+      "gloss": "para wong kang ngerti"
+    }
+  ],
+  "timestamp": "2026-08-21T03:08:27.201681504Z",
+  "model": "glm-5.3"
+}

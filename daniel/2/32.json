@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Patung iku: sirahé saka emas becik, dhadhané lan lengen-lengené saka perak, wetengé lan pupuné saka tembaga.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "patung"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "די",
+      "gloss": "saka"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "dhadhané"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "lan lengen-lengené"
+    },
+    {
+      "surface": "די",
+      "gloss": "saka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "wetengé"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "lan pupuné"
+    },
+    {
+      "surface": "די",
+      "gloss": "saka"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:56:44.188259040Z",
+  "model": "glm-5.3"
+}

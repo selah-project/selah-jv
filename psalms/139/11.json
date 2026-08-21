@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Lan aku munjuk: mesthi kala peteng ngremuk aku — nanging wengi dadi cahya ing sakupengeku.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku munjuk"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mesthi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kala peteng"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ngremuk aku"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nanging wengi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "dadi cahya"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "ing sakupengeku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:17.472460383Z",
+  "model": "glm-5.3"
+}

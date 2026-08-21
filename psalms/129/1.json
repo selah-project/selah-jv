@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 129,
+  "translation": "Tembang ziarah. Kerep banget ⟨wong-wong⟩ nyesekake aku wiwit saka enomku — coba Israél ngendika.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Tembang"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ziarah"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "kerep banget"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "nyesekake aku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "wiwit saka enomku"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "נא",
+      "gloss": "coba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:46.403240525Z",
+  "model": "glm-5.3"
+}

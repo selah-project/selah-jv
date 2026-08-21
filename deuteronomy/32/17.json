@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Padha nyembelih kurban marang setan-setan, dudu allah; marang para allah sing padha ora weruh padha — anyar-anyar teka saka cedhak, sing ora padha diwedeni leluhure kowe.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "padha nyembelih kurban"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "marang setan-setan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "allah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "para allah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "weruh marang"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "anyar-anyar"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "saka cedhak"
+    },
+    {
+      "surface": "באו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "diwedeni"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "leluhure kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:44.221511657Z",
+  "model": "glm-5.3"
+}

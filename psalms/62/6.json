@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Namung marang Elohim jiwa-Ku ngenteni kanthi meneng; awit saka Panjenengane pangarep-arepku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "namung"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ngenteni kanthi meneng"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-Ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka Panjenengane"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "pangarep-arepku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:20.984926219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan aku krungu ⟨את⟩ swarane tembung-tembunge; lan nalika aku krungu ⟨את⟩ swarane tembung-tembunge, aku kena turu abang ing ngarsaning pasuryanku, lan pasuryanku mengarah bumi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "lan aku krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "nalika aku krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku dadi"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "kena turu abang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pasuryanku"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "lan pasuryanku"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mengarah bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T03:00:14.452379748Z",
+  "model": "glm-5.3"
+}

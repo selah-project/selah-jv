@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan kadadéan: satus kikkar perak iku diuncalake kanggo nelesani ⟨את⟩ sikilé panggonan suci lan ⟨את⟩ sikilé kelambu panutup — satus sikil saka satus kikkar, siji kikkar saben sikil.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "satus"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkar"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "diuncalake kanggo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikilé panggonan suci"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sikilé"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "panggonan suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sikilé kelambu panutup"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "sikilé"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "kelambu panutup"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "satus"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "sikil"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "saka satus"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "kikkar"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "siji kikkar"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "saben sikil"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:18.316845472Z",
+  "model": "glm-5.3"
+}

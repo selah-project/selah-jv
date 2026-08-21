@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Awit marang salju Ia munjuk: 'Sumedya ing bumi'; uga marang udan setithik, lan udan-udan saka kaluhurane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "marang salju"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "Ia munjuk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Sumedya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "uga udan setithik"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "udan"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "uga udan-udan"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "saka udan-udan"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "kaluhurane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:35:46.413299206Z",
+  "model": "glm-5.3"
+}

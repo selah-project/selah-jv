@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "lan kabeh kang didaftar iku ana enem atus éwu lan telung éwu limang atus seket.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "lan-kabeh iku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "kang didaftar"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "éwu"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "lan telung"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "éwu"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "seket"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:10.529315240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Sarah ndeleng ⟨את⟩ putrane Hagar sang wong Mesir sing dilairake kanggo Avraham, lagi ngguyu-ngguyu.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "sang wong Mesir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dilairake"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kanggo Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "lagi ngguyu-ngguyu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:50.686611094Z",
+  "model": "glm-5.3"
+}

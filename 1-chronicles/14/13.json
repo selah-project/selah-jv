@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Peleshet iku nambah maneh, lan padha nyebar ing lembah.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "nambah maneh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshet iku"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "lan padha nyebar"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ing lembah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:22:46.780996508Z",
+  "model": "glm-5.3"
+}

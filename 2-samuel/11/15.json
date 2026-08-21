@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan tinulis ing serat iku: Padha unsafekaké ⟨את⟩ Uria ing ngarepe panggonan perang sing paling sengit, lan padha mundur saka sapurihe, supaya ⟨dheweke⟩ kena dipateni lan mati.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "tinulis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ing serat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "padha unsafekaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngarepe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kanthi ngarep"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "sing paling sengit"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "lan padha mundur"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "saka sapurihe"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "supaya kena dipateni"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "lan mati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:20.440603859Z",
+  "model": "glm-5.3"
+}

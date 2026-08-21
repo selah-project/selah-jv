@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Bencana ilangmu ngrancang, kaya piso cukur kang dilandhepake, gawe tipu daya.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Bencana"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ngrancang"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ilatmu"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "kaya piso cukur"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "dilandhepake"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gawe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "tipu daya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:45.116901883Z",
+  "model": "glm-5.3"
+}

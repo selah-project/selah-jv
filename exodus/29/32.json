@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan Aharon lan anak-anake bakal mangan ⟨את⟩ daging domba jantan iku lan ⟨את⟩ roti sing ana ing keranjang, ing ngarep lawang kemah pasamuwan.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "lan bakal mangan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging domba jantan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "domba jantan iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "roti"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ana ing keranjang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ing ngarep lawang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:09.969534329Z",
+  "model": "glm-5.3"
+}

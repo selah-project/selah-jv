@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sing padha mangan daging umat-Ku, kulite padha diudhuni saka awake, lan ⟨את⟩ balunge padha dijemeur, banjur disigar kaya daging ing kendhil lan kaya daging ing sajroning anglo.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "sing padha"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "lan kulite"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "saka awake"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "padha diudhuni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "balunge"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "balunge"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "padha dijemeur"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "banjur disigar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "ing kendhil"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "lan kaya daging"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "anglo"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:16.860537176Z",
+  "model": "glm-5.3"
+}

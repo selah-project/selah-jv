@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur Avraham tindak saka kana menyang tanah Negev, lan manggon ana ing antarane Kadesh lan Shur, lan netepi dadi tamu ing Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "banjur tindak"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menyang tanah"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ana ing antarane"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "lan netepi dadi tamu"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ing Gerar"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:32.567624535Z",
+  "model": "glm-5.3"
+}

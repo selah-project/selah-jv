@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Sebab mawa lambe gagap lan mawa basa liya ⟨dhèwèké⟩ bakal ngendika marang bangsa iki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "mawa lambe gagap"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lambe"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "lan mawa basa"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "liya"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bakal ngendika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:02.486246987Z",
+  "model": "glm-5.3"
+}

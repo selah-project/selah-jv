@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Yonatan nglukis ⟨את⟩ pos Palisti sing ana ing Geva, lan Palisti padha krungu; Saul nuli njalari swaraning shofar ing sadhengahing bumi, ngendika: Padha krungua, para Ibrani.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "lan nglukis"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pos Palisti"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "pos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palisti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "ing Geva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "lan padha krungu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palisti"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "lan Saul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "njalari swara"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadhengahing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "padha krungua"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "para Ibrani"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:23.940927661Z",
+  "model": "glm-5.3"
+}

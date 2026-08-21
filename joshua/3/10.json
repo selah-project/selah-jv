@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Yehosyua ngandika: Ing iki kowé bakal weruh yèn ⟨⟨ana⟩⟩ El sing urip ing tengah-tengahmu, lan tanpa sala bakal ngusir saka ing ngarepmu ⟨את⟩ wong Kenaan, lan ⟨את⟩ wong Het, lan ⟨את⟩ wong Hiwi, lan ⟨את⟩ wong Perizi, lan ⟨את⟩ wong Girgasi, lan wong Emori, lan wong Yebusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ing iki"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "kowé bakal weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sing urip"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ing tengah-tengahmu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "lan tanpa sala bakal ngusir"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "bakal ngusir"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "saka ing ngarepmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kenaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Het"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "wong Het"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "wong Hiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Perizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "wong Perizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong Girgasi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "wong Girgasi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "lan wong Emori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "lan wong Yebusi"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:10.497740612Z",
+  "model": "glm-5.3"
+}

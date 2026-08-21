@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Kagungané Dawid. Sugengana, jiwané aku, marang ⟨את⟩ Yahweh, lan kabèh jeroning aku marang ⟨את⟩ asmané kang suci.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kagungané Dawid"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Sugengana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwané aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabèh"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "jeroning aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmané kang suci"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kang suci"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:34.117220645Z",
+  "model": "glm-5.3"
+}

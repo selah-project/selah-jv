@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aku ndeleng para wong lugu, aku ngerti antarane para enom: sawijining pemuda kurang budi.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "aku ndeleng"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "para wong lugu"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "aku ngerti"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "antarane para enom"
+    },
+    {
+      "surface": "נער",
+      "gloss": "pemuda"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "budi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:15.417989127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan ⟨dhèwèké⟩ ngundhurake ⟨את⟩ brajale iku setumpuk-setumpuk, lan bumi iku dadi gandané busik.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Lan ... ngundhurake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "brajale iku (tumpukan-tumpukan kodhok)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "setumpuk-setumpuk"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "setumpuk-setumpuk"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "lan ... dadi busik"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:38.889675749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Sing nutupi langit kanthi mendhung, sing nyamekake udan kanggo bumi, sing njalari thukul suket ing redi.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Sing nutupi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "kanthi mendhung"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "sing nyamekake"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kanggo bumi"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "udan"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "sing njalari thukul"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "redi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "suket"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:12.099079193Z",
+  "model": "glm-5.3"
+}

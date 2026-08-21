@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Manungsa iku kaya suket anggoné dina-dina; kaya kembangé sawah, mangkono uga mundhak kembang.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kaya suket"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "anggoné dina-dina"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "kaya kembang"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono uga"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "mundhak kembang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:26.016244604Z",
+  "model": "glm-5.3"
+}

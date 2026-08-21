@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 114,
+  "translation": "Apa kok kowe, o sagara, nganti ngungsi? O Yarden, apa kok mbalik mundur?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kok kowe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "o sagara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ngungsi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "O Yarden"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "mbalik"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "mundur"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:04.725950974Z",
+  "model": "glm-5.3"
+}

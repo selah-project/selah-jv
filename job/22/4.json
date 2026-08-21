@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Apa merga bektimu marang Panjenengane Panjenengane ngukum kowé, nganti teka bebarengan kowé ing pangadilan?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "apa merga bektimu"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "Panjenengane ngukum kowé"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "nganti teka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bebarengan kowé"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ing pangadilan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:28:18.212428609Z",
+  "model": "glm-5.3"
+}

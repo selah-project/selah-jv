@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Dina ratuné kita — para pangéran padha lara amarga kapanasané anggur; dhèwèké narik tangané dhisik marang ⟨את⟩ para pangéce.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ratuné kita"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "padha lara"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para pangéran"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kapanasan"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "משך",
+      "gloss": "narik"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangané"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para pangéce"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "para pangéce"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:59.987476371Z",
+  "model": "glm-5.3"
+}

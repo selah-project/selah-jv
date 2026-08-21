@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Nanging bare ngumpulaké ⟨את⟩ pasamuwan, kowé mitirake swara, lan aja nganti mbunyèkaké teruwah.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "nanging bare ngumpulaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasamuwan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "kowé mitirake swara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "nganti mbunyèkaké teruwah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:13.298784707Z",
+  "model": "glm-5.3"
+}

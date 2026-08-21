@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Tlapira, kita krungu ⟨iku⟩ ing Efratah, kita nemu ⟨iku⟩ ing sawah-sawah wana.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tlapira"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "kita krungu ⟨iku⟩"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "ing Efratah"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "kita nemu ⟨itu⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "ing sawah-sawah"
+    },
+    {
+      "surface": "יער",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:35.752842661Z",
+  "model": "glm-5.3"
+}

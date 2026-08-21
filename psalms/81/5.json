@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Sebab iku katetepan kanggo Israel, ⟨iku⟩ putusan ⟨kanggo⟩ Elohim Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "חק",
+      "gloss": "katetepan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kanggo Israel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "putusan"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kanggo Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:27.689829583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Tumiba kaya udan pawartosku, mili kaya embun tembungku, kaya rinai ing suket enom lan kaya jawah ing suket-suketan.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "tumiba-netes"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "kaya udan"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "pawartosku"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "mili-netes"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "kaya embun"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "tembungku"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "kaya rinai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ing"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "suket enom"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "lan kaya jawah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ing"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "suket-suketan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:28.314986194Z",
+  "model": "glm-5.3"
+}

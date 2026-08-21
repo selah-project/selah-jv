@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Shaul ngutus para utusan marang Yishai lan ngandika: Utusna marang aku ⟨את⟩ Dawid putramu sing ana ing kewan wedhus.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan ngutus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "para utusan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "utusna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putramu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "ing kewan wedhus"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:21.100519647Z",
+  "model": "glm-5.3"
+}

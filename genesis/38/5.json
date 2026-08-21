@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan deweke nambahi maneh mbabar putra, lan dijenengi ⟨את⟩ jenenge Shela; lan Yehudha ana ing Khezib nalika deweke nglairake ⟨אתו⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "nambahi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mbabar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "dijenengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenenge (Shela)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan dadi\/ana"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "ing Khezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "nalika nglairake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:58.953000411Z",
+  "model": "glm-5.3"
+}

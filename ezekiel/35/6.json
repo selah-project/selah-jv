@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 35:6",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Mula, déning Aku urip — pangandikane Adonai Yahweh — sayekti Aku nggawé sira dadi getih, lan getih bakal ngetut sira; amarga sira ora getèni getih, dadi getih uga bakal ngetut sira.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mula"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sayekti"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "dadi getih"
+    },
+    {
+      "surface": "אעשך",
+      "gloss": "Aku nggawé sira"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "lan getih"
+    },
+    {
+      "surface": "ירדפך",
+      "gloss": "bakal ngetut sira"
+    },
+    {
+      "surface": "אם",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "sira getèni"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "ירדפך",
+      "gloss": "bakal ngetut sira"
+    }
+  ],
+  "timestamp": "2026-08-21T04:14:43.898835209Z",
+  "model": "glm-5.3"
+}

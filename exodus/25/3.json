@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan iki ⟨yaiku⟩ sesaji kang kokjupuk saka ⟨את⟩ wong-wong mau: emas, lan salaka, lan gangsa.",
+  "tokens": [
+    {
+      "surface": "ווזאת",
+      "gloss": "Lan iki"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "sesaji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kokjupuk"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩",
+      "marks": "saka wong-wong mau"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "lan salaka"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "lan gangsa"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:03.917420580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dheweke njupuk kanggo ngresikake ⟨את⟩ omah kalih manuk, kayu arar, benang abrit, lan isop.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "kanggo ngresikake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kalih"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "lan kayu"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "arar"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "lan benang abrit"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kakung (warna abrit)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "lan isop"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:23.966210799Z",
+  "model": "glm-5.3"
+}

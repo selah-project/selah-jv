@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Sebab Kowé dadi pitulungan kanggo aku, lan ing pangayoman swiwi-Mu aku nembang bungah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Kowé dadi"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pitulungan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "lan ing pangayoman"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "swiwi-Mu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "aku nembang bungah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:18.724926053Z",
+  "model": "glm-5.3"
+}

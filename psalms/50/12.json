@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Yen aku ngelih, aku ora bakal ngandika marang sira; sebab dhadhaku bumi lan kapenuhane.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yen"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "aku ngelih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bakal ngandika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "dhadhaku"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "lan kapenuhane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:45.267536677Z",
+  "model": "glm-5.3"
+}

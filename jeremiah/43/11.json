@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Lan dhèwèké teka lan nglurugi ⟨את⟩ bumi Mitsrayim: kang tinemtu mati tumuju pati, lan kang tinemtu ditawan tumuju tawanan, lan kang tinemtu pedhang tumuju pedhang.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "lan dhèwèké teka"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "lan nglurugi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "למות",
+      "gloss": "tinemtu mati"
+    },
+    {
+      "surface": "למות",
+      "gloss": "tumuju pati"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan kang"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "tinemtu ditawan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "tumuju tawanan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan kang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "tinemtu pedhang"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "tumuju pedhang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:03:49.029476714Z",
+  "model": "glm-5.3"
+}

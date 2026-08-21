@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Yahweh ngandika marang Avraham: Yagene iki Sara ketawa, ngucap: Apa temenen aku arep nglairake, padahal aku wis tuwa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "yagene"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "ketawa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "האף",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "temenen"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "arep nglairake"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "padhalal aku"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "aku wis tuwa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:53.831288715Z",
+  "model": "glm-5.3"
+}

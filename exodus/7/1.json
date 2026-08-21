@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Yahweh ngandika marang Moshe: Ndeleng, Aku wus mitunang sira dadi Elohim ing ngarsane Paroh, lan Aharon sadulurmu bakal dadi nabimu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Aku wus mitunang sira dadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ing ngarsane Paroh"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "lan Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadulurmu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "nabimu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:09.101601713Z",
+  "model": "glm-5.3"
+}

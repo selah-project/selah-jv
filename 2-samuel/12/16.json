@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Dawid nyuwun ⟨את⟩ Elohim kelawan bocah kuwi, lan Dawid pasa pasa; banjur mlebu, mesem wengi, turung ing lemah.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Lan ... nyuwun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kelawan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bocah kuwi"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "Lan ... pasa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "banjur mlebu"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "mesem wengi"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "turung"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ing lemah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:43.875175063Z",
+  "model": "glm-5.3"
+}

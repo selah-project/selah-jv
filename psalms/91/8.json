@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Namung mripatmu kang bakal mirsani, lan wratesé para jahat bakal katingal.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "namung"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mripatmu"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "wratesé"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "para jahat"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "katingal"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:04.762539677Z",
+  "model": "glm-5.3"
+}

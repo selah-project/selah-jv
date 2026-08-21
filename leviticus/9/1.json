@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Dadi ing dina kawolu Moshe nimbali Aharon lan para putrane lan para sesepuhane Israil.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kawolu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nimbali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "lan para putrane"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "lan para sesepuhane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:42.728389804Z",
+  "model": "glm-5.3"
+}

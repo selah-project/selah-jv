@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "lan ⟨את⟩ Esaw Aku sengiti, lan Aku ndadèkaké ⟨את⟩ pagunungané dadi reruntuhan, lan ⟨את⟩ pasipéné dadi panggonané srigala ara-ara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "Aku sengiti"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "lan Aku ndadèkaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pagunungané"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "pagunungané"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dadi reruntuhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pasipéné"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "pasipéné"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "kanggo panggonané srigala"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ara-ara"
+    }
+  ],
+  "timestamp": "2026-08-21T01:39:46.415552464Z",
+  "model": "glm-5.3"
+}

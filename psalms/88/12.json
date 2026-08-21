@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Apa kabecikan-Mu bakal dicaritakake ing kubur, kaimanan-Mu ing Awaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Apa bakal dicaritakake"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "ing kubur"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kabecikan-Mu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kaimanan-Mu"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "ing Awaddon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:10.136164013Z",
+  "model": "glm-5.3"
+}

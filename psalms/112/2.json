@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Wong jaya ing bumi bakal dadi dhisike; turune wong jujur bakal kaberkahan.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "wong jaya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "dhisike"
+    },
+    {
+      "surface": "דור",
+      "gloss": "turune"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bakal kaberkahan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:26.592818780Z",
+  "model": "glm-5.3"
+}

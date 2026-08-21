@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Yahweh ngandika marang ⟨dheweke⟩: Sabab Aku bakal ⟨ana⟩ karo sira, lan sira bakal nggebug ⟨את⟩ Midyan kaya dene wong siji.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang ⟨dheweke⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Aku bakal ⟨ana⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo sira"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "lan sira bakal nggebug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kaya dene wong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:46.176291492Z",
+  "model": "glm-5.3"
+}

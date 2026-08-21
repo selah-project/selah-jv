@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Menawa wong ndadekake kebu sawah utawa kebon anggur, banjur nguncalake ⟨את⟩ ternake lan ternake mau mangan ing sawahe wong liya, saka sing paling apik saka sawahe dhewe lan saka sing paling apik saka kebon anggure dhewe kudu mbales.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ndadekake kebu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kebon anggur"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "banjur nguncalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ternake"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "ternake"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "lan mangan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing sawahe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wong liya"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "saka sing paling apik"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "sawahe dhewe"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "lan saka sing paling apik"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "kebon anggure dhewe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kudu mbales"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:10.582702700Z",
+  "model": "glm-5.3"
+}

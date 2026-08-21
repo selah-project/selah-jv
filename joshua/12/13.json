@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "ratu Dibir siji; ratu Geder siji;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Dibir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Geder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:15.087884510Z",
+  "model": "glm-5.3"
+}

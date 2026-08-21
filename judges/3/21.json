@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Ehud njulurake ⟨את⟩ tangan kiwane, lan njupuk ⟨את⟩ ⟨the⟩ pedhang saka pupu sikile tengen, lan nancepake ⟨⟩ ing wetenge.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "njulurake"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan kiwane"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "kiwane"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedhang"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing dhuwur"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "pupu sikil"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tengene"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "nancepake"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "ing wetenge"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:48.164933479Z",
+  "model": "glm-5.3"
+}

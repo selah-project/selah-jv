@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Sira enggal aturana dalané kanggo sira, lan kateluna tapel wates ⟨את⟩ lemahmu, sing Yahweh Elohim-mu ngarisaké marang sira; lan bakal dadi pangungsiyèn sanana saben wong matèni.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "enggal aturana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo sira"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalané"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "lan kateluna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tapel wates"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "tapel wates"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lemahmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "ngarisaké marang sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "pangungsiyèn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sanana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "wong matèni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:58.993567739Z",
+  "model": "glm-5.3"
+}

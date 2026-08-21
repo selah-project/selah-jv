@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan kowe bakal dadi kanggo aku karajan para imam lan bangsa suci. Iki tembung-tembung kang kokandhakake marang para putrane Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "lan kowe"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "karajan"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "lan bangsa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kokandhakake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:26.774563953Z",
+  "model": "glm-5.3"
+}

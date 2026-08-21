@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ruh Yahweh bakal tumindak nunggal karo kowe, kowe bakal atanabi bareng ⟨karo⟩ wong-wong iku, lan kowe bakal malih dadi wong liya.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "lan bakal tumindak nunggal karo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "kowe bakal atanabi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bareng wong-wong iku"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "kowe bakal malih"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "dadi wong"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:04.048806655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Sing maringi pangan marang sakèhé daging, awit kawelasané langgeng salawasé.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Sing maringi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pangan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang sakèhé"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kawelasané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:45.618942332Z",
+  "model": "glm-5.3"
+}

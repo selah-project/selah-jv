@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Marang Kowé para leluhur kita padha setya; padha setya, lan Kowé ngluwari ⟨dhèwèké⟩.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Marang Kowé"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "padha setya"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "para leluhur kita"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "padha setya"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "lan Kowé ngluwari ⟨dhèwèké⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:32.621722541Z",
+  "model": "glm-5.3"
+}

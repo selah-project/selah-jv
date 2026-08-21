@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Awit èwu taun ing paningalan-Mu kaya déné dina biyèn nalika wis kasampèk, lan kaya ronda wayah wengi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "èwu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ing paningalan-Mu"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaya déné dina"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "biyèn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "wis kasampèk"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "lan kaya ronda"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "wayah wengi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.265658515Z",
+  "model": "glm-5.3"
+}

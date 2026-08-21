@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Telung taun ⟨⟨ia⟩⟩ jumeneng nata ing Yerushalayim; jenenge ibune Maakha, putrane Abhisyalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "telung"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jumeneng nata"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lan jeneng"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abhisyalom"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:40.529648244Z",
+  "model": "glm-5.3"
+}

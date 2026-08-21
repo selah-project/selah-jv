@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Kenapa kowe ngendika dhewe adhiku, nganti kula njupuk ⟨את⟩ dhèwèké dadi bojo kula? Lan saiki lah, bojomu, jupuhi lan lungaa.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "kowe ngendika"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "adhiku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhewe"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "nganti kula njupuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kula"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi bojo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "bojomu"
+    },
+    {
+      "surface": "קח",
+      "gloss": "jupuhi"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "lan lungaa"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:03.840530161Z",
+  "model": "glm-5.3"
+}

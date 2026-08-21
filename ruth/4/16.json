@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Naomi banjur njupuk ⟨את⟩ bocah lanang iku, digedhangake ing pangkonane, lan dadi inange ⟨singe⟩.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah lanang iku"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah lanang iku"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "digedhangake"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "ing pangkonane"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "inge ⟨singe⟩"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "inang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:13.739444041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan bakal kelakon, menawa isih ana wong sepuluh ing siji omah, dhèwèké padha mati.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal kelakon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "isih ana"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sepuluh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "wong"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "padha mati"
+    }
+  ],
+  "timestamp": "2026-08-21T01:29:30.389961572Z",
+  "model": "glm-5.3"
+}

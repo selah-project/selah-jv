@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 70,
+  "translation": "Bali mulih marga saka wirange, para sing ngucap: Heah, heah.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Bali mulih"
+    },
+    {
+      "surface": "על",
+      "gloss": "marga saka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "wirange-gantine"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "wirange"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "para sing ngucap"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:05.681989716Z",
+  "model": "glm-5.3"
+}

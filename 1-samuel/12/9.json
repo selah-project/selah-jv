@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur padha lali ⟨את⟩ Yahweh Elohimé dhèwèké, lan Dhèwèké ngadol ⟨את⟩ dhèwèké marang tangané Sisera, pangéran wadyabalalé Hatzor, lan marang tangané wong Filistin, lan marang tangané ratu Moab, lan iku padha perang nglawan dhèwèké.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "banjur padha lali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimé dhèwèké"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "lan Dhèwèké ngadol"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "marang tangané"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangéran"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wadyabala"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatzor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "lan marang tangané"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Filistin"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "lan marang tangané"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "lan padha perang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nglawan dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:08.254575408Z",
+  "model": "glm-5.3"
+}

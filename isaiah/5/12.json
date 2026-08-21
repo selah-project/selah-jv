@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan dadi kecapi lan gambang, kendhang lan suling, lan anggur ana ing pahamane; nanging ⟨את⟩ pandamelane Yahweh padha ora ndeleng, lan gaweyane tangeane ora kadeleng.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kecapi"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "lan gambang"
+    },
+    {
+      "surface": "תף",
+      "gloss": "kendhang"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "lan suling"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "lan anggur"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ana ing pahamane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pandamelane"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "pandamelane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "lan gaweyane"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangeane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "kadeleng"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:55.464838539Z",
+  "model": "glm-5.3"
+}

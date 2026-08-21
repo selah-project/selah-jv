@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Kanggo pangunjara, miturut Sjosjanim, karya Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangunjara"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Sjosjanim (srengenge, tomblo)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "karya Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:56.714052371Z",
+  "model": "glm-5.3"
+}

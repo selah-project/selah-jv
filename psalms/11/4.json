@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Yahweh ana ing padaleman suciné; Yahweh — ing langit singgasanané; mripate nglirwakake, bulu mripate mbidhik-nyidhiki para manungsa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ana ing padaleman"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suciné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "singgasanané"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mripate"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "nglirwakake"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "bulu mripate"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "mbidhik-nyidhiki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:32.710996515Z",
+  "model": "glm-5.3"
+}

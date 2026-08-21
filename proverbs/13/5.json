@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Tembung goroh dibenceni déning wong jujur, nanging wong ala ndadekake bau busuk lan elek.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dibenceni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "nanging wong ala"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ndadekake bau busuk"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "lan elek"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:44.514563342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan ingar-ingare laut Suph, dadi garing, lan Panjenengane nuntun dheweke lumebu ing samodra kaya ing padhang pasir",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "ingar-ingare"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ing laut"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "dadi garing"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "nuntun dheweke"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "ing samodra"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "kaya ing padhang pasir"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:27.028445086Z",
+  "model": "glm-5.3"
+}

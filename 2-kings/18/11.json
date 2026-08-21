@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan raja Asyur anggawa Israél ⟨את⟩ dhateng Asyur, lan ndhèrèkaké dhèwèké ing Halah lan ing Habor, ilèn Gozan, lan ing kutha-kuthaning Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Lan anggawa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "dhateng Asyur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "lan ndhèrèkaké"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "ing Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "lan ing Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ilà"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "lan ing kutha-kuthaning"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madai"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:41.796385316Z",
+  "model": "glm-5.3"
+}

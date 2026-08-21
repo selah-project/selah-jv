@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Sebab roti kaluputan iku didhahar, lan anggur pangeduman dipunjuk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "didhahar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "lan anggur"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "pangeduman"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "dipunjuk"
+    }
+  ],
+  "timestamp": "2026-08-21T04:51:20.147354002Z",
+  "model": "glm-5.3"
+}

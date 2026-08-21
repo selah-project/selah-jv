@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Elohim mirsani ⟨את⟩ para putra Yisrael, lan Elohim mangerteni.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lan mirsani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para putra Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "lan mangerteni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:55:51.451959710Z",
+  "model": "glm-5.3"
+}

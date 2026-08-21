@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim nitahake ⟨את⟩ kaloro padhang ⟨the⟩ agung — ⟨את⟩ padhang ⟨the⟩ agung kanggo mengkoloni ⟨the⟩ awan, lan ⟨את⟩ padhang ⟨the⟩ cilik kanggo mengkoloni ⟨the⟩ wengi — lan ⟨את⟩ lintang-lintang.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan nitahake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaloro padhang agung"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaloro"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "padhang"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "agung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padhang agung"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "padhang"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "agung"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kanggo mengkoloni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "padhang cilik"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "padhang"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "cilik"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kanggo mengkoloni"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lintang-lintang"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "lintang-lintang"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:15.163940601Z",
+  "model": "glm-5.3"
+}

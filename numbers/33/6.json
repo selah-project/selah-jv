@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan dheweke tindak saka Sukkot, lan ndhelik ing Etam, sing ana ing pinggiring ara-ara samun.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "tindak"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "saka Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ndhelik kemah"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ing Etam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ing pinggir"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ara-ara samun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:08.638285323Z",
+  "model": "glm-5.3"
+}

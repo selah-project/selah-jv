@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur manah Yahweh tambah murka marang Yisrael, lan ⟨את⟩ Daud dicobani ing antarane, ngucap: Lunga, para nggoni ⟨את⟩ Yisrael lan ⟨את⟩ Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "אף",
+      "gloss": "manah\/murka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "murup"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "marang Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "dicobani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing antarane"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "para\/nggoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:44.299423673Z",
+  "model": "glm-5.3"
+}

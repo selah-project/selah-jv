@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 75,
+  "translation": "Aja ngunggahake marang dhuwur ⟨the⟩ tandhukmu, aja ngomong nganggo gulu kang atos ⟨impudent⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ngunggahake"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "marang dhuwur"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "tandhukmu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "aja ngomong"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "nganggo gulu"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "atos-atos gulu (ngrasakake)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:24.277654153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan kok serat ing watu-watu mau ⟨את⟩ saben tembung-tembunging Torèt iki, kok terangna becik-becik.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "lan kok serat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "watu-watu mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben tembung-tembunging Torèt iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben \/ kabeh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembunging"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torèt"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kok terangna"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "becik-becik"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:54.276755787Z",
+  "model": "glm-5.3"
+}

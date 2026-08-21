@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Kala biyen kowe andhedhasari ⟨the⟩ bumi, lan langit iku gaweyaning tangan-tanganmu.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "kala biyen"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "kowe andhedhasari"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "lan gaweyan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tangan-tanganmu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:34.676730936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Sok sing ⟨את⟩ iku tinemu ana bareng saka para abdimu, mati dhewe, lan kita uga dadi dhasare bendara, dadi para abdi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tinemu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (sing tinemu)"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "saka para abdimu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mati dhewe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "dhasare bendara"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "dadi para abdi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:51.787795416Z",
+  "model": "glm-5.3"
+}

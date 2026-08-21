@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Gugata gugatanmu karo ⟨את⟩ kanca cedhakmu dhéwé, lan rerahasané wong liya aja kabukak.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "gugatanmu"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "gugata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca cedhakmu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kanca cedhakmu"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "lan rerahasané"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wong liya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "kabukak"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:36.792943022Z",
+  "model": "glm-5.3"
+}

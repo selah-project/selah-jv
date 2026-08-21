@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Maretké ing dhuwur wong-wong nirpata jebakan, geni lan welirang, lan angin ngluru kuping —iku pérangané sangangé.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "maretké"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong nirpata"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "jebakan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "lan welirang"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "lan angin"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ngluru kuping"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pérangané"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "sangangé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:50.784962004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Lan awake nglestareni ⟨את⟩ Yosef, banjur ngandika: Elohim sing ngambali bapak-bapakku ngambah ing ngarsane — Avraham lan Yitshak — Elohim sing nggembalani ⟨את⟩ aku saka isin-isinku nganti dinane iki,",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "lan nglestareni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "ngambali ngambah"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "bapak-bapakku"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "lan Yitshak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "sing nggembalani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "saka isin-isinku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:54:16.197771196Z",
+  "model": "glm-5.3"
+}

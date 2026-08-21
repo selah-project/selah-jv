@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Sebab ing kepalsuan dheweke nanabi marang kowe ing asman-Inku; Aku ora ngutus dheweke, titikane Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "ing kepalsuan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "nanabi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ing asman-Inku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "Aku ngutus dheweke"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "titikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:58:27.908655557Z",
+  "model": "glm-5.3"
+}

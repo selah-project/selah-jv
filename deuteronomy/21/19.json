@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Bapakne lan ibune ngrampungake dheweke, lan ngeluarake ⟨אתו⟩ marang para sesepuh kuthane, lan marang lawang panggonane dhewe.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "ngrantas\/ngrampungake"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "lan ibune"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "lan ngeluarake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kuthane"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:57:22.420815131Z",
+  "model": "glm-5.3"
+}

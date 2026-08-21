@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Sasairené cacah sing kokgawé, mengkono kokgawé kanggo saben siji, sasairené cacahé.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "sasairené cacah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kokgawé"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kokgawé"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "kanggo saben siji"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "sasairené cacahé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:55:10.975565199Z",
+  "model": "glm-5.3"
+}

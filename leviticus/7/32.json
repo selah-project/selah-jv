@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan ⟨את⟩ pupu tengen kudu kokwènake minangka trumah marang imam, saka kurban-kurban slametmu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pupu tengen"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "pupu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "tengen"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "kokwènake"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "minangka trumah"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "marang imam"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "saka kurban-kurban"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "slametmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:16.028282922Z",
+  "model": "glm-5.3"
+}

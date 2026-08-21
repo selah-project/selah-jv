@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan ing dinane nalika kowé ngunjunjaké ⟨את⟩ ⟨the⟩ omér, kowé nindakaké kurban: domba lanang sampurna umur setaun, dadi kurban obong kanggo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "lan kowé nindakaké"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "nalika ngunjunjaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ omér"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "⟨the⟩ omér"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "domba lanang"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sampurna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umur"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "setaun"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "dadi kurban obong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:54.750436136Z",
+  "model": "glm-5.3"
+}

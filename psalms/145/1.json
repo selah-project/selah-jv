@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Pujian kanggo Daud. Aku ngluhurake Kowé, Elohim-ku, sang raja, lan aku ngaturake berkah marang asma-Mu nganti saiki-lawas lan salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Pujian"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Daud"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "aku ngluhurake Kowé"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "lan aku ngaturake berkah"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti saiki-lawas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:45.148515652Z",
+  "model": "glm-5.3"
+}

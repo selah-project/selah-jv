@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Roti tanpa ragi bakal dipangan ⟨את⟩ pitu dina iku, lan aja nganti katon ing ngarsanmu barang sing wis maria, lan aja nganti katon ing ngarsanmu ragi ana ing sadhengah wewengkonmu.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bakal dipangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitu dina iku"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dina iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nganti katon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ing ngarsanmu"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "barang sing wis maria"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nganti katon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ing ngarsanmu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ragi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ana ing sadhengah"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "wewengkonmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:09.012068857Z",
+  "model": "glm-5.3"
+}

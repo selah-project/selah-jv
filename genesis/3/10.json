@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan dheweke ngandika: \"Swaramu kok krungu ing sajroning taman, lan aku wedi amarga aku wuda, banjur aku ndhelik.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan dheweke ngandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swaramu"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "swaramu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ing sajroning taman"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "lan aku wedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "wuda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "banjur aku ndhelik"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:30.498898562Z",
+  "model": "glm-5.3"
+}

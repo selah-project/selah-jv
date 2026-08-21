@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Luwih becik jem paripurna katimbang lenga wangi, lan dina pati katimbang dina lair.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jem"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "katimbang lenga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "paripurna"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "lan dina"
+    },
+    {
+      "surface": "המות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "katimbang dina"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "lair"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:55.710274594Z",
+  "model": "glm-5.3"
+}

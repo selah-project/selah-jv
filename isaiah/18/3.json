@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Sadhengah sing ndunungi tibal lan sing sumanding ing bumi, nalika panji kaunggahake ing redi padha ndelenga; lan nalika sangkala kaungelake, padha ngrungokna.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sadhengah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sing ndunungi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tibal"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "lan sing sumanding"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "nalika kaunggahake"
+    },
+    {
+      "surface": "נס",
+      "gloss": "panji"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "lan nalika kaungelake"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sangkala"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "padha ngrungokake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:44.604961359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Apa dhèwèké ora mulang kowé, ora ngandika marang kowé, lan saka sajroning atiné ngucalaké tembung?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ... ora"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "mulang kowé"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "lan saka sajroning atiné"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "ngucalaké"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "tembung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:12.227410762Z",
+  "model": "glm-5.3"
+}

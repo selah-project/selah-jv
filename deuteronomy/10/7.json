@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Saka kono padha mangkat menyang Gudgodah, lan saka Gudgodah menyang Yotbata, bumi kang duwé kali-kali banyu.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "padha mangkat"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "menyang Gudgodah"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gudgodah"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "menyang Yotbata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:51.807468818Z",
+  "model": "glm-5.3"
+}

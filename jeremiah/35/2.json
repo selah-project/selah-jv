@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Sira manggiya menyang omahing bani Rekhab, sira aturi pangandika, lan sira nggawa ⟨את⟩ dheweke menyang omah Yahweh, menyang salah sawijining bilik, lan sira aparana ngombé ⟨את⟩ anggur.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "manggiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahing"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "bani Rekhab"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "sira aturi pangandika"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (bani Rekhab)"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "sira nggawa dheweke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "salah sawijining"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "bilik"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "sira aparana ngombé"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "anggur"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    }
+  ],
+  "timestamp": "2026-08-21T04:11:47.435959302Z",
+  "model": "glm-5.3"
+}

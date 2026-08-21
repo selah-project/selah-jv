@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Para putrané Bela yaiku Ard lan Naaman; saka Ard, klané wong Ard; saka Naaman, klané wong Naam.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Dadi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Ard"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "lan Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "klané"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "wong Ard"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "saka Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "klané"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "wong Naam"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:55.353064578Z",
+  "model": "glm-5.3"
+}

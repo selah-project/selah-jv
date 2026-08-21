@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Ora kanggo para ratu, hey Lemuel, ora kanggo para ratu ngombé anggur, utawa para panggedhe ngangén-angénaké samseng.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kanggo para ratu"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "hey Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "kanggo para ratu"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ngombé"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "utawa para panggedhe"
+    },
+    {
+      "surface": "או",
+      "gloss": "ngangén-angénaké"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "samseng"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:46.721281390Z",
+  "model": "glm-5.3"
+}

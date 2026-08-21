@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lah, Adonai Yahweh teka kanthi kakuwatan, lan lengene kuasa nugelake kanggo Dhewe; lah, upahe ⟨את⟩ bareng karo Dhe-We, lan ganjarane ana ing ngarsane.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "kanthi kakuwatan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "lan lengene"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "kuasa nugelake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo Dhewe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "upahe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "upahe — bareng karo Dhe-We"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "lan ganjarane"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarsane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:35.448897599Z",
+  "model": "glm-5.3"
+}

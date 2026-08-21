@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Trep ana banyu ⟨⟨וְ⟩ ora — kwantun⟩ kabeh dina ana sing nglubèni aku, bebarengan padha ngubengi aku.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ana sing nglubèni aku"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "padha ngubengi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bebarengan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:51.263299727Z",
+  "model": "glm-5.3"
+}

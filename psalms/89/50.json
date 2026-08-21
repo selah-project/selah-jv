@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Endi kahasilan-Mu sing kawitan, Adonai, sing Sampéyan supata marang Dawid ing kasetyan-Sampéyan?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "kahasilan-Mu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "sing kawitan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "Sampéyan supata"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ing kasetyan-Sampéyan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:20.444836030Z",
+  "model": "glm-5.3"
+}

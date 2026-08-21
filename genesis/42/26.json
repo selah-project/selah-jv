@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan padha ngunggahaké ⟨את⟩ wijiné ana ing kendharaané, lan padha mangkat saka ing kono.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "padha ngunggahaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wijiné"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "wijiné"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keledhé-kendharaané"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "padha mangkat"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka ing kono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:38.979362225Z",
+  "model": "glm-5.3"
+}

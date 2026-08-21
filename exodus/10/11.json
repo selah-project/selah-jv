@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Ora mengkono; saiki padha lunga, para lanang, lan padha nglayani ⟨את⟩ Yahweh, awit ⟨את⟩ iku sing kowe goleki. Banjur dheweke diusir ⟨את⟩ saka ngarsane Paroh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "padha lunga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "para lanang"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "lan padha nglayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "goleki"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "banjur diusir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ saka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsane"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:42.891327305Z",
+  "model": "glm-5.3"
+}

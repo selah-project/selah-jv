@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 99,
+  "translation": "Lan kakukume ratu sing nresnani keadilan — Kowé ngadegake kaluruhan, keadilan lan kabaikan Kowé nindakake ing Yaakov",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Lan kakukume"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nresnani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "kaluruhan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "lan kabaikan"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ing Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:43.756917079Z",
+  "model": "glm-5.3"
+}

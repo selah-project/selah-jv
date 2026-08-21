@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Déné para leluhurmu padha nglencani Aku, mriksani Aku, sanadyan padha ndeleng panggawé-Ku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Déné"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "padha nglencani Aku"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "para leluhurmu"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "mriksani Aku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sanadyan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "panggawé-Ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:22.921029065Z",
+  "model": "glm-5.3"
+}

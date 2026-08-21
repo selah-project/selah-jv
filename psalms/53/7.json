@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Sapa sing paring saka Tsiyon kaslametan Israél! Bareng Elohim mulihaké katitihan umat-É, Yaakov bakal bungah, Israél bakal rame-rame.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sing paring"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "saka Tsiyon"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "kaslametan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "bareng mulihaké"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "katitihan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-É"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "bakal bungah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bakal rame-rame"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:26.603373468Z",
+  "model": "glm-5.3"
+}

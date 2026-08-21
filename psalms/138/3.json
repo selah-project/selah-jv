@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 138,
+  "translation": "Ing diningsun celuk, sira angsal paring wangsulan marangingsun, sira ngukuhakeingsun ing jiwaningsun kalawan kakuwatan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ingsun celuk"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "sira angsal paring wangsulan marangingsun"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "sira ngukuhakeingsun"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "ing jiwaningsun"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kalawan kakuwatan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:24.556096172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Padha muji marang Yahweh, awit ⟨iku⟩ becik, awit nganti salawas-lawase kasetyane.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Padha muji"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:44.279137358Z",
+  "model": "glm-5.3"
+}

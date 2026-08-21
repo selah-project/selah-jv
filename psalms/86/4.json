@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Bungahna atining abdimu, awit marang Kowe, Adonai, atiku dakangkat.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Bungahna"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "atining"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Kowe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "dakangkat"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:52.323130097Z",
+  "model": "glm-5.3"
+}

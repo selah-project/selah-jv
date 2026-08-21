@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Supaya Yahweh, Elohimira, nuduhake marang kita ⟨את⟩ dalan sing bakal kita lakoni ing kono, lan ⟨את⟩ prakara sing bakal kita tindakake.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nuduhake"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kita lakoni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "prakara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "prakara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kita tindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:02:36.008319615Z",
+  "model": "glm-5.3"
+}

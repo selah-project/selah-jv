@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan dudu wong miskin aja sirepagi ing pasulayane.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "lan dudu wong miskin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "sirepagi"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ing pasulayane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:17.260441111Z",
+  "model": "glm-5.3"
+}

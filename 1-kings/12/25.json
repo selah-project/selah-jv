@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur Yarobam yasa ⟨את⟩ Shekhem ing redi Efrayim lan manggon ing kono; banjur metu saka kono lan yasa ⟨את⟩ Penuel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "banjur yasa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "banjur metu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "lan yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:37.747108154Z",
+  "model": "glm-5.3"
+}

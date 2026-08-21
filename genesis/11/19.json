@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Peleg urip sawise nglairake ⟨את⟩ Reu sangang taun lan rong atus taun, lan nglairake anak lanang lan anak wadon.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sangang"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "lan rong atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "lan nglairake"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "lan anak wadon"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:38.601254173Z",
+  "model": "glm-5.3"
+}

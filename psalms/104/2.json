@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Sing nglimputi cahya kaya jubah, sing nglimbarake langit kana kaya kain tarub.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "sing nglimputi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "kaya jubah"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "sing nglimbarake"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "kana kaya kain tarub"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:44.423345794Z",
+  "model": "glm-5.3"
+}

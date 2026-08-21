@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Yahweh wis nguncalake ing satengahing wong iki roh kang gawe kaluputan, lan ⟨padha⟩ nglincirake ⟨את⟩ Mesir ing sabarang panggaweane, kaya lincire wong mabuk ing lupe dhewe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "wis nguncalake"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ing satengahing wong iki"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roh"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "kang gawe kaluputan"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "lan wis nglincirake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mesir"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sabarang"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "panggaweane"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "kaya lincire"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "wong mabuk"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "ing lupe dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:31.677129562Z",
+  "model": "glm-5.3"
+}

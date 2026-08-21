@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Dhèké aku, ing kalumrahan bakal tak pirsa sariramu, bakal tak wareg sarira lumrahmu yèn tangi",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Dhèké aku"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ing kalumrahan"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "bakal tak pirsa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sariramu"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "bakal tak wareg"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "yèn tangi"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "sarira lumrahmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:31.960348240Z",
+  "model": "glm-5.3"
+}

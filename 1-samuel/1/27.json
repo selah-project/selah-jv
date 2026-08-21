@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kanggo bocah iki aku ndedonga, lan Yahweh maringi aku ⟨את⟩ panyuwunku sing takpèngetaké marang Panjenengane.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kanggo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "⟨the⟩ bocah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "aku ndedonga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan maringi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panyuwunku"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "panyuwunku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "takpèngetaké"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "saka Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:25.149666813Z",
+  "model": "glm-5.3"
+}

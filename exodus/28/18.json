@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Larik kapindho: nopek, sapir, lan yahalom.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "lan larik kasebut"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kapindho"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "nopek"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "sapir"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "lan yahalom"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:27.324477797Z",
+  "model": "glm-5.3"
+}

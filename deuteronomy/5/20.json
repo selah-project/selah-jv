@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan ora <t>thembe<\/t> matur palsu marang tatramu dadi saksi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "matur (ndadekake saksi)"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "marang tatramu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "palsu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:08.746527558Z",
+  "model": "glm-5.3"
+}

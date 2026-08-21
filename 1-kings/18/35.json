@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan banyune mili ngubengi ⟨the⟩ misban, lan uga ⟨את⟩ salurane kaisian banyu.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "lan banyune mili"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu iku"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "misban"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salurane"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "salurane"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kaisian"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:24.342182434Z",
+  "model": "glm-5.3"
+}

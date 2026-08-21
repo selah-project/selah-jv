@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Banjur Yaakov ngadeg, sarta mundhut ⟨את⟩ anak-anake lan ⟨את⟩ para garwane, dipapak ing unta-unta",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mundhut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para garwane"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "para garwane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "unta-unta"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:44.226195768Z",
+  "model": "glm-5.3"
+}

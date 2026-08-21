@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Obed nitahake ⟨את⟩ Isai, lan Isai nitahake ⟨את⟩ Dawid.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Isai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "lan Isai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T02:40:45.362822364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Aram padha ndeleng yen dheweke wis kasor ing ngarsane Yisrael, banjur padha kumpul bebarengan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lan padha ndeleng"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "kasor"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "banjur padha kumpul"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bebarengan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:25.630696520Z",
+  "model": "glm-5.3"
+}

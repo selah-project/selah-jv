@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Nanging kowe ⟨iku⟩ ⟨sing⟩ padha, lan taun-taunmu ora bakal tumamat.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nanging kowe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku sing padha"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "lan taun-taunmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "bakal tumamat"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:34.677021162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Muga wong-wonge Beit Aharon padha ngucapa: awit nganti salawas-lawase kasetyane.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "padha ngucapa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "muga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wong-wonge Beit"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:44.279429629Z",
+  "model": "glm-5.3"
+}

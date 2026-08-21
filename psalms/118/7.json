@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Yahweh ⟨iku⟩ ing pihakku ing antarane para penulungku, lan aku bakal ndeleng ⟨ing atas⟩ wong-wong sing sengit klawan aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ing pihakku"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ing antarene para penulungku"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "bakal ndeleng"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "wong-wong sing sengit klawan aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:37.105492342Z",
+  "model": "glm-5.3"
+}

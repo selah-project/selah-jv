@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Banjur sawisé mangkono atine Dawid nyigar ⟨dheweke⟩, jalaran ⟨piyambake⟩ wis nyithak ⟨את⟩ tunggul sing kagungane Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur kadadéan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lan nyigar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Dawid dhewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wis nyithak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunggul"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "tunggul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kagungane Shaul"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:55.029925106Z",
+  "model": "glm-5.3"
+}

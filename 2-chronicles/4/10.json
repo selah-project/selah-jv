@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan ⟨את⟩ Sagara iku dipanggonaké ing sisih tengen, ing arah wétan, ngadhep kidul.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sagara iku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Sagara"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipanggonaké"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "tengen"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "arah wétan"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ngadhep"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "kidul"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:18.077293767Z",
+  "model": "glm-5.3"
+}

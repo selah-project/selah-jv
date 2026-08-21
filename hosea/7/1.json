@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Bareng aku arep nambani Israel, banjur kabolakake kaluputané Efrayim lan piala-pialané Samaria, awit padha nindakaké goroh; maling mlebu, gerombolan perampok ngaroboti ing njaba.",
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "bareng aku arep nambani"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "banjur kabolakake"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kaluputané"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "lan piala-pialané"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "padha nindakaké"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "lan maling"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "mlebu"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "ngaroboti"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gerombolan perampok"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ing njaba"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:41.422911603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lah Yahweh ngunggunaké satru marang Shelomo: ⟨את⟩ Hadad sang Edomi, saka turune ratu — iku ing Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lah ngunggunaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satru"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "marang Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad sang Edomi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "sang Edomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "saka turune"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "ing Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:14.514551354Z",
+  "model": "glm-5.3"
+}

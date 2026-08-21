@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Sing ngatonake aku ⟨is⟩ wirangsang akeh lan ala-ala, Kowé bakal bali nguripake aku; lan saka palenging bumi Kowé bakal bali munggahake aku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "ngatonake aku"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "wirangsang"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "lan ala-ala"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bakal bali"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "nguripake aku"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "lan saka palenging"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bakal bali"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "munggahake aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:03.829441095Z",
+  "model": "glm-5.3"
+}

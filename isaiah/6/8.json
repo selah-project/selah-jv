@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan aku krungu ⟨את⟩ swara Adonai ngandika: ⟨את⟩ Sapa dak-kirim? lan sapa kang lunga kanggo aku? Lan aku ngandika: Lah aku iki — kirim aku.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "lan aku krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "dak-kirim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan sapa"
+    },
+    {
+      "surface": "יילך",
+      "gloss": "kang lunga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngandika"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lah aku iki"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "kirim aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:38.403224023Z",
+  "model": "glm-5.3"
+}

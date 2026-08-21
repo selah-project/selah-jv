@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Ayo padha mirsani panggarapané Yahweh, sing ndadèkaké reruntuhan ing ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ayo padha"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "panggarapané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ndadèkaké"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "reruntuhan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:44.027040012Z",
+  "model": "glm-5.3"
+}

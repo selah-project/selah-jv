@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Cangkemé kebak sumpah lan tipu daya lan pidadhan; sangisoring ilaté angèl kasusahan lan piala.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "cangkemé"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "lan tipu daya"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "lan pidadhan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisoring"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "ilaté"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "lan piala"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:35.916709948Z",
+  "model": "glm-5.3"
+}

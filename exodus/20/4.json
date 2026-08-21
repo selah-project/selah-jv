@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Ora kowe-gawé marang awakmu patung seselan, apa bae wujud sing ana ing langit ing dhuwur, sing ana ing bumi ing ngisor, lan sing ana ing banyu ing ngisor bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kowe-gawé"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang awakmu"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung seselan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "apa bae"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "wujud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ing ngisor"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ing ngisor"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:42.853263196Z",
+  "model": "glm-5.3"
+}

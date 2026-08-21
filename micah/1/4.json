@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lega-lega gunung ing sangisore, lan lebak-lebak padha retak, kaya lilin ing sangarepe geni, kaya banyu sing diucurake ing tuking lemah.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "lega-lega"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "lan lebak-lebak"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "padha retak"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kaya lilin"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ing sangarepe"
+    },
+    {
+      "surface": "האש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "sing diucurake"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "ing tuking lemah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:51.852124704Z",
+  "model": "glm-5.3"
+}

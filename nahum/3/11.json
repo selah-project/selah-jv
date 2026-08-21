@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kowé uga bakal mabuk, bakal didhelikake; kowé uga bakal nggoleki pangayoman saka mungsuh.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "bakal mabuk"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "didhelikake"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "bakal nggoleki"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pangayoman"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "saka mungsuh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:52.733246301Z",
+  "model": "glm-5.3"
+}

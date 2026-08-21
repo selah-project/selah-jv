@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lah, Boaz teka saka Beit-Lechem, lan ngendika marang para panèn: Yahweh karo padha. Lan padha ngendika marang panjenengané: Yahweh mberkahi kowe.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lechem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "marang para panèn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "karo padha"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Lan padha ngendika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang panjenengané"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "mberkahi kowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:23.734257496Z",
+  "model": "glm-5.3"
+}

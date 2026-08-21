@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Ayok ⟨⟨sliramu⟩⟩, kasihku: endah kaya Tirtzah, nepsu endah kaya Yerushalayim, nggegirisi karo wadya-bala kang mawa gendéra.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ayok\/endah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sliramu kasihku"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "kasihku"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "kaya Tirtzah"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "nepsu endah"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "kaya Yerushalayim"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "nggegirisi"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "karo wadya-bala kang mawa gendéra"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:10.812219195Z",
+  "model": "glm-5.3"
+}

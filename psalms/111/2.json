@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 111,
+  "translation": "Agung pakaryané Yahweh, didadèkaké panlitan déning kabeh sing padha seneng ing kono.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "agung"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "pakaryané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "didadèkaké panlitan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "déning kabeh"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "sing padha seneng ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:12.472141777Z",
+  "model": "glm-5.3"
+}

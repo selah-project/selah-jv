@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Padha memuji, para umat, Elohime kita, lan padha ngundhakake swara memujine.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "padha memuji\/sigi padha berkahi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para umat\/para bangsa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohime kita"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "lan padha ngundhakake\/dadekake krungu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "memujine"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:06.397101512Z",
+  "model": "glm-5.3"
+}

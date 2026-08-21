@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Kanggo ngetung dinane kita miturut iku pituturi ⟨kita⟩, lan kita ngatekake ati marang kawicaksanan.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "Kanggo ngetung"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dinane kita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "miturut iku"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "pituturi"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "lan kita ngatekake"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "marang kawicaksanan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:29.923388221Z",
+  "model": "glm-5.3"
+}

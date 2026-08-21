@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Lan manungsa ngandika: temèn ana woh kanggo wong tulus; temèn ana Elohim sing ngadili ing bumi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "temèn"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "woh"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kanggo wong tulus"
+    },
+    {
+      "surface": "אך",
+      "gloss": "temèn"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:31.436699060Z",
+  "model": "glm-5.3"
+}

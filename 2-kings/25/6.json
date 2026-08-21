@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan padha nyekel ⟨את⟩ sang nata, lan nggawa ⟨את⟩ dheweke munggah menyang ratu Babel, ing Rivlah; lan padha ngucap ⟨את⟩ marang dheweke pangadilan.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "lan nyekel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang nata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "lan nggawa munggah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "marang dheweke"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pangadilan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:00.085917314Z",
+  "model": "glm-5.3"
+}

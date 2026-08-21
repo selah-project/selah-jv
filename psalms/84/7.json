@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 84,
+  "translation": "Sing padha ngliwati lebak Baka ndadèkaké tuk ing kono; uga udan awal nutupi ⟨iku⟩ nganggo berkah.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "sing padha ngliwati"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ing lebak"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Baka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "tuk\/sumber"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "ndadèkaké iku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "berkah-berkah"
+    },
+    {
+      "surface": "יַעְטֶה",
+      "gloss": "nutupi\/nglumuri"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "udan awal"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:32.217983426Z",
+  "model": "glm-5.3"
+}

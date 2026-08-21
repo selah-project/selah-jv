@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan padha njupuk nyandra ⟨את⟩ para wadon sing ana ing kono, saka sing cilik tekan sing gedhé; ora ana wong sing dipateni, nanging padha digiring lan padha mangkat miturut dalane dhéwé.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "padha njupuk nyandra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para wadon"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "para wadon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "saka sing cilik"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tekan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "sing gedhé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "padha dipateni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong siji waé"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "lan padha digiring"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lan padha mangkat"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "miturut dalane dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:44.618185175Z",
+  "model": "glm-5.3"
+}

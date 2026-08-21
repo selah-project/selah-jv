@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan aku mlumpat bali, aku mudhun saka ⟨the⟩ gunung, lan aku nglebokake ⟨את⟩ prasasti-prasasti iku menyang peti sing dakgawe, lan padha ana ing kono, kaya dene kang didhawuhake Yahweh marang aku.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "lan aku mlumpat bali"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "aku mudhun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨the⟩ gunung"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "lan aku nglebokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prasasti-prasasti iku"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "prasasti-prasasti iku"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "menyang peti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "dakgawe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "lan padha ana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "kang didhawuhake marang aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:51.807013087Z",
+  "model": "glm-5.3"
+}

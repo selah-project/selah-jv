@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Paweweh sangsara ala tumrap wong sing nglirwakake dalan; sapa sengit kawewarah bakal mati.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "paweweh sangsara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "tumrap wong sing nglirwakake"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "sapa sengit"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "kawewarah"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "bakal mati"
+    }
+  ],
+  "timestamp": "2026-08-21T02:14:28.592056786Z",
+  "model": "glm-5.3"
+}

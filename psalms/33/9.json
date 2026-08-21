@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Sebab Panjenengané ngandika, lan dadi; Panjenengané mitatah, lan ngadeg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Panjenengané"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Panjenengané"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "mitatah"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lan ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:50.915816617Z",
+  "model": "glm-5.3"
+}

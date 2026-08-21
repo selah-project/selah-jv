@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Tembung sing teka marang Yirmeyahu saka ⟨את⟩ Yahweh, munjuk:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "היה",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "munjuk"
+    }
+  ],
+  "timestamp": "2026-08-21T00:58:48.577293569Z",
+  "model": "glm-5.3"
+}

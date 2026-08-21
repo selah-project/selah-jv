@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Layar Shaul ngutus utusan kanggo njupuk ⟨את⟩ David, nanging wong kandha: ⟨iyu⟩ lara.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan-ngutus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kanggo-njukuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lan-wong-kandha"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "lara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T04:01:01.851655323Z",
+  "model": "glm-5.3"
+}

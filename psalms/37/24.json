@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Sanadyan tiba, ora bakal kauncal, awit Yahweh nyengkuyung tangane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sanadyan"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "bakal kauncal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "nyengkuyung"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:07.490378261Z",
+  "model": "glm-5.3"
+}

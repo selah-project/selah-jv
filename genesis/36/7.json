@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Sebab bandha-bandhane wis saya akèh ora bisa padha manggon bebarengan, lan bumi panggonan nginepe ora kuwat narima ⟨את⟩ wong-wonge amarga saka ternake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wis dadi"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "bandha-bandhane"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "kanggo manggon"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "kuwat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "panggonan nginepe"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "narima"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wonge"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ternake"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:47.109181467Z",
+  "model": "glm-5.3"
+}

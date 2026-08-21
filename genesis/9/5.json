@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan satemene ⟨את⟩ getihira kanggo nyawamu bakal Kudarusa; saka tangané saben sato urip bakal Kudarusa iku; lan saka tangané manungsa, saka tangané wong seduluré, bakal Kudarusa ⟨את⟩ nyawa manungsa.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "lan satemene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihira"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "getihira"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "kanggo nyawamu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "bakal Kudarusa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sato urip"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "bakal Kudarusa iku"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "lan saka tangané"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "seduluré"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "bakal Kudarusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawa manungsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:30.662919895Z",
+  "model": "glm-5.3"
+}

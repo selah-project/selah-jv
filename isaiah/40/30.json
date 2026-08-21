@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Para nom-noman uga kesel lan larang tenaga, para taruna ambruk tiba-tiba.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "kesel"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "para nom-noman"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "larang tenaga"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "para taruna"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "ambruk"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "tiba"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:26.838041705Z",
+  "model": "glm-5.3"
+}

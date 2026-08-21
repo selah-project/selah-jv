@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Muga-muga kasetyan-Mu, Yahweh, tansah ana ing sadhuwuring kita, kaya dene pangarep-arep kita marang Paduka.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "muga-muga ... tansah ana"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasetyan-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ing sadhuwuring kita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "pangarep-arep kita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:36.034257336Z",
+  "model": "glm-5.3"
+}

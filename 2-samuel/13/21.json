@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan raja David krungu ⟨את⟩ kabeh perkara-pkara iki, banjur nesu banget ing atine.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Lan raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh perkara-pkara iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-pkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "banjur nesu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ing atine"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:18.460966511Z",
+  "model": "glm-5.3"
+}

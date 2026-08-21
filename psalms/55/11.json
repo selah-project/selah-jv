@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Awawan lan wengi-wengi wong-wong mau ngubengi témbok-témboké, lan kaluputan lan pasulayan ana ing satengahé.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "awawan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan wengi-wengi"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "wong-wong mau ngubengi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "témbok-témboké"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "lan kaluputan"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "lan pasulayan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ana ing satengahé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:04.560041743Z",
+  "model": "glm-5.3"
+}

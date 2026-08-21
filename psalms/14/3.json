@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "⟨Kabeh⟩ wong padha mlengos, bebarengan padha banjur; ora ana sing nglakoni becik, ora ana, dudu siji wae.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "סר",
+      "gloss": "padha mlengos"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "padha banjur"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sing nglakoni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji wae"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:03.981249540Z",
+  "model": "glm-5.3"
+}

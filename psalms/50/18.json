@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Menawa sira ndeleng maling, sira mlayu bareng dheweke, lan karo para pangzina kabaganmu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "sira ndeleng"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "maling"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "sira mlayu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng dheweke"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan karo"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "para pangzina"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "kabaganmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:06.128389953Z",
+  "model": "glm-5.3"
+}

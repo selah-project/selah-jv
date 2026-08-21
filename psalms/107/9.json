@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Sebab idupesti ngluwari nepsu sing ngelak, lan nepsu sing ngelih Ditamba kasugihan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nepsu"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "sing ngelak"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "lan nepsu"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "sing ngelih"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Ditamba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kasugihan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:27.095805383Z",
+  "model": "glm-5.3"
+}

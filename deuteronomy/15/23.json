@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Mung getihe ⟨את⟩ aja kok mangan; marang bumi kok tudhuhake kaya banyu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Mung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kok mangan"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "kok tudhuhake"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:59.191499856Z",
+  "model": "glm-5.3"
+}

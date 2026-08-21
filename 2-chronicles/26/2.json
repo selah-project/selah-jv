@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Iyu siji sing yasa ⟨את⟩ Eilot, lan balike marang Yehuda, sawise raja iku sare ing sesandhingan para leluhure.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "iyu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eilot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "baliaké"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "marang Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "sare"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja iku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ing sesandhingan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "para leluhuréné"
+    }
+  ],
+  "timestamp": "2026-08-21T03:41:49.610578692Z",
+  "model": "glm-5.3"
+}

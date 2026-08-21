@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Padha ngucap: Ayo, kita numpes wong-wong mau saka dadi bangsa, supaya jenenge Israêl ora kèlingan manèh.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "padha ngucap"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "kita numpes wong-wong mau"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "saka dadi bangsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "kèlingan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jename"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israêl"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manèh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:02.436870011Z",
+  "model": "glm-5.3"
+}

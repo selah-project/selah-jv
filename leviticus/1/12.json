@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan dipotong ⟨את⟩ iku miturut bagéan-bagéane, lan ⟨את⟩ sirahé lan ⟨את⟩ lemaké, lan imam ngaturna ⟨את⟩ iku kabeh ing dhuwur kayu kang ana ing geni kang ana ing altar.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "lan dipotong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "miturut bagéan-bagéane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sirahé"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lemaké"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "lemaké"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "lan ngaturna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iku kabeh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "האש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:35.048423581Z",
+  "model": "glm-5.3"
+}

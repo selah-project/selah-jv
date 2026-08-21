@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan wong Filistin agé-agé ngudani Shaul lan para putrané, lan wong Filistin matèni ⟨את⟩ Yonatan lan ⟨את⟩ Avinadav lan ⟨את⟩ Malki-Shua, para putrané Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "lan agé-agé ngudani"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Filistin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "lan sawisé"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lan matèni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Filistin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-21T03:21:42.432679297Z",
+  "model": "glm-5.3"
+}

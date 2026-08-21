@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Cangkemku bakal aturaké kalumrahanmu, sadina muput pitulunganmu, awit aku ora weruh angkané.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bakal aturaké"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "kalumrahanmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadina muput"
+    },
+    {
+      "surface": "היום",
+      "gloss": "(dina)"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "pitulunganmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku weruh"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "angkané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:19.776713246Z",
+  "model": "glm-5.3"
+}

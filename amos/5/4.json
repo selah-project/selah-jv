@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Sebab mengkono pangandikane Yahweh marang dharmaning Yisrael: Nglelukana Ingsan, mangka sira bakal urip.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "marang dharmaning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "nglelukana Ingsan"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "mangka urip"
+    }
+  ],
+  "timestamp": "2026-08-21T01:30:19.799267456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Munggah marang Elohim pitulungku lan kamulyanku; karang kakuwatanku, perlindunganku ⟨isih⟩ ing Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "munggah marang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "pitulungku"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "lan kamulyanku"
+    },
+    {
+      "surface": "צור",
+      "gloss": "karang"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kakuwatanku"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "perlindunganku"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ing Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:20.985150829Z",
+  "model": "glm-5.3"
+}

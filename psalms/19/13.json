@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Kasalahan-kasalahan — sapa sing bisa ngerti? Saka sing didhelikake ndadekna aku resik.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "kasalahan-kasalahan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "bisa ngerti"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "saka sing didhelikake"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "ndadekna aku resik"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:54.380764230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Saka swara ereliku balungku nempel ing dagingku.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "saka swara"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ereliku"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "nempel"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "balungku"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "ing dagingku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:37.285756759Z",
+  "model": "glm-5.3"
+}

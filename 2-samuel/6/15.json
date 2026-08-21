@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Dawid sarta kabèh umah Israèl munggahaké ⟨את⟩ tabut Yahweh karo sorak-sorak lan swara sangkala.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Lan Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta kabèh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "munggahaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabut"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "tabut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "karo sorak-sorak"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "lan swara"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sangkala"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:40.888047038Z",
+  "model": "glm-5.3"
+}

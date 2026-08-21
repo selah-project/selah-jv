@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan kadadéyan, bareng raja Hizkiyahu krungu iku, ⟨dheweke⟩ njugreg ⟨את⟩ sandhangané, lan ngonjingi sarung karung, lan mlebu ing bêtah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéyan"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "bareng krungu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "njugreg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangané"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ngonjingi"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "sarung karung"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mlebu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bêtah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:06.566032220Z",
+  "model": "glm-5.3"
+}

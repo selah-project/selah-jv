@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan bakal dadi kaya wit sing ditandur ing sisih ilir-iliring banyu, kang wohe menehi ing mangsane, lan rone ora bakal layu, lan sabeh sing ditindakake bakal jaya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Lan bakal dadi"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "kaya wit"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "ditandur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ilir-iliring"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "wohe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "menehi"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ing mangsane"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "lan rone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "layu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "bakal jaya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:15.428578209Z",
+  "model": "glm-5.3"
+}

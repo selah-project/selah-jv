@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Kena-punika, Yahweh, Paduka nulak jiwa-Ku, Paduka ndhelikake rai-Paduka saka aku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kena-punika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "Paduka nulak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-Ku"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Paduka ndhelikake"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "rai-Paduka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:53.297029217Z",
+  "model": "glm-5.3"
+}

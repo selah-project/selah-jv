@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan dudu mung karo kowe aku makili ngetokake ⟨את⟩ prajanjian iki lan ⟨את⟩ sumpah-palil iki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan dudu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ karo kowe",
+      "marks": "kowe"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "mung kowe-wae"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "makili ngetokake (prajanjian)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjian iki"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "prajanjian iki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sumpah-palil iki"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sumpah-palil iki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:05.212329050Z",
+  "model": "glm-5.3"
+}

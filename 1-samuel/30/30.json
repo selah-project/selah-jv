@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "lan marang wong-wong ing Khormah, lan marang wong-wong ing Bor-Asyan, lan marang wong-wong ing Atakh",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "lan marang wong-wong ing"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Khormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "lan marang wong-wong ing"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Asyan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "lan marang wong-wong ing"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atakh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:11.175156595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Lor lan kidul Kowé sing nitahake; Tavor lan Hermon ing Asma-Mu padha mracaya bungah.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "lor"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "lan kidul"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "ו�רמון",
+      "gloss": "lan Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ing Asma-Mu"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mracaya bungah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:47.485710084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan saka siji saka antarane ⟨iyo⟩ metu siji tandhuk cilik, banjur akuwasa banget marang ⟨iyo⟩ sisih kidul, lan marang ⟨iyo⟩ sisih wétan, lan marang ⟨iyo⟩ tanah ayu.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "saka antarane"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tandhuk"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "cilik"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "banjur akuwasa banget"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "liyane\/banjur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "sisih kidul"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "sisih wétan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "tanah ayu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:24:18.245858730Z",
+  "model": "glm-5.3"
+}

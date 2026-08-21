@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "uga peteng ora nggelapake saka Kowe, lan wengi sumunar kaya rina; kaya kepetengan mengkono uga kaya padhang.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "peteng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "nggelapake"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka Kowe"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan wengi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaya rina"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "sumunar"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "kaya kepetengan"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "kaya padhang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:17.472669812Z",
+  "model": "glm-5.3"
+}

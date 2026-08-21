@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan sira bakal teka marang sang ratu lan ngandika marang panjenengane miturut pangandika iki; banjur Yoab mapahake ⟨את⟩ pangandika-pangandika ing tutuke.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "sira bakal teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut pangandika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mapahake"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangandika-pangandika"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pangandika-pangandika"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "ing tutuke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:09:25.442215180Z",
+  "model": "glm-5.3"
+}

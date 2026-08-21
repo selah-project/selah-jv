@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur ia ngandika marang aku: Nganti sonten esuk rong èwu telung atus; banjur pasamuwan bakal disucèkaké.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sonten"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "rong èwu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "telung"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "bakal dibenarake"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:59:33.438273755Z",
+  "model": "glm-5.3"
+}

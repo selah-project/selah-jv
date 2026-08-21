@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 128,
+  "translation": "Nuhun, sayekti mengkono lanang bakal diberkahi sing wedi marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "nuhun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sayekti"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bakal diberkahi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:44.096457910Z",
+  "model": "glm-5.3"
+}

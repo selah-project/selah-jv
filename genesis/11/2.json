@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan kadadéyan nalika ⟨wong-wong⟩ k padhalayah saka wétan, padha nemu lembah ing tanah Shinar, lan padha manggon ing kana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéyan"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "nalika padhalayah"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "saka wétan"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "lan padha nemu"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "lan padha manggon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:46.694695770Z",
+  "model": "glm-5.3"
+}

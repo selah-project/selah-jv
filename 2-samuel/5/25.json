@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Dawud nindakake mangkono, kaya dene perintahé Yahweh; lan panjenengé nggegirisi ⟨את⟩ wong Filistin, saka Geba nganti tekané ing Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "perintahé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nggegirisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Filistin"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Filistin"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "saka Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "באך",
+      "gloss": "tekané"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ing Gezer"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:26.384198213Z",
+  "model": "glm-5.3"
+}

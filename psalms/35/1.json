@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Kagunganipun Dawid. Padu Yahweh ⟨את⟩ para mungsuhku, perangi ⟨את⟩ para mungsuh perangku.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kagunganipun Dawid"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "padua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para mungsuhku"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "para mungsuhku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "perangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para mungsuh perangku"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "para mungsuh perangku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:26.276025705Z",
+  "model": "glm-5.3"
+}

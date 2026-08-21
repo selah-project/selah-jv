@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan ⟨⟨⟩⟩e ngandika marang anakkewe wadon: endi papané? kenapa mengkéné kowé padha nginggalake ⟨את⟩ wong iku? Undhana ⟨⟨⟩⟩a, supaya bisa mangan roti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "anakkewe wadon"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "endi papané"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mengkéné"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "kowé padha nginggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong iku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "undhana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨⟨⟩⟩a"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "supaya bisa mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:22.673063432Z",
+  "model": "glm-5.3"
+}

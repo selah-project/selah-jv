@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joel 1:11",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Padha isin, para tani; padha nglayu, para penggarap anggur, marang gandum lan jelai; awit panen kebon wis sirna.",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "padha isin"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "para tani"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "padha nglayu"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "para penggarap anggur"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "jelai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "wis sirna"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "panen"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kebon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:38.346062205Z",
+  "model": "glm-5.3"
+}

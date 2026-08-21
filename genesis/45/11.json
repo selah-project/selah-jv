@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "lan aku bakal ngluwari ⟨את⟩ kowe ing kono, amarga isih ana limang tahun kelaparan, supaya kowe ora dadi mlarat, kowe lan umahmu lan kabeh sing duwekmu.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "lan aku ngluwari"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya-ora"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "dadi mlarat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "lan umahmu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "duwekmu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:58.332139725Z",
+  "model": "glm-5.3"
+}

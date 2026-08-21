@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan ia ngandika: Sedulurku ⟨את⟩ dak goleki; wuduhna aku, pundi dhèwèké padha ngingu kewan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedulurku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedulurku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "dak goleki"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "wuduhna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "muga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "pundi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "padha ngingu kewan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:27.085795337Z",
+  "model": "glm-5.3"
+}

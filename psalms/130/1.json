@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 130,
+  "translation": "Kidung para andhap-asor. Saka ing palungguhan jero kula nimbali Kowé, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "para andhap-asor"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "saka ing palungguhan jero"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "kula nimbali Kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:53.566159639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Aku ngandika: mung kowé bekwat marang ⟨את⟩Aku, kowé nampa piweling, lan panggonané ora bakal kaperes, sababing sakabèhing sing tak-wawah marang dhèwèké; nanging temen padha anggugah esuk ngrusuši sakabèhing panggawéyané.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Aku ngandika"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "kowé bekwat"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Aku (marang Aku, kanthi sufiks -i)"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "kowé nampa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "piweling"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora bakal"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kaperes"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "panggonané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "tak-wawah"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "nanging temen"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "padha anggugah esuk"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ngrusuši"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhing"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "panggawéyané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:36.818059819Z",
+  "model": "glm-5.3"
+}

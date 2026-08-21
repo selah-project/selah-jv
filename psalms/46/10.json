@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Ngendi peperangan nganti ing pinggir bumi; busuk njalari patah lan nugel tumbak, gèndhèngan dilirabaké ing geni.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "ngendi"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "peperangan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti ing"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "pinggir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busuk"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "njalari patah"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "lan nugel"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "tumbak"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "gèndhèngan"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "dlirabaké"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:44.027300943Z",
+  "model": "glm-5.3"
+}

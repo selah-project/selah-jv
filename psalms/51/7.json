@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Ndherek, ing kaluputan aku dilairake, lan ing dosa ibuku ngandhut aku.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ndherek"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "ing kaluputan"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "aku dilairake"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "lan ing dosa"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ibuku ngandhut aku"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:41.577885407Z",
+  "model": "glm-5.3"
+}

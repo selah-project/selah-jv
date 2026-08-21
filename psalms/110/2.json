@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 110,
+  "translation": "Goda ka Bentaramu Yahweh bakal ngirim saka Tzion: sira jumeneng ratu ing tengahing mungsuh-mungsuhmu.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "goda"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ka Bentaramu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "saka Tzion"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "sira jumeneng ratu (ngremehake)"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mungsuh-mungsuhmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:50.301446505Z",
+  "model": "glm-5.3"
+}

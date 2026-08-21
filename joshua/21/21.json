@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan padha maringi marang wong-wong mau ⟨את⟩ kutha perlindungan tumrap pangéwa, ⟨את⟩ Shkhem sarta ⟨את⟩ padhangane, ing redi Efrayim, lan ⟨את⟩ Gezer sarta ⟨את⟩ padhangane",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "lan padha maringi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "perlindungan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "tumrap pangéwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shkhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padhangane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:26.306614799Z",
+  "model": "glm-5.3"
+}

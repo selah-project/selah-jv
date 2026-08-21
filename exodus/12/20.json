@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sapa wae aja mangan barang kang ngandhut ragi; ing saben papan padununganmu sira bakal mangan roti tanpa ragi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sapa wae"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "barang kang ngandhut ragi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "papan padununganmu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sira bakal mangan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tanpa ragi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:16.954443885Z",
+  "model": "glm-5.3"
+}

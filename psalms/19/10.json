@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Wedining Yahweh iku suci, tansah ngadeg salawas-lawase; papasing Yahweh iku setya, kabeh bebarengan bener.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Wedining"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "suci"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "papasing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "setya"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "bener"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:09.276504889Z",
+  "model": "glm-5.3"
+}

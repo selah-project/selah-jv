@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "sing dipethik karo ⟨את⟩ Avraham, lan sumpahe marang Yitshak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "dipethik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "lan sumpahe"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "marang Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:53.887189552Z",
+  "model": "glm-5.3"
+}

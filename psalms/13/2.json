@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Nganti tekan kapan aku dilirwakaké, Yahweh, salawasé? Nganti tekan kapan Kowé ndhelikaké ⟨את⟩ panĕmu-Mu saka aku?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "tekan kapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "dilirwakaké aku"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "tekan kapan"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ndhelikaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panĕmu-Mu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "panĕmu-Mu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:16.589562686Z",
+  "model": "glm-5.3"
+}

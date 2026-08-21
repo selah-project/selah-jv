@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur diwartani marang Saul yen Dawid wis teka ing Keila; Saul banjur munjuk: Elohim wis ngetokake ⟨את⟩ dheweke ing tanganku, awit dheweke wis kakurung, amarga mlebu ing kutha sing nduwe lawang lan palang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "banjur diwartani"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "marang Saul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wis teka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ing Keila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur munjuk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wis ngetokake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ing tanganku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "wis kakurung"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "amarga mlebu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "lan palang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:26.257463980Z",
+  "model": "glm-5.3"
+}

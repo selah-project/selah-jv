@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Muga para sing wedi marang Yahweh padha ngucapa: awit nganti salawas-lawase kasetyane.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "padha ngucapa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "muga"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "para sing wedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:44.279545776Z",
+  "model": "glm-5.3"
+}

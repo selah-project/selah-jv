@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Apa sing kokweruh, sing ora kaweruhi? Apa sing kokpaham, sing ora ana iku ing awak kita?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kokweruh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sing ora"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "kaweruhi"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "kokpaham"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sing ora"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ing awak kita"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:26:04.617834100Z",
+  "model": "glm-5.3"
+}

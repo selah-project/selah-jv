@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Ayo mundhut lan padha ndeleng pakaryan-pakaryan Elohim, nggegemuni tumindake marang para putra Adam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ayoo\/ayo padha lunga"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "lan padha ndeleng"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "pakaryan-pakaryan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "nggegemuni\/ngregemake"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "tumindak\/laku"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam\/manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:06.396537257Z",
+  "model": "glm-5.3"
+}

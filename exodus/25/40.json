@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Padha ndelenga lan padha nindakna miturut cithakane, sing kokdeleng ing redi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "lan padha ndelenga"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lan padha nindakna"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "miturut cithakane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kokdeleng"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kokdeleng"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:40.839124764Z",
+  "model": "glm-5.3"
+}

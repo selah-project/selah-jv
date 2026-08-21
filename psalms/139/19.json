@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Yen Kowé matèni, ya Elohim, ⟨את⟩ wong ala, lan para wong getih padha sumingkir saka aku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "matèni"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "lan para wong"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "padha sumingkir"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka aku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:33.090274029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Aku bakal bungah lan rejeh ing kasetyan-Mu, awit Kowé wis ndeleng ⟨את⟩ kasusahanku; Kowé wis ngerti ing sangsara nyawaku.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Aku bakal bungah"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "lan rejeh"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ing kasetyan-Mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "Kowé wis ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahanku"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "kasusahanku"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Kowé wis ngerti"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ing sangsara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:22.407074077Z",
+  "model": "glm-5.3"
+}

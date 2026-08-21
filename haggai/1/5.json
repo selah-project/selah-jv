@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan saiki kaya mangkene sabda Yahweh Tzevaot: Padha setna atimu marang dalan-dalanmu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "padha setna"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "dalan-dalanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:53.811702828Z",
+  "model": "glm-5.3"
+}

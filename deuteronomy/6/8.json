@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan kowe bakal ngiketake iku dadi tandha ing astamu, lan bakal dadi totafot ing antarane paningalmu.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "lan kowe bakal ngiketake"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "dadi tandha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "astamu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "totafot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ing antarane"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "paningalmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:25.250953520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Padha muji ⟨את⟩ asma Yahweh, awit ⟨dhewe⟩ wis ndhawuhake lan kabeh padha dicitakake.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "padha muji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dhewe⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ndhawuhake"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "lan kabeh padha dicitakake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:44.631443973Z",
+  "model": "glm-5.3"
+}

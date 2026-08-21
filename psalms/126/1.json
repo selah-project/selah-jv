@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 126,
+  "translation": "Kidung para pendhakian. Bareng Yahweh mulihake ⟨את⟩ bali-ne Tsiyon, kita dadi kaya wong ngimpi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "para pendhakian"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Bareng...mulihake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bali-ne Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "bali-ne"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kita dadi"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "kaya wong ngimpi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:49.088774262Z",
+  "model": "glm-5.3"
+}

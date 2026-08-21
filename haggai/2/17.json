@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Aku ngepruki kowe ⟨את⟩ kanthi bare-bare lan kaliyan cendhak-cendhak lan kaliyan es, ⟨את⟩ sakabehing gawe tanganmu, lan ora ana ⟨את⟩ saka ing kowe marang Aku — titis pangandikane Yahweh.",
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "Aku ngepruki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "kanthi bare-bare"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "lan kaliyan cendhak-cendhak"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "lan kaliyan es"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing gawe tanganmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawe"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ saka ing kowe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "titis pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:28.496219999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 143,
+  "translation": "Marga saka asma-Mu, Yahweh, uripna aku; marga saka kabeneran-Mu wetokna jiwa-ku saka sangsara.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Marga saka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "uripna aku"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "marga saka kabeneran-Mu"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "wetokna"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "saka sangsara"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:35.887828426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Mikal mudhunake ⟨את⟩ Dawid saka cendhéla, lan ia tindak, lan kalilaran, lan nylamet.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "lan mudhunake"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "saka"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "cendhéla"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan tindak"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "lan kalilaran"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "lan nylamet"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:48.789515761Z",
+  "model": "glm-5.3"
+}

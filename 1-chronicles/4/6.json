@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Naarah nglairake kanggo ⟨dhewe⟩ ⟨את⟩ Akhzam lan ⟨את⟩ Hefèr lan ⟨את⟩ Temèni lan ⟨את⟩ Ahhasytari; iki kabeh anak-e Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Lan nglairake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo ⟨dhewe⟩"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Hefèr"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefèr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Temèni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temèni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Ahhasytari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Ahhasytari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-e"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:25.328561453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "bangsa sing nglara ati ⟨את⟩ Aku ing ngarsa padharanku tansah, nyembéh ing kebon-kebon sarta ngobong dupa ing sadhuwuring bata-bata.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "sing nglara ati"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing ngarsa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "padharanku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "nyembéh"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "ing kebon-kebon"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "sarta ngobong dupa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "bata-bata"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:49.749629243Z",
+  "model": "glm-5.3"
+}

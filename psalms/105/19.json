@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Nganti tekane wektu tembunge, sabda Yahweh nyaring dheweke.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tekane"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tembunge"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "nyaring dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:13.837406009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Paroh weruh yèn wis ana anggoné ngluwangi, banjur ndadekaké abot ⟨את⟩ atiné, lan ora ngrungakaké marang ⟨dhèwèké⟩, kaya sing wis dingendikakaké Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lan ... weruh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wis ana"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "anggoné ngluwangi"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "banjur ndadekaké abot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atiné"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungakaké"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dingendikakaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:38.889825322Z",
+  "model": "glm-5.3"
+}

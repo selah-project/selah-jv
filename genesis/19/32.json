@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Ayo, tukua ngombé ⟨את⟩ bapak kita anggur, supaya kita sare bareng dhèwèké, lan kita bisa nguripake turun saka bapak kita.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ayo"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "tukua ngombé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapak kita"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "bapak kita"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "sare bareng"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "nguripake"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "saka bapak kita"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turun"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:30.070262294Z",
+  "model": "glm-5.3"
+}

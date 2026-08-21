@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Aku lanja sumpa ⟨את⟩ sira, e putri-putri Yerushalayim, marang ⟨the⟩ gasel lan ⟨the⟩ kijang wadon alas: aja nundhungi lan aja ngukunka ⟨את⟩ katresnan nganti dhewe kepingin.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "aku lanja sumpa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira",
+      "marks": "putri-putri Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "marang gasel\/kijang"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "marang kijang wadon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "alas\/sawah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aja (yèn)"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "sira nundhungi\/ngukunka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "sira ngukunka\/ngrangsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katresnan"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "katresnan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "dhewe kepingin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:47.754002075Z",
+  "model": "glm-5.3"
+}

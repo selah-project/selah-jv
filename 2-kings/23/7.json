@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan dheweke ngruntuhake ⟨את⟩ omah-omahé para pelacur kuil kang ana ing omah Yahweh, papan para wadon ngrajut ing kono kelambi-kelambi kanggo Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "ngruntuhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah-omahé para pelacur kuil (בתי הקדשים)"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "omah-omahé"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "para pelacur kuil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang ana"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "papan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "para wadon"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "ngrajut"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "kelambi-kelambi"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "kanggo Asherah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:01.506310807Z",
+  "model": "glm-5.3"
+}

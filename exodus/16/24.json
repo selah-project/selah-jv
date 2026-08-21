@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan padha natarna nganti ésuk kaya dhadhasune Moshe, lan ora mambu ènthèk, lan ulat ora ana ing sajroning.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "padha natarna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (manne)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dhadhasune"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "mambu ènthèk"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "lan ulat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing sajroning"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:05.819945542Z",
+  "model": "glm-5.3"
+}

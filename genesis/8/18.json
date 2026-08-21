@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan metu Noach, lan anak-anake lan bojone, lan para bojone anak-anake ⟨karo⟩ dheweke.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "lan bojone"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "lan para bojone"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:10.925297741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "kanggo mbukak mata wong wuta, ngowaake sing kebundhel saka pangbundedan, saka griya kunjara sing padha lenggah ing peteng.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "kanggo mbukak"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "wong wuta"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ngowaake"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "saka pangbundedan"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "sing kebundhel"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka griya"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "kunjara"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sing padha lenggah"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ing peteng"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:41.208205285Z",
+  "model": "glm-5.3"
+}

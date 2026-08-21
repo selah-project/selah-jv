@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 67,
+  "translation": "Para bangsa memuji sira, yaiku Elohim; para bangsa memuji sira, sakabehing wonge.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "memuji sira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "memuji sira"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sakabehing wonge"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:31.662323952Z",
+  "model": "glm-5.3"
+}

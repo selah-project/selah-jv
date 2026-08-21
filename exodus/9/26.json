@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Namung ing tanah Goshen, panggonané para anake Yisrael ing kana, ora ana es.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "namung"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "panggonané"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "es"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:44.679172600Z",
+  "model": "glm-5.3"
+}

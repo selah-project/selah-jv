@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Wus matur, banjur teka pangrèmukan lan tumu ing sadhengah wewengkoné.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wus matur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "pangrèmukan"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "tumu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadhengah"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "wewengkoné"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:36.477834202Z",
+  "model": "glm-5.3"
+}

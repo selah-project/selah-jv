@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan yasa ⟨את⟩ bangunan sisih ing sadhuwuring sakabehing omah, limang asta dhuwure, lan iya nyengkuyung ⟨את⟩ omah iku kalawan kayu ares.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "lan yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangunan sisih"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "bangunan sisih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "dhuwure"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "lan nyengkuyung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah iku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah iku"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "kalawan kayu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ares"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:58.482881472Z",
+  "model": "glm-5.3"
+}

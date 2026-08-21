@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan kabèh wong jaga padha tangi, lan padha lumaku sedina wengi, lan padha njupuk ⟨את⟩ awaking Saul lan ⟨את⟩ awaking anak-anaké saka cagaking bètènging Beit-Syan, lan padha tekan Yabesy, lan padha ngobong ⟨את⟩ awaké ing kono.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "padha tangi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jaga"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "padha lumaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "padha njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awaking Saul"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "awaking"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "awaking anak-anaké"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "awaking"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "saka cagaking bètènging"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Syan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "padha tekan"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Yabesy"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "padha ngobong"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ing kono (awak-awaké)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:40.222689379Z",
+  "model": "glm-5.3"
+}

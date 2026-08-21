@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur Rehabeam lunga menyang Shekhem, awit ing Shekhem kabeh Yisrael wus teka kanggo nglantik ⟨את⟩ dheweke dadi ratu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "banjur lunga"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kanggo nglantik dadi ratu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:40.453134967Z",
+  "model": "glm-5.3"
+}

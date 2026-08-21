@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Atiku kesusu-susu ana ing jroning aku, lan gemirepati pati wis tiba marang aku.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "kesusu-susu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ana ing jroning aku"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "lan gemirepati"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "wis tiba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:56.860033728Z",
+  "model": "glm-5.3"
+}

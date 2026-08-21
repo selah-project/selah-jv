@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 13:7",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Apa ora visi gor kowe padha nyipta, lan niteni goran kowe padha ngendika, sarta padha ngendika 'Pangandikane Yahweh', nanging aku ora angguneman?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "visi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "gor"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "kowe padha nyipta"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "lan niteni"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "goran"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "kowe padha ngendika"
+    },
+    {
+      "surface": "ואמרים",
+      "gloss": "sarta padha ngendika"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nanging aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "angguneman"
+    }
+  ],
+  "timestamp": "2026-08-21T01:10:29.317915899Z",
+  "model": "glm-5.3"
+}

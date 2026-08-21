@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Dadi sing mberkahi wong iki nasaraké ⟨they⟩, lan sing dituntun dening ⟨them⟩ kèna telanan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "sing mberkahi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "nasaraké"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "lan sing dituntun"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "kèna telanan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:31.672704897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 100,
+  "translation": "Mlebulah ing gapura-gapurane mawa syukur, lan ing pelataran-pelatarane mawa puji-puji; suwita pangapuntena marang Paduka, lan berkaha asmane.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Mlebulah"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "ing gapura-gapurane"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "mawa syukur"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ing pelataran-pelatarane"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "mawa puji-puji"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "suwita pangapuntena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Paduka"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "lan berkaha"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:45.356314298Z",
+  "model": "glm-5.3"
+}

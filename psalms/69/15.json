@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Slametana aku saka lembu lan aja nganti aku keselam; kena aku katulung slamet saka sing sengit marang aku, lan saka paleming-paleming banyu.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "slametana aku"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "saka lembu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "aku keselam"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "aku katulung slamet"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "saka sing sengit marang aku"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "lan saka paleming-paleming"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:59.619821381Z",
+  "model": "glm-5.3"
+}

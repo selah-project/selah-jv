@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Ahaz sare karo para leluhure, lan disareake karo para leluhure ing kuthane Dawid; lan Hizkiyahu putrane dadi raja ing panggonane.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "sare"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "para leluhure"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "disareake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "para leluhure"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kuthane"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dadi raja"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ing panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:07:09.228225803Z",
+  "model": "glm-5.3"
+}

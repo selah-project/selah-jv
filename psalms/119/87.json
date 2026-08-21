@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Wong-wong kang meh numpes aku ing bumi, nanging aku ora nglirwakake prékat-prékatmu.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "meh"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "numpes aku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nanging aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "nglirwakake"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "prékat-prékatmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:08.856782541Z",
+  "model": "glm-5.3"
+}

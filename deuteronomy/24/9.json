@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Élinga ⟨את⟩ sabené sing dilakoni Yahweh Elohim-mu marang Miryam, ing dalan, nalika kowé metu saka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "élinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabené sing dilakoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "marang Miryam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "nalika kowé metu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:15.096483998Z",
+  "model": "glm-5.3"
+}

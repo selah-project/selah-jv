@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan sira nganggoake Aharon ⟨את⟩ sandhangane kadhosan, lan sira ngulan-diulani dheweke, lan sira nyuceni dheweke, supaya dheweke dadi imam Kanggo Ingsun.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "lan sira nganggoake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangane kadhosan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhangane"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kadhosan"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "lan sira ngulan-diulani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "lan sira nyuceni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "supaya dadi imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Kanggo Ingsun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:18.457364987Z",
+  "model": "glm-5.3"
+}

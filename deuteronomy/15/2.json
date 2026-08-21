@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan iki tegesé pemiwahan mau: saben sing nduwé utang saka tangané, sing mènèhi pinjaman marang kanca-kancané, kudu diwihaké; aja ngunjal ⟨את⟩ kanca-kancané lan ⟨את⟩ saduluré, amarga wis tinimbali pemiwahan kangge Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tegesé"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "pemiwahan"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "diwihaké"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "sing nduwé"
+    },
+    {
+      "surface": "משה",
+      "gloss": "utang"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tanangané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "mènèhi pinjaman"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "marang kanca-kancané"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ngunjal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca-kancané"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca-kancané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saduluré"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "saduluré"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tinimbali"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "pemiwahan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kangge Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:21.012974236Z",
+  "model": "glm-5.3"
+}

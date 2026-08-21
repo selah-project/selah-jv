@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Ester ora nyaritakake ⟨את⟩ bangsane lan ⟨את⟩ asal-usule, amarga Modekhai wus ndhawuhi dheweke supaya aja nyaritakake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "nyaritakake"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsane"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bangsane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asal-usule"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "asal-usule"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Modekhai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ndhawuhi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "nyaritakake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:51:29.188171360Z",
+  "model": "glm-5.3"
+}

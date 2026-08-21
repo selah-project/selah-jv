@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "K wedhus lan sapi, kabèhé, uga sato ing sawah.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "k wedhus"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "lan sapi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kabèhé"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "sato"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ing sawah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:20.569342843Z",
+  "model": "glm-5.3"
+}

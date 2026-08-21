@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Kanggo pangripta gamelan. Mizmor kagungane Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangripta gamelan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagungane Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:46.147870001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Rolas taun padha ngabdi ⟨את⟩ Kedorlaomer, banjur ing taun kaping telulas padha mbaléla.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "rolas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "rolas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "padha ngabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "banjur kaping telulas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "telulas"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "padha mbaléla"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:00.139254109Z",
+  "model": "glm-5.3"
+}

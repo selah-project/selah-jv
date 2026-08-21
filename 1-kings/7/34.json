@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 7:34",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan ana papat pundhak ing papat suduté pedhalan siji; pundhak-pundhaké kui saka pedhalan iku dhéwé.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "lan papat"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "pundhak-pundhak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "papat"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "sudut-sudut"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "pedhalan"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "pedhalan"
+    },
+    {
+      "surface": "כתפיה",
+      "gloss": "pundhak-pundhaké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:33.415055755Z",
+  "model": "glm-5.3"
+}

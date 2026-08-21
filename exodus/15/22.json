@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan Moshe nggawa tindhak ⟨את⟩ Yisraël saka Sagara Sup, lan padha metu menyang padhang pasir Sur; lan padha lumaku telung dina ing padhang pasir, nanging ora nemu banyu.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "nggawa tindhak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "מים",
+      "gloss": "saka Sagara"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sup"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "padha metu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "padhang pasir"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "padha lumaku"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing padhang pasir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "nemu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:12.361184049Z",
+  "model": "glm-5.3"
+}

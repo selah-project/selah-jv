@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Kaya awake tanganku nemu marang karaton-karaton para brahala, lan patung-patungé, saka Yerushalayim lan saka Shomeron —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaya awake"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nemu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "marang karaton-karaton"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "para brahala"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "lan patung-patungé"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "saka Yerushalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "lan saka Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:22.103416041Z",
+  "model": "glm-5.3"
+}

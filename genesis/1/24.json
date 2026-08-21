@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 1:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim ngandika: Bumine aja ngelairake nyawa urip miturut jinise — sato kéwan lan kang mlimpetan lan kéwan alas ing bumi miturut jinise; lan kelakon makaten.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תוצא",
+      "gloss": "ngelairake metu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "urip"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "miturut jinise"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sato kéwan"
+    },
+    {
+      "surface": "ורמש",
+      "gloss": "lan kang mlimpetan"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "lan kéwan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi\/alas"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "miturut jinise"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dadi\/kelakon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "makaten"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:16.567743621Z",
+  "model": "glm-5.3"
+}

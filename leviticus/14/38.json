@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Banjur imam iku metu saka ing omah menyang ing lawanging omah, lan nyendhepakake ⟨את⟩ omah iku ping pitu dina.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "banjur metu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam iku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "lan nyendhepakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah iku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah iku"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:48.455148086Z",
+  "model": "glm-5.3"
+}

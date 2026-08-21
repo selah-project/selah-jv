@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Yen bali kowe, O Yisra'el, pangandikane Yahweh, marang Aku balia; lan yen medhotaken sesembahan-lanange saka ngarsa-Ingu, banjur kowe ora bakal kaboyong.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang-Ingu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "balia"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "medhotaken"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "sesembahan-lanange"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka ngarsa-Ingu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "banjur ora"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "bakal kaboyong"
+    }
+  ],
+  "timestamp": "2026-08-21T00:50:40.534532133Z",
+  "model": "glm-5.3"
+}

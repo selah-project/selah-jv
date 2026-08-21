@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Kanggo panggedhening pasamuwan; miturut lagu 'Aja Kacacadha'; mazmur kagungane Dawid, mikhtam, nalika dheweke lunga nyingkurake sandi-asuke Sang Shaul, ing guwa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo panggedhening pasamuwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "kacacadha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagungane Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "nalika dheweke lunga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nyingkurake sandi-asuk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sang Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "ing guwa"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:25.977889028Z",
+  "model": "glm-5.3"
+}

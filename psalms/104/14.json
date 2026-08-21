@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Sing nukulaké suket kanggo kewan ternak, lan jukut kanggo pangabektiné manungsa, supaya metu roti saka ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Sing nukulaké"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "suket"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "kanggo kewan ternak"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "lan jukut"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "kanggo pangabektiné"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "supaya metu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:32.030293705Z",
+  "model": "glm-5.3"
+}

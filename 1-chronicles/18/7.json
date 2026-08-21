@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Dawid mundhut ⟨את⟩ perishe emas sing ana ing abdi-abdine Hadad'ezer, lan digawa marang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mundhut"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perishe emas"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "perishe-perishe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdine"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad'ezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "digawa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:25:38.359892732Z",
+  "model": "glm-5.3"
+}

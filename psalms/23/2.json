@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Ing pangonan suket ijo ⟨iku⟩ panjenengane nglungguhake aku; ing sacedhake banyu tentram panjenengane nuntun aku.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Ing pangonan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "suket ijo"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "panjenengane nglungguhake aku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sacedhake"
+    },
+    {
+      "surface": "מי",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "tentram"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "panjenengane nuntun aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:02.494403024Z",
+  "model": "glm-5.3"
+}

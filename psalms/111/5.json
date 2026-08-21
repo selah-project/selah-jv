@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 111,
+  "translation": "Pangan (sasuwené dipununtal) dipuncaosaken dhateng para ingkang bekti dhateng Panjenenganipun; prajanjianipun badhe Dipunèlingi ngantos salajengipun.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "pangan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dipuncaosaken"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "dhateng para ingkang bekti dhateng Panjenenganipun"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "badhe Dipunèlingi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngantos salajengipun"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "prajanjianipun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:57.675667068Z",
+  "model": "glm-5.3"
+}

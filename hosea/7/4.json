@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Kabeh ⟨padha⟩ dudu laku zina, kaya tanduran panas saka juru roti: sing ngaso saka ngamuti geni, saka nguleni adonan, nganti asem-fermentasiné.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "padha laku zina"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "tanduran"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "panas ngobong"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "saka juru roti"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "sing ngaso"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "saka ngamuti geni"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "saka nguleni"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "adonan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "asem-fermentasiné"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:41.423481772Z",
+  "model": "glm-5.3"
+}

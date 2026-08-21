@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Nganti kapira kowe bakal ngucap ⟨⟨iku⟩⟩? Angin banget tembung-tembunge cangkemmu!",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אן",
+      "gloss": "kapira"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "kowé ngucap"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "lan angin"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "banget"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "cangkemmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:46.294215621Z",
+  "model": "glm-5.3"
+}

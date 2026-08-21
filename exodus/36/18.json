@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan dheweke gawe seket kait saka tembaga kanggo nggandhengake ⟨את⟩ kemah supaya dadi siji.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan dheweke gawe"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "kait"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "saka tembaga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "seket"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "kanggo nggandhengake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "להית",
+      "gloss": "supaya dadi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:26.126186008Z",
+  "model": "glm-5.3"
+}

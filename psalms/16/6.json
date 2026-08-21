@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Tali ukur padha tiba marang aku ing panggonan endah; ya, singsa kang mili endah ⟨iku⟩ ana ing aku.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "tali-tali ukur"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padha tiba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "ing panggonan endah"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "singsa"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "kang mili endah"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ana ing aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:52.609169730Z",
+  "model": "glm-5.3"
+}

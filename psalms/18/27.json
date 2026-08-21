@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Marang wong murni Kowé nindakake kamurnèn; lan marang wong bengkah Kowé dadi bengkah.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "wong murni"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "Kowé nindakake kamurnèn"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "wong bengkah"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "Kowé dadi bengkah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:57.167831230Z",
+  "model": "glm-5.3"
+}

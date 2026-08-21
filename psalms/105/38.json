@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Mitsrayim bungah nalika padha lunga, amarga wedine tiba ing atasé.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "nalika padha lunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "wedine"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ing atasé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:52.198913818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Banjur Samuel mati, banjur kabeh Israel padha kumpul lan ngluhurake dheweke, lan padha nginekake dheweke ing omahé ing Rama. Banjur Dawid tangi lan mudhun menyang ara-ara Paran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "banjur Samuel mati"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "padha kumpul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "padha ngluhurake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "padha nginekake dheweke"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ing omahé"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "ing Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "banjur tangi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "lan mudhun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:58.601640950Z",
+  "model": "glm-5.3"
+}

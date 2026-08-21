@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 96,
+  "translation": "Nyuwunake marang Yahweh, mugia asmane pinuji; wartaake kaslametane saka dina menyang dina.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "nyuwunake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mugia pinuji"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "wartaake"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "saka dina"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "menyang dina"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "kaslametane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:47.562190960Z",
+  "model": "glm-5.3"
+}

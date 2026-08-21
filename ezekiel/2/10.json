@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan diaengake ⟨את⟩ iku ing ngarsane aku, lan iku katulis ing ngarep lan ing buri, lan katulis ing iku: kinin-kinin, susah, lan cilaka.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "lan diaengake"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (gulungan iku)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane aku"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "lan iku"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "katulis"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ing ngarep"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "lan ing buri"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "lan katulis"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ing iku"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kinin-kinin"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "susah"
+    },
+    {
+      "surface": "והי",
+      "gloss": "cilaka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:07:23.276374665Z",
+  "model": "glm-5.3"
+}

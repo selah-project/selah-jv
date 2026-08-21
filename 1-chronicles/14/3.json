@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan Dawid njupaké manèh wadon-wadon ing Yerushalayim; lan Dawid ndadèkaké lair manèh anak lanang lan anak wadon.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "njupaké"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manèh"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wadon-wadon"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ndadèkaké lair"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manèh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "lan anak wadon"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:46.395640586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Kita padha dosa, lan nglakoni kaluputan, lan nglakoni kejahatan, lan mbalela, lan sumingkir saka printah-printahmu lan saka ukuman-ukumanmu.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "kita padha dosa"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "lan nglakoni kaluputan"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "lan nglakoni kejahatan"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "lan mbalela"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "lan sumingkir"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "saka printah-printahmu"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "lan saka ukuman-ukumanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:24:17.405987399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Wong ilat ora bakal teteg ing bumi; wong pangrampasan sing jahat, ala bakal mbeburu dheweke nganti tumbal kebinasan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilat"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora bakal"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "teteg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "pangrampasan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sing jahat"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "bakal mbeburu dheweke"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "nganti tumbal kebinasan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:41.021950970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan kadadéan, nalika Moshe ngangkat tangane, Yisrael dadi kuwat; lan nalika tangane diturunaké, Amalek dadi kuwat.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Lan kadadéan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "dadi kuwat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "lan nalika"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "diturunaké"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "dadi kuwat"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:06.000846728Z",
+  "model": "glm-5.3"
+}

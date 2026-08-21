@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Kita padha ngerti, ngudi ngerti ⟨את⟩ Yahweh; kayane fajar, tinemtu ⟨sinebut⟩ metu-é, lan ⟨ia⟩ bakal teka kaya udan marang kita, kaya udan pungkasan sing ngereni ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "kita padha ngerti"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "ngudi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kanggo ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "kaya fajar"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tinemtu"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "metu-é"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "lan bakal teka"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "kaya udan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "kaya udan pungkasan"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ngereni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:15:52.187096893Z",
+  "model": "glm-5.3"
+}

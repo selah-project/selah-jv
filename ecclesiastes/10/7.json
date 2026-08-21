@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Aku ndeleng abdi-abdi mundhak jaran, lan pangéran-pangéran lumaku kaya abdi ing ⟨the⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku ndeleng"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mundhak"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "jaran"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "lan pangéran-pangéran"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "kaya abdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:06.558386255Z",
+  "model": "glm-5.3"
+}

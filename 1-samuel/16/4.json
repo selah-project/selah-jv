@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Shemuel nglakoni ⟨את⟩ sing diendikakaké Yahweh, banjur teka ing Betlehem, para sesepuhing kutha tumrembeg nemoni dhèwèké, lan dhèwèké ngendika: Apa rawuhipun tenterem?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan ... nglakoni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing diendikakaké Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "diendikakaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "banjur teka ing"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "tumrembeg"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuhiping"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "nemoni dhèwèké"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ... ngendika"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tenterem"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "rawuhipun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:18.377114037Z",
+  "model": "glm-5.3"
+}

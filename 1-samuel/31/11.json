@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan padha krungu wong sing ndunungi Yabesy ing Gilad ⟨את⟩ pamacahé babang Pelesyet marang Saul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "padha krungu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "babé"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "wong sing ndunungi"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yabesy"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ing Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamacahé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "padha nindakaké"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "marang Saul"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:40.222487484Z",
+  "model": "glm-5.3"
+}

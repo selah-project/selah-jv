@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur dhèwèké ndeleng yèn Ruth kukuh temen anggoné gelem lunga ⟨את⟩ karo dhèwèké, mulané dhèwèké mandheg ngomong marang dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "banjur dhèwèké ndeleng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "kukuh temen"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "gelem lunga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "karo dhèwèké (Naomi)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "mulané dhèwèké mandheg"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngomong"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "marang dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:21.802617513Z",
+  "model": "glm-5.3"
+}

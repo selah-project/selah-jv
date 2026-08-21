@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 108,
+  "translation": "Moab ⟨iku⟩ pot pambasuhanku; nang Edom aku nguncalake sandhalatku; nang Pelesyet aku nganti mbledhos sorak-sorak.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "pot"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "pambasuhanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nang"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "aku nguncalake"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandhalatku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nang"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "aku mbledhos sorak-sorak"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:31.109134933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dhèwèké ngagemake marang ⟨Aharon⟩ ⟨את⟩ pamidan dhadha, lan nglebokake ing pamidan dhadha ⟨את⟩ Urim lan ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "lan ngagemake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang ⟨Aharon⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamidan dhadha"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pamidan dhadha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan nglebokake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pamidan dhadha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:06.994774234Z",
+  "model": "glm-5.3"
+}

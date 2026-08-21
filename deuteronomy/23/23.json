@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lamun kowe kendhat saka nadzar, ora bakal ana dosa ing awakmu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "kowe kendhat"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "saka nadzar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing awakmu"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-21T03:57:03.252793066Z",
+  "model": "glm-5.3"
+}

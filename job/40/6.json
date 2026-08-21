@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Banjur Yahweh mangsuli ⟨את⟩ Iyob saka ing badai, lan ngandika:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "banjur mangsuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "saka ing"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "badai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    }
+  ],
+  "timestamp": "2026-08-21T02:36:45.999052254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur Moshe metu sambutan marang maratuwane, sumenggut ingarsa, lan kinabung; padha takon siji lan sijine bab kasejahtrané, banjur padha mlebu menyang khemah.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sambutan"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "maratuwane"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sumenggut ingarsa"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "kinabung"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "padha takon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "marang kanca (sijine)"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "bab kasejahtrané"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "banjur padha mlebu"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "menyang khemah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:59.194774710Z",
+  "model": "glm-5.3"
+}

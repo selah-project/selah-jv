@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Elohim aja kokgedu, lan pangéran ing antarané umatmu aja koklakuni.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "kokgedu"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "lan pangéran"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ing umatmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "koklakuni"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:01.915150138Z",
+  "model": "glm-5.3"
+}

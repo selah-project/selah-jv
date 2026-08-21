@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Iki ⟨⟨iku⟩⟩ kewan-kewan sing kena kok mangan: sapi, wedhus kibas, lan wedhus wédak.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kewan-kewan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kena kok mangan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "שה",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "kibas"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "lan wedhus"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "wédak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:14.911836885Z",
+  "model": "glm-5.3"
+}

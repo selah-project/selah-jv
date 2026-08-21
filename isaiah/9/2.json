@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sira ndadèkaké wong akeh, nanging ora ndadèkaké bungah gedhé; wong-wong mau padha bungah ing ngarsanira kaya bungahé panèn, kaya wong padha girang nalika mbagi jarahan.",
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "Sira ndadèkaké akeh"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "wong \/ bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ndadèkaké gedhé"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "padha bungah"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsanira"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "kaya bungahé"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "panèn"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "padha girang"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "nalika mbagi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "jarahan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:54.143350706Z",
+  "model": "glm-5.3"
+}

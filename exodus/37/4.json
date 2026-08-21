@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lah digawé sundhul kayu wit akasia, banjur dilapisi ⟨את⟩ iku nganggo emas.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "digawé"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "sundhul"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wit akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "dilapisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iku (sundhul-sundhule)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:41.074816836Z",
+  "model": "glm-5.3"
+}

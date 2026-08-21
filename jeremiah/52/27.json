@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 52:27",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Lan sang nata Bavel nujud ⟨את⟩ padha lan matèni ⟨את⟩ padha ing Rivlah, ing bumi Hamat; banjur Yehuda diguwà saka buminé dhéwé.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "lan nujud"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ padha",
+      "marks": "sang nata Bavel matèni wong-wong mau"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "lan matèni"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "ing Rivlah"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "banjur diguwà"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "buminé dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:07:02.133852912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Sebab Kowé ngluwari ⟨את⟩ umat sangsara, lan mripat sing madheg-madheg Kowé asorake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ngluwari"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "lan mripat"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "sing madheg-madheg"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "Kowé asorake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:57.167976705Z",
+  "model": "glm-5.3"
+}

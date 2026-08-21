@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Kaya buruh upahan, kaya donga tinggal, dhèwèké bakal maremba kowé; nganti taun Yobel dhèwèké ngayahi maremba kowé.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "Kaya buruh upahan"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "kaya donga tinggal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dhèwèké bakal dadi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "maremba kowé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taun"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "Yobel"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "dhèwèké ngayahi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "maremba kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:54.235928546Z",
+  "model": "glm-5.3"
+}

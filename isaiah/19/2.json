@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Dak-ramekake Mitrayim lawan Mitrayim, lan padha perang, wong lawan saduluré, lan wong lawan kanca-nancané; kutha lawan kutha, karaton lawan karaton.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "lan Dak-ramekake"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "lawan Mitrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "lan padha perang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "lawan saduluré"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan wong"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "lawan kanca-nancané"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "lawan kutha"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "lawan karaton"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:00.217429719Z",
+  "model": "glm-5.3"
+}

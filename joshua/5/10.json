@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan bareng-barengane Yisrael ng kémah ing Gilgal, lan padha nindakake ⟨את⟩ Pésah ing dina kaping patbelas sasi iku, ing wayah sonten, ing Aravot Yeriho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "lan padha ngèmah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bareng-barengane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ing Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "lan padha nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésah"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ing kaping pat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "belas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ing wayah sonten"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ing Aravot"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:57.143638076Z",
+  "model": "glm-5.3"
+}

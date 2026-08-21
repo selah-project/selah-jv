@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lorone ⟨⟨כלל⟩⟩ wong loro iku padha wuda, sang manungsa lan bojone, lan padha ora isin.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "wong loro loro-lorone"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "padha wuda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manungsa"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "lan bojone"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "padha isin"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:04.567171915Z",
+  "model": "glm-5.3"
+}

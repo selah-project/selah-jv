@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur ngliwati ⟨את⟩ sandhangane lan nganggo sandhangan liyane, lan ngowahi ⟨את⟩ awu mau metu menyang jaba kampung, menyang papan sing suci.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "lan ngliwati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangane"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangane"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "lan nganggo"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "sandhangan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyane"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "lan ngowahi metu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awu"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "awu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "jaba"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "papan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "sing suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:43.145168536Z",
+  "model": "glm-5.3"
+}

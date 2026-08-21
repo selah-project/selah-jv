@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 5:27",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan banyu iku dienggo ngombé ⟨את⟩ wong wadon iku; banjur yèn dhèwèké wis binarna lan khianat marang bojone, banyu panggetuni iku mlebu ing awaké dadi gethên; wetengé mbengkak, pupuné risak, lan wong wadon iku dadi sumpah-getun ing tengahing umate.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "lan dienggo ngombé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyu iku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu iku"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "banjur kadadéan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "wis binarna"
+    },
+    {
+      "surface": "ותמעל",
+      "gloss": "lan khianat"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kaluputan\/khianat"
+    },
+    {
+      "surface": "באישה",
+      "gloss": "marang bojone"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "lan mlebu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing awaké"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "panggetuni"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "dadi gethên"
+    },
+    {
+      "surface": "וצבתה",
+      "gloss": "wetengé mbengkak"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "wetengé"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "pupuné risak (tiba)"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "pupuné"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wong wadon iku"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "sumpah-getun (kutuk)"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "umate"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:35.960540170Z",
+  "model": "glm-5.3"
+}

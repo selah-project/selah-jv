@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Padha muter-muter lan padha goyang kaya wong mabuk, lan kabéh kawicaksanané kaselap.",
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "padha muter-muter"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "lan padha goyang"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "kaya wong mabuk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabéh"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "kawicaksanané"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "kaselap"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:04.566569918Z",
+  "model": "glm-5.3"
+}

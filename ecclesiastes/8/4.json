@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Ing papan pangendikané sang raja iku praja, lan sapa sing bisa matur dhateng panjenengané, apa sing panjenengané tindakake?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ing papan pangendikané"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pangendikané"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "praja"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan sapa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bisa matur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dhateng panjenengané"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "panjenengané tindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:58.054497439Z",
+  "model": "glm-5.3"
+}

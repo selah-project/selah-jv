@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Tanahmu dadi sepi, kutha-kuthamu kabakar geni; lemahmu, ing ngarsamu wong liya mangan ⟨את⟩ iku, lan dadi sepi kaya sing diobong wong liya.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "tanahmu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "dadi sepi"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kutha-kuthamu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "kabakar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "lemahmu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "ing ngarsamu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wong liya"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (lemahmu)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "lan dadi sepi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "kaya sing diobong"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wong liya"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:59.767521456Z",
+  "model": "glm-5.3"
+}

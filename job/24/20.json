@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 24:20",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Rahim bakal lali marang dheweke; uler megawa manis; ora bakal kelingan maneh; lan kadurjana sampun pecah kaya kayu.",
+  "tokens": [
+    {
+      "surface": "ישכחהו",
+      "gloss": "bakal lali marang dheweke"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "rahim"
+    },
+    {
+      "surface": "מתקו",
+      "gloss": "megawa manis"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "uler"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "bakal kelingan"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "lan sampun pecah"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "kaya kayu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kadurjana"
+    }
+  ],
+  "timestamp": "2026-08-21T02:31:27.980547624Z",
+  "model": "glm-5.3"
+}

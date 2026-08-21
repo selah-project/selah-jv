@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Apakahe godhong kang katiup-katiup kokgegeti? lan ⟨את⟩ damen garing kokudani?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "apakahe"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "godhong kang katiup"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "kokgegeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "damen garing"
+    },
+    {
+      "surface": "קש",
+      "gloss": "damen"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "kokudani"
+    }
+  ],
+  "timestamp": "2026-08-21T02:25:27.514171409Z",
+  "model": "glm-5.3"
+}

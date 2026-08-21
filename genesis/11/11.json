@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Sarta Shem urip sawisé nglairaké ⟨את⟩ Arpakhshad ping limang atus taun, lan nglairaké anak lanang lan wadon.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "sarta ... urip"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "nglairaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakhshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakhshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "lan nglairaké"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "anak wadon"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:34.176824151Z",
+  "model": "glm-5.3"
+}

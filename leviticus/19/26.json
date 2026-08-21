@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Aja padha mangan ing dhuwuré getih; aja padha nganggo nasib-nasiban, lan aja padha maca pratandha awang-awang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "padha mangan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "padha nganggo nasib-nasiban (mantra bisik)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "padha maca pratandha awang-awang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:06.607462682Z",
+  "model": "glm-5.3"
+}

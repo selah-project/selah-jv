@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan padha lungguh ⟨את⟩-ipun ing ⟨sisihipun⟩ bumi pitu dinten lan pitu wengi, lan ora ana sing ngendika marang dheweke satembung, amarga dheweke padha ndeleng yen sangsara iku tinitah banget.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "padha lungguh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ipun",
+      "marks": "iyengipun (marang Iyob)"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dinten"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "lan pitu"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "satembung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "tinitah banget"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T02:19:43.027716961Z",
+  "model": "glm-5.3"
+}

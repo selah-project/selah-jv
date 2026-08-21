@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Banjur ratu Khizkiyahu bangun esuk-enjing, lan ngempalake ⟨את⟩ para panggedhe kutha, banjur munggah menyang omah Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangun esuk-enjing"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "lan ngempalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para panggedhe kutha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "banjur munggah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:44:10.656153691Z",
+  "model": "glm-5.3"
+}

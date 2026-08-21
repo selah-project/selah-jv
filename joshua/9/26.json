@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Banjur ditindakake mengkono marang dheweke, lan diselametake ⟨את⟩ dheweke saka tanganane para putra Israél, lan ora dipateni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "banjur ditindakake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "lan diselametake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tanganane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "dipateni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:16.126696303Z",
+  "model": "glm-5.3"
+}

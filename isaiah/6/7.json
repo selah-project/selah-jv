@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur ia nyentuh ing cangkemku lan ngandika: Lah, iki wis nyentuh lambému, lan kaluputanmu wis ilang, lan dosamu kapracek.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "banjur nyentuh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nyentuh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lambému"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "wis ilang"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "kaluputanmu"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "lan dosamu"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "kapracek"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:38.403062858Z",
+  "model": "glm-5.3"
+}

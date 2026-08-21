@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Sagare duwe ⟨the⟩ segara, lan ⟨dia⟩ sing gawé ⟨את⟩ iku; lan dharatan sing garing, tangané sing mbentuk ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duwe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan ⟨dia⟩"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "gawé ⟨את⟩ iku"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "lan dharatan garing"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangané"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "mbentuk ⟨את⟩ iku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:30.193467292Z",
+  "model": "glm-5.3"
+}

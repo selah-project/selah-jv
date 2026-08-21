@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Mulane bani Yisrael kabeh mudhun menyang Pelesyet supaya saben wong ngethok ⟨את⟩ wilahugsing, ⟨את⟩ arit-arite, ⟨את⟩ kapake, lan ⟨את⟩ pacule.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "mulane mudhun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "menyang wong Pelesyet"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "supaya ngethok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wilahugsing"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "wilahugsing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "arit-arite"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "arit-arite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kapake"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "kapake"
+    },
+    {
+      "surface": "and ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pacule"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "pacule"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:18.091358278Z",
+  "model": "glm-5.3"
+}

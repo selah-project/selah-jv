@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Aja gege medun saka ngarsane, aja ngadek ing urusan ala, awit samubarang sing dakarsakake ditindakake.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "gege medun"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "aja lunga (kasebut ing gege medun)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ngadek"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ing urusan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "samubarang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "dakarsakake"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ditindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:58.054369719Z",
+  "model": "glm-5.3"
+}

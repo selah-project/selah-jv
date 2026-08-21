@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Déné kowé nistakake ⟨את⟩-é, nalika kowé ngucap: 'Pasané Adonai iku reged, lan wohe — panganane nista banget.'",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "déné kowé"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "nistakake"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "asma-Né (asma Yahweh saka ayat 11)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "nalika kowé ngucap"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "pasané"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "reged"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "lan wohe"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "nista banget"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "panganane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:39:18.654984970Z",
+  "model": "glm-5.3"
+}

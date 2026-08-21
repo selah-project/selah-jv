@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan kowe padha marem nerus lan ngadeg ing sangisore gunung iku, lan gunung iku kobong kelawan geni nganti tumeka jantunge langit — peteng, awan lan saliring pepeteng.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "lan kowe padha marem nerus"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "lan ngadeg"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung iku"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "lan gunung iku"
+    },
+    {
+      "surface": "בער",
+      "gloss": "kobong"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kelawan geni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tumeka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "jantung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "peteng"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "awan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "saliring pepeteng"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:36.198870793Z",
+  "model": "glm-5.3"
+}

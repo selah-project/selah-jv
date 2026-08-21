@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan aku ngendika: Apa iku? Banjur dheweke ngendika: Iki ⟨e⟩ efa sing metu. Lan dheweke ngendika maneh: Iku mata-e ⟨ing⟩ sakabehing bumi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngendika"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur dheweke ngendika"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "sing metu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dheweke ngendika"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "mata-e"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sakabehing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:51:00.892291498Z",
+  "model": "glm-5.3"
+}

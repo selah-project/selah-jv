@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan mendhung iku nutupi ⟨את⟩ kemah patemon iku, lan kabermulané Yahweh kebak nutupi ⟨את⟩ padhah-kemah iku.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "nutupi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "mendung iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah patemon iku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patemon"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "lan kabermulané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kebak nutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padhah-kemah iku"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "padhah-kemah iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:08.597381469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Sarwo pangan dadi wigèn ⟨ing⟩ jiwané, lan ⟨⟨padha⟩⟩ tekan ngarsa gapura pati.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sarwo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pangan"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "dadi wigèn"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jiwané"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "lan tekan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "gapura"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pati"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:52.330812818Z",
+  "model": "glm-5.3"
+}

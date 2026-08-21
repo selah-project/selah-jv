@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sisaing walang gazam dipangan walang arbeh, lan sisaing walang arbeh dipangan walang yelek, lan sisaing walang yelek dipangan walang gasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "sisaing"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "walang gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dipangan"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "walang arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "lan sisaing"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "walang arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dipangan"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "walang yelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "lan sisaing"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "walang yelek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dipangan"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "walang gasil"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:13.108416677Z",
+  "model": "glm-5.3"
+}

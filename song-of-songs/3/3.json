@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Para penjaga sing ngubengi kutha padha nemuku aku — ⟨את⟩ sing dipituturi atiku, apa kowe padha ndeleng?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "padha nemuku aku"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "para penjaga"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "sing ngubengi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing dipituturi atiku"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "sing dipituturi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "apa kowe padha ndeleng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:49.590637096Z",
+  "model": "glm-5.3"
+}

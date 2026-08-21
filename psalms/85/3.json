@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Sampé ngangkat ⟨את⟩ kaluputan ummat-Mu, sampé nutupi ⟨את⟩ sadaya dosa-dosane. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "sampé ngangkat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ummat-Mu"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "sampé nutupi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dosa-dosane"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:01.339484741Z",
+  "model": "glm-5.3"
+}

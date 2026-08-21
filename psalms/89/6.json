@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Bakal padha memuji ⟨⟨langit⟩⟩ luputmu, Yahweh, uga setyanu ing pasamuwan para wong suci.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "bakal padha memuji"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "luputmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "setyanu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ing pasamuwan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "para wong suci"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:44.212652348Z",
+  "model": "glm-5.3"
+}

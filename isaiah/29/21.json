@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 29:21",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Sing nggawe manusa tiba dosa marga saka tembung, lan marang kang ngoceh ing gapura dhewe pasang jerat, lan mernuhaké wong bener ing pepeteng.",
+  "tokens": [
+    {
+      "surface": "מחטיאי",
+      "gloss": "nggawe tiba dosa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "marga tembung"
+    },
+    {
+      "surface": "ולמוכיח",
+      "gloss": "lan marang kang ngoceh"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ing gapura"
+    },
+    {
+      "surface": "יקשון",
+      "gloss": "pasang jerat"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "lan mernuhaké"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "ing pepeteng"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong bener"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:45.880254540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Dheweke ⟨bakal⟩ ngutus saka langit lan nylametake aku; ⟨nalika⟩ idhul-idhul ⟨ana⟩ sing ngegem-isap aku. Selah. Elohim ⟨bakal⟩ ngutus katresnan-setyane lan satyane.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "dheweke ngutus"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "saka langit"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "lan nylametake aku"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "idhul-idhul"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "sing ngegem-isap aku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "katresnan-setyane"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "lan satyane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:45.054795101Z",
+  "model": "glm-5.3"
+}

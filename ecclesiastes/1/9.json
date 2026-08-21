@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Apa sing wis ana, iku sing bakal ana; lan apa sing wis dilakoni, iku sing bakal dilakoni; lan ora ana apa-apa sing anyar sangisore srengéngé.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "sing wis ana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sing bakal ana"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan apa"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "sing wis dilakoni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "sing bakal dilakoni"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:36.623124931Z",
+  "model": "glm-5.3"
+}

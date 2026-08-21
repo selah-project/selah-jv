@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan marang Makhir Dakwènèhaké ⟨את⟩ Gilad.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Lan marang Makhir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Dakwènèhaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:50.642632166Z",
+  "model": "glm-5.3"
+}

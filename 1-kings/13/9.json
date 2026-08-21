@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Sebab mangkono aku dipréntahi ⟨את⟩ lumantar sabda Yahweh, sangkané: aja mangan roti lan aja ngombé banyu, lan aja bali lumantar dalan sing kokliwati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "dipréntahi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "lumantar sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkané"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ngombé"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lumantar dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "kokliwati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:51.352792637Z",
+  "model": "glm-5.3"
+}

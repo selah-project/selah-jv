@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lemak bangke lan lemak kewan sing karampok kena digunakake kanggo samubarang pakaryan, nanging dhahar aja kowé mendhem.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Lemak"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bangke"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "lemak"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "sing karampok"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kena digunakake"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kanggo samubarang"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pakaryan"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "nanging dhahar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "kowé mendhem"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:48.499179829Z",
+  "model": "glm-5.3"
+}

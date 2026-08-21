@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Sebab dhuwure langit ing dhuwur bumi, kukuwat kasetyane marang wong-wong sing bekti marang ⟨Panjenengane⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "dhuwure"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "kukuwat"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyane"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "wong-wong sing bekti marang ⟨Panjenengane⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:39.998440901Z",
+  "model": "glm-5.3"
+}

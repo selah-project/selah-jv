@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Manungsa ing kamulyan nanging ora ngerti, didhingklukake ⟨padha⟩ karo kewan-kewan — padha sirna.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ing kamulyan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "didhingklukake padha"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "karo kewan-kewan"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "padha sirna"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:17.413254997Z",
+  "model": "glm-5.3"
+}

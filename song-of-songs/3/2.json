@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Aku tangi, sumangga, lan aku ngubengi kutha — ing pasar-pasar lan ing dalan-dalan wiyar — dakgoleti ⟨את⟩ sing dipituturi atiku; dakgoleti dheweke, lan ora ketemu dheweke.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "aku tangi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sumangga"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "lan aku ngubengi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "ing pasar-pasar"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "lan ing dalan-dalan wiyar"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "dakgoleti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing dipituturi atiku"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "sing dipituturi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "dakgoleti dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ketemu dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:49.590498835Z",
+  "model": "glm-5.3"
+}

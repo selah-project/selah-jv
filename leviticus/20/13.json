@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan lanang sing saré ⟨את⟩ karo lanang kaya kadangé saré wong wadon, iku padha nindakake pakuning — loro-lorone bakal dipateni mesti, getihe ana ing awake dhéwé.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Lan lanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "saré (karo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lanang (zakhar)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "kadangé saré"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wong wadon"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "pakuning"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "loro-lorone"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dipateni"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mesti"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ana ing awake dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:50.408559124Z",
+  "model": "glm-5.3"
+}

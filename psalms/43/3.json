@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Utus padhangmu lan benermu; iku ⟨iku⟩ bakal nuntun aku, nggawa aku menyang ⟨⟉⟩ redi sucamu lan menyang padhemuanmu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "utus"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "padhangmu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "lan benermu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "nuntun aku"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "nggawa aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "הר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sucamu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan menyang"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "padhemuanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:57.573300650Z",
+  "model": "glm-5.3"
+}

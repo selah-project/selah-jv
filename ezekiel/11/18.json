@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan dheweke bakal teka ing kono, lan bakal nyingkirake ⟨את⟩ sedhone barang-barang sing njijiki lan ⟨את⟩ sedhone barang-barang sing banget-tenget saka ing kono.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Lan dheweke bakal teka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "lan bakal nyingkirake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedhone barang-barang sing njijiki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedhone"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "barang-barang sing njijiki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sedhone barang-barang sing banget-tenget"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedhone"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "barang-barang sing banget-tenget"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "saka ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T01:10:50.148106269Z",
+  "model": "glm-5.3"
+}

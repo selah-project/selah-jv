@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Kula ngaturake syukur marang Yahweh ingaken banget lawan cangkemku, lan ing tengahipun tiyang kathah kula memuji Panjenengane.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "kula ngaturake syukur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aken banget"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "lawan cangkemku"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "lan ing tengah"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "tiyang kathah"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "kula memuji Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:53.655111837Z",
+  "model": "glm-5.3"
+}

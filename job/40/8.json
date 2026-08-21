@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 40:8",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Apa manahe sira bakal nulak pamutusanku? Apa sira bakal ngukum Aku dosa, supaya sira katetep bener?",
+  "tokens": [
+    {
+      "surface": "האף",
+      "gloss": "apa manahe"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "nulak"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pamutusanku"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "ngukum Aku dosa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "katetep bener"
+    }
+  ],
+  "timestamp": "2026-08-21T02:36:45.999461416Z",
+  "model": "glm-5.3"
+}

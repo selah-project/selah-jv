@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 15:24",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Banjur Shaul ngandika marang Samuel: Aku wis dosa, awit aku nglangkangi ⟨את⟩ pepenggeraning Yahweh lan ⟨את⟩ tembungmu; awit aku wedi ⟨את⟩ marang wong akeh, banjur ngestokake swarane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku wis dosa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "aku nglangkangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pepenggeraning Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pepenggeran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tembungmu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tembungmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "aku wedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong akeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "banjur ngestokake"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "swarane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:01:31.472143310Z",
+  "model": "glm-5.3"
+}

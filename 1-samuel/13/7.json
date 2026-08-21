@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan para Ibrani padha nyebrangi ⟨את⟩ Yarden menyang dhaérah Gad lan Gilead; nanging Saul isih ing Gilgal, lan saben wong ramat padha gemeter mèlu panjenengané.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Lan para Ibrani"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "padha nyebrangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhaérah"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "lan Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "nanging Saul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "isih"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ing Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong ramat"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "padha gemeter"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "mèlu panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:31.717127440Z",
+  "model": "glm-5.3"
+}

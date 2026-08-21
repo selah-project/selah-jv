@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Yarden iku miliwati ⟨את⟩ ing sisih wetan; iki oleh warisane para putrane Binjamin miturut wates-watese ing saubenge, miturut kulawargane dhewe-dhewe.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Lan Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "iku miliwati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(wates iku)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "wetan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "oleh warisane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "miturut wates-watese"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing saubenge"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut kulawargane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:59.492414532Z",
+  "model": "glm-5.3"
+}

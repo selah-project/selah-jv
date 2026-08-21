@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 120,
+  "translation": "Kidung pangunggahan. Dhateng Yahweh ing sajroning kasusahanku aku ngundhang, lan Panjenengané nglilani aku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kidung"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pangunggahan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "ing sajroning kasusahan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku ngundhang"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "lan Panjenengané nglilani aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:36.727469262Z",
+  "model": "glm-5.3"
+}

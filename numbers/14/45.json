@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 14:45",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lah Sang Amaleki lan Sang Kanaani, sing padha manggon ing redhu iku, miliyur mudhun, banjur padha nggebug ⟨את⟩ wong-wong mau lan padha numpes ⟨את⟩ dheweke nganti tekan Hormah.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "miliyur mudhun"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Sang Amaleki"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "lan Sang Kanaani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "sing padha manggon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redhu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "banjur padha nggebug"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wong-wong mau",
+      "marks": "wong-wong mau (israil sing maju mundhak)"
+    },
+    {
+      "surface": "ויכתום",
+      "gloss": "lan padha numpes ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "החרמה",
+      "gloss": "Hormah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:50.073420686Z",
+  "model": "glm-5.3"
+}

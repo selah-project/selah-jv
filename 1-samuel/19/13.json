@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Layar Mikal njupuk ⟨את⟩ para terafim, ditata ing ranjang, lan ⟨את⟩ kasur rerembut kambing ditata ing sandhaping mustakane, banjur ditutupi nganggo sandhangan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "lan-njukuk"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "para terafim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "lan-ditata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ranjang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kasur rerembut kambing"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "kasur rerembut"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ditata"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "ing sandhaping mustakane"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "lan-ditutupi"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "nganggo sandhangan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:01:01.851412828Z",
+  "model": "glm-5.3"
+}

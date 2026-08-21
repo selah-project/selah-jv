@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Ngukum nganggo tembung kang ora migunani, lan pangucap kang ora ana bathine?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "ngukum"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nganggo tembung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "migunani"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "lan pangucap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ana bathine"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanggo iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:26:32.219618346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan roti tanpa ragi, lan roti tipis tanpa ragi sing dijornu minyak, lan wajan-wajan tipis tanpa ragi sing diolahi minyak; saka glepung tritikalane kowe gawe ⟨את⟩ mau.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "lan roti"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "roti tipis"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "dijornu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "wajan-wajan tipis"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tanpa ragi"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "diolahi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "minyak"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "glepung alus"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "tritika"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kowe gawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "roti-roti mau"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:39.688615767Z",
+  "model": "glm-5.3"
+}

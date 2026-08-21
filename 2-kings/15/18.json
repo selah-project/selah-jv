@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 15:18",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan dheweke nindakake ala ing pasuryan Yahweh; ora oleh saka pangkasalan Yarobeam bin Nevat sing nggawe ⟨את⟩ Israel tiba dosa, sedina-dina uripe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan dheweke nindakake"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing pasuryan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "סר",
+      "gloss": "oleh saka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "pangkasalan"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "nggawe ... tiba dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina-dina"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "uripe"
+    }
+  ],
+  "timestamp": "2026-08-21T04:06:49.498891652Z",
+  "model": "glm-5.3"
+}

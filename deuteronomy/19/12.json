@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lah para sesepuhing kuthane bakal ngutus lan njupuk ⟨את⟩ dheweke saka kana, lan pasrahake ⟨את⟩ dheweke ing astane wong kang nglunas getih, lan dheweke mati.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "bakal ngutus"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuhing"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "kuthane"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kana"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "lan pasrahake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing astane"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "wong kang nglunas"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "וומת",
+      "gloss": "lan mati"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "lan dheweke mati"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:46.982129148Z",
+  "model": "glm-5.3"
+}

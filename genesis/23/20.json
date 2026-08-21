@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lah dadi tetep ⟨is⟩ padhangan iku lan guwa sing ana ing jeroné, dadi duwèké Avraham minangka kagungan pangkuburan, saka ⟨את⟩ para anake Het.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "dadi tetep"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padhangan iku"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "lan guwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ana ing jeroné"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "dadi duwèké Avraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "minangka kagungan"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pangkuburan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "para anake Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para anake"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:04.071391320Z",
+  "model": "glm-5.3"
+}

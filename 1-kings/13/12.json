@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Banjur bapakné matur marang dhèwèké: Ing ngendi dalan iki sing dilakoni? Putra-putrané banjur ndeleng ⟨את⟩ dalan sing dilakoni wonging Elohim sing teka saka Yehuda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "matur"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ing ngendi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dilakoni"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "putra-putrané"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "dilakoni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "saka Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:51.353313788Z",
+  "model": "glm-5.3"
+}

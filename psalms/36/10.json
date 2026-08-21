@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Sebab ing ngarsamu ⟨isih⟩ sumbere urip, lan ing cahyanmu iki padha sumanding cahya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ing ngarsomu"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "sumbere"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ing cahyanmu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "iki padha sumanding"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:05.496917183Z",
+  "model": "glm-5.3"
+}

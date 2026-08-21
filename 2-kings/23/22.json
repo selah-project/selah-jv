@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Sebab ora naté kalakon Pésakh kaya iki, wiwit saka jamané para hakim sing ngadili ⟨את⟩ Yisraél, lan ing sakabéhé jamané para ratu Yisraél lan para ratu Yéhuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "naté kalakon"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "kaya Pésakh"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "wiwit saka jamané"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "para hakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraél"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabéhé"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "jamané"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "lan para ratu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yéhuda"
+    }
+  ],
+  "timestamp": "2026-08-21T00:30:19.823066301Z",
+  "model": "glm-5.3"
+}

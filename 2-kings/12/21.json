@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Layane padha tangi lan padha gawe pasarujuk jahat, lan padha ngetok ⟨את⟩ Yoas ing Bet-Milo, sing mangidul menyang Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "padha tangi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "layane"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "lan padha gawe pasarujuk jahat"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "pasarujuk jahat"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lan padha ngetok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "sing mangidul"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:04.486223528Z",
+  "model": "glm-5.3"
+}

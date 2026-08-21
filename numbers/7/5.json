@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Tampila ⟨את⟩ saka wong-wong mau, supaya dadi kanggo nglakoni ⟨את⟩ pangabektining Kemah Pasamuan, lan kowe mènèhi ⟨את⟩ marang wong-wong mau marang Wong Lewi, saben jiwa miturut pangabdiané.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Tampila"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "saka ⟨את⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kanggo nglakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangabektining Kemah Pasamuan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "pangabektining"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Pasamuan"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "lan kowe mènèhi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "marang wong-wong mau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Wong Lewi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben jiwa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "pangabdiané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:48.267972835Z",
+  "model": "glm-5.3"
+}

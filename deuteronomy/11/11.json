@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan bumi kang kowe padha ngliwati mrika kanggo nguwasani ⟨iku⟩ bumi gunung-gunung lan lembah-lembah; saka udan ing langit ⟨iku⟩ ngombe banyu.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Lan bumi iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe padha"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "mrika"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "kanggo nguwasani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "lan lembah-lembah"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "saka udan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:18.414874331Z",
+  "model": "glm-5.3"
+}

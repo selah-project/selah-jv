@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan ing dina kang kawolu, kuler-kulere daging siseké kudu diunjal.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Lan ing dina"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "kang kawolu"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "diunjal"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "siseké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:04.017406916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Moshe banjur anjujuring tangane ⟨את⟩ marang langit, lan dadi peteng ngelemung ing sabumine bumi Mitsrajim telung dina.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Lan anjujur"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "peteng"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "ngelemung"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sabagiane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:22.238998822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Yen selaka sira dakilanake marang ⟨את⟩ umat-Ku, marang ⟨את⟩ wong miskin kang ana ing sandhingira, aja dadi marang dhèwèké kaya sing nunjak bunga; aja kok pasaake bunga ing sandhuwure.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "selaka"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "sira dakilanake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong miskin"
+    },
+    {
+      "surface": "העני",
+      "gloss": "wong miskin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ing sandhingira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "kaya sing nunjak bunga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "kok pasaake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing sandhuwure"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "bunga utang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:33.000012744Z",
+  "model": "glm-5.3"
+}

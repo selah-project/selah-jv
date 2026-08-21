@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Patang puluh taun Aku jijiki marang wong saike iki, lan Aku dak-kandhaa: iki umat sing padha kesasar atiné, lan dheweke ora padha ngerti dalan-Ku.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Patang puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "Aku jijiki"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "marang wong saike iki"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan Aku dak-kandhaa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "sing padha kesasar"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "והם",
+      "gloss": "lan dheweke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "padha ngerti"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dalan-Ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:22.921298160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Saben wong mbiyantu ⟨את⟩ kanca-kancane, lan marang sedhéréké dhéwé ngendika: Kowat!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca-kancane"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca-kancane"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "mbiyanu"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "lan marang sedhéréké"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Kowat!"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:07.702383662Z",
+  "model": "glm-5.3"
+}

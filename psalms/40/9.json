@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Nindakake karsa-Pai, Elohim kawula, kawula remen; tur Torah-Pai ana ing sajroning weteng kawula.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "karsa-Pai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kawula"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "kawula remen"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "tur Torah-Pai"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "weteng kawula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:33.789827164Z",
+  "model": "glm-5.3"
+}

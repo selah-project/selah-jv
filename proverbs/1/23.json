@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Balia ing tukaranku; lah, Dakelokaké marang sira rohku, Dakandhakaké pangandikangku marang ⟨את⟩ sira.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "balia"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "ing tukaranku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "dakelokaké"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "dakandhakaké"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangandikangku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:06.358570198Z",
+  "model": "glm-5.3"
+}

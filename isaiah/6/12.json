@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "lan Yahweh bakal nulak ⟨את⟩ manungsa adoh, lan katurungan kang kok tinggal bakal akah ing sajroning ⟨the⟩ lemah.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "lan bakal nulak adoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "lan bakal akah"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "katurungan kang kok tinggal"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lemah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:05.700377002Z",
+  "model": "glm-5.3"
+}

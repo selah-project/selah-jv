@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Nganti teka aku lan njupuk ⟨את⟩ kowé menyang dhaerah kaya dhaerahe kowé, dhaerah jagung lan anggur anyar, dhaerah roti lan kebun anggur.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "באי",
+      "gloss": "teka aku"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowé",
+      "marks": "kowé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhaerah"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "kaya dhaerahe kowé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhaerah"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "jagung"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "lan anggur anyar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhaerah"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "lan kebun anggur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:20.934114026Z",
+  "model": "glm-5.3"
+}

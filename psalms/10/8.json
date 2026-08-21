@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Dhudhuk ing papan pangilonan ing dh-dhésa; ing papan sidhem matèni wong ora dosa; mripate nginteni kanthi sidhem wong kang ringkih.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "dudhuk"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "ing papan pangilonan"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "dhesa-dhesa"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ing papan sidhem"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "matèni"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "wong ora dosa"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mripate"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "wong kang ringkih"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "nginteni kanthi sidhem"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:35.916844512Z",
+  "model": "glm-5.3"
+}

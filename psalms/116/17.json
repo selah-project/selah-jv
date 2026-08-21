@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Marang Paduka aku bakal nyembelih kurban syukur, lan mawa asma Yahweh aku bakal ngundhang.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "marang Paduka"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "aku bakal nyembelih"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "syukur"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "lan mawa asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku bakal ngundhang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:25.401116987Z",
+  "model": "glm-5.3"
+}

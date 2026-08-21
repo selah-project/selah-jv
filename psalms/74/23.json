@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Aja lali swaraning mungsuhmu, regedaning wong-wong sing bangkit nglawan sira tansah mundhak tansah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lali"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "mungsuhmu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "regedaning"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "wong sing bangkit nglawan sira"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mundhak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:14.610018810Z",
+  "model": "glm-5.3"
+}

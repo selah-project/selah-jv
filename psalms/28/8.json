@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Yahweh ⟨iyaiku⟩ kuwate ⟨wong-wonge⟩, lan ⟨panjenengane⟩ bètèng pitulungan tumrap Mashíach-⟨e⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuwat"
+    },
+    {
+      "surface": "למו",
+      "gloss": "tumrap wong-wonge"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "lan bètèng"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "pitulungan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashíach-e"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:48.328159052Z",
+  "model": "glm-5.3"
+}

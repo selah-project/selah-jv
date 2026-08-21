@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 35:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan padha teka, saben wong sing atine ngunggahake semangat, lan saben wong sing rohe ngajengake kanthi sukarela ⟨את⟩, padha nggawa ⟨את⟩ persembahan terumah kanggo Yahweh, kanggo panggawéan Khemah Paparan, lan kanggo saben layanane, lan kanggo sandhangan ⟨the⟩ kasucen.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lan-padha-teka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ngunggahake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan-saben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ngajengake-sukarela"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rohe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "saben wong sing rohe ngajengake"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "padha-nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahan terumah"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "persembahan-terumah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למלאכת",
+      "gloss": "kanggo-panggawéan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Paparan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lan-kanggo-saben"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "layanane"
+    },
+    {
+      "surface": "ולבגדי",
+      "gloss": "lan-kanggo-sandhangan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucen"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:25.393591987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lah Yahweh mbalangake angin gedhe marang segara, dadi ana prahara gedhe ing segara, nganti kapal ⟨iku⟩ nganti mecah-mecah.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Lah Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "mbalangake"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dadi ana"
+    },
+    {
+      "surface": "סער",
+      "gloss": "prahara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ing segara"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "lah kapal ⟨iku⟩"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "mecah-mecah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:39.808695690Z",
+  "model": "glm-5.3"
+}

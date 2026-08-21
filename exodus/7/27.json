@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan manawa kowe ora gelem nglungguhake, lah Ingsun bakal ngetokake ⟨את⟩ sakabehe pasamuwan-mu nganggo bengkong.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan manawa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ora gelem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "nglungguhake"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ingsun"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "bakal ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehe pasamuwan-mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehe"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "pasamuwan-mu"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "nganggo bengkong"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:36.391427120Z",
+  "model": "glm-5.3"
+}

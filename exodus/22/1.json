@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Yen maling iku katemu lagi nglubangi omah, banjur dipukul nganti mati, ora ana dosa getih tumrap ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yen"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "lagi nglubangi"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "katemu"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "maling iku"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "banjur dipukul"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "nganti mati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tumrap ⟨dheweke⟩"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dosa getih"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:14.138219209Z",
+  "model": "glm-5.3"
+}

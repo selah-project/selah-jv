@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Balungku ora kasumèpun saka Panjenenganmu, nalika kula kadadéan ing papan buni, ditenuni ing panggonan ngisor bumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "kasumèpun"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "balungku"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka Panjenenganmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ing papan buni"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ditenuni"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ing panggonan ngisor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:31.540245690Z",
+  "model": "glm-5.3"
+}

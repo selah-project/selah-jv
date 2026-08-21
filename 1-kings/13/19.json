@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Dheweke bali ⟨את⟩ bareng awake, lan mangan roti ing omahé, lan ngombe banyu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "balia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bareng awake",
+      "marks": "bareng awake"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "lan mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ing omahé"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "lan ngombe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:50.913073196Z",
+  "model": "glm-5.3"
+}

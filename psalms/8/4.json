@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Satebisaku ndeleng langitmu, karyane driji-drijimu, rembulane lan lintang-lintang, kang sira wus pancengake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "satebisaku"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langitmu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karyane"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "driji-drijimu"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "rembulane"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "lan lintang-lintang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "sira wus pancengake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:38.879145773Z",
+  "model": "glm-5.3"
+}

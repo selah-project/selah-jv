@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan padha gawe ⟨את⟩ pelat makutha sucikapas emas murni, lan padha nulis ing dhuwure seratan sing dipunukir kados munggaling cincin: 'Sucikanggo Yahweh'.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "padha gawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelat makutha sucikapas"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "pelat nggilap"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "makutha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sucikapas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "padha nulis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "seratan"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ukiran"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "cincin munggaling"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:08.000161739Z",
+  "model": "glm-5.3"
+}

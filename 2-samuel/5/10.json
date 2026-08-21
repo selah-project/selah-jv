@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Dawid milya saya maju lan saya agung, lan Yahweh, Elohim Sabaoth, kaliyan dhèwèké.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "milya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "saya maju"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "lan saya agung"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sabaoth"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaliyan dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:49.842007527Z",
+  "model": "glm-5.3"
+}

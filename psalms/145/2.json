@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Saben dina aku ngaturake berkah marang Kowé, lan aku memuji asma-Mu nganti saiki-lawas lan salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "aku ngaturake berkah marang Kowé"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "lan aku memuji"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-Mu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti saiki-lawas"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:45.148729981Z",
+  "model": "glm-5.3"
+}

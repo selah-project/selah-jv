@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Pedhange bakal mlebu ing atine dhewe, lan kluruke bakal remuk.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "pedhange"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bakal mlebu"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ing atine"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "lan kluruke"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "bakal remuk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:44.973894288Z",
+  "model": "glm-5.3"
+}

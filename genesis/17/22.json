@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Wis rampung Ia ngendika marang ⟨את⟩-é, lan Elohim munggah saka Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wis rampung"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-é"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing dhuwuré"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:16.902402376Z",
+  "model": "glm-5.3"
+}

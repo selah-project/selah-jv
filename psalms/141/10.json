@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 141,
+  "translation": "Bareng wong-wong nir dosa tiba ing jala-jalane dhewe, supaya aku bisa ngliwati.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "padha tiba"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "ing jala-jalane dhewe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong nir dosa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "bisa ngliwati"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:02.159524496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Elohim Tzvaot, baliaken kita, lan padhangna praumpakamu, lan kita bakal kaslamet.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "baliaken kita"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "lan padhangna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praumpakamu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "lan kita bakal kaslamet"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:03.533759736Z",
+  "model": "glm-5.3"
+}

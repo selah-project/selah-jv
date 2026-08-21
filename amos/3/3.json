@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Apa wong loro padha lumaku sesarengan tanpa padha janjian temu?",
+  "tokens": [
+    {
+      "surface": "היײכו",
+      "gloss": "Apa padha lumaku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "sesarengan"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "padha janjian temu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:25.848525995Z",
+  "model": "glm-5.3"
+}

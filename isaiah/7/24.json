@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Mawa panah lan mawa jemparing wong bakal teka marang kana; awit kabeh bumi bakal dadi eri lan eluk.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "mawa panah"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "lan mawa jemparing"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "marang kana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "eri"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "lan eluk"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:54.288682496Z",
+  "model": "glm-5.3"
+}

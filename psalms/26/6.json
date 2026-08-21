@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Aku ngumbahi tanganku ing sajroning kamarahan, lan aku ngubengi ⟨את⟩ misbahanmu, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "ngumbahi"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ing sajroning kamarahan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "lan aku ngubengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misbahanmu"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "misbahanmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:35.903624539Z",
+  "model": "glm-5.3"
+}

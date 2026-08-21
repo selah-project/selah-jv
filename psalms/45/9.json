@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Murr lan aloe lan kasia — sandhanganira kabeh; saka bale-bale gading petesan gamelan nglipur sira.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "murr"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "lan aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "sandhanganira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "bale-bale"
+    },
+    {
+      "surface": "שן",
+      "gloss": "gading"
+    },
+    {
+      "surface": "מני",
+      "gloss": "petesan gamelan"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "nglipur sira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:49.677944388Z",
+  "model": "glm-5.3"
+}

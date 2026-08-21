@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Aku ngenteni, awit ⟨dheweke⟩ ora ngucap, awit ⟨dheweke⟩ ngadeg lan ora mangsuli maneh.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "aku ngenteni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "⟨dheweke⟩ ngucap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "⟨dheweke⟩ ngadeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "mangsuli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:33:18.394399518Z",
+  "model": "glm-5.3"
+}

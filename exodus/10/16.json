@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur Paroh rikat nimbali Moshe lan Aharon, lan ngendika: Aku wis dosa marang Yahweh, Elohime kowe, lan marang kowe.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "banjur rikat"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "nimbali"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "marang Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "lan marang Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "aku wis dosa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohime kowe"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "lan marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:17.124236676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Déné sira, Yahweh, aja adoh; kakuwatanku, enggal rawuha nulungi aku.",
+  "tokens": [
+    {
+      "surface": "ו אתה",
+      "gloss": "déné sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "kakuwatanku"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "nulungi aku"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "enggal rawuha"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:42.192042971Z",
+  "model": "glm-5.3"
+}

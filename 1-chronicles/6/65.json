@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan saka suku Gad: ⟨את⟩ Raamot ing Gilead sarta ⟨את⟩ pangonane, lan ⟨את⟩ Mahanaim sarta ⟨את⟩ pangonane.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "lan saka suku"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ing Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "pangonane"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pangonane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Mahanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "pangonane"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pangonane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:22.612572059Z",
+  "model": "glm-5.3"
+}

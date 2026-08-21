@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur Yahweh ngandika: Kula bakal ngestokake ⟨את⟩ manungsa kang Kula titahake saka ing ngarsane bumi, saka manungsa nganti sapi, nganti lelembut, lan nganti manuk-manuk langit, awit Kula wis keduwungan yèn Kula nitahake dhèwèké",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "bakal ngestokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "Kula titahake"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing ngarsane"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsane"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "saka manungsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "lelembut"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "manuk-manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "wis keduwungan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "Kula nitahake dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:23.580613448Z",
+  "model": "glm-5.3"
+}

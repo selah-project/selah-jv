@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 11:29",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan bakal kelakon, nalika Yahweh Elohim-mu nggawa kowe marang ⟨the⟩ bumi sing kok tandur lumebu ing kono kanggo nduwèni, kok wenehake ⟨את⟩ berkah ing sandhuwuring redi Gerizim lan ⟨את⟩ kutuk ing sandhuwuring redi Ebal.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal kelakon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "nggawa kowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kok tandur lumebu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "kanggo nduwèni"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kok wenehake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwuring"
+    },
+    {
+      "surface": "הר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kutuk"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "kutuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwuring"
+    },
+    {
+      "surface": "הר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:37.579468510Z",
+  "model": "glm-5.3"
+}

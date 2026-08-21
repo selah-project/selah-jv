@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Aduh, sira sing ngrampok lan durung dirampok, sing cidra lan durung diwales cidra marang sira! Nalika sira rampung ngrampok, sira bakal dirampok; nalika sira rampung m_cidra, dheweke bakal cidra marang sira.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "sing ngrampok"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "lan sira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "dirampok"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "lan sing cidra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "cidra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "nalika sira rampung"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ngrampok"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "sira bakal dirampok"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "nalika sira rampung"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "m_cidra"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "dheweke bakal cidra"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang sira"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:36.322651745Z",
+  "model": "glm-5.3"
+}

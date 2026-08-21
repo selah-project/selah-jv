@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Marang ⟨את⟩ sapa ⟨dhèwèké⟩ nimbang-rimbang, banjur nggawé ⟨dhèwèké⟩ paham, lan mulang ⟨dhèwèké⟩ ing dalané kukum, lan mulang ⟨dhèwèké⟩ kawruh, lan dalan kacerdasan ndadèkaké ⟨dhèwèké⟩ weruh?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "nimbang-rimbang"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "nggawé dhèwèké paham"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "mulang dhèwèké"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "ing dalané"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kukum"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "mulang dhèwèké"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kawruh"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "kacerdasan"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "ndadèkaké dhèwèké weruh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:41.287957358Z",
+  "model": "glm-5.3"
+}

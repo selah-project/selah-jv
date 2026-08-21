@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Sirahé para sing ngepung aku — bilahé lambéné dhèwé sing nglumudi dhèwé.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "para sing ngepung aku"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bilahé"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lambéné dhèwé"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "nglumudi dhèwé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:36.161835964Z",
+  "model": "glm-5.3"
+}

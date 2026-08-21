@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Aku anggené weruh, Yahweh, kaluputan kula lan dosané para leluhur kula; awit kula sampun dosa marang Paduka.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "aku anggené weruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "kaluputan kula"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "para leluhur kula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "kula sampun dosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T00:54:11.690169086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Ora sira apékaké banyu marang wong kang ngantuk luweh, lan marang wong kaluwèn sira ngalang-alangi roti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "marang wong kang ngantuk luweh"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "sira apékaké"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "lan marang wong kaluwèn"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "sira ngalang-alangi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-21T02:27:59.609337295Z",
+  "model": "glm-5.3"
+}

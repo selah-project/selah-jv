@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Cangkemmu sira nguncalake marang ala, lan ilatmu nampekake panipu.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "cangkemmu"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "sira nguncalake"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "marang ala"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "lan ilatmu"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "nampekake"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "panipu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:06.128504668Z",
+  "model": "glm-5.3"
+}

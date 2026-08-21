@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan manuk-manuk gagak mau ngetokake marang dheweke roti lan daging ing esuk, lan roti lan daging ing sonten, lan saka kali iku dheweke ngombé.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "Lan para gagak"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "lan daging"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "lan roti"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "lan daging"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ing sonten"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kali iku"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "dheweke ngombé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:58.055092115Z",
+  "model": "glm-5.3"
+}

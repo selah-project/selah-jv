@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan yèn persembahanmu minangka minchah saka panci, glepung alus nganggo lenga kudu digawé.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan yèn"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchah (persembahan)"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "panci (marjeshet)"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "persembahanmu (korban)"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "glepung alus"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nganggo lenga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kudu digawé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:10.434624806Z",
+  "model": "glm-5.3"
+}

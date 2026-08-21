@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Titihas, Aku ngyuyak dhèwèké saka panggonan panggon kowe ngadol ⟨את⟩, lan Aku mbalèkaké pidana-mu ing sirahmu dhéwé.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Titihas, Aku iki"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "ngyuyak dhèwèké"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "panggon"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "kowe ngadol"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké (kang kokadhul)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "lan Aku mbalèkaké"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "pidana-mu"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "ing sirahmu dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:54.170975061Z",
+  "model": "glm-5.3"
+}

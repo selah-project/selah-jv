@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 22:16",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Apa kok ana kéné? Sapa kok duwé kéné, saengga kok natah kubur kéné — kok natah kubur ing papan dhuwur, kok natah-ngetoki padunungan ing watu cadas tumrap awakmu dhéwé?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kok ana"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kéné"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kok duwé"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kéné"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saengga"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "kok natah"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kok"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kéné"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubur"
+    },
+    {
+      "surface": "חצבי",
+      "gloss": "natah"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ing papan dhuwur"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "kubure"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "ngetoki"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "ing watu cadas"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "padunungan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tumrap awaké dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:53.717061848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Akeh wong padha ngucap: Sapa sing bisa ndelengake kabecikan marang kita? Sanggah, Yahweh, ngunggahna cahyaning raimu marang kita.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "akeh wong"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "padha ngucap"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ndelengake"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "ngunggahna"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ning raimu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:04.038185948Z",
+  "model": "glm-5.3"
+}

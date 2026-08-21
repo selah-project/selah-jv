@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan marang wong Rubén lan marang wong Gad Dakwènèhaké saka Gilad nganti kali Arnon — tengahing kali iku dadi wates — nganti kali Yabok, iku watesing para putra Amon.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "marang wong Rubén"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "marang wong Gad"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Dakwènèhaké"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tengahing"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kali"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "wates"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kali"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "watesing"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:50.642804162Z",
+  "model": "glm-5.3"
+}

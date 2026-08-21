@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Aharon ngaturaké ⟨את⟩ sapi lanang kurban dosa kanggo dheweke, lan nglakoni pangapura kanggo awaké lan kanggo kulawargané.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "lan ngaturaké"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi lanang"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sapi lanang"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo dheweke"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "lan nglakoni pangapura"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "kanggo awaké"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "lan kanggo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kulawargané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:48.137853141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Tembung beliyaal dicurahake ing ⟨dhèwèké⟩, lan sapa sing ngaso ora bakal tangi maneh.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliyaal"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "dicurahake"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing dhèwèké"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ngaso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nambahi"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "tangi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:39.699085824Z",
+  "model": "glm-5.3"
+}

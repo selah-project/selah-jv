@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "lan nindakake kasetyan tumrap èwu-an generasi, tumrap wong-wong kang nresnani Aku lan kang nuruti prentah-prentah-Ku.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "tumrap èwu-an"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "tumrap wong kang nresnani Aku"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "lan kang nuruti"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "prentah-prentah-E"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:22.999803160Z",
+  "model": "glm-5.3"
+}

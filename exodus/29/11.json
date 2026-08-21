@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan sira nyembelih ⟨את⟩ sapi iku ing ngarep Yahweh, ing lawang Khemah Patemon.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "lan nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapi iku"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Patemon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:06.065655416Z",
+  "model": "glm-5.3"
+}

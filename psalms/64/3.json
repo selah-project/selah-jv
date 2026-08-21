@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Singidhana aku saka sode para wong cidra, saka rame para panggawe kaluputan.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "singidhana aku"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "saka sode"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "para wong cidra"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "saka rame"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "para panggawe"
+    },
+    {
+      "surface": "און",
+      "gloss": "kaluputan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:13.258172024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Aja sreget marang sadulurmu ing sajroning atimu; paesana wong seklancarmu — ⟨את⟩ — aja nganti kowé nggawa dosa marang awakmu amarga dhèwèké.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "sreget"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulurmu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadulurmu"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ing sajroning atimu"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "paesana"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "paesanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong seklancarmu"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "wong seklancarmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "amarga dhèwèké"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:09.943142273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Saul ngandika: Sira pinuji ⟨dening⟩ Yahweh, awit sira wis welas asih marang aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "pinuji"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dening Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "sira wis welas asih"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:20.796272680Z",
+  "model": "glm-5.3"
+}

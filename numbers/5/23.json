@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan sang imam nulis ⟨את⟩ pangecam-pangecam iki ing satunggaling buku, lan nyapu ⟨את⟩ menyang banyu pait iku.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "lan nulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangecam-pangecam iki"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "pangecam-pangecam"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ing satunggaling buku"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "lan nyapu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "pait iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:59.026092090Z",
+  "model": "glm-5.3"
+}

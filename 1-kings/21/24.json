@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Sing mati kanggo Ahab ana ing kutha bakal dipangan asu-asu, lan sing mati ana ing sawah bakal dipangan manuk-manuk ing langit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Sing mati"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kanggo Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ana ing kutha"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal dipangan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "asu-asu"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "lan sing mati"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ana ing sawah"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal dipangan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "manuk-manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ing langit"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:59.859868691Z",
+  "model": "glm-5.3"
+}

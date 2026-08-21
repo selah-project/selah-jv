@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Banjur kowé bakal ngecakake jug iku ing ngarsané wong-wong sing padha mlaku bareng ⟨את⟩kowé.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "Banjur kowé bakal ngecakake"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "jug iku"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "sing padha mlaku bareng"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩kowé",
+      "marks": "kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:55:26.301504828Z",
+  "model": "glm-5.3"
+}

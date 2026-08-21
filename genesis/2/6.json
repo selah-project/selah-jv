@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Langité munggah saka ⟨the⟩ bumi lan nglèlèhaké ⟨את⟩ sandhuwuring lemah.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "langité"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "lan nglèlèhaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhuwuring lemah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sandhuwuring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "praénaning"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lemah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:36.690695870Z",
+  "model": "glm-5.3"
+}

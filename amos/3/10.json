@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan padha ora weruh nindakaken ingkang leres, pangandikanipun Yahweh — sing padha nglumpukaken panyidran lan panjarahan ing paseban-pasebanipun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Lan padha ora"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "nindakaken"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "ingkang leres"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikanipun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "sing padha nglumpukaken"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "panyidran"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "lan panjarahan"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "ing paseban-pasebanipun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:45.727430734Z",
+  "model": "glm-5.3"
+}

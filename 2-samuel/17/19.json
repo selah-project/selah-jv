@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan randha iku njupuk lan ambabar ⟨את⟩ klambi panuduh ing ngarsaning lambange sumur, lan ngeperake ing dhuwure wos-wosan gabah, lan samubarang ora kadunungan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "randha iku"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "lan ambabar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klambi panuduh"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "klambi panuduh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing ngarsaning"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lambange"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "lan ngeperake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "wos-wosan gabah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "kadunungan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "samubarang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:10:42.553924998Z",
+  "model": "glm-5.3"
+}

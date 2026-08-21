@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Lan padha nyembelihake kurban pangaturan panuwun, lan padha caritakake panggaweane kanthi rame-rame pengantenin.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "lan padha nyembelihake kurban"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pangaturan panuwun"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "lan padha caritakake"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "panggaweane"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "kanthi rame-rame pengantenin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:44.368176380Z",
+  "model": "glm-5.3"
+}

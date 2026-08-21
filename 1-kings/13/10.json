@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Banjur ⟨dheweke⟩ maju liwat dalan liya, lan ora bali lumantar dalan sing dia dolan mlebu menyang Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "maju"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "liwat dalan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lumantar dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בא",
+      "gloss": "dolan mlebu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:51.352987579Z",
+  "model": "glm-5.3"
+}

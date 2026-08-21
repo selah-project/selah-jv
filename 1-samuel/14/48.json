@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dheweke nindakake kabisan prang, lan nampar ⟨את⟩ Amalek, lan ngluwari ⟨את⟩ Israel saka astane sing ngrampoki.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan dheweke nindakake"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kabisan prang"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nampar\/ngejeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "lan ngluwari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka astane"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "sing ngrampoki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:50.223642615Z",
+  "model": "glm-5.3"
+}

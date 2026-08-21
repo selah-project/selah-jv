@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Apa para allah ing bangsa-bangsa iku bisa ngluwari ⟨את⟩ nagarané siji-siji, saka astane ratu Ashur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "apa ... bisa ngluwari"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "wis ngluwari"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "para allah"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ing bangsa-bangsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji-siji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagarané"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "nagarané"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka astane"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:48.607834137Z",
+  "model": "glm-5.3"
+}

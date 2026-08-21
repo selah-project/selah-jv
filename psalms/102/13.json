@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Nanging Paduka, wahai Yahweh, lungguh ngantosi salawas-lawase, lan pangéling-éling Paduka tumut ing saben gesang turun-tumurun.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nanging Paduka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "lungguh ngantosi"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "lan pangéling-éling Paduka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ing saben gesang"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "turun-tumurun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:08.550370767Z",
+  "model": "glm-5.3"
+}

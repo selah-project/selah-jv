@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan sang manungsa menehi jeneng marang saben kewan dara, lan saben manuk ing langit, lan saben sato ing tegalan; nanging marang sang manungsa ora tinemu tetulung kang padha karo dheweke.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Lan menehi jeneng"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sang manungsa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jeneng-jeneng"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang saben"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kewan dara"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "lan marang saben manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lan marang saben"
+    },
+    {
+      "surface": "חית",
+      "gloss": "sato"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ing tegalan"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "nanging marang sang manungsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tinemu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "tetulung"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "kang padha karo dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:35.736783644Z",
+  "model": "glm-5.3"
+}

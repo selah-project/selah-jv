@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Nanging Kowe wis nulak lan ngecu awake ⟨kita⟩, lan ora metu bareng wadyabala kita.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Nanging"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "Kowe wis nulak"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "lan ngecu awake kita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "Kowe metu"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "bareng wadyabala kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:26.900466133Z",
+  "model": "glm-5.3"
+}

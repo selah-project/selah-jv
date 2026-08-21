@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "lan kaatur marang kowe, lan krungu kowe, lan digolèki becik-becik, lan lah, sejati, temen perkara iku, kadadeyan bendu iku ing tengahing Yisrael",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "lan kaatur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "lan krungu kowe"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "lan digolèki"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "becik-becik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sejati"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "temen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara iku"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "kadadeyan"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "bendu iku"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing tengahing Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:55.570757483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 29:11",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Kambing jalu siji dadi kurban dosa, saliyané kurban dosa pangapura, lan kurban bakar sinambi terus, lan sesajéné, lan umbahané.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "kambing jalu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "saliyané"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "pangapura"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "lan kurban bakar"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "sinambi terus"
+    },
+    {
+      "surface": "ומנחתה",
+      "gloss": "lan sesajéné"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "lan umbahané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:27:19.339730153Z",
+  "model": "glm-5.3"
+}

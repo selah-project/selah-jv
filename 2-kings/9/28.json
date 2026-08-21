@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lajeng abdi-abdiné ngunggahaké ⟨את⟩ dhèwèké menyang Yerushalayim, lan ngarepaké ⟨את⟩ dhèwèké ing pasareyané, bareng bapak-bapakné, ing kuthaning Dawid.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "ngunggahaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdiné"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "menyang Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "lan ngarepaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "ing pasareyané"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapakné"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kuthaning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:50.983593190Z",
+  "model": "glm-5.3"
+}

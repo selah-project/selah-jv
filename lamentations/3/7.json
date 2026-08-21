@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Dheweke ngadegake tembok nglawan aku supaya aku ora bisa metu; dheweke ndadekake abot belenggu tembague.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "ngadegake tembok ngubengi"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "nglawan aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "aku metu"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ndadekake abot"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "belenggu tembague"
+    }
+  ],
+  "timestamp": "2026-08-21T02:43:44.274447825Z",
+  "model": "glm-5.3"
+}

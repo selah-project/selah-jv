@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "ing dina-dina iku, nalika ratu Achashverosh lenggah ing dhampar karajané sing ana ing Shushan ⟨⟨ing⟩⟩ bèntèngé —",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ing dina-dina"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "iku"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "nalika lenggah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "dhampar"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ing Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "bèntèngé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:51:49.520546537Z",
+  "model": "glm-5.3"
+}

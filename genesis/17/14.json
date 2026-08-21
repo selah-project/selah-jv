@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan wong lanang ora disunat, daging kulupé sing ora disunat ⟨את⟩ — nyawa iku bakal dilenyepake saka umate; ⟨את⟩ prajanjian-Ku dilanggari.",
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "lan wong ora disunat"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "disunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging kulupé"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "kulupé"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "lan bakal dilenyepake"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "saka umate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjian-Ku"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "dilanggari"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:02.612412812Z",
+  "model": "glm-5.3"
+}

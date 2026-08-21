@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Ngutus pitulungan-mu saka papan suci, lan saka Tsiyon nyangga kowe.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "pitulungan-mu"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "saka papan suci"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "lan saka Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "nyangga kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:14.388765837Z",
+  "model": "glm-5.3"
+}

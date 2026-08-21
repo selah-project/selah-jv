@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur dadi sabda Yahweh liwat tangané Hagai sang nabi, ngendika:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur dadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "liwat tangané"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Hagai"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:04.654206892Z",
+  "model": "glm-5.3"
+}

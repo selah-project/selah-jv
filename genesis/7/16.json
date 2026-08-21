@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan kang padha mlebu, lanang lan wadon saka kabeh daging, padha mlebu kaya pituturé Elohim marang ⟨את⟩-e; lan Yahweh nutup ing sandhinge.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "lan kang padha mlebu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "lan wadon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka kabeh"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging (makluk)"
+    },
+    {
+      "surface": "באו",
+      "gloss": "padha mlebu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pituturé"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "marang Noach (dheweke)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "lan nutup"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ing sandhinge (kanggo dheweke)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:46.034549415Z",
+  "model": "glm-5.3"
+}

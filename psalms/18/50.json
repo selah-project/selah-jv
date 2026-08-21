@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Mula saka iku aku akuji marang sira ing satengahing para bangsa, o Yahweh, lan marang asma-Mu aku ngumandhungake mazmur.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ing dhuwur"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dhasar iku"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "aku akuji marang sira"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing satengahing para bangsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "lan marang asma-Mu"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "aku ngumandhungake mazmur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:54.416789892Z",
+  "model": "glm-5.3"
+}

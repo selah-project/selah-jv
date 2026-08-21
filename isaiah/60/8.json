@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Sapa iki sing mabur kaya mendhung, lan kaya dara marang jendhela-jendhelané?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "kaya mendhung"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "sing mabur"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "lan kaya dara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "jendhela-jendhelané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:40.177896015Z",
+  "model": "glm-5.3"
+}

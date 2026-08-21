@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan para pangéran Paroh padha ndeleng ⟨את⟩ dhèwèké, lan padha muji ⟨את⟩ dhèwèké marang Paroh, lan wadon iku kacekel ing dalem Paroh.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para pangéran"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "padha muji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "lan kacekel\/kaundhang"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wadon iku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dalem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:04.788640161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kanggo Yahweh iku pitulungan; marang umat-Mu berkah-Mu. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "pitulungan"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "berkah-Mu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:23.479060785Z",
+  "model": "glm-5.3"
+}

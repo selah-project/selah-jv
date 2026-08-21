@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan Panjenengané nuntun dhèwèké kanthi tentrem, lan ora padha wedi, lan sagara iku nutupi ⟨את⟩ mungsuh-mungsuhé.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nuntun"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kanthi tentrem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "padha wedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mungsuh-mungsuhé"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "mungsuh-mungsuhé"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nutupi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara iku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:43.487284372Z",
+  "model": "glm-5.3"
+}

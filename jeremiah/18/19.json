@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Yahweh, prayitna aku, lan rungunna swara para mungsuhku.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "prayitna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "lan rungunna"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "para mungsuhku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:54:54.218602977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Wong liya muji sira, dudu cangkemmu dhéwé; wong njaba, dudu lathimu dhéwé.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "muji sira"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wong liya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "cangkemmu"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "wong njaba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lathimu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:53.070927305Z",
+  "model": "glm-5.3"
+}

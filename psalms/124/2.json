@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 124,
+  "translation": "Lamun dudu Yahweh sing dadi pangayom kita, nalika manungsa bangkit nglawan kita",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Lamun dudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "sing dadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pangayom kita"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "nalika ... bangkit"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nlawan kita"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:15.132844428Z",
+  "model": "glm-5.3"
+}

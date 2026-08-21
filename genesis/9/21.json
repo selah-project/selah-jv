@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan ia ngombé saka anggur iku, lan dadi mabuk, lan muruk awaké dhéwé ana ing tengah-tengahé khémahé.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "lan ia ngombé"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "היין",
+      "gloss": "anggur iku"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "lan dadi mabuk"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "lan muruk awaké dhéwé"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ana ing tengah-tengahé"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "khémahé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:47.390222399Z",
+  "model": "glm-5.3"
+}

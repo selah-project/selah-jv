@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Iki padha ngadeg murih mbedah ⟨את⟩ wong akeh iku ing gunung Gerizim, nalikanira nglintasi ⟨את⟩ Kali Yarden: Shim'on, lan Lewi, lan Yehudha, lan Yissakhar, lan Yosef, lan Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "padha ngadeg"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "murih mbedah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong akeh iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "nalikanira nglintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kali Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Kali Yarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "lan Lewi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "lan Yehudha"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "lan Yissakhar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "lan Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "lan Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:46.952104009Z",
+  "model": "glm-5.3"
+}

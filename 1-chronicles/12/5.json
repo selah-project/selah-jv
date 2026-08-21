@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "lan Yirmeyah, lan Yakhaziel, lan Yokhanan, lan Yozavad sang saka Gedera,",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "lan Yirmeyah"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "lan Yakhaziel"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "lan Yokhanan"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "lan Yozabad"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "sang Gedera"
+    }
+  ],
+  "timestamp": "2026-08-21T03:21:09.422329929Z",
+  "model": "glm-5.3"
+}

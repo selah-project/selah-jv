@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Randha lan wong manggon padha dipateni, lan bocah yatim padha sengaja diprejaya.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "randha"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "lan wong manggon"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "padha dipateni"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "lan bocah yatim"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "padha sengaja diprejaya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.019270305Z",
+  "model": "glm-5.3"
+}

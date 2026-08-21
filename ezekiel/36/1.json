@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 36:1",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan sira, putra manungsa, ayu-ayu (nubuwat) marang gunung-gununge Yisrael, lan ngucap: Dhuh gunung-gununge Yisrael, padha ngrungokake tembungé Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lan sira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "nubuwata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gunung-gununge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "gunung-gununge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:20:34.080277684Z",
+  "model": "glm-5.3"
+}

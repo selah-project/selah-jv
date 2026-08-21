@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Dawid lunga lan bali saka ngarsane Shaul kanggo ngango ⟨את⟩ wedhusé bapakné, ing Beit Lejem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Lan Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "lan bali"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kanggo ngango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhusé"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wedhusé"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lejem"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:45.109507919Z",
+  "model": "glm-5.3"
+}

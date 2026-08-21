@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Saka dadine wong ala ora bakal ngadeg ing pangadilan, lan wong dosa ⟨ora bakal ngadeg⟩ ing pasamuwaning wong bener.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "saka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dadine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ing pangadilan"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "lan wong dosa"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "ing pasamuwan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong bener"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:35.840164793Z",
+  "model": "glm-5.3"
+}

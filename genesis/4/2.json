@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur maneh nglairake ⟨את⟩ sadhèrèke, ⟨את⟩ Hebel; lan Hebel dadi pangon wedhus, déné Qayin dadi panggarap lemah.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "banjur maneh"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadhèrèke"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadhèrèke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pangon"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "déné Qayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "panggarap"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "lemah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:04.455685550Z",
+  "model": "glm-5.3"
+}

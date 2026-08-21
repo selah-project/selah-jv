@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan aku tangi ing esuk kanggo nyusoni ⟨את⟩ anakku, lah, ⟨dheweke⟩ mati; lan aku ngestut-estut marang ing esuk, lah, anakku sing dakbabar iku ora ana.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "lan aku tangi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "kanggo nyusoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "lan aku ngestut-estut"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "dakbabar"
+    }
+  ],
+  "timestamp": "2026-08-21T04:03:37.166406332Z",
+  "model": "glm-5.3"
+}

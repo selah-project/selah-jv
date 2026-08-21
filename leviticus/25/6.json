@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan sabate ⟨the⟩ bumi dadi panganan tumrap kowé, kanggo kowé lan kanggo abdimu lan kanggo burèkmu, lan kanggo panggarapmu lan kanggo tamu sing manggon ing sapadhanmu.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabate"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tumrap kowé"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "panganan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo kowé"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "lan kanggo abdimu"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "lan kanggo burèkmu"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "lan kanggo panggarapmu"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "lan kanggo tumanggung"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "tamu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ing sapadhanmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:53.893291328Z",
+  "model": "glm-5.3"
+}

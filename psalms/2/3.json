@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "\"Ayo konco tali pangikete ⟨את⟩, lan konco buwanga saka awakke tali-tali jeruole\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "ayo konco"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tali pangikete"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "tali pangikete"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "lan konco buwanga"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka awakke"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "tali-tali jeruole"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:42.315166007Z",
+  "model": "glm-5.3"
+}

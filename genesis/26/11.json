@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Banjur Avimelekh paring parentah marang ⟨את⟩ sakabehing wong iku, ngendika: Sapa sing nyenggol wong iki utawa bojoné, mati bakal dipatèni.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "banjur paring parentah"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing wong iku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sapa sing nyenggol"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "utawa bojoné"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bakal dipatèni"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:47.444508083Z",
+  "model": "glm-5.3"
+}

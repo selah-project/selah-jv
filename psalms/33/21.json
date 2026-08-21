@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Sebab ing ⟨in⟩ Panjenengane ati kita bungah, sebab ing Asma sucine kita percaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing Panjenengane"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ati kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing Asma"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucine"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "kita percaya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:36.034009270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur kabeh iki padha ngutus wong lan ngundang marang dheweke; lan teka Yerobeam sarta kabeh pasamuwan Yisrael, banjur padha matur marang Rehabeam, ngucap:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "banjur ngutus"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ngundang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "banjur matur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:40.453564698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Mula Yahweh krungu lan nesu banget, lan geni diuripake ing Jemek Yaakov, lan uga bebendu mundhak ing Israel.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mula"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "lan nesu banget"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "lan geni"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "diuripake"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ing Yaakov"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bebendu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mundhak"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing Israel"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:44.893861358Z",
+  "model": "glm-5.3"
+}

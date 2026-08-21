@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Awit atiku dadi rumiyin ⟨is⟩, lan ginjalku aku kesetub.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "dadi rumiyin"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "lan ginjalku"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "aku kesetub"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:45.643499504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Langit, iya langit kuwi duweke Yahweh, nanging bumi wus kaparingake marang bareng adam.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "duweke Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nanging bumi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wus kaparingake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang bareng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam (manungsa)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:28.154221675Z",
+  "model": "glm-5.3"
+}

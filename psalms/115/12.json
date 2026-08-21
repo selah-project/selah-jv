@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Yahweh éling marang kita; Sang Nabi ngunjal-ngunjali ⟨את⟩ kulawarga Yisra'el, ngunjali ⟨את⟩ kulawarga Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "éling marang kita"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ngunjal-ngunjali"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ngunjal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulawarga Yisra'el"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ngunjal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulawarga Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:31.366596446Z",
+  "model": "glm-5.3"
+}

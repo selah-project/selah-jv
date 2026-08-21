@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Sebab kaya enom nganteni kenya, mengkono uga anakkandhamu nganteni sira; lan kaya bungahing panganten lanha marang pengantèn wadon, mengkono uga Allahira bungah marang sira.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "nganteni"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "enom (lanang)"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "kenya"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "ngantenimu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anakkandhamu"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "lan kaya bungahing"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "panganten lanang"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pengantèn wadon"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "bungaha"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Allahira"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:49.303536497Z",
+  "model": "glm-5.3"
+}

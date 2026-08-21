@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lah, menawa Panjenengane ngrampas, sapa sing bisa ngalerake dheweke? Sapa sing bisa matur marang Panjenengane: Kowe nindakake apa?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "ngrampas"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ngalerake dheweke"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "matur"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang Panjenengane"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:23:04.943657159Z",
+  "model": "glm-5.3"
+}

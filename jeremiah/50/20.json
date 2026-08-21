@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Ing samangsa iku lan ing wektu kuwi — pangandikane Yahweh — kalaluce Israel arep dicari, nanging ora ana; lan dosane Yehuda arep dicari, nanging ora tinemu; sebab Aku ngapura marang sing Aku tular.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Ing samangsa"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "lan ing wektu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "kuwi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "arep dicari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalaluce Israel"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kalalu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "nanging ora ana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dosane Yehuda"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "tinemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "Aku ngapura"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "marang sing"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "Aku tular"
+    }
+  ],
+  "timestamp": "2026-08-21T01:05:07.286816915Z",
+  "model": "glm-5.3"
+}

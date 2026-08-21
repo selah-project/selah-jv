@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sang raja Dawid wis sepuh, wis tekan ing saputenawa, lan awake disandhangi migunakake sandhangan, nanging ora angsal anget.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wis sepuh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tekan"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ing saputenawa"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "disandhangi"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "migunakake sandhangan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "angsal anget"
+    },
+    {
+      "surface": "לו",
+      "gloss": "woke dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:54.070815759Z",
+  "model": "glm-5.3"
+}

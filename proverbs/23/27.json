@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Sebab lara-laran iku jurang jero, lan wong wadon liya iku sumuran ciyut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "jurang"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "jero"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "lara-laran (wadon pelacur)"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "lan sumuran"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ciyut"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "wadon liya (asing)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:12.969478858Z",
+  "model": "glm-5.3"
+}

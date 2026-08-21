@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 87,
+  "translation": "Lan ngenani Tsiyon bakal kasebut: wong lan wong lair ing kono, lan ⟨iyu⟩ Elyon bakal ngadegake ⟨את⟩ dheweke.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "lan ngenani Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bakal kasebut"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan wong"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "lair"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan ⟨iyu⟩"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "bakal ngadegake ⟨את⟩ dheweke"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:51.696039007Z",
+  "model": "glm-5.3"
+}

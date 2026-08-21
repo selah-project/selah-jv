@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Bungaha Israél ing Sang Nitah ⟨⟨ing⟩⟩ dhèwèké; para putraning Zion bungaha ing ratu ⟨⟨ing⟩⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Bungaha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "ing Sang Nitah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zion"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bungaha"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ing ratune"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:12.895292057Z",
+  "model": "glm-5.3"
+}

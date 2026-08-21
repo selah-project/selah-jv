@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Aku ora bakal mati, amarga aku bakal urip, lan bakal maca crita panggaweane Yah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "aku bakal mati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "aku bakal urip"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "lan bakal maca crita"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "panggaweane"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:57.753349749Z",
+  "model": "glm-5.3"
+}

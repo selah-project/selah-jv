@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Biksane Yahweh kudu ngucapa mangkono, wong-wong sing wis ditibus saka.astané mungsuh.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "kudu ngucapa mangkono"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "biksane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "wis ditibus"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka.astané"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mungsuh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:56.144455698Z",
+  "model": "glm-5.3"
+}

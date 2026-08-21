@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Paringana kabecikan marang abdimu, supaya aku urip lan aku nggestunake sabdamu.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "paringana kabecikan"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "supaya aku urip"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "lan aku nggestunake"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sabdamu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:10.322838285Z",
+  "model": "glm-5.3"
+}

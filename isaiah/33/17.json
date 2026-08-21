@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Raja ing kaendahané bakal kadeleng déning mripatmu; bakal ndeleng bumi ing panggonan sing adoh.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Raja"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "ing kaendahané"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "bakal kadeleng"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mripatmu"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "bakal ndeleng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "ing panggonan sing adoh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:16.548918236Z",
+  "model": "glm-5.3"
+}

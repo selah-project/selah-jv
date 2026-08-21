@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Saking punika sadaya titah-titah-Mu kula anggep leres sadayanipun; saben dalan sikara kula sengiti.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "saking"
+    },
+    {
+      "surface": "כן",
+      "gloss": "punika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "titah-titah-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadayanipun"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "kula anggep leres"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sikara"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "kula sengiti"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:32.503549838Z",
+  "model": "glm-5.3"
+}

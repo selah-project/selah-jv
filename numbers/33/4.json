@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan wong Mitsrayim nglarakake ⟨את⟩ sing wis dikethok Yahweh ing antarané, yaiku sabarang putu sulung; lan marang para elohimé dhèwèké Yahweh nindakake panghukuman.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Lan wong Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "nglarakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing wis dikethok Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wis dikethok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing antarané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "putu sulung"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "lan marang para elohimé"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "panghukuman"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:15.006410164Z",
+  "model": "glm-5.3"
+}

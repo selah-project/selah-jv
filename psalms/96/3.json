@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 96,
+  "translation": "Caritakake kamulyane ing tengahing para bangsa, lan kaajaibane ing tengahing kabeh para umat.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "caritakake"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing tengahing para bangsa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kamulyane"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing tengahing kabeh"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "para umat"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "kaajaibane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:47.562319581Z",
+  "model": "glm-5.3"
+}

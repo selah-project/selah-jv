@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan padha ndadekake ⟨את⟩ petire Yahweh ing ⟨the⟩ gerobak, lan ⟨את⟩ kothake lan ⟨את⟩ mencit-mencit emas lan ⟨את⟩ sesaning wujud bengkok-bengkoke dhewe.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "lan padha ndadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petire Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "gerobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kothake"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "kothake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mencit-mencit emas"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "mencit-mencit"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sesaning bengkok-bengkoke"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "sesaning wujud"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "bengkok-bengkoke dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:02.109119494Z",
+  "model": "glm-5.3"
+}

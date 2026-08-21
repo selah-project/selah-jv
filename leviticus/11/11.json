@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Ya iku barang njijiki marang sira; daginge aja sira mangan, lan ⟨את⟩ bangkene padha sira wengi.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Ya iku barang njijiki"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "daginge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sira mangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bangkene"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "bangkene"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "padha sira wengi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:10.958770290Z",
+  "model": "glm-5.3"
+}

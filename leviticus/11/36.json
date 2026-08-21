@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Nanging sumbingah lan sumur, papan kumpul banyu, bakal suci; lan sing ndumel bangké mau, ⟨iku⟩ dadi najis.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "sumbingah"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "lan sumur"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "papan kumpul banyu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suci"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "lan sing ndumel"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "bangké mau"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dadi najis"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:30.009452170Z",
+  "model": "glm-5.3"
+}

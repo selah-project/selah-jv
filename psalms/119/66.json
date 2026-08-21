@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Ajaraku kabecikan panemune lan kawruh, awit ing prentah-prentahmu aku wis percaya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "panemune"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "lan kawruh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajaraku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "ing prentah-prentahmu"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "aku wis percaya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:34.222480230Z",
+  "model": "glm-5.3"
+}

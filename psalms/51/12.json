@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Ati sing resik nitahna ing aku, yai Elohim, lan roh sing mantep wangsulna ing sajroning aku.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Ati"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "sing resik"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nitahna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "yai Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "lan roh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sing mantep"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "wangsulna (dadi anyar)"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ing sajroning aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:47.294205960Z",
+  "model": "glm-5.3"
+}

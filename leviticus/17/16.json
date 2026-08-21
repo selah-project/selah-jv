@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Nanging yèn ora ngumbah lan dagingé ora kaadusi, dhèkné bakal nanggung kaluputané.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Nanging yèn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ngumbah"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "lan dagingé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "kaadusi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "bakal nanggung"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kaluputané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:23.933530496Z",
+  "model": "glm-5.3"
+}

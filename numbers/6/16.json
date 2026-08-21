@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan imam ngaturake sadurungane Yahweh, lan nindakake ⟨את⟩ kurban dosane lan ⟨את⟩ kurban obonge.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Lan ngaturake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadurungane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban dosane"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "kurban dosane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurban obonge"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "kurban obonge"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:06.470971938Z",
+  "model": "glm-5.3"
+}

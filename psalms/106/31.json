@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan iku katetepake minangka kaluhuran marang awake, dhateng turun-tumurun nganti salami-lami.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "lan katetepake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "minangka kaluhuran"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dhateng turun-tumurun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan tumurun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salami-lami"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:48.483934257Z",
+  "model": "glm-5.3"
+}

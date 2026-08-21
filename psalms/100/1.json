@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 100,
+  "translation": "Mazmur syukuran. Padha suwita ing Yahweh, saindhenging bumi!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "syukuran"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Padha suwita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:31.514102030Z",
+  "model": "glm-5.3"
+}

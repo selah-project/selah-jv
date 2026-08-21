@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan kadirèné miturut kulawargané dhéwé-dhéwé iku telung éwu lan rong atus.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi (ana)"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "kadirèné"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut kulawargané"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "éwu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "lan rong atus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:22.434138098Z",
+  "model": "glm-5.3"
+}

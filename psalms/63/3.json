@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Mangkono aku wis ndeleng Kowé ing panggonan suci, kanggo mirsani kuwasan-Mu lan kamulyan-Mu.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ing panggonan suci"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "aku wis ndeleng Kowé"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kanggo mirsani"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kuwasan-Mu"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "lan kamulyan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:02.301162394Z",
+  "model": "glm-5.3"
+}

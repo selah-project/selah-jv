@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 120,
+  "translation": "Apa sing diwènèhaké marang kowé, lan apa sing ditambahaké marang kowé, é ilat kang cidra?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "diwènèhaké"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan apa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ditambahaké"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilat"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "cidra"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:36.727888551Z",
+  "model": "glm-5.3"
+}

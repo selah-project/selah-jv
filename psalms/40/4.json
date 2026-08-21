@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lajeng Panjenenganipun paring ing tutuk kula tembang ingkang enggal, puji-puji dhateng Elohim kula, kathah ingkang badhe mirsani lan wedi, sarta pitados dhateng Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "lajeng Panjenenganipun paring"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ing tutuk kula"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ingkang enggal"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "puji-puji"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "dhateng Elohim kula"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kathah ingkang badhe mirsani"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "kathah"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sarta wedi"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "sarta pitados"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "dhateng Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:46.148331936Z",
+  "model": "glm-5.3"
+}

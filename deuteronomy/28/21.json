@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Yahweh bakal nglemplekake marang kowé ⟨את⟩ pageyu, nganti tinumpes kowé saka ⟨the⟩ lemah sing koktembu teka ing kono arep kokduweni.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "nglemplekake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pageyu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pageyu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "tinumpes"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kowé",
+      "marks": "kowé"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "arep kokduweni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:08.412166258Z",
+  "model": "glm-5.3"
+}

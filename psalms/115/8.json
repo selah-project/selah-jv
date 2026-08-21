@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Kaya dhasare wong-wong mau, para panggawene bakal dadi mangkono uga; sabwong sing percados ing panggawe mau.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "para panggawene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percados"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing wong-wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:09.093484342Z",
+  "model": "glm-5.3"
+}

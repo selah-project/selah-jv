@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur bumi obah lan geter, saka dhasar-dhasaring redi gemetar lan gira-giru, awit murka ana ing Panjenengane.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "banjur obah geter"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "lan geter"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "lan dhasar-dhasaring"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "redi"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "gemetar"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "lan gira-giru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "murka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ing Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:11.226394816Z",
+  "model": "glm-5.3"
+}

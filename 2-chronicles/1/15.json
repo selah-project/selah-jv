@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sang raja ndadèkaké ⟨את⟩ salaka lan ⟨את⟩ emas ing Yerushalayim kaya watu-watu, lan ⟨את⟩ wit-wit arar sumadiya kaya wit sikomor sing ana ing tanah cendhèk, sanadyan akèh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ndadèkaké"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salaka"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "kaya watu-watu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wit-wit arar"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "wit-wit arar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sumadiya"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "kaya wit sikomor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "ing tanah cendhèk"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sanadyan akèh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:27:51.429295674Z",
+  "model": "glm-5.3"
+}

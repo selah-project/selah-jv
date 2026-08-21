@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Yahweh ngandika marang Shemuel: Ndereka swarane ⟨the⟩ bangsa iki, ing sabarang sing padha ngandikaké marang sampéyan; awit dudu ⟨אתך⟩ sampéyan sing ditampik, nanging ⟨אתי⟩ Ingsun sing ditampik, saka mrentah marang dheweke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ndereka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa iki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ing sabarang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "padha ngandikaké"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sampéyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩ sampéyan",
+      "marks": "sampéyan sing ditampik"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "sing ditampik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩ Ingsun",
+      "marks": "Ingsun sing ditampik"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "sing ditampik"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "saka mrentah"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:55.764937027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Wong klindhu ora weruh, lan wong bodho ora mangerti ⟨את⟩ iki.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "בער",
+      "gloss": "klindhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "lan wong bodho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mangerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:58.160884642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan jarahanmu kaimpun kaya paimpuning ijem-ijem; kaya lumebune belalang wong-wong padha mlebukake ing kono.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "lan kaimpun"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "jarahanmu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "paimpunan"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "ijem-ijem"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "kaya lumebune"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "belalang"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "padha mlebukake"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:36.323202473Z",
+  "model": "glm-5.3"
+}

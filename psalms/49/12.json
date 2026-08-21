@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Pangaptiné ing jero ati yèn omahé ⟨arep⟩ langgeng salawasé, padhemane tumuju turun-tumurun; padha macèn jeneng dhéwé marang lemah-lemahe.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "ing jero atiné"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "padhemane"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tumuju turun-tumurun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan tumurun"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "padha macèn"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "jeneng dhéwé"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "lemah-lemahe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:15.666661191Z",
+  "model": "glm-5.3"
+}

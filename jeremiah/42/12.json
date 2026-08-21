@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan Ingsun bakal paring kawelasan marang kowé, lan ia bakal welas ⟨את⟩ kowé, lan mulihaké ⟨את⟩ kowé marang lemahmu dhéwé.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "lan Ingsun bakal paring"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "kawelasan"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "lan ia bakal welas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "lan mulihaké"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "lemahmu dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:03:33.069980036Z",
+  "model": "glm-5.3"
+}

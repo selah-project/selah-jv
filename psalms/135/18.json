@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Kaya dheweke mengko dadi para pandhume; saben wong sing percara marang dheweke.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kaya dheweke"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mengko dadi"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "para pandhume"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya marang"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:30.192938704Z",
+  "model": "glm-5.3"
+}

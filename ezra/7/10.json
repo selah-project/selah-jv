@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Amarga Ezra nyawisake atine kanggo njlentrehna ⟨את⟩ Torate Yahweh, lan kanggo nindakna, lan kanggo mulangna ing Israel pajang lan ukum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nyawisake"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kanggo njlentrehi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torate Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "lan kanggo nindakake"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "lan kanggo mulangake"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "pajang"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "lan ukum"
+    }
+  ],
+  "timestamp": "2026-08-21T04:25:09.707984155Z",
+  "model": "glm-5.3"
+}

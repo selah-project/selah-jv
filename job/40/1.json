@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan Yahweh maturi ⟨את⟩ Iyub, sarta ngandika:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "maturi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngandika"
+    }
+  ],
+  "timestamp": "2026-08-21T02:37:20.363382685Z",
+  "model": "glm-5.3"
+}

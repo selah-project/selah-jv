@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lamun bener-bener dipangan ing dina katelu, iku pigul, ora bakal ditampa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan lamun"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "bener-bener dipangan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "dipangan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katelu"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pigul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "bakal ditampa"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:41.002596123Z",
+  "model": "glm-5.3"
+}

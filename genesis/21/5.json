@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Avraham umur saratus taun, nalika lair ⟨את⟩ Yitshak putrane.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Lan Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umur"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saratus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "nalika lair"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:40.633299181Z",
+  "model": "glm-5.3"
+}

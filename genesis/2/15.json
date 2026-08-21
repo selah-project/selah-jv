@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lajeng Yahweh Elohim njupuk ⟨את⟩ manungsa, lan Panjenengane ngendhekake dhewe ing kebon Eden, supaya nggarap iku lan njaga iku.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manungsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ngendhekake dhewe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ing kebon"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "supaya nggarap iku"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "lan njaga iku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:48:48.382081285Z",
+  "model": "glm-5.3"
+}

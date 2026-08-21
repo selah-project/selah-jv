@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Ayo, kekasihku, tindaka metu menyang padesa; ayo nglumpur ana ing desa-desa.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ayo tindaka"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "kekasihku"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padesa"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "nglumpur"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "ing desa-desa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:41:16.268296649Z",
+  "model": "glm-5.3"
+}

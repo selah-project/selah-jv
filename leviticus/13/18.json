@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan daging, manawa ing kulite ana bisul lan wus mari,",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "lan daging"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kulite"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ing kulite"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bisul"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "lan wus mari"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:57.197304340Z",
+  "model": "glm-5.3"
+}

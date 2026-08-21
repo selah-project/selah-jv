@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan ⟨את⟩ pringgitan saka wewatun digawe dawane sedasa lima asta lan telung puluh asta jembarane, lan pringgitan ana ngarepe, lan wewaton lan balok ana ngarepe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pringgitan saka wewatun"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "pringgitan"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "wewatun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sedasa lima"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dawane"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "lan telung puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jembarane"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "lan pringgitan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ngarepe"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "lan wewaton"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "lan balok"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ngarepe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:31.915335086Z",
+  "model": "glm-5.3"
+}

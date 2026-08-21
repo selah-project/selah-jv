@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sapa tresna marang kawerdisiplinan tresna marang kawruh, nanging sapa sengit marang pawewates iku bodho kaya kewan.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "tresna marang"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kawerdisiplinan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tresna marang"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kawruh"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "nanging sengit marang"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "pawewates"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bodho kaya kewan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:38.462988956Z",
+  "model": "glm-5.3"
+}

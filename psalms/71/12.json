@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Elohim, aja adoh saka aku; Elohimku, enggal-enggala ngluwari aku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ngluwari aku"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "enggal-enggal"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:58.755495340Z",
+  "model": "glm-5.3"
+}

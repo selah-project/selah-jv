@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Cangkemé ⟨ana⟩ kanggo wong-wong mau nanging ora bisa ngendika; mata ⟨ana⟩ kanggo wong-wong mau nanging ora bisa mirsani.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Cangkemé"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo wong-wong mau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bisa ngendika"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo wong-wong mau"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bisa mirsani"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:28.613144372Z",
+  "model": "glm-5.3"
+}

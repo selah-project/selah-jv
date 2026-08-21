@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan wong Mitsrayim bakal padha weruh yakuwi aku iku Yahweh, nalika aku dimulyakake ana ing Par'o, ing kereta-keretane lan ing para jaranane.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "lan bakal padha weruh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yakuwi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "nalika aku dimulyakake"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ana ing Par'o"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "ing kereta-keretane"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "lan ing para jaranane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:39.150680137Z",
+  "model": "glm-5.3"
+}

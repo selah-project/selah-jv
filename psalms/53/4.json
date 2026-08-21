@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Kabeh wong padha mbedhidha, bebarengan dadi cemeh; ora ana sing nglakoni becik, ora, ora ana siji bae.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "סג",
+      "gloss": "padha mbedhidha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "dadi cemeh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sing nglakoni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ana siji bae"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:12.742326498Z",
+  "model": "glm-5.3"
+}

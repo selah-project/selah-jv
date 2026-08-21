@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Kabèh balungku bakal ngucap: Yahweh, sapa kaya Kowé, Kang ngluwari wong mlarat saka wong kang luwih kuwat tinimbang dhèwèké, lan wong mlarat sarta wong miskin saka pangrampasé?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "balungku"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kaya Kowé"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "Kang ngluwari"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "saka wong kang luwih kuwat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tinimbang dhèwèké"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "lan wong mlarat"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sarta wong miskin"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "saka pangrampasé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:04.411598394Z",
+  "model": "glm-5.3"
+}

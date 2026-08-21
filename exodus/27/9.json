@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan sira bakal nggawe ⟨את⟩ pekarangan Minggah-minggih; ing sisih kidul, mengarah kidul, ana korden-korden kanggo pekarangan iku, saka linen triwangi, dawané saatus asta, ing siji sisih.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan sira bakal nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pekarangan Minggah-minggih"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "pekarangan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Minggah-minggih iku"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kidul"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "mengarah kidul"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "korden-korden"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "kanggo pekarangan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "triwangi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saatus"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dawané"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "siji iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:43.874282187Z",
+  "model": "glm-5.3"
+}

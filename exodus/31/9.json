@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "lan ⟨את⟩ mesjem pengan oboran sakabehing pirantine, lan ⟨את⟩ kolam panjingan lan ⟨את⟩ sikile",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mesjem pengan oboran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesjem pengan oboran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "oboran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing pirantine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pirantine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kolam panjingan"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "kolam panjingan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sikile"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sikile"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:36.963462324Z",
+  "model": "glm-5.3"
+}

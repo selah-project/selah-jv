@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 21:32",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Banjur padha gawe prajanjian ing Beer-Syeba; Avimelekh lan Pikhol, panggedhe balahe, banjur jumeneng lan padha bali menyang bumi Pelesyet.",
+  "tokens": [
+    {
+      "surface": "ויכרתו",
+      "gloss": "banjur padha gawe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ing Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "banjur jumeneng"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ופיכל",
+      "gloss": "lan Pikhol"
+    },
+    {
+      "surface": "שר",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "balahe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "padha bali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyet"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:01.082239453Z",
+  "model": "glm-5.3"
+}

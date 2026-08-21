@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan iki tulisan sing kaserat: MENE, MENE, TEKEL, UPARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "tulisan"
+    },
+    {
+      "surface": "די",
+      "gloss": "sing"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "kaserat"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (dipétung)"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE (dipétung)"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL (ditantangan)"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "lan UPARSIN (dibagi)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:56:13.906547581Z",
+  "model": "glm-5.3"
+}

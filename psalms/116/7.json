@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Baliya, jiwa kawula, menyang panglungguhanmu, awit Yahweh wales papait ing sajroningmu.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Baliya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa kawula"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "menyang panglungguhanmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "wales papait"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "ing sajroningmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:57.640504525Z",
+  "model": "glm-5.3"
+}

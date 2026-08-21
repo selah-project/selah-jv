@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Malah ing dalane pangadilan-Pe, Yahweh, aku padha ngenteni Kowe; dhateng Asma-Mu lan dhateng pangeling-eling-Mu iku pangajabating jiwa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "malah"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "pangadilan-Pe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "aku padha ngenteni Kowe"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "dhateng Asma-Mu"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "lan dhateng pangeling-eling-Mu"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "pangajabating"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:12.983515691Z",
+  "model": "glm-5.3"
+}

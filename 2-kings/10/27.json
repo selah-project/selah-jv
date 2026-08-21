@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur padha ngruntuhake ⟨את⟩ tugu suci-e Baal, lan padha ngruntuhake ⟨את⟩ omah-e Baal, lan padha dadikake (kuwi) dadi papan jeding nganti saiki.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "banjur padha ngruntuhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu suci-e Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tugu suci"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "lan padha ngruntuhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah-e Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "lan padha dadikake (kuwi)"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "dadi papan jeding"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "saiki"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:01.809647454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Dhèwèké njureakaké ⟨את⟩ tenda ing sandhuwur Mishkan, lan masang ⟨את⟩ tudhung tenda iku ing dhuwuré, saka ing dhuwur, kaya déné Yahweh paring prentah marang ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "njureakaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwur"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "masang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tudhung tenda"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tudhung"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "saka ing dhuwur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya déné"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "paring prentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:31.239111974Z",
+  "model": "glm-5.3"
+}

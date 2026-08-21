@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku ndeleng para pangkhianat lan duka atiku, awit tembungmu ora dienggoni.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku ndeleng"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "para pangkhianat"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "duka atiku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tembungmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "dienggoni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:39.685782861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Ing taun Rawuhe Tartan ing Ashdod, nalika Sargon ratu Asyur ngutus ⟨את⟩ iya, lan iya perang nglawan Ashdod lan ngebuti iku.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "rawuhe"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ing Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "nalika ngutus"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iya (Sargon)"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "lan perang"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "nlawan Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "lan ngebuti iku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:39.502540710Z",
+  "model": "glm-5.3"
+}

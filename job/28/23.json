@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Elohim mangerteni dalane, lan Panjenenganane nguningani ⟨את⟩ panggone.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "mangerteni"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan Panjenenganane"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nguningani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggone"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "panggone"
+    }
+  ],
+  "timestamp": "2026-08-21T02:30:58.248701576Z",
+  "model": "glm-5.3"
+}

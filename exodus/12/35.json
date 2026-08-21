@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Anak-anaké Yisrael padha nindakake miturut sabdane Moshe, lan padha nyuwun saka para Mitsrite prabandi salaka lan prabandi emas lan sandhangan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan anak-anaké"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut sabda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "lan padha nyuwun"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka para Mitsrite"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "prabandi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "lan prabandi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "lan sandhangan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:11.226380575Z",
+  "model": "glm-5.3"
+}

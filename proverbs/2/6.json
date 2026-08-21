@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sebab Yahweh maringi kawicaksanan; saka tutuke kawruh lan pangertèn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kawicaksanan"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "saka tutuke"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kawruh"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "lan pangertèn"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:38.059355038Z",
+  "model": "glm-5.3"
+}

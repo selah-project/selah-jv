@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Awit aku mandahe pincang, lan laraku tansah ana ing ngarsaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "mandahe pincang"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sumedya"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "lan laraku"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ing ngarsaku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:32.636830500Z",
+  "model": "glm-5.3"
+}

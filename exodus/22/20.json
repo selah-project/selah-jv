@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Dhapur tamu aja dilara, lan aja ditindas, awit kowé dhéwé naté dadi wong dhapur ing tanah Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "dhapur tamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "dilara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "ditindas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "wong dhapur"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kowé dhéwé naté dadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:46.439203123Z",
+  "model": "glm-5.3"
+}

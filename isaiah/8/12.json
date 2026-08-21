@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Aja padha kandha 'kekacoan' marang kabeh kang dikandhakake déning wong iki: 'kekacoan'; lan ⟨את⟩ wedi-né aja padha wedi, lan aja padha grendheng.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "padha kandha"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "kekacoan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dikandhakake"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "kekacoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wedi-né"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "wedi-né"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "padha wedi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "padha grendheng"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:26.723923614Z",
+  "model": "glm-5.3"
+}

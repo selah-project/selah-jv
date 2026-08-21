@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Luhur sabarang wong ndeleng ⟨את⟩ sangsakaca awang-awang ngadeg ing lawanging kemah, sarta sumedhaké sabarang wong, lan tumungkul saben wong ing lawang khemahé dhéwé.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "luhur ndeleng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sangsakaca awang-awang"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "sangsakaca"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "awang-awang"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "sarta sumedhaké"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "lan tumungkul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "khemahé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:47.658726730Z",
+  "model": "glm-5.3"
+}

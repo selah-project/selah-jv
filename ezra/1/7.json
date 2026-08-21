@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan sang ratu Koresh ngetokake ⟨את⟩ prabot-praboté Omahé Yahweh, kang Nebukadnetsar wis ngetokake saka Yerushalayim lan didhèkèké ing omahé allah-allahé dhéwé.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "lan sang ratu"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prabot-praboté Omahé Yahweh"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "prabot-prabot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Omahé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wis ngetokake"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "saka Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "lan didhèkèké"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing omahé"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "allah-allahé dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:24:36.698898416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Dheweke ngangkat ⟨את⟩ Yunus banjur nglambarake marang segara, lan segara iku tentrem sakakasake nesune.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yunus"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "banjur nglambarake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "tentrem"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara iku"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "sakakasake nesune"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:26.375995372Z",
+  "model": "glm-5.3"
+}

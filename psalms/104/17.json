@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Panggonan endi manuk-manuk nggawe susuhe; dene blekok, wit sanian iku omahé.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "panggonan endi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kono"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "manuk-manuk"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "nggawe susuhe"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "blekok"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "wit sanian"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "omahé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:53.904394317Z",
+  "model": "glm-5.3"
+}

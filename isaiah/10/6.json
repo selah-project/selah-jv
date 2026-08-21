@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Marang bangsa kang duraka Aku ngutus ⟨iya⟩, lan marang umating kadukuwung-Ku Aku mènèhi parentah: ndherepake rajakaya lan ngrampasi jarahan, lan nginjak-nginjake ⟨iya⟩ dadi panganinjak kaya lemah ing pinggir dalan.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "Marang bangsa"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "kang duraka"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "Aku ngutus ⟨iya⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uming"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "kadukuwung-Ku"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "Aku mènèhi parentah"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "kanggo ndherepake"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "rajakaya"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "lan kanggo ngrampasi"
+    },
+    {
+      "surface": "בז",
+      "gloss": "jarahan"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "lan kanggo nggawé ⟨iya⟩"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "panganinjak"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "kaya lemah"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ing pinggir dalan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:17.919247831Z",
+  "model": "glm-5.3"
+}

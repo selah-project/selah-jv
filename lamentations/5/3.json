@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Kita dadi yatim, ⟨ora⟩ duwé bapa; ibu-ibu kita kaya randha.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kita dadi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ibu-ibu kita"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "kaya randha"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:04.222988972Z",
+  "model": "glm-5.3"
+}

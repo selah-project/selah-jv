@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Binyamin peputra ⟨את⟩ Bela anak mbarepe, Ashbel kang kapindho, lan Aharah kang katelu.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Lan Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "peputra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak mbarepe"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kang kapindho"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "lan Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kang katelu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:19:35.979003315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 46:11",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Munggahaa ing Gilad lan jupuki damar wangi, hé dara suci putune Mesir; suwalike kowé ngolèhaké tamba-tamba, nanging ora ana genter, ora ana sing marekake kowé.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "munggahaa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "וקחי",
+      "gloss": "lan jupuki"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "damar wangi"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "dara suci"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putune"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mesir"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "suwalike"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "kowé ngolèhaké\/nuwuhaké"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "tamba-tamba"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "genter\/obat bobok"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:03:05.536195092Z",
+  "model": "glm-5.3"
+}

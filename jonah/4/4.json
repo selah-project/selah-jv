@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Yahweh munjuk: Apa becik panas atimu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan Yahweh munjuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Apa becik"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "panas ati"
+    },
+    {
+      "surface": "לך",
+      "gloss": "atimu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:11.318427147Z",
+  "model": "glm-5.3"
+}

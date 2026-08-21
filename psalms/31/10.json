@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Mugi melasi kawula, Yahweh, awit kesesahe kawula; mripat kawula rusak awit duka, kawula giyaran lan weteng kawula.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Mugi melasi kawula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kesesa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kawula"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "rusak\/luntur"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "awit duka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripat kawula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa kawula"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "lan weteng kawula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:44.422925181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan sira, anak manungsa, apa sira ngukum, apa sira ngukum ⟨את⟩ kutha getih iku? Lan sira ngandhani ⟨את⟩ sakabehing pepanden-e",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lan sira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "apa sira ngukum"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "apa sira ngukum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "Lan sira ngandhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "pepanden-e"
+    }
+  ],
+  "timestamp": "2026-08-21T01:14:00.291328524Z",
+  "model": "glm-5.3"
+}

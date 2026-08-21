@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 3:1",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur Yehosua tangat ing esuk-esuk, lan padha angkat saka Sitim, lan padha teka nganti ing Yarden, iya isine lan kabeh putra Yisrael, lan padha nginep ing kana, sadurunge padha nyebrang.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "tangat ing esuk-esuk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "padha angkat"
+    },
+    {
+      "surface": "מהשטים",
+      "gloss": "saka Sitim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "lan padha teka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ing Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iya isine"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילנו",
+      "gloss": "lan padha nginep"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "padha nyebrang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:42:01.638690745Z",
+  "model": "glm-5.3"
+}

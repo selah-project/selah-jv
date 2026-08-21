@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Saben sing lumaku ing wetengé, lan saben sing lumaku ing papat, nganti saben sing ambah sikil, ing saben sing nglukis sing nglukis ing bumi — aja padha mangan dhèwèké, awit tingalan iku awake.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Saben"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "wetengé"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "papat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "sing ambah"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "sikil"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sing nglukis"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sing nglukis"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "padha mangan dhèwèké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "tingalan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "awake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:00.780192866Z",
+  "model": "glm-5.3"
+}

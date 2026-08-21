@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Aja padha ngethek sisihing sirahmu, lan aja ngrusak ⟨את⟩ pucuking jenggotmu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "padha ngethek (motong mlungker)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "sisihing"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "sirahmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ngrusak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pucuking"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "pucuking"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "jenggotmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:06.607623586Z",
+  "model": "glm-5.3"
+}

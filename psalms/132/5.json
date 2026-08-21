@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Nganti aku entokake papan panggonane Yahweh, padhemahe Kang Waskitha Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "aku entokake"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "panggonane Yahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "padheman"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Kang Waskitha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:35.752612882Z",
+  "model": "glm-5.3"
+}

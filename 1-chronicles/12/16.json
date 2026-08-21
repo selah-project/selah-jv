@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Iku yaiku para wong sing nglintasi ⟨את⟩ Yarden ing sasi kapisan, nalika ⟨iye⟩ luber ngluwihi kabeh tepi-tepine, lan padha ngeburake ⟨את⟩ kabeh penguni lembah, menyang wetan lan menyang kulon.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yaiku para wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nglintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "nalika ⟨iye⟩"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "luber"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngluwihi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "tepi-tepine"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "lan padha ngeburake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh penguni lembah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "penguni lembah"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "menyang wetan"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "lan menyang kulon"
+    }
+  ],
+  "timestamp": "2026-08-21T03:22:59.161373694Z",
+  "model": "glm-5.3"
+}

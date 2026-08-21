@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Dalane Kowé, Yahweh, Dengaku ngerti; dadane Kowé mulanga aku.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "dalane Kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "Dengaku ngerti"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "dadane Kowé"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mulanga aku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:38.791179426Z",
+  "model": "glm-5.3"
+}

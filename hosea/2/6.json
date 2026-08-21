@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan ⟨את⟩ anak-anaké ora dakwelasi, awit padha anak zina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaké"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "dakwelasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "zina"
+    },
+    {
+      "surface": "המה",
+      "gloss": "padha"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:43.551667957Z",
+  "model": "glm-5.3"
+}

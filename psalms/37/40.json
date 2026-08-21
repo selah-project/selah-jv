@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan Yahweh mitulungi ⟨⟨dhèwèké⟩⟩ sarta ngluwarake dhèwèké; Panjenengané ngluwarake dhèwèké saka wong lacur, lan nylametake dhèwèké, awit ⟨⟨dhèwèké⟩⟩ padha setedhak marang Panjenengané.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "lan mitulungi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "lan ngluwarake dhèwèké"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "ngluwarake dhèwèké"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "saka wong lacur"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "lan nylametake dhèwèké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "padha setedhak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "marang Panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:09.020764564Z",
+  "model": "glm-5.3"
+}

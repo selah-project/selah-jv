@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Nalika iku Shelomo ngandika: Yahweh wus ngandika yen arep dumunung ing pepeteng kandel.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Nalika iku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wus ngandika"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "arep dumunung"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ing pepeteng kandel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:21.067855264Z",
+  "model": "glm-5.3"
+}

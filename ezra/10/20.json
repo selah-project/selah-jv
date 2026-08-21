@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan saka para putrané Imer: Hanani lan Zevadyah.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "lan saka para putrané"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Imer"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hanani"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "lan Zevadyah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:06:48.477704944Z",
+  "model": "glm-5.3"
+}

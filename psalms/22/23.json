@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Aku bakal caritakake ⟨את⟩ asmanira marang sedulur-sedulurku; ing tengahing pepundhen aku bakal memuji Sira",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Aku bakal caritakake"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asminira"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "marang sedulur-sedulurku"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pepundhen"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "aku memuji Sira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:44.174166658Z",
+  "model": "glm-5.3"
+}

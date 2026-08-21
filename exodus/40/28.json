@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan dheweke ngaturake ⟨את⟩ panutup lawang kanggo khemah kasebut.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ngaturake\/ngenengake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panutup lawang"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "panutup\/kelambu lawang"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "kanggo khemah kasebut"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:46.587039602Z",
+  "model": "glm-5.3"
+}

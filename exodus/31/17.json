@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Ing antarané Aku lan ing antarané wong-wong Israel iki dadi pratanda salawas-lawasé, awit enem dinane Yahweh nggawé ⟨את⟩ langit lan ⟨את⟩ bumi, lan ing dina kaping pitu Dhèwèhé mandheg sarta sumengguh maneh.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "ing antarané Aku"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan ing antarané"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wong-wong (anak-anak)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אות",
+      "gloss": "pratanda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "salawas-lawasé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "enem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nggawé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "lan ing dina"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kaping pitu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mandheg"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "sarta sumengguh maneh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:00.803440048Z",
+  "model": "glm-5.3"
+}

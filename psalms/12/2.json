@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Pitulungi, Yahweh, awit wis entek wong setia-kapara, awit wis sirna para wong prasaja saka antarane anak-anak manungsa.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Pitulungi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "wis entek"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "wong setia-kapara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "wis sirna"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "para wong prasaja"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "saka antarane anak-anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:24.430680141Z",
+  "model": "glm-5.3"
+}

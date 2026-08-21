@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Awit ing kasunyatan ⟨dhéwé⟩ teka, lan ing pepéngetan lunga, lan ing pepéngetan asmané katutup",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ing kasunyatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "lan ing pepéngetan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "lan ing pepéngetan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "katutup"
+    }
+  ],
+  "timestamp": "2026-08-21T04:52:38.618977153Z",
+  "model": "glm-5.3"
+}

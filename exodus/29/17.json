@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan ⟨את⟩ wedhus jantan iku kowe kethak-kethakake dadi potongan-potongan, lan kowe ngumbahake wetenge lan sikile, lan kowe napakake ⟨iku⟩ marang potongan-potongane lan marang musthane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus jantan"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "wedhus jantan iku"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "kowe kethak-kethakake"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "dadi potongan-potongan"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "lan kowe ngumbahake"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "wetenge"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "lan sikile"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "lan kowe napakake"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "potongan-potongane"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "musthane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:46.057836481Z",
+  "model": "glm-5.3"
+}

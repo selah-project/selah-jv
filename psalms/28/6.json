@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Pinuji ⟨iyaiku⟩ Yahweh, awit ⟨panjenengane⟩ ngrungokake swara panyuwun-⟨panyuwun⟩-ku.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "pinuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nrungokake"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "panyuwun-panyuwun-ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:48.327822093Z",
+  "model": "glm-5.3"
+}

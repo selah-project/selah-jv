@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 5:5",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Sebab kabeh bangsa kang padha metu iku wus disunat, lan kabeh bangsa kang lair ing ara-ara, ing dalan, nalika padha metu saka Mitsrayim, padha ora disunat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "padha disunat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "iku wus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "kang padha metu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "kang lair"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "nalika padha metu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "padha disunat"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:27.252077944Z",
+  "model": "glm-5.3"
+}

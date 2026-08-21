@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan sira bakal mangan ⟨את⟩-e ing panggonan suci, amarga iku bageanmu lan bageane anak-anakmu, saka sesajen geni Yahweh; awit mangkono aku didhawuhi.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "lan sira bakal mangan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "-e (panganan kasebut)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing panggonan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "bageanmu"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "lan bagean"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "saka sesajen geni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "aku didhawuhi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:17.912926631Z",
+  "model": "glm-5.3"
+}

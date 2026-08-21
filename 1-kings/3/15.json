@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 3:15",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur Syelomo tangi saka turu, lah iku lelampahan wengi (mimpi), banjur teka ing Yerushalayim, ngadeg ing ngarepe Peti Prajanjian Adonai, munggahake kurban obong, nindakake kurban slasilahe, lan nindakake paheman dhumateng kabeh abdi-abdine.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "banjur tangi saka turu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Syelomo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "iku lelampahan wengi (mimpi)"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Peti"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Prajanjian"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "munggahake"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "kurban obong"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "kurban slasilahe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "paheman"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dhumateng kabeh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdine"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:57.090628198Z",
+  "model": "glm-5.3"
+}

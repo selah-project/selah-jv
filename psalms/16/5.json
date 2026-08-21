@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Yahweh ⟨yaiku⟩ bagianku sing wis katimbang, lan islarku; Paduka sing nglungguhi unin-goréku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "papatutan kang katimbang"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "bagianku"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "lan islarku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Paduka"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "nglungguhi"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "unin-goréku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:52.608958787Z",
+  "model": "glm-5.3"
+}

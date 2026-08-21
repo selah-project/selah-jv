@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 3:14",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sebab ing dina nalika Ingsun ngruwat dosa-dosaning Israel marang dhèwèké, Ingsun bakal ngruwat uga mébéal-mébéal Béit-El, lan sungu-sunguné mébéal iku bakal késel, lan tiba marang lemah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "nalika Ingsun ngruwat"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "dosa-dosaning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "lan Ingsun bakal ngruwat"
+    },
+    {
+      "surface": "על",
+      "gloss": "uga"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mébéal-mébéal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Béit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "lan bakal késel"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "sungu-sunguné"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mébéal iku"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "lan tiba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "marang lemah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:09.475284010Z",
+  "model": "glm-5.3"
+}

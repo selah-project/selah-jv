@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Para lungguh ing gapura padha ngomongaké ⟨bab⟩ aku; lan aku dadi tembang sindhir para ngombé sihih.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "padha ngomongaké"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bab aku"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "para lungguh"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapura"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "tembang sindhir"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "para ngombé"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sihih"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:59.619380152Z",
+  "model": "glm-5.3"
+}

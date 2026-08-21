@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur Yahweh Elohum ngusiraké dhèwèké saka taman Eden, kanggo nggarap ⟨את⟩ lemah kang dijupuk saka kono.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "banjur ngusiraké dhèwèké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "saka taman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kanggo nggarap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lemah"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:01.174101877Z",
+  "model": "glm-5.3"
+}

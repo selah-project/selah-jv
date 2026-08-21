@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan padha menehake marang Yaakov ⟨את⟩ kabeh sesembahane wong liya sing ana ing tangane, lan ⟨את⟩ giwang-giwang sing ana ing kupinge; lan Yaakov nemoni ⟨את⟩ iku kabeh sangisore wit elah sing ana ing Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "lan padha menehake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh sesembahane wong liya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sesembahan"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "wong liya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ana ing tangane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "giwang-giwang"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "giwang-giwang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ana ing kupinge"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "lan nemoni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iku kabeh"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wit elah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:08.047240601Z",
+  "model": "glm-5.3"
+}

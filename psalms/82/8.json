@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 82,
+  "translation": "Sumangga, Elohim, tindakana ngadili ⟨את⟩ bumi; awit kowe bakal oleh warisan ing antarane kabeh para bangsa.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sumangga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "tindakana ngadili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "bakal oleh warisan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing kabeh"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "para bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:03.674995140Z",
+  "model": "glm-5.3"
+}

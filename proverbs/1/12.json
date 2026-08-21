@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kita telan dheweke urip-urip kaya Sheol, wutuh kabeh, kaya wong sing tedhun menyang lubang.",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "kita-telan-dheweke"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "kaya-Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip-urip"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "wutuh-kabeh"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "kaya-sing-tedhun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "menyang-lubang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:43.569905923Z",
+  "model": "glm-5.3"
+}

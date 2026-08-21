@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Layar Uriyah ing ngarep lawang omahing raja, ⟨את⟩ kawahaning para abdine sang nata, lan ora mudhun menyang omahé.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "layar"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ing ngarep lawang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahing"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawahaning para abdine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kawahaning"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para abdine"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "mudhun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "omahé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:18.620194717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Ndherek, aku maju nanging ⟨dheweke⟩ ora ana, lan aku mundur nanging aku ora bisa meruhi ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ndherek"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "maju"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "aku lumaku"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "nanging ⟨dheweke⟩ ora ana"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "lan mundur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "bisa meruhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨dheweke⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:29:30.847400977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Gunung-gunung lan saben bukit; wit wohe lan saben ares:",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bukit"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wit"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "wohe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ares"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:47.963834208Z",
+  "model": "glm-5.3"
+}

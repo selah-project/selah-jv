@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan iki anak-anake Dishon: Hemdan, lan Eshban, lan Yithran, lan Kheran.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Dishon"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Hemdan"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "lan Eshban"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "lan Yithran"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "lan Kheran"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:11.907901662Z",
+  "model": "glm-5.3"
+}

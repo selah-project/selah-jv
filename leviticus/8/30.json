@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Moshe njupuk saka lenga kang ngurapi lan saka getih sing ana ing sadhuwuring mesbesi, banjur dipuskake marang Aharon, marang sandhangané, marang anak-anaké, lan marang sandhanganing anak-anaké ⟨אתו⟩ bareng karo panjenengané; lan disucèkake ⟨את⟩ Aharon ⟨את⟩ sandhangané, ⟨את⟩ anak-anaké, lan ⟨את⟩ sandhanganing anak-anaké ⟨אתו⟩ bareng karo panjenengané.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Lan njupuk"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "saka lenga"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "kang ngurapi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "lan saka"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mesbesi"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "banjur dipuskake"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhanganing"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bareng karo panjenengané"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "lan disucèkake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangané"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anak-anaké"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sandhanganing anak-anaké"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhanganing"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bareng karo panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:00.746416723Z",
+  "model": "glm-5.3"
+}

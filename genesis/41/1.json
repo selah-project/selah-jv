@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Lan kadadéyan ing pungkasaning rong taun dina-dina, Paroh ngimpi, lan lah, dhèwèké ngadeg ing pinggir Kali Nil.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéyan"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ing pungkasaning"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "rong taun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "lan Paroh"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "ngimpi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing pinggir"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Kali Nil"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:54.334879399Z",
+  "model": "glm-5.3"
+}

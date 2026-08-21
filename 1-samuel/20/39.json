@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Nanging bocah iku ora weruh apa-apa; mung Yehonatan lan Dawid sing ngerteni ⟨את⟩ bab iku.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "nanging bocah iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "lan Dawid"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ngerteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bab iku"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bab iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:14.985299773Z",
+  "model": "glm-5.3"
+}

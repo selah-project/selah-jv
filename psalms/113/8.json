@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 113,
+  "translation": "supaya Sang nglungguhake ⟨⟨את⟩⟩ bareng para pemuka, bareng para pemuka umate dhewe.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "supaya Sang nglungguhake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "para pemuka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "para pemuka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:29.807754350Z",
+  "model": "glm-5.3"
+}

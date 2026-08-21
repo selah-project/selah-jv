@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Kena bendu kowe ing kutha, lan kena bendu kowe ing sawah.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "kena bendu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "lan kena bendu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing sawah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:26.091446431Z",
+  "model": "glm-5.3"
+}

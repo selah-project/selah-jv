@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Déné saiki, mangkata, muga kula paringi pitedah marang panjenengan, lan slametna ⟨את⟩ nyawamu lan ⟨את⟩ nyawane putranmu Shelomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "déné saiki"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mangkata"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "kula paringi pitedah"
+    },
+    {
+      "surface": "נא",
+      "gloss": "muga"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "pitedah"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "lan slametna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawamu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nyawamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "nyawane putranmu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawane"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "putranmu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:13:46.663374062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Kula ngendika marang Yahweh: \"Perlindhunganku lan bèntèngku, Elohaimku, ing Panjenengané kula pitaya\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "kula ngendika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "perlindhunganku"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "lan bèntèngku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohaimku"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "kula pitaya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing Panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:14.246309100Z",
+  "model": "glm-5.3"
+}

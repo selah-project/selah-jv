@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 2:9",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan dheweke nglantik dadi ratu ing Gilad, lan ing ⟨Ashuri⟩, lan ing Yizreel, lan ing Efrayim, lan ing Binyamin, lan ing kabeh Yisrael.",
+  "tokens": [
+    {
+      "surface": "וימלכהו",
+      "gloss": "nglantik dadi ratu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "האשורי",
+      "gloss": "⟨Ashuri⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kabeh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:29.985434665Z",
+  "model": "glm-5.3"
+}

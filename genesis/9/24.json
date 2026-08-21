@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Noakh saré saka angguré, lan ia weruh ⟨את⟩ sing dicakaké marang dhèwèké déné putrané sing enom iku.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "lan saré"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakh"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "saka angguré"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "lan ia weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing dicakaké marang dhèwèké"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dicakaké"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "sing enom iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:47.391157972Z",
+  "model": "glm-5.3"
+}

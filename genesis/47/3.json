@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Lan Paroh matur marang sedheke: apa pandarmanmu? Lan dheweke padha matur marang Paroh: angon wedhus abdimu, aku dhewe uga, bapak-bapakku uga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedheke"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "pandarmanmu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha matur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "angon"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "aku dhewe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bapak-bapakku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:54:20.617860424Z",
+  "model": "glm-5.3"
+}

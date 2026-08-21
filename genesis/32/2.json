@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Dene Yaakov lumaku miturut dalane, lan para utusane Elohim padha ketemu karo ⟨את⟩ dheweke.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Dene Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "miturut dalane"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "padha ketemu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "karo"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "para utusane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:58.802242066Z",
+  "model": "glm-5.3"
+}

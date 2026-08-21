@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan teka marang ramé, banjur munjuk: Ramaku! Lan bapaké matur: Kula mriki; sira punapa, anakkula?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramé"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur munjuk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ramaku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Kula mriki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "punapa\/sapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakkula"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:19.272967464Z",
+  "model": "glm-5.3"
+}

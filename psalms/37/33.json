@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Yahweh ora bakal tilarake dheweke ing tangane ⟨wong ala iku⟩, lan ora bakal nyidra dheweke nalika ⟨dheweke⟩ diadili.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "tilarake dheweke"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ing tangane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "nyidra dheweke"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "nalika diadili"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:21.775990553Z",
+  "model": "glm-5.3"
+}

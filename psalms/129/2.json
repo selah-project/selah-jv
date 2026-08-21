@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 129,
+  "translation": "Kerep banget nyesekake aku wiwit saka enomku, nanging ora bisa nglumpungi aku.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "kerep banget"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "nyesekake aku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "wiwit saka enomku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nglumpungi aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:46.403429885Z",
+  "model": "glm-5.3"
+}

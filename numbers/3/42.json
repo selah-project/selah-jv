@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur Moshe ngetung, kaya dene sing diprentahake Yahweh marang ⟨את⟩-e, ⟨את⟩ kabeh anak pambujang ing antarane bocah-bocah Israyil.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "banjur ngetung"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "diprentahake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-e",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh anak pambujang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "anak pambujang"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ing antarane bocah-bocah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyil"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:07.541141472Z",
+  "model": "glm-5.3"
+}

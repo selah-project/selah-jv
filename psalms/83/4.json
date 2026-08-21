@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Marang umatmu ⟨ing⟩ padha ngrencana licik, lan padha musyawarah nglawan wong-wong sing sampunsumerepmu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Marang"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "padha ngrencana licik"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "⟨ing⟩ padha musyawarah"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "lan padha musyawarah"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "wong-wong sing sampunsumerepmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:22.178190329Z",
+  "model": "glm-5.3"
+}

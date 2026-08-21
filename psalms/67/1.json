@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 67,
+  "translation": "Kanggo pangulu pasamuwan, mawa tetabuhan senar. Mizmor, lagu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangulu pasamuwan"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "mawa tetabuhan senar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lagu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:31.661844083Z",
+  "model": "glm-5.3"
+}

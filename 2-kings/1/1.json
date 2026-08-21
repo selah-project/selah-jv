@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Moab padha nglakoni pemberontakan marang Israel sawise mangsane Achab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "nglakoni pemberontakan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "marang Israel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mangsane"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:34.738054223Z",
+  "model": "glm-5.3"
+}

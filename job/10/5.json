@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Apa ⟨kaya⟩ dina-dinane manungsa fana dina-dinamu, apa taun-taunmu kaya dina-dinane wong jaya?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "kaya dina-dinane"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa fana"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dina-dinamu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "taun-taunmu"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kaya dina-dinane"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "wong jaya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:32.297412052Z",
+  "model": "glm-5.3"
+}

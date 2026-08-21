@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Awit panjenengane mijilake talingane marang kula, lan ing sadawane sadina-dinane kula kula nyeru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "mijilake"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "talingane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang kula"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ing sadina-dinane kula"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kula nyeru"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:56.492406674Z",
+  "model": "glm-5.3"
+}

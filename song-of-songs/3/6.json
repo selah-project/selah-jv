@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sapa ⟨iku⟩ sing munggah saka padhang pasir, kaya kurungan-e ngasi bledug, wangen-wangene mur lan labanah, saka sadaya bubuk bakul?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padhang pasir"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "kaya kurungan-e"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "bledug"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "wangen-wangene"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mur"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "lan labanah"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka sadaya"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "bubuk"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "bakul"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:53.878856869Z",
+  "model": "glm-5.3"
+}

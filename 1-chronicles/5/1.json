@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 5:1",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan anake Reuben, kang mbarep Israyel — awarga ⟨is⟩ dudu tinimbang barep Israyel, awit ing panjenengane ngrusaki amban pasarone bapake, lah karatonan-barepe kaewehake marang anake Yusup, putrane Israyel, lan ora kanggo katata miturut katurunan ing dalem kaparepan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Lan anake"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "kang mbarep"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "panjenengane"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "kang mbarep"
+    },
+    {
+      "surface": "ובחללו",
+      "gloss": "lan ing panjenengane ngrusaki"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "amban pasarone"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapake"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "kaewehake"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "kaparepan-barepe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang anake"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusup"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "להתיחש",
+      "gloss": "kanggo katata miturut katurunan"
+    },
+    {
+      "surface": "לבכרה",
+      "gloss": "ing dalem kaparepan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:42.002136041Z",
+  "model": "glm-5.3"
+}

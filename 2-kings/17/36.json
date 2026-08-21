@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Nanging mung ⟨את⟩ Yahweh, sing mundurake ⟨את⟩ sira saka negeri Mitsrayim kanthi kakuwatan gedhe lan kanthi tangan sing dijurake, ⟨את⟩ Dheweke padha wedia, lan marang Dheweke padha sujuda, lan marang Dheweke padha sembaha kurban.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mundurake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka negeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "kanthi kakuwatan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "lan kanthi tangan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "sing dijurake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Dheweke"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "padha wedia"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "lan marang Dheweke"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "padha sujuda"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "lan marang Dheweke"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "padha sembaha kurban"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:04.485279024Z",
+  "model": "glm-5.3"
+}

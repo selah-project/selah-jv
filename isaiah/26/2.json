@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Padha bukakna gapura-gapura, lan bangsa kang tumindak padha lumebu, sing ngajaga setya",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "padha bukakna"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gapura-gapura"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan lumebu"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "kang tumindak padha"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "sing ngajaga"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "setya"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:50.537339865Z",
+  "model": "glm-5.3"
+}

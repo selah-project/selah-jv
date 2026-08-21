@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Apa ana pangapusi ing ilatku? apa langit-langitaku ora weruh bisu-bisu cilaka?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "apa ana"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ing ilatku"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "pangapusi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "langit-langitku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bisu-bisu cilaka"
+    }
+  ],
+  "timestamp": "2026-08-21T02:23:04.816419056Z",
+  "model": "glm-5.3"
+}

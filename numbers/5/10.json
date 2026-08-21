@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan saben wong lanang, ⟨את⟩ barang kuduse dadi duwee dhewe; sing wong lanang maringake marang imam, iku dadi duweke imam.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "lan saben wong lanang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang kuduse"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "barang kuduse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dadi duwee dhewe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maringake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "marang imam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dadi duweke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iku bakal dadi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:39.253345274Z",
+  "model": "glm-5.3"
+}

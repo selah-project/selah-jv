@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Lan tembung-tembung sengit nglumpuki aku, lan padha perang nglawan aku tanpa sabab.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Lan tembung-tembung"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "sengit"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "nglumpuki aku"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "lan padha perang nglawan aku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa sabab"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:11.838578783Z",
+  "model": "glm-5.3"
+}

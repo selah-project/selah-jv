@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 43:17",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Sing ngetokake kereta lan jaran, wadya lan kang prakosa: bareng padha sirep, ora bakal tangi; padha padem, kaya sumbu sing mati.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Sing ngetokake"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kereta"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "lan jaran"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wadya"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "lan kang prakosa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "padha sirep"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "bakal tangi"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "padha padem"
+    },
+    {
+      "surface": "כפשתה",
+      "gloss": "kaya sumbu"
+    },
+    {
+      "surface": "כבו",
+      "gloss": "padem total"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:14.736290204Z",
+  "model": "glm-5.3"
+}

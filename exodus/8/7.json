@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan kodhok-kodhok bakal sirna saka ing kowe, lan saka ing omah-omahmu, lan saka ing para abdimu, lan saka ing umatmu; mung ing kali waé sing bakal tansah ana.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "lan bakal sirna"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kodhok-kodhok"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka ing kowe"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "lan saka ing omah-omahmu"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "lan saka ing para abdimu"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "lan saka ing umatmu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "mung"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "ing kali"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "bakal tansah ana"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:40.168133771Z",
+  "model": "glm-5.3"
+}

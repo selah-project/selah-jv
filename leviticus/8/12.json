@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur ia ngetokna saka lenga pamurusan dhumateng sirahé Aharon, lan ia murokake ⟨את⟩ dhumateng kaluhurané.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "Banjur ia ngetokna"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "saka lenga"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pamurusan"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhumateng"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "lan ia murokake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "supaya kaluhuran"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:12.459718573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sadurungé yèn srengéngé ora kapatengan, lan cahya, lan rembulan, lan lintang-lintang, lan mendhung-mendhung bali sawisé udan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sadurungé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "kapatengan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "lan cahya"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "lan rembulan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "lan lintang-lintang"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "lan bali"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mendlung-mendlung"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "udan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:54.717424126Z",
+  "model": "glm-5.3"
+}

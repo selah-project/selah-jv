@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "lan ⟨את⟩ sandhangan sregep, lan ⟨את⟩ sandhangan kasucen tumrape Aharon imam, lan ⟨את⟩ sandhangane anake-anake kanggo nglayani imam",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangan sregep"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhangan"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "sregep"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangan kasucen"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhangan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kasucen"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tumrape Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangane anake-anake"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "sandhangane"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake-anake"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kanggo nglayani imam"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:36.963778443Z",
+  "model": "glm-5.3"
+}

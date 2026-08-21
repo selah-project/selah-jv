@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "nanging ing taun kaping pitu bakal ⟨dadi⟩ Sabat, pamukan, kanggo ⟨the⟩ bumi — Sabat kanggo Yahweh; ambane aja sira tandur, lan kebun anggurmu aja sira rungi.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "nanging ing taun"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "kaping pitu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "pamukan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kanggo bumi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ambane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sira tandur"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "lan kebun anggurmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "sira rungi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:10.795226366Z",
+  "model": "glm-5.3"
+}

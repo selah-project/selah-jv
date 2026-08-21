@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan ⟨את⟩ rempah-rempah sarta ⟨את⟩ lenga, kanggo padhang urip lan kanggo lenga urapan, lan kanggo dupa rempah-rempah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "rempah-rempah"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "rempah-rempah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lenga"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "kanggo padhang urip"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "lan kanggo lenga"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "urapan"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "lan kanggo dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rempah (dupa)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:11.226638993Z",
+  "model": "glm-5.3"
+}

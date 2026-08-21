@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Sang Ngernakake slamet marang para ratu, sing ngluwari ⟨את⟩ Dawid abdine saka pedhange ala.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Sang Ngernakake"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "slamet"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "marang para ratu"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "sing ngluwari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdine"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "saka pedhang"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:23.842475069Z",
+  "model": "glm-5.3"
+}

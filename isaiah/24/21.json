@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan bakal ana ing dina iku, Yahweh ngunjukake paukuman marang bala ing dhuwur, ing dhuwure, lan marang para ratu ing bumi, ing bume.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Lan bakal ana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ngunjukake paukuman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "bala"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bume"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:11.470403686Z",
+  "model": "glm-5.3"
+}

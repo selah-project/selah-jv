@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 93,
+  "translation": "Kali-kali mundhak, o Yahweh; kali-kali mundhak swarane; kali-kali mundhak ombaké sing ngamuk.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "mundhak"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "mundhak"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "mundhak"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "ombaké sing ngamuk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.901447515Z",
+  "model": "glm-5.3"
+}

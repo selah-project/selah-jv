@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Luga saka kaldhong kowe ngombe, lan ⟨את⟩ manuk gagak wis dak préntahi ngopeni kowe ing kana.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Luga"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "saka kaldhong"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "kowe ngombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manuk gagak"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "manuk gagak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "wis dak préntahi"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ngopeni kowe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:34.523103572Z",
+  "model": "glm-5.3"
+}

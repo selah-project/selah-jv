@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Akitub nitahake ⟨את⟩ Tsadok, lan Tsadok nitahake ⟨את⟩ Syalum;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "lan Akitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "lan Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Syalum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Syalum"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:39.987546405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Ing sasi kapindho, tanggal patlikur dina, ing antarane wengi-sore, padha nindakake ⟨את⟩ iku; mawa roti tanpa ragi lan jangan pait padha mangan ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kapindho"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "patang"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lasur"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ing antarane"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "wengi-sore"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iku",
+      "marks": "iku (Pésach)"
+    },
+    {
+      "surface": "על",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "lan jangan pait"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "padha mangan ⟨את⟩ iku",
+      "marks": "iku (Pésach)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:45.079083920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Elohim, kuping kita krungu, leluhur kita caritakake marang kita ⟨ ⟨karya⟩ sing Kowé nindakake ing jamané dhèwèké, ing jaman kina.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "kuping kita"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "leluhur kita"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "caritakake"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "karya"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Kowé nindakake"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "ing jamané dhèwèké"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ing jaman"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kina"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:20.259890858Z",
+  "model": "glm-5.3"
+}

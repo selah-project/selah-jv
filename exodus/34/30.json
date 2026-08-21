@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan Aharon lan kabeh barepe Israél ndeleng ⟨את⟩ Moshe, lan lah, kulit praupane sumunar cahya, lan dheweke wedi ngedhekake awake marang dheweke.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barepe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sumunar cahya"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "praupane"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "lan dheweke wedi"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ngedhekake awake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:22.067685635Z",
+  "model": "glm-5.3"
+}

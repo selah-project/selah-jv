@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan Yosef ngandika marang dheweke ing dinane kaping telu: iki padha-gawea lan padha-uripa; ⟨את⟩ Elohim aku bekti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kaping telu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "padha-gawea"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "lan padha-uripa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bekti"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:29.909432915Z",
+  "model": "glm-5.3"
+}

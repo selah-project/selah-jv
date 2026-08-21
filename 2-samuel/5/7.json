@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Nanging Dawid nyepeng ⟨את⟩ bètèng Tsiyon; iku ⟨is⟩ kuthane Dawid.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "nanging nyepeng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bètèng Tsiyon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "bètèng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:11.196360438Z",
+  "model": "glm-5.3"
+}

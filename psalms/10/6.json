@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Pangandikane ing atine: ora bakal kageter, turun-tumurun ⟨aku⟩ ora bakal kena sangsara.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ing atine"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "bakal kageter"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tumurun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "turun-tumurun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨aku⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kena sangsara"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:35.916543212Z",
+  "model": "glm-5.3"
+}

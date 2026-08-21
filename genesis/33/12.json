@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan dheweke munjuk: Tindaka mugi, tumutmana mugi, lan aku bakal lumampah ing ngarsa panjenengan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan-dheweke-munjuk"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Tindaka-mugi"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "tumutmana-mugi"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "lan-aku-bakal-lumampah"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "ing-ngarsa-panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:57.406113875Z",
+  "model": "glm-5.3"
+}

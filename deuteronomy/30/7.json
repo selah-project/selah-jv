@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Yahweh Elohim bakal mbalèkake ⟨את⟩ sakabehing bendu iki marang mungsuhmu lan marang wong-wong kang gethumu, kang padha ngoyak sira.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "lan bakal maringi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing bendu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "bendu-bendu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mungsuhmu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wong-wong kang gethomu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "padha ngoyak sira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:14.956677051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Lan padha nyiapake ⟨את⟩ sesaji nganti teke Yusuf ing wayah awan, awit padha krungu yèn ing kono dhèwèké bakal padha mangan roti.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "padha nyiapake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesaji"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sesaji"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "teke"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ing wayah awan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "padha krungu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal padha mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:00.507684448Z",
+  "model": "glm-5.3"
+}

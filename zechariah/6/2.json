@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Ing kereta kapisan jaran abrit, lan ing kereta kapindho jaran ireng.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "ing kereta"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "jaran"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "abrit"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "lan ing kereta"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kapindho"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "jaran"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "ireng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:52.055667090Z",
+  "model": "glm-5.3"
+}

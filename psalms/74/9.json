@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Tandha-tandha kita ora kita deleng; ora ana maneh nabi, lan ora ana ⟨את⟩ kita sing ngerti nganti sapira suwene.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "tandha-tandha kita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "kita deleng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kita"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sapira suwene"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:02.420123919Z",
+  "model": "glm-5.3"
+}

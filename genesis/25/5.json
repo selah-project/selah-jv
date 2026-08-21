@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan Avraham maringi ⟨את⟩ sakabehing duweke marang Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing duweke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duweke"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "marang Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:07.562994838Z",
+  "model": "glm-5.3"
+}

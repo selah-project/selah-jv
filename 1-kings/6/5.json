@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur ing dhuwur tembok omah iku dibangun lèan muteri; ⟨את⟩ tembok-tembok omah iku muteri, saka Heikhal nganti Debir; lan digawé ruang-ruang sisih muteri.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "banjur dibangun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "tembok"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah iku"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "lèan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muteri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembok-tembok omah iku"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "tembok-tembok"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah iku"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muteri"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "saka Heikhal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "nganti Debir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "lan digawé"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "ruang-ruang sisih"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muteri"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:25.311726100Z",
+  "model": "glm-5.3"
+}

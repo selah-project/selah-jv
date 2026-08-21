@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Aku duweke pacarku lan pacarku duweku, sing angon ana ing antarane kembang bakung.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "duweke pacarku"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "lan pacarku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "duweku"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "sing angon"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ana ing antarane kembang bakung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:10.812069451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Yosef matur marang ⟨את⟩ Paroah, ngendika: Ora ana ing aku; Elohim bakal paring wangsulan katentreman marang ⟨את⟩ Paroah.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "matur"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ora ana ing aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bakal paring wangsulan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wangsulan katentreman"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "katentreman"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:50.860669129Z",
+  "model": "glm-5.3"
+}

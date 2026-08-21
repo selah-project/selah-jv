@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan dhatengipun njupuk bukunipun prajanjian, lajeng maosaken ing kupinge bangsa punika, lan padha munjuk: Sadaya ingkang dipunandikaaken Yahweh, kula sadaya tindakaken, lan kula sadaya ngrungokaken.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "maosaken"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ing kuping"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha munjuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dipunandikaaken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kula tindakaken"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "lan kula ngrungokaken"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:33.062418030Z",
+  "model": "glm-5.3"
+}

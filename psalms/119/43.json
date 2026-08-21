@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Lan aha ditarik satemene saka cangkemku tembung kasunyatan nganti tuntas, awit marang pangadilan-Mu aku ngenteni",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan aha"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "ditarik"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "saka cangkemku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kasunyatan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tuntas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "marang pangadilan-Mu"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "aku ngenteni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:42.606745307Z",
+  "model": "glm-5.3"
+}

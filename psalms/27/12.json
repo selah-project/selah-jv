@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Aja padha anaake marang aku ing pepénginané mungsuhku sing nggetuni; awit padha ngadeg nglawan aku saksi-saksi goroh, lan sing ngambu kekerasan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "anaake marang aku"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ing pepénginané"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mungsuhku sing nggetuni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "padha ngadeg"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nglawan aku"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "lan sing ngambu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kekerasan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:34.178813987Z",
+  "model": "glm-5.3"
+}

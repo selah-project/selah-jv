@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan ing saben kutha saka Yehudha padha dhewe dhewe, Ahaz yasa papan dhuwur (bama) kanggo ngobong dupa marang allah-allah liyané, lan ngeselake ⟨את⟩ Yahweh, Elohim para leluhure.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "lan ing saben"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "kutha-kutha padha"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kanggo Yehudha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "במות",
+      "gloss": "papan dhuwur"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "kanggo ngobong dupa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang allah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyané"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "lan ngeselake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "para leluhure"
+    }
+  ],
+  "timestamp": "2026-08-21T03:41:48.503402964Z",
+  "model": "glm-5.3"
+}

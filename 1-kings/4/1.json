@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Dadi raja Shelomoh iku ratu ing saben Isra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:57.685715058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 97,
+  "translation": "Tsiyon krungu lan bungah, lan para putri Yehuda girang amarga pangancamira, dawuh Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "lan bungah"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "lan girang"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "para putri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "pangancamira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:03.509302530Z",
+  "model": "glm-5.3"
+}

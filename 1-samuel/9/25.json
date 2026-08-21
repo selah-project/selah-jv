@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 9:25",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan padha mudhun saka ing panggonan dhuwur menyang ⟨ing⟩ kutha, lan ⟨Samuel⟩ ngendika karo Shaul ing sadhuwuring payon.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "lan padha mudhun"
+    },
+    {
+      "surface": "מהבמה",
+      "gloss": "saka ing panggonan dhuwur"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "payon"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:47.920097698Z",
+  "model": "glm-5.3"
+}

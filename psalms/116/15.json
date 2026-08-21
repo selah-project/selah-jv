@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Sing migunani ing paningalane Yahweh ⟨iku⟩ pati wonge para setiane.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "sing migunani"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "pati"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "wonge para setiane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:44.229545946Z",
+  "model": "glm-5.3"
+}

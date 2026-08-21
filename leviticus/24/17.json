@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan manungsa kang nglarani nyawa manungsa, mati bakal dipateni.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Lan manungsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "nglarani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dipateni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:20.919773622Z",
+  "model": "glm-5.3"
+}

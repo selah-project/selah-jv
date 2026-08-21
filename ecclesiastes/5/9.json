@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Sapa seneng marang salaka ora bakal wareg salaka, lan sapa seneng marang bandha akeh ora pituwas; iki uga hiwal.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "seneng"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "wareg"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan sapa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "seneng"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "bandha akeh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "pituwas"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hiwal"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:22.927066665Z",
+  "model": "glm-5.3"
+}

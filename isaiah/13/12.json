@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Aku bakal ngluwari manungsa langka luwih saka emas murni, lan titah luwih langka tinimbang emas saka Ofir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Aku bakal ngluwari langka"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "luwih saka emas murni"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "lan titah"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "luwih tinimbang emas"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "saka Ofir"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:26.280709547Z",
+  "model": "glm-5.3"
+}

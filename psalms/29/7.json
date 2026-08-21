@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Swara Yahweh nebang ilati geni.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "nebang"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ilati geni"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:42.353413248Z",
+  "model": "glm-5.3"
+}

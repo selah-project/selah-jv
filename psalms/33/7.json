@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Ngempetake kaya timbunan banyuning ⟨the⟩ segara, nglebokake ing pepethaning teleng-teleng.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "ngempetake"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "kaya timbunan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nglebokake"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ing pepethaning"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "teleng-teleng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:05.732426475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "pangobong tinimbang pangobong, tatu tinimbang tatu, benjolan wungu tinimbang benjolan wungu",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "pangobong"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "pangobong"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "benjolan wungu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "benjolan wungu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:38.603316957Z",
+  "model": "glm-5.3"
+}

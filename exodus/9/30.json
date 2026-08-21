@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Dene sira lan abdi-abdimu — aku wis weruh yen sira durung wedi marang ngarsane Yahweh, Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Dene sira"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "lan abdi-abdimu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku wis weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "durung"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "sira wedi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "marang ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:59.265352783Z",
+  "model": "glm-5.3"
+}

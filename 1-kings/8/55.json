@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Dhèwèké ngadeg lan mberkahi ⟨את⟩ sakabehing pasamuwané Israel swara inggil, munjuk:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mberkahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing pasamuwané Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "inggil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "munjuk"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:17.521037052Z",
+  "model": "glm-5.3"
+}

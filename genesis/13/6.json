@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan bumi ora bisa nanggung ⟨את⟩ wong loro iku supaya padha manggon bebarengan, awit bandhané wis akèh banget, nganti ora bisa padha manggon bebarengan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nanggung"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wong loro iku (Avram lan Lot)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "supaya manggon"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wis dadi"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "bandhané"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akèh banget"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nganti ora"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:31.591639639Z",
+  "model": "glm-5.3"
+}

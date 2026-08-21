@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Eli ngandika marang ⟨ia⟩: Nganti kapan kowe bakal tansah mabuk? Buwangen ⟨את⟩ anggurmu saka awakmu!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan Eli ngandika"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "marang ⟨ia⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "kowe bakal tansah mabuk"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Buwangen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anggurmu"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "anggurmu"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "saka awakmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:05.172643569Z",
+  "model": "glm-5.3"
+}

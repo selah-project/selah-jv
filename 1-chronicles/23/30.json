@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "uga kanggo ngadeg saben esuk-suk esuk kanggo matur nuwun lan memuji marang Yahweh, lan mengkono uga ing sengsara.",
+  "tokens": [
+    {
+      "surface": "וְלַעֲמֹד",
+      "gloss": "uga kanggo ngadeg"
+    },
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "בַּבֹּקֶר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "לְהֹדוֹת",
+      "gloss": "kanggo matur nuwun"
+    },
+    {
+      "surface": "וּלְהַלֵּל",
+      "gloss": "lan kanggo memuji"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "וְכֵן",
+      "gloss": "lan mengkono uga"
+    },
+    {
+      "surface": "לָעָרֶב",
+      "gloss": "ing sengsara"
+    }
+  ],
+  "timestamp": "2026-08-21T03:28:33.271802773Z",
+  "model": "glm-5.3"
+}

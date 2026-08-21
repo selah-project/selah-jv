@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Putraning manungsa, dhawuhana ⟨את⟩ dhumateng: kowé iki bumi sing ora resik, ora katetesan ing dina-in murka.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Putraning"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dhawuhana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dhumateng"
+    },
+    {
+      "surface": "את",
+      "gloss": "kowé iki ⟨את⟩",
+      "marks": "kowé iki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "resik"
+    },
+    {
+      "surface": "היא",
+      "gloss": "-é (tekankan)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "katetesan udan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina-in"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "murka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:14:18.279072726Z",
+  "model": "glm-5.3"
+}

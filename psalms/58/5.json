@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Racune padha kaya racun ula, kaya ula bisu sing nutup kupinge.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "racune"
+    },
+    {
+      "surface": "למו",
+      "gloss": "padha"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "racun"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ula bisu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "bisu"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "nutup"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "kupinge"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:44.366411252Z",
+  "model": "glm-5.3"
+}

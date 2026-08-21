@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan sira bakal nggawe ⟨את⟩ mesbe saka kayu akasia: dawane limang asta lan jembaré limang asta; mesbe iku kudu pesagi, lan dhuwure telung asta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan sira bakal nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesbe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mesbe"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dawane"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "lan limang"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "jembaré"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pesagi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "iku kudu dadi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mesbe"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "lan telung"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dhuwure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:22.838907616Z",
+  "model": "glm-5.3"
+}

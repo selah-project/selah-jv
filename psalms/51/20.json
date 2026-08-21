@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Nduwenana kabecikan miturut keparenging karsa-Mu marang ⟨את⟩ Tsiyon; ndegna tembok-temboke Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Nduwenana kabecikan"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "miturut keparenging karsa-Mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ndegna"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "tembok-temboke"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:52.208122943Z",
+  "model": "glm-5.3"
+}

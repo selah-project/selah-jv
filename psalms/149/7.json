@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Kanggo nindakake balas dendam ing para bangsa, lan korèksi ing para umat.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo nindakake"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "balas dendam"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing para bangsa"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "korèksi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "para umat"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:30.045951480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur Amasa lunga kanggo ngumpulake ⟨את⟩ Yehuda, nanging ⟨ia⟩ telat ngluwihi wektu katamtu sing wis ditemtokake marang ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "kanggo ngumpulake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "nanging telat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nluwihi \/ saka"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "wektu katamtu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ditemtokake marang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:34.623457634Z",
+  "model": "glm-5.3"
+}

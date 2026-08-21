@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Nak, anjaga tembung-tembungku, lan parentah-parentahku kacimpen ⟨את⟩ ing sliramu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Nak"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "anjaga"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tembung-tembungku"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "lan parentah-parentahku"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "kacimpen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ing sliramu",
+      "marks": "kowe (ing kono disimpen)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:25.855349776Z",
+  "model": "glm-5.3"
+}

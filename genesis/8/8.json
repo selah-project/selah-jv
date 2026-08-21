@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur ditimbali ⟨את⟩ manuk dara saka ing ⟨את⟩-e, arep mirsani apa banyu wus saya kurang saka ing sadhuwuring muka bumi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Banjur ditimbali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk dara"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "manuk dara"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "saka ing ⟨את⟩-e"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "arep mirsani"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "apa wus saya kurang"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing sadhuwuring"
+    },
+    {
+      "surface": "פני",
+      "gloss": "muka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:11.324218015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan sira bakal sumurup yen Aku iki Yahweh, nalika Aku mbukak ⟨את⟩ kubure sira lan nalika Aku ngunggahake ⟨את⟩ sira metu saka kubure sira, umat-Ku.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "lan sira bakal sumurup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "nalika Aku mbukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kubure sira"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "kubure sira"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "lan nalika Aku ngunggahake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "saka kubure sira"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:20:43.284340011Z",
+  "model": "glm-5.3"
+}

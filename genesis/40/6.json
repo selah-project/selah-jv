@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan Yusuf teka marang wong-wong mau ing esuk, lan dhèwèké ndeleng ⟨את⟩ wong-wong mau, lah, padha susah atine.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dhèwèké ndeleng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "lah, padha"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "susah atine"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:33.350643969Z",
+  "model": "glm-5.3"
+}

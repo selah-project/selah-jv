@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Lan Paroh ngandika marang Yaakov: pira ta dinane taun-tauning uripmu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "pira ta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "שני",
+      "gloss": "taun-tauning"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "uripmu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:54:06.494145648Z",
+  "model": "glm-5.3"
+}

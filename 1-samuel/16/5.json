@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan dheweke munjuk: Rukun; aku teka supaya ngorbanake marang Yahweh; padha suciakanen awakmu, lan padha teka ⟨את⟩ ngmenteni aku ing sajerone kurban. Banjur dheweke nyucèkaké ⟨את⟩ Yishai lan ⟨את⟩ para putrane, lan ngundhang kanggo kurban.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rukun"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "supaya ngorbanake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aku teka"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "padha suciakanen awakmu"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "lan padha teka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngmenteni aku"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ing sajerone kurban"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "lan nyucèkaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para putrane"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lan ngundhang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "kurban"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:47.693822722Z",
+  "model": "glm-5.3"
+}

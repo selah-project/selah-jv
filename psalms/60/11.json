@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Sapa sing bakal nggawa aku menyang kutha bentèng? Sapa sing nuntun aku tekan Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "nggawa aku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "bentèng"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "nuntun aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tekan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:20.145663133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Aja njupuk saka ⟨את⟩ dheweke ngawigaten utawa nambahi wragad, nanging beka saka Elohim, supaya sedulurmu urip ing sisihmu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "saka ⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ngawigaten (bunga)"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "utawa nambahi wragad"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "nanging beka saka"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "supaya urip"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sedulurmu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ing sisihmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:53.678449811Z",
+  "model": "glm-5.3"
+}

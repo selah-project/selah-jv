@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Dina iku dadi pepeteng; aja Eloah ndhedhes saka ing dhuwur, lan aja cahya padhang marang iku.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "dina iku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pepeteng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "ndhedhes"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "saka ing dhuwur"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "padhang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang iku"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "cahya"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:39.147079833Z",
+  "model": "glm-5.3"
+}

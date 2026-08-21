@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 31:28",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Kumpulna marang aku ⟨את⟩ para sesepuh kabèh suku-sukumu lan para juru titiwarnamu, supaya aku ngendikani ing kupinge ⟨את⟩ pangucap-ucap iki, lan dakkel saksi ⟨את⟩ langit lan ⟨את⟩ bumi nglawan dhèwèké.",
+  "tokens": [
+    {
+      "surface": "הקהילו",
+      "gloss": "kumpulna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para sesepuh kabèh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "suku-sukumu"
+    },
+    {
+      "surface": "ושטריכם",
+      "gloss": "lan para juru titiwarnamu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "lan dak ngendikani"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ing kupinge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangucap-ucap iki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pangucap-ucap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "lan dakkel saksi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nglawan dhèwèké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:45.173867572Z",
+  "model": "glm-5.3"
+}

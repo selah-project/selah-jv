@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan ing dhuwuré méja sang ngarepé padha njabaraken sandhangan werna biru, lan padha ndadèkaké ing dhuwuré ⟨את⟩ piring-piringé lan ⟨את〕 cawané lan ⟨את⟩ bokor-bokoré lan ⟨את⟩ genthi singgo peparing; lan rotiné sang terus ing dhuwuré bakal ana.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Lan ing dhuwuré"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sang ngarepé"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "padha njabaraken"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "sandhangan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "werna biru"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "lan padha ndadèkaké"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piring-piringé"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "piring-piringé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cawané"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "cawané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bokor-bokoré"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "bokor-bokoré"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "genthi singgo peparing"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "genthi"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "singgo peparing"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "lan rotiné"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "sang terus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:23.690638784Z",
+  "model": "glm-5.3"
+}

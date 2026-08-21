@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 51:35",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Kekerasan marang aku lan sisa dagingku tumiba ing Babel, bakal matur sing dedunung ing Tziyon; lan getihku tumiba marang sing dedunung ing Kasdim, bakal matur Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "חמסי",
+      "gloss": "Kekerasan marang aku"
+    },
+    {
+      "surface": "ושארי",
+      "gloss": "lan sisa dagingku"
+    },
+    {
+      "surface": "על",
+      "gloss": "tumiba ing"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "bakal matur"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "sing dedunung ing"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tziyon"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "lan getihku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tumiba marang"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sing dedunung ing"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "bakal matur"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:06:40.782610316Z",
+  "model": "glm-5.3"
+}

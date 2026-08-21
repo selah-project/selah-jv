@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Woi, sing ngramah lan sing kena reged, kutha sing nindhes!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "woi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "sing ngramah"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "lan sing kena reged"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "sing nindhes"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:43.411812902Z",
+  "model": "glm-5.3"
+}

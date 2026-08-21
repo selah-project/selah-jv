@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Sebab presep numpak presep, presep numpak presep; ukur numpak ukur, ukur numpak ukur; sathithik ing kéné, sathithik ing kono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צו",
+      "gloss": "presep"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "numpak presep"
+    },
+    {
+      "surface": "צו",
+      "gloss": "presep"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "numpak presep"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ukur"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "numpak ukur"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ukur"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "numpak ukur"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "sathithik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kéné"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "sathithik"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:02.486095771Z",
+  "model": "glm-5.3"
+}

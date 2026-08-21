@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Tinapaké wong sangsara, nalika ◄kabusuk-busuk, lan ngadhep Yahweh njudrahaké sangitane.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "tinapat"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "wong sangsara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "kabusuk-busuk"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ngadhep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "njudrahaké"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "sangitane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:29.448809233Z",
+  "model": "glm-5.3"
+}

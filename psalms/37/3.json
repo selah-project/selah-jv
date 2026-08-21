@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Percaya marang Yahweh lan nindakake kabecikan; ndunungi bumi, lan pangonana kesetiaan.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Percaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lan nindakake"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ndunungi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "lan pangonana"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "kesetiaan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:45.211870444Z",
+  "model": "glm-5.3"
+}

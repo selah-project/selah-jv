@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan padha ngunggahake ⟨את⟩-e ing amidal jaran, lan ⟨ijine⟩ kasarekake ing Yerushalayim karo para leluhure, ing kuthane Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "padha ngunggahake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (Amatsyahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "amidal jaran"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "lan kasarekake"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "para leluhure"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:23.090863396Z",
+  "model": "glm-5.3"
+}

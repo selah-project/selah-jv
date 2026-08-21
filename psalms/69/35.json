@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Langit lan bumi mamuji Panjenengané, segara-segara lan sakabèhé kang obah ing sajroning.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "mamuji Panjenengané"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "lan bumi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "segara-segara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabèhé"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kang obah"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing sajroning"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:18.649713302Z",
+  "model": "glm-5.3"
+}

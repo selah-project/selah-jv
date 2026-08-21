@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Sapa sing percaya marang pangrungokku? Lan lambune Yahweh marang sapa wis tinemokake?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "marang pawarta kang kita krungu"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "tinemokake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:07.721145850Z",
+  "model": "glm-5.3"
+}

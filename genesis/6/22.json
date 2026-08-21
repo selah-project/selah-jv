@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Noach nindakake miturut kabeh ingkang Elohim wus amrintahaké ⟨את⟩ panjenengane; mangkono panjenengane nindakake.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan nindakake"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wus amrintahaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ panjenengane",
+      "marks": "Noach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "panjenengane nindakake"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:17.547057018Z",
+  "model": "glm-5.3"
+}

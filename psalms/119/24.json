@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Déné kaseksèn-Panjenengan iku seneng-senenging sun, para pitutur-ing-atosku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "déné"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "kaseksèn-Panjenengan"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "seneng-senenging sun"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "para"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "pitutur-ing-atosku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:20.833251927Z",
+  "model": "glm-5.3"
+}

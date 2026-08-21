@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Banjur Israel nyanyi ⟨את⟩ tembang iki: Munggaha, sumur! Padha nembanga marang sumur!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Banjur"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "nyanyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembang iki"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Munggaha"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "Padha nembanga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang sumur"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:43.647100929Z",
+  "model": "glm-5.3"
+}

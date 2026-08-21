@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Banjur Yehudha ngandika marang sadulur-sadulure: apa bathine menawa kita mateni ⟨את⟩ sadulur kita lan nglunturi ⟨את⟩ getihe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulur-sadulure"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "bathine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "kita mateni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulur kita"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "sadulur kita"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "lan nglunturi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:57.302733300Z",
+  "model": "glm-5.3"
+}

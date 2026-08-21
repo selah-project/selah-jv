@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur Yehosyua njupuk ⟨את⟩ sakehing lemah iki: pagunungan, lan ⟨את⟩ sakehing pasisir kidul, lan ⟨את⟩ sakehing lemahing Goshen, lan ⟨את⟩ ora-ora ratan, lan ⟨את⟩ Araba, lan ⟨את⟩ gunungé Yisrael karo ora-orané.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakehing lemah iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakehing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "pagunungan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakehing pasisir kidul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakehing"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "pasisir kidul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakehing lemahing Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakehing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lemahing"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "ora-ora ratan"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "ora-ora ratan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Araba"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "gunungé Yisrael"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunungé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "karo ora-orané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:02.474500067Z",
+  "model": "glm-5.3"
+}

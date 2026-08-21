@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Yaakov manggon ing tanah pangunggyané bapakné, ing tanah Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "pangunggyané"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:37.342109347Z",
+  "model": "glm-5.3"
+}

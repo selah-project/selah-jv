@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "lan manuk erem, lan ⟨את⟩ elang-ireng, lan manuk hergud miturut jinisé",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "manuk erem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elang-ireng"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "elang-ireng"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "manuk hergud"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "miturut jinisé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:59.190857369Z",
+  "model": "glm-5.3"
+}

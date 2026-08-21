@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Kowe maringi wawarih marang aku dalaning urip; kawuwungan bungah ana ⟨ing⟩ praone, rerenggan manis ana ing astan tengen salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Kowe maringi wawarih marang aku"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalaning"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kawuwungan"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praone"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praone"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "rerenggan manis"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ana ing astan tengen"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:24.388106589Z",
+  "model": "glm-5.3"
+}

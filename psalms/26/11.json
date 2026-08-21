@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Déné aku ing katulusanku lumaku; tukulna aku lan welasana aku",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Déné aku"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ing katulusanku"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "tukulna aku"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "lan welasana aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:22.363765940Z",
+  "model": "glm-5.3"
+}

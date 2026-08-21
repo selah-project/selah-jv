@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Mung amarga kesombongan ana padu, nanging ⟨את⟩ wong sing padha rembugan ana kawicaksanan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "mung"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "amarga kesombongan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ana"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "padu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong sing padha rembugan"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "wong sing padha rembugan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kawicaksanan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:05.511771297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Banjur padha elicilu, sarta padha medhunna saben wong ⟨את⟩ karungane marang lemah, lan saben wong padha ambuka karungane.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "Banjur padha elicilu"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "sarta padha medhunna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karungane"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "karungane"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "marang lemah"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "lan padha ambuka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "karungane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:51.788300966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Sebab Yahweh bakal ngadili kanthi geni, lan kanthi pedhangne ⟨את⟩ sakethe daging; lan wong-wong tinanceban dening Yahweh bakal akeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "באש",
+      "gloss": "kanthi geni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "bakal ngadili"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "lan kanthi pedhangne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakethe daging"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakethe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "bakal akeh"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "wong-wong tinanceban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:38.879372093Z",
+  "model": "glm-5.3"
+}

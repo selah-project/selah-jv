@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Yahweh ngandika: Sumelingku wus kulirsekake ⟨את⟩ kasusahane umat-Ku kang ana ing Mitzrayim, lan ⟨את⟩ tangise wus krungu awit saka panggedhe pangreremuk, sebab werkuku sangsarane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sumeling"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "wus kulirsekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasusahane umat-Ku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kasusahane"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ana ing Mitzrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tangise"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "tangise"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "wus krungu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "awit saka"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "panggedhe pangreremuk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "werkuku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sangsarane"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "sangsarane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:56.456362996Z",
+  "model": "glm-5.3"
+}

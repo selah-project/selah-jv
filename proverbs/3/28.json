@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Aja ngandika marang kanca cedhakmu: mana, teka bali maneh, lan sesuk dakwènèhi, éwadéné ⟨ana⟩ karo kowé ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "marang kanca cedhakmu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mana teka"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "lan bali maneh"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "lan sesuk"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dakwènèhi"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "éwadéné ana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:22.208597141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Kowé nglunasi klawan lengen ⟨eng⟩ umat-Mu, para putrané Yaakov lan Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Kowé nglunasi"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "klawan lengen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "lan Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:26.635763671Z",
+  "model": "glm-5.3"
+}

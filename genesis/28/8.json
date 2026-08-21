@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan Esau weruh yen putri-putri Kanaan iku ala ing paningalane Yitshak bapakne.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "putri-putri"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalane"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:24.674560554Z",
+  "model": "glm-5.3"
+}

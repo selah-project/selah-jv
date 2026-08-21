@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Anak-anake Elam, sewu rong atus seket lan papat.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anak-anake"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sewu"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "rong atus"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "seket"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "lan papat"
+    }
+  ],
+  "timestamp": "2026-08-21T03:09:50.295913510Z",
+  "model": "glm-5.3"
+}

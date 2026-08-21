@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "lan nguncalake ⟨את⟩ allah-allahane ing geni, awit dudu elohim kui, nanging gaweyan tangan manungsa, kayu lan watu; mulane dibusak.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "lan nguncalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allah-allahane"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "allah-allahane"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kui"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gaweyan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "lan watu"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "dibusak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:42.890419966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Nalika mungsuhmu tiba, aja bungah; lan nalika ⟨dheweke⟩ kepleset, aja atimu bungah-bungah.",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "nalika tiba"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "mungsuhmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "lan nalika kepleset"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "bungah-bungah"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "atimu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:23.998352115Z",
+  "model": "glm-5.3"
+}

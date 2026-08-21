@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Padha ngiloni kupinga, sira langit, lan aku bakal ngendika; lan krungua, bumi, tembung-tembung cangkemku.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "padha ngiloni kupinga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sira langit"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "lan aku bakal ngendika"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "lan krungua"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:28.314763558Z",
+  "model": "glm-5.3"
+}

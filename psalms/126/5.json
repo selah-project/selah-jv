@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 126,
+  "translation": "Para sing nandur kanthi tangis bakal ngundhuh kanthi rerinanan.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "para sing nandur"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "kanthi tangis"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "kanthi rerinanan"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "bakal ngundhuh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:42.510290004Z",
+  "model": "glm-5.3"
+}

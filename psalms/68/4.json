@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Lan para wong bener padha bungah, padha reremban ing ngarsane Elohim, lan padha bungah getun-getun kalawan suka.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Lan para wong bener"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "padha bungah"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "padha reremban"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "lan ... padha bungah getun-getun"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kalawan suka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:28.975194389Z",
+  "model": "glm-5.3"
+}

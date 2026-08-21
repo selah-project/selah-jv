@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Ora bakal manggon ⟨dheweke⟩ ana ing bumi Yahweh, nanging Efrayim bali marang Mitsrayim, lan ing Asyur panganan najis bakal ⟨dheweke⟩ dhahar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bakal-manggon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ana-ing-bumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "nanging-bali"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "lan-ing-Asyur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "panganan-najis"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal-dhahar"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:52.998867649Z",
+  "model": "glm-5.3"
+}

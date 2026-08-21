@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Tembung-tembunge Lemuel sang raja, pasemon sing diajarake ibune marang ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "משא",
+      "gloss": "pasemon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "diajarake marang ⟨dia⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:42.290325409Z",
+  "model": "glm-5.3"
+}

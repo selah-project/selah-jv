@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Raja Misrayim nyingkiraké dhèwèké ing Yerushalayim, lan ndandani ⟨את⟩ bumi iku dènè mbayar séwatus kikkar pérak lan satus kikkar emas.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "lan nyingkiraké dhèwèké"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "lan ndandani (mbayar denda)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi iku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "séwatus"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkar (talenta)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "lan satus kikkar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-21T03:47:53.961121617Z",
+  "model": "glm-5.3"
+}

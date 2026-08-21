@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan dumadi bareng Achab wis seda, ratu Moab padha nglakoni pemberontakan marang ratu Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dumadi"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "bareng wis seda"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "padha nglakoni pemberontakan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "marang ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:01.784056728Z",
+  "model": "glm-5.3"
+}

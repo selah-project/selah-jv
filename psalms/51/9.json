@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Padami aku nganggo ezob lan aku bakal resik, umbahen aku lan aku bakal luwih putih tinimbang salju.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "Padami aku (saka dosa)"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "nganggo ezob"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "lan aku bakal resik"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "umbahen aku"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "tinimbang salju"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "aku bakal luwih putih"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:47.293720449Z",
+  "model": "glm-5.3"
+}

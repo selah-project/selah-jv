@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Laju Hananja sang nabi mati ing taun iku, ing sasi kapitu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "kapitu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:57:30.459232894Z",
+  "model": "glm-5.3"
+}

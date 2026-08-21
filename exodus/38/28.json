@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan ⟨את⟩ sewu pitung atus pitung puluh lima iku digawé pangait kanggo sagagang, lan ditutupi sirahé, lan dililiti ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sewu pitung atus pitung puluh lima"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "sewu"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "lan pitung"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "lan lima"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "lan pitung puluh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawé"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "pangait"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "kanggo sagagang"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "lan ditutupi"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "lan dililiti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sagagang (panukuhané)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:18.317000094Z",
+  "model": "glm-5.3"
+}

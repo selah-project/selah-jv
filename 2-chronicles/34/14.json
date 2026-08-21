@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan nalika ⟨⟨panggonane⟩⟩ padha ngetokake ⟨את⟩ dhuwit sing dijukit menyang omahing Yahweh, Hilkiyah sang imam nemu ⟨את⟩ kitabe Torating Yahweh, tinitah ing astane Moshe.",
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "lan nalika padha ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhuwit"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "dhuwit"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "sing dijukit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nemu"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkiyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitabe Torating Yahweh"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torating"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing astane"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-21T03:47:33.140168771Z",
+  "model": "glm-5.3"
+}

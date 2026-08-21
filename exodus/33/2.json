@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan bakal dakutus sadurungira malaikat, lan bakal dakudhani ⟨את⟩ wong Kenaan, wong Emori, lan wong Hiti, lan wong Perizi, wong Hiwi, lan wong Yebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "lan bakal dakutus"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sadurungira"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaikat"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "lan bakal dakudhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Kenaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kenaan"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "lan wong Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "lan wong Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "wong Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "lan wong Yebusi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:44.490001318Z",
+  "model": "glm-5.3"
+}

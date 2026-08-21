@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan dina-dinané sing David maréntah ana ing sangisoré Israél ⟨iku⟩ patang puluh taun: ing Hebron sanggnepe pitung taun, lan ing Yerushalayim sanggnepe telung puluh telu taun.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "lan dina-dinané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maréntah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing sangisoré"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patang puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ing Hebron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sanggnepe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "lan ing Yerushalayim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sanggnepe"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telung puluh"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "lan telu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:28.245041637Z",
+  "model": "glm-5.3"
+}

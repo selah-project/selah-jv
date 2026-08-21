@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Daud ngejeg ⟨את⟩ Hadadézer anaké Rehob, ratu ing Tsova, nalika dhèwèké lunga mulihakéakuwasané ing pinggir Kali.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ngejeg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadézer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "nalika dhèwèké lunga"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "mulihaké"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "akuwasané"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "ing Kali"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:36.756729781Z",
+  "model": "glm-5.3"
+}

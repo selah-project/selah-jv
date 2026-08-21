@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Lan saiki padha nglonga, Yaakov, abdaku, lan Israèl, wong sing dakpilih.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "padha nglonga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdaku"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "lan Israèl"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "dakpilih"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wong sing ⟨iku⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:50.875259223Z",
+  "model": "glm-5.3"
+}

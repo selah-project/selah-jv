@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "⟨את⟩ Sabat-sabatKu padha kon, lan papan sucining Ingsun padha bekti; Aku iki Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sabat-sabatKu"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabat-sabatKu"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "padha kon"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "lan papan sucining Ingsun"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "padha bekti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:32.963374211Z",
+  "model": "glm-5.3"
+}

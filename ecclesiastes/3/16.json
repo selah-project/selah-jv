@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan maneh aku ndeleng ing sangisoring srengéngé: ing panggonan pakuning ⟨the⟩ kadurjan ana ⟨is⟩ durjana, lan ing panggonan kabecikan ana ⟨is⟩ durjana uga.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "lan maneh"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku ndeleng"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisoring"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ing panggonan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pakuning"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "durjana"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "lan ing panggonan"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "durjana uga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:54.801593152Z",
+  "model": "glm-5.3"
+}

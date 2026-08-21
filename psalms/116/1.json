@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Kula tresna, awit Yahweh ngrungokake ⟨את⟩ swarane kula, pangapuncone kula.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "kula tresna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarane kula"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swarane kula"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pangapuncone kula"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:56.492211913Z",
+  "model": "glm-5.3"
+}

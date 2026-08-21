@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Kaya salju ing mangsa panas, lan kaya udan ing mangsa panen, mengkono uga kama ora cocok kanggo bodho iku kamulyan.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "kaya salju"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ing mangsa panas"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "lan kaya udan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ing mangsa panen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono uga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "cocog"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "kanggo bodho"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:39.691517769Z",
+  "model": "glm-5.3"
+}

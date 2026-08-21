@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Banjur Moshe lan Aharon teka mara ing ngarsaning kemah patemuan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "lan Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mara"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ing ngarsaning"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patemuan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:29.549378165Z",
+  "model": "glm-5.3"
+}

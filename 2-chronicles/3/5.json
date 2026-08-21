@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ⟨את⟩ bumi agung iku dilapisi kayu sena, banjur dilapisi emas becik, lan digawa metu ing sadhuwure cengkirah palem lan ranté-ranté.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi agung iku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "dilapisi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sena"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "banjur dilapisi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "digawa metu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "cengkirah palem"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "ranté-ranté"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:33.180324665Z",
+  "model": "glm-5.3"
+}

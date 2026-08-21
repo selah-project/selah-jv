@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ing Givon Yahweh medhar marang Shelomoh ing ngimpi ing wengi, lan Elohim ngandika: Nyuwuna apa sing Dakparingake marang kowe.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Ing Givon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "medhar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "ing ngimpi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Nyuwuna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Dakparingake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:11.112621343Z",
+  "model": "glm-5.3"
+}

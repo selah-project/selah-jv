@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Ing ésuk mekar lan ngliwati; ing sonten kethok lan garing.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ing ésuk"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "mekar"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "lan ngliwati"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ing sonten"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "kethok"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "lan garing"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:47.173095478Z",
+  "model": "glm-5.3"
+}

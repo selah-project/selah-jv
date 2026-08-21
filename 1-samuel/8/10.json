@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Shemuel ngandika ⟨את⟩ sadaya pangandikané Yahweh marang bangsané sing njaluk saka ⟨את⟩-é ratu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya pangandikané Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangandikané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsané"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "sing njaluk"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "saka ⟨את⟩-é"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:35.523096422Z",
+  "model": "glm-5.3"
+}

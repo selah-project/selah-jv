@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Laka dadi ing salumahé dina iku dhéwé, Yahweh ngetokaké ⟨את⟩ anak-anak Israél saka bumi Mitsrayim miturut pasukan-pasukané.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "laka dadi"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ing salumahé"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iku dhéwé"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ngetokaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anak Israél"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "pasukan-pasukané"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:36.562705112Z",
+  "model": "glm-5.3"
+}

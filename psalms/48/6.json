@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Dheweke padha ndeleng, banjur padha kagum; padha giris, padha gelem-gelem lunga.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "padha kagum"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "padha giris"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "padha gelem-gelem lunga"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:04.187853564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan wong Filisti iku perang nglawan Yisrael, banjur para wong Yisrael padha ngungsi saka ngarsane wong Filisti, lan akeh sing tiba tiwas ing redi Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Lan wong Filisti"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "padha perang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nglawan Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "banjur padha ngungsi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "para wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Filisti"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "lan padha tiba"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "tiwas"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:49.697785496Z",
+  "model": "glm-5.3"
+}

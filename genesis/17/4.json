@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Aku iki, lah, prajanjianku ⟨את⟩ karo kowé, lan kowé bakal dadi bapak dumadi akehing bangsa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjianku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩karo-kowé",
+      "marks": "kowé"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "lan-kowé-bakal-dadi"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "bapak"
+    },
+    {
+      "surface": "המון",
+      "gloss": "akehing"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:28.100100431Z",
+  "model": "glm-5.3"
+}

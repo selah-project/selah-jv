@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Dawid banjur nindakake kaya dene préntahé Elohim marang dheweke; lan padha ngluluhake ⟨את⟩ balaPeleshet saka Gibeon nganti teka Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "banjur nindakake"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "préntahé ... marang dheweke"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lan padha ngluluhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bala"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "bala"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "saka Gibeon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti teka"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-21T03:22:46.781592244Z",
+  "model": "glm-5.3"
+}

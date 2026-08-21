@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan iki anak-anake Oholibama, putrane Anah, putune Tsibeon, bojone Esav; lan lairake kanggo Esav ⟨את⟩ Yeis, lan ⟨את⟩ Yalam, lan ⟨את⟩ Korah.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "(dadi)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putune"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibeon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lan lairake"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kanggo Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeis"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:00.840566313Z",
+  "model": "glm-5.3"
+}

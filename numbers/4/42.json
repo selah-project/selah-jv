@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan para sing kadirè saka kulawarga-kulawarga putrané Mérari, miturut kulawargané dhéwé-dhéwé, miturut omah-ing leluwané dhéwé-dhéwé.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "lan sing kadirè"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga-kulawarga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Mérari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut kulawargané"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "miturut omah-ing"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "leluwané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:22.433864633Z",
+  "model": "glm-5.3"
+}

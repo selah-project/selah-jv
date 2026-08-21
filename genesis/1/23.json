@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lanjut dadi sanja, lan dadi esuk — dina kelima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sanja"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "kelima"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:16.567090541Z",
+  "model": "glm-5.3"
+}

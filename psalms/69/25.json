@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Tuwakana kuwalarmu marang wong-wong mau, lan saking panas murka irung-M ngrangkul wong-wong mau.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Tuwakana"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "kuwalarmu"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "lan saking panas"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murka irung-M"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ngrangkul wong-wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:15.989421770Z",
+  "model": "glm-5.3"
+}

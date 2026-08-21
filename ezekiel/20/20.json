@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan ⟨את⟩ sabat-sabatKu padha sucenake, bakal dadi pratandha ing antarané Aku lan ing antarané kowe, supaya padha weruh yèn Aku iki Yahweh, Elohome kowe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabat-sabatKu"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "sabat-sabatKu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "padha sucenake"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "pratandha"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ing antarané Aku"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "lan ing antarané kowe"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "supaya padha weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku iki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohome kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:13:12.568296545Z",
+  "model": "glm-5.3"
+}

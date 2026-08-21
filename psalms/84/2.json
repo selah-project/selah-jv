@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 84,
+  "translation": "Pancen endah banget padhewane-Mu, Yahweh Tzevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Pancen ... banget"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "endah banget \/ ditresnani"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "padhewane-Mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:57.044957669Z",
+  "model": "glm-5.3"
+}

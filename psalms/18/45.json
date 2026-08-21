@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Kanggo krungu kuping, padha ngrungokake marang aku; para anake wong manca padha pura-pura manut marang aku.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "kanggo krungu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para anake"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wong manca"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "pura-pura manut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:20.223227115Z",
+  "model": "glm-5.3"
+}

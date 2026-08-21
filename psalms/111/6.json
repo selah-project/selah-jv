@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 111,
+  "translation": "Kasektèning pakaryanipun sampun dipundhaftaraken dhateng umatipun, ingkang maringi dhateng piyambakipun lintuhing warisan saking para bangsa.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "kasektèning"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "pakaryanipun"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "sampun dipundhaftaraken"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "dhateng umatipun"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ingkang maringi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dhateng piyambakipun"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:57.675886306Z",
+  "model": "glm-5.3"
+}

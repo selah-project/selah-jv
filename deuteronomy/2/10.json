@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Wong Éim sadurungé iki padha manggon ing kana, bangsa gedhé lan cacahé akèh lan dhuwur ⟨kaya⟩ bangsa Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "wong Éim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "sadurungé iki"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "padha manggon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhé"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "lan cacahé akèh"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "lan dhuwur"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "kaya bangsa Anakim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:00.373198580Z",
+  "model": "glm-5.3"
+}

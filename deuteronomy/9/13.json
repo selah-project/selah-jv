@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Yahweh ngandika marang aku, munjuk: Aku wis ndeleng ⟨את⟩ bangsa iki, lan lah, bangsa atos gulu ⟨iya iku⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku wis ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "atos"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "gulu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iya iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:15.842930487Z",
+  "model": "glm-5.3"
+}

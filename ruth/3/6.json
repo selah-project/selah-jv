@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan dheweke mudhun menyang lantai panggilingan, sarta nindakake samuwa sing wis didhawuhake maratuwane.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "lan dheweke mudhun"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "lantai panggilingan"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "sarta nindakake"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "wis didhawuhake"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "maratuwane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:18.779256155Z",
+  "model": "glm-5.3"
+}

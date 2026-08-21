@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Akehi kayu, urubna geni, rampungna daginge, lan rampemna bumbu-bumbune, lan balunge kena kobong.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "akehi"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "urubna"
+    },
+    {
+      "surface": "האש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "התם",
+      "gloss": "rampungna"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daginge"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "lan rampemna"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "bumbu-bumbune"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "lan balunge"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "kena kobong"
+    }
+  ],
+  "timestamp": "2026-08-21T01:14:22.617717723Z",
+  "model": "glm-5.3"
+}

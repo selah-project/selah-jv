@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur sang prabu sumepata lan ngandika: Yahweh sing urip, sing wus ngluwari ⟨את⟩ awakku saka sarasah kabeh.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "sumepata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang prabu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sing urip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "wus ngluwari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awakku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "awakku"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka ... kabeh"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sarasah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:33.947779887Z",
+  "model": "glm-5.3"
+}

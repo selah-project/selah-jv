@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Kanaan nurunake ⟨את⟩ Tsidon, anak sulunge, lan ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Lan Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nurunake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anak sulunge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:30.833642108Z",
+  "model": "glm-5.3"
+}

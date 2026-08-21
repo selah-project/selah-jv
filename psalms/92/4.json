@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Ing dhuwure kithara sapuluh senar, lan ing dhuwure nebel, muni sumiliring gendhing karo kinira.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "kithara sapuluh senar"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "lan ing dhuwure"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "sumiliring gendhing"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "karo kinira"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:31.570382069Z",
+  "model": "glm-5.3"
+}

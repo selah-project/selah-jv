@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Aku bakal ngutus geni ing Yehudha, lan geni iku bakal ngonsumsi bètèng-bètèng Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "lan Aku bakal ngutus"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ing Yehudha"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "lan bakal ngonsumsi"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "bètèng-bètèng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:54.955288119Z",
+  "model": "glm-5.3"
+}

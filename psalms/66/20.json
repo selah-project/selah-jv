@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Pinuji Elohim, sing ora nyingkirake pangapunukku lan kasetyan-Né saka ⟨את⟩ aku.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "pinuji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nyingkirake"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pangapunukku"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "lan kasetyan-Né"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ saka aku",
+      "marks": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:45.329204525Z",
+  "model": "glm-5.3"
+}

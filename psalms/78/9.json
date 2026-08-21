@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Para putra Efrayim, sing nglungguhi busur panah, munjur ing dina perang.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "sing nglungguhi"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "panah saka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busur"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "munjur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "perang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:51.720872765Z",
+  "model": "glm-5.3"
+}

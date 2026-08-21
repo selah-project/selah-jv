@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Sapa kang ⟨duweku⟩ ing langit? Lan sira-siné ⟨karo⟩ kowé, ora dak-karepake ing bumi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kang duweku"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "lan sira-siné karo kowé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "dak-karepake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:01.445788301Z",
+  "model": "glm-5.3"
+}

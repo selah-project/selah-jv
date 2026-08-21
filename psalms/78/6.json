@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Supaya padha weruh bareng karo wong-wong ing kamulyan, para putra sing bakal lair, supaya maju muni marang para putrane.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "padha weruh"
+    },
+    {
+      "surface": "דור",
+      "gloss": "wong-wong ing kamulyan"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "sing tumut ing sapungkur"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "sing bakal lair"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "maju"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "lan muni"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "marang para putrane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:56.601347499Z",
+  "model": "glm-5.3"
+}

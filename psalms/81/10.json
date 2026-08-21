@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Ora ana ing kowé El sing ganjil, lan kowé ora ngangsu kawruh sumengker marang El saka bangsa liya —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing kowé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sing ganjil (asing)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "kowé ngangsu kawruh sumengker (ngarsapada)"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "marang El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "saka bangsa liya (aseng)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:42.275194631Z",
+  "model": "glm-5.3"
+}

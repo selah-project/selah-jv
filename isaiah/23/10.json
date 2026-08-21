@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lintasi negaramu kaya Kali Nil, è putri Tarshish — ora ana iket pinggang maneh.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Lintasi"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "negaramu"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "kaya-Kali-Nil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putri"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora-ana"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "iket-pinggang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:18.475036842Z",
+  "model": "glm-5.3"
+}

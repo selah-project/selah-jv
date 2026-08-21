@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 4:4",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan dheweke mulang aku, lan ngandika marang aku: Kendelana tembungku ing atimu, jagaa prentahku, lan uripa.",
+  "tokens": [
+    {
+      "surface": "וירני",
+      "gloss": "lan mulang aku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "kendelana nyekel"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembungku"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "jagaa"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "prentahku"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "lan uripa"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:55.501962693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Kanggo medar marang para putrané manungsa kakuwatèn-é, lan kamulyané kaendahané karaton-é.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "kanggo medar"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang para putrané"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "kakuwatèn-é"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "lan kamulyané"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "kaendahané"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karaton-é"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:33.304546909Z",
+  "model": "glm-5.3"
+}

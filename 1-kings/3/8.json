@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "lan abdi-Sampyan iki ana ing tengah-tengah bangsa-Sampyan sing Sampyan pilih, bangsa kang akeh, sing ora bisa dikétung lan ora bisa dikandhakake amarga gunggungé.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "lan abdi-Sampyan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengah-tengah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsa-Sampyan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "Sampyan pilih"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "bisa dikétung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bisa dikandhakake"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "amarga gunggungé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:11.113195387Z",
+  "model": "glm-5.3"
+}

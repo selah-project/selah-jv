@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Kowe dadi panggonan sumputku; saka sasaran kowe njagaku; karo tembang uluring pepécing bakal ngubengaku. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "panggonan sumput"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "saka sasaran"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "kowe njagaku"
+    },
+    {
+      "surface": "רני",
+      "gloss": "tembang uliring"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "pepécing"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "ngubengaku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:16.290107753Z",
+  "model": "glm-5.3"
+}

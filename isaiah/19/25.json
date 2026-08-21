@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Sing dilimpati berkah Yahweh Tzvaot, ngendika: Diberkahi umat-Ku Mitsrajim, lan gaweyan tangan-Ku Ashur, lan warisan-Ku Yisrael.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "dilimpati berkah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Diberkahi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "lan gaweyan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-Ku"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "lan warisan-Ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T00:35:30.301874790Z",
+  "model": "glm-5.3"
+}

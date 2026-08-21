@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 3:5",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan bakal kelakon: sapa wae sing ngundhang ing asma Yahweh bakal kaslametake, awit ing redi Tsiyon lan ing Yerushalayim bakal ana wong sing lolos, kaya sing wis dicaosake Yahweh, lan ing antarane wong-wong sing isih urip sing dipundhang dening Yahweh.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal kelakon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa wae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ngundhang"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bakal kaslametake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "lan ing Yerushalayim"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "wong sing lolos"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dicaosake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובשרידים",
+      "gloss": "lan ing antarane wong-wong sing isih urip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dipundhang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:31.183421361Z",
+  "model": "glm-5.3"
+}

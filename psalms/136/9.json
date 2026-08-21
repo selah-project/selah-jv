@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "⟨את⟩ rembulan lan lintang-lintang kanggo mréntah ing wengi, awit kasetyané langgeng salawasé.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rembulan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "rembulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "lan lintang-lintang"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "kanggo mréntah"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:01.121268205Z",
+  "model": "glm-5.3"
+}

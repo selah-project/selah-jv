@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kadadéan kaluwangan ing ⟨the⟩ bumi, sanadyan kaluwangan kapisan sing wis ana ing jamané Avraham; banjur Yitshak mangkat marang Avimelekh, ratuning Pelesytim, menyang Gerar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "kaluwangan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "sanadyan"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kaluwangan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wis ana"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ing jamané"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "banjur mangkat"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratuning"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesytim"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "menyang Gerar"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:56.833320010Z",
+  "model": "glm-5.3"
+}

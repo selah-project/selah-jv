@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Yaakov takon, lan mau: Cariyosna marga jenengmu; lan dheweke mau: Yagene kok kok takon marang jenengku? Lan dheweke ngetokake ⟨את⟩ Yaakov ing kono.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "lan Yaakov takon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan mau"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "cariyosna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "marga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jenengmu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dheweke mau"
+    },
+    {
+      "surface": "למה",
+      "gloss": "yagene"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kok"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "kok takon"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "marang jenengku"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "lan dheweke ngetokake berkah"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:06.613014861Z",
+  "model": "glm-5.3"
+}

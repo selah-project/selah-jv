@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Sang raja banjur bali lan teka nganti Yarden, lan Yehuda teka ing Gilgal, arep lumaku nemoni sang raja, kanggo ngliwatake ⟨את⟩ sang raja nglintasi ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "banjur bali"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "lan Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ing Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "arep lumaku"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "nemoni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kanggo ngliwatake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-21T04:03:16.268582481Z",
+  "model": "glm-5.3"
+}

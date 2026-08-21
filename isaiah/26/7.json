@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Dalane wong tulus iku lurus, dalan sing rata; O sing Mahalurus, padhamu dalane wong tulus.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "wong tulus"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "O sing Mahalurus"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "dalan sing rata"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong tulus"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "padhamu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:12.983376479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Ing Yahweh, Elohim-israyel, dheweke percaya, lan sawise dheweke ora ana sing kaya dheweke ing kabeh ratu-ratu Yehudha, uga ing antarane sing ana ing sadurunge.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "lan sawise-dheweke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kaya-dheweke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing kabeh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ratu-ratu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing-sadurunge"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:40.769945708Z",
+  "model": "glm-5.3"
+}

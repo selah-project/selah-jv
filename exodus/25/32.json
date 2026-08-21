@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 25:32",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan enem batang metu saka sisih-sisihe; telu batang kandhel saka sisihé siji, lan telu batang kandhel saka sisihé liyané.",
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "lan enem"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "batang"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "metu"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "saka sisih-sisihe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telu"
+    },
+    {
+      "surface": "קני",
+      "gloss": "batang"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "kandhel"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "saka sisihé"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "lan telu"
+    },
+    {
+      "surface": "קני",
+      "gloss": "batang"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "kandhel"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "saka sisihé"
+    },
+    {
+      "surface": "השני",
+      "gloss": "liyané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:18.414401119Z",
+  "model": "glm-5.3"
+}

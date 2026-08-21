@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 108,
+  "translation": "Sira tangi, ⟨⟨ing⟩⟩ nebel lan kinor; dakbangun ⟨⟉⟩ fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "sira tangi"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "lan kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "dakbangun"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:24.960952629Z",
+  "model": "glm-5.3"
+}

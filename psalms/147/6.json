@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Yahweh ngadegake ⟨the⟩ wong-wong alit, ngedhunake wong-wong aty-ty nganti bumi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "wong-wong alit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ngedhunake"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong aty-ty"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:12.098836008Z",
+  "model": "glm-5.3"
+}

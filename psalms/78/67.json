@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Banjur medhot busik ing kemah Yosef, lan ing suku Efrayim ora dipilih.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "medhot busik"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ing kemah"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "lan ing suku"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "dipilih"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:22.792562382Z",
+  "model": "glm-5.3"
+}

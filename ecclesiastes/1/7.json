@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kabeh kali-kali padha mili menyang segara, lan segara iku ora kena kebak; menyang panggonan pangendhané kali-kali iku mili, ing kana dhèwé padha bali mili manèh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "padha mili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "והים",
+      "gloss": "lan segara"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "pangendhané kali-kali"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "iku mili"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dhèwé"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "padha bali"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mili manèh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:36.297867915Z",
+  "model": "glm-5.3"
+}

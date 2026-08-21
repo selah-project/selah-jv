@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Aku mlaku ing dalaning ⟨saben⟩ bumi kabeh; mulane sira kedadeyan watak lan dadi wong lanang ⟨sira⟩.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mlaku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalaning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "lan sira kedadeyan watak"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "wong lanang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:23.529072717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Mizmor kanggo Dawid, kanggo ngenang.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "kanggo ngenang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:29.675960118Z",
+  "model": "glm-5.3"
+}

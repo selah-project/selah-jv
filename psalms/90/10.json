@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Dina-dina taune kita iku pitung puluh taun, lan manawa ing kaluwihan, wolung puluh taun; lan kaluwihane mung lelah lan lara, amarga kereng pinangkas, lan kita mabur.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Dina-dina"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "taune kita"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "iku"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitung puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan manawa"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ing kaluwihan"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "wolung puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "lan kaluwihane"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "lelah"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "lan lara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "גז",
+      "gloss": "pinangkas"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "kereng"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "lan kita mabur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:29.923033087Z",
+  "model": "glm-5.3"
+}

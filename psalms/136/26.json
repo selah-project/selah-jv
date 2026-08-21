@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Semedu marang El ⟨sang⟩ langit, awit kawelasané langgeng salawasé.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Semedu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "marang El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨sang⟩ langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kawelasané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:45.619181820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan aja padha nyisakake saka iku nganti ésuk; apa sing kari saka iku nganti ésuk, padha obongana ing geni.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "padha nyisakake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "lan apa sing kari"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "padha obongana"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:52.925278448Z",
+  "model": "glm-5.3"
+}

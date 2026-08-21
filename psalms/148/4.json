@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Pamujana Panjenengane, langit-langiting langit, lan banyu-bayu kang ing dhuwuring langit.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pamujana Panjenengane"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "langit-langiting"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "lan banyu-bayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ing dhuwuring"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:24.402791340Z",
+  "model": "glm-5.3"
+}

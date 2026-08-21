@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 133,
+  "translation": "Kaya embun Hermon ingkang tumurun ing redining gunung Tsiyon, awit nana Yahweh mrentah ⟨את⟩ berkah, urip nganti salami-lami.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Kaya embun"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ingkang tumurun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "redining gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nana"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "mrentah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berkah"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "salami-lami"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:27.599265899Z",
+  "model": "glm-5.3"
+}

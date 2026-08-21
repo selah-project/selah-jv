@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 127,
+  "translation": "Ndherek! Anak-anak iku ⟨warisan⟩ saka Yahweh, ⟨upah⟩ wohing siwah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ndherek"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "warisan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "upah"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "woh"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "siwah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:23.131092966Z",
+  "model": "glm-5.3"
+}

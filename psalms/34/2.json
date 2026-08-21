@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Aku ngastawa ⟨את⟩ Yahweh ing saben wektu; temen-temen pangalem-alemé ana ing cangkemku.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "aku ngastawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "temen-temen"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pangalem-alemé"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ing cangkemku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:01.697126410Z",
+  "model": "glm-5.3"
+}

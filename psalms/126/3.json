@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 126,
+  "translation": "Yahweh nindakake perkara agung marang kita; kita dadi bungah.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "nindakake perkara agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "kita dadi"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "bungah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:49.089181118Z",
+  "model": "glm-5.3"
+}

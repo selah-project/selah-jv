@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan panggonané ora bakal ngucap, Aku lara; umat sing manggon ing kono dosané kalilakungen.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "lan ora bakal"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "panggonané"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "Aku lara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "sing manggon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kalilakungen"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dosané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:01.012962861Z",
+  "model": "glm-5.3"
+}

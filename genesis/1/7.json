@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim gawe ⟨את⟩ reregement mau, lan misahake antarane banyu sing ing ngisor reregement karo banyu sing ing dhuwur reregement; lan dadi mengkono.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan gawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reregement mau"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "reregement mau"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "lan misahake"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ing ngisor"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "reregement"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "karo antarane"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "reregement"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:13.964620676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Panjenengan sampun maringi gendhera marang wong-wong kang wedi marang Panjenengan, supaya dhuwung kaunggulake, amarga saka kasetyan. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "sampun maringi"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "marang wong-wong kang wedi marang Panjenengan"
+    },
+    {
+      "surface": "נס",
+      "gloss": "gendhera"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "supaya dhuwung kaunggulake"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "kasetyan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:40.261609784Z",
+  "model": "glm-5.3"
+}

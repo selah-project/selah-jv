@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Padha njerit-njerit nanging ora ana juru-slamet; marang Yahweh, nanging Ora nampi sarira wong-wong mau.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "padha njerit-njerit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nanging ora ana"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "juru-slamet"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "nampi sarira wong-wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:57.872045862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Langkonge mengkono Syimi ngucapake nalika ngucia: Metua, metua, sira wong pangmbarahi getih, lan wong culas.",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "langkonne mengkono"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngucapake"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Syimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "nalika ngucia"
+    },
+    {
+      "surface": "צא",
+      "gloss": "metua"
+    },
+    {
+      "surface": "צא",
+      "gloss": "metua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "pangmbarahi getih"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan wong"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "culas"
+    }
+  ],
+  "timestamp": "2026-08-21T00:09:58.264846027Z",
+  "model": "glm-5.3"
+}

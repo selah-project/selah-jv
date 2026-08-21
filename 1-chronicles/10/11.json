@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan kabeh wong Yawes Gilad ngunandika ⟨את⟩ sakabehing kang diden dening wong Pelesyet marang Saul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ngunandika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh wong"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yawes"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "diden"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Pelesyet"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "marang Saul"
+    }
+  ],
+  "timestamp": "2026-08-21T03:20:54.755608905Z",
+  "model": "glm-5.3"
+}

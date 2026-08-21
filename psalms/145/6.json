@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Para wong bakal nyaritakake kasagedané praktak-Mu sing ngegregetaké, lan kaluhuran-Mu dak caritakna.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "kasagedané"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "praktak-Mu sing ngegregetaké"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakal nyaritakake (para wong)"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "lan kaluhuran-Mu"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "dak caritakna"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:29.152630778Z",
+  "model": "glm-5.3"
+}

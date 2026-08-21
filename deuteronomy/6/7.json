@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan kowe bakal ngulangake wewarah marang anak-anakmu, lan kowe bakal ngomongake iku, nalika kok lenggah ing omahmu, lan nalika kok tindak ana ing dalan, lan nalika kok turu, lan nalika kok tangi.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "lan kowe bakal ngulangake"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "marang anak-anakmu"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "lan kowe bakal ngomongake"
+    },
+    {
+      "surface": "בם",
+      "gloss": "iku"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "nalika kok lenggah"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ing omahmu"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "lan nalika kok tindak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ana ing dalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "lan nalika kok turu"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "lan nalika kok tangi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:25.250792605Z",
+  "model": "glm-5.3"
+}

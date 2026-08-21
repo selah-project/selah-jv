@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan panjenengané nulis ing kono, ing sandhuwuré watu-watuan, ⟨את⟩ tuliné Torat Moshe, kang panjenengané tulis ing ngarepe para putra Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nulis"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "watu-watuan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuliné Torat Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "tuliné"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "tulis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:52.797642537Z",
+  "model": "glm-5.3"
+}

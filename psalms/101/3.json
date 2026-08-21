@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 101,
+  "translation": "Ora daklehakaké ing sangarepé mripatku barang cidra; panggawéying wong ngliwat dakbenci, iku ora nglèrèk ing aku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "daklehakaké"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ing sangarepé"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "barang"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "cidra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "panggawé"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "wong ngliwat"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "dakbenci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "nglèrèk"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:37.530853947Z",
+  "model": "glm-5.3"
+}

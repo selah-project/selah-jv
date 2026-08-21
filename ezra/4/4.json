@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur wong ing lemah iku njalari kendho tangan-tangane bangsa Yehuda, lan nggeguwati ⟨את⟩ dheweke ing pangyasan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur kelakon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lemah iku"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "njalari kendho"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tangan-tangane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "lan nggeguwati"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ing pangyasan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:24:47.812465615Z",
+  "model": "glm-5.3"
+}

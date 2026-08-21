@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Bageyan kurban panjenengane — padha nyembelih daging lan mangan; Yahweh ora nampa ⟨π⟩. Saiki Panjenengane bakal éling kaluputané, lan bakal mréntahi ngukum dosa-dosané; dhèwèké bakal bali menyang Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "kurban-kurban"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "sing dakpersembahake"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "padha nyembelih"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "lan padha mangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "nampa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "bakal éling"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "kaluputané"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "lan bakal ngukum"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "dosa-dosané"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "menyang Mitsrayim"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bakal bali"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:50.097991717Z",
+  "model": "glm-5.3"
+}

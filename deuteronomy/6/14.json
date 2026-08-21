@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Aja kowe padha lumaku manut marang allah-allah liya, saka antarane allah-allahé bangsa-bangsa sing ana ing saubengé kowe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kowe padha lumaku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "manut marang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "allah-allah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liya"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "saka antarane allah-allahé"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ana ing saubengé kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:39.826250064Z",
+  "model": "glm-5.3"
+}

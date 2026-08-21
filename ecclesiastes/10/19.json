@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Kanggo guyon padha nggawe panganan, lan anggur nggawe seneng urip, lan salaka iku ngladeni ⟨את⟩ sabaré.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "kanggo guyon"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "padha nggawe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "panganan"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "lan anggur"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nggawe seneng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "lan salaka"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ngladeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabaré"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sabaré"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:57.397311816Z",
+  "model": "glm-5.3"
+}

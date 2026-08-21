@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Enem saka jeneng-jenenge ing ⟨the⟩ watu sing siji, lan ⟨את⟩ jeneng-jenenge sing enem kari ing ⟨the⟩ watu sing kapindho, miturut lahire dhewe.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "enem"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "saka jeneng-jenenge"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "watu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "sing siji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeneng-jenenge sing enem kari"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jeneng-jenenge"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "sing enem"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "kari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "watu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "sing kapindho"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "miturut lahire dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:14.470138331Z",
+  "model": "glm-5.3"
+}

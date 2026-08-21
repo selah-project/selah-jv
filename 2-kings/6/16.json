@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lanjur ngendika: Aja wedi, awit ingkang karo ⟨את⟩ kita langkung kathah katimbang ingkang karo ⟨את⟩ panjenenganipun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lanjur ngendika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "langkung kathah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ karo kita"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "katimbang ingkang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ karo panjenenganipun",
+      "marks": "panjenenganipun (wadya Aram)"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:58.676864320Z",
+  "model": "glm-5.3"
+}

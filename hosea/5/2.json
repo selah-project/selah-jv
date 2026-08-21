@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan wong-wong angkara wus ndalami panyembelihan, nanging Ingsun dadi dhisiplin tumrap kabeh.",
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "lan panyembelihan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wong-wong angkara"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "wus ndalami"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nanging Ingsun"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "dhisiplin"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "tumrap kabeh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:39.144355970Z",
+  "model": "glm-5.3"
+}

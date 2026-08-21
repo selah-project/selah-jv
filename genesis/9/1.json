@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Elohim nberkati ⟨את⟩ Noh lan ⟨את⟩ anake-anake, banjur Dheweke matur marang dheweke: Padha ndadakake turunan akeh lan padha perbayaaké, lan padha ngebaki ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "lan nberkati"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anake-anake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake-anake"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur matur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "padha ndadakake turunan"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "lan padha perbayaaké"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "lan padha ngebaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:54.018392847Z",
+  "model": "glm-5.3"
+}

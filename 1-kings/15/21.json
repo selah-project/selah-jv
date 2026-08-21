@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan kadadéyan, bareng Baasa krungu mangkono, banjur ngenti-nenti yasa ⟨את⟩ Rama, lan manggon ana ing Tirtsah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéyan"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "bareng krungu"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "banjur ngenti-nenti"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "ana ing Tirtsah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:05:03.173540401Z",
+  "model": "glm-5.3"
+}

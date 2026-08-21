@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur Aku — Yahweh — bakal ndadekake rai-K nglawan wong iku lan marang kulawargane, lan Aku bakal ngetokake ⟨את⟩ sarta ⟨את⟩ kabeh sing mesum nututi dheweke, mesum nututi Molokh, saka tengahing bangsane.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Aku ndadekake"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rai-K"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rai-K"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "nlawan wong iku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "lan marang kulawargane"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "lan Aku ngetokake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "sing mesum"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nututi dheweke"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "kanggo mesum"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nututi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molokh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "saka tengahing"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bangsane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:09.245623287Z",
+  "model": "glm-5.3"
+}

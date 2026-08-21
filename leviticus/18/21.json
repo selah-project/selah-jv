@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan saka wetedanmu aja kokaringake kanggo diarahake marang Molekh, lan aja njijiki ⟨את⟩ asma Elohim — aku iki Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "lan saka wetedanmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kokaringake"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kanggo diarahake (ngliwatake)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang Molekh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "njijiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma Elohim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:20.231966731Z",
+  "model": "glm-5.3"
+}

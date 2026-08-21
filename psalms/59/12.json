@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Aja Paduka pateni dheweke, supaja ummat kula ora lali; goyangaken dheweke kalayan kakuwatan Paduka, lan cethakaken dheweke — tameng kula, Adonai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "pateni dheweke"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaja ora"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "lali"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ummat kula"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "goyangaken dheweke"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "kalayan kakuwatan Paduka"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "lan cethakaken dheweke"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "tameng kula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.084662939Z",
+  "model": "glm-5.3"
+}

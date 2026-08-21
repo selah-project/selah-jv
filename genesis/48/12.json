@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Banjur Yosef ngetokake ⟨את⟩ awake saka ing antarane dhengkule, lan dheweke sujud nganggo raine marang bumi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "banjur ngetokake"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "awake (anak-anake)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "saka ing antarane"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "dhengkule"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "lan sujud"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "nganggo raine"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "marang bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:53.372239156Z",
+  "model": "glm-5.3"
+}

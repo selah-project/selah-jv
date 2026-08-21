@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 56,
+  "translation": "Pangunggasanku kowé wis ngétung; denana tangiséku ing wadhahmu; apa ora ing kitabmu?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "pangunggasanku"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "kowé wis ngétung"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "denana"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "tangiséku"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "ing wadhahmu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "ing kitabmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:07.550864566Z",
+  "model": "glm-5.3"
+}

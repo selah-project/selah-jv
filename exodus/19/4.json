@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Kowe ⟨dhewe⟩ wis ndeleng apa sing Ingsun lakoni marang Mitsrayim, lan Ingsun angkat kowe ⟨את⟩ ing siriping manuk er, lan Ingsun atur kowe ⟨את⟩ marang Ingsun.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "wis ndeleng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apa sing"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Ingsun lakoni"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "marang Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "lan Ingsun angkat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "siriping"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "manuk er"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "lan Ingsun atur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang Ingsun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:26.722989377Z",
+  "model": "glm-5.3"
+}

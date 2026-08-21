@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sing wicakana ing ati nampa préntah-préntah, lan sing bodho lambe bakal tiba.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "wicakana"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "nampa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "préntah-préntah"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "lan sing bodho"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lambe"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "bakal tiba"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:59.489320360Z",
+  "model": "glm-5.3"
+}

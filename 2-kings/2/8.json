@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur Elia mundhut ⟨את⟩ jubahipun, digulung, lan nggebug ⟨את⟩ banyu; banjur banyu kuwi belah menyang kene lan menyang kana, saperi kekarone padha nyebrang ing dharatan garing.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mundhut"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jubahipun"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "jubahipun"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "digulung"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "nggebug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "belah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "menyang kene"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan menyang kana"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "padha nyebrang"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kekarone"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "ing dharatan garing"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:49.234394475Z",
+  "model": "glm-5.3"
+}

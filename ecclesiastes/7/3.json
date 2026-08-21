@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Susah luwih becik katimbang guyu, awit sarining rai gawe beciking ati.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "susah"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "katimbang guyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sarining"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "gawe beciking"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:55.710657755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Ndicurake pandrangi marang para panggedhe, lan ngaburake ⟨את⟩ padha ing satanah-tanah tanpa wujud — ora ana dalan.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ndicurake"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "pandrangi"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "lan ngaburake padha"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "ing satanah-tanah tanpa wujud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ana dalan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:02.758407070Z",
+  "model": "glm-5.3"
+}

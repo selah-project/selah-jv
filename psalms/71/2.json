@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Kalintuwamu ngluwari aku lan ngluputake aku; condhakna talinganmu marang aku, lan wènèhana slamet aku.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Kalintuwamu"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "ngluwari aku"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "lan ngluputake aku"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "condhakna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "talinganmu"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "lan wènèhana slamet aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:38.090314237Z",
+  "model": "glm-5.3"
+}

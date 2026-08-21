@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan padha gawé ⟨את⟩ efod: emas, jaka biru, lan wungu, ulat-the-abrit, lan linen-kajait — gawéaning pangraja",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "lan padha gawé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "jaka biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "lan wungu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "the-abrit"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kajait"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawéaning"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "pangraja"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:37.524200881Z",
+  "model": "glm-5.3"
+}

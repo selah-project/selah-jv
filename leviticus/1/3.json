@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Menawa kurban obongane saka ing sapi, lanang tanpa cacat, dheweke kudu ngaturake; ing lawanging kemah pasamuyan dheweke ngaturake ⟨את⟩ iku supaya katarima ing ngarsane Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kurban obong"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbané"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka ing"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanpa cacat"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "dheweke kudu ngaturake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuyan"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "dheweke ngaturake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "supaya katarima"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:37.136291418Z",
+  "model": "glm-5.3"
+}

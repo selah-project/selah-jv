@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Kaku amarga ngeluhku; saben wengi tak kelem runganku, karolusanku tak leremake dhamparanku.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Kaku"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "amarga ngeluhku"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "tak kelem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "runganku"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "karo lusanku"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "dhamparanku"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "tak leremake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:51.452891167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Eli kawula, Eli kawula, kok ndadekake papisah kawula punapa? Adoh saka pitulun kawula, sanadyan sabda-sabda ngumbe kawula.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El kawula"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El kawula"
+    },
+    {
+      "surface": "למה",
+      "gloss": "punapa"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "kowe ndadekake papisah kawula"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "saka pitulun kawula"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sabda-sabda"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ngumbe kawula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:36.066541412Z",
+  "model": "glm-5.3"
+}

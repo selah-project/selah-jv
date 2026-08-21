@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Layar Yaakov wus rampung paring parentah marang ⟨את⟩ anak-anake, banjur ngumpulake sikile menyang pasarean, lajer pati, lan kaji disathrilake marang umate.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "layar wus rampung"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "paring parentah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ngumpulake"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "pasarean"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "lajer pati"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "disathrilake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "umate"
+    }
+  ],
+  "timestamp": "2026-08-20T22:55:54.124224261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur Dawid ngandika: Apa para panggedhe Qeila bakal nyerahake ⟨את⟩ aku lan ⟨את⟩ wong-wongku ing tangan Shaul? Lan Yahweh ngandika: Bakal diserahake.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Banjur ngandika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Apa bakal nyerahake"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong-wongku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wong-wongku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing tangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Bakal diserahake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:35.441575149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan Aku bakal lumaku-lumaku ana ing tengah-tengahmu, lan Aku bakal dadi Elohimmu, lan kowe bakal dadi umat-Ku.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "lan Aku bakal lumaku-lumaku"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ing tengah-tengahmu"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "lan Aku bakal dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "dadi Elohim"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lan kowe"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "umate-Ku"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "dadi umat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:12.045017543Z",
+  "model": "glm-5.3"
+}

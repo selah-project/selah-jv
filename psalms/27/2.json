@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Nalika wong-wong ala cedhak marang aku arep mangan ⟨את⟩ dagingku — mungsuhku lan setruhku — dhèwèké padha tiba lan dhèrèmplok.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "nalika cedhak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "arep mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingku"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "lan setruhku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "padha dhèrèmplok"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "lan tiba"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:19.354780383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Paroh ndadekake ⟨את⟩ atine abot maneh ing kali iki, lan ora ngutus ⟨את⟩ umat iku.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "Lan ndadekake abot"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atine"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ing kali"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:01.696325286Z",
+  "model": "glm-5.3"
+}

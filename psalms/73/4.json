@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Sebab ora ana belenggu ing patihe, lan awaké padha montok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "belenggu"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "ing patihe"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "lan awaké padha montok"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "kuwat"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:39.826115051Z",
+  "model": "glm-5.3"
+}

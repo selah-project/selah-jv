@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Napa Ora Elohim ngleliti iki? Awit ⟨panjenengane⟩ mangerteni sing kasamaran ing sajroning ati.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "napa ora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ngleliti"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨panjenengane⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mangerteni"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "sing kasamaran"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:21.924885233Z",
+  "model": "glm-5.3"
+}

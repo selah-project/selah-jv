@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lah Betsalel gawé ⟨את⟩ peti iku saka kayu wit akasia: dawa rong asta setengah, lan ambane saka asta setengah, lan dhuwure saka asta setengah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peti iku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti iku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wit akasia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "rong asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dawa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "saka asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ambane"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "saka asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "setengah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dhuwure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:41.074219511Z",
+  "model": "glm-5.3"
+}

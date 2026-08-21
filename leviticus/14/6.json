@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 14:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "⟨את⟩ Manuk urip iku dijupuk ⟨את⟩-é, lan ⟨את⟩ kayu aras, lan ⟨את⟩ benang abrit kolat, lan ⟨את⟩ isop, lan dicelup bareng ⟨את⟩-é lan ⟨את⟩ manuk urip iku ing getihing manuk sing wis disembelih, ing dhuwur banyu sing urip.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk urip"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "urip"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩-é",
+      "marks": "manuk urip"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kayu aras"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "aras"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "benang abrit kolat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "abrit kolat"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "saka kolat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "isop"
+    },
+    {
+      "surface": "האזב",
+      "gloss": "isop"
+    },
+    {
+      "surface": "וטבל",
+      "gloss": "lan dicelup"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-é kabeh",
+      "marks": "kayu aras, benang, isop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "manuk urip"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "urip"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ing getihe"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "השחטה",
+      "gloss": "sing disembelih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sing urip"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:36.134268037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "lan ⟨את⟩ Bosmath putrine Yishmael, sadhérine Nebayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrine"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sadhérine"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayot"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:47.634672951Z",
+  "model": "glm-5.3"
+}

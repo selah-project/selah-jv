@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Banjur Yitshak ngutus ⟨את⟩ Yaakov, lan ⟨ה⟩ lunga menyang Padan-Aram, marang Laban putrane Betuel ⟨sang⟩ Aram iku, sedulure Ribkah, ibune Yaakov lan Esau.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan lunga"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "⟨sang⟩ Aram iku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedulure"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribkah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "lan Esau"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:24.673871104Z",
+  "model": "glm-5.3"
+}

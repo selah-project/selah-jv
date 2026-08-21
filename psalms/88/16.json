@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Aku nandhang sengsara, aku saora-orane mati awit saka enom-Ku; aku ngentosi girising-Paduka, aku bingung kaliren.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "nandhang sengsara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "saora-orane mati"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "awit saka enom-Ku"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ngentosi"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "girising-Paduka"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "bingung kaliren"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:53.297168529Z",
+  "model": "glm-5.3"
+}

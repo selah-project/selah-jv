@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Ing dina iku bakal ana Tunas Yahweh kanggo kakusukan lan kamulyan, lan wohing bumi kanggo kaluhuran lan kamulyaning sing padha kaslametake saka Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Tunas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "kanggo kakusukan"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "lan kamulyan"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "lan wohing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "kanggo kaluhuran"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "lan kamulyananing"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "sing padha kaslametake saka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:18.456999587Z",
+  "model": "glm-5.3"
+}

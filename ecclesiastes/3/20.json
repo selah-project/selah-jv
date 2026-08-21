@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sadaya tumuju dhateng papan ingkang satunggal; sadaya ⟨⟨dumadi⟩⟩ saking lebu, lan sadaya wangsul dhateng lebu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "tumuju dhateng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "papan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ingkang satunggal"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨dumadi⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saking"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "lebu"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "lan sadaya"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wangsul dhateng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhateng"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "lebu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:18.956807208Z",
+  "model": "glm-5.3"
+}

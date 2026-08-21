@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Yen srengenge wis suminar ing dhuwure, ana tanggelan getih tumrape; wajib mbayar klumpuk; yen ora duwe apa-apa, banjur didol minangka tetesing cidrané.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yen"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "wis suminar"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengenge"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "tanggelan getih"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tumrape"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "mbayar klumpuk"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "wajib mbayar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora duwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "apa-apa"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "banjur didol"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "minangka tetesing cidrané"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:14.138437105Z",
+  "model": "glm-5.3"
+}

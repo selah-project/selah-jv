@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Kanggo pangempuning pasamuwan, kalawan piranti gesek senar, miturut swara kawolulas, mazmur kagungané Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangempuning pasamuwan"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "kalawan piranti gesek senar"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "swara kawolulas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagungané Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:09.538264603Z",
+  "model": "glm-5.3"
+}

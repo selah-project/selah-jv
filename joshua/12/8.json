@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "ing redi, ing jebluk (slopé), ing Araba, ing léréning redi, ing padhang pasir, lan ing Negèv — wong Het, wong Emori, wong Kenaan, wong Perizi, wong Hewi, lan wong Yevusi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "lan ing jebluk"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "lan ing Araba"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "lan ing léréning redi"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "lan ing padhang pasir"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "lan ing Negèv"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "wong Het"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "lan wong Kenaan"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "wong Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "wong Hewi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "lan wong Yevusi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:51.870238235Z",
+  "model": "glm-5.3"
+}

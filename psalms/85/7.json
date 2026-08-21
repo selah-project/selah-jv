@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Apa ora Duh bali mulih, Duh nguripake kawula maneh, supaya umatMu padha bungah ing Panjenengan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Apa ora"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Duh"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bali mulih"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "nguripake kawula maneh"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "supaya umatMu"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "padha bungah"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing Panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:13.425338765Z",
+  "model": "glm-5.3"
+}

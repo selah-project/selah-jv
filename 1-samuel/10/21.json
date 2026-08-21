@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur dheweke ngcedakake ⟨את⟩ suku Benjamin miturut kluwargane, lan kluwarga Matri kapilih, lan Shaul bin Kish kapilih; lan padha nggoleki dheweke, nanging ora tinemu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ngcedakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku Benjamin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "miturut kluwargane"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "kapilih"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kluwarga"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "Matri"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "kapilih"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kish"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "padha nggoleki dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tinemu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:30.943107793Z",
+  "model": "glm-5.3"
+}

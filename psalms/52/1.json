@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Kanggo pangripta tembang, gita panglipur, kagaweane Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangripta tembang"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "gita panglipur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagaweane Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:45.116343038Z",
+  "model": "glm-5.3"
+}

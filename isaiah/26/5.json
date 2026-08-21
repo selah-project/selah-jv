@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Sebab ⟨הו⟩ angrendahake para sing padha manggon ing dhuwur, kutha dhuwur sangar; direndahake, direndahake nganti tekan bumi, digawa mudhun nganti tekan awu lebu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "השח",
+      "gloss": "angrendahake"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "para sing manggon"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "dhuwur sangar"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "direndahake"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "direndahake"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "digawa mudhun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lebu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:12.983014661Z",
+  "model": "glm-5.3"
+}

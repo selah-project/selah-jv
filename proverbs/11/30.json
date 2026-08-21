@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Wohé wong tulus iku kayu urip, lan sing nduwèni kawruh nyelametake nyawa iku wong wicara.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "woh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong tulus"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "lan sing njupuk"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nyawa-nyawa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wicara"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:30.443328605Z",
+  "model": "glm-5.3"
+}

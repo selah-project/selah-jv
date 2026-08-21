@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Wong sing ngrampok bapakné lan ibuné lan ngendika 'ora ana dosa', awake iku kanca wong sing ngrusak.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "ngrampok"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "lan ibuné"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "kanca"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "awake"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "sing ngrusak"
+    }
+  ],
+  "timestamp": "2026-08-21T02:19:28.609124832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ⟨את⟩ para ratu kabeh iki sarta ⟨את⟩ bumihe kabeh ditamkake Yehosyua saubetung, amarga Yahweh, Elohime Yisrael, perang kanggo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para ratu kabeh iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumihe"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "bumihe"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ditamkake"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "saubetung"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kanggo Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:23.392743949Z",
+  "model": "glm-5.3"
+}

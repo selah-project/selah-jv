@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Asa sang raja njupuk ⟨את⟩ bala Yehuda kabèh, lan padha nggendheti ⟨את⟩ watu-watu Rama sarta ⟨את⟩ kayuné sing Baasa yasa, lan nganggo iku ngadegaké ⟨את⟩ Geba lan ⟨את⟩ Mitspa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Lan Asa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bala Yehuda kabèh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "lan padha nggendheti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu-watu Rama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "watu-watu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kayuné"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "kayuné"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "lan ngadegaké"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nganggo iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Mitspa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    }
+  ],
+  "timestamp": "2026-08-21T03:39:09.519339246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan Akhis munjuk, \"Apa kowe ora ngrampok dina iki?\" Lan Dawid munjuk, \"Ing ngidule Yehudha, lan ing ngidule wong Yerahmeel, lan ing ngidule wong Keni.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akhis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "kowé ngrampok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ngidul"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ngidul"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "wong Yerahmeel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ngidul"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "wong Keni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:07.128837245Z",
+  "model": "glm-5.3"
+}

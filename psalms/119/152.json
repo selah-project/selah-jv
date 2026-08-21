@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Wiwit biyen aku wis weruh sakadene pasaksianmu, yèn kowé wis madhegake nganti sa salawasé.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "wiwit biyen"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku wis weruh"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "sakadene pasaksianmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nganti sa salawasé"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "kowé wis madhegake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:35.767203537Z",
+  "model": "glm-5.3"
+}

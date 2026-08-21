@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Adonai, kabeh karepku ana ing ngarsa-Paduka, lan ngédanku ora kasumelen saking Paduka.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ing-ngarsa-Paduka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "karepku"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "lan-ngédanku"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saking-Paduka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "kasumelen"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:35.228995158Z",
+  "model": "glm-5.3"
+}

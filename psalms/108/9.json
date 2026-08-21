@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 108,
+  "translation": "Gilad ⟨iku⟩ duweku, Menashshe duweku; Efrayim bètènging sirahku, Yehudah juru ukumku.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "duweku"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "duweku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "bètèng"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirahku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "juru ukumku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:31.108902469Z",
+  "model": "glm-5.3"
+}

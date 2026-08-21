@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sebab dakunggahake sira saka bumi Mitsrayim, lan saka batureving abdi dakbusakake sira; dakutus ana ing ngarepmu ⟨את⟩ Moshe, Aharon, lan Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "dakunggahake sira"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "lan saka batureving"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "dakbusakake sira"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "dakutus"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ana ing ngarepmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "lan Miryam"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:22.556721004Z",
+  "model": "glm-5.3"
+}

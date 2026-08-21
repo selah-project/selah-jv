@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan bakal ana nalikane kowé wis ngliwati ⟨את⟩ Yarden, kowé ngadegake ⟨את⟩ watu-watu iki sing dakpréntahkan ⟨את⟩ marang kowé ing dina iki, ing redi Eybal; lan kowé nyirami ⟨את⟩ nganggo lethong.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal ana"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "nalikane kowé ngliwati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "kowé ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu-watu iku"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "watu-watu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "dakpréntahkan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ marang kowé"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dina iki"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eybal"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "lan kowé nyirami"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "watu-watu iku"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "nganggo lethong"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:06.097889716Z",
+  "model": "glm-5.3"
+}

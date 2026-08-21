@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 111,
+  "translation": "Kamulyan lan kaluhuran pakaryané, lan kaluhuring pangkaté kamanunggalané ngadeg salawasé.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "lan kaluhuran"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "pakaryané"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "lan kaluhuring pangkaté kamanunggalané"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "salawasé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:12.472280177Z",
+  "model": "glm-5.3"
+}

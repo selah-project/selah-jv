@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Yahweh mirsani bilih Lea dibencèni, banjur mbukak ⟨את⟩ rahime; nanging Rachel mandhul.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bilih"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "dibencèni"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mbukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahime"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "rahime"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "nanging Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mandhul"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:48.762690863Z",
+  "model": "glm-5.3"
+}

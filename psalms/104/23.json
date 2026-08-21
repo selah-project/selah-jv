@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Manungsa metu menyang pakaryane, lan menyang pangabektine, nganti surupe sore.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "menyang pakaryane"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "lan menyang pangabektine"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "surupe sore"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:55.888078329Z",
+  "model": "glm-5.3"
+}

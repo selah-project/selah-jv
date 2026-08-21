@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan nalika ia ngina ⟨את⟩ Israil, Yehonatanan putrane Simea sedulure Dawid mateni piyambakipun.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "ngina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "mateni piyambakipun"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Simea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedulure"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T03:25:08.312924872Z",
+  "model": "glm-5.3"
+}

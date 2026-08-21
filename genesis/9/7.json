@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Dene kowé padha nglairake lan ngundhakake; padha ngrembaka ing bumi, lan ngundhakake ing kono.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Dene kowé padha"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "padha nglairake"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "lan padha ngundhakake"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "padha ngrembaka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "lan padha ngundhakake"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:30.663426528Z",
+  "model": "glm-5.3"
+}

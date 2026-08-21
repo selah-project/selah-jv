@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dhèwèké padha njupuk ⟨את⟩ sakabèhé bandha Sedom lan Amora, lan ⟨את⟩ sakabèhé panganané, banjur padha mangkat.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lan padha njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhé bandha Sedom lan Amora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "bandha"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "וועמרה",
+      "gloss": "lan Amora",
+      "note": "surface dituduhaké ועמרה"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhé panganané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "panganané"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lan padha mangkat"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:50.231618344Z",
+  "model": "glm-5.3"
+}

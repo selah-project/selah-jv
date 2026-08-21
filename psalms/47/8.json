@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Sebab ratu ing sadengah bumi ⟨iku⟩ Elohim; pujilah kanthi wragad pangertèn.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pujilah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "kanthi wragad pangertèn"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:11.633690818Z",
+  "model": "glm-5.3"
+}

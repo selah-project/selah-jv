@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 79,
+  "translation": "Wisku ngetokake getihe kaya banyu ing sekeliling Yerushalayim, lan ora ana sing nguburake.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "wisku ngetokake"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ing sekeliling"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "sing nguburake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:22.855058546Z",
+  "model": "glm-5.3"
+}

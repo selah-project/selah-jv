@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Wong iku ngunggulké kereta, lan wong iku ngunggulké jaran; nanging kita mengeti asma Yahweh, Elohim kita.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ngunggulké kereta"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "lan wong iku"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "ngunggulké jaran"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nanging kita"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "mengeti"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:25.643898081Z",
+  "model": "glm-5.3"
+}

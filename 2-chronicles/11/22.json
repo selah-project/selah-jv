@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 11:22",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Rehabeam ngadegake ⟨את⟩ Aviya putrane Maakaha dadi pangulu ing antarane sedulur-sedulure, supaya ⟨dheweke⟩ nganjurake dadi ratu.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "lan ngadegake"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "dadi pangulu"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakaha"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "dadi panggedhe"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "ing antarane sedulur-sedulure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "nganjurake dadi ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:34:38.490648707Z",
+  "model": "glm-5.3"
+}

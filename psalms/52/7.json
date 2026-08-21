@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Uga El bakal ngruntuhake kowé salawasé, njupuk kowé, lan nyolot kowé saka kemahmu, lan mbedhah oyodmu saka bumi urip. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "bakal ngruntuhake kowé"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "njupuk kowé"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "lan nyolot kowé"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "saka kemah"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "lan oyodmu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:28.952112231Z",
+  "model": "glm-5.3"
+}

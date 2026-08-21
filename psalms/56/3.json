@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 56,
+  "translation": "Mungsuhku ngirup-nirup kabeh sedina, awit kang akeh perang nglawan aku, dhuh Kang Mahaluhur.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ngirup-nirup"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sedina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "kang akeh"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "perang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nglawan aku"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Kang Mahaluhur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:27.971486278Z",
+  "model": "glm-5.3"
+}

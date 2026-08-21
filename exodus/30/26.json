@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan kowe bakal ngurapi mawa iku ⟨את⟩ kemah pasamuwan lan ⟨את⟩ peti pasaksian.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "lan kowe bakal ngurapi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mawa iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah pasamuwan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "peti pasaksian"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pasaksian"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:04.652708761Z",
+  "model": "glm-5.3"
+}

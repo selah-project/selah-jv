@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Yahweh nindakake mengkono, lan roeng-roeng abot teka nuju omahé Paroh lan omah para abdiné, lan ing sakèhé tanah Mitsrayim bumi iku rusak amargani roeng-roeng iku.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan ... nindakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan ... teka"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "roeng-roeng"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "abot"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "nuju omahé"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "lan omah"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdiné"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan ing sakèhé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "bakal rusak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amargani"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "roeng-roeng iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:46.229541751Z",
+  "model": "glm-5.3"
+}

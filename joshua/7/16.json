@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Banjur Yehosua bangun esuk-esuk, banjur nyepakake ⟨את⟩ Israel miturut suku-sukune, lan suku Yehudha kasil dilakad.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "bangun esuk-esuk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing wayah esuk"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "banjur nyepakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "miturut suku-sukune"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "banjur kasil dilakad"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:17.703930059Z",
+  "model": "glm-5.3"
+}

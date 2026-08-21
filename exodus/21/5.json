@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan yen abdine tembung ngucapa: Kula tresna marang ⟨את⟩ bendara kula, ⟨את⟩ garwa kula lan ⟨את⟩ anak-anak kula; kula ora arep metu dadi wong merdika.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lan yen"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngucapa"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "abdine"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "Kula tresna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bendara kula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendara kula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garwa kula"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "garwa kula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anak-anak kula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak kula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "arep metu"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "dadi wong merdika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:17.207380832Z",
+  "model": "glm-5.3"
+}

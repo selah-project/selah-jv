@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Nanging kowe ngombeni ⟨את⟩ para nazir nganggo anggur, lan marang para nabi kok prentahake, munjuk: Aja padha lanthik.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "Nanging kowe ngombeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nazir"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "para nazir"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "kok prentahake"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "padha lanthik"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:42.429919937Z",
+  "model": "glm-5.3"
+}

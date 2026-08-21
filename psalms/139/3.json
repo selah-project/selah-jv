@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Aku mlakune lan sumbere Paduka ndhedher, sarta kaluring kabeh ana ing sangarepe Paduka.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Aku mlakune"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "lan sumbere"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "Paduka ndhedher"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta kaluring kabeh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "loriku"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ana ing sangarepe Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:03.912522932Z",
+  "model": "glm-5.3"
+}

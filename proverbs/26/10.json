@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Kang akeh nglunturi ⟨saben⟩ benda, ⟨iku uga⟩ nambaki bodho lan nambaki wong-wong sing ngliwati.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Kang akeh"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "nglunturi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨saben⟩ benda"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "lan nambaki"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "bodho"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "lan nambaki"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "wong-wong sing ngliwati"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:36.930979054Z",
+  "model": "glm-5.3"
+}

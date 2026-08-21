@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Ngelak jiwané awakku marang Elohim, marang El kang urip; kapan aku bakal teka lan ngarsa marang rahing Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ngelak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwané awakku"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "marang El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kang urip"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aku bakal teka"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "lan mirsani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rahing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:06.112033419Z",
+  "model": "glm-5.3"
+}

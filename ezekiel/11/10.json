@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Ing pedhang sira bakal tiba; ing watesing Yisrael Aku ngadili ⟨את⟩ sira, lan sira bakal weruh yèn Aku ⟨⟨iku⟩⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "ing pedhang"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "sira bakal tiba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "Aku ngadili"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "lan sira bakal weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:10:03.438397601Z",
+  "model": "glm-5.3"
+}

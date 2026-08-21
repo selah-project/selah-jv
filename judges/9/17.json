@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "(amarga bapakku paperangan kanggo kowé, lan nguncalake ⟨את⟩ nyawané ana ing ngarep, lan nylametake ⟨את⟩-kowé saka tangané Midyan;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "paperangan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapakku"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kanggo kowé"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "lan nguncalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawané"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawané"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ana ing ngarep"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "lan nylametake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-kowé",
+      "marks": "kowé"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:21.860959414Z",
+  "model": "glm-5.3"
+}

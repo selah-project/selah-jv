@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Sajatinipun, Yahweh, raja-raja Assur sampun ngrisak ⟨את⟩ para bangsa lan ⟨את⟩ nagarinipun.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "sajatinipun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "sampun ngrisak"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja-raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para bangsa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "nagarinipun"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nagarinipun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:55.203102287Z",
+  "model": "glm-5.3"
+}

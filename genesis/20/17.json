@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur Avraham ndedonga marang ⟨ha⟩-Elohim, lan Elohim nambani ⟨את⟩ Avimelekh lan ⟨את⟩ bojone sarta para abedine wadon, banjur padha nglairake.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "banjur ndedonga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ha⟩-Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "lan nambani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bojone"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "sarta para abedine wadon"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "banjur padha nglairake"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:37.733397933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan iki bakal dadi kalenane ana ing mendheme: yen sanuburé ngelehake ⟨את⟩ mendheme, utawa sanuburé katutup saka mendheme, iku kalenane iku.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "kalenane"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "ana ing mendheme"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ngelehake"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sanuburé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mendheme"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "mendheme"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "katutup"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sanuburé"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "saka mendheme"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "kalenane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:28.734561507Z",
+  "model": "glm-5.3"
+}

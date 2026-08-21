@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Engkau maringi aku tamèng kaslametan-Mu, lan astané tengen nyengkuyung aku, lan kalêmahan-Mu nambahi aku kaluhuran.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Lan Engkau maringi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tamèng"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "kaslametan-Mu"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "lan astané tengen-Mu"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "nyengkuyung aku"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "lan kalêmahan-Mu"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "nambahi aku kaluhuran"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:27.263570988Z",
+  "model": "glm-5.3"
+}

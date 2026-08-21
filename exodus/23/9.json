@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan bocah mangsan ora kokpenes-penes, awit kowé padha weruh dhéwé ⟨את⟩ jiwané sang mangsa, amarga dadi mangsa kowé padha ing bumi Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Lan bocah mangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "kokpenes-penes"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lan kowé padha"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "padha weruh dhéwé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwané sang mangsa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sang mangsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "dadi mangsa"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kowé padha dadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:54.463054533Z",
+  "model": "glm-5.3"
+}

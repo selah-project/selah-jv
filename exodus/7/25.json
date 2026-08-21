@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Laku pitu dina wis kebak sawise Yahweh nglambrangake ⟨את⟩ kali.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "wis kebak"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "nglambrangake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kali"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kali"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:36.390872524Z",
+  "model": "glm-5.3"
+}

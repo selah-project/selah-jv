@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan ora bakal ana panggawean tumrap Mesir, sing bisa ditindakake sirah utawa buntut, godhong lontar utawa wlingi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "tumrap Mesir"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "panggawean"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bisa ditindakake"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "utawa buntut"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "godhong lontar"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "utawa wlingi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:31.677258334Z",
+  "model": "glm-5.3"
+}

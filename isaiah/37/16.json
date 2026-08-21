@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Yahweh Tsebaot, Elohire Israèl, sing lenggah ing sangadha para kerub: Kowe ⟨iya⟩ ⟨iku⟩ Allah, piyambakmu wae, ing sakabehing karaton bumi; kowe ⟨iya⟩ sing gawe ⟨את⟩ langit lan ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohire"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sing lenggah"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "para kerub"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Allah"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "piyambakmu wae"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ing sakabehing"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sing gawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:27.016432765Z",
+  "model": "glm-5.3"
+}

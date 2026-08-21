@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan bumi iku ngetokake tetanduran thukul, suket sing ngemot wiji miturut jinise, lan wit sing nggawe woh sing wijine ana ing jeroné, miturut jinise; lan Elohim mirsani manawa iku becik.",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "lan ngetokake"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "tetanduran thukul"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "suket"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "sing ngemot wiji"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "wiji"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "miturut jinise"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "lan wit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sing nggawe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "woh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "wijine"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing jeroné"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "miturut jinise"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan mirsani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:14.495115563Z",
+  "model": "glm-5.3"
+}

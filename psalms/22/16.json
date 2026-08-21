@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Kakuwatanku garing kaya pecahan bathang, lan ilatku nèmpèl ing rahangku; lan ing lebu pati Panjenengan nglebetaké aku.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kaya pecahan bathang"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuwatanku"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "lan ilatku"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "nèmpèl"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "ing rahangku"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "lan ing lebu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "Panjenengan nglebetaké aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:51.340328301Z",
+  "model": "glm-5.3"
+}

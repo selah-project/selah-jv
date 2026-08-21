@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lagi Yahweh ngandika: Awit dhèwèké ninggalaké ⟨את⟩ torahté-Ingsun, sing Ingsun sumèlèhaké ing ngarepé dhèwèké, lan ora ngrungokaké ing swara-Ingsun, lan ora mlaku miturut iku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lagi ... ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "dhèwèké ninggalaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torahté-Ingsun"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "torahté-Ingsun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ingsun sumèlèhaké"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ing ngarepé dhèwèké"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ngrungokaké"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ing swara-Ingsun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mlaku"
+    },
+    {
+      "surface": "בה",
+      "gloss": "miturut iku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:10:23.996789199Z",
+  "model": "glm-5.3"
+}

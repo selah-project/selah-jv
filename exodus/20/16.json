@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Aja padha matur palsu nglawan tatrawanmu dadi saksi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "matur (dadi saksi)"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "nglawan tatrawanmu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dadi saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "palsu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:11.853566884Z",
+  "model": "glm-5.3"
+}

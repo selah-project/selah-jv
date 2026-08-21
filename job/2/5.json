@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Nanging antenga kunjukna tanganmu, sarta sentuha balungé lan dagingé; manawa ora, marang sanemumu dhéwé bakal ngunjukmu.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "antenga kunjukna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "anteng"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "sarta sentuha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "balungé"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sanemumu"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ngunjukmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:21:03.716286669Z",
+  "model": "glm-5.3"
+}

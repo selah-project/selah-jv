@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Widulaa marang Yahweh kanthi syukur; gelaraken tembang marang Elohim kita kanthi kecapi.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Widulaa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "kanthi syukur"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "gelaraken tembang"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "marang Elohim kita"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kanthi kecapi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:12.098947876Z",
+  "model": "glm-5.3"
+}

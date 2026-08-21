@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 76,
+  "translation": "Nalika Elohim tanggap mangadili, kanggo nylametake kabeh wong andhap asor ing bumi. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "nalika tanggap"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "mangadili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kanggo nylametake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "wong andhap asor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:00.601269064Z",
+  "model": "glm-5.3"
+}

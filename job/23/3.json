@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Dhuh, sapa sing marengake aku weruh lan nemu Panjenengane, supaya aku bisa teka nganti ing pasanggrahane!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "marengake"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku weruh"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "lan nemu Panjenengane"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aku teka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "pasanggrahane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:29:29.917344027Z",
+  "model": "glm-5.3"
+}

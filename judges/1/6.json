@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Adoni-Bezek kaluru, lan padha ngoyak ing buri, lan padha nangkep ⟨את⟩ dheweke, lan padha ngethok ⟨את⟩ jempolane tangane lan sikile.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "lan kaluru"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "lan padha ngoyak"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ing buri"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "lan padha nangkep"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "lan padha ngethok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jempolane tangane lan sikile"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "jempolane"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "lan sikile"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:51.822990039Z",
+  "model": "glm-5.3"
+}

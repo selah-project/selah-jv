@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Pandonga saka Daud. Pangrungokna, Yahweh, ⟨ing⟩ kaluhuran; sembakna pandaring swaraku; rungokna pandongaku — dudu saka lambe sing cidra.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pandonga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "saka Daud"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Pangrungokna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "sembakna"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "pandaring swaraku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "rungokna"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "pandongaku"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "saka lambe"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sing cidra"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:26.012719725Z",
+  "model": "glm-5.3"
+}

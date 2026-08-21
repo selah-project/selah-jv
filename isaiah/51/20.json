@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Anak-anakmu wis lemes padha ngadeg, padha sumele ing pucuking dalan-dalan kabèh, kaya antelope kena jaring, padha kebak murka Yahweh, hardikane Elohim-mu.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Anak-anakmu"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "wis lemes padha ngadeg"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "padha sumele"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ing pucuking"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "dalan-dalan"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "kaya antelope"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "kena jaring"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "padha kebak"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "murka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "hardikane"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:25.320857815Z",
+  "model": "glm-5.3"
+}

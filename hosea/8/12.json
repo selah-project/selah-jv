@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Aku nulis marang dheweke ewune pranatan-pranatanku, nanging kabeh iku kaanggep kaya barang asing.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Aku nulis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ewune"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "pranatan-pranatanku"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "barang asing"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "kaanggep"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:52.118490140Z",
+  "model": "glm-5.3"
+}

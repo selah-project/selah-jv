@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Pujiyah Yah, jalaran becik memuji Elohim kita, jalaran ngesu; endah sanggup pangalem-alem.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pujiyah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ngesu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "endah sanggup"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pangalem-alem"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:55.703276242Z",
+  "model": "glm-5.3"
+}

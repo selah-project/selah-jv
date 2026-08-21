@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Banjur kabeh wong-wong iku nyopot ⟨את⟩ anting-anting saka emas kang ana ing kupinge dhewe, banjur padha digawa marang Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "banjur nyopot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anting-anting saka emas"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "anting-anting"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "saka emas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "ana ing kupinge dhewe"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "banjur padha digawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:20.418441496Z",
+  "model": "glm-5.3"
+}

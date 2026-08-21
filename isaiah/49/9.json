@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Ngucap marang wong-wong kang dirante: Padha metua! Marang wong-wong kang ana ing sajroning peteng: Padha katon! Ing dalan-dalan padha bakal angon, lan ing samuning pucak kang gundhul enggon pangonane.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "marang wong-wong kang dirante"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "padha metua"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "marang wong-wong kang"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ana ing sajroning peteng"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "padha katon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "dalan-dalan"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "padha bakal angon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan ing samuning"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "pucak kang gundhul"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "enggon pangonane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:07.906862287Z",
+  "model": "glm-5.3"
+}

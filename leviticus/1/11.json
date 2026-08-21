@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan disembelih ⟨את⟩ iku ing sisih altar lor, ing ngarsane Yahweh, lan para putra Aharon para imam nyiram ⟨את⟩ getihe marang altar sakubenging.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "lan disembelih"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "sisih"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "lor"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "lan nyiramke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getihe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "getihe"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakubenging"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:35.048262687Z",
+  "model": "glm-5.3"
+}

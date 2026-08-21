@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Adonai wus ngandika: Saka Bashan dakbalekake, dakbalekake saka jroning paliring laut.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wus ngandika"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "saka Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "dakbalekake"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "dakbalekake"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "saka jroning palir"
+    },
+    {
+      "surface": "ים",
+      "gloss": "laut"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:19.966147392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur ana geni saka Yahweh tiba, lan ngeleh ⟨את⟩ kurban bakaran lan ⟨את⟩ kayu-kayune lan ⟨את⟩ watu-watune lan ⟨את⟩ lemah-ledhake, lan ⟨את⟩ banyu sing ana ing saluran iku kaunjat ngelek nganti resik.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "banjur tiba"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "lan ngeleh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kayu-kayune"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kayu-kayune"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "watu-watune"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "watu-watune"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lemah-ledhake"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "lemah-ledhake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "banyu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing ana"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "ing saluran iku"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "kaunjat ngelek"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:34.857633664Z",
+  "model": "glm-5.3"
+}

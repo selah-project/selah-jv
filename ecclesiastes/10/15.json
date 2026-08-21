@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lelarané juru bodho iku ngéyèli ⟨dhèwèké⟩, awit ⟨dhèwèké⟩ ora weruh lunga menyang kutha.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "lelarané"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "juru bodho"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ngéyèli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:33.196691121Z",
+  "model": "glm-5.3"
+}

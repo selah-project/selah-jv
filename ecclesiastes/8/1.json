@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sapa kaya wong wicara? lan sapa weruh tegesing sawijining panganggit? Kawicaksananing manusa madhangi praupane, lan kekereping praupane bakal diganti.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "kaya wong wicara"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan sapa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "weruh"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "tegesing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "panganggit"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kawicaksananing"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manusa"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "madhangi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "praupane"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "lan kekereping"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "praupane"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "bakal diganti"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:58.053957491Z",
+  "model": "glm-5.3"
+}

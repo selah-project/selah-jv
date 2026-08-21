@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Apa ora iki kang ditindakake marang sira dhewe? Yèn sira ninggalake ⟨את⟩ Yahweh Elohimira, ing wektu Panjenengane nuntun sira ana ing dalan.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "sira ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "nuntun sira"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:28.040829385Z",
+  "model": "glm-5.3"
+}

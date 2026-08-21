@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan Yosef ngandika marang awake: Iku iku sing dakandikake marang kowe, ngucap: mata-mata kowe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "dakandikake"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:35.660491874Z",
+  "model": "glm-5.3"
+}

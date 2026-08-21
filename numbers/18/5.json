@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan sira kudu ngati-ati marang ⟨את⟩ panggonan jaga barang suci lan ⟨את⟩ panggonan jaga mezbah, supaya ora ana maneh jembaring nesu marang para putrané Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "lan sira kudu ngati-ati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan jaga barang suci"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "panggonan jaga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "barang suci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan jaga mezbah"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "panggonan jaga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "jembaring nesu"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:23.179947534Z",
+  "model": "glm-5.3"
+}

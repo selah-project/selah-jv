@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan kang ndunungi Givon krungu ⟨את⟩ ⟨bab⟩ sing ditindakake Yehosua marang Yerikho lan marang Ai,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "lan kang ndunungi"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing ditindakake Yehosua (marang Yerikho lan Ai)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "marang Yerikho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "lan marang Ai"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:01.629524512Z",
+  "model": "glm-5.3"
+}

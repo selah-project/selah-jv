@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 54,
+  "translation": "Elohim, mirengake donga-ku; cekela kuping-Mu marang tembung-tembung ing lambe-ku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mirengake"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "donga-ku"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "cekela kuping-Mu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "marang tembung-tembung"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ing lambe-ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:01.279980141Z",
+  "model": "glm-5.3"
+}

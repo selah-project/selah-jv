@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan aku matur marang kowé: aja kagèt lan aja wedi marang wong-wong iku.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku matur"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "kagèt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "marang wong-wong iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:04.775963363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 84,
+  "translation": "Yahweh Tzevaot, punjulé manungsa sing pracaya marang Panjenengan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "punjulé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "pracaya marang"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:40.932685817Z",
+  "model": "glm-5.3"
+}

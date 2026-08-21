@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Luwihana ing Horeb kowé ngecanesi ⟨את⟩ Yahweh, banjur Yahweh duka marang kowé, nganti arep numpes kowé ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Luwihana ing Horeb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "kowé ngecanesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "banjur duka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "nganti arep numpes"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:07.366072192Z",
+  "model": "glm-5.3"
+}

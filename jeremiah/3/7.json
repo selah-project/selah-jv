@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan aku munjuk: Sakwise dheweke nindakake ⟨את⟩ kabeh iki, bali marang aku — nanging ⟨dheweke⟩ ora bali. Lan sedhirene sing cidra, Yehudha, ⟨iku⟩ ndeleng.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan-aku-munjuk"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sakwise"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang-aku"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan-ora"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "bali"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "lan-ndeleng"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "cidra"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "sedhirene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:39.857011749Z",
+  "model": "glm-5.3"
+}

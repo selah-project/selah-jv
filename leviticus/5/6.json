@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan nggawa ⟨את⟩ wasanane menyang Yahweh awit dosané sing wis didosa, wadon saka kewan klumpuk, domba wadon utawa wedhus kacing wadon, kanggo kurban dosa; lan imam iku ngapuroake dhèwèké saka dosané.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "lan nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasanane (ashamo)"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "wasanane"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "menyang Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "dosané"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "wis didosa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "wadon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "kewan klumpuk"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "domba wadon"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "wedhus kacing wadon"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kanggo kurban dosa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "lan ngapuroake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam iku"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "saka dosané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:41.545042883Z",
+  "model": "glm-5.3"
+}

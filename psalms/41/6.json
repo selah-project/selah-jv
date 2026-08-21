@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Mungsuhku ngandika ala ngenani ⟨aku⟩: 'Kapan ⟨dheweke⟩ mati, lan jenengé ilang?'",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Mungsuhku"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngenani ⟨aku⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "lan ilang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenengé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:55.831494685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Apa keledai liar mangunguhi ing duwet seger? apa lembu minguhi ing pakané?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "mangunguhikah"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "keledai liar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ing"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "duwet seger"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "minguhi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "lembu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "pakané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:14.273829569Z",
+  "model": "glm-5.3"
+}

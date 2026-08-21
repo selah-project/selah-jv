@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Kawanan sampéyan manggoni ing kono; ing kabecikanmu Kowe nyiapake marang wong mlarat, Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Kawanan sampéyan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "manggoni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "Kowe nyiapake"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "ing kabecikanmu"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "marang wong mlarat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:36.214244042Z",
+  "model": "glm-5.3"
+}

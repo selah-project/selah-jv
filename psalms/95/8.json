@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Aja atimu padha ngaketha, kaya ing Merivah, kaya ing dina Massah, ing ara-ara samun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "padha ngaketha"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "kaya ing Merivah"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kaya ing dina"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara samun"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:36.449135350Z",
+  "model": "glm-5.3"
+}

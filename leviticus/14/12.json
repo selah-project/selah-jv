@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan imam iku njupuk ⟨את⟩ wedhus mangangon siji lan ngaturake ⟨את⟩ iku dadi kurban salah, lan ⟨את⟩ log lenga iku, lan ngunciwakake ⟨את⟩ kalorone kanthi unciwaning kurban ing ngarsane Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus mangangon"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wedhus mangangon"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ngaturake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "dadi kurban salah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "log lenga"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ngunciwakake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kalorone"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "unciwaning kurban"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:40.774251156Z",
+  "model": "glm-5.3"
+}

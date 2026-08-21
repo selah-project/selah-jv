@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Padha cemburu marang Moshe ing sajroning kemah, lan marang Aharon, sing suci tumrap Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "padha cemburu"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "marang Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ing sajroning kemah"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "marang Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "sing suci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:35.055867895Z",
+  "model": "glm-5.3"
+}

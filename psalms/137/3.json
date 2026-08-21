@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Sebab ing kono wong sing ngglundhungake aku padha takoni tembung-tembung tembang, lan para ngrusak aku padha takoni bungah, mangka: \"Nyanyekna maring aku tembang saka Tsiyon.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "padha takoni aku"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "wong sing ngglundhungake aku"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "lan para ngrusak aku"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "nyanyekna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "maring aku"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "saka tembang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:22.354722220Z",
+  "model": "glm-5.3"
+}

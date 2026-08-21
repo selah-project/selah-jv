@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Dheweke nduduhake marang wong-wong mau ⟨את⟩ panganebenging kutha, banjur wong-wong mau nggebug ⟨את⟩ kutha karo pucuking pedhang, nanging ⟨את⟩ wong lanang iku lan ⟨את⟩ sakulawargane padha dilungakake.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "nduduhake marang wong-wong mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panganebenging kutha"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "panganebengan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "nggebug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "pucuking (panggone tekuk)"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wong lanang iku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong lanang iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakulawargane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saijiné"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "kulawargane"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "padha dilungakake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:06.623669476Z",
+  "model": "glm-5.3"
+}

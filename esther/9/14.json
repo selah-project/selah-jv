@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan sang nata ngandika supaya mangkono kalaksanan; banjur dadu didhum ing Susa, lan ⟨את⟩ sapuluh putrane Haman digantung.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "supaya kalaksanan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "banjur didhum"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dadu"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "ing Susa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapuluh putrane Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "digantung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:54:55.466821074Z",
+  "model": "glm-5.3"
+}

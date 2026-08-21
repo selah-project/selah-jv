@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Kowé tresna saben tembung pambedhog, O ilat cidra!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "kowé tresna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "pambedhog"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilat"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "cidra"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:28.951988519Z",
+  "model": "glm-5.3"
+}

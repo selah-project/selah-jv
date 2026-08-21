@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "lan ⟨את⟩ para wong Israel kabeh kumpulna ing sangarepe lawang Kemah Paparan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para wong Israel kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "para wong Israel"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kumpulna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sangarepe lawang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Paparan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:46.840855483Z",
+  "model": "glm-5.3"
+}

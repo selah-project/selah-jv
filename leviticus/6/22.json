@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Saben lanang ing antarane para imam mangan ⟨את⟩ iku; suci ing sawijining suci ⟨iku⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ing antarane para imam"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (sajrone korban)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ing sawijining suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:55.827394734Z",
+  "model": "glm-5.3"
+}

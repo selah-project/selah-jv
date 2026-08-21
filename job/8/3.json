@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Apa El mbengkongake ukum? Utawa apa Shaddai mbengkongake kabeneran?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Apa El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "mbengkongake"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukum"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utawa apa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "mbengkongake"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:46.294392838Z",
+  "model": "glm-5.3"
+}

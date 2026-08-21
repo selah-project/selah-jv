@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Israèl wis dosa, lan uga wong-wongé nglangkari ⟨את⟩ prajanjianku sing akudhangake ⟨את דhèwèké⟩; uga wis njupuk saka hajerem, lan uga maling, lan uga goroh, lan uga nilèpaké ing perabotané.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nglangkari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjianku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjianku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "akudhangake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dhèwèké",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "hajerem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "maling"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nilèpaké"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "ing perabotané"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:49.615366156Z",
+  "model": "glm-5.3"
+}

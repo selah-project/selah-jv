@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Banjur telung ⟨the⟩ wong iki mandheg saka nanggepi ⟨את⟩ Ayub, awit dheweke ⟨is⟩ bener ing mripate dhewe.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "banjur mandheg"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "saka nanggepi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "bener"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ing mripate dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:33:43.534899191Z",
+  "model": "glm-5.3"
+}

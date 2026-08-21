@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Para kang matah ilaté kaya pedhang, lan nayaka panahé — tembung pait.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "matah"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "kaya pedhang"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilaté"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nayaka"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "panahé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pait"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:13.258384539Z",
+  "model": "glm-5.3"
+}

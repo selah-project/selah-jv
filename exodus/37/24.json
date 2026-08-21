@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Sakikir emas murni gaweyane ⟨את⟩ iku, lan ⟨את⟩ kabeh pirantine.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "sakikir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gaweyane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (menoro iku)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabeh pirantine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "pirantine"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:42.518554139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sing manggon lan buruh kalong ora kena mangan saka iku.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "sing manggon (dudu wong manca)"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "lan buruh kalong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kena mangan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "saka iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:53.924415614Z",
+  "model": "glm-5.3"
+}

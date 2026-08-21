@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Wong cilik iki ngundhang, lan Yahweh ngrungokake, lan saka samu sambetané Panjenengane ngluwari dheweke.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wong cilik"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ngundhang"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "lan Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "lan saka samu"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sambetané"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "Panjenengane ngluwari dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:38.687151543Z",
+  "model": "glm-5.3"
+}

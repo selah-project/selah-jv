@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Menawa kadadéan sira kasingsir nganti ing wujuding langit, saka kono Yahweh Elohimmu bakal nglumpukake sira, lan saka kono bakal njupuk sira.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Menawa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "sira kasingsir"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ing wujuding"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "bakal nglumpukake sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "lan saka kono"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "bakal njupuk sira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:40.901179582Z",
+  "model": "glm-5.3"
+}

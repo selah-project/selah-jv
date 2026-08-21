@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Satemene, Yahweh, para ratu Asyur wis ngancurake ⟨את⟩ saben wilayah bumi lan ⟨את⟩ bumi-para-negarane dhewe.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Satenene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "wis ngancurake"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben wilayah bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "wilayah bumi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumi-para-negarane"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "bumi-para-negarane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:42.890264532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "⟨את⟩ pesta roti aja-ngroto kudu panjaga; pitu dina kudu mangan roti aja-ngroto, sing dakprentahake marang kowe, ing wektu-ketetepan sasi Abib; awit ing sasi Abib kowe metu saka Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesta roti aja-ngroto"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pesta"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti aja-ngroto"
+    },
+    {
+      "surface": "תשcmor",
+      "gloss": "panjaga"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kudu mangan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "roti aja-ngroto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "dakprentahake marang kowe"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ing wektu-ketetepan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "kowe metu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:23.512888807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan aku njupuk ⟨את⟩ kitab tuku iku — ⟨את⟩ sing disegel, miturut préntah lan angger-angger, lan ⟨את⟩ sing kabuka.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "lan aku njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitab tuku iku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitab"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "tuku iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing disegel"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "sing disegel"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "miturut préntah"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "lan angger-angger"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sing kabuka"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "sing kabuka"
+    }
+  ],
+  "timestamp": "2026-08-21T00:59:34.861392575Z",
+  "model": "glm-5.3"
+}

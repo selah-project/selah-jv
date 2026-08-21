@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 96,
+  "translation": "Padha menehi marang Yahweh kamulyaning asmane; padha angkat sesaji lan padha lumebu marang pasewakaning padunungane.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "padha menehi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaning"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "padha angkat"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sesaji"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "lan padha lumebu"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "marang pasewakaning padunungane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:55.482932652Z",
+  "model": "glm-5.3"
+}

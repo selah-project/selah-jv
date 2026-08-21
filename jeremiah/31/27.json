@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Ndherekaken, dina-dina bakal teka, pangandikane Yahweh, lan Dakbibit ⟨את⟩ umah Israyel lan ⟨את⟩ umah Yehudha bibit manungsa lan bibit kewan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ndherekaken"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "באים",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "lan Dakbibit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umah Israyel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umah Yehudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bibit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "lan bibit"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kewan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:12:02.100872720Z",
+  "model": "glm-5.3"
+}

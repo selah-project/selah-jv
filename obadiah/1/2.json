@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Ndideng, cilik Ingsun dadekake kowe ing antarane bangsa-bangsa; diremehake kowe banget.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ndideng"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "cilik"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Ingsun dadekake kowe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing bangsa-bangsa"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "diremehake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T01:30:10.541758921Z",
+  "model": "glm-5.3"
+}

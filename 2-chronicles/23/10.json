@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur dheweke ngadegake ⟨את⟩ wong kabeh, lan saben wong gamane ana ing tangane, saka wetenging bagean tengening beth nganti wetenging bagean kiwaing beth, sacedhakeme mazbah lan beth, ngepengker ratu ing saubengé.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "banjur ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan saben wong"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "gamane"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ana ing tangane"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "saka wetenging"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "beth"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "bagean tengen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "wetenging"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "beth"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "bagean kiwa"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sacedhakeme mazbah"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "lan beth"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngepengker"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing saubengé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:28:11.895217483Z",
+  "model": "glm-5.3"
+}

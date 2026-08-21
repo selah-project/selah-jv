@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur dinane Dawid cedhak kanggo mati, lan dheweke paring parentah marang ⟨את⟩ Shelomoh anaké, kalawan ngendika:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "banjur cedhak"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kanggo mati"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "lan paring parentah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kalawan ngendika"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:23.528869389Z",
+  "model": "glm-5.3"
+}

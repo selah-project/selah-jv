@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kowe bakal mangan palawija lawas sing suwe kasimpen, lan sing lawas kowe bocori amarga saka sing anyar.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "lan kowe bakal mangan"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "lawas"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "sing suwe kasimpen"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "lan sing lawas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sing anyar"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "kowe bocori"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:12.044612121Z",
+  "model": "glm-5.3"
+}

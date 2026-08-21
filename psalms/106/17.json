@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Bumi mbukak lan nglelah Datan, lan nutupi pasamuwan Abiram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "mbukak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "lan nglelah"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "lan nutupi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sakdhuwuring"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Abiram"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:41.530630059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Slirane aku, Elohim, awit banyu wis teka nganti nyawaku.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Slirane aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wis teka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:56.714249216Z",
+  "model": "glm-5.3"
+}

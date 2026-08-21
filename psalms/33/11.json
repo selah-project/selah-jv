@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Rencanane Yahweh ngadeg salawas-lawase; rancang-rancanging atine tumrap turun lan tumurun.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "rencanane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "rancang-rancanging"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "tumrap turun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan tumurun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:50.916138548Z",
+  "model": "glm-5.3"
+}

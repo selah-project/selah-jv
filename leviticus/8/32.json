@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan sing isih saka daging lan saka roti, ing geni padha obonga.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "lan sing isih"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "saka daging"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "lan saka roti"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "padha obonga"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:34.569313916Z",
+  "model": "glm-5.3"
+}

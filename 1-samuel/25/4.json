@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan Dawid krungu ing ara-ara samodra yèn Nabal lagi ngunthit ⟨את⟩ wedhusé.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lan krungu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara samodra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "lagi ngunthit"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhusé"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "wedhusé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:01:49.722440623Z",
+  "model": "glm-5.3"
+}

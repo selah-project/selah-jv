@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Sing tanganku bakal madeg nunggil karo ⟨dhèwèké⟩; ewadéné lengening tanganku bakal ngerataké ⟨dhèwèké⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "bakal madeg teguh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nunggil karo ⟨dhèwèké⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewadéné"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "lengening tanganku"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "bakal ngerataké ⟨dhèwèké⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:52.119227111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sebab kepriyé aku bisa ⟨iku⟩ lan ndeleng bebaya sing bakal nemu ⟨את⟩ umatku, lan kepriyé aku bisa ⟨iku⟩ lan ndeleng binasané tanah kalairanku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kepriyé"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aku bisa"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "bebaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bakal nemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umatku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "lan kepriyé"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "aku bisa"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "binasa"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "tanah kalairanku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:27.299747930Z",
+  "model": "glm-5.3"
+}

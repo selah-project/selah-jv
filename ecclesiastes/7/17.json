@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aja nglakoni kaluputan akeh-akehan, lan aja dadi bodho; kenapa kowe mati ing ora-wayahe?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "nglakoni kaluputan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "akeh-akehan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "bodho"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kowe mati"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ing ora"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "wayahe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:20.810233420Z",
+  "model": "glm-5.3"
+}

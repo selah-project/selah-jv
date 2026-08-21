@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Kowe Sang Nata ing panggahing segara; nalika ombak-ombake mundhak, Kowe sing nenterake.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "Sang Nata"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ing panggahing"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "nalika mundhake"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ombak-ombake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "nenterake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:23.861622661Z",
+  "model": "glm-5.3"
+}

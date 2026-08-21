@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lajeng dheweke ngandika marang aku: Sapa kowé? Lan aku mangsuli marang dheweke: Aku wong Amalek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "wong Amalek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:37.089193522Z",
+  "model": "glm-5.3"
+}

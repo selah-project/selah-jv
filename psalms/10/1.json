@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Yagene, Yahweh, Engkau ngadeg adoh, ndhelikake awak ing wektu-wektu kasusahan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "yagene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ndhelikake"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ing wektu-wektu"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "kasusahan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:18.788238626Z",
+  "model": "glm-5.3"
+}

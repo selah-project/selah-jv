@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan padha njaga ⟨את⟩ kabeh prabot kemah patemon, lan ⟨את⟩ tugas bani Israël, kanggo nglakoni ⟨את⟩ pangabdian ⟨the⟩ kemah suci.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "padha njaga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh prabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "prabot"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patemon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tugas bani Israël"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "tugas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israël"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kanggo nglakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangabdian"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "pangabdian"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:00.693497935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur Yahweh ngandika marang iwak iku, banjur iwak iku muntahake Yonah ⟨את⟩ marang dharatan garing.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "marang iwak iku"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "banjur muntahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "dharatan garing"
+    }
+  ],
+  "timestamp": "2026-08-21T01:30:55.904766640Z",
+  "model": "glm-5.3"
+}

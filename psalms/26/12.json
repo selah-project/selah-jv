@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Sikilku ngadeg ing papan rata; ing pasamuwan-pasamuwan aku nguwurake Yahweh",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "sikilku"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "ing papan rata"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "ing pasamuwan-pasamuwan"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "aku nguwurake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:22.363908389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Avraham ngrantam ⟨את⟩ Avimelekh bab sumur banyu sing wis dirampas abdi-abdiné Avimelekh.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "ngrantam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "על",
+      "gloss": "bab"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sumur"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "dirampas"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdiné"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:51.893155853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kowe nyambungake ⟨את⟩ limang kelambu dhewe, lan ⟨את⟩ nem kelambu dhewe, lan kowe ngelipatke ⟨את⟩ kelambu kang kaping enem ing ngarepe kemah.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "lan kowe nyambungake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "limang kelambu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kelambu-kelambu"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "dhewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "nem kelambu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "nem"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kelambu-kelambu"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "dhewe"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "lan kowe ngelipatke dadi loro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambu kang kaping enem"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "kelambu"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "kang kaping enem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מול",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarepe"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "kemah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:00.484475177Z",
+  "model": "glm-5.3"
+}

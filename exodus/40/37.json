@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Dene manawa ⟨⟨ora⟩⟩ munggah ⟨⟨awang-awang⟩⟩ iku, banjur padha ora mangkat nganti ing dinane munggahe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "dene manawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "⟨⟨awang-awang⟩⟩ iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "banjur ora"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "padha mangkat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "munggahe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:46.134386061Z",
+  "model": "glm-5.3"
+}

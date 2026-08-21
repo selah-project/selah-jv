@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "kanggo ngrancang rancangan gawean, kanggo nggawe ing emas, ing salaka, lan ing tembaga.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "kanggo ngrancang"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "rancangan gawean"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo nggawe"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ing emas"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "lan ing salaka"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "lan ing tembaga"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:50.489918963Z",
+  "model": "glm-5.3"
+}

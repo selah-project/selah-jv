@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 143,
+  "translation": "Dadia pandomku kanggo nglakoni karsa-Mu, awit Kowé iku Elohim-ku; roh-Mu kang becik nuntun aku ing bumi kang rata.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Dadia pandomku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo nglakoni"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "karsa-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "roh-Mu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "kang becik"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "nuntun aku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "kang rata"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:35.887691579Z",
+  "model": "glm-5.3"
+}

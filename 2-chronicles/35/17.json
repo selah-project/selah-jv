@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lahire anak-anaké Yisrael sing padha tinemu nindakaké ⟨את⟩ Pèsah ing wektu iku, lan ⟨את⟩ pésta roti tanpa ragi pitung dina.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nindakaké"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "sing padha tinemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pèsah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pèsah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pésta roti tanpa ragi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pésta"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-21T03:46:58.678508562Z",
+  "model": "glm-5.3"
+}

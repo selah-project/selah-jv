@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan padha teka nganti ing lantai jemurKidon, lan Uzza ndawakake ⟨את⟩ tangane kanggo nyekel ⟨את⟩ petine, amarga sapi-sapine padha tiba.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "lantai jemur"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ndawakake"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "kanggo nyekel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petine"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "petine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "padha tiba"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi-sapine"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:58.508109983Z",
+  "model": "glm-5.3"
+}

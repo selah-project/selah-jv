@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan dheweke ngobong dupa wewangi ana ing dhuwure, kaya sing wis didhawuhake Yahweh marang ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "ngobong dupa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ana ing dhuwure"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "dupa"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "wewangi (rempah-rempah)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:46.586904749Z",
+  "model": "glm-5.3"
+}

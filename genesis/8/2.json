@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan sumber-sumbering njeroning bumi katutup, lan jendhéla-jendhéla langit katutup, lan udan saka langit kendhel.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "lan katutup"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "sumber-sumbering"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "njeroning bumi (tehom)"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "lan jendhéla-jendhéla"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "lan kendhel"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "udan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:18.079410287Z",
+  "model": "glm-5.3"
+}

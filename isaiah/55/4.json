@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Nuli, saksi marang para bangsa Aku wenehi ⟨⟨dheweke⟩⟩, panggedhe lan sing mitata marang para bangsa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Nuli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "marang para bangsa"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "Aku wenehi dheweke"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "lan sing mitata"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "marang para bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:47.992157425Z",
+  "model": "glm-5.3"
+}

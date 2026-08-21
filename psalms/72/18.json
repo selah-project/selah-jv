@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Pinuji ⟨⟨ingkang⟩⟩ Yahweh Elohim, Elohine Yisrael, sing gawe kaajaiban piyambak-piyambake.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "pinuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohine"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sing gawe"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "kaajaiban"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "piyambak-piyambake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:30.347416638Z",
+  "model": "glm-5.3"
+}

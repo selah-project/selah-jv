@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Yahweh ngandika marang Moshe: sapa sing wis dosa marang Aku, wong iku Aku apusaka saka kitab-Ku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "wisa dosa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "Aku apusaka"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "saka kitab-Ku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:01.883734500Z",
+  "model": "glm-5.3"
+}

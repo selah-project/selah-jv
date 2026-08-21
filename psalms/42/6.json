@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kenapa kowé tansah susah, jiwa-ku, lan kenapa kowé sumelang ing aku? Mundhakaa ngarep-arep marang Elohim, awit isih aku bakal nyuwunake Panjenengane, pitulunging raine.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "kowé tansah susah"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "lan kowé sumelang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "mundhakaa ngarep-arep"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "aku bakal nyuwunake"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "pitulunging"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "raine"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:24.211651489Z",
+  "model": "glm-5.3"
+}

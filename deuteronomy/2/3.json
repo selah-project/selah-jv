@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Wis cukup kanggo kowe, muter-muter ⟨את⟩ gunung iki; dhawuha marang awake dhewe mengalor.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "wis cukup"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo kowe"
+    },
+    {
+      "surface": "סב",
+      "gloss": "muter-muter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung iki"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "dhawuha bali"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo awake dhewe"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "mengalor"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:23.259575067Z",
+  "model": "glm-5.3"
+}

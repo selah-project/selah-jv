@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "lan Khatshar-Shu'al, lan Balah, lan Atsem,",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "lan Khatshar"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Shu'al"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "lan Balah"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "lan Atsem"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:01.920707158Z",
+  "model": "glm-5.3"
+}

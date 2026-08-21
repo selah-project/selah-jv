@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 11:6",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Yahweh ngandika marang aku: Wartakna ⟨את⟩ saben tembung-tembung iki ing kutha-kuthane Yehudha lan ing dalan-dalane Yerushalayim, ngucap: Padha ngrungokna ⟨את⟩ tembung-tembunging prajanjian iki lan padha nindakna ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ... ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Wartakna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben tembung-tembung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ing kutha-kuthane"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "lan ing dalan-dalane"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Padha ngrungokna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembunging prajanjian iki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembunging"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "lan padha nindakna"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembunging prajanjian iki"
+    }
+  ],
+  "timestamp": "2026-08-21T00:52:46.104901109Z",
+  "model": "glm-5.3"
+}

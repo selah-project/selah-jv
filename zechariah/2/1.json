@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan aku ngangkat ⟨את⟩ mripatku lan aku ndeleng, lan lah, papat sungu.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "lan aku ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mripatku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "lan aku ndeleng"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "papat"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "sungu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:37:33.277282432Z",
+  "model": "glm-5.3"
+}

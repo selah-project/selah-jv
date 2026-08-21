@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Kanggo sing katelulas, Shuvel, anak-anake lan sadulure, cacahé rolas.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "kanggo kate(lu)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lu(las)"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shuvel"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "lan sadulure"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ro(las)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "las"
+    }
+  ],
+  "timestamp": "2026-08-21T03:26:48.522938818Z",
+  "model": "glm-5.3"
+}

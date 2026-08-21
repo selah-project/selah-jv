@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan para sesepuhe kutha mau padha ngudhunake ⟨את⟩ pedhet iku menyang jurang kang tansah ngalir, kang ora tau digarap ing kono lan ora ditanduri, banjur ing kana padha ngetokaké jangkepe ⟨את⟩ pedhet iku ing jurang.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "padha ngudhunake"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuhe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "mau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedhet"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "pedhet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "jurang"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "kang tansah ngalir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "digarap"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ditanduri"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "padha ngetokaké jangkepe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedhet"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "pedhet"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ing jurang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:36:33.049463005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Saka ngarsa-Mu ⟨muga⟩ parenging pangayomanku metu; mripat-Mu ⟨iku⟩ mirsani ⟨apa sing⟩ jujur.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Saka ngarsa-Mu"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "parenging pangayomanku"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mripat-Mu"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "jujur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:26.012947301Z",
+  "model": "glm-5.3"
+}

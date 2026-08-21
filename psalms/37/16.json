@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Luwih becik sethithik duweke wong adjil tinimbang bandha aheke wong jahat.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "luwih becik"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sethithik"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kanggo wong adjil"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "bandha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ahek"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:44.973998292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Nelen wae, Adonai, pamisahna ilaté ⟨wong-wong mau⟩, awit aku wis ndeleng kelaluwihan lan pasulayan ing ⟨kutha⟩.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "nelen\/ngremukake"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "pamisahna"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ilaté ⟨wong-wong mau⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "aku wis ndeleng"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kelaluwihan"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "lan pasulayan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing ⟨kutha⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:04.559921758Z",
+  "model": "glm-5.3"
+}

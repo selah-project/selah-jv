@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 18:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Sarah uguy ing sajroning atine, ngucap: Bareng ingsun wis luwe lawas, apa bakal ana gebyure marang ingsun, mangka bendara ingsun wis sepuh?",
+  "tokens": [
+    {
+      "surface": "וַתִּצְחַק",
+      "gloss": "Sarah uguy"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ing sajroning atine"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "wis luwe lawas"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wis ana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang ingsun"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "gebyure"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "lan bendara ingsun"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wis sepuh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:03.044317924Z",
+  "model": "glm-5.3"
+}

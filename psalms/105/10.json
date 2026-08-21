@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "lan Dhegone ngadegake marang Yaakov dadi undang-undang, marang Israël dadi prajanjian langgeng,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "lan ngadegake"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "marang Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "dadi undang-undang"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "marang Israël"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "langgeng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:50.963506317Z",
+  "model": "glm-5.3"
+}

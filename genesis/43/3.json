@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Lan Yehudha ngandika marang ⟨iya⟩, ngendika: Wong ⟨iku⟩ wus ancam-ancam marang kita, ngendika: Kowe ora bakal ndeleng praanganku, yèn ora kangmasmu ⟨karo⟩ kowe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang iya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "העד",
+      "gloss": "wus ancam"
+    },
+    {
+      "surface": "העד",
+      "gloss": "-ancam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "bakal ndeleng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "praanganku"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "yèn ora"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "kangmasmu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ karo kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:43.627247699Z",
+  "model": "glm-5.3"
+}

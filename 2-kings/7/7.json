@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Banjur padha tangi lan nglajar ing wayah ratri sadurung fajar, lan padha ninggalake ⟨את⟩ khemah-khemahé lan ⟨את⟩ jaran-jarané lan ⟨את⟩ keledhé, kampé kaya dene anané, lan padha nglajar nylametake nyawané.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "banjur padha tangi"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "lan padha nglajar"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "ing wayah ratri sadurung fajar"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "lan padha ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah-khemahé"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "khemah-khemahé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jaran-jarané"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "jaran-jarané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keledhé"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keledhé"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "היא",
+      "gloss": "anané"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "lan padha nglajar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dhumateng"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawané"
+    }
+  ],
+  "timestamp": "2026-08-21T04:06:33.602785161Z",
+  "model": "glm-5.3"
+}

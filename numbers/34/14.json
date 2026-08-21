@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 34:14",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Awit suku anake wong Reuben miturut batah bapak-bapahe, lan suku anake wong Gad miturut batah bapak-bapahe, lan sebagéan suku Manasye wis padha oleh warisane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wis padha njupuk"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anake"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "wong Reuben"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "miturut batah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapak-bapahe"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "lan suku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anake"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "wong Gad"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "miturut batah"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bapak-bapahe"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "lan sebagéan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasye"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "wis padha njupuk"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "warisane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:19.470436575Z",
+  "model": "glm-5.3"
+}

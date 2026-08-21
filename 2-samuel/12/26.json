@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Yoab perang nglawan Raba sang anaké Ammon, banjur nguwasani ⟨את⟩ kutha karaton iku.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "lan perang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "nglawan Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "banjur nguwasani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "karaton"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:37.888875245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 15:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lamun si-zav jlambah ing wong sing murni, iku kudu ngetusi sandhangané lan adus ing banyu, lan ora murni nganti sore.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lan lamun"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "jlambah"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "si-zav"
+    },
+    {
+      "surface": "בטהור",
+      "gloss": "ing wong sing murni"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "kudu ngetusi"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "lan adus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ora murni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:45.358278838Z",
+  "model": "glm-5.3"
+}

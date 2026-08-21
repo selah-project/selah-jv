@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Lan bakal yasa omah-omah lan manggon ana ing kono, lan bakal nandur kebon anggur lan madhang pawohone.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "lan bakal yasa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "omah-omah"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "lan bakal nandur"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kebon anggur"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "lan madhang"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "pawohone"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:27.853831084Z",
+  "model": "glm-5.3"
+}

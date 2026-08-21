@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Asyer ora ngusir ⟨את⟩ para penghuni Akko lan ⟨את⟩ para penghuni Tsidon, uga ⟨את⟩ Ahlab lan ⟨את⟩ Akzib lan ⟨את⟩ Khelbah lan ⟨את⟩ Afek lan ⟨את⟩ Rekhob.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Asyer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para penghuni Akko"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "para penghuni"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "para penghuni Tsidon"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "para penghuni"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ahlab"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Ahlab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akzib"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akzib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khelbah"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Khelbah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Afek"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rekhob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhob"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:06.653563263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan lalan katelu: leshem, shevo, lan akhlamah.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "lan lalan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katelu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "leshem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "shevo"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "lan akhlamah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:17.386505066Z",
+  "model": "glm-5.3"
+}

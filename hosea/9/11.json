@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Efrayim kaya manuk: kamulyane bakal mabur — saka kalairan, saka guwa garba, lan saka pangandhutan.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "kaya manuk"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "bakal mabur"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kamulyane"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "saka kalairan"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "saka guwa garba"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "lan saka pangandhutan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:10.211578005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Akhab putrane Omri nindakake ala ing sangarepe Yahweh, luwih saka kabeh sing sadurunge.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan nindakake"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing mripate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "luwih saka kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sadurunge"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:18.918937540Z",
+  "model": "glm-5.3"
+}

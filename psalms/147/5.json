@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Gedhe Adonaini, lan dawasa kuwat; kawijayan-E ora ana etange.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Gedhe"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonaini (Adonai kita)"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "lan dawasa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuwat"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "kawijayan-E"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "etange"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:12.098634233Z",
+  "model": "glm-5.3"
+}

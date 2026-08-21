@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Ayo tindaka, padha nyeru bungah marang Yahweh, padha njebugake swara marang Kremo kawilujengan kita!",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ayo tindaka"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "padha nyeru bungah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "padha njebugake swara"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "marang Kremo"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "kawilujengan kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:52.320716815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Saka El ramamu, lan ⟨את⟩ Shaddai — Sing mitulungi kowe lan mberkahi kowe: berkah-berkahing langit saka ing dhuwur, berkah-berkahing jurang banyu sing mengkurep ing ngisor, berkah-berkahing susu lan berkahing rahim.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "saka El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ramamu"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "lan sing mitulungi kowe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shaddai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "lan mberkahi kowe"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah-berkahing"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing dhuwur"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah-berkahing"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "jurang banyu"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "sing mengkurep"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing ngisor"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah-berkahing"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "susu"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "lan rahim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:23.702069568Z",
+  "model": "glm-5.3"
+}

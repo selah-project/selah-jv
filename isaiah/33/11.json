@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Sira nggarbini damen karènggan, nglairake sekam; uwasmu minangka geni bakal nundhut sira.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "sira nggarbini"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "damen karènggan"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "קש",
+      "gloss": "sekam"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "uwasmu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "nundhut sira"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:33.596715860Z",
+  "model": "glm-5.3"
+}

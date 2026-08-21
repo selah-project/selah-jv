@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim ngandika: \"Kalumprukna banyu sing ing ngisor Shemayim menyang panggonan siji, lan katon lemah garing mau\"; lan dadi mengkono.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "kalumprukna"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "sing ing ngisor"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Shemayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "lan katon"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "lemah garing mau"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:13.966166846Z",
+  "model": "glm-5.3"
+}

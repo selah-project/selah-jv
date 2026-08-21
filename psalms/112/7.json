@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Saka pawarta ala ⟨dhèwèké⟩ ora wedi; ajeg atiné, ndhedhes marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "pawarta"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ajeg"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ndhedhes"
+    },
+    {
+      "surface": "ביהווה",
+      "gloss": "marang Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:38.570476273Z",
+  "model": "glm-5.3"
+}

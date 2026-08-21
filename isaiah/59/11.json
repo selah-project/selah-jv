@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 59:11",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Mungguh ingkrung kaya beruang kabeh awake dewe, lan kaya dara meri padha ngarasake; padha nunggu ⟨ing⟩ pangadilan nanging ora ana, ⟨ing⟩ pitulungan nanging adoh saka awake dewe.",
+  "tokens": [
+    {
+      "surface": "נהמה",
+      "gloss": "mungguh ingkrung"
+    },
+    {
+      "surface": "כדבים",
+      "gloss": "kaya beruang"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kabeh awake dewe"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "lan kaya dara"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "meri"
+    },
+    {
+      "surface": "נהגה",
+      "gloss": "padha ngarasake"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "padha nunggu"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ing pangadilan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nanging ora ana"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ing pitulungan"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "nanging adoh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka awake dewe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:43.882933242Z",
+  "model": "glm-5.3"
+}

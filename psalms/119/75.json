@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku weruh, Yahweh, yen bener pangadilan-pangadilanmu, lan Kanthi setya Kowe nandhanglara aku.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "aku weruh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bener"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "pangadilan-pangadilanmu"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "lan setya"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "Kowe nandhanglara aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:56.143348843Z",
+  "model": "glm-5.3"
+}

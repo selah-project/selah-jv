@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Wektu tresna, lan wektu sengit; wektu perang, lan wektu ayem.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "tresna"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "sengit"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ayem"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:31.896839989Z",
+  "model": "glm-5.3"
+}

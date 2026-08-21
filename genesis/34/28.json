@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "⟨את⟩ wedhus-wedhusé, lan ⟨את⟩ sapi-sapiné, lan ⟨את⟩ keledahe, lan ⟨את⟩ sabarang sing ana ing kutha, lan ⟨את⟩ sabarang sing ana ing sawah, padha dijupuk.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus-wedhusé"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "wedhus-wedhusé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sapi-sapiné"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "sapi-sapiné"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "keledahe"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "keledahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabarang sing ana ing kutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ana ing kutha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabarang sing ana ing sawah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ana ing sawah"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "padha dijupuk"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:03.920081140Z",
+  "model": "glm-5.3"
+}

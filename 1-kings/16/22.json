@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Banjur wong-wong sing ndherekake Omri kagojoh ngalahake ⟨את⟩ wong-wong sing ndherekake Tibni bin Ginath, sarta Tibni pati, lan Omri jumeneng ratu.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "kagojoh ngalahake"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ndherekake"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ndherekake"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginath"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sarta pati"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "jumeneng ratu"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:57.734928504Z",
+  "model": "glm-5.3"
+}

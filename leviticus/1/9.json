@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan wetenge lan sikile diumbah ing banyu, lan imam ngurubake ⟨את⟩ sakabehé ing altar punika, kurban bakaran, sajian geni, ambu kang ngrinemake marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "lan wetenge"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "lan sikile"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "diumbah"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "lan ngurubake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehé"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sakabehé"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ing altar punika"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sajian geni"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ambu"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "kang ngrinemake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:35.047832327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan bungaha ing Yahweh, banjur ⟨Dheweke⟩ bakal maringi panemu-panemune atimu.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Lan bungaha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "banjur bakal maringi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "panemu-panemune"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "atimu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:45.211995088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan kulit wedhus jantan kang wernane abrit, lan kulit takhas, lan kayu sítim.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "lan kulit"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "wedhus jantan"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "kang wernane abrit"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "lan kulit"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhas"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "lan kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sítim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:04.469035756Z",
+  "model": "glm-5.3"
+}

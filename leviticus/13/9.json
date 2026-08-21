@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Wabah tsara'at yen ana ing manungsa, banjur ⟨ia⟩ digawa marang sang imam.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "wabah"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ing manungsa"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "banjur ⟨ia⟩ digawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:20.285898834Z",
+  "model": "glm-5.3"
+}

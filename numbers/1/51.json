@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan nalika Masèkhané ajul ajul, bani Lewi sing ngedhunaké ⟨את⟩ iku; lan nalika Masèkhané kempal manah, bani Lewi sing ngadegaké ⟨את⟩ iku; lan wong liya sing cedhak-cedhak bakal dipateni.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "lan nalika ajul ajul"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Masèkhané"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "ngedhunaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "bani Lewi"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "lan nalika kempal manah"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Masèkhané"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "ngadegaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "bani Lewi"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "lan wong liya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sing cedhak-cedhak"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bakal dipateni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:21.961554092Z",
+  "model": "glm-5.3"
+}

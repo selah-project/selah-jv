@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Yahweh bakal nglumprang ⟨את⟩ Mitsrayim, nglumprang lan nambani, lan wongé bakal bali marang Yahweh, lan Panjenengané bakal ngarsakake pangapura lan nambani dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "lan bakal nglumprang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "nglumprang"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "lan nambani"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "lan bakal bali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "lan bakal ngarsakake pangapura"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "lan nambani dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:07.766172293Z",
+  "model": "glm-5.3"
+}

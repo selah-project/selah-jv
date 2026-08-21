@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan aku meduna menyang dalemé juru wangun lempung, lan lah, dhèwèké nggawé pakaryan ana ing sadhuwuring watu-watu panggilasan.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "lan aku meduna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dalemé"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "juru wangun lempung"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nggawé"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pakaryan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing sadhuwuring"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "watu-watu panggilasan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:55:52.611657571Z",
+  "model": "glm-5.3"
+}

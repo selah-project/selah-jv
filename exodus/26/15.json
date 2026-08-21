@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kowe bakal gawe ⟨את⟩ papan-papan kanggo padaleman suci, kayu akasia, madheg njegak.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowe bakal gawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "kanggo padaleman suci"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "madheg njegak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:18.661029446Z",
+  "model": "glm-5.3"
+}

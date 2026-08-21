@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan bareng teka ing kono, deleng ana Yehu bin Yehosafat bin Nimsi; banjur maju, dungkul ⟨את⟩ dheweke saka tengah-tengah sedulure, lan wuwuha ⟨את⟩ dheweke ing senthong ing jroning senthong.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "bareng teka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "deleng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ana"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimsi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "maju"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "dungkul ⟨את⟩ dheweke"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "saka tengah-tengah"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulure"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "wuwuha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (Yehu)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "senthong"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "ing jroning senthong"
+    }
+  ],
+  "timestamp": "2026-08-21T04:47:28.198569613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Ora bakal kasedhemake saka anake-anake dhewe, marang panerusing wisuri; padha njlentrehake pangalem-alem marang Yahweh, lan kaekane, lan kagolongane-luarbiyare, sing wis ditindakake.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "bakal kasedhemake"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "saka anake-anake dhewe"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "marang panerusing"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "wisuri"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "padha njlentrehake"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "pangalem-alem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "lan kaekane"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "lan kagolongane-luarbiyare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wis ditindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:57.956542915Z",
+  "model": "glm-5.3"
+}

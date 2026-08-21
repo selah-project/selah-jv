@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Awit marang Kowe, Yahweh, aku ngenteni; Kowe sing bakal mangsuli, Adonai, Elohimku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Kowe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "aku ngenteni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sing bakal mangsuli"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:23.616576832Z",
+  "model": "glm-5.3"
+}

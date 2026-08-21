@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan pangecap iku cocog ing paningalé sang raja lan ing paningalé sakabehing pasamuan iku.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "cocog"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pangecap iku"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalé"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "lan ing paningalé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "pasamuan iku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:45:41.468818010Z",
+  "model": "glm-5.3"
+}

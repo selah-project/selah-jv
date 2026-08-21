@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur wadon iku ngandhut lan nglairake lanang; banjur dheweke mirsani ⟨את⟩-e yen apik ⟨dheweke⟩, lan dheweke ndhelikake telung sasi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "banjur ngandhut"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wadon iku"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lan nglairake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "banjur mirsani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-e",
+      "marks": "yen apik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "apik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "lan dheweke ndhelikake"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telung"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "sasi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:59.321674926Z",
+  "model": "glm-5.3"
+}

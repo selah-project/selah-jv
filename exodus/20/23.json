@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Aja padha nggawe ⟨את⟩ ing ngarsaku: elohi perak lan elohi emas, aja padha nggawe marang awakmu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "padha nggawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ing ngarsaku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "lan elohi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "padha nggawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang awakmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:37.976427036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Kanggo Kowé atiku ngandika: Golekana wadhahe — ⟨את⟩ wadhamu, Yahweh, aku goleki.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kanggo Kowé"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Golekana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "wadhahe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wadhamu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "wadhamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "aku goleki"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:12.303194830Z",
+  "model": "glm-5.3"
+}

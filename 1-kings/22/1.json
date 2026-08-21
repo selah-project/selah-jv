@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan dheweke padha anggenti telung taun ora ana perang antarane Aram lan Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "anggenti\/sumanding"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telung"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:30.315055486Z",
+  "model": "glm-5.3"
+}

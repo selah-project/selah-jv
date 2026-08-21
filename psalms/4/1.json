@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Dhumateng panggedhé ing tetabuhan senar, mizmor saka Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "dhumateng panggedhé"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ing tetabuhan senar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "saka Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:18.895199816Z",
+  "model": "glm-5.3"
+}

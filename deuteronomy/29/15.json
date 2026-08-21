@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Sebab kowe padha wuruh ⟨את⟩ papan-ngenggonanku ing bumi Mitsrayim, lan ⟨את⟩ lakune angliwati ing tengahing bangsa-bangsa sing kokliwati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowé padha"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "padha wuruh (weruh nganti pirsa)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-ngenggonanku ing bumi Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "papan-ngenggonanku (kita anggon mapan)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lakune angliwati ing tengahing bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "kita angliwati"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "kokliwati"
+    }
+  ],
+  "timestamp": "2026-08-20T23:39:05.212756367Z",
+  "model": "glm-5.3"
+}

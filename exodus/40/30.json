@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Banjur disimpen ⟨את⟩ baskem ing antaraning kemah pamoedan lan mezbah, lan diwenehi banyu ing kono kanggo ngumbah-umbah.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "disimpen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baskem"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "baskem"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ing antaraning"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pamoedan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan ing antaraning"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "diwenehi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "kanggo ngumbah-umbah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:04.627696359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 20:8",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Kaya impèn mabur lan ora bakal tinemu; lan kaculika kaya pangilon ing wengi.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "kaya impèn"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "mabur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ימצאוהו",
+      "gloss": "bakal tinemu (dené)"
+    },
+    {
+      "surface": "וידד",
+      "gloss": "lan kaculika"
+    },
+    {
+      "surface": "כחזיון",
+      "gloss": "kaya pangilon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ing wengi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:28:18.187326870Z",
+  "model": "glm-5.3"
+}

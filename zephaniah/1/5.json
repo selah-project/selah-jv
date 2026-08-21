@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨את⟩ sing-sing sujud ana ing sadhuwuring payon marang bala ⟨the⟩ langit, lan ⟨את⟩ sing-sing sujud, sing sumpah marang Yahweh lan sing sumpah demi Malkam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ lan",
+      "marks": "sing-sing sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "sing-sing sujud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing sadhuwuring"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "payon"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "marang bala"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ lan",
+      "marks": "sing-sing sujud"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "sing-sing sujud"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "sing sumpah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "lan sing sumpah"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "demi Malkam"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:03.612777214Z",
+  "model": "glm-5.3"
+}

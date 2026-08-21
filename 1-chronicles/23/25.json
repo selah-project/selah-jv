@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Sebab Dawid ngendika: Yahweh, Elohim kanggo Israel, wis maringi seinah marang umate, lan dheweke sumedhi ing Yerushalayim nganti selawase.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "wis maringi seinah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "umate"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "lan sumedhi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "selawase"
+    }
+  ],
+  "timestamp": "2026-08-21T03:27:11.316910202Z",
+  "model": "glm-5.3"
+}

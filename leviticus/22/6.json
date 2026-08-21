@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "nyawa sing ndemek iku dadi reged nganti sore, lan ora bisa mangan saka barang-barang suci kajaba awake disirami banyu",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "ndemek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iku"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "dadi reged"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bisa mangan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "barang-barang suci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kajaba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(kajaba)"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "disirami"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "awake"
+    },
+    {
+      "surface": "במים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:15.067764897Z",
+  "model": "glm-5.3"
+}

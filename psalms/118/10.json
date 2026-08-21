@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Sawetara wong saba bangsa nglubèni aku; ing sajroning Asma Yahweh aku bakal nglumpuli ⟨⟨את⟩⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sawetara wong saba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "nlubèni aku"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing sajroning Asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sayogya"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "aku nglumpuli dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:59.138966280Z",
+  "model": "glm-5.3"
+}

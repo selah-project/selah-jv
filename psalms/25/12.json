@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Sapa wong iki sing wedi marang Yahweh? Dhèwèké bakal mulang panjenengane ing dalan sing dipilihe.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "bakal mulang panjenengane"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "sing dipilihe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:29.851555468Z",
+  "model": "glm-5.3"
+}

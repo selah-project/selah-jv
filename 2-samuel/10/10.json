@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ⟨את⟩ wong kang tisa saka bala iku ditakerake ing astane Abisay sedulure, banjur dheweke ndhatakake pasukan kanggo nglawan bani Amon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong kang tisa saka bala"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "wong kang tisa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "saka bala"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ditakerake"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing astane"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abisay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulure"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "banjur ndhatakake pasukan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kanggo nglawan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:13.506979788Z",
+  "model": "glm-5.3"
+}

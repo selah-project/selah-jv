@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Wong tulus trampil ngertosi hak-e wong mlarat, nanging wong jahat ora ngerti kawruh.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ngertosi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong tulus trampil"
+    },
+    {
+      "surface": "דין",
+      "gloss": "hak-e \/ pepakon"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kawruh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:19:22.044578882Z",
+  "model": "glm-5.3"
+}

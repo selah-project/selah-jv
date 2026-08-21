@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Yahweh, Elohimku, ing Kowé aku ngungsu; slametna aku saka kabeh sing ngudani, lan ngluwarna aku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing Kowé"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku ngungsu"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "slametna aku"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka kabeh"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "sing ngudani"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "lan ngluwarna aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:17.307593050Z",
+  "model": "glm-5.3"
+}

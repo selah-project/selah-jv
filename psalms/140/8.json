@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Yahweh, Adonai, kakuwaté pamartabating aku, kowe wus nglindhungi sirahku ing dinaning paprangan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuwaté"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "pamartabating aku"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "kowe wus nglindhungi"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "sirahku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinaning"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "paprangan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:44.453436896Z",
+  "model": "glm-5.3"
+}

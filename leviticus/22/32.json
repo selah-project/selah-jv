@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan aja padha ngrusuhi ⟨את⟩ asma suciku, supaya Aku dadi suci ing tengah-tengahing bani Yisrael; Aku Yahweh, Kang ngukum-ukum sira.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "padha ngrusuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma suciku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "suciku"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "supaya Aku dadi suci"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengah-tengahing"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Kang ngukum-ukum sira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:18.870382242Z",
+  "model": "glm-5.3"
+}

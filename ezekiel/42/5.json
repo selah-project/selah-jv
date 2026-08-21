@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan bilik-bilik sing dhuwur iku luwih cendhek, sebab serambi-serambi njupuk papan saka kono, luwih tinimbang saka sing ngisor lan saka sing tengah saka yasan iku.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "lan bilik-bilik"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "sing dhuwur"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "luwih cendhek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "njupuk papan saka"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "serambi-serambi"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "saka sing ngisor"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "lan saka sing tengah"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "yasan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:21:38.393575910Z",
+  "model": "glm-5.3"
+}

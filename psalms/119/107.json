@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku tinindhes banget banget; Yahweh, uripna aku miturut dabar-Mu.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "aku tinindhes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget banget"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "uripna aku"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "miturut dabar-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:26.167647614Z",
+  "model": "glm-5.3"
+}

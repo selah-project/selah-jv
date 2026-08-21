@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Aja ndhodhog, lan aja anggelap, lan aja ndhuguk marang sawijining wong kang dadi kanca‹mu›.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "ndhodhog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "anggelap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ndhuguk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "marang kancane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:35.427338059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Apa padha ora weruh, para pagawé kaluputan, para pamangan umat-Ku mangan roti, Elohim ora kaundhang.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "padha weruh"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "para pagawé"
+    },
+    {
+      "surface": "און",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "para pamangan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kaundhang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:26.602945239Z",
+  "model": "glm-5.3"
+}

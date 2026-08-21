@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur bareng wis rongpuluh taun, nalika Shelomoh yasa ⟨את⟩ omahé Yahweh lan ⟨את⟩ omahé dhéwé,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur bareng"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "wis rampungé"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rongpuluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omahé Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "omahé dhéwé"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "omahé dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:35:23.283046828Z",
+  "model": "glm-5.3"
+}

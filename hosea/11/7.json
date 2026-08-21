@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan umat-Ku bimbang menthang-menthang marang kasurahan-Ku, lan marang Sang Luhur padha nyeluk Panjenengané, bebarengan ora ana sing ngunggulaké.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "lan-umatKu"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "bimbang menthang-menthang"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "marang kasurahanKu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan-marang"
+    },
+    {
+      "surface": "על",
+      "gloss": "Sang Luhur"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "nyeluk Panjenengané"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "ngunggulaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:41.349027193Z",
+  "model": "glm-5.3"
+}

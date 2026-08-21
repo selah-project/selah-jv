@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Èlinga ⟨את⟩ sing ditindakaké marang kowé déning Amalek, ing dalan, nalika kowé padha metu saka Mesir.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Èlinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing ditindakaké marang kowé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakaké"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "nalika kowé padha metu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mesir"
+    }
+  ],
+  "timestamp": "2026-08-21T03:57:05.443149579Z",
+  "model": "glm-5.3"
+}

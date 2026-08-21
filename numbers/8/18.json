@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dakjupuk ⟨את⟩ wong Lewi minangka gantine kabeh anak sulung ing bani Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "lan dakjupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "wong Lewi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "minangka gantine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "anak sulung"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ing bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:41.320795748Z",
+  "model": "glm-5.3"
+}

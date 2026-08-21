@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Sumingapna saka aku, supaya aku bisa payu maneh, sadurunge aku lunga lan dadi tanpa ana.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "sumingapna"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "supaya aku bisa payu maneh"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku lunga"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "lan dadi tanpa ana"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:09.592704608Z",
+  "model": "glm-5.3"
+}

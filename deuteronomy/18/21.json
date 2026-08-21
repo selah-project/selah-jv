@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan manawa kowe ngandika ing sajroning atimu: Kepriye aku ngerti ⟨את⟩ tembung sing ora diucapake dening Yahweh?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lan manawa"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "kowe ngandika"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ing sajroning atimu"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "kepriye"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "aku ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "diucapake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:34.958515714Z",
+  "model": "glm-5.3"
+}

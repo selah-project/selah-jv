@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Aku eling Elohim lan gruyu; aku mikir, lan semangatku kagingsir. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "aku eling"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "lan gruyu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "aku mikir"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "kagingsir"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "semangatku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:52.040737714Z",
+  "model": "glm-5.3"
+}

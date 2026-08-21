@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan sira kabeh ngerti yen kanthi sakabanering kukuku aku ngabekti ⟨את⟩ bapakmu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "lan sira kabeh"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kanthi kabeh"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kukuku"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "aku ngabekti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakmu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "bapakmu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:57.433874647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Dhèwèké njupuk lan nglebokaké ⟨את⟩ pasaksian ing sajroning peti iku, masang ⟨את⟩ rung-rungé ing peti iku, lan nglebokaké ⟨את⟩ tikas pangapura ing sandhuwur peti iku, saka ing dhuwur.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nglebokaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasaksian"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pasaksian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti iku"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "masang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rung-rungé"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "rung-rungé"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwur"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti iku"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nglebokaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tikas pangapura"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tikas pangapura"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sandhuwur"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "peti iku"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "saka ing dhuwur"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:31.239285633Z",
+  "model": "glm-5.3"
+}

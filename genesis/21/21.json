@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan dheweke manggon ing ara-ara Paran, lan ibune njupukake garwa saka bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "njupukake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "garwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:03.205886748Z",
+  "model": "glm-5.3"
+}

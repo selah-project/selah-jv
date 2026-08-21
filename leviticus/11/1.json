@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Yahweh ngandika marang Moshe lan marang Aharon,Ngandika marang dheweke,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "Ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:01.378525811Z",
+  "model": "glm-5.3"
+}

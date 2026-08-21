@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "lan ⟨את⟩ tinsmemet lan ⟨את⟩ pelikan lan ⟨את⟩ manuk bangkai",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tinsmemet"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "tinsmemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pelikan"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "pelikan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "manuk bangkai"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "manuk bangkai"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:04.302383111Z",
+  "model": "glm-5.3"
+}

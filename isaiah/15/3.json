@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Ing dalan-dalané dheweke ngenggo karung keso; ing sadhuwuring payoné lan ing pasareyané kabèh padha milihi, tiba ing nangisan.",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "Ing dalan-dalané"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ngenggo"
+    },
+    {
+      "surface": "שק",
+      "gloss": "karung keso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "payoné"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "lan ing pasareyané"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "padha milihi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ing nangisan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:04.465351471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan sing ndumuk dagingé si-zav, kudu ngetusi sandhangané lan adus ing banyu, lan ora murni nganti sore.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "lan sing ndumuk"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "dagingé"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "si-zav"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "kudu ngetusi"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "lan adus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ora murni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:45.358132001Z",
+  "model": "glm-5.3"
+}

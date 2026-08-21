@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan iki yaiku carané kokgawé ⟨את⟩: dawané wadhah telung atus hasta, jembaré séket hasta, lan dhuwuré telung puluh hasta.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Lan iki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yaiku carané"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kokgawé"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (wadhah)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telung"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dawané"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "wadhah"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "séket"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "jembaré"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "lan telung puluh"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "dhuwuré"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:36.624830350Z",
+  "model": "glm-5.3"
+}

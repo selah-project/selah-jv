@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Yahweh wus ambukak ⟨את⟩ sikuné sangganing suci ing sangarepé sakabèhé bangsa-bangsa, lan bakal padha ndeleng sakabèhé pucuk-pucuking bumi ⟨את⟩ kawilujengané Elohim kita.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "wus ambukak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikuné sangganing suci"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "siku"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suciné"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ing sangarepé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "lan bakal padha ndeleng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "pucuk-pucuking"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawilujengané Elohim kita"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kawilujengan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:24.441317705Z",
+  "model": "glm-5.3"
+}

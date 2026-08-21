@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Wong ala nancepake reregetan marang wong nurani, lan agrincangan untune marang dheweke.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "nancepake reregetan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "marang wong nurani"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "lan agrincangan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "untune"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:21.398002942Z",
+  "model": "glm-5.3"
+}

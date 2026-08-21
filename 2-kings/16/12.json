@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan teka raja saka Damsyik, lan ndeleng raja ⟨את⟩ mezbah, lan cedhak raja marang mezbah, lan munggah ing dhuwure.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "saka Damsyik"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mezbah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "cedhak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwure"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:06.905473401Z",
+  "model": "glm-5.3"
+}

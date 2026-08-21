@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan ⟨את⟩ panumpakan iku sapuluh, lan ⟨את⟩ kolah-kolah iku sapuluh ing dhuwur panumpakan iku",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "panumpakan iku"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "panumpakan iku"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kolah-kolah iku"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "kolah-kolah iku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "panumpakan iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:03.873345278Z",
+  "model": "glm-5.3"
+}

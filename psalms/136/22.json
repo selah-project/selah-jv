@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Pusaka tumuju marang Yisrael abdi-Né, awit salawasé rahmat-Né.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "pusaka"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "tumuju marang Yisrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdi-Né"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "rahmat-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:52.993128173Z",
+  "model": "glm-5.3"
+}

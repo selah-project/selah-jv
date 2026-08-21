@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "lan aku mangan sukuku dhewe-dhewe, lan yatim ora mangan saka iku",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "lan aku mangan"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "sukuku"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "dhewe-dhewe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatim"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "saka iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:33:05.897651888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Aku arep nglumpaki dheweke nganggo panyakit wabah, lan nyohahi dheweke; banjur dakgawé kowé ⟨את⟩ dadi bangsa gedhé lan santosa, luwih katona tinimbang dheweke.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Aku arep nglumpaki dheweke"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nganggo panyakit wabah"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "lan nyohahi dheweke"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "banjur dakgawé"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kowé dadi bangsa gedhé lan santosa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "dadi bangsa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhé"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "lan santosa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "luwih katona tinimbang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:22:51.457574589Z",
+  "model": "glm-5.3"
+}

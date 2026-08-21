@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Yahweh, ing saunggone swarga kasetyan-Mu ⟨iku⟩, kasetyan-Mu tekan wolak-waliking awang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "ing saunggone swarga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasetyan-Mu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "kaimanan-Mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tekan"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "wolak-waliking awang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:18.131398991Z",
+  "model": "glm-5.3"
+}

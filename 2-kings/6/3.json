@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan satunggalipun matur: Sumangga kula nyuwun, lan tindhakana ⟨את⟩ sesadherek panjenengan. Lan piyambakipun matur: Kula badhe tindhak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "matur"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "satunggalipun"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "sumangga kula nyuwun"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "tindhakana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesadherek panjenengan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sesadherek panjenengan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "piyambakipun matur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kula"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "badhe tindhak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:25:04.522719937Z",
+  "model": "glm-5.3"
+}

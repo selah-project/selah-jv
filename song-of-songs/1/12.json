@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Nalika sang ratu isih lungguh ing sabubare dhèwèké, nerdku menehi ambune.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "isih lungguh ing sabubare dhèwèké"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nerdku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "menehi"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "ambune"
+    }
+  ],
+  "timestamp": "2026-08-21T02:38:20.736799056Z",
+  "model": "glm-5.3"
+}

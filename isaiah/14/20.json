@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Sira ora bakal manunggal karo ⟨את⟩ wong-wong mau ing panguburan, awit sira ngrusak bumimu, bangsamu sira bunuh; turunane para panggawe ala ora bakal kasebut ing salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "bakal manunggal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "ing panguburan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "bumimu"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ngrusak"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsamu"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "sira bunuh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bakal kasebut"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ing salawas-lawase"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "turunane"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "para panggawe ala"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:49.297834139Z",
+  "model": "glm-5.3"
+}

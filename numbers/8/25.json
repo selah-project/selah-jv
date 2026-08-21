@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan saka umur limang puluh taun ⟨dheweke⟩ bali saka wadyabala pangabdian, lan ora ngabdi maneh.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "lan saka umur"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "limang puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "saka wadyabala"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pangabdian"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ngabdi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:45.661110099Z",
+  "model": "glm-5.3"
+}

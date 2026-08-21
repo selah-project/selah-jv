@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 33:2",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Putraning manungsa, maturana marang putra-putrane umatmu, lan kokandhana marang wong-wong mau: Nalika aku ngedunake pedhang marang sawijining bumi, lan umat ⟨the⟩ bumi iku njupuk sawijining wong saka antarane dheweke, lan degana dheweke dadi juru tunggu ing kono —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "maturana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putrane"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umatmu"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "lan kokandhana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "aku ngedunake"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "marang kono"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ bumi iku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sawijining"
+    },
+    {
+      "surface": "מקציהם",
+      "gloss": "saka antarane dheweke"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "lan degana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke (dadi juru tunggu)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo wong-wong mau"
+    },
+    {
+      "surface": "לצפה",
+      "gloss": "dadi juru tunggu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:17:53.696973392Z",
+  "model": "glm-5.3"
+}

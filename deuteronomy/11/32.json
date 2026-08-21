@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan kowé miturati ngglédhani ⟨את⟩ sakabèhé ⟨the⟩ pakukum lan ⟨את⟩ ⟨the⟩ pangadilan sing aku madhepake ing ngarsa-mu dina iki.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "lan kowé miturati"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ngglédhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhé ⟨the⟩ pakukum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "⟨the⟩ pakukum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "⟨the⟩ pangadilan"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "⟨the⟩ pangadilan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "madhepake"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ing ngarsa-mu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:37.580234258Z",
+  "model": "glm-5.3"
+}

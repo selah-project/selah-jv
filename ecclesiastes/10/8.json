@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sing nggolongake luwah bakal tiba ing jeroné, lan sing mbolongi pager bakal dipitiki ula.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "sing nggolongake"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "luwah"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing jeroné"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bakal tiba"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "lan sing mbolongi"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "pager"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "bakal dipitiki"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ula"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:06.558619451Z",
+  "model": "glm-5.3"
+}

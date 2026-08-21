@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Susuhé ⟨saka⟩ wesi, sikilé sapérangan ⟨saka⟩ wesi lan sapérangan ⟨saka⟩ lempung.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "susuhé"
+    },
+    {
+      "surface": "די",
+      "gloss": "saka"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "wesi"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "sikilé"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "sapérangan saka"
+    },
+    {
+      "surface": "די",
+      "gloss": "saka"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "wesi"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "lan sapérangan saka"
+    },
+    {
+      "surface": "די",
+      "gloss": "saka"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "lempung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:56:18.611318560Z",
+  "model": "glm-5.3"
+}

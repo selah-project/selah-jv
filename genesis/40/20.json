@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Banjur ing dina kaping telu — dina laire ⟨את⟩ Paroh — dhèwèké nganakake pasugatan agung marang kabèh abdiné, lan ngangkat ⟨את⟩ sirahé pangageng para juru ombe-ombe lan ⟨את⟩ sirahé pangageng para juru roti, ing tengah-tengahé abdiné.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "banjur kadadéan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kaping telu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "laire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "lan nganakake"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "pasugatan agung"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang kabèh"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdiné"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "lan ngangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahé pangageng juru ombe-ombe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangageng"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "para juru ombe-ombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sirahé pangageng juru roti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangageng"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "para juru roti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengah-tengahé"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdiné"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:23.549201544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Kaditutupi kayu erès saka ing dhuwur, ing sisih-sisih sing ana ing ⟨sangisore⟩ patang puluh lima pilar, limalas ing saben deret.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "kaditutupi"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "kayu erès"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "saka ing dhuwur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "sisih-sisih"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "pilar-pilar"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "patang puluh"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "lan lima"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "limalas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(limalas)"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "saben deret"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:39.588527152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan kowe mapaake ⟨את⟩ pekarangan iku ing sakiwa-tengene, lan kowe ndadekake ⟨את⟩ kelambi gapura pekarangan iku.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "lan kowe mapaake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pekarangan iku"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pekarangan iku"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing sakiwa-tengene"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "lan kowe ndadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelambi gapura"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kelambi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapura"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pekarangan iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:59.050086344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Apa ora Aku wis nulis marang kowé kaping telu, ing pasarahan lan kawruh?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "Aku nulis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "kaping telu"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "ing pasarahan"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "lan kawruh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:15.162729461Z",
+  "model": "glm-5.3"
+}

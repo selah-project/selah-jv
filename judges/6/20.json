@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan utusan Elohim ngandika marang Gidyon: Cekela ⟨את⟩ daging lan ⟨את⟩ roti tanpa ragi, sartanata ing ing watu iki, lan ⟨את⟩ kaldune kudhem. Lan ⟨dheweke⟩ nglakoni mangkono.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang Gidyon"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "cekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daging"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "daging"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "roti tanpa ragi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "sarta nata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "watu"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kaldune"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "kaldune"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "kudhem"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "lan nglakoni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:34.048731440Z",
+  "model": "glm-5.3"
+}

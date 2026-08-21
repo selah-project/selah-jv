@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan dheg gawe ⟨את⟩ altar kurban bakaran saka kayu akasia: dawane limang asta lan jembaré limang asta, pasagi, dhuwure telung asta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dheg gawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar kurban bakaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dawane"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "lan lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jembaré"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pasagi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "lan telu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "asta"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dhuwure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:12.171404247Z",
+  "model": "glm-5.3"
+}

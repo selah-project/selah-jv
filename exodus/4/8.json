@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 4:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan bakal kadadéan: menawa dheweke ora percaya marang sira lan ora ngrungokake swarane tandha kang kapisan, bakal padha percaya swarane tandha kang kapindho.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Lan bakal kadadéan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "padha percaya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "האת",
+      "gloss": "tandha"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "kang kapisan"
+    },
+    {
+      "surface": "והאמינו",
+      "gloss": "bakal padha percaya"
+    },
+    {
+      "surface": "לקל",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "האת",
+      "gloss": "tandha"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "kang kapindho (pungkasan)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:36.980388280Z",
+  "model": "glm-5.3"
+}

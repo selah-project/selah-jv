@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan ratu ngandika: sapa wae sing ngandika apa-apa marang kowé, tekakna dhèwèké marang aku, lan dhèwèké ora bakal nambah manèh ndhedhes kowé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sing ngandika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "tekakna dhèwèké"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "nambah manèh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "manèh"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "ndhedhes"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:09:16.277962669Z",
+  "model": "glm-5.3"
+}

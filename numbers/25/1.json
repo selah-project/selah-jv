@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan Israel manggon ing Shittim, lan umat iku wiwit zina marang para putrane Moab.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "ing Shittim"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "lwiwit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat iku"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "zina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:24.740852696Z",
+  "model": "glm-5.3"
+}

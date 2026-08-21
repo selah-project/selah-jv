@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan kok apa Kowé ngetokake aku saka guwagarbane? Dhemen aku wis ngembusake napas, lan mripat ora nate ndeleng aku!",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "lan kok apa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "saka guwagarbane"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "Kowé ngetokake aku"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "aku ngembusake napas"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "lan mripat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "ndeleng aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:25:12.372484323Z",
+  "model": "glm-5.3"
+}

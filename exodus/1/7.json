@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan anak-anak Israil ndadèkaké woh, nrembaka, nambah, lan dadi santosa banget-getune, nganti bumi kebak ⟨את⟩ wong-wonge.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Lan anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ndadèkaké woh"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "nrembaka"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "nambah"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "dadi santosa"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "getune"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "nganti kebak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wonge"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:05.905989817Z",
+  "model": "glm-5.3"
+}

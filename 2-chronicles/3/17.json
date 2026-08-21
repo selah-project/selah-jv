@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur ditagakake ⟨את⟩ sakabehing sakabehing ⟨את⟩ the pillars ing ngarsa ⟨the⟩ interior of the palace, siji ing tengen lan siji ing kiwa; banjur diwenehi asma ⟨the⟩ ing tengen Yakhin, lan asma ⟨the⟩ ing kiwa Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ditagakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiyang-tiyang ingkang samekta ingkang samekta"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "the pillars"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing ngarsa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "papan ngarepe"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "istana\/ka'bah suci"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ing tengen"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "lan siji"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "ing kiwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur diwenehi asma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ing tengen"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "lan asma"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "ing kiwa"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-21T03:31:57.200827301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 137,
+  "translation": "Hai putrané Babel, sing bakal diruntuhake, begja wong sing mbalèni marang kowé ⟨את⟩ pituwasmu, sing koklakoni marang aku.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "sing bakal diruntuhake"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "begja"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "wong sing mbalèni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pituwasmu"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "pituwasmu"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "koklakoni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:52.709004840Z",
+  "model": "glm-5.3"
+}

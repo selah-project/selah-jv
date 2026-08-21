@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨את⟩ kowe bakal ana wong siji-sijine saben suku, wong kang dadi sirahing omahing leluhure, iku dhewe.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "lan ⟨את⟩ kowe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji-sijine"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "saben suku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kang dadi sirahing"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "omahing"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "leluhure"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:36.646929884Z",
+  "model": "glm-5.3"
+}

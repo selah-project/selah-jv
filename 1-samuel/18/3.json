@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Yehonatan lan Dawid nugelake prajanjian, jalaran dhèwèké tresna marang ⟨את⟩ dhèwèké kaya jiwané dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "tugelake"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "lan Dawid"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "jalaran tresnané"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké (kaya jiwané dhèwèké)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "kaya jiwané dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:44.664107379Z",
+  "model": "glm-5.3"
+}

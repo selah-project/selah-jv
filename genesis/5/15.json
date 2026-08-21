@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Mahalaleel urip limang tahun lan suwidak tahun, banjur nglairake ⟨את⟩ Yered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Lan urip"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalaleel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "lan suwidak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tahun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "banjur nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yered"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:03.346094257Z",
+  "model": "glm-5.3"
+}

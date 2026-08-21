@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan bani-bani Israel nguwuh marang Yahweh, ngendika: Dhosa kowe marang Panjenengan, lan awit kita wis medhotake ⟨את⟩ Elohim kita lan ngabdi ⟨את⟩ sang Baal-baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "lan nguwuh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani-bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "dosa kita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Panjenengan"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "lan awit"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "kita medhotake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim kita"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "lan ngabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang Baal-baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "sang Baal-baal"
+    }
+  ],
+  "timestamp": "2026-08-20T23:50:25.539734357Z",
+  "model": "glm-5.3"
+}

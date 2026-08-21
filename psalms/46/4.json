@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Banyune ngarumbar mureb, gunung-gunung getuni nalika dhuwure swarane. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ngarumbar"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "mureb"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "banyune"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "getuni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "nalika dhuwure swarane"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:03.350818911Z",
+  "model": "glm-5.3"
+}

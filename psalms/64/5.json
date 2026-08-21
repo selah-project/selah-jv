@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Kanggo manah ing papan singid ⟨saka⟩ wong jujur; dumadakan diluru panah, lan ora padha wedi.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "kanggo manah"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ing papan singid"
+    },
+    {
+      "surface": "תם",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "dumadakan"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "diluru panah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "padha wedi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:11.539750662Z",
+  "model": "glm-5.3"
+}

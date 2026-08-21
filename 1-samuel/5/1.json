@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan wong Plishtim iku njupuk ⟨את⟩ petining Elohim, banjur digawa saka Even-ha-Ezer menyang Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Lan wong Plishtim"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petining"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petining"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "digawa"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "saka Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "menyang Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:26.173218379Z",
+  "model": "glm-5.3"
+}

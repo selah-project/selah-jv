@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan padha nyumurupi ⟨את⟩ Elohimé Israèl; ing sangisore sikile kaya gawéning batu safir, lan katanahé langit ing resiké.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "lan padha nyumurupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimé Israèl"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "lan ing sangisore"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kaya gawéning"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "batu putih"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safir"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "lan kaya èsènsining"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ing resiké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:26.900879557Z",
+  "model": "glm-5.3"
+}

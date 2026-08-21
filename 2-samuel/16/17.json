@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Absalóm ngucap marang Husyai: iki kahinem-nanmu ⟨את⟩ marang kanca? kena apa kok ora luwih ⟨את⟩ kanca?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalóm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Husyai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kahinem-nanmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kanca"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kena apa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "luwih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "kanca"
+    }
+  ],
+  "timestamp": "2026-08-21T00:10:16.460466289Z",
+  "model": "glm-5.3"
+}

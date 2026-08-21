@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Tdhohe geni wis tumiba saka langit lan nguntalake ⟨את⟩ panggedhe seket loro kang kapisan sarta ⟨את⟩ seket wongane; saiki muga nyawaku migunani ing paningal panjenengan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tdhohe"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "wis tumiba"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "lan nguntalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggedhe seket loro kang kapisan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "seket"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "kang kapisan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seket wongane"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "seket wongane"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "muga migunani"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ing paningal panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:24.292013147Z",
+  "model": "glm-5.3"
+}

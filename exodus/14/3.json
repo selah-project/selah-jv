@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan Paraoh bakal ngandika tumrap anak-anaké Israael: Padha kalilan ⟨are⟩ ing tanah iku, padhang sampyan wis katutup marang dheweke.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan bakal ngandika"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tumrap anak-anaké"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israael"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "padha kalilan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wis katutup"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padhang sampyan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:00:56.354993730Z",
+  "model": "glm-5.3"
+}

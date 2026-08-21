@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Keadilan, keadilan kalanjarna, supaya sira urip lan sira anggon-numplak ⟨את⟩ bumi, kang Yahweh Elohim mu maringi sira.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "keadilan"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "klanjarna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "sira urip"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "lan sira anggon-numplak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:33.170969231Z",
+  "model": "glm-5.3"
+}

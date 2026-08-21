@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sing ngestreni parentah ora ngerti perkara ala; lan wektu lan panduman, atine wong wicaksana ngerti.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "sing ngestreni"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "parentah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan wektu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "lan panduman"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wong wicaksana"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:49.380932160Z",
+  "model": "glm-5.3"
+}

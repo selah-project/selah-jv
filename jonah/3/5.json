@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan wong-wong Niniwe percaya marang Elohim, sarta ngumumake pasa lan nganggo klambi sak, saka sing paling gedhe nganti sing paling cilik.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niniwe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "sarta ngumumake"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "lan nganggo"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "klambi sak"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "saka sing paling gedhe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "sing paling cilik"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:55.460551417Z",
+  "model": "glm-5.3"
+}

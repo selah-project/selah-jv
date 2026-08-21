@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Dheweke ngukuhake dadi bendara ing dalemipun, lan panggedhe ing sadaya bandhanipun.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "ngukuhake"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ing dalemipun"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "lan panggedhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadaya"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "bandhanipun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:53.445957982Z",
+  "model": "glm-5.3"
+}

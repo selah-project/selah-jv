@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 129,
+  "translation": "Sing ora mbukakake cavitying tangan saka sang pandameli, lan pangkon saka sang pangiket empung.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "sing ora"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ngebaki"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "cekelane tangan"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "sang pandameli"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "lan pangkone"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "sang pangiket empung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:45.716454670Z",
+  "model": "glm-5.3"
+}

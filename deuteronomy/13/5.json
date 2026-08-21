@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Sangisé Yahweh Elohimira kowé padha lumaku, lan ⟨את⟩-⟨dhèwèké⟩ kowé ajèni, lan ⟨את⟩ préntah-préntahé kowé padsimpen, lan marang swarané kowé ngrungokaké, lan ⟨את⟩-⟨dhèwèké⟩ kowé ngabdi, lan marang ⟨dhèwèké⟩ kowé nyawijani.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "sangisé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kowé padha lumaku"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩-⟨dhèwèké⟩",
+      "marks": "kowé ajèni (Yahweh)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kowé ajèni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "préntah-préntahé"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "préntah-préntahé"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kowé padsimpen"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "lan marang swarané"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kowé ngrungokaké"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩-⟨dhèwèké⟩",
+      "marks": "kowé ngabdi (Yahweh)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "kowé ngabdi"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "lan marang ⟨dhèwèké⟩"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "kowé nyawijani"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:22.182199343Z",
+  "model": "glm-5.3"
+}

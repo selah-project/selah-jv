@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Sebab dakunjurake banyu marang sing ngelak, lan ilining banyu marang tlah garing; dakunjurake Roh-ku marang warihmu, lan berkah-ku marang turun-turunmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "dakunjurake"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "sing ngelak"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "lan ilining banyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "tlah garing"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "dakunjurake"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Roh-ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "warihmu"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "lan berkah-ku"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "turun-turunmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:50.875750074Z",
+  "model": "glm-5.3"
+}

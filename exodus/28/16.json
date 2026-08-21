@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Papat pajaran bakal ⟨dadi⟩ kapindho-lipat; sétenga sèkmong dawané, lan sétenga sèkmong ambane.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "papat pajaran"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "kapindho-lipat"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "sétenga sèkmong"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dawané"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "lan sétenga sèkmong"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ambane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:39.989086362Z",
+  "model": "glm-5.3"
+}

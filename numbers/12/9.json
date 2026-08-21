@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur getune Yahweh murka nyala marang ⟨para kabeh⟩, banjur ⟨Ene⟩ tindak lunga.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "banjur murka nyala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "getune"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "marang ⟨para kabeh⟩"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "banjur ⟨Ene⟩ tindak lunga"
+    }
+  ],
+  "timestamp": "2026-08-20T23:22:10.239624157Z",
+  "model": "glm-5.3"
+}

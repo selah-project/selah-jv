@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan dheweke nggawa ⟨את⟩ barang kuduse bapake lan barang kuduse dhewe menyang omahing Elohim: salaka, emas, lan prabot.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nggawa mlebu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barang kuduse bapake"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "barang kudus"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapake"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "lan barang kuduse dhewe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "lan emas"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "lan prabot"
+    }
+  ],
+  "timestamp": "2026-08-21T03:37:16.373955953Z",
+  "model": "glm-5.3"
+}

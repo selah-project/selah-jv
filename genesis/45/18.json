@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Sarta odhaa ⟨את⟩ bapakmu lan ⟨את⟩ kulawargamu, padha teka marang aku, aku bakal maringi kowé ⟨את⟩ samubarang beciking tanah Mitsrayim, sarta kowé bakal mundhut ⟨את⟩ pundi-pundining tanah iku.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "sarta odhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakmu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kulawargamu"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "kulawargamu"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "aku bakal maringi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samubarang becik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "samubarang becik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "sarta bakal mundhut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pundi-pundi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "pundi-pundi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:41.844546026Z",
+  "model": "glm-5.3"
+}

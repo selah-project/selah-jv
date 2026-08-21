@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Mizmor, tembang, kanggo dina Sabat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kanggo dina"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabat"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:27.523516282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 87,
+  "translation": "Langger-langger kaya para juru joged: kabeh sumbere aku ana ing sliramu.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "langger-langger"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "kaya para juru joged"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "sumbere aku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ana ing sliramu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:51.696479837Z",
+  "model": "glm-5.3"
+}

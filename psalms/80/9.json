@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "⟨Sebuah⟩ wit anggur saka Mitsrayim Kowé mindhakake; Kowé ngusir bangsa-bangsa, lan nandur iku.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "wit anggur"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "Kowé mindhakake"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "Kowé ngusir"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "lan nandur iku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:52.309116046Z",
+  "model": "glm-5.3"
+}

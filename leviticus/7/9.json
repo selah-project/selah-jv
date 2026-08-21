@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan saben minchah sing dipanggang ing oven, lan saben sing digawe ing marcheshet, lan ing machavat — iku dadi duweke imam sing ngaturake ⟨את⟩ iku; kanggo dheweke bakal dadi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah (persembahan glepung)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "dipanggang"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "ing oven"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "ing marcheshet (wajan panggang)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "machavat (pelat panggang)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kanggo imam"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "sing ngaturake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (minchah kasebut)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo dheweke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:04.681648708Z",
+  "model": "glm-5.3"
+}

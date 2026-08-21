@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan kanggo para putrane Aharon panggonane miturut pasukan-pasukane: para putrane Aharon yaiku Nadab lan Avihu, Elazar lan Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Lan kanggo para putrane"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "pasukan-pasukane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "lan Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "lan Itamar"
+    }
+  ],
+  "timestamp": "2026-08-21T03:28:12.865736599Z",
+  "model": "glm-5.3"
+}

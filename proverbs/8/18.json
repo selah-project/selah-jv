@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Kekayaan lan kamulyan ⟨are⟩ ⟨את⟩ karo aku; bandha langgeng lan kabeneran.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kekayaan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "lan kamulyan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ karo aku",
+      "marks": "kekayaan lan kamulyan"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bandha"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "langgeng (saka jaman kuna)"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "lan kabeneran"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:28.202930138Z",
+  "model": "glm-5.3"
+}

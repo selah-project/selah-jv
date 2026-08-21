@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur sawise iku wong akeh padha tindak saka Hatserot, lan padha ngampar ing ara-ara Paran.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "banjur sawise iku"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "padha tindak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "saka Hatserot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "lan padha ngampar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-08-20T23:22:02.845520383Z",
+  "model": "glm-5.3"
+}

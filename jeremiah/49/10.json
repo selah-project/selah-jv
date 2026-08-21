@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Sebab aku wus mblanjani ⟨את⟩ Esav, kudhani ⟨את⟩ panggonan-panggonan sing didhelikake, lan dheweke ora bisa ndhelik maneh; kasirna warihmu, lan para sedulure, lan tangga-tangga teparane, lan dheweke wis ora ana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "wus mblanjani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "kudhani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan-panggonan sing didhelikake"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "panggonan-panggonan sing didhelikake"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "lan ndhelik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "kasirna"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "warihmu"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "lan para sedulure"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "lan tangga-tangga teparane"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "lan wis ora ana"
+    }
+  ],
+  "timestamp": "2026-08-21T01:04:36.443551693Z",
+  "model": "glm-5.3"
+}

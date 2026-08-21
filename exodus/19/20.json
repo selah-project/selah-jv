@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Yahweh mudhun marang gunung Sinai, menyang pucuking gunung iku, lan Yahweh ngundhang Moshe menyang pucuking gunung iku, lan Moshe munggah.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "lan mudhun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pucuk"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung iku"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lan ngundhang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "marang Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pucuk"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung iku"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:22.985262860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Diberkahi ⟨ing⟩ ⟨wong⟩ sing teka ing asmanipun Yahweh; kami ngedum berkah dhateng panjenengan saking griyanipun Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Diberkahi"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "sing teka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ing asmanipun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "kami ngedum berkah dhateng panjenengan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saking griyanipun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:53.229793304Z",
+  "model": "glm-5.3"
+}

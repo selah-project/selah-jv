@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan ing wektu iku kadadeyan, Yehudha mudhun saka ⟨את⟩ sedulur-sedulure, lan mlebu marang wong saka Adulam, jenenge Hirah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadeyan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "mudhun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "sedulur-sedulure"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulur-sedulure"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "mlebu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "marang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "saka Adulam"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Hirah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:50.338890358Z",
+  "model": "glm-5.3"
+}

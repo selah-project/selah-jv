@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Sing tangané resik lan atiné suci, sing ora ngunggahaké nyawané marang kesia-siaan lan ora sumpah paliru.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "resik"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "lan suci"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ngunggahaké"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "marang kesia-siaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawané"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sumpah"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "paliru"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:50.271413206Z",
+  "model": "glm-5.3"
+}

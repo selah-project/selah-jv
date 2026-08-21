@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan congkahé Yisrael wapes ing pasuryané, nanging padha ora bali marang Yahweh, Elohime, lan ora nggolèki Panjenengané ing sadaya iki.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "wapes"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "congkahé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ing pasuryané"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "padha bali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "nggolèki Panjenengané"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadaya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:01.821651099Z",
+  "model": "glm-5.3"
+}

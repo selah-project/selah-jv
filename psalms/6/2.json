@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Yahweh, aja ngraos aku ing bebendu-Mu, lan aja uga ngukum aku ing sajroning murka-Mu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ing bebendu-Mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ngraos aku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja uga"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ing murka-Mu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ngukum aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:09.538484563Z",
+  "model": "glm-5.3"
+}

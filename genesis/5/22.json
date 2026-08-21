@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Chanok padha lumaku marang ⟨את⟩ Elohim sawise npeputra ⟨את⟩ Metuselah, telung atus taun, banjur peputra lanang wadon.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "padha lumaku"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "npeputra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metuselah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metuselah"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telung"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "peputra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lanang"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "wadon"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:09.233518596Z",
+  "model": "glm-5.3"
+}

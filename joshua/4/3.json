@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 4:3",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "lan padha parentahake ⟨את⟩ padha, ngendika: Padha angkat saka ing kene, saka ing tengahing Yarden, saka panggonanjejere sikile para imam, rolas watu, lan padha gawa ⟨את⟩ padha bebarengan kowe, lan padha tata ⟨את⟩ padha ing papan nginep sing kokinepi ing kono wengi iki.",
+  "tokens": [
+    {
+      "surface": "וצוו",
+      "gloss": "lan padha parentahake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "padha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Padha angkat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "saka ing kene"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "saka ing tengahing"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ממצב",
+      "gloss": "saka panggonanjejer"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "jejere tetep"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ro(las)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(ro)las"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "lan padha gawa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "padha"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "bebarengan kowe"
+    },
+    {
+      "surface": "והנחתם",
+      "gloss": "lan padha tata"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "padha"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "ing papan nginep"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "kokinepi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "wengi iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:35.526860553Z",
+  "model": "glm-5.3"
+}

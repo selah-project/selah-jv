@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur Yehosafat matur: Ana ⟨את⟩ sabda Yahweh ing awaké. Dadi ratu Israèl, Yehosafat, lan ratu Edom padha mandhap marang dheweke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "matur"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ awaké",
+      "marks": "sabda Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "padha mandhap"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "lan ratu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:28.489437612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Yahweh ngandika marang haSatan: Lah, ⟨ה⟩ ⟨is⟩ ing tanganmu; mung ⟨את⟩ uripé sing dijaga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan Yahweh ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "haSatan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Lah ⟨ה⟩"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ing tanganmu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uripé"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uripé"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "dijaga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:21:03.716534745Z",
+  "model": "glm-5.3"
+}

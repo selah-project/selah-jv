@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Kanggo ngluwari jiwa ⟨saka⟩ pati, lan kanggo nguripake ⟨saka⟩ ing keluwis.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "kanggo ngluwari"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "saka pati"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jiwane"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "lan kanggo nguripake dheweke"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "ing keluwis"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:56.869438895Z",
+  "model": "glm-5.3"
+}

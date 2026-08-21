@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lalu Yehosafat ngandika: Apa ora ana ing kene nabi kanggo Yahweh maneh, supados kula tepuni ⟨את⟩ saka panjenengane?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lalu ngandika"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "apa ora ana"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ing kene"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "nabi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "supados kula tepuni"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ saka panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:42.172399994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "lan ⟨את⟩ blekok ⟨the⟩ cangak miturut jinisé lan ⟨את⟩ dukhipath lan ⟨את⟩ lawa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "blekok"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "blekok"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "cangak"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "miturut jinisé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "dukhipath"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "dukhipath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lawa"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "lawa"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:04.302561189Z",
+  "model": "glm-5.3"
+}

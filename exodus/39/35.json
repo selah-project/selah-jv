@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "⟨את⟩ petinesahing paseksèn lan ⟨את⟩ galah-galahané, lan ⟨את⟩ panutup pangapura.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petinesahing paseksen"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "nesahing paseksen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "galah-galahane"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "galah-galahane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "panutup pangapura"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "panutup pangapura"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:47.951425526Z",
+  "model": "glm-5.3"
+}

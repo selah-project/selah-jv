@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 35:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan sira bakal ngukur saka njaba kutha: ⟨את⟩ sisih wetan loro ewu hasta, ⟨את⟩ sisih kidul loro ewu hasta, ⟨את⟩ sisih kulon loro ewu hasta, lan ⟨את⟩ sisih lor loro ewu hasta, lan kutha iku ana ing tengah-tengah; iki bakal dadi panggonan pangonaning kutha-kutha mau.",
+  "tokens": [
+    {
+      "surface": "ומדתם",
+      "gloss": "sira bakal ngukur"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "saka njaba"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sisih wetan"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "sisih"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "weton"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "loro ewu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sisih kidul"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "sisih"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "kidul"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "loro ewu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sisih kulon"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "sisih"
+    },
+    {
+      "surface": "ים",
+      "gloss": "kulon (arah sagara)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "loro ewu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sisih lor"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "sisih"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "lor"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "loro ewu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hasta"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "lan kutha iku"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengah-tengah"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo dheweke"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "panggonan pangonan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kutha-kutha"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:42.208240577Z",
+  "model": "glm-5.3"
+}

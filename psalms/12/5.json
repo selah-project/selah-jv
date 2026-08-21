@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sing padha ngucap: Sarawa ⟨את⟩ ilaté kita, kita bakal ngunggulake; lambe iki duweké kita dhéwé; sapa bendara kanggo kita?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Sing padha"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "sarawa ilaté kita"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "kita bakal ngunggulake"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "lambe kita"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ karo kita",
+      "marks": "duweké kita dhéwé (lambe iku ana ing kita)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:08.507466735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lungaa banjur undhuha lan nggawa marang ibune; lan ibune gawe panganan éca kaya déné disenengi bapakné.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "banjur lungaa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "undhuha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "marang ibune"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "lan gawe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "panganan éca"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya déné"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "disenengi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:34.139186967Z",
+  "model": "glm-5.3"
+}

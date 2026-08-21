@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan ing dina iku panjenengane maringi tandha, ngendika: Iki tandha kang wis didhawuhake Yahweh: Lah, mezbah iki bakal kabedhah, lan awu kang ana ing dhuwure bakal kabuwang.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "tandha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "tandha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mezbah iku"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "bakal kabedhah"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "bakal kabuwang"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "awu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing dhuwure"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:38.432868605Z",
+  "model": "glm-5.3"
+}

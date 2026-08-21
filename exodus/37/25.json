@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan raneke aweh gawe ⟨את⟩ mesbed ing dupa, kayu wit-syitim; sadhemit dawané, lan sadhemit jembaré, pasagi; lan rong dhemit dhuwuré; saka awaké dhéwé awujud tandhuk-tandhuké.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "raneke aweh gawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesbed ing dupa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesbed"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ing dupa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wit-syitim"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sadhemit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dawané"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lan sadhemit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jembaré"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "pasagi"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "lan rong dhemit"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "dhuwuré"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka awaké dhéwé"
+    },
+    {
+      "surface": "היו",
+      "gloss": "awujud"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "tandhuk-tandhuké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:50.844428119Z",
+  "model": "glm-5.3"
+}

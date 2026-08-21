@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Apa dudu kaya susu kowe ngetokaké aku, lan kaya keju kowe nglenthekaké aku?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Apa dudu"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "kaya susu"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "kowe ngetokaké aku"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "lan kaya keju"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "kowe nglenthekaké aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:24.238570014Z",
+  "model": "glm-5.3"
+}

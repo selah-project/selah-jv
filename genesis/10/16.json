@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ⟨את⟩ wong Yebus, ⟨את⟩ wong Amori, lan ⟨את⟩ wong Girgasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Yebus"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "wong Yebus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Amori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Amori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Girgasi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "wong Girgasi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:30.833822952Z",
+  "model": "glm-5.3"
+}

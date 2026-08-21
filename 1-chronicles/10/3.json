@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan perang iku saya abot kanggo Shaul, lan para pemanah nemu dhèwèké, lan dhèwèké kesusu-susu déning para juru panah.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "lan saya abot"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "perang iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanggo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "lan nemu dhèwèké"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "para pemanah"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "kang gendhewa"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "lan kesusu-susu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "déning"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "para juru panah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:21:42.432833308Z",
+  "model": "glm-5.3"
+}

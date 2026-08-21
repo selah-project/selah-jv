@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 18:31",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan ⟨mereka⟩ masang tumrap awake dhewe ⟨את⟩ patunge Mikha sing digawe iku, sedina-dina anane omah Elohim ing Syilo.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "lan ⟨mereka⟩ masang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tumrap awake dhewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patunge Mikha"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "patung"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina-dina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "anane dina-dinane"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "ing Syilo"
+    }
+  ],
+  "timestamp": "2026-08-20T23:54:44.509074250Z",
+  "model": "glm-5.3"
+}

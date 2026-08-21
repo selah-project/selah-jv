@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Banjur sawise perkara-perkara iku, Elohim nyoba ⟨את⟩ Avraham, banjur Nuturake dheweke: \"Avraham!\" Lan piyambake munjuk: \"Mriki kawula.\"",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Banjur jarene"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "nyoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur Nuturake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mriki kawula"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:25.515948347Z",
+  "model": "glm-5.3"
+}

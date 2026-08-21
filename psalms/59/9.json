@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Nanging Paduka, Yahweh, ngguyu ⟨marang⟩ dheweke; ngece sakabehing bangsa-bangsa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "nanging Paduka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ngguyu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ngece"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.084221404Z",
+  "model": "glm-5.3"
+}

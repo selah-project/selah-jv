@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan iki asma-asmane putrané Aharon: sang kawitan Nadab, lan Avihu, Elazar, lan Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "asma-asmane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "sang kawitan"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "lan Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "lan Itamar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:22.806665220Z",
+  "model": "glm-5.3"
+}

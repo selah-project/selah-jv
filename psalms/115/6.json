@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Kupinge ⟨ana⟩ ing dheweke nanging ora bisa ngrungokake; idunge ⟨ana⟩ ing dheweke nanging ora bisa ambu.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ing dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bisa ngrungokake"
+    },
+    {
+      "surface": "אף",
+      "gloss": "idung"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ing dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "bisa ambu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:09.093200808Z",
+  "model": "glm-5.3"
+}

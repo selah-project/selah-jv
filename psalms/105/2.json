@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Ngembangana donga marang Panjenengane, pasulapa marang Panjenengane; reremukna ing sadurunge samubarang kagumune.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Ngembangana donga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Panjenengane"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pasulapa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Panjenengane"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "reremukna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sadurungé samubarang"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "kagumene"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:15.654323600Z",
+  "model": "glm-5.3"
+}

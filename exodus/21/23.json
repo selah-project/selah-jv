@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan menawa ana cilaka, kowé wajib mènèhi nyawa tinimbang nyawa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "cilaka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "lan kowé wajib mènèhi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyawa"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:37.942714238Z",
+  "model": "glm-5.3"
+}

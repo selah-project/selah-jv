@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 16:25",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Ing saben sirahing dalan kowe yasa papan dhuwurmu, lan kowe gawe ⟨את⟩ kaendahanmu dadi buffer, lan kowe mbukak ⟨את⟩ sikilmu marang saben sing liwat, lan kowe nambahi ⟨את⟩ pencesmu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "marang\/ing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "בנית",
+      "gloss": "kow� yasa"
+    },
+    {
+      "surface": "רמתך",
+      "gloss": "papan dhuwurmu"
+    },
+    {
+      "surface": "ותתעבי",
+      "gloss": "lan kowe gawe dadi buffer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaendahanmu"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "kaendahanmu"
+    },
+    {
+      "surface": "ותפשקי",
+      "gloss": "lan kowe mbukak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikilmu"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "sikilmu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang saben"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "sing liwat"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "lan kowe nambahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pencesmu"
+    },
+    {
+      "surface": "תזנתך",
+      "gloss": "pencesmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:11:34.886091608Z",
+  "model": "glm-5.3"
+}

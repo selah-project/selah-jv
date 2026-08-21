@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Nanging yèn kowé ora ngrungokake Aku, lan ora nglakoni ⟨את⟩ saben prentah iki —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "nanging yèn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nlakoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saben prentah iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "prentah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:36.707514382Z",
+  "model": "glm-5.3"
+}

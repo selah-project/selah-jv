@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 6:11",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Apa aku bisa ⟨is⟩ murni ing nganggo timbangan kalacuran, lan kanthi bungkelé watu tipu?",
+  "tokens": [
+    {
+      "surface": "האזכה",
+      "gloss": "apa-ben-murni"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "ing timbangan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kalacuran"
+    },
+    {
+      "surface": "ובכיס",
+      "gloss": "lan ing bungkel"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "watu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tipu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:33:10.661136591Z",
+  "model": "glm-5.3"
+}

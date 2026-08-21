@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Iki undhak-undhakane pamundhutmu, pamedhane saka ⟨את⟩ Aku, pangandikane Yahweh, amarga sira ora ngelingi ⟨את⟩ Aku lan sira percaya marang goroh.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "undhak-undhakane pamundhutmu"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "pamedhane"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "saka ukuranmu"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ saka Aku",
+      "marks": "Aku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "sira ora ngelingi"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Aku",
+      "marks": "sira ora ngelingi Aku"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "lan sira percaya"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "marang goroh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:53:11.547131542Z",
+  "model": "glm-5.3"
+}

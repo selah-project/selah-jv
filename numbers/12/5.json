@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur Yahweh mudhun ing sajroning saka-wulananing mendhung, banjur ngadeg ing lawanging ⟨the⟩ khemah, banjur nelukake Aharon lan Miryam, lan loro-lorone metu.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "banjur mudhun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ing saka-wulananing"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "mendhung"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "banjur ngadeg"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur nelukake"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "lan Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "metu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "loro-lorone"
+    }
+  ],
+  "timestamp": "2026-08-20T23:22:40.552396456Z",
+  "model": "glm-5.3"
+}

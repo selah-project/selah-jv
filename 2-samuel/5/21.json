@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan padha ninggalake ing kana ⟨את⟩ patung-patungé, banjur Dawid lan wong-wongé njupuk.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "lan padha ninggalake"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patung-patungé"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "patung-patungé"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וינשיו",
+      "gloss": "lan wong-wongé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:02.140396601Z",
+  "model": "glm-5.3"
+}

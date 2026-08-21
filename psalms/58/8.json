@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Bubar kaya banyu, mili ngalor-ngidul dhewe; nalika panahé dienggo nuju, kaya katata.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "bubar"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "mili ngalor-ngidul"
+    },
+    {
+      "surface": "למו",
+      "gloss": "dhewe"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "nuju"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "panahé"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "katata"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:44.367092917Z",
+  "model": "glm-5.3"
+}

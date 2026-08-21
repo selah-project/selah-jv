@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Karya Dawid. Aja padu panas marang wong-wong ala, aja dengki marang para panggawe kaluputan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Karya Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "padu panas"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "marang wong-wong ala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "dengki"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "marang para panggawe"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kaluputan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:45.211419962Z",
+  "model": "glm-5.3"
+}

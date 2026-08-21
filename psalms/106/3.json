@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Becik-beciké para kang ngambengi kaadilan, kang nindakake kabeneran ing saben wektu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Becik-becike"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "para kang ngambengi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kaadilan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kang nindakake"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:50.768113763Z",
+  "model": "glm-5.3"
+}

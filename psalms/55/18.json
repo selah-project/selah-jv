@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Senja lan esuk lan awan aku ngrenungake lan aku ngarepake, lan ⟨ia⟩ ngrungokake swaraku.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "senja"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "lan esuk"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "lan awan"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "aku ngrenungake"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "aku ngarepake"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "lan ⟨ia⟩ ngrungokake"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swaraku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:07.980447087Z",
+  "model": "glm-5.3"
+}

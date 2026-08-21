@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Bukit Tzion bungah, para putri Yehuda padha girang, amarga putusan-putusanmu.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukit"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "padha girang"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "para putri"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "putusan-putusanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:39.947940268Z",
+  "model": "glm-5.3"
+}

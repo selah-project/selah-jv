@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Prasetyane iku critakna marang anak-anakmu, lan anak-anakmu marang anak-ane wong tuane, lan anak-ane wong tuane marang keturunan sabanjure.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "prasetyane iku"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "marang anak-anakmu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "critakna"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "lan anak-anakmu"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "marang anak-ane wong tuane"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "lan anak-ane wong tuane"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "marang keturunan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sabanjure"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:13.108296922Z",
+  "model": "glm-5.3"
+}

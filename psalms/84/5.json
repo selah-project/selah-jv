@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 84,
+  "translation": "Begjane wong-wong sing padha manggon ing Griyan-Mu; isih padha memuji Kowé. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Begjane"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sing padha manggon"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ing Griyan-Mu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih\/tansah"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "padha memuji Kowé"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:32.217475104Z",
+  "model": "glm-5.3"
+}

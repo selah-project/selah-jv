@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan bne Yisrael padha nglakoni ⟨את⟩ sing ala ing paningalé Yahweh, lan padha lali marang ⟨את⟩ Yahweh Elohimé, lan padha nglayani ⟨את⟩ para Baal lan ⟨את⟩ para Ashera.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Lan padha nglakoni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing ala"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sing ala"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "lan padha lali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "lan padha nglayani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "para Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para Ashera"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "para Ashera"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:23.871867718Z",
+  "model": "glm-5.3"
+}

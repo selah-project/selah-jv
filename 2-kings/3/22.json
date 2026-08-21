@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur padha tangi ènggal ing ésuk, lan srengéngé sampun sumengat ing sadhuwuring banyu, lan Moab padha deleng saka ngarsa ⟨את⟩ banyu iku abrit kaya getih.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "padha tangi ènggal"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing ésuk"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "lan srengéngé"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "sumengat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "lan padha deleng"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "saka ngarsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "abrit"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "kaya getih"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:18.884266828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan menawa wadon, panilaènmu telung puluh syikel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Lan menawa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "wadon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "panilaènmu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telung puluh"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "syikel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:10.111032232Z",
+  "model": "glm-5.3"
+}

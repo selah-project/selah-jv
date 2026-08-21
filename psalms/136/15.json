@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 136,
+  "translation": "Lan ngeculake Paro sarta wadyabalane ing Segara Sup, sebab awet salawas-lawase karunia-Né.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "lan ngeculake ngguncangake"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "sarta wadyabalane"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ing segara"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "awet salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "karunia-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:53.345076968Z",
+  "model": "glm-5.3"
+}

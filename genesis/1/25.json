@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim nindakake ⟨את⟩ kéwan bumi miturut jinise, lan ⟨את⟩ sato kéwan miturut jinise, lan ⟨את⟩ sabarang kang mlimpetan ing siti miturut jinise; lan Elohim ndeleng yèn becik.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kéwan bumi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "kéwan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "miturut jinise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sato kéwan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sato kéwan"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "miturut jinise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabarang kang mlimpetan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kang mlimpetan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "siti"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "miturut jinise"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:16.568416209Z",
+  "model": "glm-5.3"
+}

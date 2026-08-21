@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan kowe ngaturake ⟨את⟩ para Levi ing ngarep kemah pasamuwan, lan kowe ngempalake ⟨את⟩ saka wong-wong kumpulane bani Yisrael.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "lan kowe ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para Levi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "para Levi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarep"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "lan kowe ngempalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka wong-wong kumpulane bani Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "wong-wong kumpulane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:54.632370879Z",
+  "model": "glm-5.3"
+}

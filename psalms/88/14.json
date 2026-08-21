@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Nanging aku marang Paduka, Yahweh, nguwuh-elem, lan ing esuk donga-Ku bakal madhep ngarsa-Paduka.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nanging aku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Paduka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nguwuh-elem"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "lan ing esuk"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "donga-Ku"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "bakal madhep ngarsa-Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:53.296918101Z",
+  "model": "glm-5.3"
+}

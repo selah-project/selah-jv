@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 11:7",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Yiftah ngandika marang para sesepuh Gilad: Apa dudu kowe sing sengit marang aku lan nundhung aku saka omahé bapakku? Déné kok padha teka marang aku saiki, nalika kowe ing sasripahan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "marang para sesepuh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "apa dudu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "sengit"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku (objek saka 'sengit')"
+    },
+    {
+      "surface": "ותגרשוני",
+      "gloss": "nundhung aku"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omahé"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapakku"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "déné kok"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sasripahan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:36.333838502Z",
+  "model": "glm-5.3"
+}

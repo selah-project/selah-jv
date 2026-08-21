@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Moshe makakake ⟨את⟩ Aharon lan ⟨את⟩ para putrane, lajeng ngumbahi ⟨את⟩ dhèwèké nganggo toya.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "lan makakake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para putrane"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "lajeng ngumbahi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dhèwèké"
+    },
+    {
+      "surface": "במים",
+      "gloss": "nganggo toya"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:06.994306952Z",
+  "model": "glm-5.3"
+}

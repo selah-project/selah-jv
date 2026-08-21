@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Mugi nyawaku ngurip lan muji Paduka, lan sapawartosPaduka nulungi aku.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "mugi ngurip"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "lan muji Paduka"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "lan sapawartosPaduka"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "nulungi aku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:21.899677066Z",
+  "model": "glm-5.3"
+}

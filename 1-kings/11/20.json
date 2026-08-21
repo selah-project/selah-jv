@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan adhine Tachpenes nglairake marang dheweke ⟨את⟩ Genubat anake; Tachpenes dhewe nuntun idune ing sajroning omahe Paroh, lan Genubat ana ing omahe Paroh ing tengahing para putrane Paroh.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "lan nglairake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "adhine"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anake"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "banjur nuntun idune (warèni)"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing sajroning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi (ana)"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:25.199579134Z",
+  "model": "glm-5.3"
+}

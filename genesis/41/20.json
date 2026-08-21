@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Lan lembu wadon kurus lan ala iku padha mangan ⟨את⟩ pitu lembu wadon kapisan kang lemu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": ""
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lembu wadon"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "kurus"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "lan ala iku padha"
+    },
+    {
+      "surface": "את",
+      "gloss": "mangan ⟨את⟩",
+      "marks": "pitu lembu wadon kapisan kang lemu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "lembu wadon"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "kapisan"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "kang lemu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:50.859517925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Yahweh ngandika marang Moshe: Paroh ora arep ngrungokake kowe, supaya mukjizat-Ku mundhak akeh ing ⟨the⟩ bumi Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mundhak akeh"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mukjizat-Ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:28.700460594Z",
+  "model": "glm-5.3"
+}

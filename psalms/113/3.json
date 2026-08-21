@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 113,
+  "translation": "Saka papané srengéngé munggah nganti papané srengéngé tum plug, pinuji asma Yahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "saka papané srengéngé munggah"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מבowאו",
+      "gloss": "papané srengéngé tum plug"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "pinuji"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:26.751440750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ora aku wedi marang ewonan wong akeh, kang ngubengi aku kanthi nunggang nglawan aku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "aku wedi"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "marang ewonan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nunggang nglawan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:52.980637081Z",
+  "model": "glm-5.3"
+}

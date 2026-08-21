@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "E kulawarga Aharon, padha nunggua ing Yahweh: pitulungané lan tamengé ⟨iku⟩ dhéwé.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "padha nunggua"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "pitulungané"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "lan tamengé"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iku⟩ dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:31.366366016Z",
+  "model": "glm-5.3"
+}

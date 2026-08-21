@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Aku ndeleng ⟨את⟩ kabeh pakaryan sing ditindakake sangisore srengéngé, lan lah, kabeh iku kesèblangan lan ngudi angin.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh pakaryan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "pakaryan"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "sing ditindakake"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kabeh iku"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kesèblangan"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "lan ngudi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:57.296493764Z",
+  "model": "glm-5.3"
+}

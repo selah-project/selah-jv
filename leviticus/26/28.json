@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "mula Aku bakal lumaku nglawan kowé kanthi nesuning sengit, lan Aku bakal ngukum ⟨את⟩ kowé kabeh, ya Aku dhéwé, ping pitu adhedhasar dosamu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "mula Aku bakal lumaku"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nglawan kowe kabeh"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "kanthi nesuning sengit"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "keras ati"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "lan Aku bakal ngukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe kabeh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku dhéwé"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ping pitu"
+    },
+    {
+      "surface": "על",
+      "gloss": "adhedhasar"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "dosanmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:47.154337291Z",
+  "model": "glm-5.3"
+}

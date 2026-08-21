@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sakabating pasamuwan Yisrael kudu nglakoni ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sakabating"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "kudu nglakoni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (Pésakh)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:53.924806500Z",
+  "model": "glm-5.3"
+}

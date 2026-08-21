@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 29:29",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan sandhangan suci sing kanggo Aharon bakal dadi duweke anak-anake sawise dheweke, kanggo diurapi ing kono lan kanggo ngisi ⟨את⟩ tangané ing kono.",
+  "tokens": [
+    {
+      "surface": "ובגדי",
+      "gloss": "lan sandhangan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kanggo Aharon"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "kanggo anak-anake"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sawise dheweke"
+    },
+    {
+      "surface": "למשחה",
+      "gloss": "kanggo diurapi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ולמלא",
+      "gloss": "lan kanggo ngisi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangané"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tangané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:09.968995199Z",
+  "model": "glm-5.3"
+}

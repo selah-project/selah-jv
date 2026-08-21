@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 121,
+  "translation": "Awan srengéngé ora bakal ngenani ⟨sira⟩, wulan ing wengi ⟨uga ora⟩.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "awan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ngenani sira"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "lan wulan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ing wengi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:15.236495431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Yagene para bangsa bakal ngucap: \"Ing endi saiki Elohimé dhéwé?\"",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "yagene"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakal ngucap"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ing endi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimé dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:57.320696764Z",
+  "model": "glm-5.3"
+}

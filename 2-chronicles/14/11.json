@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Banjur Yahweh nggebug ⟨את⟩ wong-wong Kush ing ngarepe Asa lan ing ngarepe Yehuda, lan wong-wong Kush padha kalunar.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "banjur nggebug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong Kush"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "wong-wong Kush"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "lan ing ngarepe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "lan padha kalunar"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "wong-wong Kush"
+    }
+  ],
+  "timestamp": "2026-08-21T03:38:34.725352506Z",
+  "model": "glm-5.3"
+}

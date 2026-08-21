@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Kanggo pangripta wirama. Mizmor kagungane Dawid. Yahweh, Paduka ngundhugi aku sarta nguningani aku.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangripta wirama"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagungane Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "Paduka ngundhugi aku"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "sarta nguningani"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:03.912074204Z",
+  "model": "glm-5.3"
+}

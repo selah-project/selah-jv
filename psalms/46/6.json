@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Elohim ⟨is⟩ ing tengahé ⟨iya⟩, ora bakal oyag; Elohim pitulung marang ⟨iya⟩ nalika wayah esuk.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ing tengahé"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "bakal oyag"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "pitulung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "nalika wayah"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:20.221810605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Sihi aku, duh Elohim, sihi aku, awit marang Kowé uripku padha ndhedher perlindungan, lan ing rere pengampin-Mu aku bakal ndhedher, nganti bencana iku kalampahan.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "sihi aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "sihi aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang Kowé"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "padha ndhedher perlindungan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "uripku"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "lan ing rere"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "pengampin-Mu"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "aku bakal ndhedher"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "kalampahan"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bencana"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:25.978089139Z",
+  "model": "glm-5.3"
+}

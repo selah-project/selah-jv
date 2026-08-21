@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan sang raja ngandika: Mati kudu mati kowe, Akhimelekh, kowe lan kabeh omah bapakmu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kudu mati"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:00.370561491Z",
+  "model": "glm-5.3"
+}

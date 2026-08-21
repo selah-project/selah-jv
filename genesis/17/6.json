@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Aku bakal ngedhemaké kowé ⟨את⟩ sanget banget, lan Aku bakal mitunani kowé dadi bangsa-bangsa, lan para ratu saka ing kowé bakal metu.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "lan Aku bakal ngedhemaké"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kowé"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "lan Aku bakal mitunani kowé"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "dadi bangsa-bangsa"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "lan para ratu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka ing kowé"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bakal metu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:40.007881305Z",
+  "model": "glm-5.3"
+}

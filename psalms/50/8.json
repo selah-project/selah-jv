@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Ora amarga kurban-kurbanmu Ingsun ngeriti sira; lan kurban bakaranmu tansah ana ing ngarsa-Ingsun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "kurban-kurbanmu"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "Ingsun ngeriti sira"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "lan kurban bakaranmu"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ana ing ngarsa-Ingsun"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:00.177032249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lorone Ely iku anak-anak sing ora ana becike, dheweke ora rungu marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan anak-anak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ely"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "sing ora ana becike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "rungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:55:59.097659067Z",
+  "model": "glm-5.3"
+}

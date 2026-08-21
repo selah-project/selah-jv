@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Ndereh, Yekuwater lan dadi garing; Yauliraké lan muteraké bumi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ndereh"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "nyekeli"
+    },
+    {
+      "surface": "במים",
+      "gloss": "yekuwater"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "lan dadi garing"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "lan ngauliraké"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "lan mbalikaké"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:24:23.211659741Z",
+  "model": "glm-5.3"
+}

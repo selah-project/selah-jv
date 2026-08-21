@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Sebab aku wis maremake ⟨את⟩ jiwa sing lesu, lan saben jiwa sing ngeluh wis aku kebakake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "aku wis maremake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jiwa sing lesu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "sing lesu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "sing ngeluh"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "wis aku kebakake"
+    }
+  ],
+  "timestamp": "2026-08-21T04:11:50.439423785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Sajenan lan sesaji Kowé ora gelem; kuping kawula Kowé wis gawé (dibukak); kurban obong lan kurban dosa Kowé ora njaluk.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "sajenan"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "lan sesaji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "Kowé gelem"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kowé gawé (dibukak)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kawula"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kurban obong"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "lan kurban dosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "Kowé njaluk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:57.997982954Z",
+  "model": "glm-5.3"
+}

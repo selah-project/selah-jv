@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Saka kesesakan aku ngundhang Yah; Yah njawab aku ing papan wiyar.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "kesesakan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku ngundhang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "Yah njawab aku"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "ing papan wiyar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:37.105182096Z",
+  "model": "glm-5.3"
+}

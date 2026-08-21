@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "lan bapaké pramedha ngandika marang para sesepuh: ⟨את⟩ putriku dakwènèhaké marang wong iki dadi garwa, lan ⟨dhèwèké⟩ sengit marang dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapaké"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "pramedha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putriku"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "putriku"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dakwènèhaké"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "marang wong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi garwa"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "lan sengit marang dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:10.946691716Z",
+  "model": "glm-5.3"
+}

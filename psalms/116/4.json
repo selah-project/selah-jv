@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Lan ing asmaning Yahweh kula nyeru: dhuh Yahweh, mugi paduka ngluwari nyawane kula!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "lan ing asmaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kula nyeru"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "dhuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "mugi paduka ngluwari"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawane kula"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:56.492716229Z",
+  "model": "glm-5.3"
+}

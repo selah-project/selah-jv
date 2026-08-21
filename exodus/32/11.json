@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Banjur Moshe nuwun ⟨את⟩ rahine Yahweh, Elohime, lan ngandika: Ya Yahweh, kenapa murkamundhak panase marang bangsamu, kang Sandhukaké metu saka tanah Mitsrayim kanthi kasa gedhé lan kanthi asta kukuh?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "nuwun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahine"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rahine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "mundhak panase"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murkam"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "marang bangsamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "Sandhukaké metu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "kanthi kasa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhé"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "lan kanthi asta"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kukuh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:25.865376912Z",
+  "model": "glm-5.3"
+}

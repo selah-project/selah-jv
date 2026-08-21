@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 22:18",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan marang ratu Yehudha sing ngutus kowe kanggo ngunjukake ⟨marang⟩ Yahweh, mangkō kowe kandha marang ⟨iya⟩: Mangkō kadhandha Yahweh, Elohimé Yisrael: bab pangandika-pangandika sing kokrungu —",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "sing ngutus"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "kanggo ngunjukake ⟨marang⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkō"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "kowe kandha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang ⟨iya⟩"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mangkō"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kadhandha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pangandika-pangandika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kokrungu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:30:46.311185868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Para kasid padha girang ing kamulyan; padha ngumandhangake pasamuwan ing dhemak-e dhéwé.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "padha girang"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "para kasid"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ing kamulyan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "padha ngumandhangake pasamuwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "dhemak-e dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:30.045501150Z",
+  "model": "glm-5.3"
+}

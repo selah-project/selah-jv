@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "kanggo Yissakhar, Netanel putrane Tsuwar.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "kanggo Yissakhar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuwar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:35.609308841Z",
+  "model": "glm-5.3"
+}

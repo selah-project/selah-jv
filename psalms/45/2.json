@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Atiku ngumbut tembung apik; aku ngandika karyaku marang ⟨sang⟩ ratu; ilatku ⟨iku⟩ pena juru-tulis sing lincah.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ngumbut"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "apik"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "karyaku"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang ratu"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ilatku"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pena"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "juru-tulis"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "lincah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:08.344377400Z",
+  "model": "glm-5.3"
+}

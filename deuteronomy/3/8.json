@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Dhèk semana kita njupuk ⟨את⟩ bumi saka ing_astane rong raja Émorì, sing ing sandhinipun Kali Yarden, saka jurang Arnon nganti gunung Chermon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "banjur kita njupuk"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "semana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka ing_astane"
+    },
+    {
+      "surface": "שני",
+      "gloss": "rong"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "raja"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Émorì"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ing seberang"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Kali Yarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "saka jurang"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:48.352229422Z",
+  "model": "glm-5.3"
+}

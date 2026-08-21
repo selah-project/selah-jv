@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Sawise iku Abdon bin Hillel wong Piraton iku ngadili ⟨את⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sawise iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "wong Piraton"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:20.442906163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Yoktan nglairake ⟨את⟩ Almodad, lan ⟨את⟩ Shelef, lan ⟨את⟩ Khatsermawet, lan ⟨את⟩ Yerakh.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "lan Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khatsermawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Khatsermawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yerakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerakh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:15:43.184785799Z",
+  "model": "glm-5.3"
+}

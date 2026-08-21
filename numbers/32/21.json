@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "lan saben wong sing maju perang ngliwati ⟨את⟩ Yarden ing ngarsane Yahweh, nganti Panjenengane ngusir ⟨את⟩ mungsuh-mungsuh-E saka ngarsane",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "wong sing maju perang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ngusir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mungsuh-mungsuh-E"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "mungsuh-mungsuh-E"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "saka ngarsane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:35.961622556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan bojone (mas kakunge) HaMoleketh nglairake ⟨את⟩ Ishod, lan ⟨את⟩ Aviezer, lan ⟨את⟩ Machlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "lan kakunge"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "HaMoleketh"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Machlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Machlah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:19:32.368187772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Lan aku angen-angenaké ing saben pakaryan-Mu, lan ing laku-laku-Mu aku ngguneman dhéwé.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "lan aku angen-angenaké"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "pakaryan-Mu"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "lan ing laku-laku-Mu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "aku ngguneman dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:26.635270120Z",
+  "model": "glm-5.3"
+}

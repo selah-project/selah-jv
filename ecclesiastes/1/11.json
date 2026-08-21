@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Ora ana éling marang sing-ngarep, lan uga marang sing-bakal-teka bakal ora ana élingan bareng karo sing bakal teka ing mburiné.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "élingan"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "marang sing-ngarep"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "marang sing-bakal-teka"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "sing bakal ana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo wong-wong mau"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "élingan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng karo"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "sing bakal ana"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "ing mburiné"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:36.623466350Z",
+  "model": "glm-5.3"
+}

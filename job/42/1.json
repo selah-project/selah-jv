@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Banjur Iyob mangsuli marang Yahweh ⟨את⟩ sarta ngendika:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "banjur mangsuli"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sarta ngendika"
+    }
+  ],
+  "timestamp": "2026-08-21T04:21:55.578184718Z",
+  "model": "glm-5.3"
+}

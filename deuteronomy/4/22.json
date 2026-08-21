@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Sebab aku bakal mati ing bumi iki, aku ora nglintasi ⟨את⟩ Yarden, nanging kowe sing bakal nglintasi lan nduweni ⟨את⟩ bumi sing becik iki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mati"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "aku ora"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nglintasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nanging kowe"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "sing bakal nglintasi"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "lan nduweni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "sing becik"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:01.084649693Z",
+  "model": "glm-5.3"
+}

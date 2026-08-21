@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Padha ijolaké ⟨את⟩ kamulyané dadi wujud sapi sing mangan suket.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "padha ijolaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyané"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "kamulyané"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "dadi wujud"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "suket"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:41.531072012Z",
+  "model": "glm-5.3"
+}

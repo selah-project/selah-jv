@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Padhangan iku sing dituku Avraham saka ⟨את⟩ anak-anake Het; ing kono disarekake Avraham lan Sarah bojone.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "padhangan iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "dituku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩",
+      "marks": "anak-anake Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "disarekake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "lan Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojone"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:11.094354831Z",
+  "model": "glm-5.3"
+}

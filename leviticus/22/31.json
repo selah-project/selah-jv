@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan padha nguri-uri prentah-prentahku sarta padha nindakake ⟨את⟩ iku; Aku Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "lan padha nguri-uri"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "prentah-prentahku"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "sarta padha nindakake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iku (prentah-prentahku)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:18.870221238Z",
+  "model": "glm-5.3"
+}

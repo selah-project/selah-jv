@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Armon deleng yèn padha kena papat ing ngarsane Yisrael, banjur padha ngutus utusan, lan padha ngetokake ⟨את⟩ Aram kang ana ing sabenture ilèn kali, lan Shophakh pangéran wadyabalané Hadadezer ana ing ngarsane.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lan padha deleng"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "padha kena papat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "banjur padha ngutus"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "utusan"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "lan padha ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ana ing sabenture"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ilèn kali"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "lan Shophakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangéran"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wadyabalané"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ana ing ngarsane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:25:41.914432069Z",
+  "model": "glm-5.3"
+}

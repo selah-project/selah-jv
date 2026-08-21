@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan imam bakal ngobongaké ing sadhuwuring mesbéh — pangan kurban obor dhumateng Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ngobongaké"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ing sadhuwuring mesbéh"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pangan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "kurban obor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "dhumateng Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:05.528910624Z",
+  "model": "glm-5.3"
+}

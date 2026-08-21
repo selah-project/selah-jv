@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Sapa sing nyukani ⟨את⟩ rohe Yahweh, lan sapa wong sing dadi panaséhaté kang nduduhaké dhèwèké?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "nyukani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rohe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rohe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan sapa wong"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "panaséhaté"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "kang nduduhaké dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:41.287711617Z",
+  "model": "glm-5.3"
+}

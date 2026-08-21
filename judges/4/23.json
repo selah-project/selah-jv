@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur Elohim nglumpuhake, ing dina iku, ⟨את⟩ Yabin ratu Kanaan, ing ngarepe para putra Israel.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "nglumpuhake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabin ratu Kanaan"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:38.771880608Z",
+  "model": "glm-5.3"
+}

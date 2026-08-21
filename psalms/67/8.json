@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 67,
+  "translation": "Elohim mugi maringake kita, lan kabeh uciping bumi padha wedi marang ⟨את⟩-Né.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "mugi maringake kita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "lan padha wedi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh uciping bumi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "uciping"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:40.410387497Z",
+  "model": "glm-5.3"
+}

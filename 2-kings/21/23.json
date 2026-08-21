@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan para abdi Amon nglamar njedhot nglawan dheweke, lan padha mateni ⟨את⟩ sang raja ing omahe dhewe.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "lan nglamar njedhot"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "para abdi"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nglawan dheweke"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "lan padha mateni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ing omahe dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:53.150383226Z",
+  "model": "glm-5.3"
+}

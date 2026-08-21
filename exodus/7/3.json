@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Nanging Aku bakal ndadèkaké ⟨את⟩ atiné Paroh nganti atos, lan Aku bakal nambahi ⟨את⟩ tandha-tandha-Ku lan ⟨את⟩ mujijadat-Ku ing tanah Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nanging Aku"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "bakal ndadèkaké nganti atos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atiné Paroh"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "lan Aku bakal nambahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tandha-tandha-Ku"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tandha-tandha-Ku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "mujijadat-Ku"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mujijadat-Ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:09.102074348Z",
+  "model": "glm-5.3"
+}

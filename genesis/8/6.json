@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Laka wusana pati dina, Nuh mbukak ⟨את⟩ jendhele bahtera sing didadèkaké.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Laka"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "wusana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "pati"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mbukak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jendhele bahtera"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "jendhele"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dadèkaké"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:11.323823222Z",
+  "model": "glm-5.3"
+}

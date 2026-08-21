@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lah, duwene Yahweh Elohimmu ⟨⟨⟩⟩ iku ⟨the⟩ langit lan langiting langit, bumi lan sabarang sing ana ing jroné.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "duwene Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "lan langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ing langit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing jroné"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:44.487319345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Jupuk ⟨את⟩ wong-wong Lewi saka antarane para putra Israil, lan kowe nyucèkaké ⟨את⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "jupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong Lewi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "wong-wong Lewi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "saka antarane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "lan nyucèkaké"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:05.981015866Z",
+  "model": "glm-5.3"
+}

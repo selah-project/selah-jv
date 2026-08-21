@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Ora bakal uwal saka pepetengan; tunase bakal garing dening iladiping geni, lan bakal kasilih dening angin saka cangkeme.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "uwal\/kasilih"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pepetengan"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "tunase"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "garing"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "iladiping geni"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "lan kasilih"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "dening angin"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "saka cangkeme"
+    }
+  ],
+  "timestamp": "2026-08-21T02:27:12.215033667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "⟨את⟩ wedhus siji kowe gawea ing wayah esuk, lan ⟨את⟩ wedhus kapindho kowe gawea antarane rong swasana sore.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus siji"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kowe gawea"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing wayah esuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wedhus kapindho"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "wedhus"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kapindho"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kowe gawea"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarane"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "rong swasana sore"
+    }
+  ],
+  "timestamp": "2026-08-20T23:27:50.732429865Z",
+  "model": "glm-5.3"
+}

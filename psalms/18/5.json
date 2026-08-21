@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Tali-tali pati ngubengi aku, lan klilir-kiliring bervial ngegeti atiku.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ngubengi aku"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "tali-tali"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "lan klilir-kilir"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "bervial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "ngegeti atiku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:11.225918423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 95,
+  "translation": "Sebab ⟨dialah⟩ Elohim kita, lan kita ⟨⟨iku⟩⟩ umat padhangane, lan domba tanganinge. Dina iki, manawa swarane kokrungu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dialah⟩"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "lan kita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "lan domba"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tanganinge"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina iki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kokrungu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:36.448795276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Apa temen, ⟨ing⟩ meneng, kok ngomong ⟨iku⟩ kabeneran? Apa kok ngadili jujur, hai para anak manungsa?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "apa temen"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "meneng"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "kok ngomong"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "jujur"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "kok ngadili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:51.735937781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Paturunan bakal ngabdi marang Panjenengane; bakal kacaritakake tumrap Adonai ing sangarepé wuri-wuri.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "paturunan"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "bakal ngabdi marang Panjenengane"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "bakal kacaritakake"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "tumrap wuri-wuri"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:54.459993465Z",
+  "model": "glm-5.3"
+}

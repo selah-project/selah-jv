@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 82,
+  "translation": "Ingsun wurukake: padha elohim kowe, lan kabeh kowe iku putraning Mahaluhur.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ingsun"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "wurukake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan putraning"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Mahaluhur"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kabeh kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:03.674758228Z",
+  "model": "glm-5.3"
+}

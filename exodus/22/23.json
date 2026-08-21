@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lalu nesu-Ku murup, lan Aku bakal matèni ⟨את⟩ sira nganggo pedhang, lan bojonira bakal dadi randha, lan anak-anakira dadi yatim.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "lalu murup nesu"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "nesu-Ku"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "lan Aku bakal matèni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nganggo pedhang"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "bojonira"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "randha"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "lan anak-anakira"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "yatim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:32.999843062Z",
+  "model": "glm-5.3"
+}

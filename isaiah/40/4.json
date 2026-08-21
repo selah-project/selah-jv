@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Saben jurang bakal kaangkat, lan saben gunung lan bukit bakal kadirud; papané sing bengkong-bengkong dadi rata, lan papané sing angar dadi ambun.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "jurang"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "bakal kaangkat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "lan bukit"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "bakal kadirud"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "sing bengkong-bengkong"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "dadi rata"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "lan sing angar"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "dadi ambun"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:06.543262650Z",
+  "model": "glm-5.3"
+}

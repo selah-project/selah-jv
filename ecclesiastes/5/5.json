@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Aja awakmu menehake ⟨את⟩ tutukmu supaya dosa marang ⟨את⟩ sariramu, lan aja ngucap ing ngarepe malaikat yen ⟨iku⟩ kaluputan; apa sebebe Elohim ngesel marang suaramu lan ngrusak ⟨את⟩ gaweyané tanganmu?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kowe menehake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tutukmu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tutukmu"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "supaya dosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sariramu"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "sariramu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaikate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "apa sebebe"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "ngesel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "suaramu"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "lan ngrusak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaweyané tanganmu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gaweyané"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:48.520272599Z",
+  "model": "glm-5.3"
+}

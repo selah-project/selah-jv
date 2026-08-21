@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Santai waé lan padha weruh yèn aku iki Elohim; ingkang dhuwur ing antarané para bangsa, ingkang dhuwur ing bumi.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Santai waé"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "lan padha weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku iki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ingkang dhuwur"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing antarané para bangsa"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ingkang dhuwur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:44.027429956Z",
+  "model": "glm-5.3"
+}

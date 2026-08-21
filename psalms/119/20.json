@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Remuk ⟨is⟩ nyawaku dening karep marang ukuman-ukumanmu, sedina muput.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "remuk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "dening karep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ukuman-ukumanmu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sadina muput-sadina"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:10.323336028Z",
+  "model": "glm-5.3"
+}

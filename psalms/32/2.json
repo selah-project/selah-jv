@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Begja manungsa kang ora diétung Yahweh ⟨marang⟩ ⟨dhèwèké⟩ pangèwoné, lan ing rohé ora ana cidra.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Begja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "diétung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pangèwoné"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ing rohé"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "cidra"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:35.675805694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Apa dudu kaya Karkemish, Kalno? apa dudu kaya Arpad, Hamat? apa dudu kaya Damesyeq, Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa dudu"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "kaya Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "kaya Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hemat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "kaya Damesyeq"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:22.103212814Z",
+  "model": "glm-5.3"
+}

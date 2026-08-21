@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Ndeleng, ⟨⟨wong ala⟩⟩ nglairaké kajahatan, ngandhut kasusahan lan nglairaké goroh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "nglairaké susah"
+    },
+    {
+      "surface": "און",
+      "gloss": "kajahatan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ngandhut"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "lan nglairaké"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:02.588790632Z",
+  "model": "glm-5.3"
+}

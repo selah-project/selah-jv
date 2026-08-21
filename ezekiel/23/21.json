@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur kowé nggatekake ⟨את⟩ kaluputané enommu, nalika Mitsrayim nggarap ⟨את⟩ dadhamu, amarga payudara enommu.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "banjur kowé nggatekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluputan"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "enommu"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "nalika nggarap"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "dadhamu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "payudara"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "enommu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:15:43.136600635Z",
+  "model": "glm-5.3"
+}

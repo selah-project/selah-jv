@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Iki para putrane Sem, miturut klan-klane, miturut basane, ing negerine, miturut bangsane.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut klan-klane"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "miturut basane"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ing negerine"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "miturut bangsane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:31.587748754Z",
+  "model": "glm-5.3"
+}

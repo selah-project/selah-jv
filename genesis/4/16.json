@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Kajin metu saka ngarsane Yahweh, lan manggon ing tanah Nod, ing wétané Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan manggon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "ing wétané"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:54.915938383Z",
+  "model": "glm-5.3"
+}

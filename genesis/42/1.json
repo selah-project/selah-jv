@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Banjur Yaakov weruh yen ana wiji pangan ing Mitsrayim, lan Yaakov ngandika marang para putrane: gene padha ngondongi siji lan sijine?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Banjur ... weruh"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "wiji pangan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ... ngandika"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "marang para putrane"
+    },
+    {
+      "surface": "למה",
+      "gloss": "gene"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "padha ngondongi siji lan sijine"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:50.724479200Z",
+  "model": "glm-5.3"
+}

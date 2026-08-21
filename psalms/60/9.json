@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Gilad iku duweku, lan Menashsheh duweku; Efrayim bètèngé sirahku; Yehudha kang nemtokaké undhang-undhangku.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "duweku"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "lan duweku"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "bètèng"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirahku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "kang nemtokaké undhang-undhangku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:20.145247299Z",
+  "model": "glm-5.3"
+}

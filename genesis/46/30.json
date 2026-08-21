@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Lan Yisrael ngandika marang Yosef: Saiki aku isa mati, awit aku wis weruh ⟨את⟩ raimu, amarga kowe isih urip.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "aku isa mati"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "aku wis weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raimu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "kowe isih"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:54.242343181Z",
+  "model": "glm-5.3"
+}

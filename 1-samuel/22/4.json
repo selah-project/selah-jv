@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan awake ngaturake ⟨את⟩ ngarsane ratu Moab, lan wong tuwane padha manggon karo awake sedaya dinane anggone Dawid ana ing bètèng.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngarsane ratu Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsane"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "padha manggon"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "karo awake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "היות",
+      "gloss": "anggone"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ing bètèng"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:31.419968954Z",
+  "model": "glm-5.3"
+}

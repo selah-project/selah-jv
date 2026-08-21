@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Elingana dina-dinane jaman kuna, padha mangertena taun-taune sesa miturut sesa; takona ramamu lan bakal matur marang kowe, para sepuhmu lan bakal ngandika marang kowe.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "elingana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "jaman kuna"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "padha mangertena"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "taun-taune"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sesa"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "miturut sesa"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "takona"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ramamu"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "lan bakal matur marang kowe"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "para sepuhmu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan bakal ngandika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:40:02.157436137Z",
+  "model": "glm-5.3"
+}

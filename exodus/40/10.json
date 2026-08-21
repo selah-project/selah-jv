@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan kowé bakal ngurapi ⟨את⟩ altaré kurban obong lan ⟨את⟩ sakabehing pirantine, lan ngucapake suci ⟨את⟩ altar iku, lan altar iku bakal dadi suci paling suci.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "lan kowé bakal ngurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altaré kurban obong"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban obong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pirantine"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "lan ngucapake suci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar iku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar iku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar iku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "paling suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:02.492455112Z",
+  "model": "glm-5.3"
+}

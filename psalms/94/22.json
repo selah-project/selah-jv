@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 94,
+  "translation": "Lan Yahweh dadi ⟨iku⟩ panggonanku sing dhuwur, lan Elohime dadi watu pangungkuranku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "panggonan sing dhuwur"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "lan Elohime"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "dadi watu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "pangungkuranku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:15.829458655Z",
+  "model": "glm-5.3"
+}

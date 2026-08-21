@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan ngapa kowé ora ngajagi ⟨את⟩ supatané Yahweh lan ⟨את⟩ paréntah kang dakrintèha marang kowé?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "lan ngapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "kowé ngajagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "supatané Yahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "supatané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "paréntah"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "paréntah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "dakrintèha"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:32.151161709Z",
+  "model": "glm-5.3"
+}

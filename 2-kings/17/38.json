@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan prajanjenan sing Dakgawe ⟨את⟩ karo kowe aja kok lali, lan aja wedi marang elohim liyane.",
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "lan prajanjenan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "Dakgawe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ karo kowe",
+      "marks": "kowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "kok lali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:47.498086365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Banjur sang nabi Gad ngandika marang Dawid: aja kowe manggon ing pasangonan; mangkatana lan buwana menyang bumi Yehudha. Dadi Dawid mangkat lan teka ing alas Kheret.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ing pasangonan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mangkata"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "banjur mangkat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "יער",
+      "gloss": "alas"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "Kheret"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:19.084435048Z",
+  "model": "glm-5.3"
+}

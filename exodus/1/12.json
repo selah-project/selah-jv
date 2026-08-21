@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Nanging sakcathete dheweke nandhang ⟨את⟩ wong Israyil, sakcathete iku uga dheweke tambah lan mekar; wong Mesir getun awit saka anak-anak Israyil.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "sakcathete\/nalika"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "nandhangake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wong Israyil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono uga"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "tambah"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "lan mengkono"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "mekar\/ngranggah"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "getun\/wedi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "awit saka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyil"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:29.040390266Z",
+  "model": "glm-5.3"
+}

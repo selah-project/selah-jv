@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur raja Misthrai ngundhang para paraji wedhok, lan dhèwèké ngandika marang wong wedhok kuwi: kenapa padha nindakake ⟨the⟩ perkara iki, lan nguripake ⟨את⟩ para bayi lanang?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ngundhang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misthrai"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "para paraji wedhok"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "להן",
+      "gloss": "marang wong wedhok kuwi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kenapa"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "lan nguripake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para bayi lanang"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "para bayi lanang"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:28.242813564Z",
+  "model": "glm-5.3"
+}

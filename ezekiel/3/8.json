@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ndheng, Aku ndadèkaké ⟨את⟩ praupané kowe atos ngadhepi praupané dhèwèké, lan ⟨את⟩ dhahe kowe atos ngadhepi dhahe dhèwèké.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ndheng"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Aku ndadèkaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "praupané kowe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praupané kowe"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "atos"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngadhepi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "praupané dhèwèké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "dhahe kowe"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "dhahe kowe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "atos"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngadhepi"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "dhahe dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:08:20.967798527Z",
+  "model": "glm-5.3"
+}

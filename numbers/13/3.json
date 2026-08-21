@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Moshe ngirim ⟨את⟩ wong-wong mau saka ara-ara Paran, miturut sabdane Yahweh; kabeh iku wong-wong, para pamimpining para putrane Yisrael, iku mau.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan ngirim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "saka ara-ara"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sabdane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "para pamimpining"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iku mau"
+    }
+  ],
+  "timestamp": "2026-08-20T23:22:50.696368589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Elohim, Kowé ⟨wis⟩ mulang aku wiwit saka enomku, lan nganti saiki dakandhakake ⟨את⟩ kagumunan-Mu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "Kowé mulang aku"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "wiwit saka enomku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan nganti"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "dakandhakake"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kagumunan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:03.828896284Z",
+  "model": "glm-5.3"
+}

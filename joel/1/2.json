@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Padha ngrungokake iki, para sesepuh, lan padha nyawang kuping, sapa sing manggon ing bumi: apa iki wis kelakon ing jamanmu, utawa ing jaman para leluhurmu?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "nyawang kuping"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa sing"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "apa wis kelakon"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "ing jamanmu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ing jaman"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "para leluhurmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:13.108175955Z",
+  "model": "glm-5.3"
+}

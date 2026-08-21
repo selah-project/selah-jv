@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Kanggo pangngatur musik; kanggo anak-anake Korach; mazmur.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangngatur musik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kanggo anak-anake"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:34.305355497Z",
+  "model": "glm-5.3"
+}

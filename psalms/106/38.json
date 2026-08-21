@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Lan padha ngelirake getih sing tanpa sala, getihe para putrane lan para putrine, sing padha diselehake marang brahala-brahala Kenaan; sarta bumi iku dadi cemar dening getih-getih.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "lan padha ngelirake"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "sing tanpa sala"
+    },
+    {
+      "surface": "דם",
+      "gloss": "getih"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "lan para putrine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "padha nyembelih"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "marang brahala-brahala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "lan dadi cemar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "dening getih-getih"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:08.681312088Z",
+  "model": "glm-5.3"
+}

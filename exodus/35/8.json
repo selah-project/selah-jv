@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan lenga kanggo lampu, lan bumbu-arum kanggo lenga jampi-jampian, lan kanggo dupa rempah-rempah.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "lan lenga"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "kanggo lampu"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "lan bumbu-arum"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "kanggo lenga"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "jampi-jampian"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "lan kanggo dupa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "rempah-rempah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:04.469166080Z",
+  "model": "glm-5.3"
+}

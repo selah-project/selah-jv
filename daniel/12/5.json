@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur aku ndeleng—aku, Daniel—lan lah, ana wong loro liyane padha ngadeg: siji ing kene, ing pinggiring kali, lan siji ing kana, ing pinggiring kali.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "banjur aku ndeleng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyane"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "padha ngadeg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ing kene"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "ing pinggiring"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "lan siji"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "ing pinggiring"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kali"
+    }
+  ],
+  "timestamp": "2026-08-21T03:04:24.017581332Z",
+  "model": "glm-5.3"
+}

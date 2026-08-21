@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan Yehudha ngutus ⟨את⟩ anak wedhus iku liwat tangan kancaé, wong Adhulam iku, kanggo njupuk jaminan iku saka tangané wong wadon iku; nanging ⟨dhèwèké⟩ ora nemu ⟨wong wadon iku⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lan ngutus"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak wedhus iku"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "anak wedhus"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kambing iku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "liwat tangan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kancaé"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "wong Adhulam iku"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kanggo njupuk"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "jaminan iku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wong wadon iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "nemu wong wadon iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:32.389835277Z",
+  "model": "glm-5.3"
+}

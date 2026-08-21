@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Banjur takethok mring mezbahé Elohim, mring El, bungahé gumbiraku; lan takurmati Kowe nganggo kinor, wahyu Elohim, Elohimku.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "banjur takethok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mring"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mezbahé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "bungahé"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "gumbiraku"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "lan takurmati Kowe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "nganggo kinor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:59.972725662Z",
+  "model": "glm-5.3"
+}

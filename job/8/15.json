@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sandhar marang ⟨omahé⟩ lan ora madeg; gengsem marang iku lan ora bakal tangga.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "sandhar"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "madeg"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "gengsem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "marang iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tangga"
+    }
+  ],
+  "timestamp": "2026-08-21T04:21:07.030193912Z",
+  "model": "glm-5.3"
+}

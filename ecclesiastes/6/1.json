@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Ana ⟨⟨ing⟩⟩ ala sing takdhelengi sangisoring srengéngé, lan iku abot banget tumrap manungsa.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "takdhelengi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "lan abot banget"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "על",
+      "gloss": "tumrap"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:57.314437373Z",
+  "model": "glm-5.3"
+}

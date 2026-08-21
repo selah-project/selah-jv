@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Awit ramaku lan ibuku ninggalake aku, nanging Yahweh bakal nampi aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ramaku"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "lan ibuku"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ninggalake aku"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "nanging Yahweh"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "bakal nampi aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:34.178492467Z",
+  "model": "glm-5.3"
+}

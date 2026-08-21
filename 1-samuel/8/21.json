@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur Shemuel ngenteni ⟨את⟩ sakabehing tembung ing wong-wong mau, lan nglaporake kabeh iku marang telinge Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "banjur ngenteni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing tembung"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "lan nglaporake kabeh iku"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "marang telinge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:49.463030393Z",
+  "model": "glm-5.3"
+}

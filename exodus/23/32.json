@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Ora kowé-gawe perjanjian karo dhèwèké lan-karo-dewa-dewané.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kowé-gawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "karo-dhèwèké"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "lan-karo-dewa-dewané"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "perjanjian"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:24.431603016Z",
+  "model": "glm-5.3"
+}

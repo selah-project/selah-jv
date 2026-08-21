@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Ahab ngandhakake marang Izebel ⟨את⟩ samu kabeh kang ditindakake Elijah, lan ⟨את⟩ samu kabeh kang dipateni — ⟨את⟩ kabeh para nabi — nganggo pedhang.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ngandhakake"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "marang Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samu kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "samu kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "samu kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "samu kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dipateni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh para nabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nganggo pedhang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:06:10.515458380Z",
+  "model": "glm-5.3"
+}

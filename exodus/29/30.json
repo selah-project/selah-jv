@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Pitu dinane imam, saka anak-anake, sing ngganteni dheweke, kudu nganggo iku, nalika ⟨dheweke⟩ lumebu menyang kemah pasamuwan kanggo ngabdi ing papan suci.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina-dinane"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "nganggo iku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ngganteni dheweke"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "saka anak-anake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "lumebu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "kanggo ngabdi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ing papan suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:09.969238784Z",
+  "model": "glm-5.3"
+}

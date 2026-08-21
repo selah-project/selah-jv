@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Saka sadurungé pamelangku kabèh, slametaké aku; aja dadekaké aku wiradané wong bodho.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "saka sadurungé … kabèh"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pamelangku"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "slametaké aku"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "wiradané"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wong bodho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "dadekaké aku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:51.930047387Z",
+  "model": "glm-5.3"
+}

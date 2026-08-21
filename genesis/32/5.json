@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan dheweke ndhawuhake ⟨את⟩ ⟨אתם⟩, mangkene ngendikaa: mengkéné padha ngendikaa marang bendarané, Esau: mengkéné ature abdimu Yaakov: karo Lavan aku ngumbara, lan aku nganti saiki.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "lan dheweke ndhawuhake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dhawuh\/kang didhawuhake (para utusan)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kang ngendika"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mengkéné"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "padha ngendikaa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "marang bendarané"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mengkéné"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ature"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "aku ngumbara"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "lan aku nganti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:33.384564112Z",
+  "model": "glm-5.3"
+}

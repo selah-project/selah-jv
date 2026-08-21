@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Yahweh nulak sakabèhé wiji turuning Israèl, lan nandhang sasmita nganti padha kaantep, lan maringaké padha ing astané para juru ngoyak nganti padha kabuwang saka ngarsané.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "nulak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "wiji turuning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "nandhang sasmita nganti padha"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "maringaké padha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing astané"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "para juru ngoyak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "padha kabuwang"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "saka ngarsané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:03.229305730Z",
+  "model": "glm-5.3"
+}

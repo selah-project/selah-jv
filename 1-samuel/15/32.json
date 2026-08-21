@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan Samuel matur: Cedhakna ⟨את⟩ Agag raja Amalek marang aku. Banjur Agag teka menyang panjenengane kanthi parancah, lan Agag matur: Sayeksa paite pati iku wis lali.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan matur"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "Cedhakna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag raja Amalek"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "menyang panjenengane"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "kanthi parancah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Sayeksa"
+    },
+    {
+      "surface": "סר",
+      "gloss": "wis lali"
+    },
+    {
+      "surface": "מר",
+      "gloss": "pait"
+    },
+    {
+      "surface": "המות",
+      "gloss": "pati"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:46.764290456Z",
+  "model": "glm-5.3"
+}

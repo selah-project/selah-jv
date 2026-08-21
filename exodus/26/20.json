@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan ing sisih liya mishkan, kang kapindho, ing sisih lor: rongpuluh papan.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Lan ing sisih"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kang kapindho"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ing sisih"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "lor"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rongpuluh"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "papan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:30.518038885Z",
+  "model": "glm-5.3"
+}

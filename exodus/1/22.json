@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Paroh maréntahaké marang sakabèhé umaté, ngendika: Saben putra kakung sing lair, kok iibakna ing Kali; nanging saben putri pawestri kok uripna.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "maréntahaké"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang sakabèhé"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umaté"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "putra kakung"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "sing lair"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "ing Kali"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "kok iibakna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nanging saben"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "putri pawestri"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "kok uripna"
+    }
+  ],
+  "timestamp": "2026-08-20T22:55:56.867935003Z",
+  "model": "glm-5.3"
+}

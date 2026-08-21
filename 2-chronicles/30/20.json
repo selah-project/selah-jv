@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Yahweh ngrungokake marang Yechizkiyahu, lan mundhut waras ⟨את⟩ wong akèh iku.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lan ... ngrungokake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "lan mundhut waras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong akèh iku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:45:48.007353975Z",
+  "model": "glm-5.3"
+}

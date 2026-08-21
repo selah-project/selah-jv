@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Umah, lan Aphek, lan Rekhob: kutha rong likur karo désa-désane.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "Lan Umah"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "lan Aphek"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "lan Rekhob"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rong"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "likur"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "karo désa-désane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:14.078460899Z",
+  "model": "glm-5.3"
+}

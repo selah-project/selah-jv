@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sebab ing saben karepe ana wektu lan panduman; sebab kasusahane manungsa iku gedhe banget marang ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "karepe"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "lan panduman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kasusahane"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "gedhe banget"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "marang ⟨dheweke⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:49.381136781Z",
+  "model": "glm-5.3"
+}

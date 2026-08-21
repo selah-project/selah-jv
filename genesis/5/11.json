@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Dadi kabeh umure Enosh sangang atus lan limang taun, banjur seda.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "umure"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "lan sangang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "seda"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:00.077913754Z",
+  "model": "glm-5.3"
+}

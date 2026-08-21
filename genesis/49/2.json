@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Berkumpulna lan ngrungokna, anak-anaké Yaakov, lan padha ngrungokna Israel bapakmu.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "berkumpulna"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ngrungokna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "padha ngrungokna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bapakmu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:21.789209851Z",
+  "model": "glm-5.3"
+}

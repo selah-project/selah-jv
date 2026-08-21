@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Wong-wong gumedhe ndhelikake jerat kanggo aku, lan tali-tali; wong nglgari jala ing sacing dalan, wong masang pancing kanggo aku. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "ndhelikake"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "wong-wong gumedhe"
+    },
+    {
+      "surface": "פח",
+      "gloss": "jerat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "lan tali-tali"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "wong nglgari"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "jala"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ing sacing"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "pancing"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "wong masang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:44.453024240Z",
+  "model": "glm-5.3"
+}

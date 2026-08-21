@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Elohim, wangsulna kita bali; lan padhangna praanganira, lan kita bakal kaslametan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "wangsulna kita bali"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "lan padhangna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praanganira"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "lan kita bakal kaslametan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:09.135701003Z",
+  "model": "glm-5.3"
+}

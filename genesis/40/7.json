@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan dhèwèké takon ⟨את⟩ para juru pasugatané Paroh kang ⟨את⟩ ana kaliyan ing pakunjaran ing griyane bendarane, kalawan munjuk: Yagéné rai-mu padha goroh ing dina iki?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "dhèwèké takon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para juru pasugatané Paroh"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "para juru pasugatan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ana kaliyan"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ing pakunjaran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ing griya"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bendarane"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kalawan munjuk"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "yagéné"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "rai-mu"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "padha goroh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dina iki"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:33.350900321Z",
+  "model": "glm-5.3"
+}

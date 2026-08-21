@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Nanging ⟨את⟩ sakabehing karajan ora bakal kukubaké; sak suku bakal karingaké marang putranira, demi Dawid abdiku, lan demi Yerushalayim kang takpilih.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing karajan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "bakal kukubaké"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bakal karingaké"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "marang putranira"
+    },
+    {
+      "surface": "למען",
+      "gloss": "demi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdiku"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "lan demi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "takpilih"
+    }
+  ],
+  "timestamp": "2026-08-21T04:04:14.514211278Z",
+  "model": "glm-5.3"
+}

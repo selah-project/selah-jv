@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Elohim ndadekake wong kang sepi padha dumun ing omah, ngetokake para tawanan kasugihan; nanging wong kang nglawan padha dumun ing lemah garing.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "ndadekake ... dumun"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "wong kang sepi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "para tawanan"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "kasugihan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "wong kang nglawan"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "padha dumun"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "ing lemah garing"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:32.542912944Z",
+  "model": "glm-5.3"
+}

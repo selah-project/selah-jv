@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 2:5",
+  "book": "nahum",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Ing dalan-dalan kreta-kreta padha ngamuk, padha gumrudug ing alun-alun; katoné kadya obor, kadya kilat padha mlayu.",
+  "tokens": [
+    {
+      "surface": "בחוצות",
+      "gloss": "ing dalan-dalan"
+    },
+    {
+      "surface": "יתהוללו",
+      "gloss": "padha ngamuk"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kreta-kreta"
+    },
+    {
+      "surface": "ישתקשקון",
+      "gloss": "padha gumrudug"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ing alun-alun"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "katoné"
+    },
+    {
+      "surface": "כלפידם",
+      "gloss": "kadya obor"
+    },
+    {
+      "surface": "כברקים",
+      "gloss": "kadya kilat"
+    },
+    {
+      "surface": "ירוצצו",
+      "gloss": "padha mlayu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:57.259817835Z",
+  "model": "glm-5.3"
+}

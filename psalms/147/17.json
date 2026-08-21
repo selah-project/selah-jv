@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Ngluncurake es kaya remuk-remukan; ing ngarsane sumuke, sapa sing bisa ngadeg?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "ngluncurake"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "ese"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "kaya remuk-remukan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "sumuke"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bisa ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:39.234750198Z",
+  "model": "glm-5.3"
+}

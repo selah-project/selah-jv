@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan sapa sing nggawa ⟨את⟩ bangké dibatangé padha ngumbah klambiné lan najis nganti sore; iku padha najis marang kowé.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "lan sapa sing nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangké dibatangé"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "bangké dibatangé"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ngumbah"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "klambiné"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "lan najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "padha najis"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:42.281433502Z",
+  "model": "glm-5.3"
+}

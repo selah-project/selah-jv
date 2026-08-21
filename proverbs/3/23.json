@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Nalika iku kowe bakal lumaku kanthi tentrem ing dalanmu, lan sampaimu ora bakal keglosor.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "nalika iku"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kowé bakal lumaku"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kanthi tentrem"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ing dalanmu"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "lan sampaimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "keglosor"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:31.313633115Z",
+  "model": "glm-5.3"
+}

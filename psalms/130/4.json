@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 130,
+  "translation": "Awit karo Kowé ana pangapunten, supados Kowé kadheregaken.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo Kowé"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ana pangapunten"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supados"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "Kowé kadheregaken"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:53.566727579Z",
+  "model": "glm-5.3"
+}

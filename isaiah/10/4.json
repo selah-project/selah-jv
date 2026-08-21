@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Ora ana liya kajaba tumungkul ing sangisore wong kalilan, lan ing sangisore wong sing padha dipateni sira padha tiba. Sakabehing iku esuhe ora bali mari, lan tangane isih didawakake.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "ora ana liya kajaba"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "tumungkul"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "wong kalilan"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "lan ing sangisore"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "wong sing padha dipateni"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "sira padha tiba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "esuhe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "lan isih"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "didawakake"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:34.966792333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Yehuda bakal manggon salawasé, lan Yerushalayim turun-temurun.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "lan Yehuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "bakal manggon"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "lan Yerushalayim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "turun-temurun"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "(lan turunane)"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:27.442443329Z",
+  "model": "glm-5.3"
+}

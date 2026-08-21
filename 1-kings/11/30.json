@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Ahiyah nyekel salma anyar kang ana ing awake, lan nirah dadi rolas tatan.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "lan nyekel"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiyah"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "salma"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "kang anyar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ana ing awake"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "lan nirah"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "rolas (loro-)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-sepuluh)"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "tatan (sobekan)"
+    }
+  ],
+  "timestamp": "2026-08-21T04:03:56.859128858Z",
+  "model": "glm-5.3"
+}

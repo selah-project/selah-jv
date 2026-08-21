@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 111,
+  "translation": "Pakaryaning asta-ipun kalampahan setya lan adil; sedaya préntahanipun saged dipunpitadosi.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "pakaryaning"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "asta-ipun"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "setya"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "lan adil"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "saged dipunpitadosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "préntahanipun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:57.675997143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Apa pangan tanpa rasa bisa didhahar tanpa uyah? apa ana rasa ing getihing juget?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "kadhaharkah"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "pangan tanpa rasa"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "uyah"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "rasa"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "ing getihing"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "juget"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:14.274065620Z",
+  "model": "glm-5.3"
+}

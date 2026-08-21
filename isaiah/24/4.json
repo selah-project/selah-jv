@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Nglara nutupi, layu bumi; rapuh, layu donya; para dhuwur tumrap wong ing bumi padha rapuh.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Nglara nutupi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "layu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "rapuh"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "layu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "donya"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "padha rapuh"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "para dhuwur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ing bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:53.335119628Z",
+  "model": "glm-5.3"
+}

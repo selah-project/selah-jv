@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan sanajan padha ngucap, 'Yahweh urip', sayekti padha supata ing goroh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan sanajan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "padha ngucap"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sayekti"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ing goroh"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "padha supata"
+    }
+  ],
+  "timestamp": "2026-08-21T00:50:33.370025065Z",
+  "model": "glm-5.3"
+}

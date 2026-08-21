@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 98,
+  "translation": "Guneman-lagu marang Yahweh nganggo kecapi, nganggo kecapi lan swara tembang.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "guneman-lagu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "nganggo kecapi"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "nganggo kecapi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "lan swara"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "tembang"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:37.609409506Z",
+  "model": "glm-5.3"
+}

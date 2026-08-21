@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur haSatan metu saka ngarsané Yahweh, lan nujud ⟨את⟩ Ayub nganggo borok ala, saka tapak sikile nganti pucuk sirahé.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "banjur metu"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "haSatan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lan nujud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "nganggo borok"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "saka tapak"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "pucuk sirahé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:21:03.716689688Z",
+  "model": "glm-5.3"
+}

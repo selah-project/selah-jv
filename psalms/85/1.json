@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Kanggo pangiring padhungu; mizmor para putra Korach.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangiring padhungu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:01.339122064Z",
+  "model": "glm-5.3"
+}

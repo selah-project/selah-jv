@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ana ing ranjangku, ing wengi-wengi, aku nggoleki ⟨את⟩ sing dipituturi atiku; dakgoleti dheweke, lan ora ketemu dheweke.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ranjangku"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ing wengi-wengi"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "aku nggoleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing dipituturi atiku"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "sing dipituturi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "dakgoleti dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ketemu dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:49.590278884Z",
+  "model": "glm-5.3"
+}

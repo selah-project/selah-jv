@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Marang Paduka, wahai Yahweh, aku njaluk; lan marang Adonai aku nyuwun kanugrahan.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "marang Paduka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku njaluk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "aku nyuwun kanugrahan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:15.653215808Z",
+  "model": "glm-5.3"
+}

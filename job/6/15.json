@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sedulurku tindak lirné kaya kali mangsa, kaya ilining kali-kali padha mili lunga.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "sedulurku"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "tindak lirné"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "kali mangsa"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "kaya ilining"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "padha mili lunga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:47.441930138Z",
+  "model": "glm-5.3"
+}

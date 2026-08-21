@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 141,
+  "translation": "Awit marang Paduka Yahweh, Adonai, mripatku; ing Paduka sunlindhungi; aja ambulangaken nyawaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Paduka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ing Paduka"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sunlindhungi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ambulangaken"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:52.031903659Z",
+  "model": "glm-5.3"
+}

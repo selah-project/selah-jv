@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 138,
+  "translation": "Aku sumujud marang bait sucimu, lan aku matur nuwun ⟨את⟩ marang asma-Mu amarga kasetyan-Mu lan amarga kaleresan-Mu; awit Kowé wis ngedah-edahake tembung-Mu sandhuwur sadaya asmamu.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "aku sumujud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "bait"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sucimu"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "lan aku matur nuwun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma-Mu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasetyan-Mu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan amarga"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "kaleresan-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "Kowé wis ngedah-edahake"
+    },
+    {
+      "surface": "על",
+      "gloss": "sandhuwur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asmamu"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tembung-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:34.295283132Z",
+  "model": "glm-5.3"
+}

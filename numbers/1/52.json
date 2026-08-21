@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan bani Yisrael padha kempal manah, siji-sijiné wong ing pakempalané, lan siji-sijiné wong ing gawané, miturut wadyabalané.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "lan padha kempal manah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji-sijiné wong"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "pakempalané"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan siji-sijiné wong"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "gawané"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "miturut wadyabalané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:21.961710658Z",
+  "model": "glm-5.3"
+}

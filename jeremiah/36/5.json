@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan Yirmeyahu mrentahake ⟨את⟩ Barukh supaya ngendika: Aku iki didhekake, aku ora bisa lumebu beth Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "Lan ... mrentahake"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "supaya ngendika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "didhekake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "lumebu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "beth"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:00:48.501959556Z",
+  "model": "glm-5.3"
+}

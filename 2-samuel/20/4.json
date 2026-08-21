@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan sang ratu ngandika marang Amasa: Sumélakaké kanggo aku ⟨את⟩ para wong Yehuda ing telung dina; lan kowé ing kéné ngadeg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ... ngandika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "Sumélakaké"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para wong Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "para wong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "lan kowé"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ing kéné"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:11.521288111Z",
+  "model": "glm-5.3"
+}

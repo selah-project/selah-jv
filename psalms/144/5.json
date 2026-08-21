@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Yahweh,condhakaké ⟨the⟩ langit-Mu supaya tumurun; senggol ⟨the⟩ gunung-gunung lan bakal metu asapé.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "condhakaké"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "langit-Mu"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "supaya tumurun"
+    },
+    {
+      "surface": "גע",
+      "gloss": "senggol"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "bakal metu asapé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:36.571450005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Ulama aku saka wong-wong sing nindakake kadurjanan, lan saka para wong getih slametna aku.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "uluma aku"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "saka wong-wong sing nindakake"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadurjanan"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "lan saka para wong"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "getih"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "slametna aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:33.113545790Z",
+  "model": "glm-5.3"
+}

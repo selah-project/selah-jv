@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Awit kita padha sirna ing muri-Mu, lan ing luwih-Mu kita padha wedi getun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "kita padha sirna"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ing muri-Mu"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "lan ing luwih-Mu"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "kita padha wedi getun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:47.173216765Z",
+  "model": "glm-5.3"
+}

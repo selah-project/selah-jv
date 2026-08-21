@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 121,
+  "translation": "Yahweh bakal njaga tindakira lan tebuse, saka saiki nganti salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bakal njaga"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "tindakira"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "lan tebuse"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "saka saiki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawase"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:18.052312914Z",
+  "model": "glm-5.3"
+}

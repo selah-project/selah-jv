@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan iki ⟨iyung⟩ anak-anake Levi miturut jenenge: Gereshon, Kehat, lan Merari.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi ⟨iyung⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "miturut jenenge"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "lan Kehat"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "lan Merari"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:08.619848746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Ahas jupuk ⟨את⟩ salaka lan ⟨את⟩ emas sing tinemu ing bale Yahweh lan ing papan-papan sesimpenan bale ratu, lan ngirimake marang ratu Asyur minangka suap.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lan jupuk"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salaka"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "sing tinemu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "lan ing papan-papan sesimpenan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "lan ngirimake"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang ratu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-08-21T00:29:29.370250643Z",
+  "model": "glm-5.3"
+}

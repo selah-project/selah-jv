@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "lan sawise lindhu ⟨ana⟩ geni — ora ing geni ⟨yahweh⟩; lan sawise geni iku swara sepi sing alus.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "lindhu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "האש",
+      "gloss": "geni iku"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "sepi"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "alus"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:38.362313441Z",
+  "model": "glm-5.3"
+}

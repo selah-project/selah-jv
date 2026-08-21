@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Agung Yahweh, lan sapunapa dipur nanging muji ing kuthane Elohim kita, gunung kadose.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Agung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "lan sapunapa dipur nanging muji"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kadose"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:20.959863911Z",
+  "model": "glm-5.3"
+}

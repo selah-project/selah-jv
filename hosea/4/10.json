@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan padha mangan nanging ora wareg, padha laku jina nanging ora mathuk; awit ⟨את⟩ Yahweh padha ditinggal, saka ngati-ati.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "lan padha mangan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "wareg"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "padha laku jina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "mathuk\/amba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "padha ditinggal"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saka ngati-ati"
+    }
+  ],
+  "timestamp": "2026-08-21T04:15:09.899095163Z",
+  "model": "glm-5.3"
+}

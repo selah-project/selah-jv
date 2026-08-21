@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 29:25",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "lan sakwau kambing wedokan siji dadi kurban dosa, sanesipun kurban obong ingkang terus-terusan, sesajen pangananipun lan sesombeleanipun",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "lan sakwau kambing"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambing wedokan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "sanesipun"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "kurban obong"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ingkang terus-terusan"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "sesajen pangananipun"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "lan sesombeleanipun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:27:21.295600100Z",
+  "model": "glm-5.3"
+}

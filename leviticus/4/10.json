@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "kaya dene sing dijupuk saka shor-matauné kurban damai-shelamim; lan imam bakal ngasepi kabeh iku ing sadhuwure misbang kurban bakaran",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "משור",
+      "gloss": "saka shor-matauné"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "damai-shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "bakal ngasepi kabeh iku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "misbang"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:58.835119620Z",
+  "model": "glm-5.3"
+}

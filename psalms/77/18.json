@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Awan-awan kandel ngecor banyu, langit nganthuni swara; uga panah-panahmu padha mlaku ana ing endi-endi.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "ngecor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "awan-awan kandel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nganthuni"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "panah-panahmu"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "mlaku ana ing endi-endi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:41.530813146Z",
+  "model": "glm-5.3"
+}

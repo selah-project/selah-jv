@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan wong Yahudi nampa ⟨את⟩ sing wiwit ditindakake, lan ⟨את⟩ sing ditulis Mordehai marang wong-wonge.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "nampa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "wong Yahudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing wiwit ditindakake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "wiwit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sing ditulis Mordehai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "ditulis"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang wong-wonge"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:33.598801860Z",
+  "model": "glm-5.3"
+}

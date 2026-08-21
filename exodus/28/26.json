@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan sira gawe loro cincin emas, lan sira pasang ⟨את⟩ ing loro ujunge hoshen, ing wewijing, kang ana ing sisih ephod mengarah jero.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan sira gawe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "loro"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "cincin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "lan sira pasang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "loro cincin emas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "wewijing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "sisih"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "mengarah jero"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:36.789319186Z",
+  "model": "glm-5.3"
+}

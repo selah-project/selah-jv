@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 1:5",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Padha tangi, sira sing mabuk, sarta padha nangis lan padha mungel, kabeh sing ngombe anggur, merga sari anggur wis katebas saka cangkemmu.",
+  "tokens": [
+    {
+      "surface": "הקיצו",
+      "gloss": "padha tangi"
+    },
+    {
+      "surface": "שכורים",
+      "gloss": "sira sing mabuk"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "lan padha nangis"
+    },
+    {
+      "surface": "והיללו",
+      "gloss": "lan padha mungel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "sing ngombe"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "על",
+      "gloss": "merga"
+    },
+    {
+      "surface": "עסיס",
+      "gloss": "sari anggur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "wis katebas"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "saka cangkemmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:23.201577977Z",
+  "model": "glm-5.3"
+}

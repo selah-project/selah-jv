@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Kadagingan lan kaluhuran nglindhuri aku, awit aku ngenteni Kowé.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "kadagingan"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "lan kaluhuran"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "nglindhuri aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ngenteni Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:02.069408034Z",
+  "model": "glm-5.3"
+}

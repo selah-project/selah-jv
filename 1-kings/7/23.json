@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan ia nggawe ⟨את⟩ Segara coran logam, sapuluh asta saka ilaté nganti ilaté, bunder ngubengi, lan dhuwuré lima asta, lan taliné telung puluh asta ngubengi ⟨את⟩ ngubengi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan ia nggawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Segara coran logam"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Segara"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "coran logam"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sapuluh"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "saka ilaté"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "ilaté"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "bunder"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "lan lima"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "dhuwuré"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "lan taliné"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telung puluh"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "asta"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Segara iku"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:31.195763104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lumaku menyang kidul, lan muteri menyang lor; muteri-muteri angin iku tansah lumaku, lan ing ubengan-ubengané angin iku bali.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "kidul"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "lan muteri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "lor"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "muteri"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "muteri"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ubengan-ubengané"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:36.297670598Z",
+  "model": "glm-5.3"
+}

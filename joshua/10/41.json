@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Yehosyua ngepruk ⟨את⟩ padha saka Qadesh-Barnea nganti Azzah, lan ⟨את⟩ saindhenging bumi Gosen, nganti Gibeon.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "ngepruk"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "saka Qadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saindhenging bumi Gosen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Gosen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:23.392457598Z",
+  "model": "glm-5.3"
+}

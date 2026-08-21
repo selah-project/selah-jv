@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 130,
+  "translation": "Jiwaniku ⟨iku⟩ kanggo Adonai, luwih ⟨saka⟩ para penjaga ⟨sing nunggu⟩ esuk, para penjaga kanggo esuk.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaniku"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kanggo Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "luwih saka para penjaga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "kanggo esuk"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "para penjaga"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "kanggo esuk"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:09.273712956Z",
+  "model": "glm-5.3"
+}

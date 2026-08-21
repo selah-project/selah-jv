@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan aku ngendika: ngendi kok lunga? Lan bareng ngendika marang aku: ngojo ⟨את⟩ Yerushalayim, supaya katon pira ambane lan pira dawane.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngendika"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ngendi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kok"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan bareng ngendika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ngojo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "supaya katon"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "pira"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ambane"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "lan pira"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dawane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:37:01.845828307Z",
+  "model": "glm-5.3"
+}

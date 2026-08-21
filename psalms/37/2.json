@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Sebab kaya suket enggal padha kapethel, lan kaya janganan ijo padha layu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kaya suket"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "enggal"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "padha kapethel"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "lan kaya janganan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ijo"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "padha layu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:45.211708557Z",
+  "model": "glm-5.3"
+}

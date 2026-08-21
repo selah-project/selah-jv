@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Kita ngentèni katentreman, lan ⟨kang⟩ apik ora ana; ngentèni wektu tamba, lan lah — getun.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "kita ngentèni"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "katentreman"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kang apik"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "wektu"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "tamba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "getun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:52:45.471680724Z",
+  "model": "glm-5.3"
+}

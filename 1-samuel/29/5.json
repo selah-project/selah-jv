@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Apa dudu iki Dawud, sing padha anggebiyar marang awaké ing tengen beksan, mulat: Syaul ngethuk ing éwoné, lan Dawud ing puluh éwoné?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "apa dudu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "padha anggebiyar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang awaké"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "ing tengen beksan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mulat"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ngethuk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Syaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "ing éwoné"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "lan Dawud"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "ing puluh éwoné"
+    }
+  ],
+  "timestamp": "2026-08-21T00:05:16.130906781Z",
+  "model": "glm-5.3"
+}

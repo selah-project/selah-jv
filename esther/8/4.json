@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Sang raja banjur caosaké ⟨את⟩ tongkat emas marang Ester, lan Ester tangi ngadeg ing ngarsané sang raja.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "caosaké\/ngalongaké"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "marang Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat emas"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T02:53:57.535063447Z",
+  "model": "glm-5.3"
+}

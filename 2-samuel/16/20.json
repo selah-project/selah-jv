@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan Absalóm ngucap marang Akitofel: Padha dhelemna babar blèn pitutures, apa sing bakal dak-lakoni kita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalóm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Akitofel"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Padha dhelemna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "pitutures"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa sing"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bakal dak-lakoni kita"
+    }
+  ],
+  "timestamp": "2026-08-21T00:10:16.460953172Z",
+  "model": "glm-5.3"
+}

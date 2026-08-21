@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Dheweke bakal ngundhang aku: Bapakku sira, El-ku, lan witu kaslametanku.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dheweke"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "bakal ngundhang aku"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Bapakku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "lan witu"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "kaslametanku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:34.627170556Z",
+  "model": "glm-5.3"
+}

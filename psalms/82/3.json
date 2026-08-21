@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 82,
+  "translation": "Adili ⟨⟨wong⟩⟩ lemah lan ⟨⟨wong⟩⟩ yatim; wong kasangsaran lan wong miskin benerna.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Adili"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wong lemah"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "lan wong yatim"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wong kasangsaran"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "lan wong miskin"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "benerna"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:47.335713858Z",
+  "model": "glm-5.3"
+}

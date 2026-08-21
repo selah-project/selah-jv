@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Aku wus ngandika: Yahweh, mugi asihna aku; pulihna nyawaku, awit aku wus dosa marang Kowe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "wus ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mugi asihna aku"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "pulihna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "wus dosa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:55.831266869Z",
+  "model": "glm-5.3"
+}

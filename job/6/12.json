@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Apa kuwasaku iya kuwase watu? apa dagingku saka tembaga?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuwasa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kuwasaku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:22:52.342498431Z",
+  "model": "glm-5.3"
+}

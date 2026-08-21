@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Dheweke mbalikake atine supaya sengit marang umat-E, lan supaya nggunakake tipu marang para abdi-Nae.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "mbalikake"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "atine"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "supaya sengit"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umat-E"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "supaya nggunakake tipu"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "marang para abdi-Nae"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:30.949998720Z",
+  "model": "glm-5.3"
+}

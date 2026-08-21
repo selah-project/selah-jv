@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Wong-wong sing percaya marang kakayane, lan ing kaluwihane bandhane padha megahake awake dhewe",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "wong-wong sing percaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "kakayane"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "lan ing kaluwihane"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "bandhane"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "padha megahake awake dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:02.166364200Z",
+  "model": "glm-5.3"
+}

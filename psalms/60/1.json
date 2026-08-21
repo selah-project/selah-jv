@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Kanggo pamimpin pasamuwan, miturut ⟨the⟩ lagu Shushan-Eduth, miktamipun David, kanggo mulang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pamimpin pasamuwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktamipun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Kagunganipun David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "kanggo mulang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:48.111797231Z",
+  "model": "glm-5.3"
+}

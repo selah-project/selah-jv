@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan iki keturunané Yitshak, putrané Avraham: Avraham peputra ⟨את⟩ Yitshak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Lan iki"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "keturunané"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "peputra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:09.783942757Z",
+  "model": "glm-5.3"
+}

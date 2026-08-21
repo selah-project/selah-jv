@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur dadi wiwitane karajané: Bavel, Erekh, Akad, lan Kalneh, ing tanah Shinar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "banjur dadi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "wuwitane"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "karajané"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "lan Erekh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "lan Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "lan Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing tanah"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:32.692951531Z",
+  "model": "glm-5.3"
+}

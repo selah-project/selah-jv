@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Banjur Elisha séda, lan disarèkaké. Lan rombongan panggedhéngané Moab teka ing wewengkon iku, ing tekaning taun.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "banjur séda"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "lan disarèkaké"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "lan rombongan panggedhéng"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing wewengkon iku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ing tekaning"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:19.763426850Z",
+  "model": "glm-5.3"
+}

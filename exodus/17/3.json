@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Banjur ing kono wong kono ngelaké banyu, lan wong kono padha ngompyeng marang Moshe, lan padha munjuk: Yagéné iki kok kok ngunggahaké aku saka Mesir, arep matèni ⟨את⟩ aku lan ⟨את⟩ putra-putraku lan ⟨את⟩ kewan-kewanku krana ngelak?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "banjur ngelak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kono"
+    },
+    {
+      "surface": "למים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "lan padha ngompyeng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kono"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan padha munjuk"
+    },
+    {
+      "surface": "למה",
+      "gloss": "yagéné"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "kok ngunggahaké aku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mesir"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "arep matèni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "putra-putraku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putraku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kewan-kewanku"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "kewan-kewanku"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "krana ngelak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:06.059196960Z",
+  "model": "glm-5.3"
+}

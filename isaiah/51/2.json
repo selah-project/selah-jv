@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Padha ndelenga marang Avraham bapakmu, lan marang Sarah sing nglairake sira: sebab siji wae Ingsun ngundang dheweke, lan Ingsun mberkahi dheweke, lan Ingsun ngedhekake dheweke.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "padha ndelenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "sing nglairake sira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji wae"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "Ingsun ngundang dheweke"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "lan Ingsun mberkahi dheweke"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "lan Ingsun ngedhekake dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:35.193906903Z",
+  "model": "glm-5.3"
+}

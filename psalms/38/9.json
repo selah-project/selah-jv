@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Aku tumpul lan diremuk ⟨nganti⟩ banget; aku ngenguh saka regeté atiku.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "aku-tumpul"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "lan-diremuk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "aku-ngenguh"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "saka-regeté"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:35.228783463Z",
+  "model": "glm-5.3"
+}

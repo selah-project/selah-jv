@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur sang raja njupuk ⟨את⟩ cincin stempelé saka ing tangane, lan mènèhaké marang Haman bin Hamdata sang Agagi, mungsuhé wong Yahudi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cincin stempelé"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "cincin stempelé"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "lan mènèhaké"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "marang Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "sang Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "wong Yahudi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:51:52.213935103Z",
+  "model": "glm-5.3"
+}

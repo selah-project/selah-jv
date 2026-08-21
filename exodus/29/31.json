@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan ⟨את⟩ domba jantan pengangkat-anthi kae panjenengan njupuk, lan panjenengan masak ⟨את⟩ dagingé ing papan suci.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "domba jantan pengangkat-anthi"
+    },
+    {
+      "surface": "איל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pengangkat-anthi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "panjenengan njupuk"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "lan panjenengan masak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingé"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "dagingé"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "ing papan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:09.969382574Z",
+  "model": "glm-5.3"
+}

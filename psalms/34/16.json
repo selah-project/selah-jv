@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Mripate Yahweh ⟨dumunung marang⟩ wong-wong kang bener, lan kupinge ⟨dumunung marang⟩ panguwuhe.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mripat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨dumunung marang⟩"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "wong-wong kang bener"
+    },
+    {
+      "surface": "ו אזניו",
+      "gloss": "lan kupinge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨dumunung marang⟩"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "panguwuhe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:43.661425174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Yahweh, aja ngrasuk aku ing nasem-Mu, lan aja ngukum aku ing aranmu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "ing nasem-Mu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ngrasuk aku"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "lan ing aranmu"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ngukum aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:29.676229376Z",
+  "model": "glm-5.3"
+}

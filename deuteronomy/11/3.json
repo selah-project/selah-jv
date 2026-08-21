@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan ⟨את⟩ tandha-tandhane lan ⟨את⟩ panggaweane, sing dilakoni ing tengahing Mitsrayim, marang Paraoh raja Mitsrayim lan marang sajrone bumihe kabeh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tandha-tandhane"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "tandha-tandhane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "panggaweane"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "panggaweane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dilakoni"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "marang Paraoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "lan marang sajrone kabeh"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "bumihe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:29.960246501Z",
+  "model": "glm-5.3"
+}

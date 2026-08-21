@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Kasungsutan lan kasungsutan, ngandika Kohelet; kasungsutan lan kasungsutan, kabeh ⟨iku⟩ kasungsutan.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "kasungsutan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "lan kasungsutan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kasungsutan"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "lan kasungsutan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kasungsutan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:42.419151615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Yahweh Elohim gawé kanggo Adam lan kanggo garwané jubah kulit, lan nganggoaké marang dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gawé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kanggo Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "lan kanggo garwané"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "jubah"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kulit"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "nganggoaké marang dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:01.173382026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan ⟨את⟩ lawangé debir iku digawé lawang-lawang kayu zaitun; ambangé lan tiyang-tiyang lawang seperlima ⟨saka jembaré tembok⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lawangé debir"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawé"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "lawang-lawang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ambang"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tiyang-tiyang lawang"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "seperlima"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:14.630266997Z",
+  "model": "glm-5.3"
+}

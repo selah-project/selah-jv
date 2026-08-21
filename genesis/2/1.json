@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan rampung ⟨⟨ing⟩⟩ langit lan ⟨⟨ing⟩⟩ bumi lan sakabehing bala-balané.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "lan rampung"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "lan bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "bala-balané"
+    }
+  ],
+  "timestamp": "2026-08-21T03:48:47.695021251Z",
+  "model": "glm-5.3"
+}

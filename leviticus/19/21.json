@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan ⟨dheweke⟩ nggawa ⟨את⟩ kurban salahé marang Yahweh, nganti lawanging kemah patemon, yaiku domba jantan minangka kurban salah.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Lan nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban salahé"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "kurban salahé"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawanging"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "patemon"
+    },
+    {
+      "surface": "איל",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kurban salah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:08.354599513Z",
+  "model": "glm-5.3"
+}

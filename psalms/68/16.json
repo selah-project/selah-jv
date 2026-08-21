@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Gununge Elohim iku gunung Bashan; gunung sing muncak akeh iku gunung Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "sing muncak akeh"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:37.665199014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan ⟨את⟩ Aharon sarta ⟨את⟩ para putrané sira nguruki, lan sira ngukuhaké ⟨את⟩ padha minangka imam kanggo Aku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "para putrané"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "sira nguruki"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "lan sira ngukuhaké"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "padha (Aharon lan para putrané)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "minangka imam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo Aku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:30.246830726Z",
+  "model": "glm-5.3"
+}

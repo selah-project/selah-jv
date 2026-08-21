@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan manna iku kaya wiji ketumbar, lan rupané kaya rupa bedolah.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "Lan manna"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "kaya wiji"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ketumbar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "lan rupané"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "kaya rupa"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:55:19.712060262Z",
+  "model": "glm-5.3"
+}

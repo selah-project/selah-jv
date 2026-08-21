@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Padha teka, anak-anak, padha ngrungokna marang aku; bebekti marang Yahweh daklatih marang kowe.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "padha ngrungokna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bebekti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "daklatih marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:42.192913074Z",
+  "model": "glm-5.3"
+}

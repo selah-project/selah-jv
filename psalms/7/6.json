@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Muga mungsuh nyuduki ⟨nyawaku⟩, nganti kasusul, lan nyilemi bumi uripku, lan kamulyanku didadekake panggonan ing lebu. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "nyuduki"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "nganti kasusul"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "lan nyilemi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uripku"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "lan kamulyanku"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ing lebu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "didadekake panggonan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:30.447015967Z",
+  "model": "glm-5.3"
+}

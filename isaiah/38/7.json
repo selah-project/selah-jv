@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan iki kanggo sira tandha ⟨את⟩ saka Yahweh, yén Yahweh bakal nindakake ⟨את⟩ sabda iki kang didhawuhaké.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Lan iki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo sira"
+    },
+    {
+      "surface": "האות",
+      "gloss": "tandha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ saka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yén"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakal nindakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabda iki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sabda iki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "didhawuhaké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:39.524068688Z",
+  "model": "glm-5.3"
+}

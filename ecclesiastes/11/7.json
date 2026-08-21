@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan ana manisé cahya, lan becik tumrap mripat bisa ndeleng ⟨את⟩ srengéngé.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "lan ana manisé"
+    },
+    {
+      "surface": "האור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "lan becik"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "tumrap mripat"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "bisa ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srengéngé"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:04.716361557Z",
+  "model": "glm-5.3"
+}

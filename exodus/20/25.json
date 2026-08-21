@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan yen mazbegeh saka watu kowe nggawe kanggo Aku, aha yasa ⟨את⟩ iku kanthi watu pahatan, sebab pedhangmu wis kowé ayunake ing sandhingé, lan kowé wis ngluhurake.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mazbegeh"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "saka watu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kowe nggawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo Aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aha"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "iku (watu pahatan)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "watu pahatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "pedhangmu"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "kowe ayunake"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ing sandhingé"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "lan kowé ngluhurake"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:26.987181774Z",
+  "model": "glm-5.3"
+}

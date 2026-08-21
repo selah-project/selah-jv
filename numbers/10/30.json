@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan awake dhewe ngandika: Ora, aku ora bakal lunga; nanging menyang nagaraku lan menyang tanah kalairanku aku bakal lunga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang awake dhewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku ora bakal lunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "nagaraku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan menyang"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "tanah kalairanku"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku bakal lunga"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:58.471930850Z",
+  "model": "glm-5.3"
+}

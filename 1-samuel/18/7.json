@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan para wadon iku mbsales wacanan siji-sijine nalika magemul, sarta ngucap: Shaul wis ngglundhangake ewuan, lan Dawud puluh-ewuan.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "mbales wacanan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "para wadon"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "nalika magemul"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "sarta ngucap"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wis ngglundhangake"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "ewuan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "lan Dawud"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "puluh-ewuan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:17.508228677Z",
+  "model": "glm-5.3"
+}

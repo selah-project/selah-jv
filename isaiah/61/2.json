@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 61,
+  "translation": "kanggo ngundhangake taun kareping Yahweh, lan dincauthi Elohim kita; kanggo nggenteni para tangis tumbas.",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "kanggo ngundhangake"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taun"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "karep"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "lan dina"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "cauthi"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "לנחם",
+      "gloss": "kanggo nggenteni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "para"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "tangis tumbas"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:37.386207760Z",
+  "model": "glm-5.3"
+}

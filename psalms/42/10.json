@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kula aturaken dhateng El, kara kawula: dhateng pundi Panjenengan sampun lali dhateng kawula? Dhateng pundi kawula tindak kanthi sungkan ing sangajenging pangrampasan mungsuh?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "kula aturaken"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "dhateng El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "kara kawula"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dhateng pundi"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "Panjenengan sampun lali dhateng kawula"
+    },
+    {
+      "surface": "למה",
+      "gloss": "dhateng pundi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "kanthi sungkan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kawula tindak"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ing sangajenging pangrampasan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:51.480663849Z",
+  "model": "glm-5.3"
+}

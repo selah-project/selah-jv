@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Kowé mbubrahake segara kanthi kawasanMu; Kowé mecahake sirah-sirahe rajawidhi ing sadhuwure banyu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "mbubrahake"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "kanthi kawasanMu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "mecahake"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirah-sirahe"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "rajawidhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:32.878409160Z",
+  "model": "glm-5.3"
+}

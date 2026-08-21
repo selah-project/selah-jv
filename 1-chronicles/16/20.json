@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan padha ana obahé saka bangsa menyang bangsa, lan saka karajan menyang wong liya.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "lan padha ana obahé"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "saka bangsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "lan saka karajan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    }
+  ],
+  "timestamp": "2026-08-21T03:22:41.488309064Z",
+  "model": "glm-5.3"
+}

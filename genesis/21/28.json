@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Avraham madhegaké ⟨את⟩ pitu anak wedhus wadon saka kawanané, kapisahan dhéwé.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "madhegaké"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitu anak wedhus wadon"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "anak wedhus wadon"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "saka kawanané"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "kapisahan dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:51.893836176Z",
+  "model": "glm-5.3"
+}

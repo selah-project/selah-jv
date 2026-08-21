@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan padha menehake marang Kalev ⟨את⟩ Khebron, kaya sing wis dikandhakake dening Moshe, lan ngusir saka kono ⟨את⟩ telu putrane Anak.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "lan padha menehake"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "marang Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dikandhakake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "lan ngusir"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "telu putrane Anak"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "Anak"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:15.345510655Z",
+  "model": "glm-5.3"
+}

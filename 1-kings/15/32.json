@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan ana perang antarané Asa lan antarané Baasha ratu Yisrael sadawané umuré.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarané"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarané"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadawané"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "umuré"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:45.321191823Z",
+  "model": "glm-5.3"
+}

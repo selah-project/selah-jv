@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Kapriyé aku ngudud, lan El ora ngudud? Lan kapriyé aku nece, lan Yahweh ora nece?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Kapriyé"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "aku ngudud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "ngudud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Lan kapriyé"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "aku nece"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "nece"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:24.571338720Z",
+  "model": "glm-5.3"
+}

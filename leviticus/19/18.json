@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Aja males balas, lan aja ngetang etuh marang ⟨את⟩ anak-anaké bangsamu; nanging kowé kudu tresna marang kanca mu padha karo awakmu dhéwé; aké Yahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "males balas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "ngetang etuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaké bangsamu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsamu"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "kowé kudu tresna"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "marang kanca mu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "padha karo awakmu dhéwé"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:09.943416489Z",
+  "model": "glm-5.3"
+}

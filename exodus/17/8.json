@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Amalek teka, lan perang nglawan Israel ing Refidim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "lan perang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "ing Refidim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:41.090491445Z",
+  "model": "glm-5.3"
+}

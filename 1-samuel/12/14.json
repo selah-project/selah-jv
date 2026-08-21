@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Menawa kowé padha bekti marang ⟨את⟩ Yahweh lan ngabekti ⟨אתו⟩ ing kono, ngrungokake swarane, ora nglawan ⟨את⟩ piyantasane Yahweh, kowé uga lan ratu sing mrentah ing sadhuwurmu bakal padha mèlu ing sapelingere Yahweh Elohimmu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kowé padha bekti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "lan ngabekti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "Yahweh (dadi objek ngabdi)"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "piyantasane"
+    },
+    {
+      "surface": "פי",
+      "gloss": "piyantasane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "kowé bakal dadi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mrentah"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ing sadhuwurmu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mèlu ing sapelingere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:53.131882906Z",
+  "model": "glm-5.3"
+}

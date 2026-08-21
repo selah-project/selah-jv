@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Paroh ngendika: Aku iki bakal ngutus ⟨את⟩ kowe padha lunga, supaya kowe padha nyembelih kurban marang Yahweh, Elohimira, ing ara-ara samun; namung aja tebih □ tebih □ banget tindake; monga padha donga marang murihe aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Aku iki"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "bakal ngutus lunga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "kowe padha nyembelih kurban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara samun"
+    },
+    {
+      "surface": "רק",
+      "gloss": "namung"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "tebih □"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "tebih banget kowe padha"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "tindake"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "monga padha donga"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "murihe aku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:42.230710289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Saul meruhi ⟨את⟩ swarane Daud, lan munjuk: Apa iki swaramu, Daud anakku? Lan Daud munjuk: Swaraku, bendara ratu.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "meruhi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarane"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "swaramu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daud"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swaraku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:34.372617268Z",
+  "model": "glm-5.3"
+}

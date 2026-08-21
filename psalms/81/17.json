@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Lan Dhewe ngemparaake ⟨dhewe⟩ saka jembaré gandum, lan saka watu madu aku ngwarehake kowé.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "lan Dhewe ngemparaake ⟨dhewe⟩"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "saka jembaré (lemaké)"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "lan saka watu"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "aku ngwarehake kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:08.841546321Z",
+  "model": "glm-5.3"
+}

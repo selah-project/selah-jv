@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Yahweh seneng marang ⟨את⟩ para sing wedi marang Panjenengane, ⟨את⟩ para sing ngenteni kasetyane.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "seneng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para sing wedi marang Panjenengane"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "para sing wedi marang Panjenengane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para sing ngenteni kasetyane"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "para sing ngenteni"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:18.661935458Z",
+  "model": "glm-5.3"
+}

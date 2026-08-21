@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Kowé ndadèkaké kami dadi aib marang tangga tepara kami, dadi ejekan lan guyonan marang wong-wong sing ngubengi kami.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Kowé ndadèkaké kami"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "aib"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "marang tangga tepara kami"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ejekan"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "lan guyonan"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "marang wong-wong sing ngubengi kami"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:35.633737283Z",
+  "model": "glm-5.3"
+}

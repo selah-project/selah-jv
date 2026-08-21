@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Panjenengan nyingkirake ⟨⟨sabeh sing padha kesasar saking pepakem-pakem Panjenengan⟩⟩, awit paniyesahe iku goroh.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "nyingkirake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabeh"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "sing padha kesasar"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "saking pepakem-pakem Panjenengan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "paniyesahe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:45.875050907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Aku ndeleng ⟨את⟩ bumi, lah, kusuma lan kosong; lan marang sang langit, lan ana tanpa sumelingipun.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kusuma"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "lan kosong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sang langit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ana tanpa"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "sumelingipune"
+    }
+  ],
+  "timestamp": "2026-08-21T00:49:51.593180113Z",
+  "model": "glm-5.3"
+}

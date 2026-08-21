@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Apa dhèwèké bungah ing Shaddai, apa dhèwèké ngundang Elohi sadawaning wektu?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddai"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ngundang"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sadawaning"
+    },
+    {
+      "surface": "עת",
+      "gloss": "wektu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:30:36.236467754Z",
+  "model": "glm-5.3"
+}

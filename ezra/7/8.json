@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan teka ing Yerushalayim ing sasi kalima, iku ing taun kapitu sang raja.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Lan teka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ing Yerushalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "kalima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "kapitu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sang raja"
+    }
+  ],
+  "timestamp": "2026-08-21T03:05:14.438951399Z",
+  "model": "glm-5.3"
+}

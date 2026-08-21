@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur Sangkote Yahweh ditungi ⟨את⟩ kutip iku mubeng sepisan baé, lan padha bali marang kemah, lan padha wengi ing kemah.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ditungi mubeng"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Sangkot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutip iku"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutip iku"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "mubeng"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "sepisan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "padha bali marang"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "padha wengi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ing kemah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:42:10.490956702Z",
+  "model": "glm-5.3"
+}

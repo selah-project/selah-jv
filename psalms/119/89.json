@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Nganti-enti, Yahweh, sabdamu ngadeg ing swarga.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "nganti-enti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sabdamu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing swarga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:56.490209779Z",
+  "model": "glm-5.3"
+}

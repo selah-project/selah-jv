@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lah Yahweh ngrungokake ⟨את⟩ swarane tembungmu, banjur nesu lan sumpah, ngucap:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Lah ... ngrungokake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarane tembungmu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "tembungmu"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "banjur nesu"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "lan sumpah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:29.397522693Z",
+  "model": "glm-5.3"
+}

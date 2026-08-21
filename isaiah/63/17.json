@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 63:17",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Yagene Kowé nglilakake kita saka dalan-dalanMu, Yahweh, lan nggawe ati kita ora ngraosaké saka wedi marang Mu? Bali, marga abdi-abdiMu, suku-suku warisanMu.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Yagene"
+    },
+    {
+      "surface": "תתענו",
+      "gloss": "nglilakake kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מדרכיך",
+      "gloss": "saka dalan-dalanMu"
+    },
+    {
+      "surface": "תקשיח",
+      "gloss": "nggawe ora ngraosaké"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ati kita"
+    },
+    {
+      "surface": "מיראתך",
+      "gloss": "saka wedi marang Mu"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Bali"
+    },
+    {
+      "surface": "למען",
+      "gloss": "marga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdiMu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "warisanMu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:57.903768273Z",
+  "model": "glm-5.3"
+}

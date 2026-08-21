@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan awake padha mlebu ing prajanjian golek ⟨את⟩ Yahweh, Elohi leluhure awake, karo sakabehing atine lan sakabehing nyawane.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "padha mlebu"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "ing prajanjian"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "golek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "leluhure awake"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "karo sakabehing"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "atine"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan karo sakabehing"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:37:27.210905897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 110,
+  "translation": "Yahweh wus suma supata lan ora bakal munjuk: Sira imam ing salawas-lawase, miturut tata kawicaksananMalki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wus suma supata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "bakal munjuk (nanduka ati)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ing salawas-lawase"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tata kawicaksanan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:50.301735128Z",
+  "model": "glm-5.3"
+}

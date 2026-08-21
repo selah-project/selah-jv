@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Dhuh Yahweh, awit aku abdimu, aku abdimu, anake abdi wadonmu; sampyan wus mbukak balengguku.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Dhuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anake"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "abdi wadonmu"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "sampyan wus mbukak"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "balengguku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:44.229687893Z",
+  "model": "glm-5.3"
+}

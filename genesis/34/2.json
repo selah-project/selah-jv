@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan Shekem bintine Hamor sing Hiwi, pangraning bumi iku, mirsani ⟨את⟩ dheweke; lan njupuk ⟨את⟩ dheweke, lan turu karo ⟨את⟩ dheweke, lan ngyenyeri dheweke.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (Dinah)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bintine"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "sing Hiwi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pangraning"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (Dinah)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "turu karo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (Dinah)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ngyenyeri dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:23.438310108Z",
+  "model": "glm-5.3"
+}

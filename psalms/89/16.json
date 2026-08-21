@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Duh, bejane wong kang padha ngerti swara bungah; ing padange praupan-Mu, Yahweh, dhèwèké padha lumaku.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Duh, bejane"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "kang padha ngerti"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "swara bungah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ing padange"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praupan-Mu"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "padha lumaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:47.486226272Z",
+  "model": "glm-5.3"
+}

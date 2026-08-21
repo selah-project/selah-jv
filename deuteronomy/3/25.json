@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kula ngiring sida ngliwati sarta mriksani ⟨את⟩ tanah ingkang sae ingkang ing sanesipin Yarden, redi ingkang sae puniki, saha Lebanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "kula ngiring sida ngliwati"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "sarta mriksani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanah ingkang sae"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ingkang sae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ingkang"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ing sanesipin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ingkang sae"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "puniki"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "saha Lebanon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:06.064789559Z",
+  "model": "glm-5.3"
+}

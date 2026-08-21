@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Hiram ngutus marang Shelomoh, ngucap: Kula rungu ⟨את⟩ punapa ingkang Paduka utus dhateng kula; kula badhe nindakaken ⟨את⟩ sedaya kekajengan Paduka ing kayu arza lan ing kayu berot.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "kula rungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "punapa"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "Paduka utus"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dhateng kula"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kula"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "badhe nindakaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedaya kekajengan Paduka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "kekajengan Paduka"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "ing kayu"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "arza"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "lan ing kayu"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berot"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:45.714324390Z",
+  "model": "glm-5.3"
+}

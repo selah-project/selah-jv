@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan Iyob urip sawise iku satus patang puluh taun, lan deleng ⟨את⟩ anake lanang lan ⟨את⟩ putune, catur turun.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "lan urip"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iku"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "satus"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "lan patang puluh"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan deleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anake lanang"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake lanang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "putune"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anake"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake lanang"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "catur"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "turun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:00.395253895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 2:24",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan padha munjuk marang Yehosua: Sayektosipun Yahweh wus maringaken ing asta kita ⟨את⟩ sadaya bumi iki, lan ugi sadaya kang padha manggon ing bumi padha liruh saka ing ngarsané kita.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "lan padha munjuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sayektosipun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wus maringaken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ing asta kita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya bumi iki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iki"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan ugi"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "padha liruh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kang padha manggon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "saka ing ngarsané kita"
+    }
+  ],
+  "timestamp": "2026-08-20T23:42:32.906996551Z",
+  "model": "glm-5.3"
+}

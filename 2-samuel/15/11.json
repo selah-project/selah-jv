@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan ⟨את⟩ Absalom ndherekake wong loro atus saka Yerushalayim, sing padha diajak, lumaku kanthi lugu, lan ora weruh apa-apa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "padha lunga"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "loro atus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "saka Yerushalayim"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "sing padha diajak"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "padha lumaku"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "kanthi lugu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "padha weruh\/ngerti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "apa-apa (kabeh)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "prakara"
+    }
+  ],
+  "timestamp": "2026-08-21T00:09:51.696441487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 31:11",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Sebab iku kajibahan, lan iku dosa sing kapidhana para hakim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kajibahan"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "lan iku"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "פלילים",
+      "rationale": "hakim-hakim",
+      "gloss": "sing kapidhana para hakim"
+    }
+  ],
+  "timestamp": "2026-08-21T04:21:30.989540031Z",
+  "model": "glm-5.3"
+}

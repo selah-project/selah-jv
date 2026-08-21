@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan manungsa sumungkur, lan wong direndhahake; aja ngapura awake.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "sumungkur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "direndhahake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ngapura"
+    },
+    {
+      "surface": "להם",
+      "gloss": "awake"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:24.085026845Z",
+  "model": "glm-5.3"
+}

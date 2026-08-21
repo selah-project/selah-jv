@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Aku wis mirsani wong ala sing anggegirisi, sing ngrembaka kaya wit pribumi sing ijem subur.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Aku wis mirsani"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "sing anggegirisi"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "sing ngrembaka"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "kaya wit pribumi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "sing ijem subur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:21.776401829Z",
+  "model": "glm-5.3"
+}

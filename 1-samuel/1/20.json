@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan kadadéan ing watara mangsa dina-dina, Hana ngandhut lan nglairake anak lanang, lan piyambake jejuluk ⟨את⟩ asmané Smuel, awit saka Yahweh aku nysuwun dheweke.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadear"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "ing watara mangsa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ngandhut"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lanang"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "jejuluk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmane"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Smuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "saka Yahweh"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "aku nyuwun dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:02.598791666Z",
+  "model": "glm-5.3"
+}

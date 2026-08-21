@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan sira bakal ngetokake ⟨את⟩ padha-sarire ing dhuwur ⟨sang⟩ petri, saka ing dhuwur; lan menyang petri sira bakal nyelehake ⟨את⟩ pasaksine sing bakak Kula wenehake marang sira.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "lan sira bakal ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padha-sarire (kapporet)"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "padha-sarire"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "⟨sang⟩ petri"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "saka ing dhuwur"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan menyang"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "petri"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sira bakal nyelehake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasaksine"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pasaksine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Kula bakal wenehake"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:11.638913535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 128,
+  "translation": "Muga Yahweh mberkahi kowé saka Tsiyon, lan kowé ndeleng kabecikané Yerushalayim, saben dinané uripmu.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "mberkahi kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "saka Tsiyon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kabecikané"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dinané"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "uripmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:35.222362619Z",
+  "model": "glm-5.3"
+}

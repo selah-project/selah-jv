@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lajeng Hiram ngirim marang sang raja saatus lan rong puluh talenta emas.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "lajeng ngirim"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang sang raja"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "saatus"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "lan rong puluh"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    }
+  ],
+  "timestamp": "2026-08-21T00:18:41.309142962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Panjenengan nata meja ing ngarsané, ngadhepi mungsuhku; Panjenengan ngolési sirahku nganggo lenga; cupuku kebak.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "nata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ngadhepi"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ngolési"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nganggo lenga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sirahku"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "cupuku"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "kebak"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:04.467238324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "lan ⟨את⟩ saben manuk gemak miturut jinisé",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saben manuk gemak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "manuk gemak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "miturut jinisé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:59.191116065Z",
+  "model": "glm-5.3"
+}

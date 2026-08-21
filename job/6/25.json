@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 6:25",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Kapira pepete ⟨the⟩ tembung-tembung kang luru, lan punapa cegatan saka kowe iku nuduhake apa?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "punapa"
+    },
+    {
+      "surface": "נמרצו",
+      "gloss": "pepete"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "kang luru"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan punapa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "nuduhake"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "cegatan"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "saka kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:23:38.017907101Z",
+  "model": "glm-5.3"
+}

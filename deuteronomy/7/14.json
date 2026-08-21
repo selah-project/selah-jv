@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Kowe bakal dadi sangsaya-pinuji katamong sakabehing bangsa-bangsa; ora bakal ana ing antaramu wong lanang mandhul utawa wong wadon mandhul, uga ing kewan-kewanmu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "pinuji"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kowe bakal dadi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "katamong sakabehing"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing antaramu"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "wong lanang mandhul"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "utawa wong wadon mandhul"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "uga ing kewan-kewanmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:17.642493235Z",
+  "model": "glm-5.3"
+}

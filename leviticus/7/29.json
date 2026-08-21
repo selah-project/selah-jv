@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Ngendikaa marang bani Israél, ngucap: sapa sing ngaturake ⟨את⟩ kurban slameté marang Yahweh, nggawa ⟨את⟩ persembahane marang Yahweh saka kurban slameté.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ngendikaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "sing ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban slameté"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "slameté"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "persembahane"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "persembahane"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "saka kurban"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "slameté"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:16.027632733Z",
+  "model": "glm-5.3"
+}

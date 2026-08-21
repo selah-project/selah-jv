@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan dheweke nglebokake ⟨את⟩ ing sangisore panggonané, ana ing pundhak-pundhaké efod iku: watu-watu pangeling-eling tumrap bareng Israil, kaya kang didhawuhake Yahweh marang ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nglebokake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "watu-watu syoham"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "pundhak-pundhaké"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "watu-watu"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pangeling-eling"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tumrap bareng"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya kang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "didhawuhake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:27.115478249Z",
+  "model": "glm-5.3"
+}

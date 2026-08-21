@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 129,
+  "translation": "Lan para sing ngliwati ora ngucap: berkah Yahweh marang kowe; kita mberkahi ⟨את⟩ kowe mawa asma Yahweh.",
+  "tokens": [
+    {
+      "surface": "וילא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ngucapake"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "para sing ngliwati"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "berkah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "kita mberkahi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "mawa asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:45.716596067Z",
+  "model": "glm-5.3"
+}

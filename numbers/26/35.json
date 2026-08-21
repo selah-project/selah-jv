@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Iki anak-anaké Efrayim miturut kavargané: saka Shutelakh, kavarga Shutelakhi; saka Bekher, kavarga Bakhri; saka Takhan, kavarga Takhani.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Iki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut kavargané"
+    },
+    {
+      "surface": "לשותלח",
+      "gloss": "saka Shutelakh"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kavarga"
+    },
+    {
+      "surface": "השתלחי",
+      "gloss": "Shutelakhi"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "saka Bekher"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kavarga"
+    },
+    {
+      "surface": "הבכרי",
+      "gloss": "Bakhri"
+    },
+    {
+      "surface": "לתחן",
+      "gloss": "saka Takhan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kavarga"
+    },
+    {
+      "surface": "התחני",
+      "gloss": "Takhani"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:57.111297365Z",
+  "model": "glm-5.3"
+}

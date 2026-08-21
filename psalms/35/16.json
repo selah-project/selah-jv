@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Saroko para wong lamis pangéde-e, juru ngèlèk ing panganan, padha ngetrokake untu marang aku.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "saroko para wong lamis"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "juru ngèlèk"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "ing panganan"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "padha ngetrokake"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "untu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:17.659010418Z",
+  "model": "glm-5.3"
+}

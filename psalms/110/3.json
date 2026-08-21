@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 110,
+  "translation": "Umatmu sumadaya kanthi parasuka ing dina kekaryamu; ing rerengganIng kadhosan, saka guwa garba witing fajar, marang sira — umbe ing dhaupira.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Umatmu"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "kanthi parasuka (patrap sumadaya)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "kekaryamu (kakuwatan)"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ing rerengganIng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadhosan"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "saka guwa garba"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "witing fajar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "טל",
+      "gloss": "umbe"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ing dhaupira (kang enom)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:50.301577170Z",
+  "model": "glm-5.3"
+}

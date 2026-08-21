@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Bumi nunggu, renggut lara; Lebanon isin lan kuning-kayu; Saron dadi kaya ara-ara, lan Basan lan Karmel ngethakake ⟨⟨godhonge⟩⟩.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "nunggu"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "renggut lara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "isin"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "kuning-kayu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Saron"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "kaya ara-ara"
+    },
+    {
+      "surface": "וְנֹעֵר",
+      "gloss": "ngethakake"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "lan Karmel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:33.596231191Z",
+  "model": "glm-5.3"
+}

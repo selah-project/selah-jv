@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan mungsuh-mungsuhku tansah urip lan kuwat; lan para saruwake aku kanthi goroh padha mundhak cacahé.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "lan mungsuh-mungsuhku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tansah urip"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "kuwat"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "padha mundhak"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "para saruwake aku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kanthi goroh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:32.637126028Z",
+  "model": "glm-5.3"
+}

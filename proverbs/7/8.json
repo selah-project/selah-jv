@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "liwat ing pasar, cedhak serenge omah wadon iku, lan maju muru menyang omahé.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "liwat"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ing pasar"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "cedhak"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "serenge"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "lan marganing"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "menyang omahé"
+    },
+    {
+      "surface": "יצעעד",
+      "gloss": "maju muru"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:15.418119472Z",
+  "model": "glm-5.3"
+}

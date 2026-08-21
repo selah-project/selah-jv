@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Lan andongaana Aku ing dinaning sangsara; Ingsun bakal ngluwari kowé, lan kowé bakal ngurmati Ingsun.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Lan andongaana Aku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "Ingsun bakal ngluwari kowé"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "lan kowé bakal ngurmati Ingsun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:01.926624492Z",
+  "model": "glm-5.3"
+}

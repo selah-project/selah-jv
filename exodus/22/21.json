@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Saben randha lan saben yatim aja kok sundha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "randha"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "lan yatim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "kok sundha"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:32.999377831Z",
+  "model": "glm-5.3"
+}

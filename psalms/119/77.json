@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Muga kasabaran-Mu teka marang aku, supaya aku urip; sebab Toret-Mu ⟨is⟩ kaelingan-elingku",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "teka marang aku"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "kasabaran-Mu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "supaya aku urip"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toret-Mu"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kaelingan-elingku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:10.823529249Z",
+  "model": "glm-5.3"
+}

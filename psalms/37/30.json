@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Cangkemming wong tansah lemah nggunem kawicaksanan, lan ilaté ngandhakake ⟨את⟩ katracekane ukum.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "cangkemming"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong tansah lemah"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "nggunem"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kawicaksanan"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "lan ilaté"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ngandhakake"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katracekane ukum"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:08.963489076Z",
+  "model": "glm-5.3"
+}

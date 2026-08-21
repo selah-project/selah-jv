@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan bendarané weruh yèn Yahweh ⟨את⟩ karo ⟨ia⟩, lan sakabèhé sing ⟨ia⟩ nglakoni, Yahweh nggayuhaké kasil ing astané.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lan weruh"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "bendarané"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ karo",
+      "marks": "karo ia (Yosef)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabèhé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "nggayuhaké kasil"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ing astané"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:57.505562120Z",
+  "model": "glm-5.3"
+}

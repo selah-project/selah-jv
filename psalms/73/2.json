@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Déné aku, mèh waé anggone padha sikilku mlaku maju, mèh waé kaya ora nduwé dhasar langkah-langkahku padha kalis.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Déné aku"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "mèh waé"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "anggone sikilku padha maju\/miring"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sikilku"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "mèh waé kaya ora ana"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "kalis"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "langkah-langkahku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:39.825804536Z",
+  "model": "glm-5.3"
+}

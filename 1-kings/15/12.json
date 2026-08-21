@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan panjenengane nulak para lelaki suci saka ing bumi, lan nyingkirake ⟨את⟩ sadaya brahala sing digawe bapak-bapakne.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Lan nulak"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "para lelaki suci"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "lan nyingkirake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya brahala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "brahala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapakne"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:59.562167417Z",
+  "model": "glm-5.3"
+}

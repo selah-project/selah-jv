@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Ing ngarsane uban kowe ngadeg, lan urmat marang praupane wong tuwa, lan wedi marang Elohimmu; aku iki Yahweh.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "uban (wong tuwa)"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "kowe ngadeg"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "lan urmat marang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "praupane"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wong tuwa"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "lan wedi marang"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:09.502318047Z",
+  "model": "glm-5.3"
+}

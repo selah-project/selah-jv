@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Angkatana ⟨את⟩ sirahing para putra Gereshon, padha uga karo ⟨hai Kehat⟩, miturut omahing leluhure, miturut klanane.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "angkatana sirahing (ngétung)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirahing para putra Gereshon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "padha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "miturut omahing"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "leluhure"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut klanane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:06.790228252Z",
+  "model": "glm-5.3"
+}

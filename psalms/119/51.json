@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Wong-wong gumedhe ngejek aku banget, nanging saka Toratmu aku ora mlenceng.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "wong-wong gumedhe"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "ngejek aku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "saka Toratmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "aku mlenceng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:25.395924097Z",
+  "model": "glm-5.3"
+}

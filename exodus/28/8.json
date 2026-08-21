@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 28:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan sabuking efod kang ana ing awaké, kaya gawéané — saka padha bakal ana: emas, jaka biru, lan wungu, lan ulat-the-abrit, lan linen-kajait",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "lan sabuking"
+    },
+    {
+      "surface": "אפדתו",
+      "gloss": "efod kang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ana ing awaké"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "kaya gawéané"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "jaka biru"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "lan wungu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "lan ulat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "the-abrit"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan linen"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "kajait"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:37.524490505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan wong iku ngandika: \"Wong wadon sing Kowé paringake ngancani aku, dheweké sing maringi aku saka wit iku, banjur aku mangan.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "wong iku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Wong wadon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Kowé paringake"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ngancani aku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweké"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "wit iku"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "banjur aku mangan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:30.499637249Z",
+  "model": "glm-5.3"
+}

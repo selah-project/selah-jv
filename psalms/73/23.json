@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Nanging aku tansah karo Kowe; Kowe nyekeli tangan tengenku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nanging aku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo Kowe"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "Kowe nyekeli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "tengenku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:45.643869114Z",
+  "model": "glm-5.3"
+}

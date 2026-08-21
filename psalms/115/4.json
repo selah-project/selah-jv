@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Patung-patungane wong liya iku praka lan emas, gaweyane astane manungsa.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "patung-patungane"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "praka"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gaweyane"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "astane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wong liya"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:50.909242690Z",
+  "model": "glm-5.3"
+}

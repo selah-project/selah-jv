@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Anak-anaké Shimyon miturut kulawarga-kulawargané: saka Nemuel, kulawarga nemueli; saka Yamin, kulawarga yamini; saka Yakin, kulawarga yakini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimyon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut kulawarga-kulawargané"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "saka Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "nemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "saka Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "yamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "saka Yakin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "kulawarga"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "yakini"
+    }
+  ],
+  "timestamp": "2026-08-20T23:26:52.802785195Z",
+  "model": "glm-5.3"
+}

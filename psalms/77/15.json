@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Kowé ⟨iku⟩ ⟨sang⟩ El kang nindakaké kramat; Kowé nawaraké ing para bangsa kakuwatan-Mu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨sang⟩ El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kang nindakaké"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "kramat"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "Kowé nawaraké"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ing para bangsa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kakuwatan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:26.635617998Z",
+  "model": "glm-5.3"
+}

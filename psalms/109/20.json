@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Iki patrapane para mungsuh kula saka tangan ⟨את⟩ Yahweh, lan para sing ngucap ala marang nyawa kula.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "patrapane"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "para mungsuh kula"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "saka tangan ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "lan para sing ngucap"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawa kula"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:02.497498297Z",
+  "model": "glm-5.3"
+}

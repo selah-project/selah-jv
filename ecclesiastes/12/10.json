@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Qoheleth ngupadi nemu tembung-tembung kang ngepenakake, lan katulis kang jujur — tembung-tembung kaleresan.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "ngupadi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qoheleth"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "nemu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kang ngepenakake"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "lan katulis"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "jujur"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kaleresan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:39.767299439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Padhangna raina marang abdimu, lan ajarana aku ⟨את⟩ katetepanmu.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "raina"
+    },
+    {
+      "surface": "האר",
+      "gloss": "padhangna"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "marang abdimu"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "lan ajarana aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katetepanmu"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "katetepanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:51.795657035Z",
+  "model": "glm-5.3"
+}

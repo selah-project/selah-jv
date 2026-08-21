@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Ing telapak tange bakal ngunggahake kowe, supaya trompo sikilmu marang watu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "telapak tangan"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "bakal ngunggahake kowe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "trompo\/marani keprunggu"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "marang watu"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sikilmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:12.878542651Z",
+  "model": "glm-5.3"
+}

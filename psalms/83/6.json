@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Sebab padha rembugan ati bebarengan nglawan Kowé, prajanjian padha gawé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "padha rembugan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nglawan Kowé"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "padha gawé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:02.437111532Z",
+  "model": "glm-5.3"
+}

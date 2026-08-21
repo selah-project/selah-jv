@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 130,
+  "translation": "Adonai, mirengake swarakula; kuping-Mu tumenga marang swara pangapunten kawula.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mirengake"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "swarakula"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨iyaiku⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "kuping-Mu"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "tumenga"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "marang swara"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pangapunten kawula"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:53.566445378Z",
+  "model": "glm-5.3"
+}

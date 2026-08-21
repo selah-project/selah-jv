@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Ing dhuwur ⟨ing⟩ singa lan ula kobra sira ngidak; sira nginjak anak singa lan naga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "singa"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "lan ula kobra"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "sira ngidak"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "sira nginjak"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "anak singa"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "lan naga"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:51.105199983Z",
+  "model": "glm-5.3"
+}

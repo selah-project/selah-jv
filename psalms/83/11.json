@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Sing padha kasirnakake ing En-Dor, sing dadi dhemèn ing ⟨sadhuwuring⟩ lemah.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "padha kasirnakake"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ing En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "dhemèn"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ing lemah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:43.579977671Z",
+  "model": "glm-5.3"
+}

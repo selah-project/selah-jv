@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dak-timbangake marang dheweke ⟨את⟩ salaka lan ⟨את⟩ emas lan ⟨את⟩ para-parabot — persembahan kakususane omahing Elohim kita — sing kaparingake dening ratu lan para penasihate lan para panggedene lan kabeh Israyel sing padha tinemu.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "lan dak-timbangake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "salaka"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "salaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "emas"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "para-parabot"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "para-parabot"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "persembahan kakususane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahing"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "sing kaparingake"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "lan para penasihate"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "lan para panggedene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "sing padha tinemu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:25:20.365840480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Maha-pangapura Yahweh lan maha-tumindak bener, lan Elohim kita pangasih.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Maha-pangapura"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "lan maha-tumindak bener"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "lan Elohim kita"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "pangasih"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:57.640172877Z",
+  "model": "glm-5.3"
+}

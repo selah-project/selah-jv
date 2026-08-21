@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Elohim ing padhangané ⟨ana⟩ kaweruh minangka pangungèn.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "ing padhangané"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "kaweruh"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "minangka pangungèn"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:41.365084612Z",
+  "model": "glm-5.3"
+}

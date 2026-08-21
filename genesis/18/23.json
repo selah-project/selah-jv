@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur Avraham nyedhaki lan ngucap: Apa kok mengkono Kowe arep musnahake wong bener bebarengan karo wong lacur?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "nyedhaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "האף",
+      "gloss": "apa kok mengkono"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "arep musnahake"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong bener"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bebarengan karo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong lacur"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:18.716046883Z",
+  "model": "glm-5.3"
+}

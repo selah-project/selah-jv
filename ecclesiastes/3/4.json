@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Mangsa nangis, lan mangsa guyu; mangsa andheng-gedheng, lan mangsa njoget.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "nangis"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan mangsa"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "guyu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "andheng-gedheng"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan mangsa"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "njoget"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:00.300569819Z",
+  "model": "glm-5.3"
+}

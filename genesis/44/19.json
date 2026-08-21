@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Bendara takon ⟨את⟩ para abdine, ngucapa: apa kowe duwe bapa utawa sadulur?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "takon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para abdine"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdine"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucapa"
+    },
+    {
+      "surface": "היש",
+      "gloss": "apa ana"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "אח",
+      "gloss": "sadulur"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:14.657976653Z",
+  "model": "glm-5.3"
+}

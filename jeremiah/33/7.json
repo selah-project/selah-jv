@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan Aku bakal mulihake ⟨את⟩ panawanané Yehudha lan ⟨את⟩ panawanané Yisrael, lan Aku bakal ngayasa maneh ⟨dhèwèké⟩ kaya ing kawitan.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "lan Aku bakal mulihake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panawanané Yehudha"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "panawanané"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panawanané Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "panawanané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "lan Aku bakal ngayasa maneh"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "kaya ing kawitan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:11:46.013503229Z",
+  "model": "glm-5.3"
+}

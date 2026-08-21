@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Satembang, mazmur kanggo bene-benene Korach, kanggo pamimpin padudutan, miturut Mahalat Leannot, guritan wulangan, karyane Heman sang Ezrachi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "satembang"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kanggo bene-benene"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pamimpin padudutan"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannot"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "guritan wulangan"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "karyane Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "sang Ezrachi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:04.503763258Z",
+  "model": "glm-5.3"
+}

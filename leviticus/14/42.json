@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan padha njupuk watu-watu liya, digawa menyang panggonane watu-watu mau, lan banyu lemah liya dijupuk, lan omah iku diplester ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "padha njupuk"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "watu-watu"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "liya"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "digawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "panggonane"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "watu-watu mau"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "banyu lemah liya"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "dijupuk"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "diplester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omah"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "omah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:11.940933288Z",
+  "model": "glm-5.3"
+}

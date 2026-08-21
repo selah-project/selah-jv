@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Dheweke lunga lan njupuk ⟨את⟩ Gomer binti Diblayim; banjur ngandheg nggarbini lan nglairake anak lanang kanggo slirane.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dheweke lunga"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "binti"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ngandheg nggarbini"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo slirane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak lanang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:24.177984462Z",
+  "model": "glm-5.3"
+}

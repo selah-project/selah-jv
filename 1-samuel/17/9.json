@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Menawa dheweke bisa perang ⟨את⟩ klawan aku lan ngalahake aku, iya kula dadi abdine panjenengan; nanging menawa kula kang bisa marang dheweke lan ngalahake dheweke, panjenengan dadi abdi kula lan ngabdi ⟨את⟩ marang kita.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ klawan aku",
+      "marks": "perang klawan aku"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "lan ngalahake aku"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "iya kula dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dadi abdine panjenengan"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nanging menawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kula"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "lan ngalahake dheweke"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "panjenengan dadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "dadi abdi kula"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "lan ngabdi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ marang kita",
+      "marks": "kita"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:32.086819214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan Ben-Hadad ratu Aram ngumpulake ⟨את⟩ sakabehing wadyabalane, lan telung puluh loro ratu karo ⟨את⟩-e, lan jaran lan krata; lan munggah sarta ngepung Samaria, lan perang nglawan ⟨את⟩-e.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Lan Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "ngumpulake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing wadyabalane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "wadyabalane"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "lan telung puluh"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-e",
+      "marks": "ratu loro iku"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "lan jaran"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "lan krata"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "lan munggah"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "sarta ngepung"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Samaria"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "lan perang"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nglawan ⟨את⟩-e"
+    }
+  ],
+  "timestamp": "2026-08-21T00:22:10.922305904Z",
+  "model": "glm-5.3"
+}

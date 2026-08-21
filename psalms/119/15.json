@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Ing pra-parentah-Mu aku bakal marem mikir, lan aku bakal mireksani dalan-dalan-Mu.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "ing pra-parentah-Mu"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "aku bakal marem mikir"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "lan aku bakal mireksani"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "dalan-dalan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:55.340908244Z",
+  "model": "glm-5.3"
+}

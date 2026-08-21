@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Yahweh ⟨⟨adil⟩⟩ ing satengahé, ora bakal nindakake kaluputan; saben esuk, saben esuk pangadilané diwènèhaké dadi padhang, ora bakal ilang; lan sing luput ora ngerti isin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "adil"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ing satengahé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "saben esuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "saben esuk"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "pangadilané"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "diwènèhaké"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "dadi padhang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "bakal ilang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "עול",
+      "gloss": "sing luput"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "isin"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:36.817574548Z",
+  "model": "glm-5.3"
+}

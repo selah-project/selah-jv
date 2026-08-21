@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Laka-langité ngandhakake kabenerané, awit Elohim piyambak ⟨yaiku⟩ hakim. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "lan ngandhakaké"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "laka-langité"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "kabenerané"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "piyambak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:52.925517930Z",
+  "model": "glm-5.3"
+}

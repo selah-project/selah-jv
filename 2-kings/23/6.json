@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan dheweke ngetokake ⟨את⟩ Asherah saka omah Yahweh, metu saka Yerushalayim menyang lurah Kidron, lan mbakar ⟨את⟩ ana ing lurah Kidron, nganti dadi lebu, lan nguncalake ⟨את⟩ lebuné ing atas kubur-kubur anaké wong akèh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherah (האשרה)"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "metu saka"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "lurah"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "mbakar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lurah Kidron (בנחל קדרון)"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ana ing lurah"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "nganti dadi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "lebu"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "nguncalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebuné (עפרה)"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "lebuné"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing atas"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "kubur-kubur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:01.506125324Z",
+  "model": "glm-5.3"
+}

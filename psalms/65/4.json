@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Gagara dosa ngluwihi ⟨aku⟩; dosaning pamberontakan kita — Kowé kang bakal nglunturi.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "gagara"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ngluwihi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨aku⟩"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "dosa-pamberontakan kita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "bakal nglunturi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:04.026183261Z",
+  "model": "glm-5.3"
+}

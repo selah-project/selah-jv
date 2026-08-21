@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan aku memuji ⟨את⟩ wong-wong mati sing wis pati, luwih tinimbang wong-wong urip sing isih urip nganti saiki.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "lan aku memuji"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mati"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "wong-wong mati"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "wis"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "pati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tinimbang"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wong-wong urip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "urip"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "nganti saiki"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:05.698750173Z",
+  "model": "glm-5.3"
+}

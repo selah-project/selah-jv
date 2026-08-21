@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Dene sisa daginging kurban ing dina katelu ing geni bakar",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "dene sisa"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "saka daging"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "kurban iku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "katelu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bakar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:10:26.385767799Z",
+  "model": "glm-5.3"
+}

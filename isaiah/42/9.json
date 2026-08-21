@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Saben-saben sing kapisan, lah, wis teka, lan samubarang anyar dakwartakake; sadurunge thukul, dakwenehi krungu ⟨kowe⟩.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "saben-saben sing kapisan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "wis teka"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "lan samubarang anyar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "dak-"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "wartakake"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "thukul"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "dakwenehi krungu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:38.130793002Z",
+  "model": "glm-5.3"
+}

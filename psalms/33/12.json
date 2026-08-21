@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Bēja ⟨iku⟩ bangsa kang Yahweh ⟨iku⟩ Elohim-é, ⟨iku⟩ umat kang dipilih dadèkaké warisan kanggo Panjenengané.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "bēja"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim-é"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "milih"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "dadèkaké warisan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo Panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:50.916262621Z",
+  "model": "glm-5.3"
+}

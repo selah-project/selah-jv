@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Iki dinane sing digawe Yahweh; ayo padha bungah lan rame ing dina iku.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "ayo padha bungah"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "lan rame"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing dina iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:42.133222120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Élingana aku, dhuh Yahweh, ing sih-kawilujengané umat-M; rawuhi aku ing slamet-M.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Elingana aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ing sih-kawilujengan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-M"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "rawuhi aku"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ing slamet-M"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:50.768239509Z",
+  "model": "glm-5.3"
+}

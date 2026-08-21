@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "sing ngetokake ⟨את⟩ saka panggonane saka tanah Mitsrajim, supaya dadi marang kowe dadi Elohim; aku iki Yahweh.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "sing ngetokake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowé (aku ngetokake kowé)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "supaya dadi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "dadi Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:44.258095583Z",
+  "model": "glm-5.3"
+}

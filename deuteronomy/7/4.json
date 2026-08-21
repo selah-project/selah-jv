@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sebab ⟨dhewe⟩ bakal milang ⟨את⟩ bocah lanangmu saka ing sapengkere, lan ⟨dhewe⟩ bakal ngabdi marang elohim liya; banget nesune Yahweh marang sira, lan bakal numpes sira rikat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "bakal milang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah lanangmu"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "bocah lanangmu"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "saka ing sapengkere"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "lan bakal ngabdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liya"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "lan banget"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "lan bakal numpes sira"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "rikat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:23.843809373Z",
+  "model": "glm-5.3"
+}

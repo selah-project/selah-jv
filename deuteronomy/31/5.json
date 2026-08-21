@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan Yahweh bakal pasaake wong-wong mau ing ngarsanira, lan kowe bakal nindakake marang wong-wong mau miturut sabarang prentah sing wengku marang kowe.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "lan bakal pasaake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ing ngarsanira"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "lan kowe nindakake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut sabarang"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "prentah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "wengku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:06.261745171Z",
+  "model": "glm-5.3"
+}

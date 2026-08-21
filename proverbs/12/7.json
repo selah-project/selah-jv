@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Para laku dursala diwalikake lan ⟨dheweke⟩ ora ana maneh, nanging omahing para jujur bakal ngadeg.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "diwalikake"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "para laku dursala"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "lan ora ana maneh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nanging omahing"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "para jujur"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bakal ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:05.899919746Z",
+  "model": "glm-5.3"
+}

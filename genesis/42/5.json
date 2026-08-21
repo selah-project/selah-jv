@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan putra-putrane Yisrael teka tuku pangan ing satengahing para sing teka, amarga kelaparan iku ana ing bumi Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putrane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "tuku pangan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing satengahing"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "para sing teka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "iku ana"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelaparan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:30.519111365Z",
+  "model": "glm-5.3"
+}

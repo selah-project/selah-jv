@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan dheweke ngandika marang wong-wonge: Mugawa apa wujude wong lanang sing munggah nemoni kowe? Lan dheweke ngandika ⟨את⟩ pangandikane iki marang kowe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang wong-wonge"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "wujude"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong lanange"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "nemoni kowe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangandikane"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T04:05:33.147325975Z",
+  "model": "glm-5.3"
+}

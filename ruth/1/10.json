@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan padha ngucap marang dheweke: Saktemene ⟨⟨אתך⟩⟩ bakal tak bali, menyang ummatmu.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "lan padha ngucap"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "saktemene"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "bakal tak bali"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "menyang ummatmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:41:09.482892406Z",
+  "model": "glm-5.3"
+}

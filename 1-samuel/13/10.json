@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Ana ing wektu rampunge ia ngolahake ⟨את⟩ kurban bakaran, lah, Samuel teka; lan Saul metu sowan marang ia kangen maringana berkah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ana ing wektu"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "rampunge"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ngolahake"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "sowan marang ia"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "kangen maringana berkah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:58.951261526Z",
+  "model": "glm-5.3"
+}

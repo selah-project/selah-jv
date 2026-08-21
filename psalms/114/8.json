@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 114,
+  "translation": "Sing malih-ing watu dadi telaga banyu, watu landhep dadi ilining banyu.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Sing malih-"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "dadi telaga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "watu landhep"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "dadi ilining"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:04.726434498Z",
+  "model": "glm-5.3"
+}

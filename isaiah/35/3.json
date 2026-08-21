@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Padha kukuhake tangan-tangan sing lemes, lan dhengkul-dhengkul sing kedhewer — padha tegakna!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "padha kukuhake"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tangan-tangan"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "sing lemes"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "lan dhengkul-dhengkul"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "sing kedhewer"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "padha tegakna"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:09.718816598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Kanggo sang pemimpin paduan suwara, miturut \"Rusa wadon ing wayah esuk\", mizmor saka Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo sang pemimpin paduan suwara"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "rusa wadon"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "wayah esuk"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "saka Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:36.066277495Z",
+  "model": "glm-5.3"
+}

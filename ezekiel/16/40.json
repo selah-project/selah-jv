@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan padha ngarakake wong akeh marang nglawan sira, lan padha nglumpari ⟨את⟩ sira nganggo watu, lan ngethok sira nganggo pedhange.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "lan padha ngarakake"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang nglawan sira"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "lan padha nglumpari"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "nganggo watu"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "lan ngethok sira"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "nganggo pedhange"
+    }
+  ],
+  "timestamp": "2026-08-21T01:11:51.590044943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Banjur Moshe mudhun saka gunung marang wong cacah, lan nyucekake ⟨את⟩ wong cacah, lan iya padha ngumbah sandhangané.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "banjur mudhun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong cacah"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "lan nyucekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong cacah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong cacah"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "lan padha ngumbah"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "sandhangané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:31.816991006Z",
+  "model": "glm-5.3"
+}

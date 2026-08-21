@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 12:7",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan padha ngandika marang ia, sangkata: Menawa ing dina iki kowe dadi abdi tumrap umat iki, sarta ngladeni dheweke lan mangsuli dheweke lan ngandika marang dheweke tembung-tembung becik, banjur dheweke bakal dadi abdimu sedaya dinane.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Lan padha ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang ia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangkata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dina iki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kowe dadi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tumrap umat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "sarta ngladeni dheweke"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "lan mangsuli dheweke"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "becik"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "banjur dheweke bakal dadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "abdimu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abdi-abdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dinane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:09.928816005Z",
+  "model": "glm-5.3"
+}

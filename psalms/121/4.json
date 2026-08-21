@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 121,
+  "translation": "Nuhana, ora tindak tuwuhan lan ora turu Sang Jagi Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "nuhana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "tindak tuwuhan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "turu"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Sang Jagi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:28.541416654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan Yahweh ngandika: lah, panggonan ana ing sacedhaké-Ku ⟨את⟩, sira bakal ngadeg ing sadhuwuring watu iku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ing sacedhaké-Ku",
+      "marks": "panggonan (ing sacedhaké-Ku)"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "lan sira bakal ngadeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "watu iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:01.192214643Z",
+  "model": "glm-5.3"
+}

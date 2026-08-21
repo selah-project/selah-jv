@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Ora kena Sangsara kaya manungsa liya, lan ora kena dipatrapi kaya ⟨⟨manungsa⟩⟩ biasa.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa fana"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ora kena"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan kaya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa biasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "dipatrapi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:53.663730070Z",
+  "model": "glm-5.3"
+}

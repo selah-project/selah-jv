@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan marang sapa kowae padha madhakake Aku, lan Aku padha karo sapa? kandhane ⟨Sang Suci⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "kowae padha madhakake Aku"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "lan Aku padha karo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kandhane"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨Sang Suci⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:44.170243416Z",
+  "model": "glm-5.3"
+}

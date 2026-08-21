@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Awit Kowé wis ngregahi aku, Yahweh, ing panggawéyan-Mu; saréhning panggawéyané astané-Mu aku ngumbara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "Kowé wis ngregahi aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ing panggawéyan-Mu"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "saréhning panggawéyan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "é astané-Mu"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "aku ngumbara"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:58.160420906Z",
+  "model": "glm-5.3"
+}

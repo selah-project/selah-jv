@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan srengéngé mleti ing dheweke nalika dheweke ngliwati ⟨את⟩ Penuel, lan dheweke pincang ana ing pupune.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "lan ... mleti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ing dheweke"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dheweke ngliwati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan dheweke"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "pincang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "pupune"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:06.613839476Z",
+  "model": "glm-5.3"
+}

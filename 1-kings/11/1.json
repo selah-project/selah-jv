@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan ratu Shelomah padha seneng marang wadon-wadon saka bangsa liya cacahé akeh, lan ⟨את⟩ putrané Paroh, wadon Moab, wadon Amon, wadon Edom, wadon Tsidon, wadon Het.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "lan ratu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "seneng"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "wadon-wadon"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "saka bangsa liya"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "putrané Paroh"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "wadon Moab"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "wadon Amon"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "wadon Edom"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "wadon Tsidon"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "wadon Het"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:44.438645834Z",
+  "model": "glm-5.3"
+}

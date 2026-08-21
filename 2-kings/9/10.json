@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan ⟨את⟩ Izevel bakal dipangan asu ing bageaning Yizreel, lan ora ana sing nguburake ⟨את⟩⟨dia⟩. Banjur cangkem ndara mbukak lawangé lan ndheti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal dipangan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "asu"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "ing bageaning"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "sing nguburake"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "banjur mbukak"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "lawangé"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "lan ndheti"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:21.765046896Z",
+  "model": "glm-5.3"
+}

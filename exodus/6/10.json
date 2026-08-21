@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Banjur Yahweh medhar marang Moshe, ngendika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "banjur medhar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:02.997998054Z",
+  "model": "glm-5.3"
+}

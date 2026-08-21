@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 19:7",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Banjur imam iku ngumbah sandhange, lan adus badane ing banyu, lan sawise iku mlebu marang kemah, lan imam iku najis nganti surupe srengenge.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "lan ngumbah"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhange"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam iku"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "lan adus"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "badane"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sawise iku"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "mlebu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kemah"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "lan najis"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam iku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "surupe srengenge"
+    }
+  ],
+  "timestamp": "2026-08-20T23:24:49.948625935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Rungokna swaraku, Elohim, ing pangaduanku; saka wedine mungsuh Paduka ngejuk uripku.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Rungokna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swaraku"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "ing pangaduanku"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "saka wedine"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "Paduka ngejuk"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "uripku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:07.911534254Z",
+  "model": "glm-5.3"
+}

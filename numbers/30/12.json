@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "lan bojoné krungu nanging meneng marang ⟨dhéwé⟩, ora nulak ⟨את⟩ dhéwé; mulané kabèh nazare lan sabaré iketan sing diiket marang nyawané bakal ngadeg.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "lan krungu"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "bojoné"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "lan meneng"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang dhéwé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "nulak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dhéwé (sang garwa)"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "nazare"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sabaré"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "iketan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "diiket"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "nyawané"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ngadeg"
+    }
+  ],
+  "timestamp": "2026-08-21T03:55:58.931511841Z",
+  "model": "glm-5.3"
+}

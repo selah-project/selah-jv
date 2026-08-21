@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Aku ndeleng ⟨את⟩ kabeh wong urip sing lumaku ing sangisore srengéngé, bebarengan karo anak iku sing kapindho, sing bakal ngadeg ing panggonane.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "aku ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh wong urip"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wong urip"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bebarengan karo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "anak iku"
+    },
+    {
+      "surface": "השני",
+      "gloss": "sing kapindho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ing panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:53.125817616Z",
+  "model": "glm-5.3"
+}

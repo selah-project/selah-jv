@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Nggaru mripat kawula lan walesen kawula; kawula nglimbar ⟨ing⟩ sumelaku lan nguwuh-nguwuh.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "nggaru mripat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kawula"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "lan walesen kawula"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "kawula nglimbar"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "⟨ing⟩ sumelaku"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "lan nguwuh-nguwuh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:22.534602450Z",
+  "model": "glm-5.3"
+}

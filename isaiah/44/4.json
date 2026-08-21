@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Lan bakal thukul ing antarane suket, kaya wit gangsal ing pinggir ilining banyu.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Lan bakal thukul"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "ing antarane"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "suket"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "kaya wit gangsal"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing pinggir"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "ilining"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:42:50.875869468Z",
+  "model": "glm-5.3"
+}

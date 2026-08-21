@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 99,
+  "translation": "Moshe lan Aharon ing antarane para imame, lan Shmuel ing antarane para pemujen asmane; dheweke ngundhang marang Yahweh, lan ⟨Dheweke⟩ mangsuli.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "lan Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "ing antarane para imame"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "lan Shmuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ing antarane para pemujen"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "dheweke ngundhang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan ⟨Dheweke⟩"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "mangsuli"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:01.807755209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan ngetokake ilining banyu saka ing watu, lan mundhakake banyu tumurun kaya kali-kali.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "lan ngetokake"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "ilining banyu"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "saka ing watu"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "lan mundhakake tumurun"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "kaya kali-kali"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:48.113353048Z",
+  "model": "glm-5.3"
+}

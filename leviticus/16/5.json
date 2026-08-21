@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan saka ⟨את⟩ pasamuwané anak-anak Yisrael panjenengane mundhut kalih kambing janggut kanggo kurban dosa, lan siji domba janggut kanggo kurban bakaran.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "lan saka ⟨את⟩",
+      "marks": "pasamuwané"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "pasamuwané"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mundhut"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kalih"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "kambing janggut"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kambing"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "kanggo kurban dosa"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "lan domba janggut"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "kanggo kurban bakaran"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:48.137546361Z",
+  "model": "glm-5.3"
+}

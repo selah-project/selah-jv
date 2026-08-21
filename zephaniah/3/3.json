@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Para pangranine ing tengah-tengahé kaya singa sing ngguwang; para hakime kaya serigala ing wayah wengi — ora ngingu balung nganti ésuk.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "para pangranine"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ing tengah-tengahé"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "singa"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "sing ngguwang"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "para hakime"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "serigala"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ing wayah wengi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "ngingu balung"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "nganti ésuk"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:43.412214379Z",
+  "model": "glm-5.3"
+}

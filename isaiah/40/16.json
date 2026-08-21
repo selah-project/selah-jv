@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan Lebanyon ora cukup kanggo obong, lan sato-kewané ora cukup kanggo kurban obong.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "lan Lebanyon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora"
+    },
+    {
+      "surface": "די",
+      "gloss": "cukup"
+    },
+    {
+      "surface": "בער",
+      "gloss": "kanggo obong"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "lan sato-kewané"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora"
+    },
+    {
+      "surface": "די",
+      "gloss": "cukup"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kurban obong"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:41.288295590Z",
+  "model": "glm-5.3"
+}

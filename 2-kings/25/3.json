@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Ing dhasar sangang sasi iku banjur banget kelarane ing kutha iku, lan ora ana panganan kanggo wong saka bumi iku.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "ing dhasar sangang"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "banjur banget"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kelarane"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "panganan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kanggo wong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "saka bumi iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:21.414034304Z",
+  "model": "glm-5.3"
+}

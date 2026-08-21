@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur Moshe ngunggahake ⟨את⟩ tangane, lan nuhuk ⟨את⟩ watu iku nganggo tongkate ping pindho; banjur metu banyu akèh, satemah jemaah iku ngombé, uga sapi-sapiné.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "banjur ngunggahake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lan nuhuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu iku"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "watu iku"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "nganggo tongkate"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ping pindho"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "banjur metu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "satemah ngombé"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jemaah iku"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "uga sapi-sapiné"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:22.552859031Z",
+  "model": "glm-5.3"
+}

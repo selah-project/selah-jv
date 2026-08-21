@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Shaul nglungsurake ⟨את⟩ tumbak iku, sarta ngucap: Aku arep ngenani Dawud nganti ing tembok; lan Dawud mlampah ngadohi sarirane kaping pindho.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "Lan nglungsurake"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumbak iku"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "tumbak iku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "aku arep ngenani"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "nganti ing tembok"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "lan mlampah ngadohi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawud"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sarirane"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kaping pindho"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:13.337316340Z",
+  "model": "glm-5.3"
+}

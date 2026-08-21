@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan Yosef éling ⟨את⟩ ngimpí-ngimpí sing wis dingimpikaké marang dhèwèké, banjur dhèwèké ngandika marang kyai: padha mata-mata kowe, ndeleng ⟨את⟩ kalumrahaning bumi kowe teka.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "éling"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngimpí-ngimpí"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "ngimpí-ngimpí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "dingimpikaké"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang kyai"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalumrahaning bumi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kalumrahan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kowe teka"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:17.143440417Z",
+  "model": "glm-5.3"
+}

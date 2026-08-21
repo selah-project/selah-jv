@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Aku dietung bareng karo ⟨sing⟩ mudhun menyang lubang, aku dadi kaya wong lanang tanpa kakuwatan.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "aku dietung"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng karo"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "sing mudhun"
+    },
+    {
+      "surface": "בור",
+      "gloss": "lubang"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku dadi"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "kaya wong lanang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kakuwatan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:20.845317375Z",
+  "model": "glm-5.3"
+}

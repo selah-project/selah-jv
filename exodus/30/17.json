@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Yahweh ndhiskusikake marang Moshe, ngendika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika:"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:31.675021137Z",
+  "model": "glm-5.3"
+}

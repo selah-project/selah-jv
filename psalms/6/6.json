@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Awit ing pati ora ana sing eling marang Kowé; ing Sheol sapa sing memuji Kowé?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ing pati"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "sing eling marang Kowé"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ing Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "sing memuji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:51.452744590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Lan Panjenengané ngandika: Satemené umat-Ku iki, anak-anak sing ora bakal cidra; mulane Panjenengané dadi Juruslamet kanggo dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ואאמר→ואמר אך",
+      "gloss": "ngandika: satemené"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "bakal cidra (ngapusi)"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo dhèwèké"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "Juruslamet"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:49.648783196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan saben wong sing mangan bangkai utawa kéwan sing dirampok, apa wong asli apa wong lanang, kudu ngumbah sandhangané lan adus ing banyu, lan najis nganti sore, banjur suci.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Lan saben"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "bangkai"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "utawa kéwan sing dirampok"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "wong asli"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "apa wong lanang"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "kudu ngumbah"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "lan adus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "lan najis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sore"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "banjur suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:23.933404300Z",
+  "model": "glm-5.3"
+}

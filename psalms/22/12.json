@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Aja adoh saka aku, awit sangsara wis cedhak, awit ora ana sing nulungi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "adoh"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "wis cedhak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "sing nulungi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:32.222531858Z",
+  "model": "glm-5.3"
+}

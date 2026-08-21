@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 125,
+  "translation": "Sebab tekené para wong ati ala ora bakal malem ing undhak-undhakané para wong bener, supaya para wong bener ora nguléjakaké tangane marang piala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "bakal malem"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tekené"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "para wong ati ala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "undhak-undhakan"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "para wong bener"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "nguléjakaké"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "para wong bener"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "marang piala"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:18.682944408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Lan Moshe nulis ⟨את⟩ panggonan-panggonan metuné miturut pareng-parengé, miturut parentahé Yahweh; lan iki pareng-parengé miturut panggonan metuné.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Lan nulis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonan-panggonan metuné"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "panggonan-panggonan metuné"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "miturut pareng-parengé"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "parentahé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "pareng-parengé"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "miturut panggonan metuné"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:15.006061762Z",
+  "model": "glm-5.3"
+}

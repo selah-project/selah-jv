@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Kaya tandha kang nggumunake aku dadi tumrap wong akeh, nanging Paduka pangungsèn-ku, kakuwatanku.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "kaya tandha kang nggumunake"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku dadi"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "tumrap wong akeh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "nanging Paduka"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "pangungsèn-ku"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kakuwatanku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:52.649234842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan yen ana wong ngadegake ⟨את⟩ putrine dadi abdi wadon, dheweke ora arep metu kaya metune para abdi lanang.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Lan yen"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putrine"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "putrine"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "dadi abdi wadon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "arep metu"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "kaya metune"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "para abdi lanang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:17.207848172Z",
+  "model": "glm-5.3"
+}

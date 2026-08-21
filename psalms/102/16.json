@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Lbakal bangsa-bangsa padha wedi marang ⟨את⟩ asma Yahweh, lan para ratu sadhuwuring bumi ⟨את⟩ marang kamulyan Paduka.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "bakal padha wedi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bangsa-bangsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan para ... sadhuwuring"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyan Paduka"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kamulyan Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:08.550936311Z",
+  "model": "glm-5.3"
+}

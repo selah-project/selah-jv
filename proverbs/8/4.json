@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Marang kowé, para lanang, aku celathu, lan swaraku marang para putraning manungsa",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "para lanang"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku celathu"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "lan swaraku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:31.078631597Z",
+  "model": "glm-5.3"
+}

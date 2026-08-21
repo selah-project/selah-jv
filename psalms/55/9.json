@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Aku arep nyegerake nylametake awake dhewe, saka angin sing ngamuk, saka badai.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "arep nyegerake"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "nylametake awake dhewe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "saka angin"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "sing ngamuk"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "saka badai"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:04.559730323Z",
+  "model": "glm-5.3"
+}

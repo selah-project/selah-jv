@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan padhat nindakake ⟨את⟩ ala, awit ora padhat nyawisake atine kanggo nggoleki ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan padhat nindakake"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "padhat nyawisake"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "kanggo nggoleki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:37:54.866593720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan pangarsane juru sambar iku njupuk ⟨את⟩ Serayah imam kang utama, lan ⟨את⟩ Tsefanyah imam kang kalih, lan ⟨את⟩ telune panjaga ⟨the⟩ lawang.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangarsa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "juru sambar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kang utama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "kang kalih"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "telune panjaga lawang"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telune"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "panjaga"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "lawang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:30.346202100Z",
+  "model": "glm-5.3"
+}

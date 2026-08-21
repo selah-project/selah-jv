@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan saka kabilah Yissaskhar: ⟨את⟩ Kishyon karo pangonane, ⟨את⟩ Daberat karo pangonane.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "lan saka kabilah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskhar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishyon"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pangonane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pangonane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pangonane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "pangonane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:42.878361843Z",
+  "model": "glm-5.3"
+}

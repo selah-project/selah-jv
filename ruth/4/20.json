@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Aminadab nglairake ⟨את⟩ Nakhshon, lan Nakhshon nglairake ⟨את⟩ Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "lan Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "lan Nakhshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:41:31.345851813Z",
+  "model": "glm-5.3"
+}

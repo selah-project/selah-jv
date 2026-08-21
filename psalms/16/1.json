@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Miktam kagungane Dawid: Ayu-ayu aku, El, awit aku njaluk perlindungan marang Paduka.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagungane Dawid"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "ayu-ayu aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku njaluk perlindungan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:11.001915299Z",
+  "model": "glm-5.3"
+}

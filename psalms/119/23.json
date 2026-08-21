@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Sanadyan para pangéran padha lenggah, nglawan sun padha mirengagan, abdi-Panjenengan tak mracaya ing pancasan-Panjenengan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sanadyan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "padha lenggah"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para pangéran"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nlawan sun"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "padha mirengagan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "abdi-Panjenengan"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "tak mracaya"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ing pancasan-Panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:20.833131742Z",
+  "model": "glm-5.3"
+}

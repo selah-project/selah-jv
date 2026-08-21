@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan Panjenengane ngetokake aku marang papan wiyar; Panjenengane ngluwari ⟨את⟩ aku, awit Panjenengane kersa marang aku.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Lan ngetokake"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "marang papan wiyar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "ngluwari aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kersa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:55.255454029Z",
+  "model": "glm-5.3"
+}

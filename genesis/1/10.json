@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Elohim mwijeni dharatan iku bumi, lan marang kumpulane banyu iku mwijeni segara; lan Elohim mirsani manawa iku becik.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mwijeni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "dharatan iku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "lan marang kumpulane"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu iku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "mwijeni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan mirsani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:14.493181052Z",
+  "model": "glm-5.3"
+}

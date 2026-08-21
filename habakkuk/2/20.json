@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Nanging Yahweh ana ing padaleman suciné — menengaa ing ngarsané, saindhenging bumi!",
+  "tokens": [
+    {
+      "surface": "וה",
+      "gloss": "Nanging Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ing padaleman"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "suciné"
+    },
+    {
+      "surface": "הס",
+      "gloss": "menengaa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:34:16.038321814Z",
+  "model": "glm-5.3"
+}

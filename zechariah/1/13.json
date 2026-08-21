@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Yahweh mangsuli ⟨את⟩ sang malaikat sing ngandika ing aku, ⟨karo⟩ tembung-tembung apik, tembung-tembung panglipur.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Lan ... mangsuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang malaikat"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sang malaikat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sing ngandika"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "apik"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "panglipur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:56.448094004Z",
+  "model": "glm-5.3"
+}

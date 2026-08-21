@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur padha mbalik sarta padha lunga, lan padha nggawa ⟨את⟩ bocah-bocah cilik lan ⟨את⟩ ternak lan ⟨את⟩ bandha-bandha ing ngarepe dhewe.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "padha mbalik"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "padha lunga"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "padha nggawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah-bocah cilik"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "bocah-bocah cilik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ternak"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ternak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bandha-bandha"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "bandha-bandha"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ing ngarepe dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:54:42.821406227Z",
+  "model": "glm-5.3"
+}

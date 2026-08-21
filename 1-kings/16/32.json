@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan panjenengane ngadekake mesbesi kanggo Baal ing bale Baal, sing panjenengane yasa ing Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Lan ngadekake"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesbesi"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kanggo Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ing bale"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ing Shomron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:18.919310521Z",
+  "model": "glm-5.3"
+}

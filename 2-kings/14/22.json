@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Dheweke yasa ⟨את⟩ Eilat lan nggawake maneh marang Yehudha, sawise sang raja saré karo para leluhure.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dheweke"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "lan nggawake maneh"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "marang Yehudha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "para leluhure"
+    }
+  ],
+  "timestamp": "2026-08-21T04:47:36.461640341Z",
+  "model": "glm-5.3"
+}

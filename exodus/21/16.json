@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan sing mbajeng wong lan maujake, lan tinemu ing tangane — mati temen dipatèni.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Lan sing mbajeng"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "lan maujake"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "lan tinemu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ing tangane"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "temen dipatèni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:52.907786168Z",
+  "model": "glm-5.3"
+}

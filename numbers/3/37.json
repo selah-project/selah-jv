@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 3:37",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "lan saka-saka pekarangan sakiwa-tengené, lan suku-sakene, lan paculé, lan tali-taliné",
+  "tokens": [
+    {
+      "surface": "ועמדי",
+      "gloss": "lan saka-saka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pekarangan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sakiwa-tengené"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "lan suku-sakene"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "lan paculé"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "lan tali-taliné"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:09.494268201Z",
+  "model": "glm-5.3"
+}

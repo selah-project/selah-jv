@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Iki prajanjian-Ku sing kudu sira padha nguri-uri, ing antarané-Ingsun lan ing antarané sira, lan ing antarané wiji-wijimu sawise sira: kudu sunat ing sira sabarang lanang.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjian-Ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "kudu sira padha nguri-uri"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ing antarané-Ingsun"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "lan ing antarané sira"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan ing antarané"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "wiji-wijimu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sawise sira"
+    },
+    {
+      "surface": "המול",
+      "gloss": "kudu sunat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ing sira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabarang"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lanang"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:31.541033540Z",
+  "model": "glm-5.3"
+}

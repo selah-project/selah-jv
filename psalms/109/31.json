@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Sebab Panjenengane ngadeg ing tengene wong mlarat, kanggo ngluwari saka para sing ngukum ⟨את⟩ nyawane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ing tengene"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kanggo ngluwari"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "saka para sing ngukum"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:53.655255658Z",
+  "model": "glm-5.3"
+}

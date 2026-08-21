@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Moshe ngrungokaké, lan dadi endah ing paningalé.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "lan ngrungokaké"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "lan dadi endah"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ing paningalé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:05.508819115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan sang raja lan kabeh ⟨iku⟩ wong akeh padha ngetokake kurban sembelihan ing ngarepe Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "lan sang raja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "iku wong akeh"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "padha ngetokake kurban"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "kurban sembelihan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:34:33.154154843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Lan Paroh ngandika marang Yosef, mangkene: bapakmu lan sedulur-sedulurmu padha teka ⟨⟨marang⟩⟩ sira.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "lan sedulur-sedulurmu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    }
+  ],
+  "timestamp": "2026-08-20T22:54:06.493484704Z",
+  "model": "glm-5.3"
+}

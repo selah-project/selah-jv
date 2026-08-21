@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Sing wedi marang Kowe bakal ndeleng aku lan bungah, awit aku ngenteni tembungmu.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "sing wedi marang Kowe"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "ndeleng aku"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "lan bungah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "tembungmu"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "aku ngenteni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:56.143143131Z",
+  "model": "glm-5.3"
+}

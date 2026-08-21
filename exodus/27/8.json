@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Kothong, pipihan, kowe gawe ⟨את⟩ iku; kaya sing dituduhake marang kowe ⟨את⟩ ing gunung, mengkono bakal padha gawe.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "kothong"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "pipihan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kowe gawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "dituduhake"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ marang kowe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing gunung"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mengkono"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bakal padha gawe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:59.679770632Z",
+  "model": "glm-5.3"
+}

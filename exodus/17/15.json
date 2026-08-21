@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lah Moshe ngadegake mesbe, lan jenenge dijenengi Yahweh Nissi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ngadegake"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesbe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dijenengi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:03.143464252Z",
+  "model": "glm-5.3"
+}

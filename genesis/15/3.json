@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan Avram munjuk manèh: Lah, marang aku Enggalé ora maringani wiji, lah, kang lair ing dalemku iki sing bakal nampa pusaka ⟨את⟩ aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan Avram munjuk"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Lah"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Enggalé maringani"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "wiji"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kang lair"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ing dalemku"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "sing bakal nampa pusaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:33.281901330Z",
+  "model": "glm-5.3"
+}

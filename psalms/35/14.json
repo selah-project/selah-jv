@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Kaya kancane, kaya sedhulare aku padha mlaku; kaya pandhita sing nangisi ibune, peteng rasane aku tundhuk nangis.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "kaya kancane"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "kaya sedhulare"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "padha mlaku"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "kaya pandhita"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "peteng rasane"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "aku tundhuk nangis"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:17.658744287Z",
+  "model": "glm-5.3"
+}

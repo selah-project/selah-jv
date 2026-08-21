@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan piyambaké ngendika: Kabula Abisag sang wong Sunem kawènèhaké ⟨את⟩ marang Adonia, sadhérékmuv, dadi garwané.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Lan piyambaké ngendika"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kabula kawènèhaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abisag sang wong Sunem"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abisag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "sang wong Sunem"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "marang Adonia"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadhérékmuv"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi garwané"
+    }
+  ],
+  "timestamp": "2026-08-21T04:03:39.769295321Z",
+  "model": "glm-5.3"
+}

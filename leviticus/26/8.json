@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lima wong saka ing antaranamu bakal ngoyak satus, lan satus saka ing antaranumu bakal ngoyak sayuta, lan mungsuhmu bakal tiba ing ngarsamu dening pedhang.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "bakal ngoyak"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "saka ing antaranamu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "satus"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "lan satus"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "saka ing antaranumu"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "sayuta"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "bakal ngoyak"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "lan bakal tiba"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "mungsuhmu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ing ngarsamu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "dening pedhang"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:22.265275761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Piwulang kanggo Asaf. Kenapa, Elohim, kowé nolak ⟨kita⟩ salawasé? Murkamu ngelu kukus marang wedhus ing angonanmu?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Piwulang"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kanggo Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kenapa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "kowé nolak"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "ngelu kukus"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "murkamu"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "marang wedhus"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "angonanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:59.102451321Z",
+  "model": "glm-5.3"
+}

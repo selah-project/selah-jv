@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Aku padha nglakoni préntah-prentah-Mu lan kasaksian-Ku, awit saben dalanku ⟨ ana ⟩ ing ngarsa-Mu.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "aku padha nglakoni"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "préntah-préntah-Mu"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "lan kasaksian-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dalanku"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ing ngarsa-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:47.639789897Z",
+  "model": "glm-5.3"
+}

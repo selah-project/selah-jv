@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 76,
+  "translation": "Sebab bebendune manungsa bakal memuji Kowé; sisa bebendu Kowé iketi (minangka sinten).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bebendu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "bakal memuji Kowé"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bebendu"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "iketi minangka sinten"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:00.601382345Z",
+  "model": "glm-5.3"
+}

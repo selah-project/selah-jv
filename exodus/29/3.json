@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan kowe diselekake ⟨את⟩ mau ing sadhuwuring sak keranjang, lan kowe ngaturake ⟨את⟩ mau ing jroning keranjang kasebut, lan ⟨את⟩ sapi mau lan ⟨את⟩ loro domba jantan kasebut.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "kowe diselekake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "roti-roti mau"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "סל",
+      "gloss": "keranjang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "sak (siji)"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "kowe ngaturake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "roti-roti mau"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ing jroning keranjang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sapi mau"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sapi mau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "loro domba jantan kasebut"
+    },
+    {
+      "surface": "שני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "domba jantan kasebut"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:39.688781900Z",
+  "model": "glm-5.3"
+}

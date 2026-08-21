@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Tembung-tembunge cangkeme ⟨⟨yaiku⟩⟩ piala lan pitesi; ⟨⟨dheweke⟩⟩ wus mandeg dadi wicara lan nindakake becik.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "און",
+      "gloss": "piala"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "lan pitesi"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "wus mandeg"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "dadi wicara"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "nindakake becik"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:30.193063380Z",
+  "model": "glm-5.3"
+}

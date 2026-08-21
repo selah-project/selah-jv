@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan dumadi, bareng karatoné Rehavam wis mantep lan awake dhéwé wis kuwat, awake nilar ⟨את⟩ Torat Yahweh, lan kabeh Yisrael karo awake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dumadi"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "bareng wis mantep"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "lan awake wis kuwat"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "nilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torat Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "karo awake"
+    }
+  ],
+  "timestamp": "2026-08-21T03:36:06.091097485Z",
+  "model": "glm-5.3"
+}

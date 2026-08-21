@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Aduh, sapa wae sing ngelak, padha teka ing banyu, lan sapa sing ora duwe uwab, padha teka, tuku lan mangan; lan padha teka, tuku tanpa uwab lan tanpa rega, anggur lan susu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa wae"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "sing ngelak"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sapa sing"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "uwab"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tuku"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "lan mangan"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "lan padha teka"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "tuku"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "uwab"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "lan tanpa"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "rega"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "lan susu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:47.991604255Z",
+  "model": "glm-5.3"
+}

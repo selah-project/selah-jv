@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Wong jujur padha ndeleng lan bungah, lan kabeh kaluputan nutup cangkeme.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "lan padha bungah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kaluputan"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "nutup"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "cangkeme"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:58.980205844Z",
+  "model": "glm-5.3"
+}

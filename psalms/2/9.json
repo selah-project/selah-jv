@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Kowe bakal ngecor ⟨את⟩ wong-wong mau nganggo gawa wesi, kaya bathi kang digawé panggawé lempung, kowe bakal ngepruk dadi pecahan.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "kowé bakal ngecor"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "nganggo gawa"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "wesi"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "kaya bathi"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "panggawé lempung"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "kowé bakal ngepruk dadi pecahan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:38.207092862Z",
+  "model": "glm-5.3"
+}

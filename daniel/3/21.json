@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 3:21",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur para wong iku diiket ing sandhangan jabané, rasukané, sandhangan wutahé lan rasukané liyané, lan diuncalake menyang tengah-tengah tungku geni sing murub.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "para wong"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "iku"
+    },
+    {
+      "surface": "כפתו",
+      "gloss": "diiket"
+    },
+    {
+      "surface": "בסרבליהון",
+      "gloss": "ing sandhangan jabané"
+    },
+    {
+      "surface": "פטישיהון",
+      "gloss": "rasukané"
+    },
+    {
+      "surface": "וכרבלתהון",
+      "gloss": "sandhangan wutahé"
+    },
+    {
+      "surface": "ולבשיהון",
+      "gloss": "rasukané (liyané)"
+    },
+    {
+      "surface": "ורמיו",
+      "gloss": "lan diuncalake"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "menyang tengah"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "tungku"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "geni"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "sing murub"
+    }
+  ],
+  "timestamp": "2026-08-21T02:57:06.660801978Z",
+  "model": "glm-5.3"
+}

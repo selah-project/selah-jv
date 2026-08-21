@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Kula muji Kowé, awit kula kadadéan kanthi nggégeraké lan kaluar-biasan; kaluar-biasan panggawéyanmu, lan jiwa kula pirsa banget.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "kula muji Kowé"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "kanthi nggégeraké"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "kadadéan kaluar-biasan"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "kaluar-biasan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "panggawéyanmu"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "lan jiwa kula"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "pirsa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:31.540115455Z",
+  "model": "glm-5.3"
+}

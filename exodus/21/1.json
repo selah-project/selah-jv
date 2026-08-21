@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan iki ⟨ukum-ukum⟩ sing kowe pasang ing ngarepe dheweke-dheweke.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "lan iki"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ukum-ukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "kowe pasang"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ing ngarepe dheweke-dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:04.872729585Z",
+  "model": "glm-5.3"
+}

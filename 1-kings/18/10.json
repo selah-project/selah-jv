@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Minurka uripé Yahweh Elohimmu, apa ana bangsa lan karajan kang ora dipun-utusan bendaraku menyang kana golèki kowé? Lan nalika padha ngendika: Ora ana; ia ambek sumpah ⟨את⟩ karajan iku lan ⟨את⟩ bangsa iku yèn ora bakal nau kowé.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "lan karajan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngutusan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendaraku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "golèki kowé"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "lan padha ngendika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "lan ia ambek sumpah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karajan iku"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karajan iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iku"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa iku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "bakal nau kowé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:08.446072103Z",
+  "model": "glm-5.3"
+}

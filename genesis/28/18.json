@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Banjur Yaakov tangi esuk-esuk, lan njupuk ⟨את⟩ watu sing ia lebetake ing sirah-e, lan ndadekake ⟨את⟩ iku dadi tugu, lan ngundhakake lenga ing pucuking sirah-e.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "tangi esuk-esuk"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing wayah esuk"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "watu"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "watu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ia lebetake"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "ing sanesane sirah-e"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ndadekake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tugu"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "tugu"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ngundhakake lenga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "pucuking sirah-e"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:53.262835052Z",
+  "model": "glm-5.3"
+}

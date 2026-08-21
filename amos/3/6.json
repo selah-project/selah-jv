@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Apa sangkala ditabuh ing kutha, lan uwong akeh ora giris? Apa ana bilai ing sawijining kutha, lan Yahweh ora ⟨iku⟩ sing nindakake?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "ditabuh"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sangkala (shofar)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan uwong akeh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "giris"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bilai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "lan Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:28:25.854692192Z",
+  "model": "glm-5.3"
+}

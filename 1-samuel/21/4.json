@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan saiki apa ana ing sangisore tanganmu? Lima roti awia na ing tanganku, utawa ⟨apa⟩ sing kasedya.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Lan saiki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "awia na"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ing tanganku"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "sing kasedya"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:25.272078150Z",
+  "model": "glm-5.3"
+}

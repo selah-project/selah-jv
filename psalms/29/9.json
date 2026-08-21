@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Swarane Yahweh nuwuhake rusa-rusa wadon, lan ndhudhut witing wit-witan; lan ing padalemane kabeh ngucap: Kaagungan!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "nuwuhake"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "rusa-rusa wadon"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "lan ndhudhut"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "witing wit-witan"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "lan ing padalemane"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kaagungan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:21.631985617Z",
+  "model": "glm-5.3"
+}

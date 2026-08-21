@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan aku ngucap: Adonai Yahweh, mohoa ⟨mangkonoa⟩; sapa sing bakal ngadegake Yaakov? Sebab cilik temen dheweke.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngucap"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "mohoa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨mangkonoa⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bakal ngadegake"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "cilik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T04:15:44.819446972Z",
+  "model": "glm-5.3"
+}

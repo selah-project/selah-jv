@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Dibimbing ing dalan lurus kanggo lunga menyang kutha dedunungan.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Dibimbing"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "lurus"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kanggo lunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "dedunungan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:02.697235176Z",
+  "model": "glm-5.3"
+}

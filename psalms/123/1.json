@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 123,
+  "translation": "Shir hama'alot: marang Panjenengan kupungkasake ⟨את⟩ mripatku, dhuh Sangkapa ingkang dunung ing swarga.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "shir (tembang)"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hama'alot (saka panggonan dhuwur)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Panjenengan"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "kupungkasake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mripatku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "Sangkapa ingkang dunung"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ing swarga"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:36.775460927Z",
+  "model": "glm-5.3"
+}

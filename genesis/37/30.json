@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan dheweke bali marang sedulur-sedulure, banjur ngucap: Sang anak ora ana maneh; lan aku, menyang ngendi aku mangkat?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lan dheweke bali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulur-sedulure"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngucap"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "sang anak"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ora ana maneh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "menyang ngendi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mangkat"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:54.953231265Z",
+  "model": "glm-5.3"
+}

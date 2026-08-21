@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Nanging uga ing dina-dina iku, pangandikaning Yahweh, Aku ora bakal nindakake ⟨את⟩ sira kabeh dadi kalam.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "nanging uga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ing dina-dina"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Aku nindakake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira kabeh",
+      "marks": "sira kabeh"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dadi kalam"
+    }
+  ],
+  "timestamp": "2026-08-21T00:50:41.725343309Z",
+  "model": "glm-5.3"
+}

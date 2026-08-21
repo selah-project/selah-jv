@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Sangarepe Efrayim lan Benyamin lan Menasye, bangunnana ⟨את⟩ kakukumanira, lan teka dadi slamat kanggo kita.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "sangarepe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "lan Benyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "lan Menasye"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "bangunnana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kakukumanira"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "kakukumanira (kakuwatanira)"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "dadi slamat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:09.135579065Z",
+  "model": "glm-5.3"
+}

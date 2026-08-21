@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Lunga padha weruh yèn iki tanganmu; kowé, Yahweh, sing wis nglakoni.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "lunga padha weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "sing wis nglakoni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:43.107248053Z",
+  "model": "glm-5.3"
+}

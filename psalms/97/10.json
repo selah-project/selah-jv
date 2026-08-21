@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 97,
+  "translation": "Sira sing ndemeni Yahweh, sengiti ala; ⟨Dhèkné⟩ nglakoni uripé para setiané, saka astane wong-wong ala ⟨Dhèkné⟩ ngluputake dhèwèké.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "sing ndemeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "sengiti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "uripé"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "para setiané"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka astane"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ngluputake dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:36.959473046Z",
+  "model": "glm-5.3"
+}

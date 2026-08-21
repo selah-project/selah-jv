@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lah Elohim munggah saka ing dhuwure, ing panggonan panggon ngendika karo ⟨את⟩-e.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lah munggah"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "saka ing dhuwure"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing panggonan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "panggon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "karo ⟨את⟩-e"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:51.340406719Z",
+  "model": "glm-5.3"
+}

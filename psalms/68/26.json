@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Para panyanyi maju ing ngarep, para pemain kendhang nututi ing buri, ing tengah-tengah para prawan padha nabuh ⟨kendhang⟩.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "maju ing ngarep"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para panyanyi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nututi ing buri"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "para pemain kendhang"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengah-tengah"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "para prawan"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "padha nabuh kendhang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:42.884113100Z",
+  "model": "glm-5.3"
+}

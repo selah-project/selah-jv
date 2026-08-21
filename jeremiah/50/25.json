@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 50:25",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Yahweh mbukak ⟨את⟩ granah-Né lan nggetokaké ⟨את⟩ prabot benduné, awit iku pangawéyané Adonai Yahweh Tzvaot ing bumi Kasdim.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "mbukak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "granah-Né"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "granah-Né"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "lan nggetokaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prabot benduné"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "prabot"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "benduné"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pangawéyan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kagungané Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzvaot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    }
+  ],
+  "timestamp": "2026-08-21T01:04:50.652210198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Ora olleh diganti lan ora olleh diijolake ⟨את⟩ — sing apik diijolake sing ala, utawa sing ala diijolake sing apik; lan menawa temen diijolake kewan karo kewan liya, ⟨iku⟩ kewan kasebut lan ijolane uga bakal dadi suci.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "olleh diganti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "olleh diijolake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sing apik \/ sing ala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sing apik"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "diijolake sing ala"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sing ala"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "diijolake sing apik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "המר",
+      "gloss": "temen ngijolake"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "diijolake"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kewan"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "karo kewan liya"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku kewan kasebut"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "lan ijolane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:16.375571678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Panjenengané nitih ana ing kerub lan mabur, lan nglayap ana ing swiwiné angin.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "lan nitih"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "lan mabur"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "lan nglayap"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "swiwiné"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:47.812982582Z",
+  "model": "glm-5.3"
+}

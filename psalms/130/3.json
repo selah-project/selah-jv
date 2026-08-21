@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 130,
+  "translation": "Menawi dosa Paduka titahi, Yah, sapa ingkang saged ngadheg, Adonai?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Menawi"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "Paduka titahi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "saged ngadheg"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:53.566599619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur bakal ana tangis njeru ing sakabèhé dhaérah Mitsrajim, kaya kang ora tau ana, lan kaya kang ora bakal tambah manèh.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "banjur bakal ana"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "tangis njeru"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "agung"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sakabèhé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "dhaérah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kang padha kaya iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "tau ana"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "lan kaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "bakal tambah manèh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:27.320715143Z",
+  "model": "glm-5.3"
+}

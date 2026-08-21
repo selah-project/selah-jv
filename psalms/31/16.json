@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Ing astané Kowé ana jaman-jamanku; ngluwari aku saka tangané mungsuhku, lan saka wong-wong sing ngoyak aku.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Ing astané Kowé"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "jaman-jamanku"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ngluwari aku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka tangané"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "lan saka wong sing ngoyak aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:56.906432437Z",
+  "model": "glm-5.3"
+}

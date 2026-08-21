@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "El kang ditakuti ing rerembugan para wong suci, agung lan nggegirisi marang sakabehing sing ngubengi Panjenengane.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "kang ditakuti"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ing rerembugan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "para wong suci"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "agung"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "lan nggegirisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "sing ngubengi Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:44.212934719Z",
+  "model": "glm-5.3"
+}

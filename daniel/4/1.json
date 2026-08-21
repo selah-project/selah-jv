@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Aku, Nevukhadnetzar, lagi tentrem ana ing dalemku, lan makmur ana ing kadhatonku.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetzar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "tentrem"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "lagi (aku ana)"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "ana ing dalemku"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "lan makmur"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "ana ing kadhatonku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:57:41.923037873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Bubarana ing pisunan, bubarana nganti ora ana, lan padha weruh yen Elohim mratelah ing Yaakov, nganti tepping bumi. Selah.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "bubarana"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "ing pisunan"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bubarana"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "lan padha weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mratelah"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ing Yaakov"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "nganti ora ana"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "nganti tepping"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.524373182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "nanging saka wohing wit sing ana ing tengahing taman, Elohim wus ngandika: Aja padha mangan saka iku, lan aja nyandhak iku, supaya aja padha mati.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "nanging saka wohing"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "wit iku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing ana"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ing tengahing"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "taman"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wus ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "padha mangan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nyandhak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iku"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya aja"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "padha mati"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:51.139607608Z",
+  "model": "glm-5.3"
+}

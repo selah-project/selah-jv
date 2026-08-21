@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 128,
+  "translation": "Gesuting tanganira, bakal kokmadhang; dadi bejanira, lan ayem marang kowe.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "gesuting"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tanganira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bakal"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kokmadhang"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "dadi bejanira"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "lan ayem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:44.096147694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Lan ngumbara terus padha ngumbara anake, lan padha nyuwu, lan padha nggoleki ⟨roti⟩ saka panggonan reruntuhane.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ngumbara"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "padha ngumbara"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anake"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "lan padha nyuwu"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "lan padha nggoleki"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "saka panggonan reruntuhane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:33.248205882Z",
+  "model": "glm-5.3"
+}

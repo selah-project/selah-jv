@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 126,
+  "translation": "Mulihna, Yahweh, ⟨את⟩ tawanan kita, kaya kali-kari ing ara-ara kidul.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Mulihna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawanan kita"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "tawanan kita"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "kaya kali-kari"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ing ara-ara kidul"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:49.089317204Z",
+  "model": "glm-5.3"
+}

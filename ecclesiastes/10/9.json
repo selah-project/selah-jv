@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sing mindhahake watu bakal tatu ⟨déning⟩ watu iku; sing membela kayu bakal bebaya ⟨déning⟩ kayu iku.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "mindhahake"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "watu"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "déning iku"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "membela"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "bebaya"
+    },
+    {
+      "surface": "בם",
+      "gloss": "déning iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:09.879635108Z",
+  "model": "glm-5.3"
+}

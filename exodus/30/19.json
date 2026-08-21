@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Aharon lan anak-anake bakal ngumbah saka ing kono ⟨את⟩ tangan-tangane lan ⟨את⟩ sikile",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "bakal ngumbah"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "lan anak-anake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka ing kono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-tangane"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan-tangane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sikile"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "sikile"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:14.359188278Z",
+  "model": "glm-5.3"
+}

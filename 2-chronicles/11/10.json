@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "lan ⟨את⟩ Tsorah, lan ⟨את⟩ Ajalon, lan ⟨את⟩ Khevron, kang ana ing Yehudha lan ing Binyamin, kutha-kutha bètèng kukuh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ing Yehudha"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "lan ing Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "bètèng kukuh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:34:26.022646304Z",
+  "model": "glm-5.3"
+}

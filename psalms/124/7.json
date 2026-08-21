@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 124,
+  "translation": "Jiwa kita kaya manuk nglolos saka jalma pangilon; ing jalma wis uwal, sarta kita wus nglolos.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "jiwa kita"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "kaya manuk"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "nglolos"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "saka jalma"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "pangilon"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ing jalma"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "wis uwal"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "sarta kita"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "wus nglolos"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:18.782377266Z",
+  "model": "glm-5.3"
+}

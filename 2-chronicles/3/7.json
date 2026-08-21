@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan dilapisi ⟨את⟩ bumi iku —-bindhe-balang, plinthiran, temboke, lan lawange — nganggo emas, lan dipahat kerub-kerub ing tembok-temboke.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "Lan dilapisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi iku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "bindhe-balang"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "plinthiran"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "temboke"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "lan lawange"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nganggo emas"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "lan dipahat"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerub-kerub"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "tembok-temboke"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:33.180780407Z",
+  "model": "glm-5.3"
+}

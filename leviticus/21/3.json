@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan kanggo adhine prawan sing cedhak karo awake, sing durung dadi bojo wong lanang — kanggo dheweke iku kena tumemi.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "lan kanggo adhine"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "prawan"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "sing cedhak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "karo awake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "durung"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "bojo wong lanang"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kanggo dheweke"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "kena tumemi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:29.896327243Z",
+  "model": "glm-5.3"
+}

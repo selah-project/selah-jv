@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan menawa wong nutuh ⟨את⟩ abdi lanang-e utawa ⟨את⟩ abdi wadon-e nganggo gada, lan ⟨⟨iku⟩ mati ing sangisore tangan-e, dendha mesthi didhendha.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "nutuh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi lanang-e"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdi lanang-e"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi wadon-e"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "abdi wadon-e"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "nganggo gada"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "lan mati"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangan-e"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "dendha"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "mesthi didhendha"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:07.311889715Z",
+  "model": "glm-5.3"
+}

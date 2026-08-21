@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Adil Yahweh ing sadurunge dalane, lan cambecik ing sadurunge panggaweane.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Adil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadurunge"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "lan cambecik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing sadurunge"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "panggaweane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:50.592861480Z",
+  "model": "glm-5.3"
+}

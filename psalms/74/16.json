@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Duduhe Kowé dinane, uga duduhe Kowé wengine; Kowé nyiapake cahya lan srengéngé.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "duduhe Kowé"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "duduhe Kowé"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengine"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "nyiapake"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "lan srengéngé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:32.878896540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Ana génerasi kang nglakoni ramané, lan ora mberkahi ⟨את⟩ ibuné.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ana génerasi kang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramané"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibuné"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibuné"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "mberkahi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:19:49.039608827Z",
+  "model": "glm-5.3"
+}

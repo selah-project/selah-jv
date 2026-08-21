@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sebab pangertek nglilakake wong wicaksana, lan suap ngrusakake ⟨את⟩ ati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "pangertek"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "nglilakake"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wong wicaksana"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ngrusakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ati"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "suap"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:05.302338597Z",
+  "model": "glm-5.3"
+}

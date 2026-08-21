@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Gris ngrengkuh dheweke ing kono, sara-rara kaya wong nglairake.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "gris"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ngrengkuh dheweke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sara-rara"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "kaya wong nglairake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:04.188007876Z",
+  "model": "glm-5.3"
+}

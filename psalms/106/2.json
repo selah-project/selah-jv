@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Sapa sing bisa caritakake sakehe gagah-kesaktiané Yahweh? Sapa sing bisa munjerakake kabeh pinuji-puji-ané?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "bisa caritakake"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "gagah-kesaktian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "bisa munjerakake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "pinuji-puji-ane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:50.767965093Z",
+  "model": "glm-5.3"
+}

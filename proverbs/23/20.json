@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Aja dadi ⟨ing⟩ para ngombhe anggur, ⟨ing⟩ para madhang daginge nganti kebagean.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "⟨ing⟩ para ngombhe"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "⟨ing⟩ para madhang"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "daginge"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nganti kebagean (partikel perluwesan)"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:53.886907584Z",
+  "model": "glm-5.3"
+}

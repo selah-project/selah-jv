@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ia ngumpulake marang awake ⟨את⟩ para anak Ammon lan Amalek, lan lunga, lan nyerang ⟨את⟩ Yisrael, lan ⟨ia⟩ nduweni ⟨את⟩ kutha wit kurma.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ngumpulake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang awake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "lan Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan lunga"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nyerang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "lan nduweni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "wit kurma"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:00.998825968Z",
+  "model": "glm-5.3"
+}

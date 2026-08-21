@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lajeng Yahweh ngandika marang aku: Aja wedi marang ⟨את⟩ dheweke, amarga ing ASTAmu Suninggalake ⟨את⟩ dheweke lan ⟨את⟩ sadaya bangsané lan ⟨את⟩ tanahé; lan ing kowé bakal nindakake marang dheweke kaya sing koktindakake marang Sihon ratué wong Amori, sing manggon ana ing Heshbon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lajeng ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ing ASTAmu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Suninggalake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sadaya bangsané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bangsané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanahé"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "tanahé"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "lan bakal nindakake"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "koktindakake"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "marang Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Amori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ana ing Heshbon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:08.759600800Z",
+  "model": "glm-5.3"
+}

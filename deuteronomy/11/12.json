@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Bumi kang Yahweh Elohimmu tansah anggegulang ⟨את⟩ iku; mripate Yahweh Elohimmu ana ing dhuwure, saka wiwite taun nganti pungkasane taun.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "anggegulang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (bumi iku)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "saka wiwite"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "pungkasane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:18.415023583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan siji ngundhang marang siji liyané, lan ngandika: Suci, suci, suci Yahweh Tzevaot, kaibané sadengah bumi kaluhurané.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "lan ngundhang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "siji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "siji liyané"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan ngundika"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Suci"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kaibané"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadengah"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kaluhurané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:43.901282216Z",
+  "model": "glm-5.3"
+}

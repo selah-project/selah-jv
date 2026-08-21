@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan wong sing arep disucikake ngumbahake sandhangané, lan nyukur ⟨את⟩ sakrambute rambuté, lan adus ing banyu, lan dadi sucik, sawisé iku lumebu menyang kempalan-kemah, lan dumadi ing jaba khemahé pitung dina.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "ngumbahake"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "wong sing arep disucikake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhangané"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sandhangané"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "nyukur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakrambute rambuté"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakrambute"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "rambuté"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "lan adus"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "lan dadi sucik"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "sawisé iku"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "lumebu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kempalan-kemah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "lan dumadi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ing jaba"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "khemahé"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:36.134647459Z",
+  "model": "glm-5.3"
+}

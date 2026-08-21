@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Elohim ngandika marang Mosheh: Ahyeh kang Ahyeh. Lan ngandika: Kaya mangkono kowé ngandika marang anak-anak Yisrael: Ahyeh ngutus aku marang kowé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ahyeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ahyeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "kowé ngandika"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ahyeh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ngutus aku"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "marang kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:17.523034616Z",
+  "model": "glm-5.3"
+}

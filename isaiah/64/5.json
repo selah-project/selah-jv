@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Lan dadi kaya wong najis ⟨kita⟩ kabeh, lan kaya sandhang ing wayah-luhur kabeh kaberaning-bener kita; lan layu kaya godhong kita kabeh, lan dosa kita kaya angin ngungkalake kita.",
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "kaya wong najis"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kita kabeh"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "lan kaya sandhang"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ing wayah-luhur (lemen)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "kaberaning-bener kita"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "lan layu"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "kaya godhong"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "kita kabeh"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "lan dosa kita"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "kaya angin"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "ngungkalake kita"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:42.416293086Z",
+  "model": "glm-5.3"
+}

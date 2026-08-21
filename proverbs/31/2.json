@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Apa ta, putraku? lan apa, putra ing guwa garbane? lan apa, putra saka sembahsunanku?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "putraku"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan apa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "putra"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ing guwa garbane"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "lan apa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "putra"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "saka sembahsunanku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:42.290562122Z",
+  "model": "glm-5.3"
+}

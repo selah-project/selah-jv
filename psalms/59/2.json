@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 59,
+  "translation": "Ulama aku saka mungsuh-mungsuhku, ya Elohimku; dhuwurna aku saka wong-wong sing madeg nglawan aku.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "uluma aku"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "saka mungsuh-mungsuhku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohimku"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "saka wong-wong sing madeg nglawan aku"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "dhuwurna aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:33.113442618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Mirenga, umat-Ku, lan aku bakal matur marang kowé; hei Yisraél, manawa kowé nglenturekake mranani aku —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mirenga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "lan aku bakal matur (ngejur)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraél"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "kowé nglenturekake mranani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:42.274961196Z",
+  "model": "glm-5.3"
+}

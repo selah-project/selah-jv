@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 8:7",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur Gidhon ngandika: Mulane, bareng Yahweh masrahake ⟨את⟩ Zebah lan ⟨את⟩ Tzalmunna ing tanganku, dakgregeli ⟨את⟩ dagingira karo ⟨את⟩ duri ing ara-ara lan ⟨את⟩ duri barqen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidhon"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "bareng masrahake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Zebah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Tzalmunna"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "Tzalmunna"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ing tanganku"
+    },
+    {
+      "surface": "ודשתי",
+      "gloss": "dakgregeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingira"
+    },
+    {
+      "surface": "בשרכם",
+      "gloss": "dagingira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duri"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "duri"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "duri barqen"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "duri barqen"
+    }
+  ],
+  "timestamp": "2026-08-21T03:59:13.681177004Z",
+  "model": "glm-5.3"
+}

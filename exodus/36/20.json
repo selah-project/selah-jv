@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Lan dheweke gawe ⟨את⟩ papan-papan kanggo panggonan suci, kayu akasia, madheg jejeg.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan dheweke gawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "papan-papan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "kanggo panggonan suci"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "madheg jejeg"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:26.126505982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Ora aku lungguh karo wong-wong goroh, lan karo wong sing ndhelikake ⟨⟨ora aku teka⟩⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "aku lungguh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan karo"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "wong sing ndhelikake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "aku teka"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:28.508258468Z",
+  "model": "glm-5.3"
+}

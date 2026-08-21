@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Duh bejané wong-wongmu, duh bejané para abdimu iki, sing ngadeg ing ngarsamu tansah, sing ngrungokake ⟨את⟩ kawijayanmu",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "duh bejané"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "wong-wongmu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "duh bejané"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "para abdimu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sing ngadeg"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsomu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "sing ngrungokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawijayanmu"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "kawijayanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:37.959808989Z",
+  "model": "glm-5.3"
+}

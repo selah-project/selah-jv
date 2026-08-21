@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Banjur Yahweh ngandika marang Kajin: Yagéné kowé nesu, lan yagéné raimu tiba?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "yagéné"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nesu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "lan yagéné"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raimu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:47.567964018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan aja nganti Chizkiyahu marakake ⟨את⟩ kowe percaya marang Yahweh, ngendika: Yahweh bakal ngluwari kita, lan kutha iki ora bakal dipasrahake ⟨את⟩ dhateng tangan sang raja Asyur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "percaya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "nluwari (infinitif absolut)"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "bakal nluwari kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "bakal dipasrahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha iki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "dhateng tangan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyur"
+    }
+  ],
+  "timestamp": "2026-08-21T04:07:27.486735392Z",
+  "model": "glm-5.3"
+}

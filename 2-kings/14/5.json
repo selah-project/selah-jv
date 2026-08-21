@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan kadadéan, nalika karaton iku wanci ing astané, banjur panjenengané nglumpati ⟨את⟩ abdi-abdiné sing matèni ⟨את⟩ ratu bapakné.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "wanci"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ing astané"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "banjur nglumpati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abdi-abdiné"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abdi-abdiné"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "sing matèni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ratu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:44.919003979Z",
+  "model": "glm-5.3"
+}

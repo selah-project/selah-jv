@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Njebak sing ngutang marang kabeh sing diduweni, lan wong liya padha ngremuk asile kerjane.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "njebak"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "sing ngutang"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "diduweni"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "lan padha ngremuk"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wong liya"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "asile kerjane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:33.248431052Z",
+  "model": "glm-5.3"
+}

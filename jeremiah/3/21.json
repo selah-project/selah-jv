@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Swara keton ing pucuk-pucuk bukit kang gundhul, tangis lan pangemban-nyuwun para putra Yisrael, awit padha nyimpangake ⟨את⟩ dadine dhewe, lan padha lali ⟨את⟩ Yahweh Elohime.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "pucuk-pucuk bukit kang gundhul"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "keton"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "tangis"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "pangemban-nyuwun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "padha nyimpangake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadine dhewe"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "dadine dhewe"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "padha lali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh Elohime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohime"
+    }
+  ],
+  "timestamp": "2026-08-21T00:50:08.805352119Z",
+  "model": "glm-5.3"
+}

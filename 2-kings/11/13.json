@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Athaljah krungu ⟨את⟩ swarane para pangreksa lan ⟨העם⟩ rakyat, banjur ⟨ia⟩ teka marang rakyat, ing ngomah Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "lan krungu"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Athaljah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarane"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "para pangreksa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rakyat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ing ngomah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:06:27.296738775Z",
+  "model": "glm-5.3"
+}

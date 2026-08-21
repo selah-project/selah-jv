@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 142,
+  "translation": "Swarané marang Yahweh aku mumedak; swarané marang Yahweh aku nyuwun kanugrahan.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Swarané"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "aku mumedak"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "swarané"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "aku nyuwun kanugrahan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:27.481231448Z",
+  "model": "glm-5.3"
+}

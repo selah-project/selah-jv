@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan dheweke gawe loro kerubim saka emas, pakaryan katempan — ⟨dheweke nglakokake אתם⟩ — ing kalorone ujung panutup mau.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan dheweke gawe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "loro"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "pakaryan katempan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dheweke nglakokake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "loro kerubim"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ing kalorone"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ujung"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "panutup mau"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:53.610329711Z",
+  "model": "glm-5.3"
+}

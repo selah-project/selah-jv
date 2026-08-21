@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 9:23",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Miturut pocape Yahweh padha ngeper, lan miturut pocape Yahweh padha mangkat; ⟨את⟩ wewadin Yahweh padha ngestrekake, miturut pocape Yahweh ing astane Moshe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pocape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "padha ngeper"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan miturut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pocape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "padha mangkat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wewadin Yahweh"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "wewadin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "padha ngestrekake"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "פי",
+      "gloss": "pocape"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing astane"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:25.152008611Z",
+  "model": "glm-5.3"
+}

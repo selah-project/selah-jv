@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Panyangga aku, supados kawilujengan, lan tak-anggo marengi pepakem-pakem Panjenengan tansah.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "panyangga aku"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "supados kawilujengan"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "tak-anggo marengi"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "pepakem-pakem Panjenengan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:45.874811429Z",
+  "model": "glm-5.3"
+}

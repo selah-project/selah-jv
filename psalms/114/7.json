@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 114,
+  "translation": "Saka ngarsane Adonai—ledheka, o bumi—saka ngarsane Eloha Yaakov!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ledheka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o bumi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "saka ngarsane"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:04.726308953Z",
+  "model": "glm-5.3"
+}

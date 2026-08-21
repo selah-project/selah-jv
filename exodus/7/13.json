@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan atine Paroh dadi atos, sarta ora ngrungokake marang ⟨dheweke⟩, kaya sing wis dingetake dening Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "dadi atos"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya sing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dingetake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:09.375664062Z",
+  "model": "glm-5.3"
+}

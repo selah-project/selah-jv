@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Penjaga ngendika: Esuk wis teka, lan uga wengi. Menawa kowe takon, takonaa; bali, padha teka.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "penjaga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wis teka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "kowe takon"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "takonaa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bali"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "padha teka"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:45.686291835Z",
+  "model": "glm-5.3"
+}

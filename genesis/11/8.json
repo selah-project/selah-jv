@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Dadi Yahweh nyebarake ⟨את⟩ padha saka ing kono marang raine saindhenging bumi, lan padha mandheg yasa kutha iku.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "nyebarake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "padha"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka ing kono"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "raine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "padha mandheg"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:43.314317257Z",
+  "model": "glm-5.3"
+}

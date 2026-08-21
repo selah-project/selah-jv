@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan dadiya mengkono, merga para juragan parta-niyem iku bekti marang ⟨את⟩ Elohim, banjur ⟨Dheweke⟩ gawekake omah-omah kanggo wong-wong mau.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dadiya mengkono"
+    },
+    {
+      "surface": "כי",
+      "gloss": "merga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bekti"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "para juragan parta-niyem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "gawekake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo wong-wong mau"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "omah-omah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:55:56.867560660Z",
+  "model": "glm-5.3"
+}

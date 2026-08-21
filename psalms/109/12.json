@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Aja ana kanggo dheweke sing njulurake kabecikan, lan aja ana kang welas asih marang yatime.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo dheweke"
+    },
+    {
+      "surface": "משך",
+      "gloss": "njulurake"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ana"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "kang welas asih"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "marang yatime"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:33.248614370Z",
+  "model": "glm-5.3"
+}

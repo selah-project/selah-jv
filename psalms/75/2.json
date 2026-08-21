@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 75,
+  "translation": "Kita matur nuwun marang Paduka, Elohim, kita matur nuwun, lan cerak Asma-Paduka; ⟨dheweke⟩ wacana kabeh sangajah-Paduka.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "kita matur nuwun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Paduka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "kita matur nuwun"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "lan cerak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Asma-Paduka"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "wacana"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "sangajah-Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:32.324543343Z",
+  "model": "glm-5.3"
+}

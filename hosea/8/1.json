@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Marang langit-langit cangkemmu — sangkala! Kaya manuk elang ⟨bakal mlayu⟩ marang omahé Yahweh, amarga dhèwèké padha nglangkari prajanjiKu, lan marang ToratKu padha nglampahi pamberesan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Marang"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "langit-langit cangkemmu"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "sangkala"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "kaya manuk elang"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "padha nglangkari"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjiKu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ToratKu"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "padha nglampahi pamberesan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:51.308748887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan saka Israèl: saka para putrane Parosh: Ramyah, lan Yiziyah, lan Malkiyah, lan Miyamin, lan Elazar, lan Malkiyah, lan Benayah.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "saka Israèl"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "saka para putrane"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "Ramyah"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "lan Yiziyah"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "lan Malkiyah"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "lan Miyamin"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "lan Elazar"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "lan Malkiyah"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "lan Benayah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:06:32.380113729Z",
+  "model": "glm-5.3"
+}

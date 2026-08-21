@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Menashsheh marang ⟨את⟩ Efrayim, lan Efrayim marang ⟨את⟩ Menashsheh, padha bebarengan nglawan Yehuda. Sanadyan mangkono muringé ora sumelak, lan tangane isih kajol.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "lan Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashsheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "padha bebarengan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "padha"
+    },
+    {
+      "surface": "על",
+      "gloss": "nlawan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sanadyan mangkono"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kabeh iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sumelak"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "muringé"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "lan isih"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangane"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "kajol"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:23.500922472Z",
+  "model": "glm-5.3"
+}

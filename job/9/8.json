@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sing nelaringake langit wae dhewe-dhewe, lan lumaku ing dhuwur-dhuwuring segara.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "Sing nelaringake"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "wae dhewe-dhewe"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "lan lumaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "dhuwur-dhuwuring"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    }
+  ],
+  "timestamp": "2026-08-21T02:23:36.880325834Z",
+  "model": "glm-5.3"
+}

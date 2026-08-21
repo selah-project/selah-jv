@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ing dina iku Adonai bakal nyilihake ⟨את⟩ kamegahaning gelang sikil, lan iket-iket sirah, lan rerenggan awujud rembulan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "bakal nyilihake"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamegahaning gelang sikil"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kamegahan"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "gelang sikil"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "lan iket-iket sirah"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "lan rerenggan awujud rembulan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:03.357515705Z",
+  "model": "glm-5.3"
+}

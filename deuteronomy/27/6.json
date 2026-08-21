@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Watu-watu wutuh kang kok yasa ⟨את⟩ altar Yahweh, Elohim-mu; lan kok ana ing sadhuwure kurban bakaran kanggo Yahweh, Elohim-mu.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "watu-watu"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "wutuh (ora dipahat)"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "kang kok yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "lan kok ana ing sadhuwure"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:54.276471349Z",
+  "model": "glm-5.3"
+}

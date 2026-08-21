@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Kutukna kang ngremehake bapakné lan ibuné; lan sabeh bangsa bakal ngucap: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "kutukna"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "kang ngremehake"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "lan ibuné"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan bakal ngucap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-08-20T23:38:01.689901774Z",
+  "model": "glm-5.3"
+}

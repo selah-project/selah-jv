@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Nganti kapan, Elohim, mungsuh nglantafi? Apa mungsuh ngina Asma-Mu salawase?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "nglantafi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "ngina"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Asma-Mu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawase"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:02.420415567Z",
+  "model": "glm-5.3"
+}

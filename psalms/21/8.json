@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Sebab sang raja pracaya ing Yahweh, lan ing sih-kasihsing Kang Mahaluhur, dheweke ora bakal kasorot obah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "pracaya"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ing Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "lan ing sih-kasih"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Kang Mahaluhur"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora bakal"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kasorot obah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:04.627814372Z",
+  "model": "glm-5.3"
+}

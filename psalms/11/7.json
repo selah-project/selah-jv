@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Sebab Yahweh ⟨iku⟩ wong adil, kaleresan disenengi; wong jujur bakal nyawang praanané.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong adil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "kaleresan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "disenengi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bakal nyawang"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "praanané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:50.785104183Z",
+  "model": "glm-5.3"
+}

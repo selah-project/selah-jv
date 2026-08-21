@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan kadadéyan sawisé kira-kira sepuluh dina, Yahweh nuthuk ⟨את⟩ Nabal, lan panjenengane mati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéyan"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "kira-kira sepuluh"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "lan nuthuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lan mati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:24.785663933Z",
+  "model": "glm-5.3"
+}

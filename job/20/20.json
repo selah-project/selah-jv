@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Sebab ora bakal ngerti ayem ing wetengé; barang kang karepake ora bakal bisa diselametake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ayem"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "ing wetengé"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "ing barang kang karepake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bisa diselametake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:29:02.564906298Z",
+  "model": "glm-5.3"
+}

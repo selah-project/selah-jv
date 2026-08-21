@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Kadhaton kang bener lumaku ing ngarepé, sarta ngetokaké tlapak sikilé dadi dalan.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "kadhaton kang bener"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarepé"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "sarta ngetokaké dadi"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "tlapak sikilé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:46.204699277Z",
+  "model": "glm-5.3"
+}

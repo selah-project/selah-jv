@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Ing dina iku bakal ⟨ana⟩ dalan saka Mitsrayim menyang Ashur, lan Ashur bakal teka ing Mitsrayim, lan Mitsrayim ing Ashur, lan wong Mitsrayim bakal ngawula bareng ⟨את⟩ Ashur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "dalan raya"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "menyang Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lan bakal teka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "lan Mitsrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "ing Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "lan bakal ngawula"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wong Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:07.766328770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan Yokshan nurni ⟨את⟩ Sheva lan ⟨את⟩ Dedan; lan para putranipun Dedan ⟨is⟩ Ashurim, lan Letushim, lan Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Lan Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nurni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan para putranipun"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "lan Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "lan Leummim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:49:31.584483665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ana sabda Yahweh marang Yonah kang kaping pindho, sangandika:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lan ana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "kaping pindho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sangandika"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:14.134081543Z",
+  "model": "glm-5.3"
+}

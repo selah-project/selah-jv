@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan saka marga Binjamin: ⟨את⟩ Givon lan ⟨את⟩ padhangane, ⟨את⟩ Geba lan ⟨את⟩ padhangane.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "lan saka marga"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padhangane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "padhangane"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "padhangane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:46:34.725412418Z",
+  "model": "glm-5.3"
+}

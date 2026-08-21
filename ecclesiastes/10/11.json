@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Yèn ula ngetok racun tanpa dijampi, banjur empu tumindhak pamacan jampi ora ana kaluwihane.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ngetok racun"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ula"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "dijampi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kaluwihan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "empu"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "tumindhak pamacan jampi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:09.880069459Z",
+  "model": "glm-5.3"
+}

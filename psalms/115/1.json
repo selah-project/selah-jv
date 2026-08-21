@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Ora kanggo kita, Yahweh, ora kanggo kita, amarga kanggo asma-Mu mulyakake ⟨⟨כבוד⟩⟩ — kanggo asma-Mu wenehana kamulyan, amarga sih-Mu, amarga katresnan setya-Mu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "kanggo asma-Mu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "wenehana"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sih-Mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "katresnan setya-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:57.320447577Z",
+  "model": "glm-5.3"
+}

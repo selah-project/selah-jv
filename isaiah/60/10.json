@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Lan anak-anake wong asing bakal ngadegaké tembokmu, lan ratu-ratune bakal ngabdi sira, amarga ing nesu-Ku Ingsun nglumpati sira, lan ing karsa-Ku Ingsun welasani sira.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "lan ngadegaké"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wong asing"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "tembokmu"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "lan ratu-ratune"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "ngabdi sira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "ing nesu-Ku"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "Ingsun nglumpati sira"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "lan ing karsa-Ku"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "Ingsun welasani sira"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:47.175575968Z",
+  "model": "glm-5.3"
+}

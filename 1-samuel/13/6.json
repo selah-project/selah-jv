@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan para wong Yisrael padha weruh yèn awaké kepepet, awit wong ramat iku kadijibahi; banjur wong ramat padha ndhelik ing guwa-guwa, ing grumbul, ing karang-karang watu, ing papan pangilonan, lan ing sumuran-sumuran.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Lan para wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "padha weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kepepet"
+    },
+    {
+      "surface": "לו",
+      "gloss": "awaké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "kadijibahi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong ramat"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "banjur padha ndhelik"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong ramat"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "ing guwa-guwa"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "ing grumbul"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "ing karang-karang watu"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "ing papan pangilonan"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "lan ing sumuran-sumuran"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:31.716953720Z",
+  "model": "glm-5.3"
+}

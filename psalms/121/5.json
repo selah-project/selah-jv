@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 121,
+  "translation": "Yahweh sing njaga ⟨sira⟩; Yahweh ⟨iku⟩ sesulih ⟨sira⟩ ing tangan tengen ⟨mu⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "njaga sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "sesulihmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tengenmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:15.236250643Z",
+  "model": "glm-5.3"
+}

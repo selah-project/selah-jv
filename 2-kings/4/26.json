@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Saiki, mlayua lah nyumangga dheweke, lan takona marang dheweke: Apa kowé slamet? Apa bojoné slamet? Apa anaké slamet? Lan dheweke wangsul: Slamet.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "mlayua"
+    },
+    {
+      "surface": "נא",
+      "gloss": "lah"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "nyumangga dheweke"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan takona"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Apa kowé slamet?"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Apa ... slamet?"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "bojoné"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Apa ... slamet?"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Lan dheweke wangsul"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Slamet"
+    }
+  ],
+  "timestamp": "2026-08-21T04:05:59.213619524Z",
+  "model": "glm-5.3"
+}

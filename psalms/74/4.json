@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Sateranmu nageled ing tengah pasamuwanmu; lambang-lambange dheweke masang dadi tandha.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "nageled"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "sateranmu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ing tengah"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "pasamuwanmu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "dheweke masang"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "lambang-lambange"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "dadi tandha"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:59.102924975Z",
+  "model": "glm-5.3"
+}

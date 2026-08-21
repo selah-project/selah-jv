@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Yahweh nyudukake ⟨sup⟩ ⟨the⟩ sedaya lambe alus, ilat kang medhar medheng-mendheng.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "nyudukake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lambe"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "alus"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilat"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "kang medhar"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "medheng-mendheng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:24.430934619Z",
+  "model": "glm-5.3"
+}

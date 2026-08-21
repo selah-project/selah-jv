@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Yahweh ngluhurake ⟨את⟩ mungsuhé Retsin nglawané, lan ⟨את⟩ sancaka-sancakané didadekake siji.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ngluhurake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mungsuhé Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mungsuhé"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nglanane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sancaka-sancakané"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sancaka-sancakané"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "didadekake siji"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:22.245811883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Pamuja marang Yah! Pamujana ⟨את⟩ Yahweh saka ing langit, pamujana Panjenengane ing panggonan dhuwur.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pamujana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pamujana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨ing⟩ langit"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pamujana Panjenengane"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ing panggonan dhuwur"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:24.402365978Z",
+  "model": "glm-5.3"
+}

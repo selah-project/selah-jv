@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Banjur Yehosua krungu ⟨את⟩ swarane wong kemasan nalika padha teri, lan ngendika marang Moshe: Swara perang ana ing kemah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "banjur krungu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarane"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kemasan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "nalika padha teri"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ana ing kemah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:39.748184916Z",
+  "model": "glm-5.3"
+}

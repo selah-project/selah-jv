@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 100,
+  "translation": "Padha ngabdi ⟨את⟩ Yahweh kanthi bungah; padha sowan ing ngarsane kanthi pidendha.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Padha ngabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kanthi bungah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Padha sowan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "kanthi pidendha"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:31.514327390Z",
+  "model": "glm-5.3"
+}

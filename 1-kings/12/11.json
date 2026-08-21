@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan saiki bapakku numpangake marang kowe sanggan abot, lan aku bakal nambahi ing sangganmu; bapakku ngukum kowe ⟨את⟩ nganggo cambuk, lan aku bakal ngukum kowe ⟨את⟩ nganggo kalajengking.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Lan saiki"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapakku"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "numpangake"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "marang kowe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sanggan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "abot"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "bakal nambahi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "sangganmu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "bapakku"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ngukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "nganggo cambuk"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "nganggo cambuk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "bakal ngukum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kowe",
+      "marks": "nganggo kalajengking"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "nganggo kalajengking"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:34.961959179Z",
+  "model": "glm-5.3"
+}

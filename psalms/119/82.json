@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Wis entek mripatku amarga ⟨the⟩ tembangmu, saka ngucap: pundi kami tansah ngapura aku?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "wis entek"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "amarga tembangmu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saka ngucap"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "pundi"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "kowe ngapuraku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:05.392339676Z",
+  "model": "glm-5.3"
+}

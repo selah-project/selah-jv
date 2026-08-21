@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 130,
+  "translation": "Lan Panjenengane bakal nembung ⟨את⟩ Yisrael saka saben-saben lupute.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "lan Panjenengane"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "bakal nembung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "saka saben-saben"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "lupute"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:09.273942695Z",
+  "model": "glm-5.3"
+}

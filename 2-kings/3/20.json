@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan dumadi ing esuk, nalikane ngetokake sesajen esuk, lah, banyu teka saka dalane Edom, lan bumi iku kebak ⟨את⟩ banyu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dumadi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing esuk"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "nalikane ngetokake"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sesajen esuk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "באים",
+      "gloss": "teka"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "saka dalane"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "lan kebak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:24:26.314915954Z",
+  "model": "glm-5.3"
+}

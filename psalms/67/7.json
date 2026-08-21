@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 67,
+  "translation": "Bumi wus maringake asilé; mugi Elohim, Elohim kita, maringake kita.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Bumi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wus maringake"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "asilé"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "mugi maringake kita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:40.410252072Z",
+  "model": "glm-5.3"
+}

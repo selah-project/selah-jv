@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 1:52",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Shelomoh ngendika: Yen ⟨ij⟩ dadi bocah lanang gagah, ora bakal ana sikile sing tiba ing lemah; nanging yen ana ala tinemu ing ⟨dheweke⟩, bakal mati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ... ngendika"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Yen"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bocah lanang"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "gagah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tiba"
+    },
+    {
+      "surface": "משערתו",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ing lemah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nanging yen"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tinemu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing dheweke"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bakal mati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:09.346565579Z",
+  "model": "glm-5.3"
+}

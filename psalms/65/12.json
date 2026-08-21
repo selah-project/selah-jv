@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Kowé makuthani taun kautamaan-Mu, lan lampah-lampah-Mu padha ngetesake lubering berkah.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Kowé makuthani"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taun"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "kautamaan-Mu"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "lan lampah-lampah-Mu"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "padha ngetesake"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "lubering berkah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:46.037158196Z",
+  "model": "glm-5.3"
+}

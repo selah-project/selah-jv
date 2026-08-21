@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Cadas sing siji madeg ing lor ngadhep Mikmas, lan sing siji ing kidul ngadhep Geba.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "cadas"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sing siji"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "madeg"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ing lor"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngadhep"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "lan sing siji"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ing kidul"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngadhep"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:32.292280318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Sebab lengené wong-wong ala bakal dipesuhi, lan Yahweh nyengkuyung para bener.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "lengené"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "dipesuhi"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "lan nyengkuyung"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "para bener"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:25.506947764Z",
+  "model": "glm-5.3"
+}

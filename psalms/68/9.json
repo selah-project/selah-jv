@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Bumi gumeter, uga langit netesake ing ngarsane Elohim — iki Sinai — ing ngarsane Elohim, Elohime Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Bumi"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "gumeter"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "netesake"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:36.213850622Z",
+  "model": "glm-5.3"
+}

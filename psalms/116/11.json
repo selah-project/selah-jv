@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Aku ngucap ana ing kalampahaning kakusutan: saben manungsa iku pandhelih.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ana ing kalampahaning kakusutan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "pandhelih"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:27.089673103Z",
+  "model": "glm-5.3"
+}

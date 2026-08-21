@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Dene kowe kabeh iku tukang nglemesi goroh, tabib ora guna, kabeh kowe.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Dene"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "tukang nglemesi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "tabib"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "ora guna"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kowe kabeh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:25:26.698636260Z",
+  "model": "glm-5.3"
+}

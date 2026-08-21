@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Tumangge menyang tumangge memuji panggawé-Mu, lan kadigdayan-Mu padha winarah.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Tumangge"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "menyang tumangge"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "panggawé-Mu"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "lan kadigdayan-Mu"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "padha winarah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:45.149007383Z",
+  "model": "glm-5.3"
+}

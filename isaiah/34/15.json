@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Ing kono ula panah ndadèkaké susuh, nètèsi lan neteské, nglolosaké lan ngengrembaké ing sumiyare; mung ing kono para elang padha kumpul, siji-sijiné karo kancané.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "ndadèkaké susuh"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "ula panah"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "neteské"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "nglolosaké"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "ngengrembaké"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "ing sumiyare"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mung"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "padha kumpul"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "para elang"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "siji-siji"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "kancané"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:20.657518943Z",
+  "model": "glm-5.3"
+}

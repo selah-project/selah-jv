@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Sing nitahaké ati kabèhé bebarengan, sing ngertèni sadaya panggawané.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "sing nitahaké"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ati kabèhé"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "sing ngertèni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "panggawané"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:39.923409671Z",
+  "model": "glm-5.3"
+}

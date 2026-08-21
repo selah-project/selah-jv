@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sebab hikmah bakal mlebu ing atimu, lan kawruh bakal dadi sedhep marang jiwamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "bakal mlebu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ing atimu"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "lan kawruh"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "marang jiwamu"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "bakal dadi sedhep"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:34.537238716Z",
+  "model": "glm-5.3"
+}

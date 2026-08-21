@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Sawisé perkara-perkara iki, bare murkané sang raja Akhasyweros wis marem, dhèwèké éling marang ⟨את⟩ Wasyti, lan ⟨את⟩ sing wis dilakoni, lan ⟨את⟩ sing wis diputus mangka nglawan dhèwèké.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sawisé"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "perkara-perkara"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "bare marem"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "murkané"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhasyweros"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "éling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wasyti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Wasyti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sing wis dilakoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "dilakoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sing wis diputus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "diputus"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nglawan dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:52:10.400848411Z",
+  "model": "glm-5.3"
+}

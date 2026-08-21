@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim ingkang wilujengake aku, ing dinane aku ngedoh-edohake, ing wengi ana ngarsanira.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim(-ku)"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ingkang wilujengake aku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "aku ngedoh-edohake"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ana ngarsanira"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:04.503986744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur Yehosua bali lan kabèh Israél karo marang kampé, ing Gilgala.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabèh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampé"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ing Gilgala"
+    }
+  ],
+  "timestamp": "2026-08-20T23:44:07.667036597Z",
+  "model": "glm-5.3"
+}

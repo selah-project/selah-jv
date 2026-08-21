@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Lan rong ranté (saka) emas murni, miturut pinggiré, kudu sira gawé ⟨את⟩-kuwi; gawéan jungkat-jungkit, lan sira nèmpèl ⟨את⟩ ranté-ranté jungkat-jungkit mau ing papan-papan sesepan.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "lan rong"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "ranté"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "miturut pinggiré"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kudu sira gawé"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩-kuwi",
+      "marks": "gawéan jungkat-jungkit"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gawéan"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "jungkat-jungkit"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "lan sira nèmpèl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ranté-ranté"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "ranté-ranté"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "kang jungkat-jungkit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "papan-papan sesepan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:39.988712765Z",
+  "model": "glm-5.3"
+}

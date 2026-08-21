@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan dadi abot tangan Yahweh marang wong-wong Ashdod, lan Panjenengane ngreridhu ⟨אתם⟩ ⟨את⟩ nuthuk ing bagean sing didhelikake, ⟨את⟩ Ashdod lan ⟨את⟩ wewengkone.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "lan dadi abot"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "wong-wong Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "lan ngreridhu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "wong-wong Ashdod"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "⟨את⟩ nuthuk ing bagean sing didhelikake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "⟨את⟩ Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wewengkone"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "⟨את⟩ wewengkone"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:58.878809512Z",
+  "model": "glm-5.3"
+}

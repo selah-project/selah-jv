@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dumadi, bare Shemuël wis sepuh, dhèwèké ngukuhake ⟨את⟩ anak-anaké dadi hakim kanggo Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "dumadi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bare"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "sepuh"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ngukuhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaké"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hakim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kanggo Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:33.474518889Z",
+  "model": "glm-5.3"
+}

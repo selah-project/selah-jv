@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan ⟨dhewe⟩ ninggalake padunungan Silo, khemah sing ditindakake manggon ing antarane manungsa",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "ninggalake"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "padunungan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Silo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ditindakake manggon"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ing antarane manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:23.238772280Z",
+  "model": "glm-5.3"
+}

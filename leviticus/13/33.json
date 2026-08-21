@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan wong kudu digundhulake, nanging ⟨את⟩ netek iku ora kena digundhulake; lan imam kudu ngisingake ⟨את⟩ sing duwe netek pitung dina maneh.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "lan digundhulake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "kena digundhulake"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "lan ngisingake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing duwe netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "sing duwe netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "maneh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:22.460859234Z",
+  "model": "glm-5.3"
+}

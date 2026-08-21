@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Yahweh Elohim munjuk marang sang wadon: Apa iki sing koklakoni? Lan sang wadon matur: Ula iku nodhani kula, lan kula mundhak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "marang sang wadon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Apa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sing koklakoni"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sang wadon"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ula iku"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "nodhani kula"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "lan kula mundhak"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:48.310096766Z",
+  "model": "glm-5.3"
+}

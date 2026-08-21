@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan srengéngé mlethak, lan srengéngé angslup, lan ngliyer kasmaran menyang panggonané — iku sing mlethak iku ana ing kana.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "lan mlethak"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "lan angslup"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengéngé"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan menyang"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "panggonané"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ngliyer kasmaran"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "sing mlethak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ana ing kana"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:36.297369558Z",
+  "model": "glm-5.3"
+}

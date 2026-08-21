@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan imam bakal munggahake ⟨את⟩ kurban bakaran lan ⟨את⟩ kurban sesajen ana ing pasarean, lan imam bakal nyulihake dheweke, lan dheweke dadi resik",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "munggahake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban bakaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kurban sesajen"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kurban sesajen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ana ing pasarean"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "nyulihake"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dadi resik"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:02.058276390Z",
+  "model": "glm-5.3"
+}

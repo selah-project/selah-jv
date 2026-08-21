@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Nalika jiwaku kendho katutup aku, aku ngelingi ⟨את⟩ Yahweh; lan dongaku teka marang panjenengané, menyang bale sutra suci panjenengané.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "nalika kendho katutup"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "aku ngelingi"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang panjenengané"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "dongaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "bale sutra"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "suci panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:17.489472232Z",
+  "model": "glm-5.3"
+}

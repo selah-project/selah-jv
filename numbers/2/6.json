@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "lan wadyabalané lan kang padha kèkèhan patang èwu sangang atus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "lan wadyabalané"
+    },
+    {
+      "surface": "ופקudיו",
+      "gloss": "lan kang padha kèkèhan"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "patang"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "sangang"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "èwu"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "patang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:45.867877853Z",
+  "model": "glm-5.3"
+}

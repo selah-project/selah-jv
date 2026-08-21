@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 93,
+  "translation": "Yahweh dadi ratu, kelawan kamulyan ⟨ia⟩ kelawan; Yahweh kelawan kasagedan, sampé piyambak; ya, donya ngadeg manteb, ora bakal obah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "dadi ratu"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "kelawan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "kelawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kasagedan"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "sampé piyambak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ngadeg manteb"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "donya"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "obah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.901086270Z",
+  "model": "glm-5.3"
+}

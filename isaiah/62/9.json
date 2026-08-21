@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 62,
+  "translation": "Sebab kang ngundhuh bakal madhangi, lan bakal memuji ⟨את⟩ Yahweh; lan kang nglumpukaké bakal ngombé ana ing pelataran-pelataran kaucinganku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "kang ngundhuh"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bakal madhangi"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "lan bakal memuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "lan kang nglumpukaké"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "bakal ngombé"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ana ing pelataran-pelataran"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "kacucinganku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:07.306461833Z",
+  "model": "glm-5.3"
+}

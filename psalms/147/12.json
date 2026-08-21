@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Muliana, hei Yerushalayim, Yahweh ⟨את⟩; memuji, hei Tziyon, Allahmu.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Muliana, hei"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "memuji"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Allahmu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "hei Tziyon"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:18.662076083Z",
+  "model": "glm-5.3"
+}

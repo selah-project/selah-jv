@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Biji-suksma padha ngaturake syukur marang Yahweh amarga sihne, lan mukjizat-mukjizate marang para anak manungsa.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "padha ngaturake syukur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "amarga sihne"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "lan mukjizat-mukjizate"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang para anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:06.771024756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Begjane sapa sing wicaksana marang ⟨the⟩ wong mlarat; ing dina ala Yahweh bakal nylametake ⟨dia⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "begjane"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wicaksana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wong mlarat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "bakal nylametake dia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:45.958268091Z",
+  "model": "glm-5.3"
+}

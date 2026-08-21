@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Mosheh mitutur marang para putra Israél miturut sakabèhé sing wis didhawuhake Yahweh marang ⟨את⟩ Mosheh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan mitutur"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut sakabèhé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wis didhawuhake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheh"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:12.837218977Z",
+  "model": "glm-5.3"
+}

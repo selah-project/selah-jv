@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Sebab dheweke rumaket marang Aku, mulane Aku ngluwari dheweke; Aku ngunggahake dheweke, sebab dheweke ngerti Asmaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בי",
+      "gloss": "marang Aku"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "rumaket\/tresna"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "Aku ngluwari dheweke"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "Aku ngunggahake dheweke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "dheweke ngerti"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Asmaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:51.105447005Z",
+  "model": "glm-5.3"
+}

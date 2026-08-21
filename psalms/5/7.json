@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Kowe bakal numpes para pangucap ing goroh, wong pangéran getih lan dolanan-apus, Yahwehgething.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "kowe bakal numpes"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "para pangucap"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "pangéran getih"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "dolanan-apus"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "gething"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:48.210839313Z",
+  "model": "glm-5.3"
+}

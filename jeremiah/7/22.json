@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sebab Aku ora ngandika marang ⟨את⟩ leluhurmu, lan ora ngetokake prentah marang wong-wong mau, ing dinane Aku ngetokake ⟨את⟩ dhèwèké saka bumi Mitsrayim, prakara kurban bakaran lan kurban sembelihan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Aku ngandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leluhurmu"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "leluhurmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "Aku ngetokake prentah marang wong-wong mau"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dinane"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ngetokake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ dhèwèké"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "prakara"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pakarine"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "lan kurban sembelihan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:51:42.028201884Z",
+  "model": "glm-5.3"
+}

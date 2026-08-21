@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Absalom ngutus para pangintai menyang kabeh suku Israel, ngendika: Bareng kowe krungu ⟨את⟩ swarane sangkala, podho ngucapa: Absalom jumeneng ratu ing Khevron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "para pangintai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "menyang kabeh"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "bareng kowe krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "swarane"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sangkala"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "podho ngucapa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "jumeneng ratu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ing Khevron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:09:51.696286804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan ia ngedegake ⟨את⟩ siji ing Beit-El, lan ⟨את⟩ sijine ia sumedhehake ing Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ia ngedegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siji"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing Beit-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Beit)-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sijine"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sijine"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ia sumedhehake"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "ing Dan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:03.981313041Z",
+  "model": "glm-5.3"
+}

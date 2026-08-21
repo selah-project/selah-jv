@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "lan ⟨את⟩ menora padhangan iku, lan ⟨את⟩ perabote, lan ⟨את⟩ lampu-lampune, lan ⟨את⟩ lenga kanggo padhangan iku;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "menora padhangan"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "menora"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "padhangan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "perabote"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "perabote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lampu-lampune"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lampu-lampune"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lenga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "padhangan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:39.225516777Z",
+  "model": "glm-5.3"
+}

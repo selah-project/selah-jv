@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 93,
+  "translation": "Saksi-saksimu wis temen tetep sanget; marang bhetaramu pasukan kasucen, Yahweh, nganti dawa dinane.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "saksi-saksimu"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "wis temen tetep"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "marang bhetaramu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pasukan (luwih trep)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kasucen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "nganti dawa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dinane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:06.168004062Z",
+  "model": "glm-5.3"
+}

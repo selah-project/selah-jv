@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Sebab啊dingerteni ⟨את⟩ tembung sucine, ⟨את⟩ Avraham abdine.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ngelingi\/dingerteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung sucine"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sucine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "abdine"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:17.143675369Z",
+  "model": "glm-5.3"
+}

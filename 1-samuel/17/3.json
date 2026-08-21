@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan para Pelishti ngadeg ing gunung ing sisih iki, lan Israél ngadeg ing gunung ing sisih kuwi, lan lembah ⟨is⟩ antarane kaloroné.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "para Pelishti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sisih iki"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sisih kuwi"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "antarane kaloroné"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:37.177816403Z",
+  "model": "glm-5.3"
+}

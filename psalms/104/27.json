@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Kabeh marang Kowe padha nunggu, supaya Kowe maringi panganane ing mangsane.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Kowe"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "nunggu kanthi pangarep-arep"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "supaya maringi"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "panganane"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ing mangsane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:31.619376700Z",
+  "model": "glm-5.3"
+}

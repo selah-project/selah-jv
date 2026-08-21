@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan kadadéan ing wayah sore, dhèwèké njupuk ⟨את⟩ Lea anak wadoné, lan nggawa ⟨את⟩ awake marang Yaakov; lan dhèwèké marekake awake tinuju marang awake.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ing wayah sore"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea anak wadoné"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "anak wadoné"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "awake (Lea)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang Yaakov"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "marekake awake tinuju"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "marang awake"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:15.307491922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Padha ngati-ati sasi Abib, lan padha nindakake Pèsakh kanggo Yahweh, Elohimé kowé, awit ing sasi Abib Yahweh, Elohimé kowé, ngetokaké kowé saka Mitsrayim wengi-wengi.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "padha ngati-ati (ajaga)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sasi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "lan padha nindakake"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pèsakh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimé kowé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "ngetokaké kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimé kowé"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mitsrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wengi-wengi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:48.252166935Z",
+  "model": "glm-5.3"
+}

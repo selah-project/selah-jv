@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Ora ana ratu ingkang tinulungan amargi akèhé wadyabala; wong sakti ora bakal kaluwarké amargi agungané kasektèn.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "tinulungan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "amargi akèhé"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wadyabala"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wong sakti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "kaluwarké"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "amargi agungané"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kasektèn"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:39.923682143Z",
+  "model": "glm-5.3"
+}

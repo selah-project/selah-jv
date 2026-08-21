@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Kabeh bumi iku padha ayem, ora nganti sumebar-gulik; wong-wong banjur padha nembang kagembira.",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "ayem"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ora sumebar-gulik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "padha nembang"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kagembira"
+    }
+  ],
+  "timestamp": "2026-08-21T04:48:21.918760533Z",
+  "model": "glm-5.3"
+}

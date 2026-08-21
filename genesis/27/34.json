@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": " Bareng Esav krungu ⟨את⟩ pangucaping ramane, dheweke njerit jeritan gedhe lan pait banget, lan dheweke ngucap marang ramane: Berkahi aku uga, aku iki, rama!",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "bareng krungu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangucaping ramane"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangucap"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ramane"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "lan dheweke njerit"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "jeritan"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "lan pait"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dheweke ngucap"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "marang ramane"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "berkahi aku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku iki"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rama"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:56.171574855Z",
+  "model": "glm-5.3"
+}

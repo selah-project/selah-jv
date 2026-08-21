@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 53,
+  "translation": "Lan bareng metu ing ngarsane kaya thukul enom, kaya oyod saka bumi garing; ora ana rupa kanggo ⟨dheweke⟩ lan ora ana kaluhuran, lan nalika kita ndeleng ⟨dheweke⟩ ora ana tampilan, lan ora ana kang nggayuh ⟨dheweke⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lan bareng metu"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "kaya thukul enom"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "kaya oyod"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "garing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "rupa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "nalika ndeleng dheweke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "tampilan"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "nggayuh dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:45:07.721390980Z",
+  "model": "glm-5.3"
+}

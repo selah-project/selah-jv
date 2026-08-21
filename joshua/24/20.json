@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Menawi sampyan nilaraken ⟨את⟩ Yahweh sarta ngabdi para allahasing wong liya, panjenenganipun badhe wangsul lan nindakaken cilaka dhateng sampyan, sarta numpes ⟨את⟩ sampyan, sasampunipun panjenenganipun nindakaken sae dhateng sampyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "menawi"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "sampyan nilaraken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "sarta ngabdi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "para allahasing"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wong liya"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "badhe wangsul"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "nindakaken cilaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dhateng sampyan"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "sarta numpes"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sampyan",
+      "marks": "sampyan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sasampunipun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ingkang"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "nindakaken sae"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dhateng sampyan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:48:28.520304332Z",
+  "model": "glm-5.3"
+}

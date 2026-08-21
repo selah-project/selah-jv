@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Yahweh, aku tresna marang papan padunungan bèpmu, lan panggonan padalem kemulyanmu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "aku tresna marang"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "papan padunungan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "bèpmu"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "lan panggonan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "padalem"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kemulyanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:35.903960477Z",
+  "model": "glm-5.3"
+}

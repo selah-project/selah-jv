@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan ⟨את⟩ gapura iwak padha yasa para putra Hasenaah; ⟨dhéwé⟩ padha mbalèni, lan ngadegake lawang-lawangé, gemboké, lan palang-palangé.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gapura iwak"
+    },
+    {
+      "surface": "שער",
+      "gloss": "gapura"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "iwak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "padha yasa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨dhéwé⟩"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "padha mbalèni"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "lan ngadegake"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "lawang-lawangé"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "gemboké"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "lan palang-palangé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:10:18.850303531Z",
+  "model": "glm-5.3"
+}

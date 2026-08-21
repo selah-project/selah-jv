@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan sira bakal ngabdi marang ⟨את⟩ Yahweh, Elohimé sira, lan ⟨dhéwé⟩ bakal ngunuwahi ⟨את⟩ rotimu lan ⟨את⟩ banyumu, lan Aku bakal nyingkirake lelara saka ing tengahing atimumu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "lan sira bakal ngabdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimé sira"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "lan bakal ngunuwahi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rotimu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "rotimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "banyumu"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "banyumu"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "lan Aku bakal nyingkirake"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "lelara"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "saka ing tengahing atimumu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:26.106758986Z",
+  "model": "glm-5.3"
+}

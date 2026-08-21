@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "lan Tsiklag, lan Bet-haMarkabot, lan Hatzar-Susah",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "lan Tsiklag"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "haMarkabot"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "lan Hatzar-"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "Susah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:57.618138662Z",
+  "model": "glm-5.3"
+}

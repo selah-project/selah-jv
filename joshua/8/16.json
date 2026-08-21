@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur sakabehing wong kang ana ing kutha padha diséka ngejar dheweke, lan padha ngejar Yehosua, lan padha ditarih adoh saka kutha.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "padha diséka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "ngejar"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "padha ngejar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "padha ditarih adoh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    }
+  ],
+  "timestamp": "2026-08-20T23:43:06.491876725Z",
+  "model": "glm-5.3"
+}

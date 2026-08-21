@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur awake dhewe para-pepara ⟨את⟩ nagara kanggo nglintasi ing kono: Ahab lunga ing dalan siji piyambak, lan Obadhyahu lunga ing dalan siji piyambak.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "Banjur para-pepara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanggo awake dhewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nagara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nagara"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "kanggo nglintasi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "piyambak"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "lan Obadhyahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "piyambak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:10.972791656Z",
+  "model": "glm-5.3"
+}

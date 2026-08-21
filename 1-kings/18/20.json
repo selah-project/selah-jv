@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur Ajab ngirim marang sakabèhé para putrané Yisrael, lan ngumpulaké ⟨את⟩ para nabi ing redi Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "banjur ngirim"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "marang sakabèhé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "lan ngumpulaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para nabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "para nabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "הר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:38.433872143Z",
+  "model": "glm-5.3"
+}

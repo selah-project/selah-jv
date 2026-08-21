@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur katon kali-kali banyu lan kawedhar dhasaring donya, saka paancamé Sampéyan, Yahweh, saka ambuné angin saka irungmu.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "katon"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "kali-kali"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "kawedhar"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "dhasaring"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "donya"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "saka paancamé Sampéyan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "saka ambuné"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "saka irungmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:33.834925053Z",
+  "model": "glm-5.3"
+}

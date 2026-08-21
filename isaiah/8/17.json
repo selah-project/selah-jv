@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan aku nunggu Yahweh, sing ndhelikake rahe saka ⟨umah⟩ Yaakov, lan aku ngarep-arep ing Panjenengane.",
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "lan aku nunggu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "sing ndhelikake"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rahe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka ⟨umah⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "lan aku ngarep-arep"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ing Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:36.046183757Z",
+  "model": "glm-5.3"
+}

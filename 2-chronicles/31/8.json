@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Langkungé Yechizkiyahu lan para pangéran padha teka lan padha ndeleng ⟨את⟩ tumpakan iku, banjur padha memuji ⟨את⟩ Yahweh lan ⟨את⟩ umaté Israél.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "padha teka"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "lan para pangéran"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tumpakan iku"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "tumpakan iku"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "banjur padha memuji\/ndedonga sae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umaté Israél"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umaté"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-21T03:44:29.216448403Z",
+  "model": "glm-5.3"
+}

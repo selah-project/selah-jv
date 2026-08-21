@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur tanggel raja anyar ing Mitsrayim, sing ora kenal ⟨את⟩ Yusuf.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Banjur tanggel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kenal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusuf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:05.906130102Z",
+  "model": "glm-5.3"
+}

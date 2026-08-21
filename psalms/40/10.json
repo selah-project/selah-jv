@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Kawula mwartakake kaluhuran ing pasamuwan agung; lah, lambe kawula ora kawula tinndakake; Yahweh, Paduka pirsa.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "kawula mwartakake"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ing pasamuwan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "agung"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lambe kawula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "kawula tinndakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Paduka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Paduka pirsa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:48:33.790062475Z",
+  "model": "glm-5.3"
+}

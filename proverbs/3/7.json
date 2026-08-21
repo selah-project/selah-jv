@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Aja dadi wong wicara ing paningalira dhewe; wedi marang Yahweh lan ⟨את⟩ sumingkira saka ala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wicara"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ing paningalira dhewe"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi marang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "lan sumingkira"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "saka ala"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:42.884764985Z",
+  "model": "glm-5.3"
+}

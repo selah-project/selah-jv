@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Chanok padha lumaku marang ⟨את⟩ Elohim, lan dhèwèké ora ana maneh, awit Elohim mundut ⟨את⟩ dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "padha lumaku"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ora ana maneh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mundut"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:09.233897368Z",
+  "model": "glm-5.3"
+}

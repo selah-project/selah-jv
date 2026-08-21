@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan kita ngendika marang dheweke: wong jujur ⟨iku⟩ kita, ora dadi mata-mata.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Lan kita ngendika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "wong jujur"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mata-mata"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:03.010310766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Banjur wong akeh kasebar ana ing saindhenging bumi Mitsrayim, kanggo nglumpukake damen garing minangka gantine jerami.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "banjur kasebar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saindhenging"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "kanggo nglumpukake"
+    },
+    {
+      "surface": "קש",
+      "gloss": "damen garing"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "minangka gantine jerami"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:16.317971512Z",
+  "model": "glm-5.3"
+}

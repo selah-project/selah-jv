@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Ing wektu iku abdi-abdine Nevukhadnetsar raja Babel munggah ngrambah Yerushalayim, lan kutha iku kalebon pangubengan.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "munggah nrambah"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdi-abdine"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "lan kalebon"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha iku"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "pangubengan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:26.111198440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dheweke miling marang bumi — lah, kasusahan lan pepeteng, pepeteng sangsara, lan pepeteng peteng sing ngusir.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "miling"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "lan pepeteng"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "pepeteng"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "sangsara"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "lan pepeteng peteng"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "sing ngusir"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:06.109012675Z",
+  "model": "glm-5.3"
+}

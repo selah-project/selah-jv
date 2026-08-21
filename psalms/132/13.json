@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Sebab Yahweh wus milih Tzion, karep dadi panggonan dununge ⟨dhewe⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wus milih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "karep"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "dadi panggonan dununge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨dhewe⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:24.303361765Z",
+  "model": "glm-5.3"
+}

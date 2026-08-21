@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Anakku, aja mlaku ana ing dalan karo ⟨את⟩ wong-wong mau; singkirken sikilmu saka dalan-dalané wong-wong mau",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mlaku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ana ing dalan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ karo wong-wong mau"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "singkirken"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "sikilmu"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "saka dalan-dalané wong-wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:04.875560214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Njero guwa garbane dheweke ngrangkul ⟨את⟩ sampar kakange, lan ing Wasukané dheweke adu kaku ⟨⟨marang⟩⟩ ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "njero guwa garbane"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ngrangkul sampar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sampar kakange"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kakange"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "lan ing Wasukané"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "adu kaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:06.547759925Z",
+  "model": "glm-5.3"
+}

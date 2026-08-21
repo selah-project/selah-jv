@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Banjur mata para wuta bakal dibukak, lan kuping para tuli bakal dilungi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "bakal dibukak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "para wuta"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "lan kuping"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "para tuli"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "bakal dilungi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:44.314596708Z",
+  "model": "glm-5.3"
+}

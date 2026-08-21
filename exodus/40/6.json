@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan kowe ndadekake ⟨את⟩ mesbesen kurban bakar ing ngarepe lawang pasanggrahan, Khemah Paparengan.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "lan kowe ndadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesbesen kurban bakar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesbesen"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "pasanggrahan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Khemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Paparengan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:59.049763874Z",
+  "model": "glm-5.3"
+}

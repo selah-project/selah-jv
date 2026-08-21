@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Padha ngluwengi, hei gunung-gunung, ⟨את⟩ pasulayan Yahweh, lan sang endhas tetep, dhasar-dhasar bumi; awit pasulayan duweke Yahweh karo umate, lan karo Israel ⟨bakal⟩ diadili.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Padha ngluwengi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hei gunung-gunung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasulayan"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pasulayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "lan sang endhas tetep"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "dhasar-dhasar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pasulayan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "duweke Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "umate"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "lan karo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "diadili"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:23.873863230Z",
+  "model": "glm-5.3"
+}

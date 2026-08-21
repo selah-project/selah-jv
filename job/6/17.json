@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 6:17",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Nalika dadi angat, ilang ⟨ing⟩ ilange; nalika dadi panas, padha sirep saka panggonane.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "יזרבו",
+      "gloss": "dadi angat"
+    },
+    {
+      "surface": "נצמתו",
+      "gloss": "ilang ⟨ing⟩ ilange"
+    },
+    {
+      "surface": "בחמו",
+      "gloss": "nalika dadi panas"
+    },
+    {
+      "surface": "נדעכו",
+      "gloss": "padha sirep"
+    },
+    {
+      "surface": "ממקומם",
+      "gloss": "saka panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:44.950106095Z",
+  "model": "glm-5.3"
+}

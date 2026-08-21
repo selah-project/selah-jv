@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "⟨את⟩ manuk kos, lan ⟨את⟩ manuk yansuf, lan manuk tinshemet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manuk kos"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "manuk kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manuk yansuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "manuk yansuf"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "manuk tinshemet"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:59.191422946Z",
+  "model": "glm-5.3"
+}

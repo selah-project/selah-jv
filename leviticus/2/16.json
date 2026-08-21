@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan imam bakal ngobong ⟨את⟩ pérangan pangéling-éling saka winihé lan saka lengané, bebarengan karo sakabehing dupané — bebana geni marang Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "lan ngobong nganggo dupa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pérangan pangéling-éling"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "pérangan pangéling-élingé"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "saka winihé"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "lan saka lengané"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "dupané"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bebana geni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:17.059079070Z",
+  "model": "glm-5.3"
+}

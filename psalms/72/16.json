@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 72,
+  "translation": "Bakal ana kamakmuran pari ing bumi, ing pucuk gunung-gunung bakal gumetar kaya Libanon wohé, lan bakal padha ngembang saka kutha kaya suket bumi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "kamakmuran panen"
+    },
+    {
+      "surface": "בר",
+      "gloss": "pari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ing pucuk"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "gumetar"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "kaya Libanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "wohé"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "lan padha ngembang"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "saka kutha"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "kaya suket"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:32.767139646Z",
+  "model": "glm-5.3"
+}

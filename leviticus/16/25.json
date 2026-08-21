@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan ⟨את⟩ lemaké kurban dosa iku ditata dadi dupa ing atasé ingguhan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lemaké"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lemaké"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa iku"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "ditata dadi dupa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ing atasé ingguhan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:50.411650220Z",
+  "model": "glm-5.3"
+}

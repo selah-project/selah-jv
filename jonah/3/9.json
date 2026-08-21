@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sapa sing pirsa? Mbok-menawa Allah bakal bali lan nyesel, lan bakal sumedot saka panasing murkane, supaya aku ora tinumpas.\"",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "pirsa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bakal bali"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "lan nyesel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Allah"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "lan bakal sumedot"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "saka panas"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "murkane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "tinumpas"
+    }
+  ],
+  "timestamp": "2026-08-21T01:30:50.067638850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Lan dheweke nganggo getunan kaya sandhangan, lan iku teka kaya banyu ing jeroning awake, lan kaya lenga ing balung-balunge.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "lan nganggo"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "getunan"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "kaya sandhangan"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "lan teka"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "kaya banyu"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ing jeroning awake"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "lan kaya lenga"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "ing balung-balunge"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:02.497237998Z",
+  "model": "glm-5.3"
+}

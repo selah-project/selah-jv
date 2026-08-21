@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur Eliyahu mangkat supaya bisa ndelengake awake marang Ahab; lan kelaparan iku abot banget ing Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Banjur mangkat"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "supaya bisa ndelengake awake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "lan kelaparan iku"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "abot banget"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ing Shomron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:00.455348552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Shelomoh ngandharaké ⟨את⟩ kabeh pitakon⟨e⟩; ora ana babagan sing kasamaran saka sang raja sing ora ⟨iya⟩ andharaké kanggo ⟨iya⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Lan ngandharaké"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kanggo ⟨iya⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh pitakon(e)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "pitakon⟨e⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "babagan"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "sing kasamaran"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "andharaké"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kanggo ⟨iya⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T00:17:38.056901073Z",
+  "model": "glm-5.3"
+}

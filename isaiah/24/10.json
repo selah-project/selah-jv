@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Rusak kutha ⟨sing⟩ kosong; saben omah katutup saka mlebu.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "rusak"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kosong"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "katutup"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "saka mlebu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:09.922731333Z",
+  "model": "glm-5.3"
+}

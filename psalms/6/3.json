@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Muwila aku, Yahweh, awit aku karasa lerah ranjang; tambana aku, Yahweh, awit balung-balungaku kagèt banget.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "muwila aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "aku karasa lerah ranjang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "tambana aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "kagèt banget"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "balung-balungaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:09.538651651Z",
+  "model": "glm-5.3"
+}

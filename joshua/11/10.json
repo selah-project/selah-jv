@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Ing wektu iku Yehosua bali, banjur ngrebut ⟨את⟩ Hatsor lan ⟨את⟩ ratune ditampar nganggo pedhang; awit Hatsor ing jaman biyèn iku minangka sirahé ⟨the⟩ kabeh karaton-karaton iki.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wektu"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "banjur ngrebut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "ratune"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ratune"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ditampar"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nganggo pedhang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ing jaman biyèn"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "karaton-karaton"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:32.155763020Z",
+  "model": "glm-5.3"
+}

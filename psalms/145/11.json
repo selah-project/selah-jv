@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 145,
+  "translation": "Kamulyané karaton-Mu bakal ⟨kandhakaké⟩, lan kakuwatèn-Mu ⟨diomongaké⟩.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyané"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "karaton-Mu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "⟨kandhakaké⟩"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "lan kakuwatèn-Mu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "⟨diomongaké⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:33.304401595Z",
+  "model": "glm-5.3"
+}

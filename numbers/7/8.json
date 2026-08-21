@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan ⟨את⟩ papat gerobak sisa lan ⟨את⟩ wolung sapi diparingake marang anak-anaké Merari, miturut pangabdiné, ing sangisore tangan Itamar putrané Aharon sang imam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Lan ⟨את⟩",
+      "marks": "papat gerobak"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "papat"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "gerobak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wolung sapi"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "wolung"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "diparingake"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang anak-anaké"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "كפי",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "pangabdiné"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ing sangisore tangan"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    }
+  ],
+  "timestamp": "2026-08-20T23:19:48.268536046Z",
+  "model": "glm-5.3"
+}

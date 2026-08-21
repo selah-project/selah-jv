@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 113,
+  "translation": "Sang ngunggahake saka lebu wong miskin, saka papan sampah Sang nunggalake si papa.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "Sang ngunggahake"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "saka lebu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wong miskin"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "saka papan sampah"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "Sang nunggalake"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "si papa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:29.807628594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 138,
+  "translation": "Lan ⟨mereka⟩ nyanyi ing dalan-dalaning Yahweh, amarga agung kamulyaning Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "lan padha nyanyi"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ing dalan-dalaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyaning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:37.082000768Z",
+  "model": "glm-5.3"
+}

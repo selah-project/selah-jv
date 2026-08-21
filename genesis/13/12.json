@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Avram manggon ing bumi Kenaan, lan Lot manggon ing kutha-kuthané sadhedhahan, lan masang kemah nganti tekan Sedom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "lan Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "ing kutha-kutha"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "sadhedhahan"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "lan masang kemah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:59.360892182Z",
+  "model": "glm-5.3"
+}

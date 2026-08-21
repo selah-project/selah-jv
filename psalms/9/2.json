@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Aku nyembah Yahweh sakabehing atiku; aku caritakake ⟨את⟩ kabeh kagumunanmu.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Aku nyembah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "aku caritakake"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "kagumunanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:00.266356657Z",
+  "model": "glm-5.3"
+}

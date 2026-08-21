@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kabeh iku putrane Dawid, saliyané putra-putra selir, lan Tamar dulure.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "saliyané"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "selir"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "lan Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "dulure"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:07.387769317Z",
+  "model": "glm-5.3"
+}

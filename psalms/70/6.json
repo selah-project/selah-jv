@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 70,
+  "translation": "Dene aku iki mlarat lan kalantar, Elohim, enggal-enggala mranti marang aku; biyungku lan panglipuringku iku Kowé, Yahweh, aja nganti telat.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dene aku iki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mlarat"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "lan kalantar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "enggal-enggala mranti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "biyungku"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "lan panglipuringku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "nganti telat"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:21.986738250Z",
+  "model": "glm-5.3"
+}

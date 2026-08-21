@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 140,
+  "translation": "Dicahe ing unggun urip tumiba ing sadhuwure dheweke; dhingklukake ing geni, ing jurang-jurang jero, supaya ora bisa ngadeg maneh.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "dicahe tumiba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ing sadhuwure dheweke"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "unggun urip"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ing geni"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "dhingklukake dheweke"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "ing jurang-jurang jero"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora bisa"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ngadeg maneh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:41.021634351Z",
+  "model": "glm-5.3"
+}

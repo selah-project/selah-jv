@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan banjur padha ngirim ⟨את⟩ peti Allah marang Ekron. Kadadéyan, nalika peti Allah tekan ing Ekron, wong-wong Ekron padha njerit, ucapané: Dhéwéké ngubungaké marang aku ⟨את⟩ petine Allahé Israél, arep matèni aku lan ⟨את⟩ umatku.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ngirim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petine Allah"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Allah"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéyan"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "nalika tekan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Allah"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "njerit"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "wong-wong Ekron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ucapané"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "ngubungaké"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petine Allahé Israél"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Allahé"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "arep matèni aku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umatku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:46.970697279Z",
+  "model": "glm-5.3"
+}

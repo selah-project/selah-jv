@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "kanggo nglilakake karaton saka omahe Sha-ul, lan ngadegake ⟨את⟩ dhampar Dawid ing sangisore Yisrael lan ing sangisore Yehudah, wiwit saka Dan tumeka Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "kanggo nglilakake"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "karaton"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omah"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "lan kanggo ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhampar"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "dhampar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing sangisore"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "wiwit saka Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tumeka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:04.257880997Z",
+  "model": "glm-5.3"
+}

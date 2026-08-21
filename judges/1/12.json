@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan Kalep ngandika: Sing nglumprukake ⟨את⟩ Kiryat-Séfer sarta nguwasani, marang wong iku dakparingi ⟨את⟩ Akhsa, putriku, dadi garwane.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalep"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "nglumprukake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Séfer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "sarta nguwasani"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dakparingi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang wong iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "putriku"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi garwane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:35.284202797Z",
+  "model": "glm-5.3"
+}

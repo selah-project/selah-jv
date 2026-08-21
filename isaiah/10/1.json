@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Aduh marang para kang ngetokake ukum-ukum panguapusi, lan para juru-tulis kang nulis kasusahan!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Aduh"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "para kang ngetokake ukum-ukum"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "ukum-ukum"
+    },
+    {
+      "surface": "און",
+      "gloss": "panguapusi"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "lan para juru-tulis"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kasusahan"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "kang nulis"
+    }
+  ],
+  "timestamp": "2026-08-21T04:08:03.304413019Z",
+  "model": "glm-5.3"
+}

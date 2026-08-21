@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Aku uga wis krungu ⟨את⟩ serak-sereké putra-putrané Yisrael, sing dadipe wong Mitzrayim ngati-ati, sarta Aku éling marang prajanjian-Ku.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "wis krungu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "serak-sereké"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "serak-serek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putrané"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "ngati-ati"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "sarta Aku éling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjian-Ku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:22.027641449Z",
+  "model": "glm-5.3"
+}

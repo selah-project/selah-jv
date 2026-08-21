@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan kowe nglentog swarane Yahweh, Elohim-mu, sarta nindakake ⟨את⟩ parentahe lan ⟨את⟩ katentremane, sing dak prentahake marang kowe ing dinane iki.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "lan kowe nglentog"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "sarta nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentahe"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "parentahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ugi",
+      "marks": "katentremane"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "katentremane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "daku"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "prentahake marang kowe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ing dinane iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:46.951735006Z",
+  "model": "glm-5.3"
+}

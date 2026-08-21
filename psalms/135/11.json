@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Yaiku Sihon ratune wong Amori, lan Og ratune ing Basyan, sarta kabeh karaton-karaton Kenaan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "yaiku Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratune"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wong Amori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "lan Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratune"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ing Basyan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "sarta kabeh"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "karaton-karaton"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:04.449438757Z",
+  "model": "glm-5.3"
+}

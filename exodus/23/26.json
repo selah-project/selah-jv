@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Ora bakal ana sing nggugarna utawa mandhul ing negaramu; ⟨את⟩ cacahing dinadhinmu bakal Kaulengkapi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "sing nggugarna"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "utawa mandhul"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ing negaramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cacahing dinadhinmu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "cacahing"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dinadhinmu"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "bakal Kaulengkapi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:26.107085952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 106,
+  "translation": "Dheweke uga marengake piyambake ing banyu Meribah, nganti ala marang Moshe amarga saka awake dhewe.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "dheweke marengake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מי",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meribah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "nganti ala"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "marang Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "amarga saka awake dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:48.484058580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "lan kanggo sakbijimu lan kanggo sato wedhining sing ana ing buminé — kabèh asilé bakal dadi panganan.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "lan kanggo sakbijimu"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "lan kanggo satoné"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ana ing buminé"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "asilé"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "panganan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:16:53.893443856Z",
+  "model": "glm-5.3"
+}

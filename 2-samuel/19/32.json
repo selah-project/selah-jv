@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan Barzilay wong Gilad mudhun saka Rogelim, lan ngeterake ⟨את⟩ raja ngambah Yarden, kanggo ngaterake ⟨את⟩ bareng ngambah Yarden.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "lan Barzilay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wong Gilad"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "mudhun"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "saka Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "lan ngeterake ngambah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "kanggo ngaterake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bareng ngambah Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "bareng Yarden"
+    }
+  ],
+  "timestamp": "2026-08-21T00:11:24.139593212Z",
+  "model": "glm-5.3"
+}

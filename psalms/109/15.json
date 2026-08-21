@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Mungi tansah ana ing ngarsane Yahweh, supaya panjenengane ngestokake pangeling-elinge saka bumi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mugi dadi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "supaya ngestokake"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "pangeling-elinge"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:00.338616600Z",
+  "model": "glm-5.3"
+}

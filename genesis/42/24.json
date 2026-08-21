@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan dheweke mlumpat saka ing sangarepe, sarta nangis; banjur bali marang dheweke, lan ngendika marang dheweke, lan njupuk saka ⟨את⟩ ing antarane ⟨את⟩ Shimyon, lan nènggèrake dheweke ing sangisore paningale.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "lan mlumpat"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "saka ing sangarepe"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "sarta nangis"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "banjur bali"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "lan njupuk"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "saka ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimyon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimyon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "lan nènggèrake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ing sangisore paningale"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:22.661759518Z",
+  "model": "glm-5.3"
+}

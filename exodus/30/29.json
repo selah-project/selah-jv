@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan sira ngukuhaké ⟨את⟩ padha, lan padha bakal ⟨are⟩ suci ing sangadeging suci; sabenduringing sing nyenggol padha bakal suci.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "lan sira ngukuhaké"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "padha (piranti-piranti pasamuan)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "lan padha bakal"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "suci-suciné (paling suci)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sabenduringing"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sing nyenggol"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing padha"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "bakal suci"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:30.246566549Z",
+  "model": "glm-5.3"
+}

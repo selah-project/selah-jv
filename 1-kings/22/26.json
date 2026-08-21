@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan ratuning Yisrael ngandika: Cekela ⟨את⟩ Mikayah, lan balekna dheweke marang Amon, pangéranning kutha, lan marang Yoas, putraning ratu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "cekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikayah"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayah"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "lan balekna dheweke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangéran"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:05:47.841778410Z",
+  "model": "glm-5.3"
+}

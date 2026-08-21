@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Lan panjenengane matur marang aku: Abdhiningsun kowe, Yisrael, sing ing kowula Ingsun badhe megah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan panjenengane matur"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Abdhiningsun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing kowula"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "Ingsun badhe megah"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:29.327764954Z",
+  "model": "glm-5.3"
+}

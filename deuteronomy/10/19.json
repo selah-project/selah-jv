@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan kowe kudu tresna marang ⟨את⟩ wong lanjo mau, awit kowe pancen dadi wong lanjo ing nagara Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "Lan kowe kudu tresna marang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong lanjo mau"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wong lanjo mau"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "wong lanjo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kowe pancen dadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing nagara"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:32:52.338069405Z",
+  "model": "glm-5.3"
+}

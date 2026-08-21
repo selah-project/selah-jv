@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 1:15",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Maneh Aku nggetokake marang sira, sing manggon ing Maresha, sing bakal nduweni ⟨sira⟩; nganti Adulam bakal teka kamulyane Israel.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "היורש",
+      "gloss": "sing nduweni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Aku nggetokake"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "sing manggon"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ing Maresha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kamulyane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-21T04:16:10.933031086Z",
+  "model": "glm-5.3"
+}

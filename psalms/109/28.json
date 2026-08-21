@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Bya padha ngecuti, nanging kowé ngedoakna; lunga padha ngadeg, lunga padha isin, lan abdimu bungah.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "bya padha ngecuti"
+    },
+    {
+      "surface": "המה",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "nanging kowé"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ngedoakna"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "lunga padha ngadeg"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "lunga padha isin"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "lan abdimu"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bungah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:43.107396603Z",
+  "model": "glm-5.3"
+}

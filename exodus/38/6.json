@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "Lan digawé ⟨את⟩ galah-galah saka kayu wit akasia, banjur dilapisi ⟨את⟩ wujude nganggo tembaga",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan digawé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "galah-galah"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "galah-galah"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu saka"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wit akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "banjur dilapisi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dilapisi tembaga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nganggo tembaga"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:38.146565922Z",
+  "model": "glm-5.3"
+}

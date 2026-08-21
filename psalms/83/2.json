@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Elohim, aja kadya sepi ing panjenenganmu, aja meneng, lan aja kendho, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "דמi",
+      "gloss": "kadya sepi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ing panjenenganmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "meneng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "kendho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:15.146991879Z",
+  "model": "glm-5.3"
+}

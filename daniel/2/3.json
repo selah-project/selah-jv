@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur sang nata ngandika marang dheweke: Impèn pa'impèn aku ngimpi, lan rohku kagugah arep ngerti ⟨את⟩ impèn iku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "banjur ngandika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "impèn"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ngimpi aku"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "lan kagugah"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rohku"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "arep ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impèn iku"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "impèn iku"
+    }
+  ],
+  "timestamp": "2026-08-21T04:23:29.342326209Z",
+  "model": "glm-5.3"
+}

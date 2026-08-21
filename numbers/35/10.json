@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Medit marang para putra Israil, lan muja marang wong-wonge: Bareng sira padha ngliwati ⟨את⟩ Yarden menyang nagara Kanaan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Medit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "lan muja"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang wong-wonge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Bareng"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sira padha"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ngliwati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menyang nagara"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:35.579164004Z",
+  "model": "glm-5.3"
+}

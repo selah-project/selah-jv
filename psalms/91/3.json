@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Awit ⟨dhèwèké⟩ bakal ngluwari kowé saka jerat pamburu, saka pageblug ngremehake",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dhèwèké⟩"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "bakal ngluwari kowé"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "saka jerat"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "pamburu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "saka pageblug"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ngremehake"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:14.246451017Z",
+  "model": "glm-5.3"
+}

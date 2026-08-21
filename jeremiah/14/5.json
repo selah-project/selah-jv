@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Sebab uga rusa wadon ⟨ing⟩ sawah nglairake lan nglirwakake ⟨anakne⟩, awit ora ana suket.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "rusa wadon"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing sawah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "lan nglirwakake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "suket"
+    }
+  ],
+  "timestamp": "2026-08-21T04:10:38.177632015Z",
+  "model": "glm-5.3"
+}

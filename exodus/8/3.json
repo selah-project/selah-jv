@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan para panyirep-ngelmu padha nindakake mangkono klawu-latihane, lan padha nguktekake ⟨את⟩ kodhok-kodhok ing tanah Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lan padha nindakake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "para panyirep-ngelmu"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "klawu-latihane"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "lan padha nguktekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kodhok-kodhok"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kodhok-kodhok"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:41.857425655Z",
+  "model": "glm-5.3"
+}

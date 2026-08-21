@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Apa tansah sedina wong sing ndadak iku ndadak, kanggo nandur? Apa mbukak lan ngleremi lemahé?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "apa tansah"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sedina"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ndadak"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "sing ndadak"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "kanggo nandur"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "mbukak"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "lan ngleremi"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "lemahé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:37.982012564Z",
+  "model": "glm-5.3"
+}

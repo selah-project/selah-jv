@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Kabèh ⟨את⟩ kula sampun tindak ing dintenipun hébel kula: wonten tiang tumindak leres tinas ing kaleresanipun, lan wonten tiang ala umur panjang ing kaalènènipun.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabèh"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kula sampun tindak"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ing dintenipun"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hébel kula"
+    },
+    {
+      "surface": "יש",
+      "gloss": "wonten"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tiang tumindak leres"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "tinas"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "ing kaleresanipun"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "lan wonten"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tiang ala"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "umur panjang"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "ing kaalènènipun"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:40.785185268Z",
+  "model": "glm-5.3"
+}

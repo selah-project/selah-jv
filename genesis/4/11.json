@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Dhemenika sakaiki sira kena bendu, tibalen saka siti kang wus ambuka cangkeme kanggo nampani ⟨את⟩ getih-getihe sedulurmu saka tanganmu.\"",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "dhemenika\/sakaiki"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "kena bendu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "siti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "wus ambuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cangkeme"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "kanggo nampani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "getih-getihe sedulurmu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "getih-getih"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sedulurmu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "saka tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:45.555321911Z",
+  "model": "glm-5.3"
+}

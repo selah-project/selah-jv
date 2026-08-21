@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "⟨את⟩ méja, ⟨את⟩ saindhenging pirantiné, lan ⟨את⟩ rotining sang rai.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "meja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saindhenging pirantine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pirantine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "roting sang rai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ning sang rai"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:47.951565620Z",
+  "model": "glm-5.3"
+}

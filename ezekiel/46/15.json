@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Lan padha nggawé ⟨את⟩ désa lan ⟨את⟩ sesajèn engga lan ⟨את⟩ lenga iku ésuk-ésuk, minangka oloran sing langgeng.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Lan padha nggawé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "désa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "désa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sesajèn engga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sesajèn engga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "lenga"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ésuk"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "oloran"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sing langgeng"
+    }
+  ],
+  "timestamp": "2026-08-21T01:23:06.204389823Z",
+  "model": "glm-5.3"
+}

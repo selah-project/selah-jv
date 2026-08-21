@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Lamun kowe ora ngutus ⟨את⟩-kowe-lan-dudu, kita ora bakal tindhak mudhun, awit wong mau ngandika marang kita: Kowe ora bakal ndeleng praupanku, kajaba sedulurmu ⟨את⟩ karo kowe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ora"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "tindhak mudhun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong mau"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "bakal ndeleng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "praupanku"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kajaba"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sedulurmu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ karo kowe",
+      "marks": "kowe (preposisi 'karo', dudu penanda objek)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:12.933917959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Padha ngrungokake ⟨את⟩ tembung-tembunging prajanjian iki, lan padha katutokake marang wong-wonge Yehudha lan marang padununge Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembung-tembunging prajanjian iki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembunging"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "lan padha katutokake"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "padununge"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:52:27.692413342Z",
+  "model": "glm-5.3"
+}

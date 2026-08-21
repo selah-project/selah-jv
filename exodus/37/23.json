@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan digawé ⟨את⟩ pelatune pitu iku, lan sepit-sepite, lan wadah arene, emas murni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan digawé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelatune pitu iku"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "pelatune"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "lan sepit-sepite"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "lan wadah arene"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:42.518397694Z",
+  "model": "glm-5.3"
+}

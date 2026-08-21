@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Iki wanci-wanci pasamuan kanggo Yahweh, pasamuwan-pasamuwan suci, sing kowé bakal ngundhang ⟨את⟩ ing wayahe dhéwé-dhéwé.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "wanci-wanci pasamuan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "pasamuwan-pasamuwan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "kowé ngundhang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wanci-wanci pasamuan (sing mau)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "ing wayahe dhéwé-dhéwé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:56.402668203Z",
+  "model": "glm-5.3"
+}

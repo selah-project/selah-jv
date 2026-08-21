@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Pidhana mungsuh-mungsuhe, awit padha akeh, lan gething kang prakosa padha gething marang aku.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "pidhana"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mungsuh-mungsuhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "padha akeh"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "gething"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kang prakosa"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "padha gething marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:10.870130209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Dadikake pasugatanane dadi jerat ing ngarepe dhewe, lan marang wong-wong sing tentrem dadi pancing.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "dadikake"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "pasugatanane"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ing ngarepe dhewe"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "dadi jerat"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "lan marang wong-wong sing tentrem"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "dadi pancing"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:22.393220172Z",
+  "model": "glm-5.3"
+}

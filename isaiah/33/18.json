@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Atimu bakal nggunemake wedi: ing endi panulisé? ing endi panimbangé? ing endi panuli ⟨את⟩ menara-menara iku?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "Atimu"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "bakal nggunemake"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ing endi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "panulis"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ing endi"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "panimbang"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ing endi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "panuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menara-menara"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "menara-menara iku"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:16.549151372Z",
+  "model": "glm-5.3"
+}

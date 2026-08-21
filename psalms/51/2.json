@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Nalikané Natan sang nabi teka marang dhèwèké, sawisé dhèwèké teka marang Bat-Syeba.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "nalikané teka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "sang nabi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:45.224258939Z",
+  "model": "glm-5.3"
+}

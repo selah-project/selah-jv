@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan Yonah ndedonga marang Yahweh, Elohimé, saka ing jero weteng ⟨the⟩ iwak.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "lan ndedonga"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "saka ing jero weteng"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "iwak kasebut"
+    }
+  ],
+  "timestamp": "2026-08-21T01:31:14.272991034Z",
+  "model": "glm-5.3"
+}

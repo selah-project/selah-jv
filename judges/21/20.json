@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan padha maréntahaké ⟨את⟩ anak-anaké Binjamin, ngendika: Padha mangkat, lan padha nglerem njaga ing kebun anggur.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "lan padha maréntahaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaké Binjamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "padha mangkat"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "lan padha nglerem njaga"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "ing kebun anggur"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:38.965610146Z",
+  "model": "glm-5.3"
+}

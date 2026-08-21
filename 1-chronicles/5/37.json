@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Azaryah nitahake ⟨את⟩ Amaryah, lan Amaryah nitahake ⟨את⟩ Akitub;",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaryah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaryah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "lan Amaryah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitub"
+    }
+  ],
+  "timestamp": "2026-08-21T03:17:39.987307147Z",
+  "model": "glm-5.3"
+}

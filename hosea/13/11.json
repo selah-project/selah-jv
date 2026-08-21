@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Aku maringi kowé ratu ing sajroning nesu-Ku, lan Aku njupuk maneh ing sajroning murka-Ku.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Aku-maringi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ing-nesu-Ku"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "lan-Aku-njukuk"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "ing-murka-Ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:24.628853916Z",
+  "model": "glm-5.3"
+}

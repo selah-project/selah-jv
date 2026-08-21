@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Aharon sowan menyang pedhusaran, lan nyembelih ⟨את⟩ pedhete sesambi dosa, sing kanggo awake dhewe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "lan sowan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "pedhusaran"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "lan nyembelih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedhete sesambi dosa"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "pedhet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sesambi dosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo awake dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:26.792510709Z",
+  "model": "glm-5.3"
+}

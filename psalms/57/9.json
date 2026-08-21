@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Wiyara, kamulyaningsun, wiyara; ⟨the⟩ nevel lan kinor; dak-wiyarake ⟨the⟩ fajar.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "wiyara"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyaningsun"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "wiyara"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "⟨the⟩ nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "lan kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "dak-wiyarake"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "⟨the⟩ fajar"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:07.434557073Z",
+  "model": "glm-5.3"
+}

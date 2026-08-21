@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan yen telu iki ora ditindakake marang dheweke, banjur metu dheweke tanpa bayaran, ora ana dhuwite.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ditindakake"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "banjur metu dheweke"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tanpa bayaran"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "dhuwite"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:30.990308980Z",
+  "model": "glm-5.3"
+}

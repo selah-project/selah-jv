@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan Yahweh dadi ⟨are⟩ karo ⟨את⟩ Yosef, lan ngunjukake kasih setya marang dheweke, lan maringi kabeneran ing paningalé pangérumah pakunjaran.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "lan ngunjukake"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasih setya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan maringi"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "kabeneran"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalé"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangéru"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umah"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "pakunjaran"
+    }
+  ],
+  "timestamp": "2026-08-20T22:51:08.041460322Z",
+  "model": "glm-5.3"
+}

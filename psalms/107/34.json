@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Bumi kang ngasilake woh dadi tlatah uyah, amarga kejahating para panggone ing kono.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "kang ngasilake woh"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "dadi tlatah uyah"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "amarga kejahating"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "para panggone"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:04.066971615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur Saul ngundhang ⟨את⟩ sakabehing wong kasebut kanggo perang, supaya mudhun menyang Keila, ngepung Dawid lan wong-wonge.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "banjur ngundhang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing wong kasebut"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kasebut"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "kanggo perang"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "supaya mudhun"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "menyang Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ngepung"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "wong-wonge"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:26.257652148Z",
+  "model": "glm-5.3"
+}

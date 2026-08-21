@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Lan padha ngendika marang bendara: Bujang iku ora bisa ninggalake ⟨את⟩ bapakné; nanging yén ninggalake ⟨את⟩ bapakné, bapakné bakal mati.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "lan padha ngendika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bujang iku"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakné"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "nanging yén ninggalake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapakné"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakné"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "bakal mati"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:39.154107999Z",
+  "model": "glm-5.3"
+}

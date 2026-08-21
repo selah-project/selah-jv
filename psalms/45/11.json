@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Sirepa, O putri, lan pirsani, lan jongkeling kupingira; lan lalèkna wongira lan omahé ramamu.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "sirepa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "O putri"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "lan pirsani"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "lan jongkeling"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kupingira"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "lan lalèkna"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wongira"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "lan omahé"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ramamu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:49.678349642Z",
+  "model": "glm-5.3"
+}

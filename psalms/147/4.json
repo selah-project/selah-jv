@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 147,
+  "translation": "Ngetang cacahe lintang-lintang, marang kabeh dijenengi jenenge.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "ngetang"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "cacahe"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "lintang-lintang"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "dijenengi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:55.703696964Z",
+  "model": "glm-5.3"
+}

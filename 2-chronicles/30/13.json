@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan padha kumpul ing Yerushalayim wong akeh, kanggo nindakake ⟨את⟩ riyaya roti tanpa ragi ing sasi kapindho — jamaah akeh banget.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "padha kumpul"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kanggo nindakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riyaya roti tanpa ragi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "riyaya"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kapindho"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamaah"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "akeh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T03:45:07.669363710Z",
+  "model": "glm-5.3"
+}

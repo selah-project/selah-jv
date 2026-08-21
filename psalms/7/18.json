@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aku memuji Yahweh jalaran kadhat kabanarané, lan aku anggendhing asma Yahweh Kang Mahalinggih.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "aku memuji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "jalaran kadhat kabanarané"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "lan aku anggendhing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Kang Mahalinggih"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:31.268948228Z",
+  "model": "glm-5.3"
+}

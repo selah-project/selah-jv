@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Putraku, menawa wong dosa nggodha sira, aja kersa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "putraku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "nggodha"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "wong-dosa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kersa"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:43.569507414Z",
+  "model": "glm-5.3"
+}

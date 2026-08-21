@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 138,
+  "translation": "Yahweh bakal ngrampungake tumrap aku; Yahweh, kasetyanmu langgeng salawase; pakaryaning tanḍaṅmu aha kongkon tlorai!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "bakal ngrampungake"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "tumrap aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasetyanmu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "langgeng salawase"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "pakaryaning"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tanḍaṅmu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aha kongkon"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "tlorai"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:37.082632273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Meduwa saka ing kapal, kowé lan garwané, lan anak-anakmu lan bojone anak-anakmu ⟨את⟩ kowé.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Meduwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ing kapal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "lan garwané"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "lan anak-anakmu"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "lan bojone"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "anak-anakmu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kowé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:54.678079241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Ratu iku mangsuli lan ngandika: Wènèhna marang wong iku ⟨את⟩ bayi sing urip, aja matèni ⟨dia⟩ — dhéwéké ⟩ibu⟨né.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mangsuli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu iku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "wènèhna"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang wong iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayi sing urip"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "bayi iku"
+    },
+    {
+      "surface": "החי",
+      "gloss": "sing urip"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "lan matèni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "matèni ⟨dia⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dhéwéké"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibuné"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:14.056522922Z",
+  "model": "glm-5.3"
+}

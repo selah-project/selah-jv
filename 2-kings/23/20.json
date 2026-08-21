@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan ngorbanake ⟨את⟩ sedaya imaming papan dhuwur sing ana ing kono, ing inggilising mesbesi-mesbesi, lan ngobong ⟨את⟩ balunge manungsa ing dhuwure; banjur wangsul menyang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ngorbanake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedaya imaming papan dhuwur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "imaming"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "papan dhuwur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ana ing kono"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing inggilising"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mesbesi-mesbesi"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ngobong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balunge manungsa"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "balunge"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wangsul"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "menyang Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:12.685177611Z",
+  "model": "glm-5.3"
+}

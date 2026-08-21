@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan imam nggatekake ⟨את⟩ panggone — apa apik apa ala — miturut panjenengan nggatekake, ee imam, mangkono bakal dadi.",
+  "tokens": [
+    {
+      "surface": "ו העריך",
+      "gloss": "lan nggatekake regane"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kewan kasebut"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ing antarane apa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "apik"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan apa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "miturut panjenengan nggatekake regane"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakal dadi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:16.375942653Z",
+  "model": "glm-5.3"
+}

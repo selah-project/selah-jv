@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 5:13",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Dheweke ngandharake bab wit-witan, saka ⟨the⟩ ares sing ana ing Levanon nganti ⟨the⟩ ezob sing thukul ing tembok; lan dheweke ngandharake bab kewan sapi, lan bab manuk, lan bab kewan nglusus, lan bab iwak.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandharake"
+    },
+    {
+      "surface": "על",
+      "gloss": "bab"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "wit-witan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "ares"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "ana ing Levanon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "האזוב",
+      "gloss": "ezob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "thukul"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ing tembok"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ngandharake"
+    },
+    {
+      "surface": "על",
+      "gloss": "bab"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "kewan sapi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan bab"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan bab"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "kewan nglusus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan bab"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "iwak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:04.775012002Z",
+  "model": "glm-5.3"
+}

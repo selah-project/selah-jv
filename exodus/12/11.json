@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan mangkono padha manganana ⟨את⟩ iku: suku-sukunira kaiket, sandhalira ing sikilmu, lan tungkulira ing tanganira; lan padha manganana ⟨את⟩ iku kanthi rikat — iku Pésakh, tumrap Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "lan mangkono"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "padha manganana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (daging Pésakh)"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "suku-sukunira"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "kaiket"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sandhalira"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "ing sikilmu"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "lan tungkulira"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ing tanganira"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "lan padha manganana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (kanthi rikat)"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "kanthi rikat"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pésakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tumrap Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:52.925517616Z",
+  "model": "glm-5.3"
+}

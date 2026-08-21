@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Pinuji Adonai, dina ing dina, sing ngamoté ⟨benefits⟩ kita; ⟨the⟩ El iku pamartawan kita. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ing-dina"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "ngamoté"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "pamartawan-kita"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:59.141071380Z",
+  "model": "glm-5.3"
+}

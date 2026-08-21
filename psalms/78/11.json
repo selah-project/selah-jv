@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan padha lali marang pakaryan-pakaryane, lan kaajaib-ajaibe sing wis Ditundhoke marang ⟨את⟩ dheweke.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Lan padha lali"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "marang pakaryan-pakaryane"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "lan kaajaib-ajaibe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "wis Ditundhoke marang ⟨את⟩ dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:51.721270951Z",
+  "model": "glm-5.3"
+}

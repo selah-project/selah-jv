@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Hazaèl ratu ing Aram nindhes ⟨את⟩ Israèl sadawaning kabeh dia-diané Yehoahas.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Lan Hazaèl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nindhes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israèl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dia-diané"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahas"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:08.123692501Z",
+  "model": "glm-5.3"
+}

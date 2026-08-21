@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan sapa sing ngukuni bapakne utawa ibune, pati mesthi dipatèni.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "lan sapa sing ngukuni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "utawa ibune"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mesthi dipatèni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:07.311301744Z",
+  "model": "glm-5.3"
+}

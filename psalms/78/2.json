@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Bakal takbukak cangkemku nganggo tembung ungkang-parabl; bakal takobrolake teka-teki saka jaman kina.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "bakal takbukak"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "nganggo tembung ungkang-parabl"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "bakal takobrolake"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "teka-teki"
+    },
+    {
+      "surface": "מני",
+      "gloss": "saka"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "jaman kina"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:57.956317326Z",
+  "model": "glm-5.3"
+}

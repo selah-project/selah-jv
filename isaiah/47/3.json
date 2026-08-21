@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Bakal katedhak katorasmu, uga bakal katingal ejasmu; picis lakune dakpentha, lan ora dakrahir manungsa.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "bakal katedhak"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "katorasmu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "bakal katingal"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ejasmu"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "picis"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "lakune dakpentha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "dakrahir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:08.229733472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "lan ⟨את⟩ pungkuk cilik lan ⟨את⟩ shalakh lan ⟨את⟩ pungkuk gedhe",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pungkuk cilik"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "pungkuk cilik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "shalakh"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pungkuk gedhe"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "pungkuk gedhe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:04.302138444Z",
+  "model": "glm-5.3"
+}

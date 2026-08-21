@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Lan dhèwèké padha njupuk ⟨את⟩ Lot lan ⟨את⟩ bandhané, putrané sadhèrèké Avram — lan dhèwèké ⟨was⟩ ndedun ing Sedom — banjur padha mangkat.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "lan padha njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bandhané"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "bandhané"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sadhèrèké"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "lan padha mangkat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan dhèwèké"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ndedun"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "ing Sedom"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:50.231801543Z",
+  "model": "glm-5.3"
+}

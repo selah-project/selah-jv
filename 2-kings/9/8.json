@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan sakabehing santanane Ahab bakal cilaka, lan Aku bakal nglumpeni saka Ahab saben wong lanang sing ngucurake uyuh ana ing ⟨the⟩ tembok, sarta sing kakurung lan sing kari ing Israyel.\"",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "lan bakal cilaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "בית",
+      "gloss": "santana"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "lan Aku bakal nglumpeni"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "saka Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "sing ngucurake uyuh"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ana ing tembok"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "sarta sing kakurung"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "lan sing kari"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing Israyel"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:04.509153381Z",
+  "model": "glm-5.3"
+}

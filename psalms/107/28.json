@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Banjur padha njeruwun marang Yahweh ing sangsarané, lan saka pancakrané Panjenengané ngetokake dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "banjur padha njeruwun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ing sangsara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "né"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "lan saka pancakrané"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "Panjenengané ngetokake dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:04.566812292Z",
+  "model": "glm-5.3"
+}

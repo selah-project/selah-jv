@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "«Moshe, abdiku, wis mati; lan saiki tangi, priksa ⟨את⟩ Kali Yarden iki, kowé lan sakabehing wong iki, menyang bumi sing dakwenehake marang wonge, yaiku marang anak-anak Israel.»",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abdiku"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wis mati"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "priksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kali Yarden iki"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Kali Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "daku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dakwenehake"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang wonge"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "marang anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-21T03:57:45.517751088Z",
+  "model": "glm-5.3"
+}

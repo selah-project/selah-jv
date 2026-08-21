@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Saka ing kono Moshe lan Aharon lan para putrane ngumbah ⟨את⟩ tangan-tangane lan ⟨את⟩ sikil-sikile.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ngumbah"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka ing kono"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangan-tangane"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tangan-tangane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sikil-sikile"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "sikil-sikile"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:04.627904565Z",
+  "model": "glm-5.3"
+}

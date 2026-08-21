@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Sabab padha ngumbakake saben wong tongkate, lan dadi tanin-tanin; nanging tongkat Aharon nelan ⟨את⟩ tongkat-tongkate.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "padha ngumbakake"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "tongkate"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "tanin-tanin"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "nelan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tongkat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tongkat-tongkate"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "tongkat-tongkate"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:48.507383896Z",
+  "model": "glm-5.3"
+}

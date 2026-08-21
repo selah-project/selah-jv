@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 54,
+  "translation": "Sebab gunung-gunung bakal sirsa lan bukit-bukit bakal geter, nanging kasihku ora bakal sirsa saka ⟨את⟩ sira, lan prajanjian sulukku ora bakal geter, pangandikane Kang Ngrungokake sira, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "bakal sirsa"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "lan bukit-bukit"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "bakal geter"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "lan kasihku"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "saka ⟨את⟩ sira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "bakal sirsa"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "lan prajanjian"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "sulukku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "bakal geter"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "Kang Ngrungokake sira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:54.049378135Z",
+  "model": "glm-5.3"
+}

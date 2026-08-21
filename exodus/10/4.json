@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sebab menawa kowe nolak ngeculake ⟨את⟩ umat-Ku, lah Aku bakal nggawa walang ing sesuk ing wewengkonmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "nolak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ngeculake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "lah Aku"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "nggawa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ing sesuk"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "walang"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "ing wewengkonmu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:18.610188351Z",
+  "model": "glm-5.3"
+}

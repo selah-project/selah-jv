@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan para sing nemu ⟨את⟩ dheweke — iku lagi nglumpukake kayu — ngaturake ⟨את⟩ dheweke marang Moshe, lan marang Aharon, lan marang sakabehing pasamuwan.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "ngaturake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "para sing nemu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "nglumpukake kayu"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "pasamuwan"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:18.727222441Z",
+  "model": "glm-5.3"
+}

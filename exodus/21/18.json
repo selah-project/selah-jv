@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan menawa wong-wong padha tukaran, lan siji nutuh ⟨את⟩ kanca-kanca ne nganggo watu utawa nganggo kepelan, lan ora mati nanging tiba ing paturon,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lan menawa"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "padha tukaran"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "lan nutuh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "siji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanca-kanca ne"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca-kanca ne"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "nganggo watu"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "nganggo kepelan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "nanging tiba"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "ing paturon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:07.311543647Z",
+  "model": "glm-5.3"
+}

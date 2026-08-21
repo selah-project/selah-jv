@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Banjur ia mundhak saka kono menyang Beer-Syeba.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "banjur ia mundhak"
+    },
+    {
+      "surface": "משם",
+      "gloss": "saka kono"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Syeba"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:41.720675031Z",
+  "model": "glm-5.3"
+}

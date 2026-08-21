@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Sayekti kowe wis nthuk ⟨את⟩ Edom, lan atimu wis ngunggurake kowe; sinengkaha lan mangsah ing omahe; lan kenapa kowe ngundhakake ala, nganti kowe tiba, kowe lan Yehudha karo kowe?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "sayekti"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "kowe wis nthuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "lan ngunggurake kowe"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sinengkaha"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "lan mangsah"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ing omahe"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "lan kenapa"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "kowe ngundhakake"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "nganti kowe tiba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "lan Yehudha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "karo kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:24.823259861Z",
+  "model": "glm-5.3"
+}

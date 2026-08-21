@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Dheweke milihi ⟨את⟩ pusaka kita, ⟨את⟩ kamulyan Yaakov sing dakasihi. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "milihi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusaka kita"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "pusaka kita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamulyan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kamulyan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "dakasihi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:11.633205327Z",
+  "model": "glm-5.3"
+}

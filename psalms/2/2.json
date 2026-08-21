@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Para ratu ing bumi padha ngadeg, lan para panggedhe padha munjuk pasamuyan bareng, nglawan Yahweh lan nglawan Mashíaje",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "padha ngadeg"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "lan para panggedhe"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "padha munjuk pasamuyan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan nglawan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashíaje"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:42.315006665Z",
+  "model": "glm-5.3"
+}

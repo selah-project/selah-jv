@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Yahweh ngandika marang Moshe: \"Pass ngadhepi sangarepe wong-wong mau, lan cekelen karo sira ⟨את⟩ saka para sesepuh Israel; lan tongkatmu sing karo iku sira nyigar ⟨את⟩ Kali Nil, cekelen ing tanganmu, lan mangkata.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pass"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sangarepe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "lan cekelen"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ karo sira"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "saka para sesepuh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "lan tongkatmu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "sira nyigar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "karo iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kali Nil"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Kali Nil"
+    },
+    {
+      "surface": "קח",
+      "gloss": "cekelen"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ing tanganmu"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "lan mangkata"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:41.089886250Z",
+  "model": "glm-5.3"
+}

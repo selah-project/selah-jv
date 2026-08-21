@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Dawid weruh yen Saul metu golek ⟨את⟩ nyawané; lan Dawid ⟨ana⟩ ing ara-ara Zif, ing Horesya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "lan weruh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "golek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawané"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nyawané"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "lan Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "ing Horesya"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:44.288559248Z",
+  "model": "glm-5.3"
+}

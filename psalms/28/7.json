@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Yahweh ⟨iyaiku⟩ kuwatku lan tamengku; ing ⟨Panjenengane⟩ atiku padha percaya, lan aku katulungan; mulane atiku bungah-bungah, lan nganggo tembang-⟨tembang⟩-ku aku memuji ⟨Panjenengane⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kuwatku"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "lan tamengku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing Panjenengane"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "padha percaya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "lan aku katulungan"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "bungah-bungah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "lan nganggo tembang-tembangku"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "aku memuji Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:48.328014920Z",
+  "model": "glm-5.3"
+}

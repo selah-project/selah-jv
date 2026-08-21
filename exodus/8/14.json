@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan para tukang sihir padha nindakake mangkono nganggo sulape kanggo medharake ⟨את⟩ kinam, nanging ora bisa; dadi kinam ana ing manungsa lan ing kewan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lan padha nindakake"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "para tukang sihir"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "nganggo sulape"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "kanggo medharake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinam"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kinam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kinam"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ing manungsa"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "lan ing kewan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:00.591947086Z",
+  "model": "glm-5.3"
+}

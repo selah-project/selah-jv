@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Awit kowé ngadhepi panjenengane klawan berkahing kaluhuran; kowé netepake ing mustikane makutha emas murni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "kowé ngadhepi panjenengane"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "berkahing"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "kowé netepake"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "ing mustikane"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "makutha"
+    },
+    {
+      "surface": "פז",
+      "gloss": "emas murni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:58.147564373Z",
+  "model": "glm-5.3"
+}

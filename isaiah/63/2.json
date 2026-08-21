@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Kenging punapa sandhanganmu abrit, lan rasukanmu kaya wong nindih ing panggilingan anggur?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "kenging punapa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abrit"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "sandhanganmu"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "lan rasukanmu"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "kaya nindih"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ing panggilingan anggur"
+    }
+  ],
+  "timestamp": "2026-08-21T00:47:21.516817963Z",
+  "model": "glm-5.3"
+}

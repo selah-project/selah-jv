@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan ⟨את⟩ sing-sing mundur saka mburiné Yahweh, lan sing ora nggoléki ⟨את⟩ Yahweh lan ora nuwun marang Panjenengané.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ lan",
+      "marks": "sing-sing mundur"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "sing-sing mundur"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "saka mburiné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nggoléki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "nuwun marang Panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:36:03.613018166Z",
+  "model": "glm-5.3"
+}

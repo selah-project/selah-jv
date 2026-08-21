@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Saiki bangunana ésuk-ésuk, kowé lan abdi-abdiné bendaramu sing teka ⟨את⟩ kowé; lan bareng wis padha bangun ing ésuk lan wis caang, padha mangkatana.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "bangunana ésuk-ésuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing ésuk"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "lan abdi-abdiné"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "bendaramu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "באו",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "wis padha bangun ésuk"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing ésuk"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "lan wis caang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanggo kowé"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "padha mangkatana"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:04.019707185Z",
+  "model": "glm-5.3"
+}

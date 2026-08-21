@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sebab sugih-sugihé ⟨the city⟩ kebak kalirên, lan sing ndunungi ngucap goroh, lan ilaté ⟨is⟩ penuh tipu ing cangkemé.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sebab\/sing"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "sugih-sugihé"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "kebak"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kalirên"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "lan sing ndunungi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "lan ilaté"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "penuh-tipu"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ing cangkemé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:33:10.661299661Z",
+  "model": "glm-5.3"
+}

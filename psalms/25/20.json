@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Rumatana nyawaku lan warta aku; aja nganti aku isin, awit aku ngungsi marang Kowe.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Rumatana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "warta aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nganti aku isin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "aku ngungsi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "marang Kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:10.870288038Z",
+  "model": "glm-5.3"
+}

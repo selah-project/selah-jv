@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Yaiku saka para elohim-ing wong bangsa-bangsa sing ngubengi kowé, sing cedhak karo kowé utawa sing adoh saka kowé, saka wujuding bumi nganti wujuding bumi.",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "saka para elohim-ing"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "wong bangsa-bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "ngubengi kowé"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "sing cedhak"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "karo kowé"
+    },
+    {
+      "surface": "או",
+      "gloss": "utawa"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "sing adoh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "saka kowé"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "saka wujuding"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "wujuding"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:22.182973668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sun mirengake, o langit, lan menawani telinga, o bumi, sebab Yahweh wus micara: putra-putra sun anggone nguripai lan sun dhuwurake, lan ⟨dheweke⟩ padha nglakoni pemberontakan marang sun.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "sun mirengake, o"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "lan menawani telinga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o bumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wus micara"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "putra-putra"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "sun nguripai"
+    },
+    {
+      "surface": "ורomמתי",
+      "gloss": "lan sun dhuwurake"
+    },
+    {
+      "surface": "והם",
+      "gloss": "lan dheweke"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "padha nglakoni pemberontakan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "marang sun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:32:01.351168473Z",
+  "model": "glm-5.3"
+}

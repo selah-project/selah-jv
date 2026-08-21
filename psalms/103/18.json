@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "marang wong-wong sing ngajaga prajané lan sing éling ing préntah-préntahe, kanggo nindakake kabeh iku.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "marang wong-wong sing ngajaga"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "prajané"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "lan marang sing éling ing"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "préntah-préntahe"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "kanggo nindakake kabeh iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:08.722303252Z",
+  "model": "glm-5.3"
+}

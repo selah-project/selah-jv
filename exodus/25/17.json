@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan kowe bakal nggawe tutup pangapura saka emas murni: loro asta setengah dawané, lan saka asta setengah ambané.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "lan kowe bakal nggawe"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "tutup pangapura"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "loro asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "lan setengah"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dawané"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lan saka asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "lan setengah"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ambané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:07.547643987Z",
+  "model": "glm-5.3"
+}

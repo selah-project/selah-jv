@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Banjur aku ngraosake arep mangerteni iki, nanging iku angkara ing paningalanku.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "banjur aku ngraosake"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "arep mangerteni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "angkara"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalanku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:04.840694773Z",
+  "model": "glm-5.3"
+}

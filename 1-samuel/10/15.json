@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur pamané Shaúl ngandika: 'Critanana aku,aku nyuwun, apa sing ngendikakake marang kowé kabeh Shemuel?'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "pamané"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "critanana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "aku nyuwun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngendikakake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowé kabeh"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:51.836251870Z",
+  "model": "glm-5.3"
+}

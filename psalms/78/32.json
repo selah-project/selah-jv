@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Sanadyan sakabehing iku, padha dosa maneh, lan ora padha percaya ing kagumane-kagumane.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sanadyan sakabehing"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "padha dosa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "padha percaya"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "ing kagumane-kagumane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:27.184304390Z",
+  "model": "glm-5.3"
+}

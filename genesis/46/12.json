@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 46:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Lan putra-putrane Yehudha: Er, lan Onan, lan Shela, lan Perets, lan Zarakh; Er lan Onan padha mati ing negeri Kenaan; lan putra-putrane Perets dadi Khetsron lan Khamul.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "lan putra-putrane"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "lan Onan"
+    },
+    {
+      "surface": "ושלה",
+      "gloss": "lan Shela"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "lan Perets"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "lan Zarakh"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "padha mati"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "lan Onan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing negeri"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "putra-putrane"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetsron"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "lan Khamul"
+    }
+  ],
+  "timestamp": "2026-08-20T22:53:12.829750405Z",
+  "model": "glm-5.3"
+}

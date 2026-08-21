@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Awit lah, para ratu padha nglumpuk, padha liwat bebarengan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "para ratu"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "padha nglumpuk"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "padha liwat"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:04.187532144Z",
+  "model": "glm-5.3"
+}

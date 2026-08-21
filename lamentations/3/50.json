@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Nganti Yahweh nyingkur saka langit lan ndeleng.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "nyingkur"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "saka langit"
+    }
+  ],
+  "timestamp": "2026-08-21T02:43:34.052421328Z",
+  "model": "glm-5.3"
+}

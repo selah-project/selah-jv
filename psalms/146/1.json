@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 146,
+  "translation": "Pujia Yeh! Pujia, jiwa, ⟨את⟩ Yahweh!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pujia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yeh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "pujia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:30.379656426Z",
+  "model": "glm-5.3"
+}

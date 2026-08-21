@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 128,
+  "translation": "Lan ndeleng anak-anak saka anak-anakmu; muga shalom marang Israél.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "lan ndeleng"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "saka anak-anakmu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "muga shalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:35.222581456Z",
+  "model": "glm-5.3"
+}

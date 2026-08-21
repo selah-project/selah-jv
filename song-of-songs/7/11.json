@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Aku iki duweke kekasihku, lan kekarepe marang aku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku iki"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "duweke kekasihku"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "kekarepe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:41:16.268180131Z",
+  "model": "glm-5.3"
+}

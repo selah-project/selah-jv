@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Wong sing kena tzara'at iku, ⟨dheweke⟩ ora suci; imam kudu ngukuhake dheweke ora suci, amarga lukane ing sirahé.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "sing kena tzara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dheweke⟩"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ora suci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ora suci"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "kudu ngukuhake dheweke ora suci"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ing sirahé"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "lukane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:53:42.757382679Z",
+  "model": "glm-5.3"
+}

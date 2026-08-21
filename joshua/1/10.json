@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Yehoshua mituturi ⟨את⟩ para panggedhe ing antarane bangsa kasebut, ngendika:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Banjur mituturi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para panggedhe"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ing antarane bangsa kasebut"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:27.323649649Z",
+  "model": "glm-5.3"
+}

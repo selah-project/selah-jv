@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan Yahweh nindakake kaya sabdane Mosheh, lan laler-laler iku dicabut saka Paroh, saka para abdine lan saka umate; ora ana sing kasisa siji.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Lan nindakake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kaya sabdane"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheh"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "lan dicabut"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "laler-laler iku"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "saka Paroh"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "saka para abdine"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "lan saka umate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ana sing kasisa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:01.696175382Z",
+  "model": "glm-5.3"
+}

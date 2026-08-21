@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Shomeron kasirnak bareng ratuné, kaya scum ing dhuwuré banyu.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "kasirnak"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ratuné"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "kaya scum"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwuré"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dhuwuré"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:54.981591681Z",
+  "model": "glm-5.3"
+}

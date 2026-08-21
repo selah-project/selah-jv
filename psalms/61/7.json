@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 61,
+  "translation": "Dina marang dinane ratu bakal sira tambahi, taun-taune kaya dadi turun-temurun.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dinane"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "bakal sira tambahi"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "taun-taune"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "דר",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "turun-temurun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.144191701Z",
+  "model": "glm-5.3"
+}

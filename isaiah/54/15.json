@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 54,
+  "translation": "Ndherek, barang sing nglumpukake iku dudu ⟨את⟩ saka ngarsa-Ingsun; sapa sing nglumpuk karo ⟨את⟩ sira, dheweke bakal tiba marang sira.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ndherek"
+    },
+    {
+      "surface": "גור",
+      "gloss": "sing nglumpukake"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "iku bakal nglumpuk"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "dudu"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ saka ngarsa-Ingsun"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "גר",
+      "gloss": "sing nglumpuk"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ karo",
+      "marks": "sira"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bakal tiba"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:49.730306964Z",
+  "model": "glm-5.3"
+}

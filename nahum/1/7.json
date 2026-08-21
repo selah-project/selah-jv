@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Beciklah Yahweh, dadi bètèng ing dina sasaran, lan Panjenengane ngerteni sapa sing mungsuwita ing Panjenengane.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "dadi bètèng"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sasaran"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "lan ngerteni"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "sapa sing mungsuwita"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing Panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:33:00.012312642Z",
+  "model": "glm-5.3"
+}

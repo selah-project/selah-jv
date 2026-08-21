@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Avram diapik-apikake amarga dhèwèké, lan dadi duwéné: domba lan sapi lan kaladhi lanang lan abdi lanang lan abdi wadon lan kaladhi wadon lan onta.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "lan marang Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "diapik-apikake"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "amarga dhèwèké"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duwéné"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "domba"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "sapi"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "kaladhi lanang"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "abdi lanang"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "abdi wadon"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "kaladhi wadon"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "onta"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:04.789095013Z",
+  "model": "glm-5.3"
+}

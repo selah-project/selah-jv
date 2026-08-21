@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "menawa wewaler-Ku dicemari, lan parentah-Ku ora dilestarekake,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "wewaler-Ku"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "dicemari"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "lan parentah-Ku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "dilestarekake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:45.904741368Z",
+  "model": "glm-5.3"
+}

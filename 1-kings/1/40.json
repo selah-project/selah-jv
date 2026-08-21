@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur para wong kabeh munggah miturut ⟨sawisé⟩ panjenengané, lan para wong padha ngunèkake suling, sarta bungah kalawan bungah agung, nganti bumi tlegara déning swarané.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "para wong"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "miturut panjenengané"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "lan para wong"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "ngunèkake suling"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "kalawan suling"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "agung"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "tlegara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "déné swarané"
+    }
+  ],
+  "timestamp": "2026-08-21T00:14:14.418391750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan ⟨את⟩ sawah-sawahmu lan ⟨את⟩ kebon anggurmu, lan wit zaitunmu kang becik bakal dijupuk, lan diparingaké marang abdi-abdiné.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sawah-sawahmu"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "sawah-sawahmu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kebon anggurmu"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "kebon anggurmu"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "wit zaitunmu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "kang becik"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bakal dijupuk"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "lan diparingaké"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "marang abdi-abdiné"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:06.751382351Z",
+  "model": "glm-5.3"
+}

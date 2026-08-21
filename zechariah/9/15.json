@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 9:15",
+  "book": "zechariah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Yahweh Tsevaot bakal ngayomi dhèwèké, lan padha bakal mangan lan ngunci watu-watune umbalan, lan padha bakal ngombé sarta geger kaya anggur, lan padha bakal kebak kaya bokor-bokor, kaya sungu-sunguné misban.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יגן",
+      "gloss": "bakal ngayomi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "lan padha bakal mangan"
+    },
+    {
+      "surface": "וכבשו",
+      "gloss": "lan ngunci"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "watu-watune"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "umbalan"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "lan padha bakal ngombé"
+    },
+    {
+      "surface": "המו",
+      "gloss": "geger"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "יין",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "lan padha bakal kebak"
+    },
+    {
+      "surface": "כמזרק",
+      "gloss": "kaya bokor-bokor"
+    },
+    {
+      "surface": "כזויות",
+      "gloss": "kaya sungu-sunguné"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "misban"
+    }
+  ],
+  "timestamp": "2026-08-21T01:38:30.361514431Z",
+  "model": "glm-5.3"
+}

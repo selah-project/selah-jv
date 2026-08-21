@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Aja padha ngrungokake marang wong-wong mau; padha ngabdia marang ⟨את⟩ ratu Babel, lan padha urip; kok apa kutha iki kudu dadi reruntuhan?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "padha ngrungokake"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "padha ngabdia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ratu Babel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "lan padha urip"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kok apa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kudu dadi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "reruntuhan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:58:00.139347628Z",
+  "model": "glm-5.3"
+}

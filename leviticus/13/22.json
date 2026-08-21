@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lamun iku nyebar banget ana ing kulit, mula imam iku nguningakake rendhuting ⟨את⟩ wong iku — luka iku.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lamun"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "nyebar"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "nyebar banget"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ana ing kulit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "nguningakake rendhut"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wong iku"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "luka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:04.380898171Z",
+  "model": "glm-5.3"
+}

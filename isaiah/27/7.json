@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Apa ⟨dheweke⟩ dipandhung kaya pandhung sing mateni ⟨dheweke⟩? Apa dicophak kaya cophonaning sing dicophak dening ⟨dheweke⟩?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "kaya pandhungané"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "sing mateni"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "dipandhung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "apa"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "kaya cophonaning"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "sing dicophak"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "dicophak"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:41.030437687Z",
+  "model": "glm-5.3"
+}

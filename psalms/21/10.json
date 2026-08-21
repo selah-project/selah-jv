@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Kowé bakal nglèrèkaké dhèwèké kaya tungku geni ing wayah pawakanmu; Yahweh ing murka-Né bakal nelen dhèwèké, lan geni bakal ngundhakaké dhèwèké.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "bakal-nglèrèkaké-dhèwèké"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "kaya-tungku"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ing-wayah"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "pawakanmu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ing-murka-Né"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "bakal-nelen-dhèwèké"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "lan-bakal-ngundhakaké-dhèwèké"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:17.709048204Z",
+  "model": "glm-5.3"
+}

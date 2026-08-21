@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Bapakmu bakal bungah lan ibumu, lan wong sing nglairake kowe bakal bungah-pati.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bakal bungah"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "bapakmu"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "lan ibumu"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "bakal bungah-pati"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "wong sing nglairake kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:17:12.969093324Z",
+  "model": "glm-5.3"
+}

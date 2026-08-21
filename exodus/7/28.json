@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Kali bak sumebar bengkong, lan padha munggah lan padha mlebu ing omah-mu, ing bilik ambune-mu, lan ing dhemitan-mu, ing omah para abdi-mu, ing umat-mu, ing pawon-mu, lan ing papan adhem-mu.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "bak sumebar"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "bengkong"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "lan padha munggah"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "lan padha mlebu"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ing omah-mu"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "ing bilik"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ambune-mu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "dhemitan-mu"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ing omah"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "para abdi-mu"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ing umat-mu"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "ing pawon-mu"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "ing papan adhem-mu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:36.391653904Z",
+  "model": "glm-5.3"
+}

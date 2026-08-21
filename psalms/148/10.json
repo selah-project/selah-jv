@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 148,
+  "translation": "Sato lanaran lan saben kewan ternak; samubarang sing ngranggah lan manuk swiwi:",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "sato lanaran"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan saben"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kewan ternak"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "samubarang sing ngranggah"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "lan manuk"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "swiwi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:47.964028167Z",
+  "model": "glm-5.3"
+}

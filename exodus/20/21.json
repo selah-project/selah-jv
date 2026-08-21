@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Banjur umat iku ngadeg saka adoh, lan Moshe maju marang⟨i⟩ kalanglungan peteng kang ing kono ana Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "banjur ngadeg"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umat iku"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "saka adoh"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "lan Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "maju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "kalanglungan peteng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ana Elohim"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:37.975862020Z",
+  "model": "glm-5.3"
+}

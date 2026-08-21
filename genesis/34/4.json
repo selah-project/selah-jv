@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan Shekem ngendika marang Hamor bapakne, mangkene: Padha njupukna kanggo kula ⟨את⟩ bocah wadon iki dadi garwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "קח",
+      "gloss": "njupukna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo kula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah wadon iki"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "bocah wadon iki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "dadi garwa"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:23.438911035Z",
+  "model": "glm-5.3"
+}

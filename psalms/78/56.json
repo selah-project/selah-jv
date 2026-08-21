@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Nanging dhèwèké padha nyoba lan nglawan ⟨את⟩ Elohim Kang Mahaluhur, lan saksi-saksiné ora padha dienggoni.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "nyoba"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Kang Mahaluhur"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "lan saksi-saksiné"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "padha dienggoni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:43.487820116Z",
+  "model": "glm-5.3"
+}

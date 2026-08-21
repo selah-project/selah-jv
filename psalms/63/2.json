@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 63,
+  "translation": "Elohim, El-ku ⟨kowe⟩, ing esuk aku nggoleki Kowé; ngelak marang Kowé jiwa-ku, nyesek marang Kowé daging-ku, ing bumi sing garing lan lesu, tanpa banyu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-ku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨kowé⟩"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ing esuk aku nggoleki Kowé"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ngelak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Kowé"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "nyesek kanggo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang Kowé"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "daging-ku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "sing garing"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "lan lesu"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:02.301014714Z",
+  "model": "glm-5.3"
+}

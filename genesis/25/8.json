@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Banjur mundhut napas lan seda Avraham ing sepuh sing becik, wong tua lan wareg, lan kasamuhyo ing pasadulurane.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Banjur mundhut napas"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "lan seda"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ing sepuh"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "sing becik"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wong tua"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "lan wareg"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "lan kasamuhyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "pasadulurane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:07.563748594Z",
+  "model": "glm-5.3"
+}

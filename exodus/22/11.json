@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan yen temenan dicolong saka awake, kudu mbayar ganti marang sing nduweni.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "temenan dicolong"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "dicolong"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "saka awake"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kudu mbayar ganti"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "marang sing nduweni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:02:34.868802072Z",
+  "model": "glm-5.3"
+}

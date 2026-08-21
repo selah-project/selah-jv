@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "lan putriné Yaéra yasa ⟨את⟩ Bet-Khoron sangisoré lan ⟨את⟩ sangisoré lan ⟨את⟩ Uzzen-Sheéra",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "lan putriné"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheéra"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "yasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "sangisoré"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sangisoré"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "sangisoré"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzen-Sheéra"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheéra"
+    }
+  ],
+  "timestamp": "2026-08-21T03:19:44.249418385Z",
+  "model": "glm-5.3"
+}

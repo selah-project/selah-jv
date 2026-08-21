@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Aja muji wong Edom, awit sadhèrèkmu ⟨iya⟩ iku; aja muji wong Mitsri, awit dhalang kowé ⟨wis⟩ ana ing nagarané.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "muji"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "wong Edom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadhèrèkmu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨iya⟩ iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "muji"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "wong Mitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dhalang"
+    },
+    {
+      "surface": "היית",
+      "gloss": "kowé ⟨wis⟩"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "ana ing nagarané"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:04.851560552Z",
+  "model": "glm-5.3"
+}

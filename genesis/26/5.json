@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Amarga Avraham ngrungokake swaraku lan njaga pangawasanku, parentahku, angger-anggerku, lan toratku.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lir"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "swaraku"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "lan njaga"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "pangawasanku"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "parentahku"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "angger-anggerku"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "lan toratku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:46:59.093981168Z",
+  "model": "glm-5.3"
+}

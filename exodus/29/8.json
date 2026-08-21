@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan ⟨את⟩ anak-anaké kowe ngedherekake, lan kowe nganggoke dheweke jubah-jubah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "anak-anaké"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "kowe ngedherekake"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "lan kowe nganggoke dheweke"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "jubah-jubah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:50.643206559Z",
+  "model": "glm-5.3"
+}

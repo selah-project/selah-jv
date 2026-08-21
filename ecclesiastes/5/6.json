@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Sebab ing akèhé pangimpèn lan kaluputan lan tembung sing akèh; nanging ⟨koweku⟩ manawa ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ing akèhé"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "pangimpèn"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "lan kaluputan"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "lan tembung"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sing akèh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kowe weweden"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:48.520496327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Yahweh Elohim kita anggenipu medhar marang kita ing Horeb, ngendika: Wis cekap lawasipun anggenmu padha manggon ing redi punika.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "medhar"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "marang kita"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ing Horeb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "רב",
+      "gloss": "wis cekap"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anggenmu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "manggon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ing redi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "punika"
+    }
+  ],
+  "timestamp": "2026-08-21T03:55:43.891207319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Amarga lemah iku retak, sebab ora ana udan ing bumi; para tani padha isin, padha nutupi sirah-sirahe.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lemah iku"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "retak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "udan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "padha isin"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "para tani"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "padha nutupi"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "sirah-sirahe"
+    }
+  ],
+  "timestamp": "2026-08-21T00:53:50.258927542Z",
+  "model": "glm-5.3"
+}

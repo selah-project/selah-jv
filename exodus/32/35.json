@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Yahweh nglarahi ⟨את⟩ ⟨the⟩ bangsa amarga saka sing wis padha digawe ⟨את⟩ ⟨the⟩ pedhet, sing digawe Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Lan nglarahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ bangsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ bangsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wis padha digawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ pedhet"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "⟨the⟩ pedhet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "digawe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:01.884298850Z",
+  "model": "glm-5.3"
+}

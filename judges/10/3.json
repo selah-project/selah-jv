@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur sawise dheweke munthul Ya'ir sang Giladi, lan dheweke ngadili ⟨את⟩ Yisrael rong puluh loro taun.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "munthul"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sawise dheweke"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Ya'ir"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "sang Giladi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ngadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "rong puluh"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "loro"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:51:34.259684741Z",
+  "model": "glm-5.3"
+}

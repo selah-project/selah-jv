@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "lan ⟨את⟩ onta manuk, lan ⟨את⟩ tachmas, lan ⟨את⟩ manuk shechaf, lan ⟨את⟩ manuk nez miturut jinisé",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onta manuk"
+    },
+    {
+      "surface": "בת",
+      "gloss": "onta"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manuk shechaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shechaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manuk nez"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "manuk nez"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "miturut jinisé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:59.191308101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 45:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Lan sira bakal dumunung ing nagara Goshen, lan bakal cedhak marang aku sira, lan anak-anakmu, lan putu-putumu, lan wedhus-wedhusmu, lan sapi-sapimu, lan kabeh sing duwekowe sira.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "dumunung"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing nagara"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "cedhak"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "lan anak-anakmu"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan putune"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "putumu"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "lan wedhus-wedhusmu"
+    },
+    {
+      "surface": "ובקרך",
+      "gloss": "lan sapi-sapimu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "duwekowe sira"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:12.656300704Z",
+  "model": "glm-5.3"
+}

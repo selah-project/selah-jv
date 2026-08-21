@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim Tsabaot, sapa ⟨sing⟩ kaya Kowe, sari-sarine gagah, Yah? Lan kesetiaan-Mu ngubengi Kowe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "kaya Kowe"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "sari-sarine gagah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "lan kesetiaan-Mu"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "ngubengi Kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:23.861250925Z",
+  "model": "glm-5.3"
+}

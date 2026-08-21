@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Aja nganti ninggalake ⟨את⟩ saka iku nganti esuk, lan balunge aja dipundhaki ing kono; miturut saindhening ukum Pésach padha nindakake ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "nganti ninggalake"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "esuk"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "lan balung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "dipundhaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "miturut saindhening"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ukum"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésach"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iku",
+      "marks": "iku (Pésach)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:45.079241859Z",
+  "model": "glm-5.3"
+}

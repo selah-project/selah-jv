@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan kebon anggur‹mu› aja dikupas resik, lan wiji anggur tiba ing kebon anggur‹mu› aja dikumpulake; kanggo wong miskin lan wong tekanan kudu dililakake ⟨את⟩ iku — aku iki Yahweh, Elohim‹mu›.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "lan kebon anggurmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "kupas resik"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "lan wiji anggur tiba"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kebon anggurmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "dikumpulake"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "kanggo wong miskin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "lan wong tekanan"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "kudu dililakake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iku (sisa-sisa iku)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:35.427175982Z",
+  "model": "glm-5.3"
+}

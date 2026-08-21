@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Lan ngandika ⟨את⟩ kaluhuran marang dheweke, lan ndadekake ⟨את⟩ kursine dhuwur katrapi kursi para raja sing padha ⟨את⟩ karo dheweke ing Babel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "kaluhuran"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "lan ndadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kursine"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kursine"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "dhuwur katrapi"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "kursi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para raja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ karo"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "ing Babel"
+    }
+  ],
+  "timestamp": "2026-08-21T01:07:46.092060752Z",
+  "model": "glm-5.3"
+}

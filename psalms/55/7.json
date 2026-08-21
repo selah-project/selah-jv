@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 55,
+  "translation": "Lan aku ngendika: Sapa sing aweh ⟨aku⟩ swiwi kaya dara? Aku bakal mabur lan ngaso.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngendika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "aweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "swiwi"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "kaya dara"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "aku mabur"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "lan aku ngaso"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:56.860376650Z",
+  "model": "glm-5.3"
+}

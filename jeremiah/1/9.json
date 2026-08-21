@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Banjur Yahweh ngulunake ⟨את⟩ tangané lan nyandhak cangkemku; lan Yahweh ngandika marang aku: Sapirsanti, tembung-tembungkung wus takpapanake ing cangkemmu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "banjur ngulunake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tangané"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tangané"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "lan nyandhak"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sapirsanti"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "wus takpapanake"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembungkung"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ing cangkemmu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:12.863819377Z",
+  "model": "glm-5.3"
+}

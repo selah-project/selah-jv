@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan marang telung kanca-kancane esine murup, awit ⟨hiya⟩ padha ora nemu walesan, nanging padha ngukum ⟨את⟩ Ayub.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "lan marang telung"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "kanca-kancane"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "murup"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "esine"
+    },
+    {
+      "surface": "על",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "padha nemu"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "walesan"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "nanging padha ngukum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayub"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayub"
+    }
+  ],
+  "timestamp": "2026-08-21T02:33:43.535416417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Sing mati kakulawargane Baasa ing kutha bakal dipangan asu, lan sing mati kakulawargane ing padesan bakal dipangan manuk langit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Sing mati"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "kakulawargane Baasa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal dipangan"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "asu"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "lan sing mati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kakulawargane"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing padesan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakal dipangan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "manuk"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-21T00:20:56.282373235Z",
+  "model": "glm-5.3"
+}

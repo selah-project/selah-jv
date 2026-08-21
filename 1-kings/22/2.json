@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan kadadéan ing taun kang kaping telu, Yehoshafat raja Yehudha mundhut tumuju marang raja Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kadadéan"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "kang kaping telu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "mundhut\/turun"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tumuju marang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:30.315286960Z",
+  "model": "glm-5.3"
+}

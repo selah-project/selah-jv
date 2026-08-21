@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan kowe mulangake ⟨את⟩ iki marang ⟨את⟩ anakanira, supaya ngrembakakake ing antarane, nalika kowe lungguh ing omahmu, nalika lumaku ing dalan, nalika tumindak turu lan nalika tangi.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "kowe mulangake"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "iki (tembung-tembung)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anakanira"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "anakanira"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "supaya ngrembakakake"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing antarane"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "nalika kowe lungguh"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ing omahmu"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "nalika lumaku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "nalika tumindak turu"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "nalika tangi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:33:34.620907459Z",
+  "model": "glm-5.3"
+}

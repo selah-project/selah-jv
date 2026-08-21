@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Karep atinge kowé maringi marang panjenengane; panyuwuning lambe-lambe ora kowé nulak. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Karep"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atinge"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "kowé maringi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang panjenengane"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "lan panyuwuning"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "lambe-lambe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "kowé nulak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:58.147402837Z",
+  "model": "glm-5.3"
+}

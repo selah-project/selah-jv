@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan padha mangan ⟨את⟩ dagingé ing wengi iki, di panggang ing geni, karo roti tanpa ragi; karo rinetan getih-enggal padha mangan ⟨את⟩ iku.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "lan padha mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagingé"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "dagingé"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ing wengi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "dipanggang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "roti tanpa ragi"
+    },
+    {
+      "surface": "על",
+      "gloss": "karo"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "rinetan"
+    },
+    {
+      "surface": "יאכלהu",
+      "gloss": "padha mangan ⟨את⟩ iku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:36.736774506Z",
+  "model": "glm-5.3"
+}

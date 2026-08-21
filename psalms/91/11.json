@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 91,
+  "translation": "Sebab malaekate bakal didhawuhi concerning kowe, kanggo njaga kowe ing saben dalanmu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "malaekate"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "bakal didhawuhi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "concerning kowe"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "kanggo njaga kowe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "dalanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:12.878330717Z",
+  "model": "glm-5.3"
+}

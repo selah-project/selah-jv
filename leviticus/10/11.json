@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan supaya mulang marang ⟨את⟩ anak-anaking Yisrael ⟨את⟩ kabèh sarat-sarat kang wis dipituturake Yahweh marang dhèwèké kanthi timbanganing Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "lan supaya mulang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak-anaking Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaking"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabèh sarat-sarat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sarat-sarat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dipituturake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kanthi timbanganing"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:11:42.607306320Z",
+  "model": "glm-5.3"
+}

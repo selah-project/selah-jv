@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan ⟨ia⟩ ngrèmukaké ⟨את⟩ tugu-tugu, ngorèngi ⟨את⟩ Ashera-Ashera, lan ngisi ⟨את⟩ panggonané balung-balung manungsa.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "ngrèmukaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tugu-tugu"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tugu-tugu"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ngorèngi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera-Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ashera-Ashera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ngisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panggonané"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "panggonané"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "balung-balung"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:25.144201800Z",
+  "model": "glm-5.3"
+}

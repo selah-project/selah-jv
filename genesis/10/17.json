@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "lan ⟨את⟩ wong Hiwi, lan ⟨את⟩ wong Arki, lan ⟨את⟩ wong Sini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "wong Hiwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "wong Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wong Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "wong Sini"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:33.018115439Z",
+  "model": "glm-5.3"
+}

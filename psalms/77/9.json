@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 77,
+  "translation": "Apa kasih-setyan-É wis entek salawasé? Apa sumpah-É pedhot marang turun-tumurun?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "apa wis entek"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasih-setyan-É"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "pedhot"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sumpah-É"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "marang turun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan tumurun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:27.272929575Z",
+  "model": "glm-5.3"
+}

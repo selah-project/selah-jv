@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan mangkatlah wong-wong Kehat, sing nggawa panggonan suci, lan wong liya ngadegake ⟨את⟩ padhebalan iku nganti tekanane dheweke.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "lan mangkatlah"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "wong-wong Kehat"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "sing nggawa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "panggonan suci"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "lan ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padhebalan iku"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "padhebalan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "באם",
+      "gloss": "tekanane dheweke"
+    }
+  ],
+  "timestamp": "2026-08-20T23:20:57.936773688Z",
+  "model": "glm-5.3"
+}

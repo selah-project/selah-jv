@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Yahweh ngandika marang Moshe: Sowanana Paroh, awit aku wus ndadekake abot ⟨את⟩ atine lan ⟨את⟩ atine para abdine, supaya aku bisa mapanake tetandha-tetandhaku iki ing tengah-tengahé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Sowanana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "wus ndadekake abot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atine"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "atine para abdine"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atine"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "para abdine"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supaya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "aku bisa mapanake"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "tetandha-tetandhaku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ing tengah-tengahé"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:22.490817263Z",
+  "model": "glm-5.3"
+}

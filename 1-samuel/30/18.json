@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Dawid paring slamet marang ⟨את⟩ samu-barang sing dingglembana Wong Amalek, lan ⟨את⟩ rong bojone dislametake Dawid.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "paring slamet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samu-barang sing dingglembana Wong Amalek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "dingglembana"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Wong Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rong bojone"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "rong"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "dislametake"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:54.439691598Z",
+  "model": "glm-5.3"
+}

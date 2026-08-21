@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 125,
+  "translation": "Nuhurnana kaluhuran, Yahweh, para wong becik, lan para wong jejeg ing atiné.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Nuhurnana kaluhuran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "para wong becik"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "lan para wong jejeg"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "ing atiné"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:18.683116925Z",
+  "model": "glm-5.3"
+}

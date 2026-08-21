@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Ilaté sing isep susu nemplek ing langané sarga ngelak; bocah-bocah cilik njaluk roti, nanging ora ana sing mènèh marang dhèwèké.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "nemplek"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ilate"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "sing isep susu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ing"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "langané"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "sarga ngelak"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "bocah-bocah cilik"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "njaluk"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "sing mènèh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:44:41.498462998Z",
+  "model": "glm-5.3"
+}

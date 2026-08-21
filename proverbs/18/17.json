@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 18:17",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Wong kang ngambu pisan ing padudoné katon bener; banjur kanca-né teka lan ngusiki dhèwèké.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "katon bener"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "sing ngambu pisan"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ing padudoné"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca-né"
+    },
+    {
+      "surface": "וחקרו",
+      "gloss": "lan ngusiki dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:17.295611068Z",
+  "model": "glm-5.3"
+}

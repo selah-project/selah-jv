@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Sampé nresnani ⟨את⟩ bumi-Mu, Yahweh; sampé mulihaken babar pametangan Yaakov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "sampé nresnani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "bumi-Mu"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sampé mulihaken"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pametangan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:01.339339338Z",
+  "model": "glm-5.3"
+}

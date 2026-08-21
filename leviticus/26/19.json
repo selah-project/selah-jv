@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan Aku bakal ngruntuhake ⟨את⟩kabagyaning kakuwasanmu, lan Aku bakal ndadekake ⟨את⟩langitmu kaya wesi, lan ⟨את⟩bumimu kaya tembaga.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "lan Aku bakal ngruntuhake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabagyaning kakuwasanmu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kabagyan"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "kakuwasanmu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "lan Aku bakal ndadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit kowe"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "langit kowe"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "kaya wesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bumimu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "bumimu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "kaya tembaga"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:57.328557843Z",
+  "model": "glm-5.3"
+}

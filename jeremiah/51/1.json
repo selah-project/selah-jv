@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Mangkene pangandikane Yahweh: Sumangga, Aku ngunggahake marang Babel lan marang sing padha manggon ana Leb-Kamai (wong-wong sing ngadhang Aku) ana angin pangrusak.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mangkene"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Sumangga"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "Aku ngunggahake"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sing padha manggon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Leb (ati)"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "Kamai (sing ngadhang Aku)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "pangrusak"
+    }
+  ],
+  "timestamp": "2026-08-21T01:05:33.052380358Z",
+  "model": "glm-5.3"
+}

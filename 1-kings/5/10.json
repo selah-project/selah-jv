@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan kawicaksanane Shlomo ngocehi kawicaksanane kabeh anak-anake wétan, lan kabeh kawicaksanane Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "lan ngocehi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kawicaksanane"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "kawicaksanane... saka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "lan saka kabeh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kawicaksanane"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-21T00:15:46.203841348Z",
+  "model": "glm-5.3"
+}

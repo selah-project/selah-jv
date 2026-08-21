@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 30:26",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Lan Aku bakal nepyakake ⟨את⟩ Mitsrayim ing antarane para bangsa, lan nyebarake dheweke ing aneka dhaerah, lan dheweke bakal weruh yen Aku ⟨iku⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "והפצותי",
+      "gloss": "lan Aku bakal nepyakake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing antarane para bangsa"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "lan Aku nyebarake"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong Mitsrayim (ing aneka dhaerah)"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ing aneka dhaerah"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "lan dheweke bakal weruh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:17:20.757502470Z",
+  "model": "glm-5.3"
+}

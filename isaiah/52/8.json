@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Swarane para panjaga-mu! Padha nundhakake swara, bebarengan padha marengi kasukan; awit mata mara mata padha mirsani nalika Yahweh bali mara Tzion.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "para panjaga-mu"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "padha nundhakake"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebarengan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "padha marengi kasukan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "mara mata"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "padha mirsani"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "nalika bali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "mara Tzion"
+    }
+  ],
+  "timestamp": "2026-08-21T00:46:05.326181292Z",
+  "model": "glm-5.3"
+}

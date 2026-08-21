@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Lan dakwenehake saksi-saksi katemen marang aku: ⟨את⟩ Uriyah sang imam lan ⟨את⟩ Zekharyahul bin Yeverekyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Lan dakwenehake sesaksi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "saksi-saksi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "katemen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah sang imam"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sang imam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Zekharyahu bin Yeverekyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekyahu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:34.914249684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 50,
+  "translation": "Lan sira tansah sengit marang pawulang, sarta mbuwang tembung-tembungKawula ing burimu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lan sira"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "sira sengit"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pawulang"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "sarta mbuwang"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembungKawula"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ing burimu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:06.128136407Z",
+  "model": "glm-5.3"
+}

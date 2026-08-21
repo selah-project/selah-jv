@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 99,
+  "translation": "Yahweh Elohim kita, Kowe mangsuli dheweke; El kang paring pangapura Kowe dadi marang dheweke, nanging tumindak welas ing aturé pangrékasa marang kaluputane.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowe"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "mangsuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kang paring pangapura"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Kowe dadi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "nanging tumindak welas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing aturé"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "pangrékasa kaluputane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:01.808039525Z",
+  "model": "glm-5.3"
+}

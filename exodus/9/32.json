@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Dene gandum lan kusmi ora kena dialapake, amarga matenge telat.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "Dene gandum"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "lan kusmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "kena dialapake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "matenge telat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:59.265643052Z",
+  "model": "glm-5.3"
+}

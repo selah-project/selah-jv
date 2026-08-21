@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Hizkiya mènèhaké ⟨את⟩ sakabèhé pérak sing tinemu ing dalem Yahweh lan ing papan-papan panyimpenan dalemé ⟨the⟩ raja.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "lan mènèhaké"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhé pérak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "pérak"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "sing tinemu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dalem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "lan ing papan-papan panyimpenan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dalem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    }
+  ],
+  "timestamp": "2026-08-21T00:28:45.437213104Z",
+  "model": "glm-5.3"
+}

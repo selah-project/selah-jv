@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan sing isih saka minanga iku kanggo Aharon lan kanggo putra-putrané: ⟨⟨paling⟩ suci⟩, saka kurban-kurban geni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "lan sing isih"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minanga"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kanggo Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "lan kanggo putra-putrané"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "paling suci"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "saka kurban-kurban geni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:44.485953925Z",
+  "model": "glm-5.3"
+}

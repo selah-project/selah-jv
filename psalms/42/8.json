@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Kedalaman ngundhang marang kedalaman ing swara tuk-banyu-mu; kabeh ombak sing pecah-mu lan gelombang-mu wis liwat marang aku.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "kedalaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kedalaman"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ngundhang"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ing swara"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "tuk-banyu-mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ombak sing pecah-mu"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "lan gelombang-mu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "wis liwat"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:24.211924374Z",
+  "model": "glm-5.3"
+}

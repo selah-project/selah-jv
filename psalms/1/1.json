@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Pinunjuling wong kang ora lumaku ing rembaking wong ala, ora ngadeg ing dalaning wong dosa, lan ora lungguh ing papan lungguhing pangejek-ejek.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "pinunjuling"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "ing rembaking"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong ala"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "lan ing dalaning"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "wong dosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngadeg"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "lan ing papan lungguhing"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "pangejek-ejek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lungguh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:15.428164027Z",
+  "model": "glm-5.3"
+}

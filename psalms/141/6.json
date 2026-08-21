@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 141,
+  "translation": "Kalis ing gisiking watu ageng para pangadilé, lan bakal rungu ukaraku, awis ènak.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "kalis"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ing gisiking"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "watu ageng"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "para pangadil"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "lan bakal rungu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ukara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "نעمו",
+      "gloss": "ènaka"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:52.031679911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Apa ⟨ora⟩ hikmah celathu, lan pangertèn maringi swarane?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa ⟨ora⟩"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmah"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "celathu"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "lan pangertèn"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "swarane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:31.078139164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Padha ndelenga ing para bangsa, lan padha sumingida, lan padha kageta banget, awit ana panggawe ⟨saka⟩ panggawe ing dina-dinamu, sing sira ora bakal percaya nalika dikandhakake.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "padha ndelenga"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ing para bangsa"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "lan padha sumingida"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "lan padha kageta"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "banget"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "ing dina-dinamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "bakal percaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "dikandhakake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:33:20.673861630Z",
+  "model": "glm-5.3"
+}

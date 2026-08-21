@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 97,
+  "translation": "Gunung-gunung kalarat kaya lilin ing sangarepe Yahweh, ing sangarepe Adonai sakabehing bumi.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "gunung-gunung"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "kaya lilin"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "kalarat"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ing sangarepe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ing sangarepe"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:03.508805931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Banjur Yaakov mangkat ⟨saka⟩ lan tindak menyang bumi para putra saka wetan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "mangkat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sikile"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan tindak"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "menyang bumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "saka wetan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:50:30.067418114Z",
+  "model": "glm-5.3"
+}

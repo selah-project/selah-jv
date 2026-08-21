@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 108,
+  "translation": "Dhuwurana, ya Elohim, ing sadhuwure langit, lan ing sadhuwure ⟨the⟩ bumi kabeh kemujaan-Mu.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "dhuwurana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwure"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing sadhuwure"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kemujaan-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:54.877424902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Padha ngentokake pitulungan, nanging ora ana sing nulungi; marang Yahweh, lan ⟨dhewe⟩ ora nanggepi padha.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "ngentokake pitulungan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nanging ora ana"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "sing nulungi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "nanggepi padha"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:57.547944870Z",
+  "model": "glm-5.3"
+}

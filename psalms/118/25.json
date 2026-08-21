@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Dhuh Yahweh, kawula nyuwun — slametke saiki! Dhuh Yahweh, kawula nyuwun — paringi kabecikan saiki!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "kawula nyuwun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "slametke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "saiki"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "kawula nyuwun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "paringi kabecikan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "saiki"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:53.229558345Z",
+  "model": "glm-5.3"
+}

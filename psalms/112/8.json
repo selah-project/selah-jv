@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 112,
+  "translation": "Kajangkung atiné — ora wedi — nganti bisa nyawang mungsuh-mungsuhé.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "Kajangkung"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nyawang"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "mungsuh-mungsuhé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:38.570593522Z",
+  "model": "glm-5.3"
+}

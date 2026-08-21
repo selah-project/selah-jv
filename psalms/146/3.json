@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 146,
+  "translation": "Aja padha percaya marang para pangéran, marang anak manungsa, sing ora duwe pitulungan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "padha percaya"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "marang para pangéran"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "marang anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "sing ora ana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo awake dhewe"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "pitulungan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:30.380004367Z",
+  "model": "glm-5.3"
+}

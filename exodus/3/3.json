@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan Moshe ngandika: Kula mugi sumingkir murih mriksa ⟨את⟩ pandeleng ingkang ageng menika, sabenapa ⟨sne punika⟩ boten kobong.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "kula sumingkir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "murih mriksa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pandeleng ingkang ageng menika"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "pandeleng"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ingkang ageng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "menika"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "sabenapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "boten"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "kobong"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "sne"
+    }
+  ],
+  "timestamp": "2026-08-21T03:51:27.777505025Z",
+  "model": "glm-5.3"
+}

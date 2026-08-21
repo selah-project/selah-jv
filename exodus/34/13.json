@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Sabab mesbèh-mesbèhé ⟨את⟩ kowé kudhu ngruntagaké, lan tugu-tugu suciné ⟨את⟩ kowé kudhu nthèlèni, lan wit-wit Ashéra-né ⟨את⟩ kowé kudhu ndhèrèsi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesbèh-mesbèhé"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mesbèh-mesbèhé"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "kowé kudhu ngruntagaké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tugu-tugu suciné"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tugu-tugu suciné"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "kowé kudhu nthèlèni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "wit-wit Ashéra-né"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "wit-wit Ashéra-né"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "kowé kudhu ndhèrèsi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:23.866362866Z",
+  "model": "glm-5.3"
+}

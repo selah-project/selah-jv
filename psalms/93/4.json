@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 93,
+  "translation": "Saka swarané banyu akèh, saka ombak sagara sing prakasa — Yahweh ing dhuwur luwih prakasa.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "swarané"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "prakasa"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ombak"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "prakasa"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ing dhuwur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.901623789Z",
+  "model": "glm-5.3"
+}

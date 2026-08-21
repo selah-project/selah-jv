@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 76,
+  "translation": "Ing kono ⟨dhèwèké⟩ nubarake panah-panah geni saka jemparing, tameng, pedhang, lan perang. Sela.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "nubarake"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "panah-panah geni"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "saka jemparing"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "tameng"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "lan pedhang"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "lan perang"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:23.091065582Z",
+  "model": "glm-5.3"
+}

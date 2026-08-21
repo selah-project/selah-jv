@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Elohim nglakoni becik marang ⟨the⟩ para paraji wedhok; lan ⟨the⟩ bangsa iku saya akeh, lan saya kiyat banget.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "nglakoni becik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "para paraji wedhok"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "saya akeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "lan saya kiyat"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:28.243222505Z",
+  "model": "glm-5.3"
+}

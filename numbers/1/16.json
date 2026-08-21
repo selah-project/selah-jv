@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Iki para sinebut ⟨ing⟩ pasamuwan, panggedhe suku-suku leluhure dhewe, panggedhe ewu-ewu ⟨ing⟩ Yisrael padha ⟨iku⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "para sinebut"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "suku-suku"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "leluhure dhewe"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ewu-ewu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הם",
+      "gloss": "padha ⟨iku⟩"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:00.756455169Z",
+  "model": "glm-5.3"
+}

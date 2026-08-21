@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 75,
+  "translation": "Awit Elohim ⟨the⟩ sing ngadili: ⟨the⟩ siji iku direndahake, lan ⟨the⟩ siji maneh diunggahake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "sing ngadili"
+    },
+    {
+      "surface": "זה",
+      "gloss": "siji iki"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "direndahake"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "lan siji maneh"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "diunggahake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:24.277956122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Namung ⟨the⟩ papan-dhuwur iku ora ilang; isih ⟨the⟩ wong akèh nglabuhaké kurban lan ngobong dupa ing ⟨the⟩ papan-dhuwur.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "namung"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "papan-dhuwur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ilang\/ditinggalaké"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akèh"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nglabuhaké kurban"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "lan ngobong dupa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ing papan-dhuwur"
+    }
+  ],
+  "timestamp": "2026-08-21T04:06:39.506961423Z",
+  "model": "glm-5.3"
+}

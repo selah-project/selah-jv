@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Banjur Laban tangis esuk, lan sungkem marang anake lanang lan anake wadon, sarta mberkahi ⟨את⟩ dheweke; banjur tinduk, lan Laban bali menyang panggonane.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "tangis esuk"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing wayah esuk"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "sungkem"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "marang anake lanang"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "lan marang anake wadon"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mberkahi"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "tinduk"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "menyang panggonane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:58.801922330Z",
+  "model": "glm-5.3"
+}

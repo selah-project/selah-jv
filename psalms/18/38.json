@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Kula ngoyak mungsuh-mungsuh kula sarta kula kejarlantu, lan kula boten wangsul ngantos sampun sirna padha.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "kula ngoyak"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mungsuh-mungsuh kula"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "sarta kula kejarlantu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan boten"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "kula wangsul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngantos"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "sampun sirna padha"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:53.326925988Z",
+  "model": "glm-5.3"
+}

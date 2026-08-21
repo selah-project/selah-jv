@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Iki kabeh dakelingake, lan dakudani jiwa-ku marang aku; awit dakliwati ing para wong akeh, dakbimbi lumaku alon nganti omahing Elohim, mawa swara bungah-sorak lan pujian, bebarengan karo wong akeh sing ngrayakake riyaya.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iki kabeh"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "dakelingake"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "lan dakudani"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwa-ku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "dakliwati"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "ing para wong akeh"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "dakbimbi lumaku alon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mawa swara"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "bungah-sorak"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "lan pujian"
+    },
+    {
+      "surface": "המון",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "ngnrayakake riyaya"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:24.211403514Z",
+  "model": "glm-5.3"
+}

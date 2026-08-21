@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan ⟨Dheweke⟩ ncedakake ⟨את⟩ sira, lan ⟨את⟩ kabeh sadulurmu bani Lewi ⟨את⟩ karo sira — lan sira padha nggayuh uga imamat?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Lan ⟨Dheweke⟩ ncedakake"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh sadulurmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sadulurmu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ karo sira"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "lan sira padha nggayuh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "imamat"
+    }
+  ],
+  "timestamp": "2026-08-20T23:23:56.774680496Z",
+  "model": "glm-5.3"
+}

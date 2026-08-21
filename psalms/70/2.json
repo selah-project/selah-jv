@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 70,
+  "translation": "Elohim, kanggo ngluwari aku; Yahweh, tumuju pitulunganku, nyawis-nyawisa!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "kanggo ngluwari aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "tumuju pitulunganku"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "nyawis-nyawisa"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:05.681688500Z",
+  "model": "glm-5.3"
+}

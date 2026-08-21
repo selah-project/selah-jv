@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan atine para sing gegereh bakal ngerti kanggo ngerteni kawruh, lan ilate para gagap bakal gage ngucap ⟨tembung⟩ sing teras cetha.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "lan ati"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "para sing gegereh"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "bakal ngerti"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kanggo ngerteni kawruh"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "lan ilat"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "para gagap"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "bakal gage"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kanggo ngucap"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "teras cetha"
+    }
+  ],
+  "timestamp": "2026-08-21T04:09:06.072183145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 85,
+  "translation": "Balekna kawula, Elohim sing nylametake kawula, lan lunturana nesuMu marang kawula.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Balekna kawula"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "sing nylametake kawula"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "lan lunturana"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "nesuMu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "marang kawula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:13.424957431Z",
+  "model": "glm-5.3"
+}

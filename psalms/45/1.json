@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 45,
+  "translation": "Kanggo pangendhagara; miturut Shoshannim; kanggo para putra Korach; Maskil — tembang katresnan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangendhagara"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kanggo para putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "katresnan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:08.344141358Z",
+  "model": "glm-5.3"
+}

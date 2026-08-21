@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "Para Pelishti ngumpul, banjur teka sarta ngadek bala ing Shunem; Shaul ngumpulaké ⟨את⟩ sarèhing Israel, lan dhèwèké ngadek bala ing Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ngumpul"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "para Pelishti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ngadek bala"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "ing Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ngumpulaké"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarèhing Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sarèhing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ngadek bala"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "ing Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:04:47.377085484Z",
+  "model": "glm-5.3"
+}

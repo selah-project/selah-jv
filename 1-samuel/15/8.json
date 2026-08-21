@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Lan ia nangkep ⟨את⟩ Agag ratune Amalek urip, lan ⟨את⟩ sakabehing wong akeh ia tinarbangan ana ing buri pedhang.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "nangkep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratune"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "urip"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing wong akeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "tinarbangan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ana ing buri"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:07.188352231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Banjur Yaakov njenengake ⟨את⟩ jenenge panggonan panggon Elohim ngendika karo ⟨את⟩-e ing kana: Beit-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur njenengake"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenenge panggonan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "panggon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "karo ⟨את⟩-e"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:51.341169563Z",
+  "model": "glm-5.3"
+}

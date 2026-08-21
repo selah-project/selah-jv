@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Sari anggur ngluhur, wit anggur lemes, kabeh sing padha bungah atine padha ngedo.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "ngluhur"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "sari anggur"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "lemes"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "wit anggur"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "padha ngedo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "sing padha bungah"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:27.640702073Z",
+  "model": "glm-5.3"
+}

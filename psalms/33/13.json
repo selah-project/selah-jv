@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Saka langit Yahweh ndeleng tetep; ⟨dhewe⟩ mirsani ⟨את⟩ kabeh anak-anak manungsa.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "saka langit"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ndeleng tetep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh anak-anak manungsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:48.109563456Z",
+  "model": "glm-5.3"
+}

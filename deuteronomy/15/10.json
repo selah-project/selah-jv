@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Mènèha temen kok mènèhi dhèwèké, lan aja atimu dadi sedhih nalika kok mènèhi dhèwèké, awit saka perkara iki Yahweh Elohimmu bakal ngedumpani kowé ing saben panggarapanmu lan ing saben panjurung tanganmu.",
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "temen"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kok mènèhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "dadi sedhih"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "atimu"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "nalika kok mènèhi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dhèwèké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "ngedumpani kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimmu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "panggarapanmu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "lan ing saben"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "panjurung"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:35:06.379057597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Kanggo panggedhe pasamuwan, mazmur kagungané Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo panggedhe pasamuwan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagungané Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:10.759072344Z",
+  "model": "glm-5.3"
+}

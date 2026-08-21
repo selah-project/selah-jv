@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Yahweh, Kowé wis nunggalake nyawaku saka Sheol, Kowé uripake aku supaya ora tumiba marang lubang.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "Kowé wis nunggalake"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Kowé uripake aku"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "supaya ora tumiba"
+    },
+    {
+      "surface": "בור",
+      "gloss": "lubang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:20.299051528Z",
+  "model": "glm-5.3"
+}

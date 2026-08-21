@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Kanggoguyu aku ngandika: ⟨is⟩ edan; lan marang kasenengan: apa ⟨is⟩ iki sing ditindakake?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Kanggoguyu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku ngandika"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "edan"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "lan marang kasenengan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ditindakake"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:18.516050415Z",
+  "model": "glm-5.3"
+}

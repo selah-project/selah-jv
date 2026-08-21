@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Mirsa aku, lan paras aku kanugrahan, awit aku iku sepi lan nandhang sangsara.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "mirsa (ngaling-aling) aku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "dhateng aku"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "lan paras aku kanugrahan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "sepi (tunggal)"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "lan nandhang sangsara"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:24.614962253Z",
+  "model": "glm-5.3"
+}

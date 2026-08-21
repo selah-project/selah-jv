@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan ⟨dheweke⟩ bakal ngrusak ⟨את⟩ bumi Asshur nganggo pedhang, lan ⟨את⟩ bumi Nimrod ing lawang-lawange; lan ⟨dheweke⟩ bakal ngluwari kita saka Asshur, nalika ⟨dheweke⟩ teka ing bumi kita lan nalika ⟨dheweke⟩ ngidak-idak ing pawatesan kita.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "lan bakal ngrusak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi Asshur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nganggo pedhang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bumi Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "ing lawang-lawange"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "lan bakal ngluwari"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "saka Asshur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "dheweke teka"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ing bumi kita"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "lan nalika"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "dheweke ngidak-idak"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "ing pawatesan kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:23.728422516Z",
+  "model": "glm-5.3"
+}

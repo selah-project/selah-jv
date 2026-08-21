@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Saul munjuk: \"Sugihake marang aku ⟨את⟩ kurban bakaran lan ⟨את⟩ kurban slamet.\" Banjur ia ngolahake ⟨את⟩ kurban bakaran.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "munjuk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "sugihake"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "lan kurban slamet"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "banjur ngolahake"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban bakaran"
+    }
+  ],
+  "timestamp": "2026-08-21T04:00:58.951019232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Yaakov kasisa siji, lan sawijining lanang tarkungkul karo ⟨dheweke⟩ nganti munggahing fajar.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "kasisa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "tarkungkul"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sawijining lanang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "karo dheweke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "munggahing"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "fajar"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:31.141869491Z",
+  "model": "glm-5.3"
+}

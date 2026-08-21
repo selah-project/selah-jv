@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 75,
+  "translation": "Lumèr bumi lan sakabehing sing ndunungi; Ingsun dhewe sing nata sakabehing tumpang-tumpange. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "lumèr"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sing ndunungi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ingsun dhewe"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "nata"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "tumpang-tumpange"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:32.324934967Z",
+  "model": "glm-5.3"
+}

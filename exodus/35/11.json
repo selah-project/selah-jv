@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "⟨את⟩ ⟨the⟩ mishkan, ⟨את⟩ kemah-e sarta ⟨את⟩ tudhung-e, ⟨את⟩ kanchane lan ⟨את⟩ papane, ⟨את】 palang-palange, ⟨את】 saka-sakane, lan ⟨את】 pendheme.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨the⟩ mishkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah-e"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "kemah-e"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tudhung-e"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "tudhung-e"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanchane"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "kanchane"
+    },
+    {
+      "surface": "וואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "papane"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "papane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palang-palange"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "palang-palange"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka-sakane"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "saka-sakane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pendheme"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pendheme"
+    }
+  ],
+  "timestamp": "2026-08-20T23:06:01.647150306Z",
+  "model": "glm-5.3"
+}

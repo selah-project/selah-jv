@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Aduh cilaka kowé, hai bumi, yen ratumu isih enom, lan pangèmu ing ésuk padha mangan!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "aduh cilaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hai bumi"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "yen ratumu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "isih enom"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "lan pangèmu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing ésuk"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "padha mangan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:33.196803932Z",
+  "model": "glm-5.3"
+}

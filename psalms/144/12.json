@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 144,
+  "translation": "Sing anak lanang kita iku kaya wit naneman sing ditukulaké sajroning mangsa nom-nomané, anak wadon kita kaya saka-saka papilinan, kacithak miturut rupa pasewakan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "anak lanang kita"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "kaya wit naneman"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "ditukulaké"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "sajroning mangsa nom-nomané"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "anak wadon kita"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "kaya saka-saka"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "kacithak"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "miturut rupa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "pasewakan"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:32.208172143Z",
+  "model": "glm-5.3"
+}

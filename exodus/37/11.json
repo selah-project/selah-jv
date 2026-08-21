@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan dilapisi ⟨את⟩ iku mawa emas murni, lan digawekake rance emas ngubengi.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "lan dilapisi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (meja)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "lan digawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo iku"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rance"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ngubengi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:40.441336416Z",
+  "model": "glm-5.3"
+}

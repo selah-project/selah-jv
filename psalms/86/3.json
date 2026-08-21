@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 86,
+  "translation": "Kawelasana aku, Adonai, awit marang Kowe aku ngundhang saben dina.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Kawelasana aku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang Kowe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "aku ngundhang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:52.323034601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Yagene Kowé njebolaké pager-pagere, nganti kabeh sing nglewati dalan padha ngundhui iku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "yagene"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "Kowé njebolaké"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "pager-pagere"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "nganti padha ngundhui iku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "sing nglewati"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:09.083423012Z",
+  "model": "glm-5.3"
+}

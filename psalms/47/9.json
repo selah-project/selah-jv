@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Elohim jumeneng nata marang para bangsa; Elohim lenggah ing dhampar kasucianipun.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "jumeneng nata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "lenggah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "dhampar"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasucianipun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:26.485267973Z",
+  "model": "glm-5.3"
+}

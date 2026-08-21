@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Lan kowé bakal njupuk ⟨את⟩ lenga pangurapan, lan ngurapi ⟨את⟩ kemah pasamuwan sarta ⟨את⟩ sakabehing isiné, lan ngucapake suci ⟨את⟩ iku lan ⟨את⟩ sakabehing pirantine, lan bakal dadi suci.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "lan kowé bakal njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lenga pangurapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pangurapan"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "lan ngurapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemah pasamuwan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "kemah pasamuwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בו",
+      "gloss": "isiné"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "lan ngucapake suci"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iku",
+      "marks": "kemah pasamuwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pirantine"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:02.492197218Z",
+  "model": "glm-5.3"
+}

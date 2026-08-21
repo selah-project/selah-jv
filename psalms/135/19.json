@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 135,
+  "translation": "Sadherek kluwarga Israael, mugi padha ngunjukake berkah marang ⟨את⟩ Yahweh; sadherek kluwarga Aharon, mugi padha ngunjukake berkah marang ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "sadherek kluwarga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israael"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mugi padha ngunjukake berkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sadherek kluwarga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "mugi padha ngunjukake berkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:30.193045312Z",
+  "model": "glm-5.3"
+}

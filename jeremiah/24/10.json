@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Ingsung bakal ngutus marang dheweke ⟨את⟩ pedhang, ⟨את⟩ kaluwu, lan ⟨את⟩ pageblug, nganti entek saka ing sadhuwuring lemah sing Ingsung wènèhaké marang dheweke lan marang para leluhure.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Lan Ingsung bakal ngutus"
+    },
+    {
+      "surface": "בם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pedhang"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluwu"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "kaluwu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pageblug"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pageblug"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "entek"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "saka ing sadhuwuring"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ingsung wènèhaké"
+    },
+    {
+      "surface": "להם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "lan marang para leluhure"
+    }
+  ],
+  "timestamp": "2026-08-21T00:56:17.713810552Z",
+  "model": "glm-5.3"
+}

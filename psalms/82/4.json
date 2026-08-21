@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 82,
+  "translation": "Bebaskna ⟨⟨wong⟩⟩ lemah lan ⟨⟨wong⟩⟩ papa, saka astané wong-wong jahat walikkna.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Bebaskna"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wong lemah"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "lan wong papa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "saka astané"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong jahat"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "walikkna"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:47.335817400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 57,
+  "translation": "Atiku manteb, Elohim, atiku manteb; aku bakal nyanyi lan mamuji.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "manteb\/tetep"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "manteb\/tetep"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku bakal nyanyi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "lan mamuji"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:54.228396898Z",
+  "model": "glm-5.3"
+}

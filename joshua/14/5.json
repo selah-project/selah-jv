@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "Kaya dhasaré dhawuhé Yahweh marang ⟨את⟩ Moshe, mangkono tumindaké para putra Israèl, lan ⟨padha⟩ mbagi ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dhasaré"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "dhawuh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mangkono"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tumindak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "lan padha mbagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:45:13.881759953Z",
+  "model": "glm-5.3"
+}

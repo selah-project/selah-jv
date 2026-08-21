@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sebab para pangon dadi bodho, lan ⟨את⟩ Yahweh ora dhuhu, mulane ora tumindak becik, lan sakabehing kawanane padha kasebar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "dadi bodho"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "para pangon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "dhuhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "כן",
+      "gloss": "marga saka iku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "tumindak becik"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "kawanane"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "kasebar"
+    }
+  ],
+  "timestamp": "2026-08-21T00:51:44.010144568Z",
+  "model": "glm-5.3"
+}

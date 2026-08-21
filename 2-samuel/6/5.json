@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Dawid sarta sakabehing bétah Yisrael padha migatèkake ing ngarsané Yahweh nganggo sadaya piranti saka kayu siprès, yaiku kithara, nével, tèmbor, sistrum, lan simbal.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "lan Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sarta sakabehing"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bétah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "padha migatèkake"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nganggo sadaya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "siprès"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "kithara"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "nével"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "tèmbor"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "sistrum"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "simbal"
+    }
+  ],
+  "timestamp": "2026-08-21T00:07:28.151073598Z",
+  "model": "glm-5.3"
+}

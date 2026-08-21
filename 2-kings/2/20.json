@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan dheweke munjuk: Padha ambulna marang aku cithak anyar, lan padha lebokna uyah ing kono. Dheweke padha ngamba marang dheweke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan dheweke munjuk"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "padha ambulna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "cithak"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "lan padha lebokna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "uyaeh"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "padha ngamba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:53.830257912Z",
+  "model": "glm-5.3"
+}

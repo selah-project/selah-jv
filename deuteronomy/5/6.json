@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Aku ⟨ing⟩ Yahweh, Elohimé kowé, sing wus nggentunaké kowé saka buminé Mitsrayim, saka omahé para abdi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimé kowé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "wus nggentunaké kowé"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka buminé"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "saka omahé"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "para abdi"
+    }
+  ],
+  "timestamp": "2026-08-20T23:31:19.845102280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Putra-putra Yehudha: Perets, Chetsron, Karmi, Chur, lan Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Putra-putra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "lan Shoval"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:00.692494229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lahire Yahweh ngandika marang Moshe ing ara-ara Sinai, ing jero kemah pasamuwan, ing dina siji sasi kaping loro, ing taun kaping loro wisune kang metu saka tanah Mitzrayim, ngendika:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ing jero kemah"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ing dina siji"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kaping loro"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ing taun"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "kaping loro"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "wisune kang metu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:36.646267349Z",
+  "model": "glm-5.3"
+}

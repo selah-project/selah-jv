@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Padha nglagu marang Yahweh, para setia-Ne, lan padha matur nuwun ing pangeling-eling kasucen-Né.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "padha nglagu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "para setia-Ne"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "lan padha matur nuwun"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ing pangeling-eling"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kasucen-Né"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:38.423553910Z",
+  "model": "glm-5.3"
+}

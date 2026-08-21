@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 74,
+  "translation": "Keng kenapa Paduka mundurake tangan-Mu, yaiku tengen-Mu? Saka tengah pangkon-Mu binasakna.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "keng kenapa"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "Paduka mundurake"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tangan-Mu"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "yaiku tengen-Mu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "saka tengah"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "pangkon-Mu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "binasakna"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:02.420580338Z",
+  "model": "glm-5.3"
+}

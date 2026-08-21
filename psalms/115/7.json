@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 115,
+  "translation": "Astane ⟨ana⟩ nanging ora bisa ngrungu; sikile ⟨ora bisa lumaku sarta ora bisa ngucapake pirang-pirang ing tenggorokane.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "asta-sing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "bisa ngrungu"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "sikil-sing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "bisa lumaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ngucapake"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ing tenggorokane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:09.093357834Z",
+  "model": "glm-5.3"
+}

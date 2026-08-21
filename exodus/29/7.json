@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan kowe njupuk ⟨את⟩ lenga pangurapan iku, lan ngundhakake ing dhuwure sirahé, lan ngurapake ⟨אתו⟩ dheweke.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "lan kowe njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lenga pangurapan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pangurapan"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "lan ngundhakake"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing dhuwure"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sirahé"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "lan ngurapake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "dheweke (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-20T23:04:50.643060554Z",
+  "model": "glm-5.3"
+}

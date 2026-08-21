@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Lan Yaakov ngutus lan ngundhang Raquel lan Lea menyang padhang menyang kawananipun.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ngundhang"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raquel"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "lan Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "padhang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "kawananipun"
+    }
+  ],
+  "timestamp": "2026-08-20T22:48:33.484415426Z",
+  "model": "glm-5.3"
+}

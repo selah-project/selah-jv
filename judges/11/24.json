@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Apa dudu ⟨את⟩ sing Kamos, elohim-é sliramu, wenehi sliramu diduwéni — iya sliramu kang ngerasèkaké? Lan ⟨את⟩ sakabèhing sing Yahweh, Elohim kita, usir saka ngarep kita — iku kang kita ngerasèkaké.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "apa dudu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing Kamos wenehi sliramu diduwéni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "wenehi sliramu diduwéni"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Kamos"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "elohim-é sliramu"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "iku ⟨את⟩",
+      "marks": "sliramu ngerasèkaké"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "sliramu ngerasèkaké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabèhing sing Yahweh usir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "usir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "saka ngarep kita"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "iku ⟨את⟩",
+      "marks": "kita ngerasèkaké"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "kita ngerasèkaké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:33.355104241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan kowe bakal ngluhurake ⟨את⟩ dhadha kurban tunjalan lan ⟨את⟩ pupu kurban unjukan, kang diunjakake lan kang ditingalake, saka wedhus jantan panglantunan, saka kanggo Aharon lan saka kanggo anak-anaké.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "lan kowe bakal ngluhurake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dhadha"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "dhadha"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "kurban tunjalan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pupu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "pupu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "kurban unjukan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "diunjakake"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "lan kang"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "ditingalake"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "saka wedhus jantan"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "panglantunan"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "saka kang"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kanggo Aharon"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "lan saka kang"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "kanggo anak-anaké"
+    }
+  ],
+  "timestamp": "2026-08-20T23:05:40.693756048Z",
+  "model": "glm-5.3"
+}

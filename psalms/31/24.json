@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Sira padha tresnaana ⟨את⟩ Yahweh, kabeh para setianira; wong satya iku tinjagané Yahweh, sarta kaluwihané diwales marang panggawe gumedhé.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "padha tresnaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "para setianira"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "wong satya"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "tinjagané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "sarta diwales"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "kaluwihané"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "panggawe"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "gumedhé"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:59.930016012Z",
+  "model": "glm-5.3"
+}

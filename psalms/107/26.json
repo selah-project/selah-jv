@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 107,
+  "translation": "Padha munggah nganti langit, padha mudhun marang jurang-jurang ing sagara; nyawa wong-wong mau leleh amarga saka cilaka.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "padha munggah"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nganti langit"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "padha mudhun"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "jurang-jurang ing sagara"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nyawa wong-wong mau"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "amarga saka cilaka"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "leleh"
+    }
+  ],
+  "timestamp": "2026-08-21T04:19:06.109423992Z",
+  "model": "glm-5.3"
+}

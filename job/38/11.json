@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 38:11",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 38,
+  "translation": "lan aku ngandika: Nganti kéné dak tepung, aja nambah maneh, lan ing kéné dumunung wohé galurmu sing anggung",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lan aku ngandika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kéné"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dak tepung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "nambah maneh"
+    },
+    {
+      "surface": "ופא",
+      "gloss": "lan ing kéné"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "dumunung"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "sing anggung"
+    },
+    {
+      "surface": "גליך",
+      "gloss": "galur-galurmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:37:01.386329031Z",
+  "model": "glm-5.3"
+}

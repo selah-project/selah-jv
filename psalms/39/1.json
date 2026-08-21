@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Kanggo panglatèn, kanggo Yedutun; mazmur kangge Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo panglatèn"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kanggo Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kangge Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:02.706400383Z",
+  "model": "glm-5.3"
+}

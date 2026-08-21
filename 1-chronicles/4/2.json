@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Reaya bin Shoval nglairake ⟨את⟩ Yachat; Yachat nglairake ⟨את⟩ Achumai lan ⟨את⟩ Lahad. Iku klane-klane wong Tsoarat.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Lan Reaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Iku"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "klane-klane"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "wong Tsoarat"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:00.692690243Z",
+  "model": "glm-5.3"
+}

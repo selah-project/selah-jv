@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan bakal ana ing dina kaping enem, padha nyawisake ⟨את⟩ sing bakal padha kabawa, lan bakal dadi pindho kapindho saka sing padha diklumpukake dina-dina.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "bakal ana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "kaping enem"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "padha nyawisake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing bakal padha kabawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "padha kabawa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "pindho kapindho"
+    },
+    {
+      "surface": "על",
+      "gloss": "saka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "padha diklumpukake"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:47.632258219Z",
+  "model": "glm-5.3"
+}

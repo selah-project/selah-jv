@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": " Bareng Dawid krungu mangkono, dheweke ngutus ⟨את⟩ Yoab lan ⟨את⟩ sakabehing wadyabala para gagah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "krungu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing wadyabala para gagah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wadyabala"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "para gagah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:26:18.502505496Z",
+  "model": "glm-5.3"
+}

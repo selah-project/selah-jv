@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 89,
+  "translation": "Kasetyané Yahweh salawasé aku nyanyi; marang tumurun lan tumurun krawuhake setyanmu ing cangkemku.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Kasetyané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "aku nyanyi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "marang tumurun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan tumurun"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "krawuhake"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "setyanmu"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ing cangkemku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:50.901443089Z",
+  "model": "glm-5.3"
+}

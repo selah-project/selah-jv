@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Ana perkara sing bisa dikandhakake: Deleng, iki anyar! Padahal wis ana suwé ing jaman-jaman kuna sadurungé kita.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "perkara"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "sing bisa dikandhakake"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "deleng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "anyar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "padahal wis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "ing jaman-jaman kuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "sadurungé kita"
+    }
+  ],
+  "timestamp": "2026-08-21T02:46:36.623329752Z",
+  "model": "glm-5.3"
+}

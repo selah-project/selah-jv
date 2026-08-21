@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Banjur Dawid rembugan karo para panggedhe ⟨⟨the⟩⟩ ewonan lan atonan, marang saben pangulu.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "banjur rembugan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "para panggedhe"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "⟨the⟩ ewonan"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "lan atonan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang saben"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pangulu"
+    }
+  ],
+  "timestamp": "2026-08-21T03:23:42.141452479Z",
+  "model": "glm-5.3"
+}

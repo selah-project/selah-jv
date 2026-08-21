@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan dheweke mbalikke ⟨את⟩ kutha-kutha iku sarta ⟨את⟩ sakabehing lembah, lan ⟨את⟩ sakabehing panggone kutha-kutha iku, tuwuhaning bumi.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "lan dheweke mbalikke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha-kutha iku"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kutha-kutha iku"
+    },
+    {
+      "surface": "האל",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "sakabehing lembah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "lembah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing panggone kutha-kutha iku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "panggone"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kutha-kutha iku"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "tuwuhaning"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:25.481282482Z",
+  "model": "glm-5.3"
+}

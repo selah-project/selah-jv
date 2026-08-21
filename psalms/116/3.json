@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 116,
+  "translation": "Tali-taliné pati nglubèhi kula, lan sèsèlé Sheol nemu kula; kabeciké lan susah kula alami.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "nglubèhi kula"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "tali-taliné"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pati"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "lan sèsèlé"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "nemu kula"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kabeciké"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "lan susah"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "kula alami"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:56.492562438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Wong Plishtim njupuk ⟨את⟩ petining Elohim, digawa menyang omahing Dagon, banjur didhelikake ⟨את⟩ ing sacedhaking Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Plishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petining"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petining"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "digawa menyang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "omahing Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omahing"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "didhelikake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ing sacedhaking Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ing sacedhaking"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:26.173451446Z",
+  "model": "glm-5.3"
+}

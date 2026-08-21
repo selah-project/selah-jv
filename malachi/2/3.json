@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Ndherek Ingsun ngukum ⟨את⟩ wijine sira, lan Ingsun njebarake pamot ing ngarsa raine sira, pamot pasamuan-pasamuwanmu, lan iku bakal ngunggahake ⟨את⟩ sira marang awake dhewe.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ndherek Ingsun"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ngukum"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wijine sira"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "wijine sira"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "lan Ingsun njebarake"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "pamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "raine sira"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "pamot"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "pasamuan-pasamuwanmu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "lan bakal ngunggahake"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang awake dhewe"
+    }
+  ],
+  "timestamp": "2026-08-21T01:39:47.307134150Z",
+  "model": "glm-5.3"
+}

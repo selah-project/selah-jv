@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 61,
+  "translation": "Bakal dhedhemèn ing ngarsane Elohim nganti teka ing salawas-lawase; becik panglipur lan satya iku sing bakal njagani dhèwèké.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "bakal dhedhemèn"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nganti teka ing salawas-lawase"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "becik panglipur"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "lan satya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "bakal njagani dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:15.144303891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Wungkna saka ala lan tindakna kabecikan, goleka karukunan lan kejarna.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Wungkna"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "saka ala"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "lan tindakna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "goleka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "karukunan"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "lan kejarna"
+    }
+  ],
+  "timestamp": "2026-08-21T01:46:43.661301402Z",
+  "model": "glm-5.3"
+}

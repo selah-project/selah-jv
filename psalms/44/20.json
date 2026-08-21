@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Sanadyan Sira ngeremhi kita ing papaning bantheng, lan nglumuti kita kelangone pati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sanadyan"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "ngeremhi kita"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing papaning"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "bantheng"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "lan nglumuti"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "kelangone pati"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:24.640100651Z",
+  "model": "glm-5.3"
+}

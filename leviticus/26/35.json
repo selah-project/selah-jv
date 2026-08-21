@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Kabeh dina-dhine panggonan kothong iku bumi bakal sumedherep, ⟨את⟩ sing ora sumedherep ing Sabat-sabatmu nalika sira manggon ing dhuwure.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dina-dhine"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "panggonan kothong"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "bakal sumedherep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing ora sumedherep"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "sumedherep"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "ing Sabat-sabatmu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "nalika sira manggon"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ing dhuwure"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:55.906423720Z",
+  "model": "glm-5.3"
+}

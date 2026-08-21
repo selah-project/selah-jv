@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan aku mundhut dheweke kanggo aku ping lima welas perak, lan sa-homer gandum lan sa-letekh gandum.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "Lan aku mundhut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ping lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "welas"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "lan sa-homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gandum"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "lan sa-letekh"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gandum"
+    }
+  ],
+  "timestamp": "2026-08-21T01:24:45.280858170Z",
+  "model": "glm-5.3"
+}

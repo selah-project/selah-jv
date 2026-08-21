@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Kalawan pialané dhéwé padha maremake ratu, lan kalawan gorohé padha maremake para pangéran.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "kalawan pialané dhéwé"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "padha maremake"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "lan kalawan gorohé"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "para pangéran"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:41.423341797Z",
+  "model": "glm-5.3"
+}

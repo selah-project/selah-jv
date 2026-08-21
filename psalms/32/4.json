@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Sebabé awan lan dalu astané abot marang aku; kalembabaning awakku malih dadi garing ing karèding mangsa katiga. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebabé"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan dalu"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "abot"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "astané"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "malih dadi"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "kalembabaning awakku"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "ing karèding"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "mangsa katiga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:35.676122114Z",
+  "model": "glm-5.3"
+}

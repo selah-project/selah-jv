@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan kakuwatanmu bakal entek sia-sia, lan ora bakal diparingi ⟨את⟩asilane bumi kowe, lan wit ing bumi ora bakal maringi woh-wohe.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "bakal entek"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sia-sia"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "kakuwatanmu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora bakal"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "diparingi"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "bumi kowe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asilane"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "asilane"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "lan wit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bakal maringi"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "woh-wohe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:57.328734087Z",
+  "model": "glm-5.3"
+}

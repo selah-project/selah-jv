@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan padha didaftar ing Bazeq; lan para putrane Israeel ⟨ana⟩ telung atus ewu, lan wong Yehuda telung puluh ewu.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "didaftar"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "ing Bazeq"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeel"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telung"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ewu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lan wong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telung puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ewu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:59:23.671971968Z",
+  "model": "glm-5.3"
+}

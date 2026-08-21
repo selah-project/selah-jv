@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan ⟨את⟩ iket sirah saka linen alus, lan ⟨את⟩ pangrantesan sirah saka linen alus, lan ⟨את〕 calonan saka linen, linen alus sing dipuntun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "iket sirah"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "iket sirah"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen alus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pangrantesan sirah"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "pangrantesan sirah"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "iket-iketan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen alus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "calonan"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "calonan"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linen alus"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "sing dipuntun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:53.818023887Z",
+  "model": "glm-5.3"
+}

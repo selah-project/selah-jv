@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Banjur Avimelekh mangkat menyang Tevets, lan ngepung Tevets, lan ngojayi iku.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "banjur mangkat"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevets"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "lan ngepung"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Tevets"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "lan ngojayi iku"
+    }
+  ],
+  "timestamp": "2026-08-21T03:59:16.357442370Z",
+  "model": "glm-5.3"
+}

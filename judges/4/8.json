@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Barak ngandika marang dheweke: Yen kowé lumaku karo aku, aku bakal lumaku; lan yen kowé ora lumaku karo aku, aku ora bakal lumaku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Yen"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "kowé lumaku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "karo aku"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "aku bakal lumaku"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "kowé lumaku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "karo aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku bakal lumaku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:49:35.283522208Z",
+  "model": "glm-5.3"
+}

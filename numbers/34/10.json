@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Lan kowe bakal nglakokake garis wates wetan kowe, saka Chatsar-Enan nganti tekan Shepham.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "bakal nglakokake garis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "wates"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "wacetan wetan"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "saka Chatsar"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enan"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "Shepham"
+    }
+  ],
+  "timestamp": "2026-08-20T23:29:13.433955149Z",
+  "model": "glm-5.3"
+}

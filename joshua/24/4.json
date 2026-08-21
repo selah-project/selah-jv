@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Dak-*paring* marang Yitshak ⟨את⟩ Yaakov lan ⟨את⟩ Esaw; lan Dak-*paring* marang Esaw ⟨את⟩ redi Seir supaya duwèni ⟨את⟩ iku; nanging Yaakov lan para putrané padha ingkah mlanding Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Lan Dak-*paring*"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "marang Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Esaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "lan Dak-*paring*"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "marang Esaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "redi Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "redi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "supaya duwèni"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "iku (redi Seir)"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "nanging Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "lan para putrané"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "padha ingkah mlanding"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:58:56.935124232Z",
+  "model": "glm-5.3"
+}

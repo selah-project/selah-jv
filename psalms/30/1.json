@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 30,
+  "translation": "Mizmor, tembang pangantepaking ⟨the⟩ omah, kanggo Dawid.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "pangantepaking"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩ omah"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:20.298554534Z",
+  "model": "glm-5.3"
+}

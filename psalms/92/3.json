@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Kanggo medharake sih-sihMU ing wayah esuk, lan katemenMU ing bengi-bengi.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "kanggo medharake"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ing wayah esuk"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sih-sihMU"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "lan katemenMU"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ing bengi-bengi"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:31.570153893Z",
+  "model": "glm-5.3"
+}

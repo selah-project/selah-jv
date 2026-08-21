@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Ora ana suci kaya Yahweh, awit ora ana kajaba saka Kowe, lan ora ana watu karang kaya Elohime.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kaya Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "kajaba saka Kowe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "צור",
+      "gloss": "watu karang"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "kaya Elohime"
+    }
+  ],
+  "timestamp": "2026-08-20T23:56:36.293251823Z",
+  "model": "glm-5.3"
+}

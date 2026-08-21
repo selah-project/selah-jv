@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Bareng njukukake ing tengah-tengahe tembung-tembung tandha-tandha-Nae, lan kaajaiban ing bumi Kham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "njukukake"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ing tengah-tengahe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tembung-tembung"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "tandha-tandha-Nae"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "lan kaajaiban"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:30.950328304Z",
+  "model": "glm-5.3"
+}

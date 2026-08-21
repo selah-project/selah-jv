@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Aja mangan ⟨את⟩ rotiné wong kang duwé paningal jahat, lan aja ngajab-ajab panganan énaké.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rotiné"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "jahat"
+    },
+    {
+      "surface": "עין",
+      "gloss": "paningal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ngajab-ajab"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "marang panganan énaké"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:11.126667839Z",
+  "model": "glm-5.3"
+}

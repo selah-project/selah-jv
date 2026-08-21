@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Nanging aku munjuk: Kanggo kasungsungan aku nganti kesel, kanggo klenthur lan lia-lia aku nglampahake kakuwatanku; satemene pancasaningsun ana ing ngarsaning ⟨את⟩ Yahweh, lan pakolihkula ana ing ngarsaning ⟨את⟩ Allahingsun.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "nanging aku"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku munjuk"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "kanggo kasungsungan"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "aku nganti kesel"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "kanggo klenthur"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "lan lia-lia"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kakuwatanku"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "aku nglampahake"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "satinemene"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "pancasaningsun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "lan pakolihkula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Allahingsun"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Allahingsun"
+    }
+  ],
+  "timestamp": "2026-08-21T00:44:29.327934856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Marang Panjenengané aku ngundhang nganggo cangkemku, lan pangéling-éling dhuwur ana sangisoring ilatku.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "marang Panjenengané"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemku"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "aku ngundhang"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "lan pangéling-éling dhuwur"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sangisore"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ilatku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:45.328730196Z",
+  "model": "glm-5.3"
+}

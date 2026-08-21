@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Sebab lah, para mungsuhmu lagi ribut, lan para sing sengit marang Kowé wis ngangkat sirah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "para mungsuhmu"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "lagi ribut"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "lan para sing sengit marang Kowé"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "wis ngangkat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:22.177982663Z",
+  "model": "glm-5.3"
+}

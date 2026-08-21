@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan Yahweh mulihake ⟨את⟩ kasangsarané Iyob nalika panjenengané ndedonga kanggo kanca-kancané; lan Yahweh nambahi ⟨את⟩ kabèh sing dadi duwèké Iyob dadi kaping pindho.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mulihake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasangsarané"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "kasangsarané"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "nalika ndedonga"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "kanggo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca-kancané"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "nambahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabèh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "dadi duwèké Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "dadi kaping pindho"
+    }
+  ],
+  "timestamp": "2026-08-21T02:40:00.938958632Z",
+  "model": "glm-5.3"
+}

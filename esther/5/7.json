@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Ester matur mangsuli: panjalukku lan panyuwunku iki —",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "mangsuli"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "matur"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "panjalukku"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "panyuwunku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:50:57.822989437Z",
+  "model": "glm-5.3"
+}

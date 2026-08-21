@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 41,
+  "translation": "Banjur malai thinthin iku nglélé ⟨את⟩ pitu malai apik; dakandhakaké marang para peramal, lan ora ana sing bisa medharaké marang aku.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "banjur nglélé"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "malai"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "thinthin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitu malai apik"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "malai"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "apik"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "dakandhakaké"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "para peramal"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "sing medharaké"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:03.346085012Z",
+  "model": "glm-5.3"
+}

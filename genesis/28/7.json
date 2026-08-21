@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "lan yen Yaakov mituruti marang bapakne lan marang ibune, lan banjur lunga menyang Padan-Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mituruti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bapakne"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan marang"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ibune"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lan lunga"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:24.674393016Z",
+  "model": "glm-5.3"
+}

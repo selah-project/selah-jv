@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Saul mirsani yen ⟨dheweke⟩ pinter sanget, lan ⟨saul⟩ wedi ing Abraham.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mirsani"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dheweke⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pinter"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ing ngarsane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:01:13.065334266Z",
+  "model": "glm-5.3"
+}

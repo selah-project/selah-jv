@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Kanggo pangrabuk, dhumateng Gittith, kanggo Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangrabuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "dhumateng"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kanggo Asaf"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:15.568909490Z",
+  "model": "glm-5.3"
+}

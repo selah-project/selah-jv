@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Kutha-kutha sucimu dadi gurun, Tsiyon dadi gurun, Yerushalayim dadi reruntuhan sepi.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sucimu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gurun"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "reruntuhan sepi"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:07.785230311Z",
+  "model": "glm-5.3"
+}

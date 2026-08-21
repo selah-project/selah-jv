@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Aib wis ndadekake atiku rusak, lan aku ⟨dirungkeki⟩ katresnane, lan aku ngenteni sing gelem ngluhurake, nanging ora ana, lan para pangapura, nanging ora ana sing taktemoni.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "aib"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "wis ndadekake rusak"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "lan aku dirungkeki katresnane"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "lan aku ngenteni"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "sing gelem ngluhurake"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nanging ora ana"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "lan para pangapura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ana sing taktemoni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:22.392844887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Efron mangsuli ⟨את⟩ Avraham, ngendika marang panjenengane:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "lan Efron mangsuli"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang panjenengane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:21.732403651Z",
+  "model": "glm-5.3"
+}

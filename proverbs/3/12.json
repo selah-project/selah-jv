@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Sabab ⟨את⟩ sing diprecaya Yahweh ⟨iku⟩ Ditindakake terang, lan kaya rama ⟨את⟩ putra ⟨iku⟩ Dipunreni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sabab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing diprecaya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "diprecaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "Ditindakake terang"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "lan kaya rama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "putra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "Dipunreni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:10:43.596459174Z",
+  "model": "glm-5.3"
+}

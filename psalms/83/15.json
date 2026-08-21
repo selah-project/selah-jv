@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Kaya geni mbakar alas, lan kaya pradang ngobong pagunungan.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "kaya geni"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mbakar"
+    },
+    {
+      "surface": "יער",
+      "gloss": "alas"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "lan kaya pradang"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "ngobong"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "pagunungan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:57.626647259Z",
+  "model": "glm-5.3"
+}

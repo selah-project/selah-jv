@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Satembung mazmur tumrap para putra Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "satembung"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tumrap para putra"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:20.959623620Z",
+  "model": "glm-5.3"
+}

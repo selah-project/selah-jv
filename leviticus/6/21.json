@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan wadhah lempung sing basa-basa ing kono kudu dipecahake; lan yen dibasa ing wadhah tembaga, kudu digosok lan dialiri ing banyu.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "lan wadhah"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "lempung"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "basa-basa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "dipecahake"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "lan yen"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ing wadhah"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "dibasa"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "lan digosok"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "lan dialiri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ing banyu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:55.827091212Z",
+  "model": "glm-5.3"
+}

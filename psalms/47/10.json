@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 47,
+  "translation": "Para bendarané para bangsa padha kaimpun, dadi umaté Elohimé Avraham; awit marang Elohim iku para tamèning bumi; Sang Nata kaluhur sanget.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "para bendarané"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "padha kaimpun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimé"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "marang Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "para tamèning"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kaluhur"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:26.485552450Z",
+  "model": "glm-5.3"
+}

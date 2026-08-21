@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Ora kaya mangkono wong ala iku, nanging kaya sekam sing diumbulna angin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ora"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "wong ala iku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kaya sekam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "diumbulna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:15.428734425Z",
+  "model": "glm-5.3"
+}

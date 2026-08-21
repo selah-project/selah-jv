@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan metokake aku marang papan sing amba, Dinulurani awit Dheweke kersa marang aku.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Lan metokake aku"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "marang papan sing amba"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Dinulurani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Dheweke kersa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "marang aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:14.538768715Z",
+  "model": "glm-5.3"
+}

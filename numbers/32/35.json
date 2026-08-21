@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "lan ⟨את⟩ Atrot-Shofan lan ⟨את⟩ Yazer lan Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Atrot-Shofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atrot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "lan Yogbeha"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:35.715558367Z",
+  "model": "glm-5.3"
+}

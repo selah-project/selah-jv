@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Elohim ngandika marang Avraham: Sarai bojonira — aa koca ⟨את⟩ jenengé Sarai, awit Sarah jenengé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "bojonira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "koca"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenengé"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "jenengé"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "jenengé"
+    }
+  ],
+  "timestamp": "2026-08-20T22:44:02.612603255Z",
+  "model": "glm-5.3"
+}

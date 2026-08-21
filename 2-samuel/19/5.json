@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Lan sang nata nglambari ⟨את⟩ rainé, lan sang nata njerit swara gedhe: ananda, Avshalom, Avshalom, ananda, ananda!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "lan sang nata"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "nglambari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rainé"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rainé"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "lan njerit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ananda"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ananda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ananda"
+    }
+  ],
+  "timestamp": "2026-08-21T00:12:43.740246195Z",
+  "model": "glm-5.3"
+}

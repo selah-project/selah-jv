@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 98,
+  "translation": "Yahweh wis ndadekake kaluwargane kaweca; ing sangarepe masyarakat bangsa-bangsa dheweke wis mbukak kabenerane.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "wis ndadekake kaweca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "kaluwargane"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ing sangarepe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "masyarakat bangsa-bangsa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "wis mbukak"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kabenerane"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:39.752805100Z",
+  "model": "glm-5.3"
+}

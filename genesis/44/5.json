@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 44,
+  "translation": "Apa-ora iki ⟨את⟩ sing bendara kula ngombé, lan awit dheweke ndeduga ing iku? Kowe padha nglakoni ala, sing wis kowe tindak.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "apa-ora"
+    },
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ngombé"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bendara"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lan dheweke"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ndeduga"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "adeduga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ing iku"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "kowe padha nglakoni ala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "kowe tindak"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:56.196878257Z",
+  "model": "glm-5.3"
+}

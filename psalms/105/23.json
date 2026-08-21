@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Banjur Yisrael teka ing Mitsrayim, lan Yaakov nyenengi ing bumi Kham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "lan Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "nyenengi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ing bumi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:53.446259401Z",
+  "model": "glm-5.3"
+}

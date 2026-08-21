@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Gumi Yahweh! Slamatana aku, Elohim kawula! Awit Paduka wus nglilani ⟨את⟩ sedaya mungsuhku ing pipi; untune wong jahat Paduka wis remukake.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "gumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "slamatana aku"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim kawula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "wus nglilani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedaya mungsuhku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ing pipi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "untune"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wis remukake"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:52.980794740Z",
+  "model": "glm-5.3"
+}

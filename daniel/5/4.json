@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Padha ngombé anggur, lan muji marang allah-allah saka emas lan salaka, tembaga, wesi, kayu lan watu.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "padha ngombé"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "anggur"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "lan muji"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "marang allah-allah"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "saka emas"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "lan salaka"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "wesi"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "kayu"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "lan watu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:58:17.123273297Z",
+  "model": "glm-5.3"
+}

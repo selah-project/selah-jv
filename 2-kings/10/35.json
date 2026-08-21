@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Banjur Yehu saré karo bapak-bapaké, lan dhèwèké nguburake ⟨את⟩ awaké ing Samaria; lan Yehoahas anaké dadi ratu genti dhèwèké.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "saré"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bapak-bapaké"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "lan dhèwèké nguburake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "awaké"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ing Samaria"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "dadi ratu"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "genti dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-21T00:26:40.449068355Z",
+  "model": "glm-5.3"
+}

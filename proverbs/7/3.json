@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Ikatana ing driji-drijimu, tulisana ing prating penggalihmu.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Ikatana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "driji-drijimu"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "tulisana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "prating"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "penggalihmu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:25.855659071Z",
+  "model": "glm-5.3"
+}

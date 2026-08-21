@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 68,
+  "translation": "Temèn Elohim bakal ngejeg kapolahan saka mungsuh-mungsuhe, tumatane sirah sing wulu, kang padha mlaku ing kaluputane.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "temèn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "bakal ngejeg"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "mungsuh-mungsuhe"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "tumat sirah"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sing wulu"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "kang padha mlaku"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "ing kaluputane"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:19.965993180Z",
+  "model": "glm-5.3"
+}

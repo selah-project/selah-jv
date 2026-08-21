@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Wong tulus bungah awit nyawang ⟨את⟩ piwales; ⟨the⟩ langkané diumbah ing getih wong cidra.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wong tulus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "nyawang"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "piwales"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "langkané"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "diumbah"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ing getih"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "wong cidra"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:31.436543385Z",
+  "model": "glm-5.3"
+}

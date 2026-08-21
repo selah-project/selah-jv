@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan kowe pasang ⟨את⟩ iku ing sangisore kerang-kerang altar mudhun, lan jaring iku nganti tekan satengahing altar.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "lan kowe pasang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "iku (jaring sangisore altar)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisore"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "kerang-kerang"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨the⟩ altar"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "mudhun"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "jaring iku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "satengahing"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨the⟩ altar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:03:59.679235681Z",
+  "model": "glm-5.3"
+}

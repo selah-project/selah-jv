@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Amarga saka iki pasekna klambi karung, nangisa lan nangis nguruwungi, awit siriking muksa Yahweh durung malih saka kita.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Amarga saka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "pasekna"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "klambi karung"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "nangisa"
+    },
+    {
+      "surface": "והילילו",
+      "gloss": "lan nangis nguruwungi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "durung"
+    },
+    {
+      "surface": "שב",
+      "gloss": "malih"
+    },
+    {
+      "surface": "חרופ אף -> חרון אף",
+      "gloss": "siriking muksa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "muksa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka kita"
+    }
+  ],
+  "timestamp": "2026-08-21T00:50:27.488822833Z",
+  "model": "glm-5.3"
+}

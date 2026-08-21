@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Banjur Panjenengane bakal ngandika marang wong-wong mau ing nesune, lan ing murkane Panjenengane bakal nggumunake dheweke.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "banjur"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "marang wong-wong mau"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ing nesune"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "lan ing murkane"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "nggumunake dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:45.087795675Z",
+  "model": "glm-5.3"
+}

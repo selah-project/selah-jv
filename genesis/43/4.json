@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Yèn ⟨kowe⟩ kersa ngutus ⟨את⟩ kangmas kita ⟨karo⟩ kita, kita bakal mudhun lan tuku ⟨את⟩ panganan kanggo ⟨kowe⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Yèn"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "kersa"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ngutus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kangmas kita"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "kangmas kita"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ karo kita"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "kita bakal mudhun"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "lan tuku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo kowe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "panganan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:43.627402292Z",
+  "model": "glm-5.3"
+}

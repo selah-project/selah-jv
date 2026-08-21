@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lah saben wong padha lungguh ing sangisoring angguré lan ing sangisoring wit aréné, lan ora ana sing ndadèkaké giris; awit cangkemé Yahweh Tzevaot wus ngandika.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "padha lungguh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "saben wong"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ing sangisoring"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "anggure"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "lan ing sangisoring"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "wit arene"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "sing ndadèkake giris"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkeme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wus ngandika"
+    }
+  ],
+  "timestamp": "2026-08-21T01:32:43.370339095Z",
+  "model": "glm-5.3"
+}

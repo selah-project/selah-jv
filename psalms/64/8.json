@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 64,
+  "translation": "Nanging Elohim manah ⟨את⟩ dheweke panah, dumadakan; banjur dadi tatu-tatune.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "nanging (Elohim) manah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "panah"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "dumadakan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "tatu-tatune"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:11.540204591Z",
+  "model": "glm-5.3"
+}

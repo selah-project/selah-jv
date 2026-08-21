@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan wadyabala-ne, lan para kang kadhatani, pitung puluh papat èwu lan enem atus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Lan wadyabala-ne"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "lan para kang kadhatani"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "papat"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "lan pitung puluh"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "èwu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan enem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "atus"
+    }
+  ],
+  "timestamp": "2026-08-20T23:18:41.071971880Z",
+  "model": "glm-5.3"
+}

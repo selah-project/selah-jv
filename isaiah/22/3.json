@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Sedaya pangéranmu padha ngluput bareng, saka panah padha dikendhani; sedaya sing tinemu ing kowé padha dikendhani bareng, saka adoh padha ngeleh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "pangéranmu"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "padha ngluput"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "saka panah"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "padha dikendhani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "sing tinemu ing kowé"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "padha dikendhani"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "saka adoh"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "padha ngeleh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:36:48.992935622Z",
+  "model": "glm-5.3"
+}

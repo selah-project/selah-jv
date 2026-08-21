@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Sugengana, jiwané aku, marang ⟨את⟩ Yahweh, lan aja lali kabèh papiné kang mranani.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Sugengana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jiwané aku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "lali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "papiné kang mranani"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:34.117470743Z",
+  "model": "glm-5.3"
+}

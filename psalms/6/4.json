@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan nyawaku kagumedheg bener-bener; lan ⟨sira⟩, Yahweh, nganti tekan kapan?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "lan nyawaku"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "kagumedheg"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "bener-bener"
+    },
+    {
+      "surface": "ו",
+      "gloss": "lan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨sira⟩",
+      "marks": "Yahweh — dudu panandha Aleppo-Tav ing kene nanging tumblewanghe ואתה (sira)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti tekan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:09.538798378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Saka prékatmu aku byawara, mulane aku sengit saben dalan goroh.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "saka prékatmu"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "aku byawara"
+    },
+    {
+      "surface": "על",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(ana ing 'mulane')"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "aku sengit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:48.943839884Z",
+  "model": "glm-5.3"
+}

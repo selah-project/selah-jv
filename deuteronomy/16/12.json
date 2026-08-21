@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Lan kowé bakal éling yèn kowé ⟨iku⟩ abdi ing Mitsrayim, lan kowé bakal ngati-ati lan nindakaké ⟨את⟩ angger-angger iki.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "lan kowé éling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "abdi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "kowé ⟨iku⟩"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ing Mitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "lan kowé ngati-ati"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "lan nindakaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "angger-angger iki"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "angger-angger"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:34:30.608969982Z",
+  "model": "glm-5.3"
+}

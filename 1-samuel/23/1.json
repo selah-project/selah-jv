@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Banjur ana sing ngandhakake marang Dawid, mangkene: PunikaPelishtim iku perang nglawan Keila, lan dheweke njarah rayah ⟨את⟩ lantai-lantai panggilingan.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "banjur ana sing ngandhakake"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "marang Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mangkene"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "punika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "nglawan Keila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "lan dheweke"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "njarah rayah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lantai-lantai panggilingan"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "lantai-lantai panggilingan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:02:57.434983601Z",
+  "model": "glm-5.3"
+}

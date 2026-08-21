@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 49,
+  "translation": "Supaya ⟨ia⟩ tansah urip salawasé, lan ora ndeleng ⟨את⟩ lobang pati.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "supaya urip"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tansah"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawasé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ndeleng"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "lobang pati"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:15.666203024Z",
+  "model": "glm-5.3"
+}

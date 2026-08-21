@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan aja najisake ⟨את⟩ perkara kudhus para putra Yisrael, ⟨את⟩ sing diunggahake kanggo Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Lan aja"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "najisake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "perkara kudhus para putra Yisrael"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "perkara kudhus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing diunggahake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "diunggahake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:15:35.832876832Z",
+  "model": "glm-5.3"
+}

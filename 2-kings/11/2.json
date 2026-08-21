@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 11:2",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Banjur Yehosheba, putrine raja Yoram, adhine Ahaziahu, njupuk ⟨את⟩ Yowas, putrane Ahaziahu, lan nyolong ⟨את⟩ dheweke saka tengah-tengahe para putra raja sing lagi dipateni — ⟨את⟩ dheweke lan ⟨את⟩ inenge — ing bilihan pasarean, lan ndhelikake ⟨את⟩ dheweke saka praene Atalya, mulane dheweke ora dipateni.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "njupuk"
+    },
+    {
+      "surface": "יהושבע",
+      "gloss": "Yehosheba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "putrine"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "adhine"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yowas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yowas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ahazia"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "nyolong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "saka tengah para putra raja"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "saka tengah-tengahe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "para putra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "הממותתים",
+      "gloss": "sing lagi dipateni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "inenge"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "inenge"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "ing bilihan"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "pasarean"
+    },
+    {
+      "surface": "ויסתרו",
+      "gloss": "ndhelikake"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "saka praene Atalya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "saka praene"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "הומת",
+      "gloss": "dipateni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:27:00.656068206Z",
+  "model": "glm-5.3"
+}

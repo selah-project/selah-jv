@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur para sesepuh betahé tangi ngadeg ing sanébéké, supaya ngadegaké saka bumi, nanging ora kasida, lan ora mangan roti ⟨את⟩ para sesepuh mau.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "banjur tangi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuh"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "betahé"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ing sanébéké"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "kanggo ngadegaké"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nanging ora"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "kasida"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "mangan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "para sesepuh mau"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    }
+  ],
+  "timestamp": "2026-08-21T00:08:51.118565204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Amarga panjenengane ora eling nindakake kabecikan, nanging ngoyak wong mlarat lan kang kasusahan, lan wong kang atine remuk, supaya dipateni.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "eling"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kabecikan"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "nanging ngoyak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mlarat"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "lan kang kasusahan"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "lan kang"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "atine remuk"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "supaya dipateni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:04:00.338841239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Mrlu ⟨את⟩ aku saka Lebanon, pengantenku; ⟨את⟩ aku saka Lebanon enggal teka; sira ndelenga saka pucuking Amanah, saka pucuking Shenir lan Hermon, saka pageraning singa, saka gununge macan tutul.",
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "mrlu ⟨את⟩ aku saka Lebanon"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "saka Lebanon"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pengantenku"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aku",
+      "marks": "⟨את⟩ aku saka Lebanon enggal teka"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "saka Lebanon"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "enggal teka"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "sira ndelenga"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "saka pucuking"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Amanah"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "saka pucuking"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Shenir"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "lan Hermon"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "saka pageraning"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "singa"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "saka gununge"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "macan tutul"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:58.896481125Z",
+  "model": "glm-5.3"
+}

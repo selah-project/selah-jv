@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Sing miler mata ngedalaken susah, lan si bodho lambe-lambe bakal tiba.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "Sing miler"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ngedalaken"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "susah"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "lan si bodho"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lambe-lambe"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "bakal tiba"
+    }
+  ],
+  "timestamp": "2026-08-21T02:12:53.272626737Z",
+  "model": "glm-5.3"
+}

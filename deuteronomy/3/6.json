@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur kita numpes ⟨את⟩ wong-wong mau, kaya sing wis kita lakoni marang Sihon raja ing Cheshbon: kita tumpes sarèhing kutha, wong lanang, wadon lan bocah-bocah.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "banjur kita numpes"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "kita lakoni"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "marang Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ing Cheshbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "kita tumpes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sarèhing"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "wadon"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "lan bocah-bocah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:30:48.351919937Z",
+  "model": "glm-5.3"
+}

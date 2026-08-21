@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Lan Dawid ngandika marang Shaul: Kenapa kok ngrungokaké ⟨את⟩ temungé manungsa, sing ngendika: Dhuh, Dawid golèk cilakamu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan-ngandika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "marang-Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kenapa"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ngrungokaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temungé manungsa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "temungé"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sing-ngendika"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Dhuh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "golèk"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "cilakamu"
+    }
+  ],
+  "timestamp": "2026-08-21T00:03:23.848842413Z",
+  "model": "glm-5.3"
+}

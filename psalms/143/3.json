@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 143,
+  "translation": "Awit mungsuh iku ngoyak nyawaku; ngruntuhake nganti bumi uripku; ndadekake aku manggon ing pepeteng, kaya wong-wong mati kina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ngoyak"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mungsuh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "ngruntuhake"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "nganti bumi"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "uripku"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ndadekake aku manggon"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ing pepeteng"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "kaya wong-wong mati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kina"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:48.979440089Z",
+  "model": "glm-5.3"
+}

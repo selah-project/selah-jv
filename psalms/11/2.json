@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Sebab lah, wong-wong ala padha nuwun busure, padha nyepakake panahé ana ing senaré, supaya nembak ana ing peteng marang wong-wong jujur atiné.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "padha nuwun"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "busure"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "padha nyepakake"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "panahé"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "senaré"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "supaya nembak"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ana ing"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "peteng"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "marang wong-wong jujur"
+    },
+    {
+      "surface": "לב",
+      "gloss": "atiné"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:32.710759831Z",
+  "model": "glm-5.3"
+}

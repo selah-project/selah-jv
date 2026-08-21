@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Ana kutha cilik, lan manungsa ing jroné sethithik; banjur ana ratu gedhé teka marang kutha iku, ngubengi ⟨את⟩ kutha iku, lan yasa nglawané béntèng pangubeng kang gedhé-gedhé.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "cilik"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "lan manungsa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing jroné"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "sethithik"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "banjur teka"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "marang kutha iku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhé"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ngubengi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kutha iku"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "lan yasa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nglawané"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "béntèng pangubeng"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gedhé-gedhé"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:23.227742683Z",
+  "model": "glm-5.3"
+}

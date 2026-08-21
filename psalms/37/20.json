@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Sebab wong-wong ala bakal tumpes, lan mungsuh-mungsuhé Yahweh kaya lemaké wédhus kambing — entek, dadi angin kaya kukus, entek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong ala"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "tumpes"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "lan mungsuh-mungsuhé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "kaya lemaké"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "wédhus kambing"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "entek"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "dadi angin kaya kukus"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "entek"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:48.723748316Z",
+  "model": "glm-5.3"
+}

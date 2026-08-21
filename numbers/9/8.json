@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Moshe ngandika marang dheweke-dhewe: Mangga ngadegna, kula badhe ngrungokake punapa ingkang diprentahaken Yahweh dhumateng panjenengan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang dheweke-dhewe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ngadegna"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "lan kula badhe ngrungokake"
+    },
+    {
+      "surface": "מה",
+      "gloss": "punapa"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "diprentahaken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "dhumateng panjenengan"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:49.957911679Z",
+  "model": "glm-5.3"
+}

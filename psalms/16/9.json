@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Mulane atiku bungah, lan kamulyanku kegandrungan; dagingku uga sumangere kanthi tentrem.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "lan kegandrungan"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kamulyanku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "uga"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "dagingku"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "sumangere"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "kanthi tentrem"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:24.387688831Z",
+  "model": "glm-5.3"
+}

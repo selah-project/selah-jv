@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Lan Yosef ndeleng ⟨את⟩ sadulure, lan nganggep mangerteni ⟨את⟩ dheweke, nanging dheweke ndadekake awake kaya wong liya ing para sadulure, lan ngendika marang ⟨את⟩ dheweke nganggo tembung kang korak-kerik, lan kondha marang ⟨את⟩ para sadulure: 'Saka endi kowe teka?' Lan padha matur: 'Saka bumi Kenaan, tuku pangan.'",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Lan ndeleng"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sadulure"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulure"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "lan nganggep mangerteni dheweke"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "nanging dheweke ndadekake awake kaya wong liya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ing para sadulure"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "lan ngendika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "marang ⟨את⟩ dheweke"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "nganggo tembung kang korak-kerik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan kondha"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "marang para sadulure"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "saka endi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kowe teka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Lan padha matur"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "saka bumi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "tuku"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pangan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:30.519537239Z",
+  "model": "glm-5.3"
+}

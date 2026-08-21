@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan sawise ◄ia► Elon wong Zevulun iku ngadhili ⟨את⟩ Yisrael; lan ◄ia► ngadhili ⟨את⟩ Yisrael sedasa taun.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Lan ◄ia► ngadhili"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sawise ◄ia►"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "wong Zevulun iku"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "lan ◄ia► ngadhili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sedasa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    }
+  ],
+  "timestamp": "2026-08-20T23:52:24.215334211Z",
+  "model": "glm-5.3"
+}

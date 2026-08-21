@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "supaya bumi iku ora mongodbokake metu ⟨את⟩ sira nalika sira najisake ⟨את⟩ iku, kaya déné mongodbokake ⟨את⟩ bangsa kang ana ing ngarsanira.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "supaya ora"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "mongodbokake metu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi iku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "nalika sira najisake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ iku",
+      "marks": "iku (bumi)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya déné"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "mongodbokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangsa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ana ing ngarsanira"
+    }
+  ],
+  "timestamp": "2026-08-20T23:13:55.269088392Z",
+  "model": "glm-5.3"
+}

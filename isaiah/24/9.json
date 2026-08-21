@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 24,
+  "translation": "Ing tembang ⟨ing⟩ ora ana sing ngombé arak; pait samsu kanggo sing ngombé.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ing tembang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ana sing ngombé"
+    },
+    {
+      "surface": "יין",
+      "gloss": "arak"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "pait"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "samsu"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "kanggo sing ngombé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:09.922429793Z",
+  "model": "glm-5.3"
+}

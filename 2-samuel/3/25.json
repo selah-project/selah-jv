@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Kowé ngerti ⟨את⟩ Avner bin Ner, yen dheweke teka supaya ngapusi kowé, lan supaya weruh ⟨את⟩ metuné kowé lan ⟨את⟩ mlebuné kowé, lan supaya weruh ⟨את⟩ kabèh sing kowé lakoni.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ngapusi kowé"
+    },
+    {
+      "surface": "בא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "lan supaya weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metuné kowé"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "metuné kowé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mlebuné kowé"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "mlebuné kowé"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "lan supaya weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabèh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowé"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lakoni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:06:32.951699612Z",
+  "model": "glm-5.3"
+}

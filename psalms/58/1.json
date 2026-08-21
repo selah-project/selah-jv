@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 58,
+  "translation": "Kanggo pangunggul; 'Aja diajurake'; gita kagungane Daud; miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kanggo pangunggul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "diajurake"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kagungane Daud"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:51.735732809Z",
+  "model": "glm-5.3"
+}

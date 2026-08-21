@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Iki sagara, gedhe lan jembar ragané; ing kono krep-kerepan tanpa etungan, makluk urip cilik karo gedhe.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sagara"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "lan jembar"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ragané"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "krep-kerepan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tanpa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "etungan"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "makluk urip"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "cilik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "gedhe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:31.618961630Z",
+  "model": "glm-5.3"
+}

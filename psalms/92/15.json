@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 92,
+  "translation": "Isih mbangun woho ing jaman sepuh, kendho lan ijem ngembul ⟨isih⟩.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "isih"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "mbangun woh"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ing jaman sepuh"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "kendho (lemak\/subur)"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "lan ijem ngembul"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨isih⟩ dadi"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:12.364237345Z",
+  "model": "glm-5.3"
+}

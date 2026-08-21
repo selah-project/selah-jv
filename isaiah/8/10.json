@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Padha musyawarahna pepethitan, lan ⟨bakal⟩ diruntuhake; padha wujudna tembung, lan ora bakal ngadeg, amarga bareng kita ⟨is⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "padha musyawarahna"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "pepethitan"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "lan diruntuhake"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "padha wujudna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "bakal ngadeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "bareng kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-21T00:33:26.723645259Z",
+  "model": "glm-5.3"
+}

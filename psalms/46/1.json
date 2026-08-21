@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 46,
+  "translation": "Kanggo pangunjuk, kanggo anak-anake Korach, miturut swara Alamot, tembang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangunjuk"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kanggo anak-anake"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "miturut"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "swara Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:03.350301488Z",
+  "model": "glm-5.3"
+}

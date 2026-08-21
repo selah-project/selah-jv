@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 73,
+  "translation": "Padha ngejek lan ngucap ala bab katulangan, saka panggonan dhuwur dheweke ngendika.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "padha ngejek"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "lan ngucap"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "katulangan"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "saka panggonan dhuwur"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "dheweke ngendika"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:53.664213431Z",
+  "model": "glm-5.3"
+}

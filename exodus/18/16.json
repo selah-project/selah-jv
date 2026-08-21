@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "awit nalika ana prakara tumeka marang aku, aku ngadili antarané wong siji lan kanca-ncané, lan kupèngetaké ⟨את⟩ parentahé Elohim lan ⟨את⟩ torah-é.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "wong-wong mau"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "prakara"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tumeka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "aku ngadili"
+    },
+    {
+      "surface": "בין",
+      "gloss": "antarané"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong siji"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "lan antarané"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "kanca-ncané"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "lan kupèngetaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parentahé"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "parentahé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "torah-é"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "torah-é"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:42.232649906Z",
+  "model": "glm-5.3"
+}

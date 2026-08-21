@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Pinuji Kowé, Yahweh; ajarana aku ing ukum-ukum-Mu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Pinuji"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ajarana aku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ing ukum-ukum-Mu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:22.881696914Z",
+  "model": "glm-5.3"
+}

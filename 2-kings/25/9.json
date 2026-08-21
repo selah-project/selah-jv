@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan dheg-nala ⟨את⟩ bale Yahweh lan ⟨את⟩ bale sang nata, lan ⟨את⟩ sakabehing bale-bale Yerushalayim, lan ⟨את⟩ saben bale gedhe dibakar geni.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "dheg-nala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bale Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bale sang nata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang nata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabehing bale-bale Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "bale-bale"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "saben bale gedhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bale"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "gedhe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "dibakar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "geni"
+    }
+  ],
+  "timestamp": "2026-08-21T00:31:28.866537522Z",
+  "model": "glm-5.3"
+}

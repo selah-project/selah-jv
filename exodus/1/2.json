@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Reuven, Shimeon, Lewi, lan Yehudah.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "lan Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:37.093318427Z",
+  "model": "glm-5.3"
+}

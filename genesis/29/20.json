@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Lan Yaakov ngabdi pitu taun gumantine Rahel; suwene mung kaya sawetara dina baé ing paningalane, amarga tresnane marang ⟨את⟩-ipun.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "lan ngabdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "gumantine Rahel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi\/kadadéan"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ing paningalane"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "kaya dina-dina"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "sawetara\/sithik"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "amarga tresnane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (Rahel)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:47:34.568165139Z",
+  "model": "glm-5.3"
+}

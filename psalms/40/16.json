@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 40,
+  "translation": "Padha bubrah amarga saka dhasar isine, para sing ngomong marang aku: Hah, hah!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "padha bubrah"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga saka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "dhasar"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "isine"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "para sing ngomong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hah"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:10.793735956Z",
+  "model": "glm-5.3"
+}

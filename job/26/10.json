@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Wates digambar bunder ing rai banyu, nganti watesing cahya karo peteng.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "wates"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ngambar bunder"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rai"
+    },
+    {
+      "surface": "מני → פני",
+      "gloss": ""
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "watesing"
+    },
+    {
+      "surface": "אור",
+      "gloss": "cahya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "karo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "peteng"
+    }
+  ],
+  "timestamp": "2026-08-21T02:30:00.822254835Z",
+  "model": "glm-5.3"
+}

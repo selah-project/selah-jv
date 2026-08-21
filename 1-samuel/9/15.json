@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan Yahweh wus nglapurake ⟨את⟩ kupinge Shemuel sedina sadurunge Shaul teka, ngendika:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Lan Yahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "wus nglapurake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kupinge Shemuel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    }
+  ],
+  "timestamp": "2026-08-20T23:58:55.248685215Z",
+  "model": "glm-5.3"
+}

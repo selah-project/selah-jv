@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Elohim ngandika marang Avraham: Dene sira kudu nguri-uri ⟨את⟩ prajanjian-Ku, sira lan wiji-wijimu sawise sira, tumut ing sagung turune.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "dene sira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prajanjian-Ku"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "prajanjian-Ku"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "kudu nguri-uri"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sira"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "lan wiji-wijimu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sawise sira"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "tumut ing sagung turune"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:31.540158656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 139,
+  "translation": "Awit ora ana tembung ing ilatku — lah, Yahweh, sampun Paduka kantoi kabeh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "tembung"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ing ilatku"
+    },
+    {
+      "surface": "הן",
+      "gloss": "lah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sampun Paduka kantoi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kabeh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:08:03.912668115Z",
+  "model": "glm-5.3"
+}

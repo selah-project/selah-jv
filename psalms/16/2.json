@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Aku matur marang Yahweh: Adonai, Paduka ⟨iku⟩; kabecikanku ora ana saliyane Paduka.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "aku matur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Paduka"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "kabecikanku"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "saliyane Paduka"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:11.002147443Z",
+  "model": "glm-5.3"
+}

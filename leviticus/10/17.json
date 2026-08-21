@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 10:17",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Ya apa kok kowé padha ora mangan ⟨את⟩ kurban dosa ing papan sing suci, awit ⟨iku⟩ suci-sucine, lan ⟨את⟩ iku dianakake marang kowé kanggo ngambali ⟨את⟩ dosané pasamuwan, supaya ndadèkaké pangapura marang kabèh ana ing ngarsané Yahweh?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ya apa kok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "kowé padha mangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurban dosa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kurban dosa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ing papan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sing suci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "suci"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "suci-sucine"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "lan ⟨את⟩",
+      "marks": "iku"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dianakake"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "kanggo ngambali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dosané pasamuwan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dosa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "supaya ndadèkaké pangapura"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "marang kabèh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ana ing ngarsané"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:12:05.508101373Z",
+  "model": "glm-5.3"
+}

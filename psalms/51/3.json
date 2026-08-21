@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 51,
+  "translation": "Ndadekna asihi aku, Elohim, miturut budi luhuring kabecikanmu, miturut kaluwihaning panglipurmu pungkasi kaluputanku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ndadekna asihi aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "miturut budi luhuring kabecikanmu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "miturut kaluwihaning"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "panglipurmu"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pungkasi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "kaluputanku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:50:45.224433100Z",
+  "model": "glm-5.3"
+}

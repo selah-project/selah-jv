@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Sebab aku wis dadi kaya wadhah anggur ing kluwung; ⟨ ora ⟩ angger-anggerMu dak-lali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aku wis dadi"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "kaya wadhah anggur"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "ing kluwung"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "angger-anggerMu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "dak-lali"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:59.278964042Z",
+  "model": "glm-5.3"
+}

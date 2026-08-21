@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan sadulure lunga ngorong ⟨את⟩ wedhus-wedhus bapake ing Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sadulure"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "nanginggo ngorong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wedhus-wedhus bapake"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wedhus-wedhus"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "bapake"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ing Shekhem"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:58.482581648Z",
+  "model": "glm-5.3"
+}

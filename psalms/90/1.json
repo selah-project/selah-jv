@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Tuntunan pandonga mungguh ing Moshe, jalmi ing Elohim. Adonai, panggonan manggon — Kowé wis dadi ⟨panggonan⟩ kita, ing tumangga lan tumangga.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "tuntunan pandonga"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "mungguh ing Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jalmi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ing Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "panggonan manggon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wis dadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo kita"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "ing tumangga"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "lan tumangga"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:36.265076609Z",
+  "model": "glm-5.3"
+}

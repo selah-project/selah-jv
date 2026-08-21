@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lah Yahweh ngandika marang Moshe: Tulisa iki dadi pangeling-ing buku, lan tanggelna ing kupinge Yehosyua, sebab Aku bakal ngestrehake ⟨את⟩ pangeling-e Amalek saka sangisore langit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Tulisa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "dadi pangeling"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ing buku"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "lan tanggelna"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ing kupinge"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehosyua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ngestrehake"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Aku bakal ngestrehake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangeling-e"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pangeling-e"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "saka sangisore"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    }
+  ],
+  "timestamp": "2026-08-20T23:01:03.143302175Z",
+  "model": "glm-5.3"
+}

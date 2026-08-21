@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan Dawid iku wektu iku ana ing bèntèng, lan pos wong Filisti wektu iku ana ing Bètlehem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "lan Dawid"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wektu iku"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "ing bèntèng"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "lan pos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Filisti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wektu iku"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing Bèt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    }
+  ],
+  "timestamp": "2026-08-21T03:20:51.338793551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Senga aku, lan aku bakal mraya panjenengan, lan aku bakal wedharaké marang panjenengan samubarang sing agung lan sing kakundan, sing durung panjenengan weruh.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "lan aku bakal mraya panjenengan"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "lan aku bakal wedharaké"
+    },
+    {
+      "surface": "לך",
+      "gloss": "marang panjenengan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "sing agung"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "lan sing kakundan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "panjenengan weruh"
+    }
+  ],
+  "timestamp": "2026-08-21T00:59:55.874999879Z",
+  "model": "glm-5.3"
+}

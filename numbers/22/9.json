@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan Elohim teka marang Bilam, banjur ngandika: Sapa wong-wong iki sing ana ing ngarepmu?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ing ngarepmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:26.980957060Z",
+  "model": "glm-5.3"
+}

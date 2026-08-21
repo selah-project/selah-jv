@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Swara Yahweh ⟨is⟩ ing sadhuwuring banyu-banyu; El kabegjan nggludhug; Yahweh ⟨is⟩ ing sadhuwuring banyu sing akeh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Swara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu-banyu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kabegjan"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "nggludhug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "מים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sing akeh"
+    }
+  ],
+  "timestamp": "2026-08-21T01:45:55.726824143Z",
+  "model": "glm-5.3"
+}

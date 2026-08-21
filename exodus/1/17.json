@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Para paraji wedhok wedi marang ⟨את⟩ Elohim, lan ora nindakake kaya dene sing dicakake marang wong wedhok kuwi raja ngungkuli Misthrai, lan wong wedhok kuwi nguripake ⟨את⟩ para bayi lanang.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "para paraji wedhok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaya dene"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dicakake"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "marang wong wedhok kuwi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misthrai"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "lan nguripake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para bayi lanang"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "para bayi lanang"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:28.242472767Z",
+  "model": "glm-5.3"
+}

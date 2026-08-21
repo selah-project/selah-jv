@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 10:36",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan nalika ⟨Peti⟩ sumedhi, ⟨Moshe⟩ ngucap: Mulia, Yahweh, marang wolung-ewu ewu ewuning Yisrael.",
+  "tokens": [
+    {
+      "surface": "ובנחה",
+      "gloss": "Lan nalika sumedhi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Mulia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רבבות",
+      "gloss": "wolung-ewu ewu"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ewuning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-20T23:21:10.333337517Z",
+  "model": "glm-5.3"
+}

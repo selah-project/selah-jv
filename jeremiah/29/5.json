@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 29,
+  "translation": "Padha yasa ⟨the⟩ omah lan padha manggoni, lan padha tandur ⟨the⟩ kebon, lan padha madhang ⟨את⟩ pawohé.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "padha yasa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "omah"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "lan padha manggoni"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "lan padha tandur"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "kebon"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "lan padha madhang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pawohé"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "pawohé"
+    }
+  ],
+  "timestamp": "2026-08-21T00:58:15.838275386Z",
+  "model": "glm-5.3"
+}

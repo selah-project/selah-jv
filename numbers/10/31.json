@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan ia ngandika: mugi kowé aja ⟨את⟩ ninggalake aku, awit amargi iku kowé weruh papan kémah kita ing ara-ara, lan kowé bakal dadi minangka mripat kanggo aku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Lan ia ngandika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mugi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ninggalake"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ aku",
+      "marks": "aku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "על",
+      "gloss": "amargi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kowé weruh"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "papan kémah kita"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "lan kowé bakal dadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "minangka mripat"
+    }
+  ],
+  "timestamp": "2026-08-21T03:54:54.689600229Z",
+  "model": "glm-5.3"
+}

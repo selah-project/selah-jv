@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Déné uga nalika wong bodho lumaku ana ing dalan, atiné kurang, lan ⟨ia⟩ ngandhakake marang sabaré yèn ⟨ia⟩ bodho.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "déné uga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ana ing dalan"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "nalika wong bodho"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "atiné"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kurang"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan ngandhakake"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "marang sabaré"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "bodho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ia"
+    }
+  ],
+  "timestamp": "2026-08-21T02:48:39.151662657Z",
+  "model": "glm-5.3"
+}

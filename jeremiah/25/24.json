@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Lan ⟨את⟩ kabeh ratu-ratu Arab, lan ⟨את⟩ kabeh ratu-ratu wong campur-campur sing padha manggon ing ara-ara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabeh ratu-ratu Arab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ratu-ratu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kabeh ratu-ratu wong campur-campur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ratu-ratu"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "wong campur-campur"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "sing padha manggon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ing ara-ara"
+    }
+  ],
+  "timestamp": "2026-08-21T00:56:22.711357444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 118,
+  "translation": "Swara suka-suka lan pitulungan ana ing khemah-khemahing para bener: tangan tengen Yahweh nindakake kabrakasan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "swara"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "suka-suka"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "lan pitulungan"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ana ing khemah-khemahing"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "para bener"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tangan tengen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nindakake"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kabrakasan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:03.869868730Z",
+  "model": "glm-5.3"
+}

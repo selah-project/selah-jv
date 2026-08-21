@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 66,
+  "translation": "Bungaha ⟨את⟩ Yerushalayim, lan bungaha ing kono, kabeh sing nresnani dheweke; padha seneng-seneng ⟨את⟩ karo dheweke kagembiraan, kabeh sing nangis amarga dheweke.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "bungaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "lan bungaha"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "sing nresnani dheweke"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "padha seneng-seneng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ karo dheweke"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kagembiraan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "sing nangis"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "amarga dheweke"
+    }
+  ],
+  "timestamp": "2026-08-21T00:48:20.560981017Z",
+  "model": "glm-5.3"
+}

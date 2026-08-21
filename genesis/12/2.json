@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Lan Dak-gawé sira dadi bangsa agung, sira Kaudhusuhani, lan asma-mu Dak-agungaké; dadi dhamu kaberkahan.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "lan Dak-gawé sira"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "dadi bangsa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "agung"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "sira Kaudhusuhani"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "Dak-agungaké"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "asma-mu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "dhamu kaberkahan"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:17.332301910Z",
+  "model": "glm-5.3"
+}

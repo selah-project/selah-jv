@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Lan sira kudu maréntahake ⟨את⟩ bani Israél supaya padha nggawa marang sira lenga zaitun resik tumbuk, kanggo lampu, kanggo nguripake lampu iku tansah.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lan sira"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "kudu maréntahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bani Israél"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "supaya padha nggawa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "marang sira"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaitun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "resik"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "tumbuk"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "kanggo lampu"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "kanggo nguripake"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampu iku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    }
+  ],
+  "timestamp": "2026-08-21T03:52:15.325900285Z",
+  "model": "glm-5.3"
+}

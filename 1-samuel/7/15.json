@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan Syemuel ngadili ⟨את⟩ Yisrael sadaya dina-dina uripe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "lan ngadili"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Syemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadaya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dina-dina"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "uripe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:26.228432831Z",
+  "model": "glm-5.3"
+}

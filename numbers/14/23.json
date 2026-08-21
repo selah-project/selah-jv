@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 14,
+  "translation": "yèn wong-wong iku ndeleng ⟨את⟩ bumi kang Kaweksèkake marang leluhuré, lan kabeh kang padha ngrèmèhaké Aku ora bakal padha ndeleng iku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yèn"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Kaweksèkake"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "marang leluhuré"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "kang padha ngrèmèhaké Aku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "bakal padha ndeleng iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:22:53.587200914Z",
+  "model": "glm-5.3"
+}

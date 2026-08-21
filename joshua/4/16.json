@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Parentaha para imam sing angkat peti pasaksian, supaya padha munggah saka Kali Yarden.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "parentaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "para imam"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "sing angkat"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "peti"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "pasaksian"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "supaya padha munggah"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Kali Yarden"
+    }
+  ],
+  "timestamp": "2026-08-20T23:41:20.329553971Z",
+  "model": "glm-5.3"
+}

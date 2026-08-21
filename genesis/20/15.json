@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lan Avimelekh munjuk: Lah, bumi iki ana ing ngarsanira; ing endi sing endah ing paningalira, manggonana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lah"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "bumiku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsanira"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sing endah"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ing paningalira"
+    },
+    {
+      "surface": "שב",
+      "gloss": "manggonana"
+    }
+  ],
+  "timestamp": "2026-08-20T22:45:16.018935341Z",
+  "model": "glm-5.3"
+}

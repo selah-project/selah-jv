@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Kaj li iris, kaj leono trovis lin sur la vojo, kaj mortigis lin; kaj lia kadavraĵo ĵetiĝis sur la vojo, kaj la azeno staris apud ĝi, kaj la leono staris apud la kadavraĵo",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "kaj li iris"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "kaj trovis lin"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leono"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur la vojo"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "kaj mortigis lin"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kaj estiĝis"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "lia kadavraĵo"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "ĵetita"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sur la vojo"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "kaj la azeno"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staris"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "apud ĝi"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "kaj la leono"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staris"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "apud"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "la kadavraĵo"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:30.015682162Z",
+  "model": "glm-5.3"
+}

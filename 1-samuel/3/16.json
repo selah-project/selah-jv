@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Banjur Eli nyeluk ⟨את⟩ Shemuël lan munjuk: Shemuël, anakku. Lan dheweke munjuk: Kula mriki.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur nyeluk"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anakku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munjuk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kula mriki"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:06.205019476Z",
+  "model": "glm-5.3"
+}

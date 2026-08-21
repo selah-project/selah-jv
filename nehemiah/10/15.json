@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Panggedhe ⟨saka⟩ bangsa: Parosh, Pakhat-Moab, Elam, Zattu, Bani —",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "panggedhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pakhat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Zattu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    }
+  ],
+  "timestamp": "2026-08-21T03:13:38.473870634Z",
+  "model": "glm-5.3"
+}

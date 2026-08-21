@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Aku nyembah ⟨את⟩ Yahweh sing wus mènèhi pitutur marang aku; ya, wengi-wengi ginjalku mulang aku.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "aku nyembah\/ndedonga kahyangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "wus mènèhi pitutur marang aku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "wengi-wengi"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "mulang\/ngréncani aku"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ginjalku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:52.609308302Z",
+  "model": "glm-5.3"
+}

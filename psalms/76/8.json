@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 76,
+  "translation": "Kowé, sing nggirisi, Kowé; lan sapa bisa ngadeg ing ngarsa-Mu nalika Mu nesu?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "sing nggirisi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "lan sapa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bisa ngadeg"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsa-Mu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "Mu nesu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:55:38.680971042Z",
+  "model": "glm-5.3"
+}

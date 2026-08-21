@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim Tzevaot, baliakena mrene; padhangna praanganmu, lan kita bakal kaslametaken.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "baliakena mrene"
+    },
+    {
+      "surface": "האר",
+      "gloss": "padhangna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "praanganmu"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "lan kita bakal kaslametaken"
+    }
+  ],
+  "timestamp": "2026-08-21T04:18:03.986463685Z",
+  "model": "glm-5.3"
+}

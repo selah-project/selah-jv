@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Aku tinindur lan saré, banjur tangi; awit Yahweh kang nyangga aku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "tinindur"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "lan saré"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "tangi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "kang nyangga aku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:40:52.980482598Z",
+  "model": "glm-5.3"
+}

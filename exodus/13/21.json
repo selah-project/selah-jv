@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 13:21",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Lan Yahweh lumaku ing ngarepe dhewe ing rina mawa tiang mendhung, kanggo nuntun dheweke ⟨ing⟩ dalan, lan ing wengi mawa tiang geni, kanggo madhangi dheweke, supaya bisa lumaku rina lan wengi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Lan Yahweh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ing ngarepe dhewe"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ing rina"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "mawa tiang"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "mendung"
+    },
+    {
+      "surface": "לנחתם",
+      "gloss": "kanggo nuntun dheweke"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "⟨ing⟩ dalan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan ing wengi"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "mawa tiang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "kanggo madhangi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "supaya bisa lumaku"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "rina"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan wengi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:59:32.999336205Z",
+  "model": "glm-5.3"
+}

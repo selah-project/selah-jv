@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Mangga kandhaa ⟨kowé⟩ adhiku, supayan becik marang aku amarga sira, lan ⟨iya⟩ nyawaku urip amarga sira.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "kandhaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mangga"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "adhiku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨kowé⟩",
+      "marks": "kowé (tinimbang tandha אַתְּ = dadiya pratandha yèn wadon iku adhi)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "supayan"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "amarga sira"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "lan urip"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nyawaku"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "amarga sira"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:04.787397336Z",
+  "model": "glm-5.3"
+}

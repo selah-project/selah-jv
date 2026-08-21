@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 83,
+  "translation": "Elohaiku, dadèkake dheweke kaya gulungan angin, kaya damen ing ngarsane angin.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohaiku"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "dadèkake dheweke"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "kaya gulungan"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "kaya damen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "angin"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:57.626480845Z",
+  "model": "glm-5.3"
+}

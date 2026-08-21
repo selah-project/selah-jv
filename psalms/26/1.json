@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Kanggo Dawid. Wartakna pangadilan aku, Yahweh, awit aku ing kabeneranku lumaku, lan ing Yahweh aku pasrah, ora aku bakal goyang.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kanggo Dawid"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "wartakna pangadilan aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ing kabeneranku"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "lumaku"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "lan ing Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "aku pasrah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "aku bakal goyang"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:27.624890366Z",
+  "model": "glm-5.3"
+}

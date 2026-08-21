@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Dadi kaparengen tembung-tembunge cangkemeku lan renunganing atiku ing ngarsamu, Yahweh, Watakkiruk lan Pambelekku.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "kaparengen"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tembung-tembunge"
+    },
+    {
+      "surface": "פי",
+      "gloss": "cangkemeku"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "lan renunganing"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ing ngarsamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Watakkiruk"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "lan Pambelekku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:54.381200244Z",
+  "model": "glm-5.3"
+}

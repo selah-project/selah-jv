@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Ing antarane wong mati aku kaya wis bébas, kaya wong kang mati kang tilar ing kubur, sing kowé ora éling maneh, lan dhèwèké dicoph saka tanganmu.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "ing antarane wong mati"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "wis bébas"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "wong kang mati"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "kang tilar"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ing kubur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "kowé éling"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "lan dhèwèké"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "saka tanganmu"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "dicoph"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:20.845603854Z",
+  "model": "glm-5.3"
+}

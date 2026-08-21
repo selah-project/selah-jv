@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 16,
+  "translation": "Sabet, ya sabat sampurna, iku marang kowé; lan kowé nglatèni ⟨את⟩ nyawamu — pasangon salawasé.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabet"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sabat sampurna"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "marang kowé"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "lan kowé nglatèni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyawamu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "nyawamu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "pasangon"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawasé"
+    }
+  ],
+  "timestamp": "2026-08-20T23:14:48.965496428Z",
+  "model": "glm-5.3"
+}

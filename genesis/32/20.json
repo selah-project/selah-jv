@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan ia uga ngetokake préntah marang ⟨את⟩ sing kapindho, uga marang ⟨את⟩ sing katelu, uga marang ⟨את⟩ kabeh sing lumaku ing buripe rombongan-rombongan, ngendika: Miturut pangandika iki padha ngendikaa marang Esav nalika sira katemu ⟨את⟩ dheke.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "lan ia ngetokake préntah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing kapindho"
+    },
+    {
+      "surface": "השני",
+      "gloss": "sing kapindho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sing katelu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "sing katelu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "sing lumaku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ing buripe"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "rombongan-rombongan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "miturut pangandika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "padha ngendikaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "nalika sira katemu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dheke",
+      "marks": "dheke (Esav)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:49:02.295073535Z",
+  "model": "glm-5.3"
+}

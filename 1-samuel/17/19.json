@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 17,
+  "translation": "Lan Shaul lan ⟨padha⟩, lan kabeh wong Israel, ana ing lembah Elah, padha perang nglawan wong Filisti.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Lan Shaul"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "lan wong-wong mau"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan kabeh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ing lembah"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "padha perang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wong Filisti"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:53.732517214Z",
+  "model": "glm-5.3"
+}

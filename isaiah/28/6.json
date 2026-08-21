@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 28,
+  "translation": "lan dadi semangat pangadilan tumrap sing lenggah ing pangadilan, sarta dadi kakuwatan tumrap para sing mundurake perang nganti tebing gapura.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "lan semangat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "tumrap sing lenggah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "pangadilan"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "sarta kakuwatan"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "sing mundurake"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "perang"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "nganti gapura"
+    }
+  ],
+  "timestamp": "2026-08-21T00:38:06.854456174Z",
+  "model": "glm-5.3"
+}

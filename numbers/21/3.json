@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 21,
+  "translation": "Lan Yahweh ngrungokake swarane Yisrael, banjur dipasrahake ⟨את⟩ wong Kanaan mau, lan padha ditumpes ⟨את⟩ wong-wong mau sarta ⟨את⟩ kutha-kuthane; lan papan mau dijenengi Kormah.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ngrungokake"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "swarane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dipasrahake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "wong Kanaan"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "padha ditumpes"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "kutha-kuthane"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "kutha-kuthane"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dijenengi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jeneng"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "papan"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Kormah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:01.950265210Z",
+  "model": "glm-5.3"
+}

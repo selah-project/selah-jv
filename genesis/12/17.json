@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 12,
+  "translation": "Banjur Yahweh nuwuhake_walang ⟨את⟩ Paroh kaluwungan gedhe-gedhe, uga ⟨את⟩ kulawangane, amarga Sang Saras, garwane Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "Banjur ... nuwuhake_walang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "kaluwungan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "gedhe-gedhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uga ⟨את⟩",
+      "marks": "kulawangane"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kulawangane"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bab"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sang Saras"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "garwane"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-21T03:48:48.176317810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan Arpakhshad ndadèkaké lair ⟨את⟩ Selakh; lan Selakh ndadèkaké lair ⟨את⟩ Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "lan Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ndadèkaké lair"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Selakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Selakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "lan Selakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ndadèkaké lair"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:31.057169781Z",
+  "model": "glm-5.3"
+}

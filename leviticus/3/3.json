@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lagawa saka kurban syalomim iku pepewa geni kanggo Yahweh: ⟨את⟩ lumpur abot sing nutupi ⟨את⟩ weteng, lan ⟨את⟩ sadurunge lumpur kang ana ing atasaning weteng.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Lagawa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "saka kurban"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "syalomim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "pepewa geni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kanggo Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lumpur abot"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lumpur abot"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "sing nutupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "weteng"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "weteng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sadurunge lumpur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "lumpur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing atasaning"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "weteng"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:37.056456767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 60,
+  "translation": "Apa dudu Kowé, ya Elohim, sing wis nulak aku? Lan Kowé, ya Elohim, ora metu bareng bala-barisaku?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Apa dudu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kowé"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wis nulak aku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "metu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "bareng bala-barisaku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:52:20.145851622Z",
+  "model": "glm-5.3"
+}

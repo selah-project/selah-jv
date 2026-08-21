@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "nalika dhèwèké nuduhaké ⟨את⟩ kaluwihané kaluhurané karajané lan ⟨את⟩ pamoring kajayané kaagungané, dina akèh — wolung puluh lan satus dina.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "nalika nuduhaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaluwihané kaluhurané karajané"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kaluwihané"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kaluhurané"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pamoring kajayané kaagungané"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "pamoring"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "kajayané"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "kaagungané"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "wolung puluh"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "lan satus"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    }
+  ],
+  "timestamp": "2026-08-21T02:51:49.520951250Z",
+  "model": "glm-5.3"
+}

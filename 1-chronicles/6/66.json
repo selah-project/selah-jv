@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Sarta ⟨את⟩ Hesybon lan ⟨את⟩ pangonane, lan ⟨את⟩ Yaazer sarta ⟨את⟩ pangonane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "Hesybon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Hesybon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "pangonane"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pangonane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sarta ⟨את⟩",
+      "marks": "pangonane"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "pangonane"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:22.612852739Z",
+  "model": "glm-5.3"
+}

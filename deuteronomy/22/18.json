@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lan para sesepuhing kutha iku padha njupuk ⟨את⟩ wong lanang iku, lan padha ndidik ⟨את⟩-e.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "lan padha njukuk"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "para sesepuhe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong lanang iku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "wong lanang"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "lan padha ndidik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-e",
+      "marks": "wong lanang iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:37:05.685903323Z",
+  "model": "glm-5.3"
+}

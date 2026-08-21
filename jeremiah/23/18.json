@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 23:18",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Sebab sapa sing wis ngadeg ing pasamuwan sarira Yahweh, nganti ndeleng lan ngrungokake ⟨את⟩ pangandikane? Sapa sing nggatekake pangandikane lan ngrungokake?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sebab"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "wis ngadeg"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ing pasamuwan sarira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nganti ndeleng"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "lan ngrungokake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pangandikane"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "nggatekake"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "lan ngrungokake"
+    }
+  ],
+  "timestamp": "2026-08-21T04:11:16.411228571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 129,
+  "translation": "Dadine kaya suket ing sadhuwuring payon, sing sadurunge dicabut wis garing.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "dadine"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "kaya suket"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "ing sadhuwuring payon"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "sadurunge"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "dicabut"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "garing"
+    }
+  ],
+  "timestamp": "2026-08-21T02:06:45.716332442Z",
+  "model": "glm-5.3"
+}

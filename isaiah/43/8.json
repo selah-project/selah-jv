@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Padha ngokake ⟨את⟩ umat sing wuta nanging nduwé mripat, lan ⟨את⟩ sing tuli nanging nduwé kuping.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Padha ngokake"
+    },
+    {
+      "surface": "עם",
+      "gloss": "umat"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "nanging nduwé mripat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ana"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "lan sing tuli"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "nanging nduwé kuping"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanggo wong mau"
+    }
+  ],
+  "timestamp": "2026-08-21T00:41:50.269062025Z",
+  "model": "glm-5.3"
+}

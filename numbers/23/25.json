@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Balak ngandika marang Bilam: santosa nglakoni, aja sira nglakoni; santosa ndedonga berkah, aja sira ndedonga berkah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan ngandika"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "santosa"
+    },
+    {
+      "surface": "קב",
+      "gloss": "nglakoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "sira nglakoni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "santosa"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ndedonga berkah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "sira ndedonga berkah"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:55.650067885Z",
+  "model": "glm-5.3"
+}

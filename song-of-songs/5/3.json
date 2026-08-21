@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Aku wis ngedhot ⟨את⟩ sandhanganku — kepiye carane aku nganggo maneh? Aku wis ngumbah ⟨את⟩ sikilku — kepiye carane aku nglumutana maneh?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "aku wis ngedhot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandhanganku"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "sandhanganku"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kepiye carane"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "aku nganggo maneh"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "aku wis ngumbah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sikilku"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "sikilku"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "kepiye carane"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "aku nglumutana maneh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:39:27.065223335Z",
+  "model": "glm-5.3"
+}

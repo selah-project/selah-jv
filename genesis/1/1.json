@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Ing wiwitan Elohim nitahake ⟨את⟩ langit lan ⟨את⟩ bumi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Ing wiwitan"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nitahake"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "bumi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    }
+  ],
+  "timestamp": "2026-08-20T22:39:53.256141667Z",
+  "model": "glm-5.3"
+}

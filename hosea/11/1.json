@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Nalika Israyel isih bocah, Ingsun nresnani dheweke, lan saka Mesirayim Ingsun ngundang putraningsun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bocah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "Ingsun nresnani dheweke"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "lan saka Mesirayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Ingsun ngundang"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "putraningsun"
+    }
+  ],
+  "timestamp": "2026-08-21T01:26:09.994783751Z",
+  "model": "glm-5.3"
+}

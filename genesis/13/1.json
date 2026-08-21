@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Banjur Avram munggah saka Misraim — dhewe, bojone, lan sakabehing duweke, lan Lot bareng karo dhewe — marang arah kidul (Negev).",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "banjur munggah"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Misraim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dhewe"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "lan bojone"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lan sakabehing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "duweke"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "lan Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bareng karo dhewe"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "arah kidul (Negev)"
+    }
+  ],
+  "timestamp": "2026-08-20T22:43:03.942652473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Anak-anake Gershon: Libni lan Shim'i, miturut klan-klane.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "lan Shim'i"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut klan-klane"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:15.164074910Z",
+  "model": "glm-5.3"
+}

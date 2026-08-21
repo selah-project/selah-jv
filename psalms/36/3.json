@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 36,
+  "translation": "Sebab ⟨⟨pamungkang⟩⟩ iku nglumbra marang dheweke ing sajroning paningalane, nganti kaluputane ora tinemu lan ora kageteni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "nglumbra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ing sajroning paningalane"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tinemu"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "kaluputane"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "kageteni"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:30.192950909Z",
+  "model": "glm-5.3"
+}

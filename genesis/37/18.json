@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan padha krungu weruh ⟨את⟩-ira saka doh, sadurung ia cedhak marang dheweke, banjur padha gawé baléla marang ⟨את⟩-ira arep matèni.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Lan padha weruh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ira",
+      "marks": "ira (Yoséf) saka doh"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "saka doh"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "sadurung"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "cedhak"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "banjur padha gawé baléla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ira",
+      "marks": "ira, arep dipatèni"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "arep matèni"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:19.980501136Z",
+  "model": "glm-5.3"
+}

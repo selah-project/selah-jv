@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 71,
+  "translation": "Marang Paduka aku numpu awit saka guwa garba, saka wetenging ibuku Paduka sing mbesukake aku; ing Paduka memu-memu ku tansah.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Marang Paduka"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "aku numpu"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "awit saka guwa garba"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "saka wetenging"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ibuku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Paduka"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "sing mbesukake aku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing Paduka"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "memu-memu ku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tansah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:52.649119406Z",
+  "model": "glm-5.3"
+}

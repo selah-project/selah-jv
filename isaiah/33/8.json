@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 33,
+  "translation": "Padha sepi dalan-dalan agunge, wong sing liwat ing dalan padha mandheg; prajanjian diucal, kutha-kutha diremehake, ora anggepo manungsa.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "Padha sepi"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "dalan-dalan agunge"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "padha mandheg"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wong sing liwat"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ing dalan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "diucal"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjian"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "diremehake"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "anggepo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manungsa"
+    }
+  ],
+  "timestamp": "2026-08-21T00:39:00.377445633Z",
+  "model": "glm-5.3"
+}

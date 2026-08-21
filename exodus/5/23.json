@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Awit sawise aku teka marang Paroh kanggo ngendika ing asma-Mu, dhèwèké nglarani bangsa iki, lan Kowé ora nylametake ⟨את⟩ umat-Mu sakabèhé.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "awit sawise"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "aku teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kanggo ngendika"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ing asma-Mu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nglarani"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "lan nylametake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "Kowé nylametake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "umat-Mu"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:14.081774596Z",
+  "model": "glm-5.3"
+}

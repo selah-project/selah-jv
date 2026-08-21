@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "Lan padha ngaturake ⟨את⟩ padhegan mau marang Moshe — ⟨את⟩ khemah lan ⟨את⟩ saindhenging pirantiné, pangait-pangaité, papan-papané, palang-palangé, saka-sakané, lan landhasan-landhasané.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "lan padha ngaturake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padhegan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "padhegan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khemah"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khemah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "saindhenging pirantine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saindhenging"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pirantine"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "pangait-pangaite"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "papan-papane"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "palang-palange"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "saka-sakane"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "lan landhasan-landhasane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:47.951033612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 27,
+  "translation": "Sheol lan Abaddon ora bakal wareg, lan mripate manungsa ora bakal wareg.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "lan Abaddon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "bakal wareg"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "lan mripate"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "bakal wareg"
+    }
+  ],
+  "timestamp": "2026-08-21T02:18:57.893225207Z",
+  "model": "glm-5.3"
+}

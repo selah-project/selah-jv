@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Lan Sira ngenggo kula kawigaten ing perang, ndadekake mungsuh-mungsuh kula tumungkul sangisoring kula.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Lan Sira ngenggo kula"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kawigaten"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ing perang"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "ndadekake tumungkul"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "mungsuh-mungsuh kula"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "sangisoring kula"
+    }
+  ],
+  "timestamp": "2026-08-21T01:43:53.327232198Z",
+  "model": "glm-5.3"
+}

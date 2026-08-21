@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 88,
+  "translation": "Muga-muga donga-Ku teka ana ngarsanira, condhongana kupingira marang jerit-Ku.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "teka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ana ngarsanira"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "donga-ku"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "condhongana"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "kupingira"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "marang jerit-ku"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:04.504113160Z",
+  "model": "glm-5.3"
+}

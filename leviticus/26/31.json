@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan Aku bakal ndadèkaké ⟨את⟩ kutha-kuthamu dadi tanah tandang, lan Aku bakal numpesaké ⟨את⟩ papan-papan sucimu, lan ora Aku bakal ngambu ambu-ambu enggalmu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "lan Aku bakal ndadèkaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutha-kuthamu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "kutha-kuthamu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "dadi tanah tandang"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "lan Aku bakal numpesaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papan-papan sucimu"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "papan-papan sucimu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "Aku bakal ngambu"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "ambu-ambu"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "enggalmu"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:47.121333898Z",
+  "model": "glm-5.3"
+}

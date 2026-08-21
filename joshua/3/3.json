@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan padha mituturi ⟨את⟩ wong akeh, ngendika: Nalikanira padha ndeleng ⟨את⟩ petining prajanjan Yahweh Elohimira, lan para imam saka Lewi anggawa iku, iya kowé padha budhal saka panggonanira, lan padha lunga murih iku.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "padha mituturi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong akeh"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong akeh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "nalikanira padha ndeleng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petining prajanjan Yahweh Elohimira"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petining"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "prajanjan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "lan para imam"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "saka Lewi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "anggawa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ iku"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "iya kowé"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "padha budhal"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "saka panggonanira"
+    },
+    {
+      "surface": "ווהלכתם",
+      "gloss": "padha lunga"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "murih iku"
+    }
+  ],
+  "timestamp": "2026-08-20T23:42:01.639239901Z",
+  "model": "glm-5.3"
+}

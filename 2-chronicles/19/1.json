@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 19,
+  "translation": "Banjur Yehosafat ratu Yehuda bali menyang omahe kanthi ayem, menyang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "banjur bali"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "omahe"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "kanthi ayem"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "menyang Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:39:30.232112751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Lan es iku ngantemi ing saben tanah Mitsrajim ⟨את⟩ sakabèhé sing ing sawah, saka manungsa nganti kewan, lan ⟨את⟩ sakabèhé suket ing sawah es iku ngantemi, lan ⟨את⟩ saben wit ing sawah dipecah.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ngantemi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "es"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ing saben"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanah"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabèhé sing ing sawah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ing sawah"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "saka manungsa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kewan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "sakabèhé suket ing sawah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabèhé"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "suket"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ing sawah"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ngantemi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "es"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "saben wit ing sawah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "wit"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ing sawah"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "dipecah"
+    }
+  ],
+  "timestamp": "2026-08-20T22:58:44.678913403Z",
+  "model": "glm-5.3"
+}

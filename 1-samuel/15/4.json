@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 15,
+  "translation": "Banjur Shaul nglilakaké ⟨את⟩ wong kathah iku lan ngetung ing Telaim: rong atus èwu wong sajeg, lan sapuluh èwu kagolong ⟨את⟩ wong Yehudha.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "banjur nglilakaké"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong kathah"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wong kathah iku"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "ngetung awake"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "ing Telaim"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "rong atus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "èwu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "wong sajeg"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "lan sapuluh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "èwu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wong Yehudha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wong"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    }
+  ],
+  "timestamp": "2026-08-21T00:00:39.448964053Z",
+  "model": "glm-5.3"
+}

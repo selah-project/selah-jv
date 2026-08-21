@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 10,
+  "translation": "Lan papan panggonane ⟨saka⟩ Mesha, nalika ⟨kowe⟩ mangulon tekan Sefar, gunung ing sisih weten.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Lan dadi"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "papan panggonane"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "saka Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "nalika mangulon"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "tekan Sefar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ing sisih weten"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:31.587523994Z",
+  "model": "glm-5.3"
+}

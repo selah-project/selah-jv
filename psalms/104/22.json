@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Matahari munggah, ⟨dheweke⟩ padha nglumpuk mantuk, lan ing guwa-guwane ⟨dheweke⟩ padha sumelingkuh.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "munggah"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "matahari"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "⟨dheweke⟩ padha nglumpuk mantuk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan menyang"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "guwa-guwane"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "⟨dheweke⟩ padha sumelingkuh"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:55.887958606Z",
+  "model": "glm-5.3"
+}

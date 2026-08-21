@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan kaluwihaning bumi iku kanggo kabeh ⟨iku⟩: ratu dadi kaserap déning sawah.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "lan kaluwihan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kanggo kabeh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "marang sawah"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "kaserap\/dianteni"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:48.520797427Z",
+  "model": "glm-5.3"
+}

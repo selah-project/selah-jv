@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Lan milih ⟨את⟩ suku Yehudah, ⟨את⟩ gunung Tzion sing ditresnani.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Lan milih"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suku Yehudah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunung Tzion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "gunung"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tzion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ditresnani"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:22.792708798Z",
+  "model": "glm-5.3"
+}

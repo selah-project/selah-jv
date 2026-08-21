@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Lan bare Putri Paroh matur marang dheweke: Gawa ⟨את⟩ bocah iki, lan susuana kanggo aku, lan aku bakal menehi ⟨את⟩ upahmu. Banjur wadon iku njupuk ⟨את⟩ bocah iku lan nyusuake.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "lan matur"
+    },
+    {
+      "surface": "לה",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Putri"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "gawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bocah iki"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "lan susuana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "lan aku"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bakal menehi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upahmu"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "upahmu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "banjur njupuk"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wadon iku"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bocah iku"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "nyusuake"
+    }
+  ],
+  "timestamp": "2026-08-20T22:56:39.129163241Z",
+  "model": "glm-5.3"
+}

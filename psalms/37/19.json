@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Ora bakal isin ing wayah ala, lan ing dina-dina kaluwèn bakal wareg.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "isin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ing wayah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "lan ing dina-dina"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "kaluwèn"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "wareg"
+    }
+  ],
+  "timestamp": "2026-08-21T04:17:48.723459812Z",
+  "model": "glm-5.3"
+}

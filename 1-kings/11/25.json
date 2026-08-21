@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Lan dadi satru Israel sedaya dinané Shlomo, lan ⟨את⟩ karusakan sing dilakoni Hadad, lan dadi cangkal ing Israel, lan jumeneng ratu ing Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lans dadi"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satru"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedaya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dinané"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "karusakan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "karusakan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "dilakoni Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "lan dadi cangkal"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ing Israel"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "lan jumeneng ratu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-21T00:19:14.413005813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Luhé dadi rotikuawan awan lan wengi, nalika wong ngendika marang aku sedawaning dina: \"Ing endi Elohim-mu?\"",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "dadi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "luhé"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "roti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "awan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan wengi"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "nalika ngendika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedawaning"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ing endi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:49:06.112168874Z",
+  "model": "glm-5.3"
+}

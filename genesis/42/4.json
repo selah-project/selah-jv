@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Dene ⟨את⟩ Binyamin sedulure Yusuf ora ditrimekake Yaakov bareng ⟨את⟩ sedulur-sedulure, amarga ngandika: supaya aja nganti ketaman cilaka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sedulure"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ditrimekake"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedulur-sedulure"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sedulur-sedulure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "פן",
+      "gloss": "supaya aja nganti"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "ketaman"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "cilaka"
+    }
+  ],
+  "timestamp": "2026-08-20T22:52:50.725081510Z",
+  "model": "glm-5.3"
+}

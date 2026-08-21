@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Apik sing kowe anchangi iki, lan uga saka iku aja ngilangake ⟨את⟩ tanganmu; sabab wong sing wedi marang Elohim bakal metu saka ⟨את⟩ kabeh iku.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "apik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "anchangi"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "lan uga"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ngilangake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanganmu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tanganmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sabab"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bakal metu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabeh iku"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kabeh iku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:49:20.810482788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Lan Daud wis sepuh lan sugih ing dina-dina, banjur dheweke nata Suputra putrane dadi ratu ing Israel.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Lan Daud"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wis sepuh"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "lan sugih"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ing dina-dina"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nata ... dadi ratu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Suputra"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Suputra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-21T04:26:57.342692202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Menawa sira dadi wicaksana, kawicaksanan iku kanggo awake dhewe; nanging menawa sira ngejek, dhewe-dhewean bakal nanggung.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Menawa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "dadi wicaksana"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "wicaksanan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanggo awake dhewe"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "ngejek"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "dhewe-dhewean"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "bakal nanggung"
+    }
+  ],
+  "timestamp": "2026-08-21T02:11:57.597916959Z",
+  "model": "glm-5.3"
+}

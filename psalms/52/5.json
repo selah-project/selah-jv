@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 52,
+  "translation": "Kowé tresna ala luwih katimbang becik, goroh katimbang ngendika jujur. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "kowé tresna"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "luwih katimbang becik"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "katimbang ngendika"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "jujur"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:51:28.951811152Z",
+  "model": "glm-5.3"
+}

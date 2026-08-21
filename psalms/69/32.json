@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 69,
+  "translation": "Lan iku luwih binaries marang Yahweh tinimbang banteng, pedhet mawa sungu lan mawa pupu pawolu.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "lan iku luwih binaries"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "marang Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "tinimbang banteng"
+    },
+    {
+      "surface": "פר",
+      "gloss": "pedhet"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "mawa sungu"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "mawa pupu pawolu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:54:21.017610841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Lan nalika aku tiba, dheweke bungah lan padha kumpul; para tukang ngrusak kumpul nglawan aku, lan aku ora weruh; padha nyobek lan ora mandheg.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "Lan nalika aku tiba"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "dheweke bungah"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "lan padha kumpul"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "padha kumpul"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nglawan aku"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "para tukang ngrusak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "aku weruh"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "padha nyobek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mandheg"
+    }
+  ],
+  "timestamp": "2026-08-21T01:47:17.658894982Z",
+  "model": "glm-5.3"
+}

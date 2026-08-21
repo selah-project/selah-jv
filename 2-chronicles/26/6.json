@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan dheweke metu perang nglawan wong Palishtim, lan njebolake ⟨את⟩ temboking Gat, lan ⟨את⟩ temboking Yavneh, lan ⟨את⟩ temboking Ashdod; lan yasa kutha-kutha ing Ashdod lan ing tanah Palishtim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lan metu"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "perang"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "nglawan wong Palishtim"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "lan njebolake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temboking Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "temboking"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "temboking Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "temboking"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "temboking Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "temboking"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "lan yasa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "kutha-kutha"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "ing Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "lan ing tanah Palishtim"
+    }
+  ],
+  "timestamp": "2026-08-21T03:42:39.239853395Z",
+  "model": "glm-5.3"
+}

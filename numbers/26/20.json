@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 26,
+  "translation": "Lan dadi anak-anake Yehudha miturut marga-margane: saka Shelah, marga wong Shelani; saka Perets, marga wong Parts; saka Zerah, marga wong Zarhi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "lan dadi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "miturut marga-margane"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "saka Shelah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "wong Shelani"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "saka Perets"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "wong Partsi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "saka Zerah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "marga"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "wong Zarhi"
+    }
+  ],
+  "timestamp": "2026-08-21T03:55:07.048430073Z",
+  "model": "glm-5.3"
+}

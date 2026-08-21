@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Lan kadadéan ing tengah wengi, lanang iku kagèt sarta mbalik awake, lan lah, ana wadon anggone mangkang ing pucuk sikile.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lan kadadéan"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ing tengah"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "wengi"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "lan kagèt"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lanang iku"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "sarta mbalik awake"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "lan lah"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ana wadon"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "anggone mangkang"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "ing pucuk sikile"
+    }
+  ],
+  "timestamp": "2026-08-21T02:42:18.779554991Z",
+  "model": "glm-5.3"
+}

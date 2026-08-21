@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 5,
+  "translation": "Lan Lemekx urip sawise ndadèkaké bapak ⟨את⟩ Noach limang atus sangang dasa limang taun, lan ndadèkaké bapak para lanang lan para wadon.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Lan ... urip"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekx"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sawise"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ndadèkaké bapak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "limang"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "lan sangang dasa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "lan limang"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "atus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taun"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "lan ndadèkaké bapak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "para lanang"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "lan para wadon"
+    }
+  ],
+  "timestamp": "2026-08-20T22:42:14.303371339Z",
+  "model": "glm-5.3"
+}

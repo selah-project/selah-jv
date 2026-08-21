@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Yahweh ngandika marang dheweke: Apa iki ing tanganira? Lan katempuh pangandikane: Towok.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ngandika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "apa iki"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ing tanganira"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "katempuh pangandikane"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "towok"
+    }
+  ],
+  "timestamp": "2026-08-20T22:57:33.467753322Z",
+  "model": "glm-5.3"
+}

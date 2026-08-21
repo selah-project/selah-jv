@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Manawa anakké pitakon marang kowé ing tembe buri, katelah: apa tegesé pasaksian, ukum-ukum lan hukum kang katitahaké Yahweh, Elohim kita, marang ⟨אתכם⟩ kowé?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "manawa"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "pitakon marang kowé"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakké"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ing tembe buri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "katelah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "apa"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "pasaksian"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "ukum-ukum"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "hukum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "katitahaké"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim kita"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ kowé",
+      "marks": "kowé (wong Israél)"
+    }
+  ],
+  "timestamp": "2026-08-21T03:56:16.493109315Z",
+  "model": "glm-5.3"
+}

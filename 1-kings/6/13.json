@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Aku bakal manggon ana ing tengah-tengahé anak-anaké Israél, lan ora bakal Ninggalaké ⟨את⟩ umat-Ku Israél.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "lan Aku bakal manggon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ana ing tengah-tengahé"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lan ora bakal"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "Ninggalaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umat-Ku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:18.377279949Z",
+  "model": "glm-5.3"
+}

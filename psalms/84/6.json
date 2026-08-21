@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 84,
+  "translation": "Begjane manungsa sing kuwate ana ing Kowé; dalan-dalan ana ing sajroning atine.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Begjane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kuwat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-e (duwene)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing Kowé"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "dalan-dalan (dalan agung)"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ing sajroning atine"
+    }
+  ],
+  "timestamp": "2026-08-21T01:58:32.217763106Z",
+  "model": "glm-5.3"
+}

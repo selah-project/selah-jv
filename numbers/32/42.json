@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 32,
+  "translation": "Lan Novah lunga sarta ndhudhut ⟨את⟩ Kenat lan ⟨את⟩ dhusun-dhusune, banjur dijenengi Novah miturut jenenge dhewe.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Lan Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lunga"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "sarta ndhudhut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "dhusun-dhusune"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "dhusun-dhusune"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "banjur dijenengi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "(atase)"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "miturut jenenge dhewe"
+    }
+  ],
+  "timestamp": "2026-08-20T23:28:02.362632349Z",
+  "model": "glm-5.3"
+}

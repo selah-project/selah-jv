@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Banjur Yehosafat munjuk marang raja Israèl: Nyuwun dinilèni murih ing dina iki nggolèki ⟨את⟩ sabda Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Banjur munjuk"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "raja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nggolèki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyuwun dinilèni murih"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ing dina iki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sabda Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:39:06.719779885Z",
+  "model": "glm-5.3"
+}

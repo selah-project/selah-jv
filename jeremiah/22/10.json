@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Aja nangis marang wong mati, lan aja getuni ⟨dheweke⟩; nangisaa, nangisaa marang wong sing lunga, awit ⟨dheweke⟩ ora bakal bali maneh, lan ora bakal weruh ⟨את⟩ bumi kalairane.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "nangis"
+    },
+    {
+      "surface": "למת",
+      "gloss": "marang wong mati"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lan aja"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "getuni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "nangisaa"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "nangisaa"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "marang wong sing lunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "bali"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "lan weruh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bumi kalairane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "kalairane"
+    }
+  ],
+  "timestamp": "2026-08-21T00:55:47.805035817Z",
+  "model": "glm-5.3"
+}

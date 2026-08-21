@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Bakal teka lan martani kaleresané marang wong sing arep lair, amarga Panjenengane wis nindakaké.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "bakal teka"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "lan martani"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "kaleresané"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "marang wong"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "sing arep lair"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wis nindakaké"
+    }
+  ],
+  "timestamp": "2026-08-21T01:44:54.460106046Z",
+  "model": "glm-5.3"
+}

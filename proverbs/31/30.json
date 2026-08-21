@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 31,
+  "translation": "Kama-kama iku goroh, lan ayu iku kes-thilthil; nanging wadon sing wedi marang Yahweh, iku sing bakal dipuji.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "החן",
+      "gloss": "kama-kama"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "lan kes-thilthil"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "ayu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wadon"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "wedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "bakal dipuji"
+    }
+  ],
+  "timestamp": "2026-08-21T02:20:31.485755979Z",
+  "model": "glm-5.3"
+}

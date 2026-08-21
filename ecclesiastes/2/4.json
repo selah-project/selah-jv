@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "Kugedhekake pancen panggaweku; kuyasa kanggo aku dalah-dalahan; kutanem kanggo aku kebon anggur.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "kugedhekake pancen"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "panggaweku"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "kuyasa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "dalah-dalahan"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "kutanem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanggo aku"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "kebon anggur"
+    }
+  ],
+  "timestamp": "2026-08-21T04:22:37.737838124Z",
+  "model": "glm-5.3"
+}

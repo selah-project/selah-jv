@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Banjur ia ngadegake ⟨את⟩ sakabehing saka-sakapilar ing bengkah lawanging Heikhal, lan ia ngadegake ⟨את⟩ saka-sakapilare sing tengen, lan ia maringi ⟨את⟩ asmane Yakhin; lan ia ngadegake ⟨את⟩ saka-sakapilare sing kiwa, lan ia maringi ⟨את⟩ asmane Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "lan ia ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing saka-sakapilar"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sakabehing saka-sakapilar"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "ing bengkah lawanging"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "Heikhal"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lan ia ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka-sakapilare sing tengen"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "saka-sakapilare"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "sing tengen"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lan ia maringi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmane"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "lan ia ngadegake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saka-sakapilare sing kiwa"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "saka-sakapilare"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "sing kiwa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "lan ia maringi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asmane"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmane"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-08-21T00:16:31.195336428Z",
+  "model": "glm-5.3"
+}

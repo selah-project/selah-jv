@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 102,
+  "translation": "Kabeh dina mungsuhku ngecam aku; para sing ngamuk marang aku sumpah ing aku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ngecam aku"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mungsuhku"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "para sing ngamuk"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ing aku"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "sumpah"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:37.501365027Z",
+  "model": "glm-5.3"
+}

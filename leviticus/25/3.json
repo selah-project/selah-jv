@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 25,
+  "translation": "Enem taun sira nandur ambane, lan enem taun sira ngerungi kebun anggurmu, sira ngetut ⟨את⟩ pitune.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "enem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sira nandur"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ambane"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "lan enem"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taun"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "sira ngerungi"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "kebun anggurmu"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "sira ngetut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pitune"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "pitune"
+    }
+  ],
+  "timestamp": "2026-08-20T23:17:10.794950326Z",
+  "model": "glm-5.3"
+}

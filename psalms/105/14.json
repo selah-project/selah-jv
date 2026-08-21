@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 105,
+  "translation": "Ora nganti wong siji nindhes dheweke, lan paring sapi marang para ratu ingisore wong.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ora"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wong"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "nindhes dheweke"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "lan paring sapi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "marang dheweke"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "para ratu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:02:07.661114172Z",
+  "model": "glm-5.3"
+}

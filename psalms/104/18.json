@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 104,
+  "translation": "Redi-redi dhuwur kanggo kambing alas; watu karang pangungsen kanggo terwelu watu.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "redi-redi"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "dhuwur"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "kanggo kambing alas"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "watu karang"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "pangungsen"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "kanggo terwelu watu"
+    }
+  ],
+  "timestamp": "2026-08-21T02:01:53.904673151Z",
+  "model": "glm-5.3"
+}

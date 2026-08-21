@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "⟨את⟩ segara siji, lan ⟨את⟩ lembu-lembu rolas ing sangisore",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "segara"
+    },
+    {
+      "surface": "הים",
+      "gloss": "segara (kolam raseksa)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "siji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lembu-lembu"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "lembu-lembu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "rolas (loro)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(puluh)"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ing sangisore"
+    }
+  ],
+  "timestamp": "2026-08-21T03:32:49.669453880Z",
+  "model": "glm-5.3"
+}

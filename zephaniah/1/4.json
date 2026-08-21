@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan aku ngadegake tanganku nglawan Yehudha lan nglawan kabeh sing ndunungi Yerushalayim; lan aku ngethok saka panggonan iki ⟨את⟩ sesa Baal, ⟨את⟩ asma para pangagem idham-idham bareng para imam.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "lan aku ngadegake"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanganku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nglawan"
+    },
+    {
+      "surface": "יהוה_context_יהודה",
+      "gloss": "Yehudha",
+      "notes": "placeholder — see below"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan nglawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sing ndunungi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "lan aku ngethok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "panggonan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sesa Baal"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sesa"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asma para pangagem idham-idham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "asma"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "para pangagem idham-idham"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bareng"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "para imam"
+    }
+  ],
+  "timestamp": "2026-08-21T01:35:34.008431009Z",
+  "model": "glm-5.3"
+}

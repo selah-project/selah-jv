@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Menawa wedhus enom sing diaturaké minangka ⟨את⟩ kurbané, lah diaturaké ⟨את⟩ ing ngarsane Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "menawa"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "wedhus enom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sing"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "ngaturaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurbané"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kurbané"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "lah diaturaké"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(wedhus enom) ing ngarsane Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarsane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-08-20T23:09:34.455656872Z",
+  "model": "glm-5.3"
+}

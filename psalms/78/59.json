@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 78,
+  "translation": "Elohim ndangu lan dadi nesu banget, lan mirungi sanget marang Yisrael",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ndangu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "dadi nesu banget"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "mirungi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sanget"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "marang Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:23.238647346Z",
+  "model": "glm-5.3"
+}

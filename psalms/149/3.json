@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 149,
+  "translation": "Pujia asmané ing beksan; nganggo terbangan lan kecapi padha ngunjalake pujèn marang ⟨⟨ing⟩⟩ Panjenengané.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Pujia"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "asmané"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ing beksan"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "nganggo terbangan"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "lan kecapi"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "padha ngunjalake pujèn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "marang Panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-21T02:09:12.895419816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 43,
+  "translation": "Lan kowe bakal njupuk ⟨את⟩ sampé saka palupi, lan bakal diobong ing panggonan sing wus katetepake saka bale, ing njaba ing suci-sucian.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "lan kowe bakal njupuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sampé saka palupi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sampé"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "saka palupi"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "lan bakal diobong"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "ing panggonan sing wus katetepake"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "saka bale"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ing njaba"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "ing suci-sucian"
+    }
+  ],
+  "timestamp": "2026-08-21T01:22:34.709810599Z",
+  "model": "glm-5.3"
+}

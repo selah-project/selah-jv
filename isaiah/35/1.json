@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 35,
+  "translation": "Bakal padha bungah ⟨the⟩ ara-ara lan lemah garing, lan ⟨the⟩ Araba bakal girang, lan bakal mekar kaya habatselet.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "bakal padha bungah"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ara-ara"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "lan lemah garing"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "lan bakal girang"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "lan bakal mekar"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "kaya habatselet"
+    }
+  ],
+  "timestamp": "2026-08-21T00:40:09.718401025Z",
+  "model": "glm-5.3"
+}

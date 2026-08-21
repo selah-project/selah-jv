@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lorone ⟨את⟩ sawah ing kutha iku lan ⟨את⟩ pekarangané diwenehake marang Kalev bin Yefuneh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sawah ing kutha"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sawah"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ing kutha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pekarangané"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "pekarangané"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "diwenehake"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "marang Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    }
+  ],
+  "timestamp": "2026-08-21T03:18:58.538097571Z",
+  "model": "glm-5.3"
+}

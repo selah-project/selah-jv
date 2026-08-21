@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Padha nangis muntab, awit dinane Yahweh wis cedak; binasara saka Shaddai bakal teka.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "padha nangis muntab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "wis cedak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "kaya binasara"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "saka Shaddai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "bakal teka"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:44.856460166Z",
+  "model": "glm-5.3"
+}

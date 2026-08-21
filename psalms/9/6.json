@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Kowé wus ngandhani-ngandhani para bangsa, Kowé wus numpes wong jahat; jeneng-é uwong iku Kowé lusuhaké salawas-lawasé.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Kowé wus ngandhani-ngandhani"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "para bangsa"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "Kowé wus numpes"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "jeneng-é uwong iku"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "Kowé lusuhaké"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawasé"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "lan tumrap saéngga"
+    }
+  ],
+  "timestamp": "2026-08-21T01:42:32.430853873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "jv",
+  "chapter": 42,
+  "translation": "Ing pangrungune kuping aku krungu ⟨bab⟩ Kowe, lan saiki mripatku ndeleng Kowe.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ing pangrungune"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kuping"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "aku krungu Kowe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "lan saiki"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mripatku"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "ndeleng Kowe"
+    }
+  ],
+  "timestamp": "2026-08-21T02:40:34.107422607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Katentreman kang akèh ⟨ kanggo ⟩ para kang padha nresnani torat-Mu, lan ora ana sandhungan marang ⟨ dhèwèké ⟩.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "katentreman"
+    },
+    {
+      "surface": "רב",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kanggo para kang nresnani"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "torat-Mu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lan ora ana"
+    },
+    {
+      "surface": "למו",
+      "gloss": "marang dhèwèké"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "sandhungan"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:47.639240794Z",
+  "model": "glm-5.3"
+}

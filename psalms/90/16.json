@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 90,
+  "translation": "Katon marang abdi-abdimmu pakaryanmu, lan kamulyanmu marang putra-putrané.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "katon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abdi-abdimmu"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "pakaryanmu"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "lan kamulyanmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "putra-putrané"
+    }
+  ],
+  "timestamp": "2026-08-21T01:59:37.957828800Z",
+  "model": "glm-5.3"
+}

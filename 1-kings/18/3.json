@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 18,
+  "translation": "Ahab ngundang Ovadyahu, sing mengku ⟨the⟩ pakarangan pura; lan Ovadyahu iku wong sing bekti banget marang ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ngundang"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "על",
+      "gloss": "mengku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩ pakarangan pura"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "lan Ovadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bekti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget"
+    }
+  ],
+  "timestamp": "2026-08-21T00:21:00.455522983Z",
+  "model": "glm-5.3"
+}

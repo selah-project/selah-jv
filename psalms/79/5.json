@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 79,
+  "translation": "Nganti kapan, Yahweh? Kowé nesu salawas-lawasé? Pawirasmu murub kaya geni.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "kowé nesu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "salawas-lawasé"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "murub"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "geni"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "pawirasmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:33.928411540Z",
+  "model": "glm-5.3"
+}

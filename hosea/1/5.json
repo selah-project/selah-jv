@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan bakal kelakon ing dina iku, dakremukake ⟨את⟩ panah Israel ing lembah Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal kelakon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "dakremukake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panah Israel"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "panah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ing lembah"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-21T01:25:00.413983515Z",
+  "model": "glm-5.3"
+}

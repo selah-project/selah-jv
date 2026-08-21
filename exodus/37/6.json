@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lan dheweke gawe panutup saka emas murni: dawané loro asta setengah, ambane siji asta setengah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "lan dheweke gawe"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "panutup"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "loro asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "lan setengah"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "dawané"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "lan siji asta"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "lan setengah"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ambane"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:53.610162866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "jv",
+  "chapter": 20,
+  "translation": "Lagé ngapa kowé ngetokaké ⟨את⟩ pasamuwaning Yahweh menyang padang pasir iki, supaya mati ing kono kita lan sapi-ternak kita?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "lagé ngapa"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "kowé ngetokaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasamuwaning Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "pasamuwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "padang pasir"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "iki"
+    },
+    {
+      "surface": "למות",
+      "gloss": "supaya mati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kita"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "lan sapi-ternak kita"
+    }
+  ],
+  "timestamp": "2026-08-20T23:25:15.176164847Z",
+  "model": "glm-5.3"
+}

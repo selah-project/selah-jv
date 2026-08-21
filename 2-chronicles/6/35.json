@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "mulané kokrungu saka langit ⟨את⟩ pandongane lan ⟨את⟩ panyuwune, lan kokoa haké.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mulané kokrungu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pandongane"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "pandongane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "panyuwune"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "panyuwune"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "lan kokoa"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "haké"
+    }
+  ],
+  "timestamp": "2026-08-21T03:33:41.446253273Z",
+  "model": "glm-5.3"
+}

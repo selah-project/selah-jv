@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 2,
+  "translation": "nanging saka wit kang ngerti becik lan ala, aja dhahar saka iku; awit ing dina pangdhaharanira saka iku, mati bakal padha mati.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "nanging saka wit"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "kang ngerti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "becik"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "lan ala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aja"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dhahar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "pangdhaharanira"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka iku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "padha mati"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:35.735780929Z",
+  "model": "glm-5.3"
+}

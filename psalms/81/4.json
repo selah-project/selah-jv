@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 81,
+  "translation": "Tiupana sangkala ing sasi anyar, ing rembulan penuh, ing dinaning pahargyan kita.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "tiupana"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ing sasi anyar"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sangkala"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ing rembulan penuh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ing dinaning"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "pahargyan kita"
+    }
+  ],
+  "timestamp": "2026-08-21T01:57:15.569444273Z",
+  "model": "glm-5.3"
+}

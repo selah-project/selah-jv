@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 39,
+  "translation": "lan ⟨את⟩ tudhung saka kulit-kulit domba jantan sing abrit, lan ⟨את⟩ tudhung saka kulit-kulit takhasy, lan ⟨את⟩ kelambu panangkep.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tudhung kulit domba jantan"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tudhung"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "kulit-kulit"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "domba jantan"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "sing abrit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "tudhung kulit takhasy"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "tudhung"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kulit-kulit"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "takhasy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kelambu panangkep"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "kelambu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "panangkep"
+    }
+  ],
+  "timestamp": "2026-08-20T23:08:47.951288770Z",
+  "model": "glm-5.3"
+}

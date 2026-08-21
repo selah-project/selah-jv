@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 23,
+  "translation": "Apa iki tumrap kowe, kutha sing rame rejane? Saka jaman kuna kaancipane, sikile dhewe ngiringi dhewe saka ing adoh dadi paranan.",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "iki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tumrap kowe"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "kutha sing rame rejane"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "saka jaman"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "kaancipane"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "ngiringi"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "sikile dhewe"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "saka ing adoh"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "dadi paranan"
+    }
+  ],
+  "timestamp": "2026-08-21T00:37:32.840512549Z",
+  "model": "glm-5.3"
+}

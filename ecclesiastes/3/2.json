@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "jv",
+  "chapter": 3,
+  "translation": "Mangsa nglairake, lan mangsa mati; mangsa nanem, lan mangsa mbabat sing wis tinanem.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "nglairake"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan mangsa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "mati"
+    },
+    {
+      "surface": "עת",
+      "gloss": "mangsa"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "nanem"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "lan mangsa"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "mbabat"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "sing wis tinanem"
+    }
+  ],
+  "timestamp": "2026-08-21T02:47:00.300262958Z",
+  "model": "glm-5.3"
+}

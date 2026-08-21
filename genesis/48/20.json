@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 48,
+  "translation": "Lan ing dina iku dhewehe nguwurake kalorone, ngendika: Ing kowe Israyel bakal nguwurake, ngucap: Elohim ngluwirna kowe kaya Efrayim lan kaya Menasye. Lan dinadekake ⟨את⟩ Efrayim ing sangarepe Menasye.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "lan nguwurake kalorone"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "ngendika"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ing kowe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bakal nguwurake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngucap"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "Elohim ngluwirna kowe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "kaya Efrayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "lan kaya Menasye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "lan dinadekake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing sangarepe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasye"
+    }
+  ],
+  "timestamp": "2026-08-20T22:54:29.449547486Z",
+  "model": "glm-5.3"
+}

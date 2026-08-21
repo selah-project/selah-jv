@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Kanggo Kowé, sesunyian ⟨iku⟩ puji-pujian, ya Elohim, ana ing Tziyon; lan marang Kowé bakal katepese nadhar.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kanggo Kowé"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "sesunyian"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "puji-pujian"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ana ing Tziyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "lan marang Kowé"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bakal katepese"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nadhar"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:04.025956116Z",
+  "model": "glm-5.3"
+}

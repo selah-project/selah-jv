@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 8,
+  "translation": "Banjur panjenengane ngenteni maneh pitung dina liyane, sarta nambah ngluncurake ⟨את⟩ merdang iku saka bahtera.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "banjur ngenteni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pitung"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dina"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "liyane"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "sarta nambah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngluncurake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "merdang iku"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "merdang iku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "bahtera"
+    }
+  ],
+  "timestamp": "2026-08-20T22:41:56.725820158Z",
+  "model": "glm-5.3"
+}

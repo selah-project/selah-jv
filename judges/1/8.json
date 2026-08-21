@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Lan bani Yehuda padha perang nglawan Yerushalayim, lan padha nyandhet ⟨את⟩ iku, lan padha ngehak mawa buntute pedhang, lan ⟨את⟩ kutha kuwi padha obongake geni.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "lan padha perang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "nglawan Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "lan padha nyandhet"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ iku",
+      "marks": "iku"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "lan padha ngehak"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mawa buntute"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pedhang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "kutha kuwi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kutha kuwi"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "padha obongake"
+    },
+    {
+      "surface": "באש",
+      "gloss": "geni"
+    }
+  ],
+  "timestamp": "2026-08-20T23:47:51.823352919Z",
+  "model": "glm-5.3"
+}

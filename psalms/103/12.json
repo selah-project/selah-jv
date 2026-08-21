@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 103,
+  "translation": "Adohé wétan saka kulon, mangkono adohé saka ing awak kita ⟨את⟩ pelanggaran kita.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "adohé"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "wétan"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "saka kulon"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "mangkono adohé"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "saka ing awak kita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelanggaran kita"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "pelanggaran kita"
+    }
+  ],
+  "timestamp": "2026-08-21T02:00:39.998596605Z",
+  "model": "glm-5.3"
+}

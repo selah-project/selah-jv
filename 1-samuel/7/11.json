@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "jv",
+  "chapter": 7,
+  "translation": "Lan wong-wong Yisraël padha metu saka Mitzpa, lan padha ngejar ⟨את⟩ Pelesyet, lan padha numpes nganti ing ngisor Beth-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "lan padha metu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "wong-wong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "lan padha ngejar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelesyet"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelesyet"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "lan padha numpes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ing ngisor"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-20T23:57:26.533355778Z",
+  "model": "glm-5.3"
+}

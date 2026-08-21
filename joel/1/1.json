@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Sabda Yahweh sing teka marang Yoel, putrane Petuel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sabda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "היה",
+      "gloss": "teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrane"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuel"
+    }
+  ],
+  "timestamp": "2026-08-21T01:27:13.107808594Z",
+  "model": "glm-5.3"
+}

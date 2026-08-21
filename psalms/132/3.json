@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 132,
+  "translation": "Ora bakal aku lumebu ing tarub omahku, ora bakal aku munggah ing ranjang ambarku;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ora bakal"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "aku lumebu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ing tarub"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "omahku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ora bakal"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "aku munggah"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ranjang"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ambarku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:00.339451013Z",
+  "model": "glm-5.3"
+}

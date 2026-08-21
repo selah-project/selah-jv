@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 82,
+  "translation": "«Nganti kapan kowe ngadili kelainan, lan praupané wong-wong jahat kok angkat?» Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kapan"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "kowe ngadili"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kelainan"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "lan praupané"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wong-wong jahat"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "kok angkat"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-21T01:56:47.335550810Z",
+  "model": "glm-5.3"
+}

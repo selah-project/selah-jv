@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 119,
+  "translation": "Sumingkira saka aku, para pandurga, supaya aku bisa ngestrekake préntah-prentahé Elohimku.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "sumingkira"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "saka aku"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "para pandurga"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "supaya aku ngestrekake"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "préntah-préntah"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:05:34.647967991Z",
+  "model": "glm-5.3"
+}

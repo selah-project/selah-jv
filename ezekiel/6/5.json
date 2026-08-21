@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "jv",
+  "chapter": 6,
+  "translation": "Lan Aku bakal ndokok ⟨את⟩ layange anak-anake Yisrael ing ngarepe brahala-brahalane, lan Aku bakal ngebar ⟨את⟩ balung-balungmu sekitar ing pedhatahan-pedhatahanmu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "lan Aku bakal ndokok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "layange anak-anake Yisrael"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "layange"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ing ngarepe"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "brahala-brahalane"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "lan Aku bakal ngebar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balung-balungmu"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "balung-balungmu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sekitar"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "pedhatahan-pedhatahanmu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:08:05.818964616Z",
+  "model": "glm-5.3"
+}

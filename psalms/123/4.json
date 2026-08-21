@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 123,
+  "translation": "Saya gedhé karaweané sarirané awak kita, ing pangéce-écéné para kang tumaném, ing pangina-inané para asor ing sangkan paran.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "saya gedhé"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "karaweané"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sarirané"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "awak kita"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "pangéce-écéné"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "para kang tumaném"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "pangina-inané"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "para asor ing sangkan paran"
+    }
+  ],
+  "timestamp": "2026-08-21T02:07:36.776135255Z",
+  "model": "glm-5.3"
+}

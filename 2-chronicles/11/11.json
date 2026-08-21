@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Dhèwèké ngoptohi ⟨את⟩ bètèng-bètèng kasebut, lan nanemaké ing kono panggedhé lan gloangan panganan, lenga, lan anggur.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ngoptohi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bètèng-bètèng kasebut"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "bètèng-bètèng kasebut"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nanemaké"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ing kono"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "panggedhé"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "gloangan"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "panganan"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "lenga"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "anggur"
+    }
+  ],
+  "timestamp": "2026-08-21T03:34:26.022794003Z",
+  "model": "glm-5.3"
+}

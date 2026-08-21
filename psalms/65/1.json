@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 65,
+  "translation": "Kanggo pangendhag, mazmur kanggo Dawid, tembang.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kanggo pangendhag"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kanggo Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "tembang"
+    }
+  ],
+  "timestamp": "2026-08-21T01:53:04.025761465Z",
+  "model": "glm-5.3"
+}

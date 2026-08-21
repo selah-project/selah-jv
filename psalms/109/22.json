@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 109,
+  "translation": "Awit aku iku wong cilik lan mlarat, lan atiku tatu ing sajroning aku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wong cilik"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "lan mlarat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku iku"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "lan atiku"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "tatu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ing sajroning aku"
+    }
+  ],
+  "timestamp": "2026-08-21T02:03:41.677992332Z",
+  "model": "glm-5.3"
+}

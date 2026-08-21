@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "jv",
+  "chapter": 37,
+  "translation": "Lah dilapisi emas murni ing jero lan ing jaba, lan digawé kanggo iku bingkai emas ing sakubenge.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "dilapisi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "murni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ing jero"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ing jaba"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "digawé"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo iku"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bingkai"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing sakubenge"
+    }
+  ],
+  "timestamp": "2026-08-20T23:07:41.074468036Z",
+  "model": "glm-5.3"
+}

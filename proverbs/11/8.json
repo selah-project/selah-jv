@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 11,
+  "translation": "Wong bener wus metu saka susah; lan wong jahat lumebu ing panggonane.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "wong bener"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "saka susah"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "wus metu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lan lumebu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wong jahat"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ing panggonane"
+    }
+  ],
+  "timestamp": "2026-08-21T02:13:19.674199934Z",
+  "model": "glm-5.3"
+}

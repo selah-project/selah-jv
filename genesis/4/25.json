@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 4,
+  "translation": "Lan Adam mangerteni maneh ⟨את⟩ bojone, lan lairake sawijining putra, lan diarani jenenge Set, sebab \"Elohim wus amitahake marang aku bibit liya minangka gantine Hebel, amarga Qain wus mateni.\"",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "mangerteni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "maneh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bojone"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "bojone"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "lairake"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "diarani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jenenge"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jenenge"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sebab"
+    },
+    {
+      "surface": "שת",
+      "gloss": "wus amitahake"
+    },
+    {
+      "surface": "לי",
+      "gloss": "marang aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bibit"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "liya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "minangka gantine"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wus mateni"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qain"
+    }
+  ],
+  "timestamp": "2026-08-20T22:40:17.385813784Z",
+  "model": "glm-5.3"
+}

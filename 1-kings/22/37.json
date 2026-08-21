@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "jv",
+  "chapter": 22,
+  "translation": "Lajeng sang raja séda, lan ⟨⟨dibekakaké⟩⟩ menyang Shomeron, lan ⟨wong-wong⟩ nguburake ⟨את⟩ sang raja ing Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "lajeng séda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "lan rawuh"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "lan ⟨wong-wong⟩ nguburake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sang raja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang raja"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ing Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-21T00:23:16.279562847Z",
+  "model": "glm-5.3"
+}

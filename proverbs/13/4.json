@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "jv",
+  "chapter": 13,
+  "translation": "Nepsune wong pamereh nggemerake nanging ora duwe; nepsune wong sregep bakal wareg.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "nggemerake"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nanging ora duwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nepsune"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "wong pamereh"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "nepsune"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "wong sregep"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "bakal wareg"
+    }
+  ],
+  "timestamp": "2026-08-21T04:20:01.866356470Z",
+  "model": "glm-5.3"
+}

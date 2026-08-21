@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "jv",
+  "chapter": 9,
+  "translation": "Sesepuh lan sing pinuji rai, iku ⟨the⟩ sirah; lan nabi sing mulangake goroh, iku ⟨the⟩ buntut.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "sesepuh"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "lan sing pinuji"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "rai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "sirah"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "lan nabi"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "mulangake"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "goroh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "buntut"
+    }
+  ],
+  "timestamp": "2026-08-21T00:34:31.672561326Z",
+  "model": "glm-5.3"
+}

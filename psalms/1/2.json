@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "jv",
+  "chapter": 1,
+  "translation": "Nanging karepe ⟨is⟩ ing Toret Yahweh, lan ing Torete ⟨iye⟩ nguneg-uneg sedina lan sedalu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "ing Toret"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "karepe"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "lan ing Torete"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "nguneg-uneg"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sedina"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "lan sedalu"
+    }
+  ],
+  "timestamp": "2026-08-21T01:41:15.428388176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "jv",
+  "chapter": 34,
+  "translation": "Pangucape iku endah ing paningalé Khamor lan ing paningalé Shekhem putrané Khamor.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "dadi endah"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "pangucape"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ing paningalé"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "lan ing paningalé"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putrané"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    }
+  ],
+  "timestamp": "2026-08-20T22:50:20.581898320Z",
+  "model": "glm-5.3"
+}
