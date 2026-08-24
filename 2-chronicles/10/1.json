@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Banjur Rehabeam tindhak menyang Shekhem, awit ing Shekhem kabeh Israel wus teka kanggo nglantikake ⟨את⟩ ⟨אתו⟩ dadi ratu.",
+  "translation": "Lajeng Rehabeam tindak menyang Shekhem, amarga ing Shekhem kabeh Israel padha teka kanggo nglantikake dadi raja ⟨את⟩ dheweke.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "banjur tindhak"
+      "gloss": "lajeng tindak"
     },
     {
       "surface": "רחבעם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "awit"
+      "gloss": "amarga"
     },
     {
       "surface": "שכם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "wus teka"
+      "gloss": "padha teka"
     },
     {
       "surface": "כל",
@@ -41,14 +41,14 @@
     },
     {
       "surface": "להמליך",
-      "gloss": "kanggo nglantikake dadi ratu"
+      "gloss": "kanggo nglantikake dadi raja"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Rehabeam (dheweke)"
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.702779684Z",
+  "timestamp": "2026-08-24T06:10:42.385013623Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Namung ⟨⟨umature⟩⟩: umat iku isih nglabuhake kurban ing papan dhuwur, amarga ⟨isih⟩ durung ana yasa omah kanggo Asma Yahweh nganti dina-dina iku.",
+  "translation": "Namung sang wong ing kono isih ngorbanake ing papan-papan dhuwur, amarga durung ana omah diyasa kanggo Asma Yahweh nganti dina-dina iku.",
   "tokens": [
     {
       "surface": "רק",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "umat"
+      "gloss": "sang wong"
     },
     {
       "surface": "מזבחים",
-      "gloss": "isih nglabuhake kurban"
+      "gloss": "ngorbanake"
     },
     {
       "surface": "בבמות",
-      "gloss": "ing papan dhuwur"
+      "gloss": "ing papan-papan dhuwur"
     },
     {
       "surface": "כי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "durung ana"
+      "gloss": "durung"
     },
     {
       "surface": "נבנה",
-      "gloss": "yasa"
+      "gloss": "diyasa"
     },
     {
       "surface": "בית",
@@ -60,6 +60,6 @@
       "gloss": "iku"
     }
   ],
-  "timestamp": "2026-08-21T00:15:10.893957780Z",
+  "timestamp": "2026-08-24T05:50:52.468177411Z",
   "model": "glm-5.3"
 }

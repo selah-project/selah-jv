@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 13,
-  "translation": "Lan Moshe njupuk ⟨את⟩ balung-balunge Yosef karo awake; sabab dheweke wus nganti sumpah-sumpahi ⟨את⟩ para putra Yisrael, ngucap: Mesthi Elohim bakal nggatekake ⟨אתכם⟩, lan sira bakal ngunggahake ⟨את⟩ balung-balungku saka kene ⟨אתכם⟩.",
+  "translation": "Lan Moshe njupuk ⟨את⟩ balung-balunge Yosef karo ⟨dhewe⟩, awit dheweke prasaja banget marang ⟨את⟩ bani IsraEl, ngendika: Pekod bakal mriksa ⟨את⟩ kowe, lan kowe bakal ngunggahake ⟨את⟩ balung-balungku saka kene ⟨את⟩ bareng karo kowe.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "עצמות",
-      "gloss": "balung-balung"
+      "gloss": "balung-balunge"
     },
     {
       "surface": "יוסף",
@@ -30,44 +30,44 @@
     },
     {
       "surface": "עמו",
-      "gloss": "karo awake"
+      "gloss": "karo dhewe"
     },
     {
       "surface": "כי",
-      "gloss": "sabab"
+      "gloss": "awit"
     },
     {
       "surface": "השבע",
-      "gloss": "nganti sumpah"
+      "gloss": "prasaja banget"
     },
     {
       "surface": "השביע",
-      "gloss": "sumpah-sumpahi"
+      "gloss": "marang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "para putra Yisrael"
+      "marks": "bani IsraEl"
     },
     {
       "surface": "בני",
-      "gloss": "para putra"
+      "gloss": "bani"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "IsraEl"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngucap"
+      "gloss": "ngendika"
     },
     {
       "surface": "פקד",
-      "gloss": "mesthi"
+      "gloss": "Pekod"
     },
     {
       "surface": "יפקד",
-      "gloss": "nggatekake"
+      "gloss": "bakal mriksa"
     },
     {
       "surface": "אלהים",
@@ -75,12 +75,11 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "sira"
+      "gloss": "⟨את⟩ kowe"
     },
     {
-      "surface": "והעליתם",
-      "gloss": "lan sira bakal ngunggahake"
+      "surface": "ויקח\/והעליתם",
+      "gloss": "lan bakal ngunggahake"
     },
     {
       "surface": "את",
@@ -97,10 +96,9 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "sira"
+      "gloss": "⟨את⟩ bareng karo kowe"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.653191575Z",
+  "timestamp": "2026-08-24T05:35:34.067399709Z",
   "model": "glm-5.3"
 }

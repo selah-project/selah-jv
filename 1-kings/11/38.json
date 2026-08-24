@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 11,
-  "translation": "Lan bakal mengkono, menawa sira ngluhurake ⟨את⟩ sakabehing sing dakdhawuhake, lan sira miliha ing dadaku, lan nindakake sing bener ing paningalanku, niteni angger-anggerku lan parentahku, kaya sing ditindakake Dawid abdiku, bakal dak dadi aku ana ing sacedhakemu, lan dak yasa marang sira ⟨the⟩ omah kang tetep, kaya sing dak yasa marang Dawid, lan dak paringake marang sira ⟨את⟩ Yisrael.",
+  "translation": "Lan bakal dadi mengkono: menawa sira nglisteni ⟨את⟩ kabeh sing Dakdhawuhake marang sira, lan sira mlaku ing dalan-dalanku, lan sira nindakake sing jujur ing paningalanku, kanggo ngestokake paemahanku lan parentahku, kaya sing ditindakake Dawid abdiku, banjur Aku bakal dadi ana bareng sira, lan Dakbangunake kanggo sira omah kang tetep, kaya sing Dakbangunake kanggo Dawid, lan Dakparingake ⟨את⟩ Israèl marang sira.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "lan bakal mengkono"
+      "gloss": "lan bakal dadi"
     },
     {
       "surface": "אם",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "sira ngluhurake"
+      "gloss": "sira nglisteni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sakabehing sing dakdhawuhake"
+      "marks": "kabeh"
     },
     {
       "surface": "כל",
-      "gloss": "sakabehing"
+      "gloss": "kabeh"
     },
     {
       "surface": "אשר",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "אצוך",
-      "gloss": "dakdhawuhake"
+      "gloss": "Dakdhawuhake marang sira"
     },
     {
       "surface": "והלכת",
-      "gloss": "lan sira miliha"
+      "gloss": "lan sira mlaku"
     },
     {
       "surface": "בדרכי",
-      "gloss": "ing dadaku"
+      "gloss": "ing dalan-dalanku"
     },
     {
       "surface": "ועשית",
-      "gloss": "lan nindakake"
+      "gloss": "lan sira nindakake"
     },
     {
       "surface": "הישר",
-      "gloss": "sing bener"
+      "gloss": "sing jujur"
     },
     {
       "surface": "בעיני",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "לשמור",
-      "gloss": "niteni"
+      "gloss": "kanggo ngestokake"
     },
     {
       "surface": "חקותי",
-      "gloss": "angger-anggerku"
+      "gloss": "paemahanku"
     },
     {
       "surface": "ומצותי",
@@ -86,19 +86,19 @@
     },
     {
       "surface": "והייתי",
-      "gloss": "bakal dak dadi aku"
+      "gloss": "lan Aku bakal dadi"
     },
     {
       "surface": "עמך",
-      "gloss": "ana ing sacedhakemu"
+      "gloss": "ana bareng sira"
     },
     {
       "surface": "ובניתי",
-      "gloss": "lan dak yasa"
+      "gloss": "lan Dakbangunake"
     },
     {
       "surface": "לך",
-      "gloss": "marang sira"
+      "gloss": "kanggo sira"
     },
     {
       "surface": "בית",
@@ -114,15 +114,15 @@
     },
     {
       "surface": "בניתי",
-      "gloss": "dak yasa"
+      "gloss": "Dakbangunake"
     },
     {
       "surface": "לדוד",
-      "gloss": "marang Dawid"
+      "gloss": "kanggo Dawid"
     },
     {
       "surface": "ונתתי",
-      "gloss": "lan dak paringake"
+      "gloss": "lan Dakparingake"
     },
     {
       "surface": "לך",
@@ -131,13 +131,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisrael"
+      "marks": "Israèl"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israèl"
     }
   ],
-  "timestamp": "2026-08-21T00:19:12.574857784Z",
+  "timestamp": "2026-08-24T05:51:59.036211272Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 115,
-  "translation": "Ora kanggo kita, Yahweh, ora kanggo kita, amarga kanggo asma-Mu mulyakake ⟨⟨כבוד⟩⟩ — kanggo asma-Mu wenehana kamulyan, amarga sih-Mu, amarga katresnan setya-Mu.",
+  "translation": "Ora kanggo kita, Yahweh, ora kanggo kita, nanging mung marang asma-Mu sanggakake kamulyan, amarga sih-kawelasan-Mu, amarga kasetyan-Mu.",
   "tokens": [
     {
       "surface": "לא",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "amarga"
+      "gloss": "nanging ⟨amarga⟩"
     },
     {
       "surface": "לשמך",
-      "gloss": "kanggo asma-Mu"
+      "gloss": "marang asma-Mu"
     },
     {
       "surface": "תן",
-      "gloss": "wenehana"
+      "gloss": "sanggakake"
     },
     {
       "surface": "כבוד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "חסדך",
-      "gloss": "sih-Mu"
+      "gloss": "sih-kawelasan-Mu"
     },
     {
       "surface": "על",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "אמתך",
-      "gloss": "katresnan setya-Mu"
+      "gloss": "kasetyan-Mu"
     }
   ],
-  "timestamp": "2026-08-21T04:18:57.320447577Z",
+  "timestamp": "2026-08-24T06:03:54.431219629Z",
   "model": "glm-5.3"
 }

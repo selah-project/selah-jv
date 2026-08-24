@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 99,
-  "translation": "Yahweh digjaya ⟨⟨ing⟩⟩ dumadi; para bangsa getun; Sang Nunggu ing para kerub, bumi sisih",
+  "translation": "Yahweh jumeneng ratu — para bangsa gumeter; Sang Numenungi para kerub — bumi obah kageter.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "digjaya dumadi"
+      "gloss": "jumeneng ratu"
     },
     {
       "surface": "ירגזו",
-      "gloss": "getun"
+      "gloss": "gumeter"
     },
     {
       "surface": "עמים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "Sang Nunggu"
+      "gloss": "numenungi"
     },
     {
       "surface": "כרובים",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "תנוט",
-      "gloss": "sisih"
+      "gloss": "obah kageter"
     },
     {
       "surface": "הארץ",
       "gloss": "bumi"
     }
   ],
-  "timestamp": "2026-08-21T02:00:43.756463213Z",
+  "timestamp": "2026-08-24T06:03:59.278431157Z",
   "model": "glm-5.3"
 }

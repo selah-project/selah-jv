@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 49,
-  "translation": "Sadulur ⟨⟨ora bisa⟩⟩ tinimbang ditebus; ⟨⟨ora⟩⟩ bisa menawa wong nglunasi, ora bisa menehi marang Elohim pamurine",
+  "translation": "Sadulur ⟨saka│wong liya⟩ ora bisa Lunsu-tebus wong; ⟨dheweke⟩ ora bisa menehi marang Elohim pandombe-ne.",
   "tokens": [
     {
       "surface": "אח",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "פדה",
-      "gloss": "bisa nglunasi"
+      "gloss": "tebus (infinitive: patunjukan martabe)"
     },
     {
       "surface": "יפדה",
-      "gloss": "tinimbang ditebus"
+      "gloss": "bisa lunsu-tebus"
     },
     {
       "surface": "איש",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "bisa menehi"
+      "gloss": "menehi"
     },
     {
       "surface": "לאלהים",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "כפרו",
-      "gloss": "pamurine"
+      "gloss": "pandombe-ne"
     }
   ],
-  "timestamp": "2026-08-21T01:50:02.166531397Z",
+  "timestamp": "2026-08-24T06:02:51.706017224Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Ora ana mripat sing welas marang kowe, kanggo nglakoni ⟨the⟩ siji saka iku kabeh marang kowe, kanggo welas-asih marang kowe; lan kowe kabuwanga ing pasuryaning padesan, ing kesangejaning awakmu, ing dina nalika lair ⟨את⟩ kowe.",
+  "translation": "Ora ana mripat sing wirang marang sira, kanggo nindakake marang sira siji saka kabeh iki, nganti welas asih marang sira; nanging sira dibuwang ing satengahing ara-ara, amarga jiwane sira jijik, ing dinane sira dilahirake ⟨את⟩.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "חסה",
-      "gloss": "welas"
+      "gloss": "wirang"
     },
     {
       "surface": "עליך",
-      "gloss": "marang kowe"
+      "gloss": "marang sira"
     },
     {
       "surface": "עין",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "kanggo nglakoni"
+      "gloss": "kanggo nindakake"
     },
     {
       "surface": "לך",
-      "gloss": "marang kowe"
+      "gloss": "marang sira"
     },
     {
       "surface": "אחת",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "מאלה",
-      "gloss": "saka iku kabeh"
+      "gloss": "saka kabeh iki"
     },
     {
       "surface": "לחמלה",
-      "gloss": "kanggo welas-asih"
+      "gloss": "nganti welas asih"
     },
     {
       "surface": "עליך",
-      "gloss": "marang kowe"
+      "gloss": "marang sira"
     },
     {
       "surface": "ותשלכי",
-      "gloss": "lan kowe kabuwanga"
+      "gloss": "nanging sira dibuwang"
     },
     {
       "surface": "אל",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "פני",
-      "gloss": "pasuryaning"
+      "gloss": "satengahing"
     },
     {
       "surface": "השדה",
-      "gloss": "padesan"
+      "gloss": "ara-ara"
     },
     {
       "surface": "בגעל",
-      "gloss": "ing kesangejaning"
+      "gloss": "amarga jijik"
     },
     {
       "surface": "נפשך",
-      "gloss": "awakmu"
+      "gloss": "jiwane sira"
     },
     {
       "surface": "ביום",
@@ -77,14 +77,14 @@
     },
     {
       "surface": "הלדת",
-      "gloss": "nalika lahire"
+      "gloss": "sira dilahirake"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kowe",
-      "marks": "kowe (sang junction nalika lahir)"
+      "gloss": "⟨את⟩",
+      "marks": "sira (obyek saka dilahirake)"
     }
   ],
-  "timestamp": "2026-08-21T01:11:58.978229584Z",
+  "timestamp": "2026-08-24T06:12:56.180884210Z",
   "model": "glm-5.3"
 }

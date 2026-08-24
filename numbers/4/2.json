@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 4,
-  "translation": "Ndhunga ⟨את⟩ sirahing para putra Kehath saka tengahing para putra Lewi, miturut klane, miturut omahing para leluhuře ⟨the⟩.",
+  "translation": "Nunggaké ⟨את⟩ endhas para putra Kehat, saka tengahing para putra Lewi, miturut kulawargané, miturut omah para bapaké.",
   "tokens": [
     {
       "surface": "נשא",
-      "gloss": "ndhunga"
+      "gloss": "Nunggaké"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sirahing para putra Kehath"
+      "marks": "endhas para putra Kehat"
     },
     {
       "surface": "ראש",
-      "gloss": "sirah"
+      "gloss": "endhas"
     },
     {
       "surface": "בני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "קהת",
-      "gloss": "Kehath"
+      "gloss": "Kehat"
     },
     {
       "surface": "מתוך",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "miturut klane"
+      "gloss": "miturut kulawargané"
     },
     {
       "surface": "לבית",
-      "gloss": "miturut omahing"
+      "gloss": "miturut omah"
     },
     {
       "surface": "אבתם",
-      "gloss": "para leluhuře"
+      "gloss": "para bapaké"
     }
   ],
-  "timestamp": "2026-08-20T23:19:13.991706023Z",
+  "timestamp": "2026-08-24T05:40:40.125042804Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,28 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 12,
-  "translation": "Lan Aku bakal ngluwihi jala-Ku marang dhèwèké, lan dhèwèké bakal kacekel ing jala-Ku; lan Aku bakal nggawa ⟨את⟩ ⟨אתו⟩ menyang Bavel, ing tanah Kasdim, lan ⟨את⟩ ⟨אותה⟩ ora bakal dideleng, lan ing kono dhèwèké bakal mati.",
+  "translation": "Lan Aku bakal ngembarake ⟨את⟩ jaring-Ku marang awake, lan dheweke bakal kacekel ing jala-Ku; lan Aku bakal nggawa ⟨את⟩ ⟨אתו⟩ menyang Bavel, bumi para Kasdim, nanging ⟨את⟩ iku ora bakal didelenge, lan ing kono dheweke bakal mati.",
   "tokens": [
     {
       "surface": "ופרשתי",
-      "gloss": "bakal Aku ngluwihi"
+      "gloss": "lan Aku bakal ngembarake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jala-Ku"
+      "marks": "jaring-Ku"
     },
     {
       "surface": "רשתי",
-      "gloss": "jala-Ku"
+      "gloss": "jaring-Ku"
     },
     {
       "surface": "עליו",
-      "gloss": "marang dhèwèké"
+      "gloss": "marang awake"
     },
     {
       "surface": "ונתפש",
-      "gloss": "kacekel"
+      "gloss": "lan dheweke bakal kacekel"
     },
     {
       "surface": "במצודתי",
@@ -47,16 +47,15 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "tanah"
+      "gloss": "bumi"
     },
     {
       "surface": "כשדים",
-      "gloss": "Kasdim"
+      "gloss": "para Kasdim"
     },
     {
       "surface": "ואותה",
-      "gloss": "⟨את⟩ ⟨אותה⟩",
-      "marks": "ora"
+      "gloss": "nanging ⟨את⟩ iku"
     },
     {
       "surface": "לא",
@@ -64,7 +63,7 @@
     },
     {
       "surface": "יראה",
-      "gloss": "dideleng"
+      "gloss": "bakal didelenge"
     },
     {
       "surface": "ושם",
@@ -72,9 +71,9 @@
     },
     {
       "surface": "ימות",
-      "gloss": "mati"
+      "gloss": "dheweke bakal mati"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.787528947Z",
+  "timestamp": "2026-08-24T12:34:18.476046517Z",
   "model": "glm-5.3"
 }

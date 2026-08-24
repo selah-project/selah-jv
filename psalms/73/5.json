@@ -5,27 +5,27 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 73,
-  "translation": "Ora kena Sangsara kaya manungsa liya, lan ora kena dipatrapi kaya ⟨⟨manungsa⟩⟩ biasa.",
+  "translation": "Ing kasusahané para manungsa mati ⟨ora⟩ kalebu dhéwé, lan karo ⟨sésa⟩ manungsa liya ora tau kena siksa.",
   "tokens": [
     {
       "surface": "בעמל",
-      "gloss": "sangsara"
+      "gloss": "ing kasusahané"
     },
     {
       "surface": "אנוש",
-      "gloss": "manungsa fana"
+      "gloss": "para manungsa fana"
     },
     {
       "surface": "אינמו",
-      "gloss": "ora kena"
+      "gloss": "ora ana (kalebu dhéwé)"
     },
     {
       "surface": "ועם",
-      "gloss": "lan kaya"
+      "gloss": "lan karo"
     },
     {
       "surface": "אדם",
-      "gloss": "manungsa biasa"
+      "gloss": "manungsa biyasa"
     },
     {
       "surface": "לא",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "ינגעו",
-      "gloss": "dipatrapi"
+      "gloss": "kena siksa \/ disiksa"
     }
   ],
-  "timestamp": "2026-08-21T01:54:53.663730070Z",
+  "timestamp": "2026-08-24T06:03:04.749450668Z",
   "model": "glm-5.3"
 }

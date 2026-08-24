@@ -5,27 +5,27 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Lan dheweke teka ing kono menyang ⟨the⟩ guwa, lan bengi ing kono; lan lah, sabda Yahweh marang dheweke, lan ⟨Ia⟩ ngandika marang dheweke: Apa sing kokgoleki ing kene, Eliyahu?",
+  "translation": "Lan teka ⟨⟨ing⟩⟩ kana mring ⟨ing⟩ guwa, lan semalam ing kono; lan lah, sabda Yahweh marang dheweke, lan pangandikane marang dheweke: Ana apa kowe ing kene, Eliyahu?",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "teka"
+      "gloss": "lan teka"
     },
     {
       "surface": "שם",
-      "gloss": "ing kono"
+      "gloss": "kana"
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "mring"
     },
     {
       "surface": "המערה",
-      "gloss": "guwa"
+      "gloss": "⟨ing⟩ guwa"
     },
     {
       "surface": "וילן",
-      "gloss": "bengi"
+      "gloss": "lan semalam"
     },
     {
       "surface": "שם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "lah"
+      "gloss": "lan lah"
     },
     {
       "surface": "דבר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ngandika"
+      "gloss": "lan pangandikane"
     },
     {
       "surface": "לו",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "apa"
+      "gloss": "ana apa"
     },
     {
       "surface": "לך",
-      "gloss": "kokgoleki"
+      "gloss": "kowe"
     },
     {
       "surface": "פה",
@@ -72,6 +72,6 @@
       "gloss": "Eliyahu"
     }
   ],
-  "timestamp": "2026-08-21T00:21:38.361551008Z",
+  "timestamp": "2026-08-24T05:51:34.529399414Z",
   "model": "glm-5.3"
 }

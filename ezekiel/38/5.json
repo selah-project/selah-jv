@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 38,
-  "translation": "Paras, Kush, lan Put ⟨את⟩ ⟨אתם⟩, kabeh padha nganggo tameng lan helm.",
+  "translation": "Peras, Kus, lan Put karo ⟨את⟩ dheweke, kabeh padha nganggo perisai lan helm.",
   "tokens": [
     {
       "surface": "פרס",
-      "gloss": "Paras"
+      "gloss": "Peras"
     },
     {
       "surface": "כוש",
-      "gloss": "Kush"
+      "gloss": "Kus"
     },
     {
       "surface": "ופוט",
@@ -21,8 +21,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "karo wong-wong mau (Paras lan Kush)"
+      "gloss": "karo ⟨את⟩ dheweke"
     },
     {
       "surface": "כלם",
@@ -30,13 +29,13 @@
     },
     {
       "surface": "מגן",
-      "gloss": "tameng"
+      "gloss": "perisai"
     },
     {
       "surface": "וכובע",
       "gloss": "lan helm"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.795038640Z",
+  "timestamp": "2026-08-24T05:58:57.804188611Z",
   "model": "glm-5.3"
 }

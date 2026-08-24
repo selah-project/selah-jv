@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Ing wektu iku Yahweh ngandika marang aku: Pahatna dhewe prasasti watu loro kaya sing kapisan, lan mungahta marang Aku ing gunung, lan kowe bakal gawea dhewe ⟨⟨the⟩⟩ peti saka kayu.",
+  "translation": "Ing wektu iku Yahweh ngandika marang aku: Pandhei ana rong lempengan watu kaya kang kapisan, lan munggaha marang Aku ing ⟨the⟩ gunung, lan sira gawe ana peti kayu.",
   "tokens": [
     {
       "surface": "בעת",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "פסל",
-      "gloss": "pahatna"
+      "gloss": "pandhei"
     },
     {
       "surface": "לך",
-      "gloss": "dhewe"
+      "gloss": "ana"
     },
     {
       "surface": "שני",
-      "gloss": "loro"
+      "gloss": "rong"
     },
     {
       "surface": "לוחת",
-      "gloss": "prasasti"
+      "gloss": "lempengan"
     },
     {
       "surface": "אבנים",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "כראשנים",
-      "gloss": "kaya sing kapisan"
+      "gloss": "kaya kang kapisan"
     },
     {
       "surface": "ועלה",
-      "gloss": "lan mungahta"
+      "gloss": "lan munggaha"
     },
     {
       "surface": "אלי",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "lan kowe bakal gawea"
+      "gloss": "lan sira gawe"
     },
     {
       "surface": "לך",
-      "gloss": "dhewe"
+      "gloss": "ana"
     },
     {
       "surface": "ארון",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "עץ",
-      "gloss": "saka kayu"
+      "gloss": "kayu"
     }
   ],
-  "timestamp": "2026-08-20T23:32:56.194378153Z",
+  "timestamp": "2026-08-24T05:43:31.400017081Z",
   "model": "glm-5.3"
 }

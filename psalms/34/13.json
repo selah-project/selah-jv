@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 34,
-  "translation": "Sapa ⟨the⟩ wong kang seneng urip, tresna dina-dina supaya ndeleng kabecikan?",
+  "translation": "Sapa ⟨⟨is⟩⟩ wong sing karep urip, sing tresna dina-dina supaya ndeleng ⟨את⟩ kang becik?",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "Sapa"
+      "gloss": "sapa"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ wong"
+      "gloss": "wong"
     },
     {
       "surface": "החפץ",
-      "gloss": "kang seneng"
+      "gloss": "sing karep"
     },
     {
       "surface": "חיים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אהב",
-      "gloss": "tresna"
+      "gloss": "sing tresna"
     },
     {
       "surface": "ימים",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "טוב",
-      "gloss": "kabecikan"
+      "gloss": "kang becik"
     }
   ],
-  "timestamp": "2026-08-21T01:46:43.660984642Z",
+  "timestamp": "2026-08-24T06:02:19.540067333Z",
   "model": "glm-5.3"
 }

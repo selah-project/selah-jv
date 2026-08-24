@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Lan Yitshak nggawa ⟨⟨dhèwèké⟩⟩ mlebu ing khemahé Sarah, ibuné, lan njupuk ⟨את⟩ Riwkah, lan dhèwèké dadi bojoné, lan disenengi; lan Yitshak katemokaken péningkasé sawisé ibuné.",
+  "translation": "Lan Yitshak nggawa ⟨את⟩ dheweke mrono ing sajroning khemah Sarahé emake, banjur njupuk ⟨את⟩ Rivkah, lan dheweke dadi bojoné, lan ditresnani; lan Yitshak kenten-atèn sawisé emake.",
   "tokens": [
     {
       "surface": "ויבאה",
-      "gloss": "nggawa mlebu"
+      "gloss": "nggawa-mrono"
     },
     {
       "surface": "יצחק",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "האהלה",
-      "gloss": "khemahé"
+      "gloss": "khemah"
     },
     {
       "surface": "שרה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמו",
-      "gloss": "ibuné"
+      "gloss": "emake"
     },
     {
       "surface": "ויקח",
@@ -34,31 +34,31 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Riwkah"
+      "marks": "Rivkah"
     },
     {
       "surface": "רבקה",
-      "gloss": "Riwkah"
+      "gloss": "Rivkah"
     },
     {
       "surface": "ותהי",
-      "gloss": "dadi"
+      "gloss": "lan dheweke dadi"
     },
     {
       "surface": "לו",
-      "gloss": "kanggo"
-    },
-    {
-      "surface": "לאשה",
       "gloss": "bojoné"
     },
     {
+      "surface": "לאשה",
+      "gloss": "minangka garwa"
+    },
+    {
       "surface": "ויאהבה",
-      "gloss": "disenengi"
+      "gloss": "lan ditresnani"
     },
     {
       "surface": "וינחם",
-      "gloss": "katemokaken péningkasé"
+      "gloss": "lan kenten-atèn"
     },
     {
       "surface": "יצחק",
@@ -70,9 +70,9 @@
     },
     {
       "surface": "אמו",
-      "gloss": "ibuné"
+      "gloss": "emake"
     }
   ],
-  "timestamp": "2026-08-20T22:46:05.032667586Z",
+  "timestamp": "2026-08-24T05:32:39.513986818Z",
   "model": "glm-5.3"
 }

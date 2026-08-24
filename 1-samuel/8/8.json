@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Miturut sabarang pakaryan sing padha ditindakaké awit saka dinané Ingsun nunggalaké ⟨את⟩ ⟨אתם⟩ dheweke metu saka Mitsrayim, nganti ing dina iki — padha nglantarake Ingsun lan padha nglayani elohim liyan — mengkono uga sing padha ditindakaké marang sampéyan.",
+  "translation": "Miturut sakehing panggawé sing padha dilakoni, wiwit saka dina nalika Ingsun nglungguhake ⟨את⟩ dhèwèké metu saka Mitsrayim nganti dina iki — lan padha nglirwakake Ingsun, padha nglayani elohim liyané — mengkono uga padha dilakoni marang sira.",
   "tokens": [
     {
       "surface": "ככל",
-      "gloss": "miturut sabarang"
+      "gloss": "Miturut sakehing"
     },
     {
       "surface": "המעשים",
-      "gloss": "pakaryan"
+      "gloss": "panggawé"
     },
     {
       "surface": "אשר",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "עשו",
-      "gloss": "padha ditindakaké"
+      "gloss": "padha dilakoni"
     },
     {
       "surface": "מיום",
-      "gloss": "awit saka dinané"
+      "gloss": "wiwit saka dina"
     },
     {
       "surface": "העלתי",
-      "gloss": "Ingsun nunggalaké metu"
+      "gloss": "nalika Ingsun nglungguhake metu"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "dheweke"
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
     },
     {
       "surface": "ממצרים",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "nganti ing"
+      "gloss": "nganti"
     },
     {
       "surface": "היום",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "ויעזבני",
-      "gloss": "padha nglantarake Ingsun"
+      "gloss": "lan padha nglirwakake Ingsun"
     },
     {
       "surface": "ויעבדו",
-      "gloss": "lan padha nglayani"
+      "gloss": "padha nglayani"
     },
     {
       "surface": "אלהים",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "liyan"
+      "gloss": "liyané"
     },
     {
       "surface": "כן",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "המה",
-      "gloss": "dheweke"
+      "gloss": "padha"
     },
     {
       "surface": "עשים",
-      "gloss": "padha ditindakaké"
+      "gloss": "dilakoni"
     },
     {
       "surface": "גם",
@@ -86,9 +86,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "marang sampéyan"
+      "gloss": "marang sira"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.728180788Z",
+  "timestamp": "2026-08-24T05:48:53.431037198Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,121 @@
   "book": "zephaniah",
   "lang": "jv",
   "chapter": 2,
-  "translation": "Mulane, sapada urip-Aku, pangandikane Yahweh Tzvaot, Elohim Yisrael, temen Moab bakal dadi kaya Sdom, lan bene Ammon kaya Amora, dadi duwene eri-erian, kebon uyah, lan puing salawasé; sisa umat-Ku bakal njarah ⟨את⟩... ",
-  "tokens": [],
-  "timestamp": "2026-08-21T01:35:17.317701470Z",
+  "translation": "Mulane, dhemene aku urip, pangandikane Yahweh Tzevaot, Elohime Israél: Moab bakal dadi kaya Sedom, lan anake Amon kaya Amora — dhuwure jemèt-jemètan lan grembol uyah, dadi sara nganti salawas-lawase; sisané umatku bakal ngrampoki, lan liyané bangsa bakal mundhut pusakane.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mulane"
+    },
+    {
+      "surface": "חי",
+      "gloss": "dhemene"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "pangandikane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tzevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israél"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satemen"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "kaya Sedom"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bakal dadi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "lan anake"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "כעמרה",
+      "gloss": "kaya Amora"
+    },
+    {
+      "surface": "ממשק",
+      "gloss": "dhuwure"
+    },
+    {
+      "surface": "חרול",
+      "gloss": "jemèt-jemètan"
+    },
+    {
+      "surface": "ומכרה",
+      "gloss": "lan grembol"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "uyah"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "lan sara"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "sisané"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umatku"
+    },
+    {
+      "surface": "יבזום",
+      "gloss": "bakal ngrampoki"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "lan liyané"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "bangsa"
+    },
+    {
+      "surface": "ינחלום",
+      "gloss": "bakal mundhut pusakane"
+    }
+  ],
+  "timestamp": "2026-08-24T06:01:49.668547363Z",
   "model": "glm-5.3"
 }

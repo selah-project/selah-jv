@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Lan dadi abot tangan Yahweh marang wong-wong Ashdod, lan Panjenengane ngreridhu ⟨אתם⟩ ⟨את⟩ nuthuk ing bagean sing didhelikake, ⟨את⟩ Ashdod lan ⟨את⟩ wewengkone.",
+  "translation": "Lan dadi abot tangané Yahweh marang wong-wong Ashdod, banjur ngrampungi ⟨את⟩ wong-wong mau, lan nyerang ⟨את⟩ Ashdod lan ⟨את⟩ wewengkone kanthi borok-borok ana ing tonjolan chemore.",
   "tokens": [
     {
       "surface": "ותכבד",
-      "gloss": "lan dadi abot"
+      "gloss": "Lan dadi abot"
     },
     {
       "surface": "יד",
-      "gloss": "tangan"
+      "gloss": "tangané"
     },
     {
       "surface": "יהוה",
@@ -29,16 +29,20 @@
     },
     {
       "surface": "וישמם",
-      "gloss": "lan ngreridhu"
+      "gloss": "banjur ngrampungi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "lan nyerang"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩",
       "marks": "wong-wong Ashdod"
     },
     {
       "surface": "בעפלים",
-      "gloss": "⟨את⟩ nuthuk ing bagean sing didhelikake"
+      "gloss": "kanthi borok-borok ana ing tonjolan chemore"
     },
     {
       "surface": "את",
@@ -47,7 +51,7 @@
     },
     {
       "surface": "אשדוד",
-      "gloss": "⟨את⟩ Ashdod"
+      "gloss": "Ashdod"
     },
     {
       "surface": "ואת",
@@ -56,9 +60,9 @@
     },
     {
       "surface": "גבוליה",
-      "gloss": "⟨את⟩ wewengkone"
+      "gloss": "wewengkone"
     }
   ],
-  "timestamp": "2026-08-20T23:57:58.878809512Z",
+  "timestamp": "2026-08-24T05:46:46.463515116Z",
   "model": "glm-5.3"
 }

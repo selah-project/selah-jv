@@ -5,46 +5,46 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 25,
-  "translation": "Mulane padha nindakake ⟨את⟩ parentah-Ku lan ⟨את⟩ sandhiku kudu padha dijaga, sarta padha nindakake ⟨את⟩ iku, supaya padha manggen ing ⟨the⟩ bumi kanthi tentrem.",
+  "translation": "Lan sira padha nindakake ⟨את⟩ santose-ku lan ⟨את⟩ putusane-ku sira padga wujudna, lan sira nindakake ⟨את⟩ iku, supaya sira padha dumun ing ⟨the⟩ bumi kanthi tentrem.",
   "tokens": [
     {
       "surface": "ועשיתם",
-      "gloss": "padha nindakake"
+      "gloss": "lan sira padha nindakake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "parentah-Ku"
+      "marks": "santose-ku"
     },
     {
       "surface": "חקתי",
-      "gloss": "parentah-Ku"
+      "gloss": "santose-ku"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "sandhiku"
+      "marks": "putusane-ku"
     },
     {
       "surface": "משפטי",
-      "gloss": "sandhiku"
+      "gloss": "putusane-ku"
     },
     {
       "surface": "תשמרו",
-      "gloss": "kudu padha dijaga"
+      "gloss": "sira padga wujudna (wujudna)"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "padha nindakake"
+      "gloss": "lan sira nindakake"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "iku"
+      "gloss": "⟨את⟩ ⟨אתם⟩",
+      "marks": "iku (santose lan putusane-ku)"
     },
     {
       "surface": "וישבתם",
-      "gloss": "supaya padha manggen"
+      "gloss": "lan sira padha dumun"
     },
     {
       "surface": "על",
@@ -52,13 +52,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "⟨the⟩ bumi"
     },
     {
       "surface": "לבטח",
       "gloss": "kanthi tentrem"
     }
   ],
-  "timestamp": "2026-08-20T23:17:05.766466398Z",
+  "timestamp": "2026-08-24T12:34:18.478030263Z",
   "model": "glm-5.3"
 }

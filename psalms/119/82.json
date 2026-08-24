@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 119,
-  "translation": "Wis entek mripatku amarga ⟨the⟩ tembangmu, saka ngucap: pundi kami tansah ngapura aku?",
+  "translation": "Mripatku entek nyirati tembangmu, saka ngucap: kapan Kowé bakal nglipur aku?",
   "tokens": [
     {
       "surface": "כלו",
-      "gloss": "wis entek"
+      "gloss": "entek"
     },
     {
       "surface": "עיני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לאמרתך",
-      "gloss": "amarga tembangmu"
+      "gloss": "nyirati tembangmu"
     },
     {
       "surface": "לאמר",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "מתי",
-      "gloss": "pundi"
+      "gloss": "kapan"
     },
     {
       "surface": "תנחמני",
-      "gloss": "kowe ngapuraku"
+      "gloss": "Kowé bakal nglipur aku"
     }
   ],
-  "timestamp": "2026-08-21T04:19:05.392339676Z",
+  "timestamp": "2026-08-24T06:04:32.434210842Z",
   "model": "glm-5.3"
 }

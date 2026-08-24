@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 25,
-  "translation": "⟨את⟩ Yerushalayim lan ⟨את⟩ kutha-kuthané Yehudha, lan ⟨את⟩ ratu-ratuné, ⟨את⟩ panggedhéné, kanggo maringake ⟨את⟩ ⟨אתם⟩ dadi tlatah sing rusak, dadi gègèr, dadi cecakukan lan dadi bendu, kaya dina iki.",
+  "translation": "⟨את⟩ Yerushalayim lan ⟨את⟩ kutha-kuthane Yehudah lan ⟨את⟩ raja-rajané ⟨את⟩ panggedhéné, supaya aku ngetokaké dhèwèké dadi rusak, dadi geger, dadi sreesrepan lan dadi bendu, kaya dina iki",
   "tokens": [
     {
       "surface": "את",
@@ -19,24 +19,24 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "kutha-kuthané Yehudha"
+      "marks": "kutha-kuthane Yehudah"
     },
     {
       "surface": "ערי",
-      "gloss": "kutha-kuthané"
+      "gloss": "kutha-kuthane"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudha"
+      "gloss": "Yehudah"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "ratu-ratuné"
+      "marks": "raja-rajané"
     },
     {
       "surface": "מלכיה",
-      "gloss": "ratu-ratuné"
+      "gloss": "raja-rajané"
     },
     {
       "surface": "את",
@@ -49,24 +49,24 @@
     },
     {
       "surface": "לתת",
-      "gloss": "kanggo maringake"
+      "gloss": "supaya ngetokaké"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "dhèwèké"
+      "gloss": "⟨את⟩ dhèwèké",
+      "marks": "Yerushalayim lan kutha-kuthane Yehudah"
     },
     {
       "surface": "לחרבה",
-      "gloss": "dadi tlatah sing rusak"
+      "gloss": "dadi rusak"
     },
     {
       "surface": "לשמה",
-      "gloss": "dadi gègèr"
+      "gloss": "dadi geger"
     },
     {
       "surface": "לשרקה",
-      "gloss": "dadi cecakukan"
+      "gloss": "dadi sreesrepan"
     },
     {
       "surface": "ולקללה",
@@ -81,6 +81,6 @@
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.608301003Z",
+  "timestamp": "2026-08-24T05:55:34.284609025Z",
   "model": "glm-5.3"
 }

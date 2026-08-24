@@ -5,16 +5,16 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 29,
-  "translation": "Lan kowe njupuk ⟨את⟩ lenga pangurapan iku, lan ngundhakake ing dhuwure sirahé, lan ngurapake ⟨את⟩ ⟨אתו⟩ dheweke.",
+  "translation": "Lah kowé njupuk ⟨את⟩ lenga pangurmatan lan enggon ngetokaké ing endhasé, sarta ngurmati dhèwèké.",
   "tokens": [
     {
       "surface": "ולקחת",
-      "gloss": "lan kowe njupuk"
+      "gloss": "kowé njupuk"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lenga pangurapan"
+      "marks": "lenga pangurmatan"
     },
     {
       "surface": "שמן",
@@ -22,30 +22,30 @@
     },
     {
       "surface": "המשחה",
-      "gloss": "pangurapan"
+      "gloss": "pangurmatan"
     },
     {
       "surface": "ויצקת",
-      "gloss": "lan ngundhakake"
+      "gloss": "enggon ngetokaké"
     },
     {
       "surface": "על",
-      "gloss": "ing dhuwure"
+      "gloss": "ing"
     },
     {
       "surface": "ראשו",
-      "gloss": "sirahé"
+      "gloss": "endhasé"
     },
     {
       "surface": "ומשחת",
-      "gloss": "lan ngurapake"
+      "gloss": "ngurmati"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "dheweke (Aharon)"
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.645532048Z",
+  "timestamp": "2026-08-24T05:36:16.108771411Z",
   "model": "glm-5.3"
 }

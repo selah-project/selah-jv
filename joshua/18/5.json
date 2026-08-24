@@ -5,20 +5,20 @@
   "book": "joshua",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Lan ⟨אתה⟩ padha-dibagi dadi pitung bagéan: Yehuda angadeg ing wewengkone ing sisih kidul, lan Bêt Yoséf angadeg ing wewengkone ing sisih lor.",
+  "translation": "Lan padha pitulake ⟨את⟩ iku dadi pitu bagéan: Yehudha bakal ngadeg ing pawatesané ing sisih kidul, lan Beyt-Yosef bakal ngadeg ing pawatesané ing sisih lor.",
   "tokens": [
     {
       "surface": "והתחלקו",
-      "gloss": "padha mbagi"
+      "gloss": "lan padha pitulake"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "pitung bagéan"
+      "marks": "iku (nagari)"
     },
     {
       "surface": "לשבעה",
-      "gloss": "pitung"
+      "gloss": "dadi pitu"
     },
     {
       "surface": "חלקים",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudha"
     },
     {
       "surface": "יעמד",
-      "gloss": "angadeg"
+      "gloss": "bakal ngadeg"
     },
     {
       "surface": "על",
@@ -38,23 +38,23 @@
     },
     {
       "surface": "גבולו",
-      "gloss": "wewengkone"
+      "gloss": "pawatesané"
     },
     {
       "surface": "מנגב",
-      "gloss": "sisih kidul"
+      "gloss": "ing sisih kidul"
     },
     {
       "surface": "ובית",
-      "gloss": "lan Bêt"
+      "gloss": "lan Beyt"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yoséf"
+      "gloss": "Yosef"
     },
     {
       "surface": "יעמדו",
-      "gloss": "angadeg"
+      "gloss": "bakal ngadeg"
     },
     {
       "surface": "על",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "גבולם",
-      "gloss": "wewengkone"
+      "gloss": "pawatesané"
     },
     {
       "surface": "מצפון",
-      "gloss": "sisih lor"
+      "gloss": "ing sisih lor"
     }
   ],
-  "timestamp": "2026-08-20T23:46:14.741246190Z",
+  "timestamp": "2026-08-24T05:45:56.850500755Z",
   "model": "glm-5.3"
 }

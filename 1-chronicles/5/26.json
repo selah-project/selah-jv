@@ -5,24 +5,24 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Elohine Yisrael ngunggahake semangat Pul ratu Ashur lan ⟨את⟩ semangat Tilgat-Pilneser ratu Ashur， lan banjur padha dicekul： Wong Ruben， Wong Gad， lan setengah kabile Menashshe， lan digawa ing Halah， lan Habor， lan Hara， lan ing Kali Gozan， nganti tekan dina iki.",
+  "translation": "Banjur Elohim Israyel ngojo ⟨את⟩ semangate Pul ratu Assyur lan ⟨את⟩ semangate Tiglat-Pilneser ratu Assyur, sarta didegake marang bani Ruben, bani Gad, lan setengah kabilah Menasye, lan ditibakake menyang Halah, Habor, Hara lan kali Gozan, nganti tekan dina iki.",
   "tokens": [
     {
       "surface": "ויער",
-      "gloss": "ngunggahake"
+      "gloss": "digojo\/dijojo"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohi"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israyel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "semangat Pul"
+      "marks": "semangate Pul"
     },
     {
       "surface": "רוח",
@@ -38,12 +38,12 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "Assyur"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "semangat Tilgat-Pilneser"
+      "marks": "semangate Tiglat-Pilneser"
     },
     {
       "surface": "רוח",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "תלגת",
-      "gloss": "Tilgat-"
+      "gloss": "Tiglat"
     },
     {
       "surface": "פלנסר",
@@ -63,36 +63,39 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "Assyur"
     },
     {
       "surface": "ויגלם",
-      "gloss": "lan mili marang umuk ora gelem rehat（padha dicekulake）"
+      "gloss": "didegake\/digawa pembuangan"
     },
     {
       "surface": "לראובני",
-      "gloss": "Wong Ruben"
+      "gloss": "marang bani Ruben"
     },
     {
-      "surface": "ויגלם",
-      "gloss": "Wong Gad",
-      "note": "CORRECTED below"
+      "surface": "ולגדי",
+      "gloss": "lan marang bani Gad"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "lan marang setengah"
     },
     {
       "surface": "שבט",
-      "gloss": "kabile"
+      "gloss": "kabilah"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashshe"
+      "gloss": "Menasye"
     },
     {
       "surface": "ויביאם",
-      "gloss": "lan digawa ing"
+      "gloss": "ditibakake"
     },
     {
       "surface": "לחלח",
-      "gloss": "Halah"
+      "gloss": "menyang Halah"
     },
     {
       "surface": "וחבור",
@@ -104,7 +107,7 @@
     },
     {
       "surface": "ונהר",
-      "gloss": "ing Kali"
+      "gloss": "lan kali"
     },
     {
       "surface": "גוזן",
@@ -123,6 +126,6 @@
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-21T03:17:40.105806872Z",
+  "timestamp": "2026-08-24T06:09:21.842145990Z",
   "model": "glm-5.3"
 }

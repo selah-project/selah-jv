@@ -5,19 +5,19 @@
   "book": "proverbs",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Sebab sebab ⟨⟨ing ngisor iki⟩⟩ wong-wong mau gethen marang kawruh, lan wedi marang Yahweh ora dipilih.",
+  "translation": "Amarga dheweke sengsa ⟨את⟩ kawruh, lan wedi marang Yahweh ora dipilih.",
   "tokens": [
     {
       "surface": "תחת",
-      "gloss": "ing ngisor iki (padha karo)"
+      "gloss": "amarga"
     },
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "amarga"
     },
     {
       "surface": "שנאו",
-      "gloss": "gethen"
+      "gloss": "dheweke sengsa"
     },
     {
       "surface": "דעת",
@@ -40,6 +40,6 @@
       "gloss": "dipilih"
     }
   ],
-  "timestamp": "2026-08-21T02:10:30.275165627Z",
+  "timestamp": "2026-08-24T06:04:52.290682650Z",
   "model": "glm-5.3"
 }

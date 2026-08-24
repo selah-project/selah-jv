@@ -5,16 +5,16 @@
   "book": "ezra",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Banjur padha nindakake ⟨את⟩ riyaya ⟨the⟩ sukkot, kaya kang kaserat, lan korban bakar dina baka-dina miturut cacahé, miturut paḍem, padatan dina ing dinane.",
+  "translation": "Lan padha nindakake ⟨את⟩ riyayané Sukot kaya kang katulis, lan kurban obongé dina saben dina miturut cacah, kaya winates panuntuné dina ing dinané.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "padha nindakake"
+      "gloss": "lan padha nindakake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "riyaya"
+      "marks": "riyayané"
     },
     {
       "surface": "חג",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "הסכות",
-      "gloss": "sukkot"
+      "gloss": "Sukot"
     },
     {
       "surface": "ככתוב",
-      "gloss": "kaya kang kaserat"
+      "gloss": "kaya kang katulis"
     },
     {
       "surface": "ועלת",
-      "gloss": "lan korban bakar"
+      "gloss": "lan kurban obong"
     },
     {
       "surface": "יום",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "ביום",
-      "gloss": "baka-dina"
+      "gloss": "saben dina"
     },
     {
       "surface": "במספר",
-      "gloss": "miturut cacahé"
+      "gloss": "miturut cacah"
     },
     {
       "surface": "כמשפט",
-      "gloss": "miturut paḍem"
+      "gloss": "kaya winates"
     },
     {
       "surface": "דבר",
-      "gloss": "padatan"
+      "gloss": "panuntun"
     },
     {
       "surface": "יום",
@@ -61,6 +61,6 @@
       "gloss": "ing dinane"
     }
   ],
-  "timestamp": "2026-08-21T03:05:19.538458524Z",
+  "timestamp": "2026-08-24T06:08:47.370378790Z",
   "model": "glm-5.3"
 }

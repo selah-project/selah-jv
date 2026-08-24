@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Ora ana tangan njodhokake dheweke, amargi dirajam bakal dirajam utawa ditindakake panah bakal ditindakake panah; apa kewan apa manungsa, ora bakal urip; nalika sangkala yobel iku ngelanju, iya padha munggah menyang ⟨the⟩ redi.",
+  "translation": "Ora ana tangan nyentuh ⟨dheweke⟩, awit dirajam temahan dirajam utawa kepanah temahan kepanah; apa kewan apa manungsa, ora bakal urip; nalika sangkakala iku dawa-swara, wong-wong iku munggah menyang redi.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "תגע",
-      "gloss": "njodhokake"
+      "gloss": "nyentuh"
     },
     {
       "surface": "בו",
-      "gloss": "dheweke"
+      "gloss": "marang-dheweke"
     },
     {
       "surface": "יד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "amargi"
+      "gloss": "awit"
     },
     {
       "surface": "סקול",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יסקל",
-      "gloss": "bakal dirajam"
+      "gloss": "temahan-dirajam"
     },
     {
       "surface": "או",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ירה",
-      "gloss": "ditindakake panah"
+      "gloss": "kepanah"
     },
     {
       "surface": "יירה",
-      "gloss": "bakal ditindakake panah"
+      "gloss": "temahan-kepanah"
     },
     {
       "surface": "אם",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "יחיה",
-      "gloss": "bakal urip"
+      "gloss": "urip"
     },
     {
       "surface": "במשך",
-      "gloss": "nalika"
+      "gloss": "nalika-dawa-swara"
     },
     {
       "surface": "היבל",
-      "gloss": "sangkala yobel"
+      "gloss": "sangkakala"
     },
     {
       "surface": "המה",
-      "gloss": "iya padha"
+      "gloss": "wong-wong-iku"
     },
     {
       "surface": "יעלו",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "בהר",
-      "gloss": "menyang redi"
+      "gloss": "menyang-redi"
     }
   ],
-  "timestamp": "2026-08-20T23:01:31.816726838Z",
+  "timestamp": "2026-08-24T05:36:20.697597235Z",
   "model": "glm-5.3"
 }

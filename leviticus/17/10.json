@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Lan wong sapa wae saka bejasane Yisra'el, lan saka wong tamu sing dumadi ana ing tengah-tengahmu, sing mangan getih sapa wae — Aku bakal ngadegake pasir-Ku nglawan nyawa sing mangan ⟨את⟩ getih iku, lan bakal Kubusak ⟨אתה⟩ saka tengahing umate.",
+  "translation": "Lan wong lanang saka banure Israel utawa saka wong tamu sing mungguh ing antarane dheweke, sing mangan getih apa wae — Aku bakal madhepake rahsaku marang nyawa sing mangan ⟨את⟩ getih iku, lan Aku bakal nbusak ⟨את⟩ dheweke saka satengahing umate.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "lan saben wong"
+      "gloss": "lan wong lanang"
     },
     {
       "surface": "איש",
-      "gloss": "wong"
+      "gloss": "saben wong"
     },
     {
       "surface": "מבית",
-      "gloss": "saka bejane"
+      "gloss": "saka banure"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisra'el"
+      "gloss": "Israel"
     },
     {
       "surface": "ומן",
-      "gloss": "lan saka"
+      "gloss": "utawa saka"
     },
     {
       "surface": "הגר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הגר",
-      "gloss": "sing dumadi"
+      "gloss": "sing netep dadi tamu"
     },
     {
       "surface": "בתוכם",
-      "gloss": "ing tengah-tengahe"
+      "gloss": "ing antarane dheweke"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "apa wae"
     },
     {
       "surface": "דם",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "lan Kupasang"
+      "gloss": "Aku bakal madhepake"
     },
     {
       "surface": "פני",
-      "gloss": "pasir-Ku"
+      "gloss": "rahsaku"
     },
     {
       "surface": "בנפש",
@@ -78,26 +78,26 @@
     },
     {
       "surface": "הדם",
-      "gloss": "getih"
+      "gloss": "getih iku"
     },
     {
       "surface": "והכרתי",
-      "gloss": "lan Kubusak"
+      "gloss": "lan Aku bakal nbusak"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "saka tengah"
+      "marks": "dheweke"
     },
     {
       "surface": "מקרב",
-      "gloss": "saka tengah"
+      "gloss": "saka satengahing"
     },
     {
       "surface": "עמה",
       "gloss": "umate"
     }
   ],
-  "timestamp": "2026-08-20T23:14:31.476435141Z",
+  "timestamp": "2026-08-24T06:12:15.294090304Z",
   "model": "glm-5.3"
 }

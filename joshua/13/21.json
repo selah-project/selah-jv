@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "jv",
   "chapter": 13,
-  "translation": "Lan kabeh kutha-kutha ing dhataran, lan saindhenging karajan Sihon raja wong Emori, sing jumeneng raja ing Heshbon, sing dipateni Moshe — ⟨את⟩ dheweke lan ⟨את⟩ para panggedhe Midyan, ⟨את⟩ Evi lan ⟨את⟩ Rekem lan ⟨את⟩ Tsur lan ⟨את⟩ Hur lan ⟨את⟩ Reba, para panggedhene Sihon, sing padha manggon ing ⟨the⟩ bumi.",
+  "translation": "Lan kabeh kutha-kutha ing dataran iku, lan kabeh karajan Sihon raja wong Emori, sing maréntah ing Hesybon, sing ditumpes déning Moshe — ⟨את⟩ dhèwèké lan ⟨את⟩ para pangéran Midyan: ⟨את⟩ Evi lan ⟨את⟩ Rekem lan ⟨את⟩ Tsur lan ⟨את⟩ Hur lan ⟨את⟩ Reba, para putraning raja Sihon, sing padha manggon ing ⟨the⟩ bumi iku.",
   "tokens": [
     {
       "surface": "וכל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "המישר",
-      "gloss": "ing dhataran"
+      "gloss": "ing dataran iku"
     },
     {
       "surface": "וכל",
-      "gloss": "lan saindhenging"
+      "gloss": "lan kabeh"
     },
     {
       "surface": "ממלכות",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "jumeneng raja"
+      "gloss": "maréntah"
     },
     {
       "surface": "בחשבון",
-      "gloss": "ing Heshbon"
+      "gloss": "ing Hesybon"
     },
     {
       "surface": "אשר",
@@ -57,25 +57,25 @@
     },
     {
       "surface": "הכה",
-      "gloss": "dipateni"
+      "gloss": "ditumpes"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "déning Moshe"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dheweke (Sihon)"
+      "marks": "dhèwèké (Sihon)"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "para panggedhe Midyan"
+      "marks": "para pangéran Midyan"
     },
     {
       "surface": "נשיאי",
-      "gloss": "para panggedhe"
+      "gloss": "para pangéran"
     },
     {
       "surface": "מדין",
@@ -128,7 +128,7 @@
     },
     {
       "surface": "נסיכי",
-      "gloss": "para panggedhene"
+      "gloss": "para putraning raja"
     },
     {
       "surface": "סיחון",
@@ -140,9 +140,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "ing bumi"
+      "gloss": "ing bumi iku"
     }
   ],
-  "timestamp": "2026-08-20T23:44:35.548370901Z",
+  "timestamp": "2026-08-24T05:45:40.188980577Z",
   "model": "glm-5.3"
 }

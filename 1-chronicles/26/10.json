@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 26,
-  "translation": "Lan dhumateng Hosah, saka putra-putrane Merari, ana putra: Shimri sang kapisan ⟨⟨dudu anak kapisan⟩⟩, amarga dudu anak sulung, lan bapakne nglungguhake dadi kapisan.",
+  "translation": "Lan marang Hosah, saka bane Merari, ana bane: Shimri sang kepala (sabab dudu anak pambajang, nanging bapakne ndadekake dheweke dadi kepala).",
   "tokens": [
     {
       "surface": "ולחסה",
-      "gloss": "lan dhumateng Hosah"
+      "gloss": "lan marang Hosah"
     },
     {
       "surface": "מן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "putra-putrane"
+      "gloss": "bane"
     },
     {
       "surface": "מררי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בנים",
-      "gloss": "putra"
+      "gloss": "ana bane"
     },
     {
       "surface": "שמרי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הראש",
-      "gloss": "sang kapisan (sirah)"
+      "gloss": "sang kepala"
     },
     {
       "surface": "כי",
-      "gloss": "amarga"
+      "gloss": "sabab"
     },
     {
       "surface": "לא",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "היה",
-      "gloss": "dadi\/anane"
+      "gloss": "dadi"
     },
     {
       "surface": "בכור",
-      "gloss": "anak sulung"
+      "gloss": "anak pambajang"
     },
     {
       "surface": "וישימהו",
-      "gloss": "lan nglungguhake dheweke"
+      "gloss": "nanging bapakne ndadekake dheweke"
     },
     {
       "surface": "אביהו",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "לראש",
-      "gloss": "dadi kapisan (sirah)"
+      "gloss": "dadi kepala"
     }
   ],
-  "timestamp": "2026-08-21T03:28:21.285553946Z",
+  "timestamp": "2026-08-24T06:10:00.694413633Z",
   "model": "glm-5.3"
 }

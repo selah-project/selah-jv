@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 42,
-  "translation": "Lan Yosef mangerteni ⟨את⟩ para sadulure, nanging ⟨דхеweke⟩ padha ora mangerteni ⟨את⟩ panjenengane.",
+  "translation": "Lan Yusuf ngenali ⟨את⟩ sadulur-sadulure, nanging dheweke ora ngenali dheweke.",
   "tokens": [
     {
       "surface": "ויכר",
-      "gloss": "Lan mangerteni"
+      "gloss": "Lan ngenali"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yusuf"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "para sadulure"
+      "marks": "sadulur-sadulure"
     },
     {
       "surface": "אחיו",
-      "gloss": "para sadulure"
+      "gloss": "sadulur-sadulure"
     },
     {
       "surface": "והם",
-      "gloss": "nanging dheweke padha"
+      "gloss": "nanging dheweke"
     },
     {
       "surface": "לא",
@@ -34,9 +34,9 @@
     },
     {
       "surface": "הכרהו",
-      "gloss": "mangerteni panjenengane"
+      "gloss": "ngenali dheweke"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.517840078Z",
+  "timestamp": "2026-08-24T05:34:03.458431229Z",
   "model": "glm-5.3"
 }

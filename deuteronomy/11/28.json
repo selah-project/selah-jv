@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 11,
-  "translation": "lan kelakon, menawa ora kowe mireng ing parentahe Yahweh Elohim-mu, lan kowe nyimpang saka dalan sing Aku dhawuhake marang ⟨את⟩ ⟨אתכם⟩ ing dina iki, kanggo lumampah susulan elohim liyane sing ora kokweruhi.",
+  "translation": "Lan sangane bendara-celaka, menawa kowe ora ngrungokke marang parentahing Yahweh Elohimira, lan kowe padha mlenceng saka dadalan sing aku dhawuhake ⟨את⟩ marang kowe dina iki, tumindak nguber para elohim liyane, sing durung kowe kenal.",
   "tokens": [
     {
       "surface": "והקללה",
-      "gloss": "lan kelakon"
+      "gloss": "lan sangane bendara-celaka"
     },
     {
       "surface": "אם",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "kowe mireng"
+      "gloss": "kowe ngrungokke"
     },
     {
       "surface": "אל",
-      "gloss": "ing"
+      "gloss": "marang"
     },
     {
       "surface": "מצות",
-      "gloss": "parentahe"
+      "gloss": "parentah"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim-mu"
+      "gloss": "Elohimira"
     },
     {
       "surface": "וסרתם",
-      "gloss": "lan kowe nyimpang"
+      "gloss": "kowe padha mlenceng"
     },
     {
       "surface": "מן",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "dalan"
+      "gloss": "dadalan"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "Aku"
+      "gloss": "aku"
     },
     {
       "surface": "מצוה",
@@ -65,24 +65,24 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "kowe"
     },
     {
       "surface": "היום",
-      "gloss": "ing dina iki"
+      "gloss": "dina iki"
     },
     {
       "surface": "ללכת",
-      "gloss": "kanggo lumampah"
+      "gloss": "tumindak"
     },
     {
       "surface": "אחרי",
-      "gloss": "susulan"
+      "gloss": "nguber\/sawise"
     },
     {
       "surface": "אלהים",
-      "gloss": "elohim"
+      "gloss": "para elohim"
     },
     {
       "surface": "אחרים",
@@ -94,13 +94,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "ora"
+      "gloss": "ora\/durung"
     },
     {
       "surface": "ידעתם",
-      "gloss": "kokweruhi"
+      "gloss": "kowe kenal"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.755333310Z",
+  "timestamp": "2026-08-24T05:44:13.399225982Z",
   "model": "glm-5.3"
 }

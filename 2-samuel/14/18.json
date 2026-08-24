@@ -5,19 +5,19 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 14,
-  "translation": "Lan raja mangsuli lan matur marang ⟨the⟩ wong wadon iku: Aja, muga, nyidhemake saka aku ⟨the⟩ tembung kang aku iki takpitakani ⟨את⟩ kowe; lan wong wadon iku matur: Muga bendara raja matur.",
+  "translation": "Banjur sang raja matur saut wangsulan marang wong wadon iku: Ojo, mugi, ndhelikake saka aku prakara sing dak pitakoni ⟨את⟩ marang kowe. Banjur wong wadon iku ngendika: Bendara raja mugi matur.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Lan mangsuli"
+      "gloss": "banjur matur saut"
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "sang raja"
     },
     {
       "surface": "ויאמר",
-      "gloss": "lan matur"
+      "gloss": "ngendika"
     },
     {
       "surface": "אל",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "aja"
+      "gloss": "ojo"
     },
     {
       "surface": "נא",
-      "gloss": "muga"
+      "gloss": "mugi"
     },
     {
       "surface": "תכחדי",
-      "gloss": "nyidhemake"
+      "gloss": "ndhelikake"
     },
     {
       "surface": "ממני",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "tembung"
+      "gloss": "prakara"
     },
     {
       "surface": "אשר",
-      "gloss": "kang"
+      "gloss": "sing"
     },
     {
       "surface": "אנכי",
@@ -57,16 +57,16 @@
     },
     {
       "surface": "שאל",
-      "gloss": "takpitakani"
+      "gloss": "pitakoni"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kowe",
+      "gloss": "⟨את⟩",
       "marks": "kowe"
     },
     {
       "surface": "ותאמר",
-      "gloss": "lan matur"
+      "gloss": "banjur ngendika"
     },
     {
       "surface": "האשה",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "muga matur"
+      "gloss": "mugi matur"
     },
     {
       "surface": "נא",
-      "gloss": "muga"
+      "gloss": "mugi"
     },
     {
       "surface": "אדני",
@@ -89,6 +89,6 @@
       "gloss": "raja"
     }
   ],
-  "timestamp": "2026-08-21T00:10:33.717801535Z",
+  "timestamp": "2026-08-24T05:50:21.352463153Z",
   "model": "glm-5.3"
 }

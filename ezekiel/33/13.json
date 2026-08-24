@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 33,
-  "translation": "Nalika aku ngandika marang sang jujur: urip bakal ⟨⟨is⟩⟩ urip, nanging ⟨⟨he⟩⟩ ndhelik pangarep-arep ing kaluhurané, sarta nindakake panyimpangan, kabeh kaluhurané ora bakal kaeling-eling; lan ing panyimpangané sing ditindakake, ing kono dhèwèké bakal mati.",
+  "translation": "Nalika aku ngandika marang wong tulus: bakal urip ◄iyono bakal urip►, nanging dheweke percaya marang kaleresane lan nindakake kaluputan, kabeh kaleresane ora bakal kalelingan; lan marga kaluputane sing ditindakake, ing kono dheweke bakal mati.",
   "tokens": [
     {
       "surface": "באמרי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לצדיק",
-      "gloss": "marang sang jujur"
+      "gloss": "marang wong tulus"
     },
     {
       "surface": "חיה",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "והוא",
-      "gloss": "nanging dhèwèké"
+      "gloss": "nanging dheweke"
     },
     {
       "surface": "בטח",
-      "gloss": "ndhelik pangarep-arep"
+      "gloss": "percaya"
     },
     {
       "surface": "על",
-      "gloss": "ing"
+      "gloss": "marang"
     },
     {
       "surface": "צדקתו",
-      "gloss": "kaluhurané"
+      "gloss": "kaleresane"
     },
     {
       "surface": "ועשה",
-      "gloss": "sarta nindakake"
+      "gloss": "lan nindakake"
     },
     {
       "surface": "עול",
-      "gloss": "panyimpangan"
+      "gloss": "kaluputan"
     },
     {
       "surface": "כל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "צדקתו",
-      "gloss": "kaluhurané"
+      "gloss": "kaleresane"
     },
     {
       "surface": "לא",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "תזכרנה",
-      "gloss": "bakal kaeling-eling"
+      "gloss": "bakal kalelingan"
     },
     {
       "surface": "ובעולו",
-      "gloss": "lan ing panyimpangané"
+      "gloss": "lan marga kaluputane"
     },
     {
       "surface": "אשר",
@@ -84,6 +84,6 @@
       "gloss": "bakal mati"
     }
   ],
-  "timestamp": "2026-08-21T01:17:32.583756531Z",
+  "timestamp": "2026-08-24T05:59:09.292123578Z",
   "model": "glm-5.3"
 }

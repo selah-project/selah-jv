@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan dhèwèké bakal padha weruh yèn aku iki Yahweh; ora ana kang tak pocapaké ⟨⟨ing saprawira⟩⟩ ⟨is⟩ ora saprawira yèn aku arep nindakaké ala iki marang dhèwèké.",
+  "translation": "Lan wong-wong bakal weruh yakuwe aku ⟨iku⟩ Yahweh; ora ana ⟨ing⟩ sapada-pada tak ngandika kanggo nindakake marang dheweke ala iki",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "lan bakal padha weruh"
+      "gloss": "bakal weruh"
     },
     {
       "surface": "כי",
-      "gloss": "yèn"
+      "gloss": "yakuwe"
     },
     {
       "surface": "אני",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "saprawira"
+      "gloss": "⟨ing⟩"
     },
     {
       "surface": "חנם",
-      "gloss": "ing saprawira"
+      "gloss": "sapada-pada"
     },
     {
       "surface": "דברתי",
-      "gloss": "tak pocapaké"
+      "gloss": "tak ngandika"
     },
     {
       "surface": "לעשות",
-      "gloss": "arep nindakaké"
+      "gloss": "kanggo nindakake"
     },
     {
       "surface": "להם",
-      "gloss": "marang dhèwèké"
+      "gloss": "marang dheweke"
     },
     {
       "surface": "הרעה",
@@ -56,6 +56,6 @@
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-21T01:08:05.824961889Z",
+  "timestamp": "2026-08-24T05:57:41.686564Z",
   "model": "glm-5.3"
 }

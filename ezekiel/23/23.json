@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 23,
-  "translation": "Bĕtné Bavel lan kabèh wong Kasdim, Pekod lan Syoa lan Koa, kabèh bĕtné Asyur ⟨את⟩ ⟨אתם⟩ bareng: para enom sing gumanti, para bupati lan para panggedhé, kabèhé para panggedhé lan para pinundhi, para juru tandu jaran, kabèhé.",
+  "translation": "Babane Babel lan sakabehing wong Kasdim, Pekod lan Syoa lan Koa, sakabehing wong Asyur ⟨את⟩ padha karo dheweke: para enom sing endah, bupati lan sangsanegara, kabeh padha panggedhe ⟨sarta⟩ wigati, para juru tumindak jaran, kabeh padha.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "bĕtné"
+      "gloss": "babane"
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "וכל",
-      "gloss": "lan kabèh"
+      "gloss": "lan sakabehing"
     },
     {
       "surface": "כשדים",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "kabèh"
+      "gloss": "sakabehing"
     },
     {
       "surface": "בני",
-      "gloss": "bĕtné"
+      "gloss": "wong"
     },
     {
       "surface": "אשור",
@@ -49,8 +49,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "para enom sing gumanti"
+      "gloss": "⟨את⟩",
+      "marks": "para enom sing endah (bujur): padha karo dheweke"
     },
     {
       "surface": "בחורי",
@@ -58,31 +58,31 @@
     },
     {
       "surface": "חמד",
-      "gloss": "sing gumanti"
+      "gloss": "sing endah"
     },
     {
       "surface": "פחות",
-      "gloss": "para bupati"
+      "gloss": "bupati"
     },
     {
       "surface": "וסגנים",
-      "gloss": "lan para panggedhé"
+      "gloss": "lan sangsanegara"
     },
     {
       "surface": "כלם",
-      "gloss": "kabèhé"
+      "gloss": "kabeh padha"
     },
     {
       "surface": "שלשים",
-      "gloss": "para panggedhé"
+      "gloss": "panggedhe"
     },
     {
       "surface": "וקרואים",
-      "gloss": "lan para pinundhi"
+      "gloss": "sarta wigati (sing kasebut sejene)"
     },
     {
       "surface": "רכבי",
-      "gloss": "para juru tandu"
+      "gloss": "juru tumindak"
     },
     {
       "surface": "סוסים",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "כלם",
-      "gloss": "kabèhé"
+      "gloss": "kabeh padha"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.779679378Z",
+  "timestamp": "2026-08-24T05:58:40.236203320Z",
   "model": "glm-5.3"
 }

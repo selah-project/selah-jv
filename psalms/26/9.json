@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 26,
-  "translation": "Aja ngumpulake ⟨⟨karo⟩⟩ wong dosa nyawaku, lan karo wong-wong panggetih uripku",
+  "translation": "Aja ngumpulake ⟨את⟩ awakku bareng wong dosa, lan aja bareng wong-wong pangweneh getih uripku dijupuk",
   "tokens": [
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "karo"
+      "gloss": "bareng"
     },
     {
       "surface": "חטאים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "nyawaku"
+      "gloss": "awakku"
     },
     {
       "surface": "ועם",
-      "gloss": "lan karo"
+      "gloss": "lan bareng"
     },
     {
       "surface": "אנשי",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "דמים",
-      "gloss": "panggetih"
+      "gloss": "pangweneh getih"
     },
     {
       "surface": "חיי",
       "gloss": "uripku"
     }
   ],
-  "timestamp": "2026-08-21T01:45:22.363362811Z",
+  "timestamp": "2026-08-24T06:02:09.861933783Z",
   "model": "glm-5.3"
 }

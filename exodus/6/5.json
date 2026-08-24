@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan Aku uga wis krungu ⟨את⟩ serak-sereké putra-putrané Yisrael, sing dadipe wong Mitzrayim ngati-ati, sarta Aku éling marang prajanjian-Ku.",
+  "translation": "Lan Aku uga krungu ⟨את⟩ sesenggukané anak-anaké Yisrael, sing wong Mitsrayim padha ngawéake ⟨את⟩ dhèwèké, lan Aku éling ⟨את⟩ prajanjian-Ku.",
   "tokens": [
     {
       "surface": "וגם",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "wis krungu"
+      "gloss": "krungu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "serak-sereké"
+      "marks": "sesenggukané"
     },
     {
       "surface": "נאקת",
-      "gloss": "serak-serek"
+      "gloss": "sesenggukané"
     },
     {
       "surface": "בני",
-      "gloss": "putra-putrané"
+      "gloss": "anak-anaké"
     },
     {
       "surface": "ישראל",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitzrayim"
+      "gloss": "Mitsrayim"
     },
     {
       "surface": "מעבדים",
-      "gloss": "ngati-ati"
+      "gloss": "ngawéake"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "gloss": "⟨את⟩ dhèwèké"
     },
     {
       "surface": "ואזכר",
-      "gloss": "sarta Aku éling"
+      "gloss": "lan éling"
     },
     {
       "surface": "את",
@@ -66,6 +66,6 @@
       "gloss": "prajanjian-Ku"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.657708429Z",
+  "timestamp": "2026-08-24T05:35:49.896189970Z",
   "model": "glm-5.3"
 }

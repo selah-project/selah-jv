@@ -5,8 +5,45 @@
   "book": "job",
   "lang": "jv",
   "chapter": 31,
-  "translation": "Yen aku (נפתה lat: atiku kena godha) marang ⟨אשה?⟩ - salah: menawa atiku digodha dening wong wadon, lan ing pawon ingkang sedhereku aku ngrendhet;",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:32:21.730292053Z",
+  "translation": "Yen atiku budhal marang wong wadon, lan yen ing lawanging kanca kula anggone ndhelik ngenteni",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "yen"
+    },
+    {
+      "surface": "נפתה",
+      "gloss": "anggone budhal\/kepancing"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "atiku"
+    },
+    {
+      "surface": "על",
+      "gloss": "marang"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "wong wadon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "lan ing"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lawang"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "kanca kula"
+    },
+    {
+      "surface": "ארבתי",
+      "gloss": "kula ndhelik ngenteni"
+    }
+  ],
+  "timestamp": "2026-08-24T06:06:11.810841166Z",
   "model": "glm-5.3"
 }

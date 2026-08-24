@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 34,
-  "translation": "Banjur Moshe munggah saka ara-ara Moab menyang gunung Nebo, pucuking Pisga, sing ngadhepi Yerekho; banjur Yahweh nduduhake marang ⟨dheweke⟩ ⟨את⟩ sadaya ⟨ג bumi, ⟨את⟩ Gilad nganti Dan.",
+  "translation": "Banjur Moshe munggah saka dataran Moab menyang gunung Nevo, pucuking Pisga, sing ngadhepi Yerikho; banjur Yahweh ndhudhukake ⟨את⟩ saka kabeh bumi iku, ⟨את⟩ Gilead nganti Dan.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מערבת",
-      "gloss": "ara-ara"
+      "gloss": "saka dataran"
     },
     {
       "surface": "מואב",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "נבו",
-      "gloss": "Nebo"
+      "gloss": "Nevo"
     },
     {
       "surface": "ראש",
-      "gloss": "pucuk"
+      "gloss": "pucuking"
     },
     {
       "surface": "הפסגה",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "פני",
-      "gloss": "ngarsa"
+      "gloss": "padhane rupa"
     },
     {
       "surface": "ירחו",
-      "gloss": "Yerekho"
+      "gloss": "Yerikho"
     },
     {
       "surface": "ויראהו",
-      "gloss": "banjur nduduhake marang dheweke"
+      "gloss": "banjur ndhudhukake"
     },
     {
       "surface": "יהוה",
@@ -70,24 +70,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya bumi"
+      "marks": "saka kabeh bumi iku"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "kabeh"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "bumi iku"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gilad"
+      "marks": "Gilead"
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gilad"
+      "gloss": "Gilead"
     },
     {
       "surface": "עד",
@@ -98,6 +98,6 @@
       "gloss": "Dan"
     }
   ],
-  "timestamp": "2026-08-20T23:40:43.952317990Z",
+  "timestamp": "2026-08-24T05:43:53.764361622Z",
   "model": "glm-5.3"
 }

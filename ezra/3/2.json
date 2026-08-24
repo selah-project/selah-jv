@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Banjur ngadeg Yeshua bin Yotsadak lan sedulure para imam, lan Zerubabel bin Shealtiel lan sedulure, banjur padha yasa ⟨את⟩ mesbēh ⟨the⟩ Elohime Israyel, supaya ngunggahake ing dhuwure korban bakar, kaya kang kaserat ing Torate Moshe, wong kang diayomi Elohim.",
+  "translation": "Banjur ngadeg Yeshua putrane Yotsadak lan sedulure para imam, lan Zerubabel putrane Shealtiel lan sedulure, lan padha yasa ⟨את⟩ mezbahé Elohimé Yisrael, kanggo mundhakake ing dhuwure kurban obong, kaya kang katulis ing Toraté Moshe, wongé Elohim.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "putrane"
     },
     {
       "surface": "יוצדק",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "וזרבבל",
-      "gloss": "Zerubabel"
+      "gloss": "lan Zerubabel"
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "putrane"
     },
     {
       "surface": "שאלתיאל",
@@ -49,28 +49,28 @@
     },
     {
       "surface": "ויבנו",
-      "gloss": "banjur padha yasa"
+      "gloss": "lan padha yasa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mesbēh"
+      "marks": "mezbahé"
     },
     {
       "surface": "מזבח",
-      "gloss": "mesbēh"
+      "gloss": "mezbah"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohime"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "להעלות",
-      "gloss": "supaya ngunggahake"
+      "gloss": "kanggo mundhakake"
     },
     {
       "surface": "עליו",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "עלות",
-      "gloss": "korban bakar"
+      "gloss": "kurban obong"
     },
     {
       "surface": "ככתוב",
-      "gloss": "kaya kang kaserat"
+      "gloss": "kaya kang katulis"
     },
     {
       "surface": "בתורת",
-      "gloss": "ing Torate"
+      "gloss": "ing Torat"
     },
     {
       "surface": "משה",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "kang diayomi Elohim"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-21T03:05:19.538123398Z",
+  "timestamp": "2026-08-24T06:08:47.370084790Z",
   "model": "glm-5.3"
 }

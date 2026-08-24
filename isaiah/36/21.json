@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "jv",
   "chapter": 36,
-  "translation": "Banjur ⟨⟨uré-uré⟩ padha meneng lan ora nanggepi ⟨את⟩ sabda marang panjenengane, awit parentah Sang Prabu ⟨iku⟩ mangkene: Aja kok nanggepi panjenengane.",
+  "translation": "Banjur padha meneng lan ora matur marang ⟨את⟩ dheweke tembung siji sabab perintahing ratu iku, munjuk: Aja pitutur marang dheweke.",
   "tokens": [
     {
       "surface": "ויחרישו",
-      "gloss": "padha meneng"
+      "gloss": "banjur padha meneng"
     },
     {
       "surface": "ולא",
@@ -17,28 +17,28 @@
     },
     {
       "surface": "ענו",
-      "gloss": "nanggepi"
+      "gloss": "matur"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "sabda"
+      "marks": "dheweke"
     },
     {
       "surface": "דבר",
-      "gloss": "sabda"
+      "gloss": "tembung siji"
     },
     {
       "surface": "כי",
-      "gloss": "awit"
+      "gloss": "sabab"
     },
     {
       "surface": "מצות",
-      "gloss": "parentah"
+      "gloss": "perintah"
     },
     {
       "surface": "המלך",
-      "gloss": "Sang Prabu"
+      "gloss": "ratu"
     },
     {
       "surface": "היא",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "mangkene"
+      "gloss": "munjuk"
     },
     {
       "surface": "לא",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "תענהו",
-      "gloss": "kok nanggepi panjenengane"
+      "gloss": "pitutur marang dheweke"
     }
   ],
-  "timestamp": "2026-08-21T00:39:57.816996804Z",
+  "timestamp": "2026-08-24T05:54:24.054573852Z",
   "model": "glm-5.3"
 }

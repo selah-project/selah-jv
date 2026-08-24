@@ -5,48 +5,47 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Kaya wong lahirmu dhewe, kudu dadi marang kowé ger iku sing sumedhi ⟨את⟩ ⟨אתכם⟩; lan kok tresna marang dheweke kaya marang awakmu dhewe, awit kowé wis dadi ger ing bumi Mitsrayim; Aku ⟨⟨iku⟩⟩ Yahweh Elohim-mu.",
+  "translation": "Kaya wong lair ing negara saka antaranira, kaya mangkono ⟨is⟩ tumrapmu wong ngumbara sing ngumbara ⟨את⟩ karo kowé; lan kowé bakal tresna marang ⟨him⟩ dhèwèké kaya marang awakmu dhéwé, awit kowé aran wong ngumbara ing bumi Mitsrayim; aku Yahweh, Elohimmu.",
   "tokens": [
     {
       "surface": "כאזרח",
-      "gloss": "kaya wong lahir-an"
+      "gloss": "kaya wong lair ing negara"
     },
     {
       "surface": "מכם",
-      "gloss": "saka kowé"
+      "gloss": "saka antaranira"
     },
     {
       "surface": "יהיה",
-      "gloss": "kudu dadi"
+      "gloss": "bakal dadi"
     },
     {
       "surface": "לכם",
-      "gloss": "marang kowé"
+      "gloss": "tumrapmu"
     },
     {
       "surface": "הגר",
-      "gloss": "ger iku"
+      "gloss": "wong ngumbara iku"
     },
     {
       "surface": "הגר",
-      "gloss": "sing sumedhi"
+      "gloss": "sing ngumbara"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "kowé"
+      "gloss": "⟨את⟩ karo kowé"
     },
     {
       "surface": "ואהבת",
-      "gloss": "lan kok tresna"
+      "gloss": "lan bakal tresna"
     },
     {
       "surface": "לו",
-      "gloss": "marang dheweke"
+      "gloss": "marang dhèwèké"
     },
     {
       "surface": "כמוך",
-      "gloss": "kaya marang awakmu dhewe"
+      "gloss": "kaya marang awakmu dhéwé"
     },
     {
       "surface": "כי",
@@ -54,11 +53,11 @@
     },
     {
       "surface": "גרים",
-      "gloss": "ger"
+      "gloss": "wong ngumbara"
     },
     {
       "surface": "הייתם",
-      "gloss": "kowe wis dadi"
+      "gloss": "kowé aran"
     },
     {
       "surface": "בארץ",
@@ -70,7 +69,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Aku"
+      "gloss": "aku"
     },
     {
       "surface": "יהוה",
@@ -78,9 +77,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim-mu"
+      "gloss": "Elohimmu"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.857384017Z",
+  "timestamp": "2026-08-24T05:39:33.932387463Z",
   "model": "glm-5.3"
 }

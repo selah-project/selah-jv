@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Dheweke ngandharake bab wit-witan, saka ⟨the⟩ ares sing ana ing Levanon nganti ⟨the⟩ ezob sing thukul ing tembok; lan dheweke ngandharake bab kewan sapi, lan bab manuk, lan bab kewan nglusus, lan bab iwak.",
+  "translation": "Lan dheweke ngandharake bab ⟨the⟩ wit-witan, saka wit arar sing ing Libanon nganti ⟨the⟩ hisop sing thukul ing dinding; lan dheweke ngandharake bab ⟨the⟩ kewan, lan bab ⟨the⟩ manuk, lan bab ⟨the⟩ kewan nglusus, lan bab ⟨the⟩ iwak.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העצים",
-      "gloss": "wit-witan"
+      "gloss": "⟨the⟩ wit-witan"
     },
     {
       "surface": "מן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הארז",
-      "gloss": "ares"
+      "gloss": "wit arar"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בלבנון",
-      "gloss": "ana ing Levanon"
+      "gloss": "ing Libanon"
     },
     {
       "surface": "ועד",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "האזוב",
-      "gloss": "ezob"
+      "gloss": "⟨the⟩ hisop"
     },
     {
       "surface": "אשר",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "בקיר",
-      "gloss": "ing tembok"
+      "gloss": "ing dinding"
     },
     {
       "surface": "וידבר",
-      "gloss": "ngandharake"
+      "gloss": "lan ngandharake"
     },
     {
       "surface": "על",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "kewan sapi"
+      "gloss": "⟨the⟩ kewan"
     },
     {
       "surface": "ועל",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "העוף",
-      "gloss": "manuk"
+      "gloss": "⟨the⟩ manuk"
     },
     {
       "surface": "ועל",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הרמש",
-      "gloss": "kewan nglusus"
+      "gloss": "⟨the⟩ kewan nglusus"
     },
     {
       "surface": "ועל",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "הדגים",
-      "gloss": "iwak"
+      "gloss": "⟨the⟩ iwak"
     }
   ],
-  "timestamp": "2026-08-21T00:16:04.775012002Z",
+  "timestamp": "2026-08-24T05:51:14.999890160Z",
   "model": "glm-5.3"
 }

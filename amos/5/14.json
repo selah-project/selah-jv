@@ -5,15 +5,15 @@
   "book": "amos",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Pitayaa ⟨iku⟩: golèkana kang becik, lan aja kang ala, supaya kauripan; lan mangkono Yahweh, Elohim Tzevaot, bakal ⟨dumunung⟩ ⟨⟨את⟩ kalianmu⟩ kaya kang kokkandhakake.",
+  "translation": "Golekana sing becik lan aja sing ala, supaya sira urip; lan mengkono Yahweh, Elohim Tzvaot, bakal ⟨את⟩-karo sira, kaya pangedume sira.",
   "tokens": [
     {
       "surface": "דרשו",
-      "gloss": "golèkana"
+      "gloss": "golekana"
     },
     {
       "surface": "טוב",
-      "gloss": "kang becik"
+      "gloss": "sing becik"
     },
     {
       "surface": "ואל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "רע",
-      "gloss": "kang ala"
+      "gloss": "sing ala"
     },
     {
       "surface": "למען",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "תחיו",
-      "gloss": "kauripan"
+      "gloss": "sira urip"
     },
     {
       "surface": "ויהי",
-      "gloss": "lan mangkono"
+      "gloss": "lan mengkono"
     },
     {
       "surface": "כן",
-      "gloss": "iku"
+      "gloss": "dadi mengkono"
     },
     {
       "surface": "יהוה",
@@ -45,15 +45,16 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohime"
     },
     {
       "surface": "צבאות",
-      "gloss": "Tzevaot"
+      "gloss": "Tzvaot"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kalianmu"
+      "gloss": "⟨את⟩-karo",
+      "marks": "sira kabeh"
     },
     {
       "surface": "כאשר",
@@ -61,9 +62,9 @@
     },
     {
       "surface": "אמרתם",
-      "gloss": "kokkandhakake"
+      "gloss": "pangedume sira"
     }
   ],
-  "timestamp": "2026-08-21T01:30:29.166500434Z",
+  "timestamp": "2026-08-24T06:00:31.176880396Z",
   "model": "glm-5.3"
 }

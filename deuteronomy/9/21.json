@@ -5,16 +5,15 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 9,
-  "translation": "Lan ⟨את⟩ dosa panjenengan iku, sing panjenengan padha gawe — ⟨את⟩ pedhet iku — kaingku, dakobong ⟨את⟩ ing geni, dakremuk lan kagiling becik nganti remuk dadi lebu, lan endhupe dakbuwang ⟨את⟩ menyang kali sing mudhun saka ⟨the⟩ gunung.",
+  "translation": "Lan ⟨את⟩ dosanira sing kokgawé, yaiku ⟨את⟩ pedhèsé, kula jupuk, lan kula obong ⟨את⟩ iku ing geni, lan kula tukuk ⟨את⟩ iku, ngantos alus banget dadi awu, lan kula buwang ⟨את⟩ awuné menyang kali kang tumedhak saka redi.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "dosa panjenengan"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "חטאתכם",
-      "gloss": "dosa panjenengan"
+      "gloss": "dosanira"
     },
     {
       "surface": "אשר",
@@ -22,29 +21,27 @@
     },
     {
       "surface": "עשיתם",
-      "gloss": "padha gawe"
+      "gloss": "kokgawé"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "pedhet"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "העגל",
-      "gloss": "pedhet"
+      "gloss": "pedhèsé"
     },
     {
       "surface": "לקחתי",
-      "gloss": "kaingku"
+      "gloss": "kula jupuk"
     },
     {
       "surface": "ואשרף",
-      "gloss": "lan dakobong"
+      "gloss": "lan kula obong"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ing geni (wujud obyek: pedhet)"
+      "gloss": "⟨את⟩ iku"
     },
     {
       "surface": "באש",
@@ -52,49 +49,47 @@
     },
     {
       "surface": "ואכת",
-      "gloss": "lan dakremuk"
+      "gloss": "lan kula tukuk"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "kagiling (wujud obyek: pedhet)"
+      "gloss": "⟨את⟩ iku"
     },
     {
       "surface": "טחון",
-      "gloss": "kagiling"
+      "gloss": "ngantep\/nggiling"
     },
     {
       "surface": "היטב",
-      "gloss": "becik"
+      "gloss": "alus banget"
     },
     {
       "surface": "עד",
-      "gloss": "nganti"
+      "gloss": "ngantos"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "ngantos"
     },
     {
       "surface": "דק",
-      "gloss": "remuk"
+      "gloss": "alus"
     },
     {
       "surface": "לעפר",
-      "gloss": "dadi lebu"
+      "gloss": "dadi awu"
     },
     {
       "surface": "ואשלך",
-      "gloss": "lan dakbuwang"
+      "gloss": "lan kula buwang"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "endhupe"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "עפרו",
-      "gloss": "endhupe"
+      "gloss": "awuné"
     },
     {
       "surface": "אל",
@@ -106,7 +101,7 @@
     },
     {
       "surface": "הירד",
-      "gloss": "sing mudhun"
+      "gloss": "kang tumedhak"
     },
     {
       "surface": "מן",
@@ -114,9 +109,9 @@
     },
     {
       "surface": "ההר",
-      "gloss": "gunung"
+      "gloss": "redi"
     }
   ],
-  "timestamp": "2026-08-20T23:32:59.233107620Z",
+  "timestamp": "2026-08-24T05:43:22.296392427Z",
   "model": "glm-5.3"
 }

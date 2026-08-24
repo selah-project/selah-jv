@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 22,
-  "translation": "Lan padha teka menyang ⟨the⟩ panggonan kang didhutake Elohim marang dheweke, lan Avraham yasa ⟨את⟩ altar ing kono, lan aturake ⟨את⟩ kayu-kayune, lan iket ⟨את⟩ Yitshak anakne, lan ndadekake ⟨את⟩ dheweke ing duwuring altar, ing sangising kayu-kayu.",
+  "translation": "Lan padha teka marang panggonan kang wis dikandhakake dening Elohim marang dheweke; lan Avraham yasa ⟨את⟩ padhesan ing kono, sarta nata ⟨את⟩ kayu-kayu, lan nglilit ⟨את⟩ Yitshak putrane, lan ndadekake ⟨את⟩ dheweke ana ing sandhuwure padhesan, ing dhuwure kayu-kayu.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "marang"
     },
     {
       "surface": "המקום",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "kandhaake"
+      "gloss": "dikandhakake"
     },
     {
       "surface": "לו",
@@ -50,15 +50,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "altar"
+      "marks": "padhesan"
     },
     {
       "surface": "המזבח",
-      "gloss": "altar"
+      "gloss": "padhesan"
     },
     {
       "surface": "ויערך",
-      "gloss": "lan aturake"
+      "gloss": "lan nata"
     },
     {
       "surface": "את",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ויעקד",
-      "gloss": "lan iket"
+      "gloss": "lan nglilit"
     },
     {
       "surface": "את",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "בנו",
-      "gloss": "anakne"
+      "gloss": "putrane"
     },
     {
       "surface": "וישם",
@@ -97,21 +97,21 @@
     },
     {
       "surface": "על",
-      "gloss": "ing duwur"
+      "gloss": "ana ing sandhuwure"
     },
     {
       "surface": "המזבח",
-      "gloss": "altar"
+      "gloss": "padhesan"
     },
     {
       "surface": "ממעל",
-      "gloss": "ing sangising"
+      "gloss": "ing dhuwure"
     },
     {
       "surface": "לעצים",
       "gloss": "kayu-kayu"
     }
   ],
-  "timestamp": "2026-08-20T22:45:11.346176295Z",
+  "timestamp": "2026-08-24T05:32:50.896311445Z",
   "model": "glm-5.3"
 }

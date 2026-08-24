@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Banjur Dawid yasa ing kono ⟨⟨את⟩⟩ mazbeach kanggo Yahweh, lan ngunggahake olah lan syelamim; banjur Yahweh kalingan manah marang ⟨⟨את⟩⟩ bumi, lan pageblug mau mandheg saka ing Israèl.",
+  "translation": "Banjur Dawid yasa ing kono ⟨sawijining⟩ altar kanggo Yahweh, lan munggahake kurban-kurban obong lan kurban-kurban slamet, lan Yahweh kapethik panjaluke ⟨kanggo⟩ ⟨tanah iku⟩, lan pageblug iku mandeg saka Israél.",
   "tokens": [
     {
       "surface": "ויבן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "mazbeach (altar)"
+      "gloss": "⟨sawijining⟩ altar"
     },
     {
       "surface": "ליהוה",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "lan ngunggahake"
+      "gloss": "lan munggahake"
     },
     {
       "surface": "עלות",
-      "gloss": "kurban obong (olah)"
+      "gloss": "kurban-kurban obong"
     },
     {
-      "surface": "וילמים",
-      "gloss": "lan kurban slamet (syelamim)"
+      "surface": "ושלמים",
+      "gloss": "lan kurban-kurban slamet"
     },
     {
       "surface": "ויעתר",
-      "gloss": "banjur kalingan manah"
+      "gloss": "lan kapethik panjaluke"
     },
     {
       "surface": "יהוה",
@@ -49,25 +49,25 @@
     },
     {
       "surface": "לארץ",
-      "gloss": "marang bumi"
+      "gloss": "⟨kanggo⟩ ⟨tanah iku⟩"
     },
     {
       "surface": "ותעצר",
-      "gloss": "lan mandheg"
+      "gloss": "lan mandeg"
     },
     {
       "surface": "המגפה",
-      "gloss": "pageblug mau"
+      "gloss": "pageblug iku"
     },
     {
       "surface": "מעל",
-      "gloss": "saka ing"
+      "gloss": "saka"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israèl"
+      "gloss": "Israél"
     }
   ],
-  "timestamp": "2026-08-21T00:13:07.369214886Z",
+  "timestamp": "2026-08-24T05:50:48.537702879Z",
   "model": "glm-5.3"
 }

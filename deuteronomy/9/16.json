@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 9,
-  "translation": "Banjur aku ndeleng, lan lah, sira wis dosa marang Yahweh, Elohire sira: sira wis gawe marang sira pedhet cor, sira wis nyimpang rikat saka dalan kang diprentahake Yahweh ⟨marang sira⟩.",
+  "translation": "Lan awake dheleng, lah, kok kowe padha dosa marang Yahweh, Elohim-e kowe: kowe padha gawe marang awake dewe pedhet malih kang dicithak; kowe padha malih cepat saka dalan kang didhawuhake Yahweh ⟨את⟩ kowe.",
   "tokens": [
     {
       "surface": "וארא",
-      "gloss": "banjur aku ndeleng"
+      "gloss": "lan awake dheleng"
     },
     {
       "surface": "והנה",
-      "gloss": "lan lah"
+      "gloss": "lah"
     },
     {
       "surface": "חטאתם",
-      "gloss": "sira wis dosa"
+      "gloss": "kowe padha dosa"
     },
     {
       "surface": "ליהוה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohire sira"
+      "gloss": "Elohim-e kowe"
     },
     {
       "surface": "עשיתם",
-      "gloss": "sira wis gawe"
+      "gloss": "kowe padha gawe"
     },
     {
       "surface": "לכם",
-      "gloss": "marang sira"
+      "gloss": "marang awake dewe"
     },
     {
       "surface": "עגל",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "מסכה",
-      "gloss": "cor"
+      "gloss": "kang dicithak"
     },
     {
       "surface": "סרתם",
-      "gloss": "sira wis nyimpang"
+      "gloss": "kowe padha malih"
     },
     {
       "surface": "מהר",
-      "gloss": "rikat"
+      "gloss": "cepat"
     },
     {
       "surface": "מן",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "diprentahake"
+      "gloss": "didhawuhake"
     },
     {
       "surface": "יהוה",
@@ -73,10 +73,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨את sira⟩",
-      "marks": "sira"
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe (objek saka didhawuhake)"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.736980086Z",
+  "timestamp": "2026-08-24T05:43:09.425898988Z",
   "model": "glm-5.3"
 }

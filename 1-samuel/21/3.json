@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 21,
-  "translation": "Lan Dawid ngandika marang Akhimelekh sang imam: Sang raja paring prentah marang aku sawijining bab, lan ngandika marang aku: Aja ana wong ngerti apa-apa ⟨את⟩ ⟨the⟩ bab sing dakutus kowé, lan sing takprentahaké marang kowé; lan ⟨את⟩ para pemudha wis dakandhani ⟨menyang⟩ panggonan si Anu lan si Iki.",
+  "translation": "Lan Dawid ngandika marang Akhimelekh sang imam: Sang raja mréntah aku ⟨את⟩ sawijining bab, lan dhèwèké ngandika marang aku: aja ana wong ngerti endi-endi ⟨את⟩ bab sing takutus sira lan sing takpréntah sira; lan ⟨את⟩ para enom wis takwènèhi tetangan, ing panggonan si-A lan si-B.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lan ngandika"
+      "gloss": "lan ngandika"
     },
     {
       "surface": "דוד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "צוני",
-      "gloss": "paring prentah marang aku"
+      "gloss": "mréntah aku"
     },
     {
       "surface": "דבר",
@@ -57,12 +57,12 @@
     },
     {
       "surface": "מאומה",
-      "gloss": "apa-apa"
+      "gloss": "endi-endi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ bab"
+      "marks": "bab"
     },
     {
       "surface": "הדבר",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "שלחך",
-      "gloss": "dakutus kowé"
+      "gloss": "takutus sira"
     },
     {
       "surface": "ואשר",
@@ -86,24 +86,24 @@
     },
     {
       "surface": "צויתך",
-      "gloss": "takprentahaké marang kowé"
+      "gloss": "takpréntah sira"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "para pemudha"
+      "marks": "para enom"
     },
     {
       "surface": "הנערים",
-      "gloss": "para pemudha"
+      "gloss": "para enom"
     },
     {
       "surface": "יודעתי",
-      "gloss": "wis dakandhani"
+      "gloss": "takwènèhi tetangan"
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "ing"
     },
     {
       "surface": "מקום",
@@ -111,13 +111,13 @@
     },
     {
       "surface": "פלני",
-      "gloss": "si Anu"
+      "gloss": "si-A"
     },
     {
       "surface": "אלמוני",
-      "gloss": "lan si Iki"
+      "gloss": "si-B"
     }
   ],
-  "timestamp": "2026-08-21T00:02:25.271925260Z",
+  "timestamp": "2026-08-24T05:48:29.378707969Z",
   "model": "glm-5.3"
 }

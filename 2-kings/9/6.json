@@ -5,23 +5,23 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 9,
-  "translation": "Banjur jumeneng lan mlebet ing ⟨the⟩ dalem, banjur ngundhakake ⟨the⟩ lenga ing sirah-e, lan ngandika marang panjenengane: \"Mengkene pangandikane Yahweh, Elohime Israyel: Aku ngulungi sira dadi ratu marang ⟨the⟩ bangsane Yahweh, marang Israyel.\"",
+  "translation": "Banjur ⟨ia⟩ tangkat lan mlebu menyang ⟨ing⟩ njero omah, lan ngundhakake lenga marang sirahé, lan ngandika marang ⟨ing⟩ dhèwèké: Kaya mangkono pangandikané Yahweh, Elohimé Yisraél: Aku nglungguhake sira dadi ratu marang umaté Yahweh, marang Yisraél.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "banjur jumeneng"
+      "gloss": "banjur tangkat"
     },
     {
       "surface": "ויבא",
-      "gloss": "lan mlebet"
+      "gloss": "lan mlebu"
     },
     {
       "surface": "הביתה",
-      "gloss": "ing dalem"
+      "gloss": "menyang njero omah"
     },
     {
       "surface": "ויצק",
-      "gloss": "banjur ngundhakake"
+      "gloss": "lan ngundhakake"
     },
     {
       "surface": "השמן",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ing"
+      "gloss": "marang"
     },
     {
       "surface": "ראשו",
-      "gloss": "sirah-e"
+      "gloss": "sirahé"
     },
     {
       "surface": "ויאמר",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "marang panjenengane"
+      "gloss": "marang dhèwèké"
     },
     {
       "surface": "כה",
-      "gloss": "mengkene"
+      "gloss": "kaya mangkono"
     },
     {
       "surface": "אמר",
-      "gloss": "pangandikane"
+      "gloss": "pangandikané"
     },
     {
       "surface": "יהוה",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohime"
+      "gloss": "Elohimé"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisraél"
     },
     {
       "surface": "משחתיך",
-      "gloss": "Aku ngulungi sira"
+      "gloss": "Aku nglungguhake sira"
     },
     {
       "surface": "למלך",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "bangsa"
+      "gloss": "umaté"
     },
     {
       "surface": "יהוה",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisraél"
     }
   ],
-  "timestamp": "2026-08-21T00:26:04.508802965Z",
+  "timestamp": "2026-08-24T05:52:33.979753951Z",
   "model": "glm-5.3"
 }

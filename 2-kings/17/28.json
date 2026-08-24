@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Dadi salah siji saka para imam sing padha ditibakaké saka Shomron teka lan manggon ana ing Beit-El, lan dadi mulang ⟨אתם⟩ marang wong-wong mau ⟨את⟩ kadospundi carané padha bekti marang ⟨את⟩ Yahweh.",
+  "translation": "Banjur teka siji saka para imam kang padha ditahan ngungsi saka Shomron, banjur dunung ing Beit-El, lan dadi mulata ⟨את⟩ dheweke kados pundi padha bekti ⟨את⟩ Yahweh.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "dadi teka"
+      "gloss": "banjur teka"
     },
     {
       "surface": "אחד",
-      "gloss": "salah siji"
+      "gloss": "siji"
     },
     {
       "surface": "מהכהנים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "הגלו",
-      "gloss": "padha ditibakaké"
+      "gloss": "padha ditahan ngungsi"
     },
     {
       "surface": "משמרון",
@@ -33,28 +33,32 @@
     },
     {
       "surface": "וישב",
-      "gloss": "lan manggon"
+      "gloss": "banjur dunung"
     },
     {
-      "surface": "בבית אל",
-      "gloss": "ana ing Beit-El"
+      "surface": "בבית",
+      "gloss": "ing"
     },
     {
-      "surface": "והי",
+      "surface": "אל",
+      "gloss": "Beit-El"
+    },
+    {
+      "surface": "ויהי",
       "gloss": "lan dadi"
     },
     {
       "surface": "מורה",
-      "gloss": "mulang"
+      "gloss": "mulata"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
-      "marks": "wong-wong mau"
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
     },
     {
       "surface": "איך",
-      "gloss": "⟨את⟩ kadospundi carané"
+      "gloss": "kados pundi"
     },
     {
       "surface": "ייראו",
@@ -67,9 +71,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨את⟩ Yahweh"
+      "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-21T00:28:58.601090240Z",
+  "timestamp": "2026-08-24T05:52:44.709974471Z",
   "model": "glm-5.3"
 }

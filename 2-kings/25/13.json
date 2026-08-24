@@ -5,13 +5,93 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 25,
-  "translation": "Lan ⟨את⟩ sakabehing sakabehing saka כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים כשדים",
+  "translation": "Lan ⟨את⟩ sakabehing sakabehing — para pilar tembaga sing ana ing padalemane Yahweh, lan ⟨את⟩ sanggahan-sanggahan, lan ⟨את⟩ segara tembaga sing ana ing padalemane Yahweh — ditumpes dening wong Kasdim, lan timbangan tembagane kaOLeh wong-wong mau lan digawa menyang Babel.",
   "tokens": [
     {
-      "surface": "placeholder",
-      "gloss": "⟨את⟩ (template)"
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pilar-pilar tembaga"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "pilar-pilar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בית",
+      "gloss": "padalemane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanggahan-sanggahan"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "sanggahan-sanggahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "segara tembaga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "segara"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tembaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ing padalemane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ditumpes"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "wong Kasdim"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "lan digawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tembagane"
+    },
+    {
+      "surface": "נחשתם",
+      "gloss": "tembagane"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "menyang Babel"
     }
   ],
-  "timestamp": "2026-08-21T00:31:44.571439246Z",
+  "timestamp": "2026-08-24T05:53:25.344552080Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "lamentations",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Padha krungu yén aku iki ngangeti ngesu, ora ana sing nglipur aku; kabeh mungsuhku padha krungu cilakaku, padha bungah amarga Kowé sing nglakoni; Kowé nggawa ⟨the⟩ dina sing Kowé wewarah, lan dheweke bakal padha kaya aku.",
+  "translation": "Padha krungu yakin anggon ingsun nandhang ati; ora ana sing nglipur ingsun; mungsuh ingsun kabeh krungu cilaka ingsun; padha bungah, awit sira sing nindakake; sira nggawa ⟨dina⟩ sing wis sira wenehi jeneng, lan dheweke padha dadi kaya ingsun.",
   "tokens": [
     {
       "surface": "שמעו",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "yén"
+      "gloss": "yakin"
     },
     {
       "surface": "נאנחה",
-      "gloss": "ngangeti ngesu"
+      "gloss": "nandhang ati"
     },
     {
       "surface": "אני",
-      "gloss": "aku"
+      "gloss": "ingsun"
     },
     {
       "surface": "אין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "aku"
+      "gloss": "ingsun"
     },
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "איבי",
-      "gloss": "mungsuhku"
+      "gloss": "mungsuh ingsun"
     },
     {
       "surface": "שמעו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "רעתי",
-      "gloss": "cilakaku"
+      "gloss": "cilaka ingsun"
     },
     {
       "surface": "ששו",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "amarga"
+      "gloss": "awit"
     },
     {
       "surface": "אתה",
-      "gloss": "Kowé"
+      "gloss": "sira"
     },
     {
       "surface": "עשית",
-      "gloss": "sing nglakoni"
+      "gloss": "nindakake"
     },
     {
       "surface": "הבאת",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "קראת",
-      "gloss": "wewarah"
+      "gloss": "wenehi jeneng"
     },
     {
       "surface": "ויהיו",
-      "gloss": "lan bakal padha dadi"
+      "gloss": "lan padha dadi"
     },
     {
       "surface": "כמוני",
-      "gloss": "kaya aku"
+      "gloss": "kaya ingsun"
     }
   ],
-  "timestamp": "2026-08-21T02:43:31.722270315Z",
+  "timestamp": "2026-08-24T06:07:03.333130350Z",
   "model": "glm-5.3"
 }

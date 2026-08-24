@@ -5,27 +5,27 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Manawa anakké pitakon marang kowé ing tembe buri, katelah: apa tegesé pasaksian, ukum-ukum lan hukum kang katitahaké Yahweh, Elohim kita, marang ⟨את⟩ ⟨אתכם⟩ kowé?",
+  "translation": "Menawa anakmu takon marang kowe mengko, ngucap: Apa tegese pasaksian, lan sarat-sarat, lan sangkan-daraning kukum, kang didhawuhake Yahweh, Elohim kita, marang ⟨את⟩ kowe?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "manawa"
+      "gloss": "menawa"
     },
     {
       "surface": "ישאלך",
-      "gloss": "pitakon marang kowé"
+      "gloss": "anakmu takon marang kowe"
     },
     {
       "surface": "בנך",
-      "gloss": "anakké"
+      "gloss": "anakmu"
     },
     {
       "surface": "מחר",
-      "gloss": "ing tembe buri"
+      "gloss": "mengko"
     },
     {
       "surface": "לאמר",
-      "gloss": "katelah"
+      "gloss": "ngucap"
     },
     {
       "surface": "מה",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "העדת",
-      "gloss": "pasaksian"
+      "gloss": "tegese pasaksian"
     },
     {
       "surface": "והחקים",
-      "gloss": "ukum-ukum"
+      "gloss": "lan sarat-sarat"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "hukum"
+      "gloss": "lan sangkan-daraning kukum"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "katitahaké"
+      "gloss": "didhawuhake"
     },
     {
       "surface": "יהוה",
@@ -61,10 +61,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩ kowé",
-      "marks": "kowé (wong Israél)"
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.760515586Z",
+  "timestamp": "2026-08-24T05:42:48.799607961Z",
   "model": "glm-5.3"
 }

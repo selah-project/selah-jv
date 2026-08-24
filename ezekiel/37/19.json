@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 37,
-  "translation": "Ngendikaa marang dhèwèké: Mangkéné kalihan Adonai Yahweh: Lah, Aku njupuk ⟨את⟩ kayu Yosef kang ana ing tangan Efrahim, lan suku-sukune Israel kanca-kancane, lan Aku maringaké marang ⟨את⟩ kayu Yehuda ing sadhuwure, lan Aku gawé dadi kayu siji, lan bakal dadi siji ing tanganku.",
+  "translation": "Ngendikana marang wong-wong iki mangkene: mangkene ngendikane Adonai Yahweh: Têrôn, aku njupuk ⟨את⟩ kayu Yusup sing ana ing tangané Efrayim lan suku-sukuné Israyel kanca-kancané, lan bakal takapakake ⟨את⟩ marang ing dhuwuré bebarengan karo ⟨את⟩ kayu Yehuda, lan takgawé dadi kayu siji, lan bakal dadi siji ing tanganku.",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "Ngendikaa"
+      "gloss": "ngendikana"
     },
     {
       "surface": "אלהם",
-      "gloss": "marang dhèwèké"
+      "gloss": "marang wong-wong iki"
     },
     {
       "surface": "כה",
-      "gloss": "Mangkéné"
+      "gloss": "mangkene"
     },
     {
       "surface": "אמר",
-      "gloss": "kalihan"
+      "gloss": "ngendikane"
     },
     {
       "surface": "אדני",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Lah"
+      "gloss": "têrôn"
     },
     {
       "surface": "אני",
-      "gloss": "Aku"
+      "gloss": "aku"
     },
     {
       "surface": "לקח",
@@ -46,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kayu Yosef"
+      "marks": "kayu Yusup"
     },
     {
       "surface": "עץ",
@@ -54,44 +54,44 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yusup"
     },
     {
       "surface": "אשר",
-      "gloss": "kang"
+      "gloss": "sing"
     },
     {
       "surface": "ביד",
-      "gloss": "ana ing tangan"
+      "gloss": "ing tangané"
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrahim"
+      "gloss": "Efrayim"
     },
     {
       "surface": "ושבטי",
-      "gloss": "lan suku-sukune"
+      "gloss": "lan suku-sukuné"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israyel"
     },
     {
       "surface": "חברו",
-      "gloss": "kanca-kancane"
+      "gloss": "kanca-kancané"
     },
     {
       "surface": "ונתתי",
-      "gloss": "lan Aku maringaké"
+      "gloss": "lan bakal takapakake"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "kayu Yosef lan suku-sukune"
+      "gloss": "⟨את⟩",
+      "marks": "ing dhuwuré (kayu Yusup)"
     },
     {
       "surface": "עליו",
-      "gloss": "ing sadhuwure"
+      "gloss": "marang ing dhuwuré"
     },
     {
       "surface": "את",
@@ -107,8 +107,8 @@
       "gloss": "Yehuda"
     },
     {
-      "surface": "ועשיתם",
-      "gloss": "lan Aku gawé"
+      "surface": "ו�researchיתם",
+      "gloss": "lan takgawé"
     },
     {
       "surface": "לעץ",
@@ -131,6 +131,6 @@
       "gloss": "ing tanganku"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.790492409Z",
+  "timestamp": "2026-08-24T06:13:14.583309328Z",
   "model": "glm-5.3"
 }

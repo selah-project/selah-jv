@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "jv",
   "chapter": 1,
-  "translation": "lan sira bali marang Aku, lan sira ngestokake parentah-Ku, lan sira nglakoni ⟨את⟩; yen panggonanmu kasedhot nganti ing pucuking langit, saka kana Aku nglumpukake dheweke, lan Aku nggawa dheweke marang ⟨the⟩ panggonan sing Ingsun pilih kanggo ndadekake ⟨את⟩ asma-Ku manggon ana.",
+  "translation": "Lan kowe bali marang Aku, lan kowe njaga prentah-Ku, lan kowe nindakake ⟨את⟩ mau; yen sing kapundhungake kowe ana ing pucuking langit, saka ing kono Aku ngumpulake dheweke, lan Aku nggawa ⟨את⟩ dheweke marang panggonan sing Dakpilih supaya Dakpasangake ⟨את⟩ Asma-Ku ana ing kono.",
   "tokens": [
     {
       "surface": "ושבתם",
-      "gloss": "lan sira bali"
+      "gloss": "lan kowe bali"
     },
     {
       "surface": "אלי",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "ושמרתם",
-      "gloss": "lan sira ngestokake"
+      "gloss": "lan kowe njaga"
     },
     {
       "surface": "מצותי",
-      "gloss": "parentah-Ku"
+      "gloss": "prentah-Ku"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "lan sira nglakoni"
+      "gloss": "lan kowe nindakake"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "parentah"
+      "marks": "prentah-Ku (sing ditindakake)"
     },
     {
       "surface": "אם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "kadadéan"
+      "gloss": "ana"
     },
     {
       "surface": "נדחכם",
-      "gloss": "panggonanmu kasedhot"
+      "gloss": "sing kapundhungake kowe"
     },
     {
       "surface": "בקצה",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "משם",
-      "gloss": "saka kana"
+      "gloss": "saka ing kono"
     },
     {
       "surface": "אקבצם",
-      "gloss": "Aku nglumpukake dheweke"
+      "gloss": "Aku ngumpulake dheweke"
     },
     {
       "surface": "והבואתים",
-      "gloss": "lan Aku nggawa dheweke mlebu"
+      "gloss": "lan Aku nggawa dheweke"
     },
     {
       "surface": "אל",
@@ -78,26 +78,26 @@
     },
     {
       "surface": "בחרתי",
-      "gloss": "sing Ingsun pilih"
+      "gloss": "Dakpilih"
     },
     {
       "surface": "לשכן",
-      "gloss": "kanggo manggonaken"
+      "gloss": "supaya Dakpasangake manggon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asma-Ku"
+      "marks": "Asma-Ku"
     },
     {
       "surface": "שמי",
-      "gloss": "asma-Ku"
+      "gloss": "Asma-Ku"
     },
     {
       "surface": "שם",
-      "gloss": "ana kono"
+      "gloss": "ana ing kono"
     }
   ],
-  "timestamp": "2026-08-21T03:08:05.097637959Z",
+  "timestamp": "2026-08-24T06:09:03.902024212Z",
   "model": "glm-5.3"
 }

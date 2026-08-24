@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 23,
-  "translation": "Menawa ana ing antaramu wong sing dudu resik amarga kadadean wengi, dhèwèké metu menyang ing njabaing kemah, ora lumebu menyang ing tengahing ⟨the⟩ kemah.",
+  "translation": "Menawa ana ing antaramu wong lanang sing ora dadi resik amarga saka kadadeyan ing wengi, dhèwèké kudu metu menyang njabaning kamp, ora olèh mlebu menyang tengahing kamp.",
   "tokens": [
     {
       "surface": "כי",
@@ -20,11 +20,11 @@
       "gloss": "ing antaramu"
     },
     {
-      "surface": "איש",
-      "gloss": "wong"
+      "surface": "אישׁ",
+      "gloss": "wong lanang"
     },
     {
-      "surface": "אשר",
+      "surface": "אשׁר",
       "gloss": "sing"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "dudu"
+      "gloss": "dadi"
     },
     {
       "surface": "טהור",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "מקרה",
-      "gloss": "amarga kadadean"
+      "gloss": "kadadeyan"
     },
     {
       "surface": "לילה",
-      "gloss": "wengi"
+      "gloss": "ing wengi"
     },
     {
       "surface": "ויצא",
-      "gloss": "dhèwèké metu"
+      "gloss": "lan metu"
     },
     {
       "surface": "אל",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "ing njabaing"
+      "gloss": "njaba"
     },
     {
       "surface": "למחנה",
-      "gloss": "kemah"
+      "gloss": "kamp"
     },
     {
       "surface": "לא",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "lumebu"
+      "gloss": "mlebu"
     },
     {
       "surface": "אל",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "תוך",
-      "gloss": "ing tengahing"
+      "gloss": "tengahing"
     },
     {
       "surface": "המחנה",
-      "gloss": "⟨the⟩ kemah"
+      "gloss": "kamp"
     }
   ],
-  "timestamp": "2026-08-20T23:37:07.627752430Z",
+  "timestamp": "2026-08-24T05:45:12.437010797Z",
   "model": "glm-5.3"
 }

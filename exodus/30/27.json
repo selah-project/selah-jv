@@ -5,8 +5,62 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 30,
-  "translation": "Lan ⟨את⟩ mejasanarta lan ⟨את⟩ sadaya perabote, lan ⟨את⟩ prajurpancingan lan ⟨את⟩ perabote, lan ⟨את⟩ altarDupi bumbu-bumbuan.",
-  "tokens": [],
-  "timestamp": "2026-08-20T23:05:04.652930202Z",
+  "translation": "lavin ⟨את⟩ méja lan ⟨את⟩ kabèh pirantine, lan ⟨את⟩ prajané lan ⟨את⟩ pirantine, lan ⟨את⟩ altaré dupa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "méja"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "méja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabèh pirantine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pirantine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prajané"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "prajané"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pirantine"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "pirantine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altaré dupa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaré"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "dupa"
+    }
+  ],
+  "timestamp": "2026-08-24T05:36:37.279014576Z",
   "model": "glm-5.3"
 }

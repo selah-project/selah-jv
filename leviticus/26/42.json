@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 26,
-  "translation": "Lan aku bakal éling ⟨את⟩ prajanjianku marang Yaakov, uga ⟨את⟩ prajanjianku marang Yitshak, lan uga ⟨את⟩ prajanjianku marang Avraham bakal dakélingi; sarta ⟨the⟩ bumi bakal dakélingi.",
+  "translation": "Lan Dakelingi ⟨את⟩ prajanjian-Ku karo Yaakov, lan uga ⟨את⟩ prajanjian-Ku karo Yitshak, lan uga ⟨את⟩ prajanjian-Ku karo Avraham Dakelingake, lan ⟨את⟩ bumi Dakelingake.",
   "tokens": [
     {
       "surface": "וזכרתי",
-      "gloss": "lan aku bakal éling"
+      "gloss": "lan Dakelingi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "prajanjianku (Yaakov)"
+      "marks": "prajanjian-Ku"
     },
     {
       "surface": "בריתי",
-      "gloss": "prajanjianku"
+      "gloss": "prajanjian-Ku"
     },
     {
       "surface": "יעקוב",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "ואף",
-      "gloss": "uga"
+      "gloss": "lan uga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "prajanjianku (Yitshak)"
+      "marks": "prajanjian-Ku"
     },
     {
       "surface": "בריתי",
-      "gloss": "prajanjianku"
+      "gloss": "prajanjian-Ku"
     },
     {
       "surface": "יצחק",
@@ -43,16 +43,16 @@
     },
     {
       "surface": "ואף",
-      "gloss": "uga"
+      "gloss": "lan uga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "prajanjianku (Avraham)"
+      "marks": "prajanjian-Ku"
     },
     {
       "surface": "בריתי",
-      "gloss": "prajanjianku"
+      "gloss": "prajanjian-Ku"
     },
     {
       "surface": "אברהם",
@@ -60,17 +60,17 @@
     },
     {
       "surface": "אזכר",
-      "gloss": "bakal dakélingi"
+      "gloss": "Dakelingake"
     },
     {
       "surface": "והארץ",
-      "gloss": "sarta bumi"
+      "gloss": "lan bumi"
     },
     {
       "surface": "אזכר",
-      "gloss": "bakal dakélingi"
+      "gloss": "Dakelingake"
     }
   ],
-  "timestamp": "2026-08-21T03:54:41.338244643Z",
+  "timestamp": "2026-08-24T12:34:18.477800633Z",
   "model": "glm-5.3"
 }

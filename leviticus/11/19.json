@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 11,
-  "translation": "lan ⟨את⟩ blekok ⟨the⟩ cangak miturut jinisé lan ⟨את⟩ dukhipath lan ⟨את⟩ lawa",
+  "translation": "lan ⟨את⟩ manuk dendhang, blekok miturut jinisé, lan ⟨את⟩ manuk hudhud, lan ⟨את⟩ kelelawar.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "blekok"
+      "marks": "manuk dendhang"
     },
     {
       "surface": "החסידה",
-      "gloss": "blekok"
+      "gloss": "manuk dendhang"
     },
     {
       "surface": "האנפה",
-      "gloss": "cangak"
+      "gloss": "blekok"
     },
     {
       "surface": "למינה",
@@ -27,22 +27,22 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "dukhipath"
+      "marks": "manuk hudhud"
     },
     {
       "surface": "הדוכיפת",
-      "gloss": "dukhipath"
+      "gloss": "manuk hudhud"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "lawa"
+      "marks": "kelelawar"
     },
     {
       "surface": "העטלף",
-      "gloss": "lawa"
+      "gloss": "kelelawar"
     }
   ],
-  "timestamp": "2026-08-20T23:12:04.302561189Z",
+  "timestamp": "2026-08-24T05:39:06.918055381Z",
   "model": "glm-5.3"
 }

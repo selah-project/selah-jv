@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 28,
-  "translation": "Lan Aharon bakal nggawa ⟨את⟩ asma-asmaning para putra Israël ing dhadha-pengadilan ing sangisore atine, nalika dheweke mlebu menyang ⟨the⟩ panggonan suci, dadi pangeling-eling ing ngarsane Yahweh tansah.",
+  "translation": "Lan Aharon bakal nggawa ⟨את⟩ asma-asmane para putra Israel ing bengklèng pangapat mata-mata ing sadhuwuring atiné, nalika mlebu ing papan suci, dadi pangeling-eling ing ngarsane Yahweh tansah.",
   "tokens": [
     {
       "surface": "ונשא",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asma-asma"
+      "marks": "asma-asmane"
     },
     {
       "surface": "שמות",
-      "gloss": "asma-asma"
+      "gloss": "asma-asmane"
     },
     {
       "surface": "בני",
@@ -30,23 +30,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israël"
+      "gloss": "Israel"
     },
     {
       "surface": "בחשן",
-      "gloss": "ing dhadha-pengadilan"
+      "gloss": "ing bengklèng"
     },
     {
       "surface": "המשפט",
-      "gloss": "pengadilan"
+      "gloss": "pangapat"
     },
     {
       "surface": "על",
-      "gloss": "ing sangisore"
+      "gloss": "ing sadhuwuring"
     },
     {
       "surface": "לבו",
-      "gloss": "atine"
+      "gloss": "atiné"
     },
     {
       "surface": "בבאו",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "ing"
     },
     {
       "surface": "הקדש",
-      "gloss": "panggonan suci"
+      "gloss": "papan suci"
     },
     {
       "surface": "לזכרן",
@@ -77,6 +77,6 @@
       "gloss": "tansah"
     }
   ],
-  "timestamp": "2026-08-20T23:05:29.947003771Z",
+  "timestamp": "2026-08-24T05:36:04.425368144Z",
   "model": "glm-5.3"
 }

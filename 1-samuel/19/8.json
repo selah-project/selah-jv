@@ -5,11 +5,23 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Banjur perang tambah sithik maneh ana, lan Dawid metu sarta paprangan lawan wong Palisstim, lan diantemi ⟨ing⟩ padha暖暖 karo anteman agung, sarta padha kalilir saka ngarsane",
+  "translation": " lan perang iku banjur tuwuh maneh, lan Dawid metu sarta perang nglawan wong-wong Pelishti, lan panjenengane nggebug para iku kanthi pangantem agung, sarta padha lumayu saka ngarsane.",
   "tokens": [
     {
+      "surface": "ותוסף",
+      "gloss": "lan banjur tuwuh maneh"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "perang iku"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "dadi"
+    },
+    {
       "surface": "ויצא",
-      "gloss": "metu"
+      "gloss": "lan metu"
     },
     {
       "surface": "דוד",
@@ -17,23 +29,23 @@
     },
     {
       "surface": "וילחם",
-      "gloss": "paprangan"
+      "gloss": "lan perang"
     },
     {
       "surface": "בפלשתים",
-      "gloss": "lawan wong Palisstim"
+      "gloss": "nglawan wong-wong Pelishti"
     },
     {
       "surface": "ויך",
-      "gloss": "nantemi"
+      "gloss": "lan nggebug"
     },
     {
       "surface": "בהם",
-      "gloss": "ing dheweke"
+      "gloss": "para iku"
     },
     {
       "surface": "מכה",
-      "gloss": "anteman"
+      "gloss": "pangantem"
     },
     {
       "surface": "גדולה",
@@ -41,13 +53,13 @@
     },
     {
       "surface": "וינסו",
-      "gloss": "padha kalilir"
+      "gloss": "sarta padha lumayu"
     },
     {
       "surface": "מפניו",
       "gloss": "saka ngarsane"
     }
   ],
-  "timestamp": "2026-08-21T04:01:10.727459610Z",
+  "timestamp": "2026-08-24T12:34:18.474106366Z",
   "model": "glm-5.3"
 }

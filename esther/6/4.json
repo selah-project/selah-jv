@@ -5,8 +5,90 @@
   "book": "esther",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Banjur sang raja ngucap: \"Sapa sing ana ing pageran?\" Dene Haman wis lumebu menyang pageran njaba omah sang raja, supaya ngandika marang sang raja kanggo nglantarake Mordekai ing sangisore ⟨את⟩ Mordekai?",
-  "tokens": [],
-  "timestamp": "2026-08-21T04:22:07.040173256Z",
+  "translation": "Lan sang ratu munika: Sapa sing ana ing pelataran? (Dene Haman wis lumebu menyang pelataran jaba omahing ratu, supaya ngandika marang sang ratu kanggo nggantung ⟨את⟩ Mordehai ing sangisoré galah sing wis dipirsani kanggo dhèwèké.)",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "lan munika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sang ratu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "ing pelataran"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "dene Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wis lumebu"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "menyang pelataran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ratu"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "jaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kanggo ngandika"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "marang sang ratu"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "kanggo nggantung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordehai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sangisoré"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "galah\/kayu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "wis dipirsani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanggo dhèwèké"
+    }
+  ],
+  "timestamp": "2026-08-24T06:08:11.554903663Z",
   "model": "glm-5.3"
 }

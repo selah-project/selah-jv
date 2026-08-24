@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Lan kelambu-kelambu ⟨the⟩ pelataran, lan ⟨את⟩ kelambu lawangé ⟨the⟩ pelataran sing ana ing sandhuwuring mishkan lan ing sandhuwuring mezbah saubengé, lan ⟨את⟩ tali-taliné, kanggo kabèh pangabektiné.",
+  "translation": "lan kordené pelataran, lan ⟨את⟩ kelambu lawanging pelataran sing ing sisih Kemah Suci lan ing sisih mezbah sakiwa-tengené, lan ⟨את⟩ tali-taliné kanggo kabeh pangabdéné.",
   "tokens": [
     {
       "surface": "וקלעי",
-      "gloss": "lan kelambu-kelambu"
+      "gloss": "lan kordené"
     },
     {
       "surface": "החצר",
-      "gloss": "⟨the⟩ pelataran"
+      "gloss": "pelataran"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kelambu lawangé ⟨the⟩ pelataran"
+      "marks": "kelambu lawanging pelataran"
     },
     {
       "surface": "מסך",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "lawang"
+      "gloss": "lawanging"
     },
     {
       "surface": "החצר",
-      "gloss": "⟨the⟩ pelataran"
+      "gloss": "pelataran"
     },
     {
       "surface": "אשר",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "על",
-      "gloss": "ing sandhuwuring"
+      "gloss": "ing sisih"
     },
     {
       "surface": "המשכן",
-      "gloss": "mishkan"
+      "gloss": "Kemah Suci"
     },
     {
       "surface": "ועל",
-      "gloss": "lan ing sandhuwuring"
+      "gloss": "lan ing sisih"
     },
     {
       "surface": "המזבח",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "סביב",
-      "gloss": "saubengé"
+      "gloss": "sakiwa-tengené"
     },
     {
       "surface": "ואת",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "לכל",
-      "gloss": "kanggo kabèh"
+      "gloss": "kanggo kabeh"
     },
     {
       "surface": "עבדתו",
-      "gloss": "pangabektiné"
+      "gloss": "pangabdéné"
     }
   ],
-  "timestamp": "2026-08-20T23:19:03.813709217Z",
+  "timestamp": "2026-08-24T05:41:33.517789891Z",
   "model": "glm-5.3"
 }

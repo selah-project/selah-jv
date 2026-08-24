@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "jv",
   "chapter": 36,
-  "translation": "Mangkene pangandikane sang prabu: Aja padha kokapusi dening Khizkiyahu, awit ⟨⟨panjenengane⟩⟩ ora bakal bisa ngluwari ⟨את⟩-ing sira.",
+  "translation": "Mangkono wus makaten sabdane sang raja: aja padha dilimputi dening Chizkiyahu, awit dheweke ora bisa ngluputake ⟨את⟩ kowe kabeh.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "mangkene"
+      "gloss": "mangkono"
     },
     {
       "surface": "אמר",
-      "gloss": "pangandikane"
+      "gloss": "sabda"
     },
     {
       "surface": "המלך",
-      "gloss": "sang prabu"
+      "gloss": "sang raja"
     },
     {
       "surface": "אל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ישא",
-      "gloss": "kokapusi"
+      "gloss": "nglimputi"
     },
     {
       "surface": "לכם",
-      "gloss": "sira"
+      "gloss": "kowe kabeh"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Khizkiyahu"
+      "gloss": "Chizkiyahu"
     },
     {
       "surface": "כי",
@@ -45,17 +45,18 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "bakal bisa"
+      "gloss": "bisa"
     },
     {
       "surface": "להציל",
-      "gloss": "ngluwari"
+      "gloss": "ngluputake"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩-ing sira"
+      "gloss": "⟨את⟩ kowe kabeh",
+      "marks": "kowe kabeh"
     }
   ],
-  "timestamp": "2026-08-21T00:40:39.651983759Z",
+  "timestamp": "2026-08-24T05:54:10.622144971Z",
   "model": "glm-5.3"
 }

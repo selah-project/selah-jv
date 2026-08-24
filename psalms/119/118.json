@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 119,
-  "translation": "Panjenengan nyingkirake ⟨⟨sabeh sing padha kesasar saking pepakem-pakem Panjenengan⟩⟩, awit paniyesahe iku goroh.",
+  "translation": "Panjenengan nyingkirake kabeh sing kesasar saka ⟨angger-angger⟩Panjenengan, awit cidra iku goroh.",
   "tokens": [
     {
       "surface": "סלית",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "sabeh"
+      "gloss": "kabeh"
     },
     {
       "surface": "שוגים",
-      "gloss": "sing padha kesasar"
+      "gloss": "sing kesasar"
     },
     {
       "surface": "מחקיך",
-      "gloss": "saking pepakem-pakem Panjenengan"
+      "gloss": "saka angger-anggerPanjenengan"
     },
     {
       "surface": "כי",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "תרמיתם",
-      "gloss": "paniyesahe"
+      "gloss": "cidrané"
     }
   ],
-  "timestamp": "2026-08-21T02:05:45.875050907Z",
+  "timestamp": "2026-08-24T06:04:15.809304493Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Lapangan ana ⟨is⟩ tangan Yahweh marang aku ing kono, lan ⟨Dhèwèké⟩ ngandika marang aku:<th Bangun, metua menyang lebak iku, lan ing kono Aku bakal ngandika marang ⟨את⟩ sira.",
+  "translation": "Lan ana ing kono tangané Yahweh ◄tiba► marang aku, lan Dhéwé ngandika marang aku: Sumedhakya, ngetokna ing ◄ng► lebak kasebut, lan ing kono Aku bakal ngomong karo ⟨את⟩ kowe.",
   "tokens": [
     {
       "surface": "ותהי",
-      "gloss": "lan ana"
+      "gloss": "Lan ana"
     },
     {
       "surface": "עלי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יד",
-      "gloss": "tangan"
+      "gloss": "tangané"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "lan ngandika"
+      "gloss": "lan Dhéwé ngandika"
     },
     {
       "surface": "אלי",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "קום",
-      "gloss": "Bangun"
+      "gloss": "Sumedhakya"
     },
     {
       "surface": "צא",
-      "gloss": "metua"
+      "gloss": "ngetokna"
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "ing"
     },
     {
       "surface": "הבקעה",
-      "gloss": "lebak iku"
+      "gloss": "lebak kasebut"
     },
     {
       "surface": "ושם",
@@ -57,14 +57,14 @@
     },
     {
       "surface": "אדבר",
-      "gloss": "Aku bakal ngandika"
+      "gloss": "Aku bakal ngomong"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩",
-      "marks": "sira"
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
     }
   ],
-  "timestamp": "2026-08-21T01:07:57.427276697Z",
+  "timestamp": "2026-08-24T05:57:40.428987436Z",
   "model": "glm-5.3"
 }

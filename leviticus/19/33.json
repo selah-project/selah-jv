@@ -5,28 +5,27 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Lan yen ana ger sumedhi ⟨את⟩ ⟨אתך⟩ ing bumi-mu, aja kok nindhes ⟨אתו⟩.",
+  "translation": "Lan manawa ana wong ngumbara manggon ⟨את⟩ ing sandhingmu — tamu — ing buminira, aja nindesa ⟨אתו⟩ dhèwèké.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "lan yen"
+      "gloss": "lan manawa"
     },
     {
       "surface": "יגור",
-      "gloss": "sumedhi"
+      "gloss": "manggon ngumbara"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩",
-      "marks": "kowé"
+      "gloss": "⟨את⟩ ing sandhingmu"
     },
     {
       "surface": "גר",
-      "gloss": "ger"
+      "gloss": "tamu \/ wong ngumbara"
     },
     {
       "surface": "בארצכם",
-      "gloss": "ing bumi-mu"
+      "gloss": "ing buminira"
     },
     {
       "surface": "לא",
@@ -34,14 +33,14 @@
     },
     {
       "surface": "תונו",
-      "gloss": "kok nindhes"
+      "gloss": "nindesa"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dheweke (wong ger iku)"
+      "marks": "dhèwèké"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.853683652Z",
+  "timestamp": "2026-08-24T05:39:33.932151019Z",
   "model": "glm-5.3"
 }

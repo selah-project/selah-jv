@@ -5,52 +5,52 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 35,
-  "translation": "⟨את⟩ ⟨the⟩ mishkan, ⟨את⟩ kemah-e sarta ⟨את⟩ tudhung-e, ⟨את⟩ kanchane lan ⟨את⟩ papane, ⟨את】 palang-palange, ⟨את】 saka-sakane, lan ⟨את】 pendheme.",
+  "translation": "⟨את⟩ kemah suci, ⟨את⟩ tarube lan ⟨את⟩ tudunge, ⟨את⟩ pengait-pengaite lan ⟨את⟩ papan-papane, ⟨את⟩ palang-palange, ⟨את⟩ saka-sakane lan ⟨את⟩ landhasan-landhasane",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ mishkan"
+      "marks": "kemah suci"
     },
     {
       "surface": "המשכן",
-      "gloss": "⟨the⟩ mishkan"
+      "gloss": "kemah suci"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kemah-e"
+      "marks": "tarube"
     },
     {
       "surface": "אהלו",
-      "gloss": "kemah-e"
+      "gloss": "tarube"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "tudhung-e"
+      "marks": "tudunge"
     },
     {
       "surface": "מכסהו",
-      "gloss": "tudhung-e"
+      "gloss": "tudunge"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kanchane"
+      "marks": "pengait-pengaite"
     },
     {
       "surface": "קרסיו",
-      "gloss": "kanchane"
+      "gloss": "pengait-pengaite"
     },
     {
-      "surface": "וואת",
+      "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "papane"
+      "marks": "papan-papane"
     },
     {
       "surface": "קרשיו",
-      "gloss": "papane"
+      "gloss": "papan-papane"
     },
     {
       "surface": "את",
@@ -73,13 +73,13 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "pendheme"
+      "marks": "landhasan-landhasane"
     },
     {
       "surface": "אדניו",
-      "gloss": "pendheme"
+      "gloss": "landhasan-landhasane"
     }
   ],
-  "timestamp": "2026-08-20T23:06:01.647150306Z",
+  "timestamp": "2026-08-24T05:37:55.595821874Z",
   "model": "glm-5.3"
 }

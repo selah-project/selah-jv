@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Ing kemah pertemuan, ing njaba tabir sing ana ing dhuwur ⟨⟨saksi⟩⟩ iku, Aharon lan anak-anake bakal ndadekake ⟨את⟩ iku, saka sonten nganti esuk, ing ngarsane Yahweh — undhang-undhang langgeng tumrap turune turune, saka ⟨את⟩ bani Yisrael.",
+  "translation": "Ing kemah pasamuwan, ing njaba kendhang parechet sing ana ing dhuwur ⟨the⟩ pasaksian, Aharon lan para putrane bakal ngatur-i ⟨את⟩ saka surup nganti esuk ing ngarsane Yahweh; kuwi katetepan langgeng tumrap para tumurune dhewe, ⟨saka⟩ pihak ⟨את⟩ para putra Israèl.",
   "tokens": [
     {
       "surface": "באהל",
-      "gloss": "Ing kemah"
+      "gloss": "ing kemah"
     },
     {
-      "surface": "מועעד",
-      "gloss": "pertemuan"
+      "surface": "מועד",
+      "gloss": "pasamuwan"
     },
     {
       "surface": "מחוץ",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לפרכת",
-      "gloss": "tabir"
+      "gloss": "kendhang parechet"
     },
     {
       "surface": "אשר",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "על",
-      "gloss": "ing dhuwur"
+      "gloss": "ana ing dhuwur"
     },
     {
       "surface": "העדת",
-      "gloss": "⟨⟨saksi⟩⟩ iku"
+      "gloss": "⟨the⟩ pasaksian"
     },
     {
       "surface": "יערך",
-      "gloss": "bakal ndadekake\/nyusun"
+      "gloss": "bakal ngatur-i"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "iku (lampu)"
+      "marks": "Aharon"
     },
     {
       "surface": "אהרן",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "lan anak-anake"
+      "gloss": "lan para putrane"
     },
     {
       "surface": "מערב",
-      "gloss": "saka sonten\/surup"
+      "gloss": "saka surup"
     },
     {
       "surface": "עד",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "חקת",
-      "gloss": "undhang-undhang"
+      "gloss": "katetepan"
     },
     {
       "surface": "עולם",
@@ -82,21 +82,21 @@
     },
     {
       "surface": "לדרתם",
-      "gloss": "tumrap turune turune"
+      "gloss": "tumrap para tumurune dhewe"
     },
     {
       "surface": "מאת",
-      "gloss": "saka ⟨את⟩"
+      "gloss": "⟨את⟩ ⟨saka⟩ pihak"
     },
     {
       "surface": "בני",
-      "gloss": "bani\/anak-anake"
+      "gloss": "para putra"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israèl"
     }
   ],
-  "timestamp": "2026-08-20T23:03:38.627237144Z",
+  "timestamp": "2026-08-24T05:36:04.129419569Z",
   "model": "glm-5.3"
 }

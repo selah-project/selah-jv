@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Banjur ⟨dheweke⟩ mangkat lan tindak menyang Tsarefat, teka ing gapura ⟨the⟩ kutha, lah ana ing kana wadon randha siji lagi nglumpukake kayu; ⟨dheweke⟩ nyeru marang ⟨dheweke⟩ lan ngucap: Cekela aku matur nuwun sethithik banyu ing wadhah, supaya aku bisa ngombe.",
+  "translation": "Banjur awake tangi lan mangkat menyang Tsarephath, lan teka ing gapura ⟨ing⟩ kutha, lah ana ing kono wadon randha nglumpukake kayu; banjur njaluk marang sira, lan ngandika: Sumangga aku injaxa sethitik banyu ing jiringan, supaya aku ngombe.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Banjur ⟨dheweke⟩ mangkat"
+      "gloss": "banjur awake tangi"
     },
     {
       "surface": "וילך",
-      "gloss": "lan tindak"
+      "gloss": "lan mangkat"
     },
     {
       "surface": "צרפתה",
-      "gloss": "menyang Tsarefat"
+      "gloss": "menyang Tsarephath"
     },
     {
       "surface": "ויבא",
-      "gloss": "teka"
+      "gloss": "lan teka"
     },
     {
       "surface": "אל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "ing kana"
+      "gloss": "ing kono"
     },
     {
       "surface": "אשה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "מקששת",
-      "gloss": "lagi nglumpukake"
+      "gloss": "nglumpukake"
     },
     {
       "surface": "עצים",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "nyeru"
+      "gloss": "banjur njaluk"
     },
     {
       "surface": "אליה",
-      "gloss": "marang ⟨dheweke⟩"
+      "gloss": "marang sira"
     },
     {
       "surface": "ויאמר",
-      "gloss": "lan ngucap"
+      "gloss": "lan ngandika"
     },
     {
       "surface": "קחי",
-      "gloss": "Cekela"
+      "gloss": "injaxa"
     },
     {
       "surface": "נא",
-      "gloss": "matur nuwun"
+      "gloss": "sumangga"
     },
     {
       "surface": "לי",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "מעט",
-      "gloss": "sethithik"
+      "gloss": "sethitik"
     },
     {
       "surface": "מים",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "ing wadhah"
+      "gloss": "ing jiringan"
     },
     {
       "surface": "ואשתה",
-      "gloss": "supaya aku bisa ngombe"
+      "gloss": "supaya aku ngombe"
     }
   ],
-  "timestamp": "2026-08-21T04:05:12.969704132Z",
+  "timestamp": "2026-08-24T05:51:55.516352062Z",
   "model": "glm-5.3"
 }

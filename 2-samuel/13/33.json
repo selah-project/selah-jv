@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 13,
-  "translation": "Lan saiki aja ndhapuk bendara sang raja ing sajroning atine ⟨⟨tembung⟩ munjuk: 'Kabeh para putra sang raja padha mati'; amarga mung Amnon wae dhewe sing mati.'",
+  "translation": "Lan saiki aja bendara sang raja ngemunakake ing atine ⟨the⟩ pawarta, kaya ngucap: kabeh putrane sang rakean wis mati; awit mung Amnon wae sing mati.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ישם",
-      "gloss": "ndhapuk"
+      "gloss": "ngemunakake"
     },
     {
       "surface": "אדני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "marang"
+      "gloss": "ing"
     },
     {
       "surface": "לבו",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "tembung"
+      "gloss": "⟨the⟩ pawarta"
     },
     {
       "surface": "לאמר",
-      "gloss": "munjuk"
+      "gloss": "kaya ngucap"
     },
     {
       "surface": "כל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "para putra"
+      "gloss": "putrane"
     },
     {
       "surface": "המלך",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "מתו",
-      "gloss": "padha mati"
+      "gloss": "wis mati"
     },
     {
       "surface": "כי",
-      "gloss": "amarga"
+      "gloss": "awit"
     },
     {
       "surface": "אם",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "wae dhewe"
+      "gloss": "wae"
     },
     {
       "surface": "מת",
       "gloss": "mati"
     }
   ],
-  "timestamp": "2026-08-21T00:09:11.350096898Z",
+  "timestamp": "2026-08-24T05:49:13.414478080Z",
   "model": "glm-5.3"
 }

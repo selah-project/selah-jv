@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Banjur padha matur marang sang raja Ashur, ngendika: Bangsa-bangsa sing Paduka tibakaké lan Paduka dhélokaké manggon ing kutha-kuthané Shomron, ora padha mangertèni ⟨את⟩ paugeraning Elohime ⟨the⟩ wewengkon iki; mulané Panjenengané ngutus ⟨את⟩ singa-singa ing antarané, lah singa-singa iku padha matèni ⟨את⟩ ⟨אתם⟩ wong-wong mau, amarga padha ora mangertèni ⟨את⟩ paugeraning Elohime ⟨the⟩ wewengkon iki.",
+  "translation": "Banjur padha ngandika marang ratu Ashur, ngendika: Bangsa-bangsa kang sira tahan ngungsi lan sira dunungake ing kutha-kutha Shomron ora padha weruh ⟨את⟩ adating Elohime ⟨the⟩ negari, mulane Ia ngutus ⟨את⟩ singa-singa ing antarane, lan lah singa-singa iku mateni ⟨את⟩ wong-wonge, amarga dheweke padha ora weruh ⟨את⟩ adating Elohime ⟨the⟩ negari.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "banjur padha matur"
+      "gloss": "banjur padha ngandika"
     },
     {
       "surface": "למלך",
-      "gloss": "marang sang raja"
+      "gloss": "marang ratu"
     },
     {
       "surface": "אשור",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "הגלית",
-      "gloss": "Paduka tibakaké"
+      "gloss": "sira tahan ngungsi"
     },
     {
       "surface": "ותושב",
-      "gloss": "lan Paduka dhélokaké manggon"
+      "gloss": "lan sira dunungake"
     },
     {
       "surface": "בערי",
-      "gloss": "ing kutha-kuthané"
+      "gloss": "ing kutha-kutha"
     },
     {
       "surface": "שמרון",
@@ -53,32 +53,32 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "padha mangertèni"
+      "gloss": "padha weruh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "paugeran"
+      "marks": "adat"
     },
     {
       "surface": "משפט",
-      "gloss": "paugeran"
+      "gloss": "adat"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohime"
+      "gloss": "Elohim"
     },
     {
       "surface": "הארץ",
-      "gloss": "wewengkon"
+      "gloss": "negari"
     },
     {
       "surface": "וישלח",
-      "gloss": "mulané ngutus"
+      "gloss": "mulane Ia ngutus"
     },
     {
       "surface": "בם",
-      "gloss": "ing antarané"
+      "gloss": "ing antarane"
     },
     {
       "surface": "את",
@@ -90,16 +90,17 @@
       "gloss": "singa-singa"
     },
     {
-      "surface": "ו הנם",
-      "gloss": "lan lah singa-singa iku"
+      "surface": "והנם",
+      "gloss": "lan lah padha"
     },
     {
       "surface": "ממיתים",
-      "gloss": "padha matèni"
+      "gloss": "mateni"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אתם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "wong-wonge"
     },
     {
       "surface": "כאשר",
@@ -107,30 +108,30 @@
     },
     {
       "surface": "אינם",
-      "gloss": "ora"
+      "gloss": "padha ora"
     },
     {
       "surface": "ידעים",
-      "gloss": "padha mangertèni"
+      "gloss": "weruh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "paugeran"
+      "marks": "adat"
     },
     {
       "surface": "משפט",
-      "gloss": "paugeran"
+      "gloss": "adat"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohime"
+      "gloss": "Elohim"
     },
     {
       "surface": "הארץ",
-      "gloss": "wewengkon"
+      "gloss": "negari"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.829649164Z",
+  "timestamp": "2026-08-24T05:52:44.709508740Z",
   "model": "glm-5.3"
 }

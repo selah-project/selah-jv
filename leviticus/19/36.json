@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Timbangan sing adil, waton timbang sing adil, efah sing adil, lan hin sing adil, kudu diduwé kowé; Aku Yahweh Elohim-mu, sing wus ngetokake ⟨אתכם⟩ saka bumi Mitsrayim.",
+  "translation": "Timbangan padha, watu-timbangan padha, efa padha lan hin padha kudu dadi duwekemu; aku ⟨inggih⟩ Yahweh Elohimmu, sing Kubolhekke ⟨את⟩ saka tanah Mitsrayim.",
   "tokens": [
     {
       "surface": "מאזני",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "צדק",
-      "gloss": "sing adil"
+      "gloss": "padha"
     },
     {
       "surface": "אבני",
-      "gloss": "waton timbang"
+      "gloss": "watu-timbangan"
     },
     {
       "surface": "צדק",
-      "gloss": "sing adil"
+      "gloss": "padha"
     },
     {
       "surface": "איפת",
-      "gloss": "efah"
+      "gloss": "efa"
     },
     {
       "surface": "צדק",
-      "gloss": "sing adil"
+      "gloss": "padha"
     },
     {
       "surface": "והין",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "צדק",
-      "gloss": "sing adil"
+      "gloss": "padha"
     },
     {
       "surface": "יהיה",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "לכם",
-      "gloss": "diduwé kowé"
+      "gloss": "duwekemu"
     },
     {
       "surface": "אני",
-      "gloss": "Aku"
+      "gloss": "aku"
     },
     {
       "surface": "יהוה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim-mu"
+      "gloss": "Elohimmu"
     },
     {
       "surface": "אשר",
@@ -65,22 +65,22 @@
     },
     {
       "surface": "הוצאתי",
-      "gloss": "wus ngetokake"
+      "gloss": "Kubolhekke"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "kowé"
+      "marks": "kowe (kowé)"
     },
     {
       "surface": "מארץ",
-      "gloss": "saka bumi"
+      "gloss": "saka tanah"
     },
     {
       "surface": "מצרים",
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-20T23:15:04.812577833Z",
+  "timestamp": "2026-08-24T05:39:35.148159762Z",
   "model": "glm-5.3"
 }

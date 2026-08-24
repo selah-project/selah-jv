@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Sebab kabeh sangganane ⟨ana⟩ ing ngarsaku, lan pa祖先-е kukuhe ora kusirnaake saka aku.",
+  "translation": "Sebab saben-sabening paugerane ana ing ngarsaku, lan angger-anggere ora kusalin saka aku.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "Sebab"
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "saben-sabening"
     },
     {
       "surface": "משפטיו",
-      "gloss": "sangganane"
+      "gloss": "paugerane"
     },
     {
       "surface": "לנגדי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וחקתיו",
-      "gloss": "lan pa kukuhe"
+      "gloss": "lan angger-anggere"
     },
     {
       "surface": "לא",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "אסיר",
-      "gloss": "kusirnaake"
+      "gloss": "kusalin"
     },
     {
       "surface": "מני",
       "gloss": "saka aku"
     }
   ],
-  "timestamp": "2026-08-21T01:43:52.541811380Z",
+  "timestamp": "2026-08-24T06:02:08.045202734Z",
   "model": "glm-5.3"
 }

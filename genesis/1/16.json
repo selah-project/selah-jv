@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan Elohim nitahake ⟨את⟩ kaloro padhang ⟨the⟩ agung — ⟨את⟩ padhang ⟨the⟩ agung kanggo mengkoloni ⟨the⟩ awan, lan ⟨את⟩ padhang ⟨the⟩ cilik kanggo mengkoloni ⟨the⟩ wengi — lan ⟨את⟩ lintang-lintang.",
+  "translation": "Lan Elohim gawé ⟨את⟩ rong padhang gedhé, ⟨את⟩ padhang sing gedhé kanggo memperang rina, lan ⟨את⟩ padhang sing cilik kanggo memperang wengi, uga ⟨את⟩ lintang-lintang.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Lan nitahake"
+      "gloss": "Lan gawé"
     },
     {
       "surface": "אלהים",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaloro padhang agung"
+      "marks": "rong padhang gedhé"
     },
     {
       "surface": "שני",
-      "gloss": "kaloro"
+      "gloss": "rong"
     },
     {
       "surface": "המארת",
@@ -30,12 +30,12 @@
     },
     {
       "surface": "הגדלים",
-      "gloss": "agung"
+      "gloss": "gedhé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "padhang agung"
+      "marks": "padhang sing gedhé"
     },
     {
       "surface": "המאור",
@@ -43,20 +43,20 @@
     },
     {
       "surface": "הגדל",
-      "gloss": "agung"
+      "gloss": "sing gedhé"
     },
     {
       "surface": "לממשלת",
-      "gloss": "kanggo mengkoloni"
+      "gloss": "kanggo memperang"
     },
     {
       "surface": "היום",
-      "gloss": "awan"
+      "gloss": "rina"
     },
     {
-      "surface": "ו את",
-      "gloss": "⟨את⟩",
-      "marks": "padhang cilik"
+      "surface": "ואת",
+      "gloss": "lan ⟨את⟩",
+      "marks": "padhang sing cilik"
     },
     {
       "surface": "המאור",
@@ -64,11 +64,11 @@
     },
     {
       "surface": "הקטן",
-      "gloss": "cilik"
+      "gloss": "sing cilik"
     },
     {
       "surface": "לממשלת",
-      "gloss": "kanggo mengkoloni"
+      "gloss": "kanggo memperang"
     },
     {
       "surface": "הלילה",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "uga ⟨את⟩",
       "marks": "lintang-lintang"
     },
     {
@@ -84,6 +84,6 @@
       "gloss": "lintang-lintang"
     }
   ],
-  "timestamp": "2026-08-20T22:40:15.163940601Z",
+  "timestamp": "2026-08-24T05:32:55.707419585Z",
   "model": "glm-5.3"
 }

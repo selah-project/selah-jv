@@ -5,8 +5,57 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 13,
-  "translation": "Sarta sira, anak manungsa, tuwuhna rainé marang para wadon saka ummatmu sing padha anubuwah saka atiné dhéwé, lan anubuwahna nglawan ⟨k⟩⟨⟨⟩⟩sirasira",
-  "tokens": [],
-  "timestamp": "2026-08-21T01:09:43.844954599Z",
+  "translation": "Lan sira, putra manungsa, prasajakna raimira marang para putrane bangsamu sing padha nabi saka atine dhewe, lan nabia nglawan dheweke,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Lan sira"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "שים",
+      "gloss": "prasajakna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "raimira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "para putrane"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bangsamu"
+    },
+    {
+      "surface": "המתנבאות",
+      "gloss": "sing padha nabi"
+    },
+    {
+      "surface": "מלבהן",
+      "gloss": "saka atine dhewe"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "lan nabia"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "nglawan dheweke"
+    }
+  ],
+  "timestamp": "2026-08-24T05:57:35.171881587Z",
   "model": "glm-5.3"
 }

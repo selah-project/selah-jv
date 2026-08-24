@@ -5,8 +5,49 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Dene aku, lumebu ing omahe mu? — tansah ana kesalahan. Cathetan: isih ana siji patemon maneh — deleng ngisor.",
-  "tokens": [],
-  "timestamp": "2026-08-21T01:40:48.210963978Z",
+  "translation": "Dene aku, ing kaluwihane kasetian-Mu, bakal aku mlebe omah-Mu, sumujud marang ⟨the⟩ pasucian padaleman-Mu, ing sangsoring bekti-Mu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "dene aku"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ing kaluwihane"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "kasetian-Mu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "bakal aku mlebe"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "omah-Mu"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "sumujud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "padaleman-Mu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pasucian-Mu"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "ing sangsoring bekti-Mu"
+    }
+  ],
+  "timestamp": "2026-08-24T06:01:13.885929707Z",
   "model": "glm-5.3"
 }

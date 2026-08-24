@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "jv",
   "chapter": 40,
-  "translation": "Angkat dhuwur matamu lan padha ndeleng: sapa sing nitahake ⟨⟨semu iki⟩⟩; sing nggawa metu wadyabalané kanthi cacah, marang kabeh kalawan asma disembah; saka akèhé kasektèn lan kukuhé yen saktanger — ora ana sing ilang.",
+  "translation": "Angkat munggah mata-matamu lan padha ndelenga sapa sing nitahake kabeh iki; Kang ngetokake bala-balané miturut cacah, marang kabeh iku kanthi asma Ia nimbali; saka kaluwihane kakukosan lan kakuwatane kang mranani, dudu siji sing ilang.",
   "tokens": [
     {
       "surface": "שאו",
-      "gloss": "angkat"
+      "gloss": "Angkat"
     },
     {
       "surface": "מרום",
-      "gloss": "dhuwur"
+      "gloss": "munggah"
     },
     {
       "surface": "עיניכם",
-      "gloss": "matamu"
+      "gloss": "mata-matamu"
     },
     {
       "surface": "וראו",
-      "gloss": "lan padha ndeleng"
+      "gloss": "lan padha ndelenga"
     },
     {
       "surface": "מי",
@@ -33,51 +33,52 @@
     },
     {
       "surface": "אלה",
-      "gloss": "iku kabeh"
+      "gloss": "kabeh iki",
+      "marks": "kabeh iki"
     },
     {
       "surface": "המוציא",
-      "gloss": "sing nggawa metu"
+      "gloss": "Kang ngetokake"
     },
     {
       "surface": "במספר",
-      "gloss": "kanthi cacah"
+      "gloss": "miturut cacah"
     },
     {
       "surface": "צבאם",
-      "gloss": "wadyabalané"
+      "gloss": "bala-balané"
     },
     {
       "surface": "לכלם",
-      "gloss": "marang kabeh"
+      "gloss": "marang kabeh iku"
     },
     {
       "surface": "בשם",
-      "gloss": "kalawan asma"
+      "gloss": "kanthi asma"
     },
     {
       "surface": "יקרא",
-      "gloss": "disembah \/ diarani"
+      "gloss": "Ia nimbali"
     },
     {
       "surface": "מרב",
-      "gloss": "saka akèhé"
+      "gloss": "saka kaluwihane"
     },
     {
       "surface": "אונים",
-      "gloss": "kasektèn"
+      "gloss": "kakukosan"
     },
     {
       "surface": "ואמיץ",
-      "gloss": "lan kukuh"
+      "gloss": "lan kakuwatane kang mranani"
     },
     {
       "surface": "כח",
-      "gloss": "sasaktiné"
+      "gloss": "kakuwatan"
     },
     {
       "surface": "איש",
-      "gloss": "saktanger"
+      "gloss": "dudu siji"
     },
     {
       "surface": "לא",
@@ -88,6 +89,6 @@
       "gloss": "ilang"
     }
   ],
-  "timestamp": "2026-08-21T00:41:44.170481752Z",
+  "timestamp": "2026-08-24T12:34:18.479063558Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,40 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 40,
-  "translation": "Lan iku ngukur ⟨את⟩ ⟨the⟩ gerbang saka loteng ⟨the⟩ bilik nganti lotenge; ambané dalung likur asta, ⟨the⟩ lawang ngadhepi ⟨the⟩ lawang.",
+  "translation": "Lan iku ngukur ⟨את⟩ gapura, saka gagak sang-sangane tekan gagaké, jembaré rongpuluh lan lima asta, lawang ngadhepi lawang.",
   "tokens": [
     {
       "surface": "וימד",
-      "gloss": "lan iku ngukur"
+      "gloss": "lan ngukur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gerbang"
+      "marks": "gapura"
     },
     {
       "surface": "השער",
-      "gloss": "gerbang"
+      "gloss": "gapura"
     },
     {
       "surface": "מגג",
-      "gloss": "saka loteng"
+      "gloss": "saka gagak"
     },
     {
       "surface": "התא",
-      "gloss": "bilik"
+      "gloss": "sang-sangane"
     },
     {
       "surface": "לגגו",
-      "gloss": "nganti lotenge"
+      "gloss": "tekan gagaké"
     },
     {
       "surface": "רחב",
-      "gloss": "ambané"
+      "gloss": "jembaré"
     },
     {
       "surface": "עשרים",
-      "gloss": "rong puluh"
+      "gloss": "rongpuluh"
     },
     {
       "surface": "וחמש",
@@ -61,6 +61,6 @@
       "gloss": "lawang"
     }
   ],
-  "timestamp": "2026-08-21T04:14:10.011481141Z",
+  "timestamp": "2026-08-24T06:13:10.224410061Z",
   "model": "glm-5.3"
 }

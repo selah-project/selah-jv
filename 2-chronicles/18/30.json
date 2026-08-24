@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Lan sang ratu Aram paring dhawuh marang ⟨את⟩ para pangarsa kereta kang ana ing ngarsané, ngendika: Aja padha perang ⟨את⟩ ⟨the⟩ cilik lan ⟨את⟩ ⟨the⟩ gedhé, nanging mung ⟨את⟩ sang ratu Israel waé.",
+  "translation": "Lan raja Aram paring dhawuh marang ⟨את⟩ para panggedhe pacalane sing kagungane dhewe, kanthi munjuk: Aja karepe perang ⟨⟨את⟩⟩ wong cilik utawa ⟨⟨את⟩⟩ wong gedhe, nanging mung ⟨את⟩ raja Israyel wae.",
   "tokens": [
     {
       "surface": "ומלך",
-      "gloss": "lan sang ratu"
+      "gloss": "Lan raja"
     },
     {
       "surface": "ארם",
@@ -22,27 +22,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "para pangarsa kereta"
+      "marks": "para panggedhe pacalane"
     },
     {
       "surface": "שרי",
-      "gloss": "para pangarsa"
+      "gloss": "para panggedhe"
     },
     {
       "surface": "הרכב",
-      "gloss": "kereta"
+      "gloss": "pacalane"
     },
     {
       "surface": "אשר",
-      "gloss": "kang"
+      "gloss": "sing"
     },
     {
       "surface": "לו",
-      "gloss": "ana ing ngarsané"
+      "gloss": "kagungane dhewe"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngendika"
+      "gloss": "kanthi munjuk"
     },
     {
       "surface": "לא",
@@ -50,25 +50,25 @@
     },
     {
       "surface": "תלחמו",
-      "gloss": "padha perang"
+      "gloss": "karepe perang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cilik"
+      "marks": "wong cilik"
     },
     {
       "surface": "הקטן",
-      "gloss": "cilik"
+      "gloss": "wong cilik"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gedhé"
+      "marks": "wong gedhe"
     },
     {
       "surface": "הגדול",
-      "gloss": "gedhé"
+      "gloss": "wong gedhe"
     },
     {
       "surface": "כי",
@@ -76,26 +76,26 @@
     },
     {
       "surface": "אם",
-      "gloss": "kajaba"
+      "gloss": "mung"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sang ratu Israel"
+      "marks": "raja Israyel"
     },
     {
       "surface": "מלך",
-      "gloss": "sang ratu"
+      "gloss": "raja"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israyel"
     },
     {
       "surface": "לבדו",
-      "gloss": "waé"
+      "gloss": "wae"
     }
   ],
-  "timestamp": "2026-08-21T03:39:34.727063326Z",
+  "timestamp": "2026-08-24T06:11:06.874695071Z",
   "model": "glm-5.3"
 }

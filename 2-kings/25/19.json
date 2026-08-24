@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 25,
-  "translation": "Lan saka ⟨the⟩ kutha iku dijupuk siji pamong kang kadun ing sandhuwure wong-wong paperangan, lan limang wong saka para kang sumedani raine sang nata, kang tinemu ing ⟨the⟩ kutha, lan ⟨את⟩ juru serat iku, pangarsa bala, kang nglumantaraké ⟨את⟩ wong ⟨the⟩ bumi, lan nem dasa wong saka antarane wong ⟨the⟩ bumi kang tinemu ing ⟨the⟩ kutha.",
+  "translation": "Lan saka ing kutha iku dijupuk siji sidhi, kang dadi pangawasa ing sandhuwuring wong-wong paperangan, lan limang wong saka para kang ndeleng raine ⟨the⟩ raja, kang tinemu ing kutha iku, lan ⟨את⟩ juru-tulis iku, panggedhé balané, kang milihi wong ⟨the⟩ bumi, lan sawidak wong saka wong ⟨the⟩ bumi, kang tinemu ing kutha iku.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "lan saka"
+      "gloss": "lan-saka"
     },
     {
       "surface": "העיר",
-      "gloss": "kutha"
+      "gloss": "ing-kutha"
     },
     {
       "surface": "לקח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "סריס",
-      "gloss": "pamong"
+      "gloss": "sidhi"
     },
     {
       "surface": "אחד",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "dheweke"
+      "gloss": "dheweké"
     },
     {
       "surface": "פקיד",
-      "gloss": "kadun ing pasemon pamong"
+      "gloss": "pangawasa"
     },
     {
       "surface": "על",
-      "gloss": "ing sandhuwure"
+      "gloss": "ing-sandhuwuring"
     },
     {
       "surface": "אנשי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וחמשה",
-      "gloss": "lan lima"
+      "gloss": "lan-lima"
     },
     {
       "surface": "אנשים",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "מראי",
-      "gloss": "para kang sumedani"
+      "gloss": "saka-para-kang-ndeleng"
     },
     {
       "surface": "פני",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "sang nata"
+      "gloss": "raja"
     },
     {
       "surface": "אשר",
@@ -81,20 +81,20 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "ing kutha"
+      "gloss": "ing-kutha"
     },
     {
       "surface": "ואת",
-      "gloss": "lan ⟨את⟩",
-      "marks": "juru serat"
+      "gloss": "lan-⟨את⟩",
+      "marks": "juru-tulis iku"
     },
     {
       "surface": "הספר",
-      "gloss": "juru serat"
+      "gloss": "juru-tulis"
     },
     {
       "surface": "שר",
-      "gloss": "pangarsa"
+      "gloss": "panggedhé"
     },
     {
       "surface": "הצבא",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "המצבא",
-      "gloss": "kang nglumantaraké"
+      "gloss": "kang-milihi"
     },
     {
       "surface": "את",
@@ -119,7 +119,7 @@
     },
     {
       "surface": "וששים",
-      "gloss": "lan nem dasa"
+      "gloss": "lan-sawidak"
     },
     {
       "surface": "איש",
@@ -127,7 +127,7 @@
     },
     {
       "surface": "מעם",
-      "gloss": "saka antarane wong"
+      "gloss": "saka-wong"
     },
     {
       "surface": "הארץ",
@@ -135,13 +135,13 @@
     },
     {
       "surface": "הנמצאים",
-      "gloss": "kang tinemu"
+      "gloss": "kang-tinemu"
     },
     {
       "surface": "בעיר",
-      "gloss": "ing kutha"
+      "gloss": "ing-kutha"
     }
   ],
-  "timestamp": "2026-08-21T04:08:30.346516456Z",
+  "timestamp": "2026-08-24T05:53:48.157447548Z",
   "model": "glm-5.3"
 }

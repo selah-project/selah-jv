@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Lan Ehud metu liwat ⟨the⟩ serambi, lan nutup lawang-lawang ⟨the⟩ kamar dhuwur ing sangisore, lan ngunci.",
+  "translation": "Banjur Ehud metu menyang serambi, lan nutupake lawang-lawang kamar dhuwur ing belakane, lan ngunci.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "metu"
+      "gloss": "banjur metu"
     },
     {
       "surface": "אהוד",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "המסדרונה",
-      "gloss": "serambi"
+      "gloss": "menyang serambi"
     },
     {
       "surface": "ויסגר",
-      "gloss": "nutup"
+      "gloss": "lan nutupake"
     },
     {
       "surface": "דלתות",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "בעדו",
-      "gloss": "ing sangisore"
+      "gloss": "ing belakane"
     },
     {
-      "surface": "ונעל",
-      "gloss": "ngunci"
+      "surface": "ויעל",
+      "gloss": "lan ngunci"
     }
   ],
-  "timestamp": "2026-08-20T23:48:48.165368020Z",
+  "timestamp": "2026-08-24T05:46:07.616690085Z",
   "model": "glm-5.3"
 }

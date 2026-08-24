@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Ana ⟨⟨ing⟩⟩ ala sing takdhelengi sangisoring srengéngé, lan iku abot banget tumrap manungsa.",
+  "translation": "Ana ⟨sawijining⟩ ala kang takdheleng ing sangisore srengéngé, lan iku abot banget ⟨tumrap⟩ manungsa.",
   "tokens": [
     {
       "surface": "יש",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "ראיתי",
-      "gloss": "takdhelengi"
+      "gloss": "takdheleng"
     },
     {
       "surface": "תחת",
-      "gloss": "sangisore"
+      "gloss": "ing sangisore"
     },
     {
       "surface": "השמש",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "על",
-      "gloss": "tumrap"
+      "gloss": "⟨tumrap⟩"
     },
     {
       "surface": "האדם",
       "gloss": "manungsa"
     }
   ],
-  "timestamp": "2026-08-21T04:22:57.314437373Z",
+  "timestamp": "2026-08-24T06:06:36.410030479Z",
   "model": "glm-5.3"
 }

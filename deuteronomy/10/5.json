@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Lan aku mlumpat bali, aku mudhun saka ⟨the⟩ gunung, lan aku nglebokake ⟨את⟩ prasasti-prasasti iku menyang peti sing dakgawe, lan padha ana ing kono, kaya dene kang didhawuhake Yahweh marang aku.",
+  "translation": "Lan aku bali sarta mudhun saka gunung iku, lan aku nitahake ⟨את⟩ prasasti iku ing peti sing dakgawe; lan ⟨padha⟩ ana ing kono, kaya sing didhawuhake Yahweh marang aku.",
   "tokens": [
     {
       "surface": "ואפן",
-      "gloss": "lan aku mlumpat bali"
+      "gloss": "aku bali"
     },
     {
       "surface": "וארד",
-      "gloss": "aku mudhun"
+      "gloss": "mudhun"
     },
     {
       "surface": "מן",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "ההר",
-      "gloss": "⟨the⟩ gunung"
+      "gloss": "gunung iku"
     },
     {
       "surface": "ואשם",
-      "gloss": "lan aku nglebokake"
+      "gloss": "nitahake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "prasasti-prasasti iku"
+      "marks": "prasasti iku"
     },
     {
       "surface": "הלחת",
-      "gloss": "prasasti-prasasti iku"
+      "gloss": "prasasti iku"
     },
     {
       "surface": "בארון",
-      "gloss": "menyang peti"
+      "gloss": "ing peti"
     },
     {
       "surface": "אשר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "lan padha ana"
+      "gloss": "dadi ana"
     },
     {
       "surface": "שם",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kaya dene"
+      "gloss": "kaya"
     },
     {
       "surface": "צוני",
-      "gloss": "kang didhawuhake marang aku"
+      "gloss": "didhawuhake marang aku"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-20T23:32:51.807013087Z",
+  "timestamp": "2026-08-24T05:43:44.366627713Z",
   "model": "glm-5.3"
 }

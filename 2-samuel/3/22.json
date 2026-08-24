@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Lah, para abdie Dawid lan Yoab teka saka nglajar, nggawa rampasan akeh banget. Nanging Avner ora ana ing sedhereke Dawid ing Hevron, awit Dawid wis ngliwatakake ⟨⟨dheweke⟩⟩, lan ⟨⟨ia⟩⟩ lunga kanthi ayem.",
+  "translation": "Lah, abdine Daud lan Yoab teka saka barisan pangrampokan, lan nggawa rampasan akeh bareng ⟨את⟩ dheweke; dene Avner ora ana karo Daud ing Hevron, amarga wis dililakake lunga, lan lunga kalawan tentrem.",
   "tokens": [
     {
       "surface": "והנה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "para abdie"
+      "gloss": "abdine"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Daud"
     },
     {
       "surface": "ויואב",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מהגדוד",
-      "gloss": "saka nglajar"
+      "gloss": "saka barisan pangrampokan"
     },
     {
       "surface": "ושלל",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "רב",
-      "gloss": "akeh banget"
+      "gloss": "akeh"
     },
     {
       "surface": "עמם",
-      "gloss": "ing sedhereke"
+      "gloss": "karo dheweke"
     },
     {
       "surface": "הביאו",
-      "gloss": "nggawa teka"
+      "gloss": "nggawa"
     },
     {
       "surface": "ואבנר",
-      "gloss": "nanging Avner"
+      "gloss": "dene Avner"
     },
     {
       "surface": "איננו",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "עם",
-      "gloss": "ing sedhereke"
+      "gloss": "karo"
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "Daud"
     },
     {
       "surface": "בחברון",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "awit"
+      "gloss": "amarga"
     },
     {
       "surface": "שלחו",
-      "gloss": "ngliwatakake"
+      "gloss": "wis dililakake lunga"
     },
     {
       "surface": "וילך",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "בשלום",
-      "gloss": "kanthi ayem"
+      "gloss": "kalawan tentrem"
     }
   ],
-  "timestamp": "2026-08-21T00:06:14.545412331Z",
+  "timestamp": "2026-08-24T12:34:18.466232009Z",
   "model": "glm-5.3"
 }

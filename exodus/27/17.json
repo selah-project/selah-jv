@@ -5,8 +5,49 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Saka sakabehing sakagawe saka ⟨את⟩ langit lan ⟨את⟩ bumi.",
-  "tokens": [],
-  "timestamp": "2026-08-21T03:52:01.008064713Z",
+  "translation": "Saben saka-saka ⟨saka⟩ pelataran ing sakiwa-tengene diapit pita perak, pangeling-elingane perak, lan papukulane saka tembaga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "saben"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "saka-saka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨saka⟩ pelataran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ing sakiwa-tengene"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "diapit pita"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואויהם",
+      "gloss": "lan pangeling-elingane"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "perak"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "lan papukulane"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tembaga"
+    }
+  ],
+  "timestamp": "2026-08-24T05:36:46.515708812Z",
   "model": "glm-5.3"
 }

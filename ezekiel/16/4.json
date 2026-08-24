@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Dene bab kalairanmu, ing dinane kok lair ⟨את⟩ ⟨אתך⟩ ari-arimu ora dipotong, lan ing banyu ora kok umus supaya resik, lan ora kok uyahi nganggo uyah, lan ora kok bunteli lawon.",
+  "translation": "Lan bab kalairanmu: ing dina laire ⟨את⟩ ⟨אתך⟩ tali pusarmu ora dipotong, lan ing banyu ora diruwas supaya resik, lan ora digosok uyah, lan ora dililitan lungguh.",
   "tokens": [
     {
       "surface": "ומולדותיך",
-      "gloss": "Dene bab kalairanmu"
+      "gloss": "lan bab kalairanmu"
     },
     {
       "surface": "ביום",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "הולדת",
-      "gloss": "lair"
+      "gloss": "laire"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ ⟨אתך⟩",
-      "marks": "kok"
+      "marks": "sira (engkau)"
     },
     {
       "surface": "לא",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שרך",
-      "gloss": "ari-arimu"
+      "gloss": "tali pusarmu"
     },
     {
       "surface": "ובמים",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "רחצת",
-      "gloss": "kok umus"
+      "gloss": "diruwas"
     },
     {
       "surface": "למשעי",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "והמלח",
-      "gloss": "lan kok uyahi"
+      "gloss": "lan digosok uyah"
     },
     {
       "surface": "לא",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "המלחת",
-      "gloss": "kok uyahi"
+      "gloss": "digosok uyah"
     },
     {
       "surface": "והחתל",
-      "gloss": "lan kok bunteli"
+      "gloss": "lan dililitan"
     },
     {
       "surface": "לא",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "חתלת",
-      "gloss": "kok bunteli"
+      "gloss": "dililitan lungguh"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.803584001Z",
+  "timestamp": "2026-08-24T12:34:18.476356875Z",
   "model": "glm-5.3"
 }

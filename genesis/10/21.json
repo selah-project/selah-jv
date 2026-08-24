@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Lan marang Shem uga lair anak; panjenengane ⟨⟨dudu priyayi; cariyos ing ngisor iki»=batal⟨⟩⟩ bapake kabeh anake Eber, sadulure Yefet sing sulih.",
+  "translation": "Lan marang Shem uga lair ⟨anak-anak⟩; dheweke ⟨iku⟩ bapak kabeh anak-anake Ever, sadhereke Yefet sing tuwa.",
   "tokens": [
     {
       "surface": "ולשם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ילד",
-      "gloss": "lair anak"
+      "gloss": "lair ⟨anak-anak⟩"
     },
     {
       "surface": "גם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "panjenengane"
+      "gloss": "dheweke"
     },
     {
       "surface": "אבי",
-      "gloss": "bapake"
+      "gloss": "bapak"
     },
     {
       "surface": "כל",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בני",
-      "gloss": "anake"
+      "gloss": "anak-anake"
     },
     {
       "surface": "עבר",
-      "gloss": "Eber"
+      "gloss": "Ever"
     },
     {
       "surface": "אחי",
-      "gloss": "sadulure"
+      "gloss": "sadhereke"
     },
     {
       "surface": "יפת",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "sing sulih"
+      "gloss": "sing tuwa"
     }
   ],
-  "timestamp": "2026-08-20T22:42:31.056419992Z",
+  "timestamp": "2026-08-24T05:32:23.959512390Z",
   "model": "glm-5.3"
 }

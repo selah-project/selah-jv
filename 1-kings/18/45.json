@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Lan ana ing sakejeping mangsa iku ⟨⟨langit⟩⟩ dadi peteng dening awan-awan kandel lan angin, lan ana udan gedhe; lan Ahab nunggang jaran lan lunga menyang Yizreel.",
+  "translation": "Lan kadadéan nganti kaya mangkéné lan nganti kaya mangkono, lan ⟨⟨the⟩> langit dadi petung déné mendhung lan angin, lan ana udan gedhé; lan Ahab numpak lan lumaku menyang Yizreel.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "lumi"
+      "gloss": "lan kadadéan"
     },
     {
       "surface": "עד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "sakdho"
+      "gloss": "kaya mangkéné"
     },
     {
       "surface": "ועד",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "כה",
-      "gloss": "sakdho"
+      "gloss": "kaya mangkono"
     },
     {
       "surface": "והשמים",
-      "gloss": "langit"
+      "gloss": "lan langit"
     },
     {
       "surface": "התקדרו",
-      "gloss": "dadi peteng"
+      "gloss": "dadi petung"
     },
     {
       "surface": "עבים",
-      "gloss": "awan-awan kandel"
+      "gloss": "mendung"
     },
     {
       "surface": "ורוח",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "lumi"
+      "gloss": "lan ana"
     },
     {
       "surface": "גשם",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "גדול",
-      "gloss": "gedhe"
+      "gloss": "gedhé"
     },
     {
       "surface": "וירכב",
-      "gloss": "nunggang"
+      "gloss": "banjur numpak"
     },
     {
       "surface": "אחאב",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "וילך",
-      "gloss": "lunga"
+      "gloss": "lan lumaku"
     },
     {
       "surface": "יזרעאלה",
       "gloss": "menyang Yizreel"
     }
   ],
-  "timestamp": "2026-08-21T00:21:20.418389582Z",
+  "timestamp": "2026-08-24T05:52:13.509301015Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 4,
-  "translation": "Lan saiki, O Israel, ndereake ⟨הַ⟩kukum-kukum lan ⟨הַ⟩papasan sing dakmulangake marang kowe ⟨את⟩ ⟨אתכם⟩ supaya ditindakake, supaya kowe urip, lan kowe lumebu lan kowe nduwéni ⟨את⟩ ⟨הַ⟩bumi sing Yahweh, Elohihipun para leluhurmu, maringi marang kowe.",
+  "translation": "Lan saiki, Yisrael, mirengake marang ⟨the⟩ katetepan lan marang ⟨the⟩ pangapusan, kang aku dhewe mulangake marang kowe ⟨את⟩ supaya padha nindakake, murih kowe padha urip, lan kowe lumebu lan kowe nduweni ⟨את⟩ ⟨the⟩ bumi, kang Yahweh, Elohim leluhure kowe, menehi marang kowe.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "lan saiki"
+      "gloss": "Lan saiki"
     },
     {
       "surface": "ישראל",
-      "gloss": "O Israel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "שמע",
-      "gloss": "ndereake"
+      "gloss": "mirengake"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "החקים",
-      "gloss": "⟨הַ⟩kukum-kukum"
+      "gloss": "⟨the⟩ katetepan"
     },
     {
       "surface": "ואל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "המשפטים",
-      "gloss": "⟨הַ⟩papasan"
+      "gloss": "⟨the⟩ pangapusan"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "אנכי",
@@ -45,24 +45,24 @@
     },
     {
       "surface": "מלמד",
-      "gloss": "dakmulangake"
+      "gloss": "mulangake"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "kowe (ditindakake)"
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
     },
     {
       "surface": "לעשות",
-      "gloss": "supaya ditindakake"
+      "gloss": "supaya nindakake"
     },
     {
       "surface": "למען",
-      "gloss": "supaya"
+      "gloss": "murih"
     },
     {
       "surface": "תחיו",
-      "gloss": "kowe urip"
+      "gloss": "kowe padha urip"
     },
     {
       "surface": "ובאתם",
@@ -70,20 +70,20 @@
     },
     {
       "surface": "וירשתם",
-      "gloss": "lan kowe nduwéni"
+      "gloss": "lan kowe nduweni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨הַ⟩bumi"
+      "marks": "⟨the⟩ bumi"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨הַ⟩bumi"
+      "gloss": "⟨the⟩ bumi"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "יהוה",
@@ -91,21 +91,21 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohihipun"
+      "gloss": "Elohim"
     },
     {
       "surface": "אבתיכם",
-      "gloss": "para leluhurmu"
+      "gloss": "leluhure kowe"
     },
     {
       "surface": "נתן",
-      "gloss": "maringi"
+      "gloss": "menehi"
     },
     {
       "surface": "לכם",
       "gloss": "marang kowe"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.751262991Z",
+  "timestamp": "2026-08-24T05:43:24.185270046Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Supaya bani Israyel nggawa ⟨את⟩ kurban-kurbane sing padha disembelih ana ing alangan sabana, lan nggaba marang Yahweh, menyang lawang khemah patemon, menyang imam, lan padha ngorbanake kurban-kurban slamet marang Yahweh ⟨את⟩ ⟨אותם⟩.",
+  "translation": "Supaya anak-anak Yisrael nggawa ⟨את⟩ sesajene sing padha disembelih ing ngarsaning padhang, lan nggawa ⟨את⟩-e marang Yahweh, marang lawanging kemah pasamuwan, marang imam, lan nglabuhake sembelihan slametan marang Yahweh ⟨את⟩ dhewe.",
   "tokens": [
     {
       "surface": "למען",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "יביאו",
-      "gloss": "padha nggawa"
+      "gloss": "nggawa"
     },
     {
       "surface": "בני",
-      "gloss": "bani"
+      "gloss": "anak-anak"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kurban-kurbane"
+      "marks": "sesajene"
     },
     {
       "surface": "זבחיהם",
-      "gloss": "kurban-kurbane"
+      "gloss": "sesajene"
     },
     {
       "surface": "אשר",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הם",
-      "gloss": "padha"
+      "gloss": "dhewe"
     },
     {
       "surface": "זבחים",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "על",
-      "gloss": "ana ing"
+      "gloss": "ing"
     },
     {
       "surface": "פני",
-      "gloss": "alangan"
+      "gloss": "ngarsaning"
     },
     {
       "surface": "השדה",
-      "gloss": "sabana"
+      "gloss": "padhang"
     },
     {
       "surface": "והביאם",
-      "gloss": "lan nggaba"
+      "gloss": "lan nggawa"
     },
     {
       "surface": "ליהוה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "marang"
     },
     {
       "surface": "פתח",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "אהל",
-      "gloss": "khemah"
+      "gloss": "kemah"
     },
     {
       "surface": "מועד",
-      "gloss": "patemon"
+      "gloss": "pasamuwan"
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "marang"
     },
     {
       "surface": "הכהן",
@@ -94,15 +94,15 @@
     },
     {
       "surface": "וזבחו",
-      "gloss": "lan padha ngorbanake"
+      "gloss": "lan nglabuhake sembelihan"
     },
     {
       "surface": "זבחי",
-      "gloss": "kurban-kurban"
+      "gloss": "sembelihané"
     },
     {
       "surface": "שלמים",
-      "gloss": "slamet"
+      "gloss": "slametan"
     },
     {
       "surface": "ליהוה",
@@ -110,10 +110,10 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨אותם⟩",
-      "marks": "kurban-kurban mau"
+      "gloss": "⟨את⟩ dhewe",
+      "marks": "⟨את⟩+akhiran -em nuduhake sesajen wau"
     }
   ],
-  "timestamp": "2026-08-20T23:14:36.252158589Z",
+  "timestamp": "2026-08-24T05:40:24.090819561Z",
   "model": "glm-5.3"
 }

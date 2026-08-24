@@ -5,8 +5,33 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 15,
-  "translation": "Sagara jero angliputi ⟨את⟩ dheweke, padha tiba tumiba ing jeroning palungguhan Sagara kaya wetu.",
-  "tokens": [],
-  "timestamp": "2026-08-20T23:00:04.888540875Z",
+  "translation": "Segara jero nemu nutupi dhewe; padha tumiba ing jero segara kaya watu.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "segara jero"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "nutupi"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "padha tumiba"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "ing jero segara"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kaya"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "watu"
+    }
+  ],
+  "timestamp": "2026-08-24T05:34:56.249093247Z",
   "model": "glm-5.3"
 }

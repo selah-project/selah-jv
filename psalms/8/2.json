@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Yahweh, Adonai kita, panguwuhe ⟨⟨apa⟩⟩ asmamu ing sadhuwuring bumi kabeh, sing wus nutokake kamulyanmu sadhuwure langit.",
+  "translation": "Yahweh, Adonai kita, pira agungé Asma-Mu ing bumi kabéh, sing sira angedumaké kamulyan-Mu ing sadhuwuring langit.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "panguwuhe ⟨apa⟩"
+      "gloss": "pira"
     },
     {
       "surface": "אדיר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "שמך",
-      "gloss": "asmamu"
+      "gloss": "Asma-Mu"
     },
     {
       "surface": "בכל",
-      "gloss": "ing kabeh"
+      "gloss": "ing ... kabéh"
     },
     {
       "surface": "הארץ",
@@ -41,21 +41,21 @@
     },
     {
       "surface": "תנה",
-      "gloss": "wus nutokake"
+      "gloss": "angedumaké"
     },
     {
       "surface": "הודך",
-      "gloss": "kamulyanmu"
+      "gloss": "kamulyan-Mu"
     },
     {
       "surface": "על",
-      "gloss": "sadhuwure"
+      "gloss": "ing sadhuwuring"
     },
     {
       "surface": "השמים",
       "gloss": "langit"
     }
   ],
-  "timestamp": "2026-08-21T01:41:38.878827188Z",
+  "timestamp": "2026-08-24T06:01:33.438573796Z",
   "model": "glm-5.3"
 }

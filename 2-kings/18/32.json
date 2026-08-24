@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 18,
-  "translation": "nganti teka aku lan njupuk ⟨את⟩ kowe marang ⟨the⟩ bumi kaya bumimu dhewe, ⟨the⟩ bumi wiji lan anggur anyar, ⟨the⟩ bumi roti lan kebon anggur, ⟨the⟩ bumi zaitun lenga lan madu, lan padha urip lan aja padha mati; lan aja padha ngrungokake marang Khizkiyahu, awit ⟨dheweke⟩ njaluk kesasar ⟨את⟩ kowe, ngandika: Yahweh bakal ngluwari aku.",
+  "translation": "Nganti aku teka lan padha dakawan ⟨את⟩ sira menyang sawijining bumi kaya buminira: bumi gdbji lan anggur anyar, bumi roti lan kebon anggur, bumi wit zaitun minyak lan madu, supaya padha urip lan ora mati. Aja padha ngrungokake marang Hizkiyahu, awit dhèwèké nggodha ⟨את⟩ sira, ngendika: Yahweh bakal ngluwari kita.",
   "tokens": [
     {
       "surface": "עד",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "באי",
-      "gloss": "teka aku"
+      "gloss": "aku teka"
     },
     {
       "surface": "ולקחתי",
-      "gloss": "lan njupuk"
+      "gloss": "lan dakawan"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kowe",
-      "marks": "kowe"
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira (kalian)"
     },
     {
       "surface": "אל",
-      "gloss": "marang"
+      "gloss": "menyang"
     },
     {
       "surface": "ארץ",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "כארצכם",
-      "gloss": "kaya bumimu dhewe"
+      "gloss": "kaya buminira"
     },
     {
       "surface": "ארץ",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "דגן",
-      "gloss": "wiji"
+      "gloss": "gdbji"
     },
     {
       "surface": "ותירוש",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "זית",
-      "gloss": "zaitun"
+      "gloss": "wit zaitun"
     },
     {
       "surface": "יצהר",
-      "gloss": "lenga"
+      "gloss": "minyak"
     },
     {
       "surface": "ודבש",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "lan aja"
+      "gloss": "lan ora"
     },
     {
       "surface": "תמתו",
-      "gloss": "padha mati"
+      "gloss": "mati"
     },
     {
       "surface": "ואל",
-      "gloss": "lan aja"
+      "gloss": "aja"
     },
     {
       "surface": "תשמעו",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Khizkiyahu"
+      "gloss": "Hizkiyahu"
     },
     {
       "surface": "כי",
@@ -110,16 +110,16 @@
     },
     {
       "surface": "יסית",
-      "gloss": "njaluk kesasar"
+      "gloss": "nggodha"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kowe",
-      "marks": "kowe"
+      "gloss": "⟨את⟩ sira",
+      "marks": "sira"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngandika"
+      "gloss": "ngendika"
     },
     {
       "surface": "יהוה",
@@ -127,9 +127,9 @@
     },
     {
       "surface": "יצילנו",
-      "gloss": "bakal ngluwari aku"
+      "gloss": "bakal ngluwari kita"
     }
   ],
-  "timestamp": "2026-08-21T04:07:13.330378167Z",
+  "timestamp": "2026-08-24T05:52:14.149778118Z",
   "model": "glm-5.3"
 }

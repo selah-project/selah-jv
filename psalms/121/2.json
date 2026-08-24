@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 121,
-  "translation": "Pitulunganku ⟨⟨comes⟩⟩ saka ngarsane Yahweh, Panggarapé ⟨את⟩ langit lan ⟨את⟩ bumi.",
+  "translation": "Pitulunganku ⟨is⟩ saka ing ngarsane Yahweh, Sang Nitahake ⟨את⟩ langit lan ⟨את⟩ bumi.",
   "tokens": [
     {
       "surface": "עזרי",
-      "gloss": "pitulunganku"
+      "gloss": "Pitulunganku"
     },
     {
       "surface": "מעם",
-      "gloss": "saka ngarsane"
+      "gloss": "saka ing ngarsane"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "Panggarapé"
+      "gloss": "Sang Nitahake"
     },
     {
       "surface": "שמים",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "וארץ",
-      "gloss": "bumi"
+      "gloss": "lan bumi"
     }
   ],
-  "timestamp": "2026-08-21T02:06:28.541128441Z",
+  "timestamp": "2026-08-24T06:04:28.582534110Z",
   "model": "glm-5.3"
 }

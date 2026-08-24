@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 119,
-  "translation": "Aku ⟨is⟩ iku tamu ing ⟨the⟩ bumi; aja didhemake saka aku prentah-prentahmu.",
+  "translation": "Dhumpak aku ana ing bumi; aja sing ndhelikake saka aku PARENTAH-PARENTAHMU",
   "tokens": [
     {
       "surface": "גר",
-      "gloss": "tamu (wong nyalamèni)"
+      "gloss": "dhumpak"
     },
     {
       "surface": "אנכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "ing bumi"
+      "gloss": "ana ing bumi"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תסתר",
-      "gloss": "didhemake"
+      "gloss": "ndhelikake"
     },
     {
       "surface": "ממני",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "מצותיך",
-      "gloss": "prentah-prentahmu"
+      "gloss": "PARENTAH-PARENTAHMU"
     }
   ],
-  "timestamp": "2026-08-21T02:05:10.323196706Z",
+  "timestamp": "2026-08-24T06:04:18.019774787Z",
   "model": "glm-5.3"
 }

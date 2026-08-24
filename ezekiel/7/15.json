@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 7,
-  "translation": "⟨The⟩ pedhang ing njaba, lan ⟨the⟩ pageblug lan ⟨the⟩ kaluwen ing njero; sing ana ing sawah bakal mati dening pedhang, lan sing ana ing kutha, kaluwen lan pageblug bakal mamah dheweke.",
+  "translation": "Pedhang ⟨⟨is⟩⟩ ing njaba, lan pageblug lan kaluwen ing njero; sapa sing ing sawah, bakal mati dening pedhang, lan sapa sing ing kutha, kaluwen lan pageblug bakal mundhut ⟨את⟩ dheweke.",
   "tokens": [
     {
       "surface": "החרב",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "מבית",
-      "gloss": "saka njeron omah"
+      "gloss": "ing njero"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "sapa sing"
     },
     {
       "surface": "בשדה",
-      "gloss": "ana ing sawah"
+      "gloss": "ing sawah"
     },
     {
       "surface": "בחרב",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "lan sing"
+      "gloss": "lan sapa sing"
     },
     {
       "surface": "בעיר",
-      "gloss": "ana ing kutha"
+      "gloss": "ing kutha"
     },
     {
       "surface": "רעב",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "יאכלנו",
-      "gloss": "bakal mamah dheweke"
+      "gloss": "bakal mundhut dheweke"
     }
   ],
-  "timestamp": "2026-08-21T01:08:16.810167234Z",
+  "timestamp": "2026-08-24T12:34:18.475786888Z",
   "model": "glm-5.3"
 }

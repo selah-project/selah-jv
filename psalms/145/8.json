@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 145,
-  "translation": "Welas asih lan suka belas punika dhumateng pamaosipun…",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:09:29.152966304Z",
+  "translation": "Maha welas-asih lan murah hati Yahweh, lentip ing nesu, lan agung kasetyane.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Maha welas-asih"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "lan murah hati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lentip"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ing nesu"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "lan agung"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:20.200226083Z",
   "model": "glm-5.3"
 }

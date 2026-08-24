@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Anggur lan ombenan kang ngejewek aja oleh ngombé sira lan anak-anakmu ⟨את⟩ ⟨אתך⟩ nalika kowe padha mlebu menyang sajrone khemah pasamuwan, supaya kowe aja padha mati — iku sarat ing salawas-lawase tumrap turun-turunmu.",
+  "translation": "Anggur lan ombenan kasar aja kok ethok, sliramu lan anamu ⟨את⟩ karo sliramu, nalika kok mlebu menyang Khemah Pasamuan, supaya kok ora mati — minangka katetepan langgeng kanggo sabungsa-bungsamu.",
   "tokens": [
     {
       "surface": "יין",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ושכר",
-      "gloss": "lan ombenan kang ngejewek"
+      "gloss": "lan ombenan kasar"
     },
     {
       "surface": "אל",
@@ -21,23 +21,24 @@
     },
     {
       "surface": "תשת",
-      "gloss": "ngombé"
+      "gloss": "kok ethok"
     },
     {
       "surface": "אתה",
-      "gloss": "sira"
+      "gloss": "sliramu"
     },
     {
       "surface": "ובניך",
-      "gloss": "lan anak-anakmu"
+      "gloss": "lan anamu"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩"
+      "gloss": "karo ⟨את⟩ sliramu",
+      "marks": "sliramu"
     },
     {
       "surface": "בבאכם",
-      "gloss": "nalika kowe padha mlebu"
+      "gloss": "nalika kok mlebu"
     },
     {
       "surface": "אל",
@@ -45,33 +46,33 @@
     },
     {
       "surface": "אהל",
-      "gloss": "khemah"
+      "gloss": "Khemah"
     },
     {
       "surface": "מועד",
-      "gloss": "pasamuwan"
+      "gloss": "Pasamuan"
     },
     {
       "surface": "ולא",
-      "gloss": "supaya aja"
+      "gloss": "supaya ora"
     },
     {
       "surface": "תמתו",
-      "gloss": "kowe padha mati"
+      "gloss": "kok mati"
     },
     {
       "surface": "חקת",
-      "gloss": "sarat"
+      "gloss": "katetepan"
     },
     {
       "surface": "עולם",
-      "gloss": "ing salawas-lawase"
+      "gloss": "langgeng"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "tumrap turun-turunmu"
+      "gloss": "kanggo sabungsa-bungsamu"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.838709043Z",
+  "timestamp": "2026-08-24T05:39:04.903499323Z",
   "model": "glm-5.3"
 }

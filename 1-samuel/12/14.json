@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 12,
-  "translation": "Menawa kowé padha bekti marang ⟨את⟩ Yahweh lan ngabekti ⟨את⟩ ⟨אתו⟩ ing kono, ngrungokake swarane, ora nglawan ⟨את⟩ piyantasane Yahweh, kowé uga lan ratu sing mrentah ing sadhuwurmu bakal padha mèlu ing sapelingere Yahweh Elohimmu.",
+  "translation": "Menawa sira wedi marang ⟨את⟩ Yahweh lan ngabekti ⟨את⟩ marang Panjenengane, lan ngrungokake swarane, lan ora nglirwakake ⟨את⟩ cangkeme Yahweh, sira uga lan uga raja sing makkuasa ing sira bakal tumut marang Yahweh, Elohimira.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "kowé padha bekti"
+      "gloss": "sira wedi"
     },
     {
       "surface": "את",
@@ -30,33 +30,32 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Yahweh (dadi objek ngabdi)"
+      "gloss": "⟨את⟩ marang Panjenengane"
     },
     {
       "surface": "ושמעתם",
-      "gloss": "ngrungokake"
+      "gloss": "lan ngrungokake"
     },
     {
-      "surface": "בקלו",
+      "surface": "בקולו",
       "gloss": "swarane"
     },
     {
       "surface": "ולא",
-      "gloss": "ora"
+      "gloss": "lan ora"
     },
     {
       "surface": "תמרו",
-      "gloss": "nglawan"
+      "gloss": "nlirwakake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "piyantasane"
+      "marks": "cangkeme"
     },
     {
       "surface": "פי",
-      "gloss": "piyantasane"
+      "gloss": "cangkeme"
     },
     {
       "surface": "יהוה",
@@ -64,7 +63,7 @@
     },
     {
       "surface": "והיתם",
-      "gloss": "kowé bakal dadi"
+      "gloss": "bakal dadi"
     },
     {
       "surface": "גם",
@@ -72,7 +71,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "kowé"
+      "gloss": "sira"
     },
     {
       "surface": "וגם",
@@ -80,7 +79,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ratu"
+      "gloss": "raja"
     },
     {
       "surface": "אשר",
@@ -88,15 +87,15 @@
     },
     {
       "surface": "מלך",
-      "gloss": "mrentah"
+      "gloss": "makkuasa"
     },
     {
       "surface": "עליכם",
-      "gloss": "ing sadhuwurmu"
+      "gloss": "ing sira"
     },
     {
       "surface": "אחר",
-      "gloss": "mèlu ing sapelingere"
+      "gloss": "tumut marang"
     },
     {
       "surface": "יהוה",
@@ -104,9 +103,9 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohimmu"
+      "gloss": "Elohimira"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.722963202Z",
+  "timestamp": "2026-08-24T05:48:43.946056316Z",
   "model": "glm-5.3"
 }

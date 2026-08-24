@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Laje Dawid ngandika ing dina iku: Sapa sing mitrahi wong Yebusi lan tumuju ing saluran banyu — lan ⟨את⟩ wong pincang, lan ⟨את⟩ wong wuta, sing disenengi ora ing penggalare Dawid — mulané padha ngucap: Wong wuta lan wong pincang ora bakal mlebu ing ⟨the⟩ omah.",
+  "translation": "Lan Dawid munjuk ing dina iku: saben wong sing nggebug Yebusi lan tumut ing saluran banyu, sarta ⟨את⟩ sing pincang lan ⟨את⟩ sing wuta — dipengini-pengini dhéwé atiné Dawid marang iku — mulané padha munjuk: 'Sing wuta lan sing pincang ora bakal lumebu ing omah.'",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Laje ngandika"
+      "gloss": "lan munjuk"
     },
     {
       "surface": "דוד",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "כל",
-      "gloss": "sapa"
+      "gloss": "saben"
     },
     {
       "surface": "מכה",
-      "gloss": "mitrahi"
+      "gloss": "sing nggebug"
     },
     {
       "surface": "יבסי",
-      "gloss": "wong Yebusi"
+      "gloss": "Yebusi"
     },
     {
       "surface": "ויגע",
-      "gloss": "lan tumuju"
+      "gloss": "lan tumut"
     },
     {
       "surface": "בצנור",
@@ -45,29 +45,29 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "wong pincang"
+      "gloss": "sarta ⟨את⟩",
+      "marks": "sing pincang"
     },
     {
       "surface": "הפסחים",
-      "gloss": "wong pincang"
+      "gloss": "sing pincang"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "wong wuta"
+      "gloss": "lan ⟨את⟩",
+      "marks": "sing wuta"
     },
     {
       "surface": "העורים",
-      "gloss": "wong wuta"
+      "gloss": "sing wuta"
     },
     {
       "surface": "שנאו",
-      "gloss": "disenengi ora"
+      "gloss": "dipengini-pengini"
     },
     {
       "surface": "נפש",
-      "gloss": "penggalare"
+      "gloss": "atiné"
     },
     {
       "surface": "דוד",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ing"
+      "gloss": "marang"
     },
     {
       "surface": "כן",
@@ -83,15 +83,15 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "padha ngucap"
+      "gloss": "padha munjuk"
     },
     {
       "surface": "עור",
-      "gloss": "wong wuta"
+      "gloss": "sing wuta"
     },
     {
       "surface": "ופסח",
-      "gloss": "lan wong pincang"
+      "gloss": "lan sing pincang"
     },
     {
       "surface": "לא",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "bakal mlebu"
+      "gloss": "bakal lumebu"
     },
     {
       "surface": "אל",
@@ -110,6 +110,6 @@
       "gloss": "omah"
     }
   ],
-  "timestamp": "2026-08-21T00:07:11.196534759Z",
+  "timestamp": "2026-08-24T06:12:05.693680044Z",
   "model": "glm-5.3"
 }

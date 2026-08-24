@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Ora ngrungokake ⟨the⟩ swara, ora nampa piwulang, ing Yahweh ora percaya, marang Elohire ora nyedhaki.",
+  "translation": "Ora ngrungokake swara, ora nampa piwulang ⟨dicorrection⟩; marang Yahweh ora percaya, marang Elohire ora cedhak.",
   "tokens": [
     {
       "surface": "לא",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "מוסר",
-      "gloss": "piwulang"
+      "gloss": "piwulang ⟨dicorrection⟩"
     },
     {
       "surface": "ביהוה",
-      "gloss": "ing Yahweh"
+      "gloss": "marang Yahweh"
     },
     {
       "surface": "לא",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "קרבה",
-      "gloss": "nyedhaki"
+      "gloss": "cedhak"
     }
   ],
-  "timestamp": "2026-08-21T01:35:43.412055117Z",
+  "timestamp": "2026-08-24T06:13:00.005100847Z",
   "model": "glm-5.3"
 }

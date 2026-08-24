@@ -5,16 +5,16 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 37,
-  "translation": "Lan cedakaké ⟨אתם⟩ siji marang siji, saka panjenengané dadi kayu siji, lan bakal dadi siji ing tanganmu.",
+  "translation": "Lan dakketekake ⟨אתם⟩ siji marang siji, dadi ing tanganmu ⟨kanggo⟩ siji kayu, lan bakal dadi siji ing tanganmu.",
   "tokens": [
     {
-      "surface": "וקקרב",
-      "gloss": "lan cedakaké"
+      "surface": "וקרב",
+      "gloss": "lan dakketekake"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "siji (kayu siji)"
+      "marks": "siji (kayu-kayu kasebut)"
     },
     {
       "surface": "אחד",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "saka panjenengané"
+      "gloss": "dhadhas kanggo sira"
     },
     {
       "surface": "לעץ",
-      "gloss": "dadi kayu"
+      "gloss": "kanggo kayu"
     },
     {
       "surface": "אחד",
@@ -53,6 +53,6 @@
       "gloss": "ing tanganmu"
     }
   ],
-  "timestamp": "2026-08-21T01:20:24.538029542Z",
+  "timestamp": "2026-08-24T05:58:47.584169683Z",
   "model": "glm-5.3"
 }

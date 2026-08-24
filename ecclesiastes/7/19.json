@@ -5,15 +5,15 @@
   "book": "ecclesiastes",
   "lang": "jv",
   "chapter": 7,
-  "translation": "⟨⟩ Hikmah menehi kakuwatan marang wong wicara, luwih saka sepuluh panguwasa sing wis ana ing ⟨the⟩ kutha.",
+  "translation": "Kabatosan mènèhi kakuwatan marang wong wicara, luwih saka sepuluh para panguwasa sing ⟨wis⟩ ana ing ⟨sawijining⟩ kutha.",
   "tokens": [
     {
       "surface": "החכמה",
-      "gloss": "hikmah"
+      "gloss": "kabatosan"
     },
     {
       "surface": "תעז",
-      "gloss": "menehi kakuwatan"
+      "gloss": "mènèhi kakuwatan"
     },
     {
       "surface": "לחכם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שליטים",
-      "gloss": "panguwasa"
+      "gloss": "para panguwasa"
     },
     {
       "surface": "אשר",
@@ -40,6 +40,6 @@
       "gloss": "ing kutha"
     }
   ],
-  "timestamp": "2026-08-21T02:49:20.810650807Z",
+  "timestamp": "2026-08-24T06:06:58.813203964Z",
   "model": "glm-5.3"
 }

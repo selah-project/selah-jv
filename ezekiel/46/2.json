@@ -5,27 +5,27 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 46,
-  "translation": "Lan pangran teka liwat selaning lawang saka njaba, lajeng ngadeg ing cagaking lawang, lan para imam nggawe ⟨את⟩ kurban bakare lan ⟨את⟩ kurban slamete; lajeng ⟨⟨ise⟩⟩ sujud ing ambanging lawang banjur metu; lan lawange ora bakal katutup nganti sore.",
+  "translation": "Sang nasi lumebu lumantar baturi ⟨ing⟩ gapura saka njaba, lan ngadeg ing cagak gapura; imam-imahe nindakake ⟨את⟩ kurban bakare lan ⟨את⟩ kurban slamete, lan dheweke sumujud ing ambang gapura banjur medal; nanging gapura iku ora bakal ditutup nganti sore.",
   "tokens": [
     {
       "surface": "ובא",
-      "gloss": "lan teka"
+      "gloss": "lumebu"
     },
     {
       "surface": "הנשיא",
-      "gloss": "pangran"
+      "gloss": "sang nasi"
     },
     {
       "surface": "דרך",
-      "gloss": "liwat"
+      "gloss": "lumantar"
     },
     {
       "surface": "אולם",
-      "gloss": "selaning"
+      "gloss": "baturi"
     },
     {
       "surface": "השער",
-      "gloss": "lawang"
+      "gloss": "gapura"
     },
     {
       "surface": "מחוץ",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ועמד",
-      "gloss": "lajeng ngadeg"
+      "gloss": "ngadeg"
     },
     {
       "surface": "על",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "השער",
-      "gloss": "lawang"
+      "gloss": "gapura"
     },
     {
       "surface": "ועשו",
-      "gloss": "lan nggawe"
+      "gloss": "nindakake"
     },
     {
       "surface": "הכהנים",
-      "gloss": "para imam"
+      "gloss": "imam-imahe"
     },
     {
       "surface": "את",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "lan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "kurban slamete"
     },
     {
@@ -75,7 +75,7 @@
     },
     {
       "surface": "והשתחוה",
-      "gloss": "lan sujud"
+      "gloss": "sumujud"
     },
     {
       "surface": "על",
@@ -87,15 +87,15 @@
     },
     {
       "surface": "השער",
-      "gloss": "lawang"
+      "gloss": "gapura"
     },
     {
       "surface": "ויצא",
-      "gloss": "banjur metu"
+      "gloss": "medal"
     },
     {
       "surface": "והשער",
-      "gloss": "lan lawange"
+      "gloss": "nanging gapura iku"
     },
     {
       "surface": "לא",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "יסגר",
-      "gloss": "katutup"
+      "gloss": "bakal ditutup"
     },
     {
       "surface": "עד",
@@ -114,6 +114,6 @@
       "gloss": "sore"
     }
   ],
-  "timestamp": "2026-08-21T01:23:27.072534522Z",
+  "timestamp": "2026-08-24T05:59:33.510001559Z",
   "model": "glm-5.3"
 }

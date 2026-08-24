@@ -5,19 +5,19 @@
   "book": "micah",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Lan bakal dadi: sisane Yaacob ing tengahing umat-umat akeh kaya embun saka ⟨את⟩ Yahweh, kaya udan gemuruh ing dhuwuring suket, sing ora ditunggu-tunggu dening ⟨the⟩ manungsa lan ora disengguyuh dening para anaké manungsa.",
+  "translation": "Lan bakal ana sisa-ning Yaakov ing tengahing para bangsa akeh, kaya embun saka ⟨את⟩ Yahweh, kaya udan jembring ing suket, sing ora nunggu marang manungsa lan ora ngenteni marang para putrane manungsa.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "lan bakal dadi"
+      "gloss": "bakal ana"
     },
     {
       "surface": "שארית",
-      "gloss": "sisane"
+      "gloss": "sisa-ning"
     },
     {
       "surface": "יעקב",
-      "gloss": "Yaacob"
+      "gloss": "Yaakov"
     },
     {
       "surface": "בקרב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עמים",
-      "gloss": "umat-umat"
+      "gloss": "para bangsa"
     },
     {
       "surface": "רבים",
@@ -37,7 +37,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "saka ⟨את⟩"
+      "gloss": "⟨את⟩ saka",
+      "marks": "Yahweh"
     },
     {
       "surface": "יהוה",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "כרביבים",
-      "gloss": "kaya udan gemuruh"
+      "gloss": "kaya udan jembring"
     },
     {
       "surface": "עלי",
@@ -65,11 +66,11 @@
     },
     {
       "surface": "יקוה",
-      "gloss": "ditunggu-tunggu"
+      "gloss": "nunggu"
     },
     {
       "surface": "לאיש",
-      "gloss": "dening manungsa"
+      "gloss": "marang manungsa"
     },
     {
       "surface": "ולא",
@@ -77,17 +78,17 @@
     },
     {
       "surface": "ייחל",
-      "gloss": "disengguyuh"
+      "gloss": "ngenteni"
     },
     {
       "surface": "לבני",
-      "gloss": "dening para anaké"
+      "gloss": "marang para putrane"
     },
     {
       "surface": "אדם",
       "gloss": "manungsa"
     }
   ],
-  "timestamp": "2026-08-21T01:32:23.728773665Z",
+  "timestamp": "2026-08-24T06:00:24.892941823Z",
   "model": "glm-5.3"
 }

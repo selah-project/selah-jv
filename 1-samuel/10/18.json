@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Lan dheweke ngandika marang para putra Israyel: Mangkene pangandikane Yahweh, Elohime Israyel: Aku iki kang ngunggahake ⟨את⟩ Israyel saka Mesir, lan Aku ngluwari kowe ⟨אתכם⟩ saka tange Mesir lan saka tange saben karaton kang nindhes kowe ⟨אתכם⟩.",
+  "translation": "Lan dheweke ngandika marang para putra Israél: Mangkene pangandikane Yahweh, Elohime Israél: Aku sing ngetokake ⟨את⟩ Israél saka Mesir, lan Aku ngluwari kowé ⟨את⟩ ⟨אתכם⟩ saka tange Mesir lan saka tange karaton-karaton sing nindhes kowé.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lan ngandika"
+      "gloss": "lan dheweke ngandika"
     },
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Israél"
     },
     {
       "surface": "כה",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Israél"
     },
     {
       "surface": "אנכי",
-      "gloss": "Aku iki"
+      "gloss": "Aku"
     },
     {
       "surface": "העליתי",
-      "gloss": "kang ngunggahake"
+      "gloss": "sing ngetokake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israyel"
+      "marks": "Israél"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Israél"
     },
     {
       "surface": "ממצרים",
@@ -71,7 +71,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "kowe"
+      "marks": "kowé"
     },
     {
       "surface": "מיד",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "saben"
+      "gloss": "kabeh"
     },
     {
       "surface": "הממלכות",
@@ -95,14 +95,13 @@
     },
     {
       "surface": "הלחצים",
-      "gloss": "kang nindhes"
+      "gloss": "sing nindhes"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "kowe"
+      "gloss": "⟨את⟩ kowé"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.713534291Z",
+  "timestamp": "2026-08-24T12:34:18.473606777Z",
   "model": "glm-5.3"
 }

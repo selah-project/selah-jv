@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 8,
-  "translation": "supaya kabeh umat ing ⟨the⟩ bumi padha weruh manawa Yahweh, Panjenengané dhéwé, ⟨iku⟩ ⟨the⟩ Elohim — ora ana liyané.",
+  "translation": "Supaya kabeh bangsa-bangsa ⟨saka⟩ bumi nguninga manawa Yahweh, Panjenengané ⟨iku⟩ ⟨the⟩ Elohim — ora ana liyané.",
   "tokens": [
     {
       "surface": "למען",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "דעת",
-      "gloss": "padha weruh"
+      "gloss": "nguninga"
     },
     {
       "surface": "כל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עמי",
-      "gloss": "umat-umat"
+      "gloss": "bangsa-bangsa"
     },
     {
       "surface": "הארץ",
-      "gloss": "ing bumi"
+      "gloss": "⟨saka⟩ bumi"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "Panjenengané dhéwé"
+      "gloss": "⟨iku⟩"
     },
     {
       "surface": "האלהים",
@@ -52,6 +52,6 @@
       "gloss": "liyané"
     }
   ],
-  "timestamp": "2026-08-21T00:17:45.907151054Z",
+  "timestamp": "2026-08-24T05:51:33.131387530Z",
   "model": "glm-5.3"
 }

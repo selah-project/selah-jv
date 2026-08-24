@@ -5,15 +5,15 @@
   "book": "ezra",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Nanging ⟨⟨the⟩⟩ bangsa iku akeh, lan saiki mangsa rendhem, lan ora ana bathik kanggo ngadeg ing njaba; lan pakaryan iki dudu pakaryan sadina utawa rong dina, awit kita wis akeh dosa ing perkara iki.",
+  "translation": "Nanging ⟨the⟩ wong iku akeh, lan ⟨iki⟩ mangsa udan, lan ora ana kuwoso kanggo ngadeg ing njaba, lan pakaryan iku dudu kanggo siji dina lan uga dudu kanggo loro, awit kita wis akeh-akeh langgar ing prakara iki.",
   "tokens": [
     {
       "surface": "אבל",
-      "gloss": "Nanging"
+      "gloss": "nanging"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "wong iku"
     },
     {
       "surface": "רב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "והעת",
-      "gloss": "lan saiki"
+      "gloss": "lan mangsa"
     },
     {
       "surface": "גשמים",
-      "gloss": "mangsa rendhem"
+      "gloss": "udan"
     },
     {
       "surface": "ואין",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כח",
-      "gloss": "bathik"
+      "gloss": "kuwoso"
     },
     {
       "surface": "לעמוד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והמלאכה",
-      "gloss": "lan pakaryan"
+      "gloss": "lan pakaryan iku"
     },
     {
       "surface": "לא",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ליום",
-      "gloss": "sadina"
+      "gloss": "kanggo dina"
     },
     {
       "surface": "אחד",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "utawa"
+      "gloss": "lan uga dudu"
     },
     {
       "surface": "לשנים",
-      "gloss": "rong"
+      "gloss": "kanggo loro"
     },
     {
       "surface": "כי",
@@ -73,21 +73,21 @@
     },
     {
       "surface": "הרבינו",
-      "gloss": "wis akeh"
+      "gloss": "kita wis akeh-akeh"
     },
     {
       "surface": "לפשע",
-      "gloss": "dosa"
+      "gloss": "langgar"
     },
     {
       "surface": "בדבר",
-      "gloss": "ing perkara"
+      "gloss": "ing prakara"
     },
     {
       "surface": "הזה",
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-21T03:07:21.963696971Z",
+  "timestamp": "2026-08-24T06:08:01.544739179Z",
   "model": "glm-5.3"
 }

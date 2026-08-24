@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 28,
-  "translation": "Yahweh bakal maringi ⟨את⟩ udan buminimu dadi bubuk lan lebu; saka ⟨the⟩ langit bakal tumurun marang kowé nganti kowé kasirnakake.",
+  "translation": "Yahweh bakal maringake ⟨את⟩ udan bumi-mu dadi lebu alus lan bledug; saka langit iku bakal tumiba marang sira, nganti sira kasirnakake.",
   "tokens": [
     {
       "surface": "יתן",
-      "gloss": "maringi"
+      "gloss": "bakal maringake"
     },
     {
       "surface": "יהוה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "udan buminimu"
+      "marks": "udan bumi-mu"
     },
     {
       "surface": "מטר",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "ארצך",
-      "gloss": "buminimu"
+      "gloss": "bumi-mu"
     },
     {
       "surface": "אבק",
-      "gloss": "bubuk"
+      "gloss": "lebu alus"
     },
     {
       "surface": "ועפר",
-      "gloss": "lan lebu"
+      "gloss": "lan bledug"
     },
     {
       "surface": "מן",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ירד",
-      "gloss": "tumurun"
+      "gloss": "bakal tumiba"
     },
     {
       "surface": "עליך",
-      "gloss": "marang kowé"
+      "gloss": "marang sira"
     },
     {
       "surface": "עד",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "השמדך",
-      "gloss": "kowé kasirnakake"
+      "gloss": "sira kasirnakake"
     }
   ],
-  "timestamp": "2026-08-20T23:39:08.412829207Z",
+  "timestamp": "2026-08-24T05:44:03.491805933Z",
   "model": "glm-5.3"
 }

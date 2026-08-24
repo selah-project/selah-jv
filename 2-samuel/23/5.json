@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 23,
-  "translation": "Sebab dudu mangkono tuwuhe omahku ing ngarsane El; sebab perjanjian langgeng wis ditetepake marang aku, tinata ing samubarang lan kalinduhi; sebab iku kabeh pamartawaku lan kabeh karepku — sebab ⟨⟨ora⟩ bakal ditumangkake.",
+  "translation": "Sebab dudu mangkono omahku karo ⟨El⟩; sebab prajanjian langgeng wis disimpenake nggo aku, katata ing ⟨kabeh⟩ lan kajaga; sebab ⟨iki⟩ kabeh wilujengku lan kabeh karepku — sebab ⟨Panjenengane⟩ ora bakal ngedalake tunase.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "Sebab"
     },
     {
       "surface": "לא",
-      "gloss": "dudu"
+      "gloss": "ora"
     },
     {
       "surface": "כן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "ing ngarsane"
+      "gloss": "karo"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ברית",
-      "gloss": "perjanjian"
+      "gloss": "prajanjian"
     },
     {
       "surface": "עולם",
@@ -45,23 +45,23 @@
     },
     {
       "surface": "שם",
-      "gloss": "ditetepake"
+      "gloss": "disimpenake"
     },
     {
       "surface": "לי",
-      "gloss": "marang aku"
+      "gloss": "nggo aku"
     },
     {
       "surface": "ערוכה",
-      "gloss": "tinata"
+      "gloss": "katata"
     },
     {
       "surface": "בכל",
-      "gloss": "ing samubarang"
+      "gloss": "ing kabeh"
     },
     {
       "surface": "ושמרה",
-      "gloss": "lan kalinduhi"
+      "gloss": "lan kajaga"
     },
     {
       "surface": "כי",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ישעי",
-      "gloss": "pamartawaku"
+      "gloss": "wilujengku"
     },
     {
       "surface": "וכל",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "karepku"
+      "gloss": "karep"
     },
     {
       "surface": "כי",
@@ -93,9 +93,9 @@
     },
     {
       "surface": "יצמיח",
-      "gloss": "bakal ditumangkake"
+      "gloss": "nedalake tunase"
     }
   ],
-  "timestamp": "2026-08-21T00:13:25.728466394Z",
+  "timestamp": "2026-08-24T06:12:45.027626058Z",
   "model": "glm-5.3"
 }

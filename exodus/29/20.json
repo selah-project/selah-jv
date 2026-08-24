@@ -5,36 +5,36 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 29,
-  "translation": "Lan kowe nyembelih ⟨את⟩ wedhus jantan iku, lan kowe njupuk saka getihe, lan kowe napakake marang pucuk kupinge Aharon, lan marang pucuk kuping tengen anak-anake, lan marang jempol tangan tengene, lan marang jempol sikil tengene, lan kowe ngethokake ⟨את⟩ getih iku marang ⟨the⟩ altar ing sapupure.",
+  "translation": "Lan kowe nyembélih ⟨את⟩ domba jantan iku, lan njupuk saka getihé, lan kènèhaké ing pucuk kupingé Aharon, lan ing pucuk kuping tengen anak-anaké, lan ing jempol tangan tengené, lan ing dlujur sikil tengené, lan kowe ngecor ⟨את⟩ getih iku ing mézbah, sakubengé.",
   "tokens": [
     {
       "surface": "ושחטת",
-      "gloss": "lan kowe nyembelih"
+      "gloss": "lan kowe nyembélih"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wedhus jantan"
+      "marks": "domba jantan iku"
     },
     {
       "surface": "האיל",
-      "gloss": "wedhus jantan iku"
+      "gloss": "domba jantan iku"
     },
     {
       "surface": "ולקחת",
-      "gloss": "lan kowe njupuk"
+      "gloss": "lan njupuk"
     },
     {
       "surface": "מדמו",
-      "gloss": "saka getihe"
+      "gloss": "saka getihé"
     },
     {
       "surface": "ונתתה",
-      "gloss": "lan kowe napakake"
+      "gloss": "lan kènèhaké"
     },
     {
       "surface": "על",
-      "gloss": "marang"
+      "gloss": "ing"
     },
     {
       "surface": "תנוך",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "lan marang"
+      "gloss": "lan ing"
     },
     {
       "surface": "תנוך",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "בניו",
-      "gloss": "anak-anake"
+      "gloss": "anak-anaké"
     },
     {
       "surface": "הימנית",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "lan marang"
+      "gloss": "lan ing"
     },
     {
       "surface": "בהן",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "הימנית",
-      "gloss": "tengene"
+      "gloss": "tengen"
     },
     {
       "surface": "ועל",
-      "gloss": "lan marang"
+      "gloss": "lan ing"
     },
     {
       "surface": "בהן",
-      "gloss": "jempol"
+      "gloss": "dlujur"
     },
     {
       "surface": "רגלם",
@@ -98,16 +98,16 @@
     },
     {
       "surface": "הימנית",
-      "gloss": "tengene"
+      "gloss": "tengen"
     },
     {
       "surface": "וזרקת",
-      "gloss": "lan kowe ngethokake"
+      "gloss": "lan kowe ngecor"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "getih"
+      "marks": "getih iku"
     },
     {
       "surface": "הדם",
@@ -115,17 +115,17 @@
     },
     {
       "surface": "על",
-      "gloss": "marang"
+      "gloss": "ing"
     },
     {
       "surface": "המזבח",
-      "gloss": "altar"
+      "gloss": "mézbah"
     },
     {
       "surface": "סביב",
-      "gloss": "ing sapupure"
+      "gloss": "sakubengé"
     }
   ],
-  "timestamp": "2026-08-20T23:05:46.058512107Z",
+  "timestamp": "2026-08-24T05:37:03.237875799Z",
   "model": "glm-5.3"
 }

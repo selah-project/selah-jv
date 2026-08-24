@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 20,
-  "translation": "Ajuk ⟨את⟩ Aharon lan ⟨את⟩ Elazar anaké, lan dakdhut ⟨את⟩ dhèwèké munggah gunung Hor, ⟨ing⟩ gunung iku.",
+  "translation": "Sira jupuq ⟨את⟩ Aharon lan ⟨את⟩ Elazar anake, sarta gawanen mriqGunung Hor.",
   "tokens": [
     {
       "surface": "קח",
-      "gloss": "Ajuk"
+      "gloss": "sira jupuq"
     },
     {
       "surface": "את",
@@ -31,16 +31,16 @@
     },
     {
       "surface": "בנו",
-      "gloss": "anaké"
+      "gloss": "anake"
     },
     {
       "surface": "והעל",
-      "gloss": "lan dakdhut munggah"
+      "gloss": "sarta gawanen mriq"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "gunung Hor"
+      "marks": "Gunung Hor"
     },
     {
       "surface": "הר",
@@ -48,9 +48,9 @@
     },
     {
       "surface": "ההר",
-      "gloss": "gunung iku"
+      "gloss": "Gunung"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.902169283Z",
+  "timestamp": "2026-08-24T12:34:18.479521084Z",
   "model": "glm-5.3"
 }

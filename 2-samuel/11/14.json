@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 11,
-  "translation": "Banjur bareng esuk, Dawid nulis serat marang Yoab, lan ngirimaké ⟨ה⟩ lumantar tangané Uria.",
+  "translation": "Banjur esuké David nulis serat marang Yoab, lan dikongkonaké lumantar tangané Uria.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "banjur kadadéan"
+      "gloss": "banjur"
     },
     {
       "surface": "בבקר",
-      "gloss": "bareng esuk"
+      "gloss": "esuké"
     },
     {
       "surface": "ויכתב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dawid"
+      "gloss": "David"
     },
     {
       "surface": "ספר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "ngirimaké"
+      "gloss": "dikongkonaké"
     },
     {
       "surface": "ביד",
@@ -48,6 +48,6 @@
       "gloss": "Uria"
     }
   ],
-  "timestamp": "2026-08-21T00:08:20.440453405Z",
+  "timestamp": "2026-08-24T05:49:10.101779344Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "jv",
   "chapter": 23,
-  "translation": "Aja dengki atimu ⟨ing⟩ panggonane wong dosa, nanging ⟨ing⟩ wedi marang Yahweh saben dina.",
+  "translation": "Aja kowé ngiri marang wong dosa; nanging sedya ana ing sajroning wedi marang Yahweh sadawaning dina.",
   "tokens": [
     {
       "surface": "אל",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "יקנא",
-      "gloss": "dengki"
+      "gloss": "ngiri"
     },
     {
       "surface": "לבך",
-      "gloss": "atimu"
+      "gloss": "atiné"
     },
     {
       "surface": "בחטאים",
-      "gloss": "⟨ing⟩ panggonane wong dosa"
+      "gloss": "marang wong dosa"
     },
     {
       "surface": "כי",
-      "gloss": "nanging (kayasa karo אם)"
+      "gloss": "nanging"
     },
     {
       "surface": "אם",
-      "gloss": "⟨אם kang melu כי⟩"
+      "gloss": "yèn"
     },
     {
       "surface": "ביראת",
-      "gloss": "⟨ing⟩ wedi"
+      "gloss": "ing wedi marang"
     },
     {
       "surface": "יהוה",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "sadawaning"
     },
     {
       "surface": "היום",
       "gloss": "dina"
     }
   ],
-  "timestamp": "2026-08-21T02:17:53.886454077Z",
+  "timestamp": "2026-08-24T06:05:50.510115981Z",
   "model": "glm-5.3"
 }

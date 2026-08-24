@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 46,
-  "translation": "Banjur Pangerane ngandika marang aku: Iki minangka omah-omah panggodhogan, panggonan para para ngabdiné ⟨the⟩ Omah bakal nggodhog ⟨את⟩ kurbané bangsa kasebut.",
+  "translation": "Lan ⟨dhewe⟩ matur marang aku: Iki dadi omah masak para juru masak, ing ngendi para pelayan ⟨saka⟩ omah bakal nggodhog ⟨את⟩ kurbané wong akèh iku.",
   "tokens": [
     {
-      "surface": "ויאמר",
-      "gloss": "banjur ngandika"
+      "surface": "ויאומר",
+      "gloss": "lan matur"
     },
     {
       "surface": "אלי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "omah-omah"
+      "gloss": "omah"
     },
     {
       "surface": "המבשלים",
-      "gloss": "panggodhogan"
+      "gloss": "juru masak"
     },
     {
       "surface": "אשר",
-      "gloss": "panggonan"
+      "gloss": "ing ngendi"
     },
     {
       "surface": "יבשלו",
@@ -41,26 +41,26 @@
     },
     {
       "surface": "משרתי",
-      "gloss": "para ngabdiné"
+      "gloss": "para pelayan"
     },
     {
       "surface": "הבית",
-      "gloss": "Omah kasebut"
+      "gloss": "omah iku"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kurbané bangsa kasebut"
+      "marks": "kurbané wong akèh iku"
     },
     {
       "surface": "זבח",
-      "gloss": "kurbané"
+      "gloss": "kurban"
     },
     {
       "surface": "העם",
-      "gloss": "bangsa kasebut"
+      "gloss": "wong akèh iku"
     }
   ],
-  "timestamp": "2026-08-21T01:23:32.661682426Z",
+  "timestamp": "2026-08-24T05:59:30.091448786Z",
   "model": "glm-5.3"
 }

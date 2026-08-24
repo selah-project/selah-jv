@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 15,
-  "translation": "Apa ora karo kowe ana ing kono Tsadok lan Evyatar, para imam? Lan bakal kedadeyan: saben pawarta sing kokrungu saka omahé ⟨the⟩ raja, kokandharake marang Tsadok lan Evyatar, para imam.",
+  "translation": "Lapa ⟨apa⟩ ora ana karo kowe ana kana Tsadok lan Evyatar para imam? Kadadéan banjur: sabendherane ⟨the⟩ perkara sing kowe rungu saka ⟨the⟩ omahé ore, kokandhana marang Tsadok lan marang Evyatar para imam.",
   "tokens": [
     {
       "surface": "והלוא",
-      "gloss": "apa ora"
+      "gloss": "lapa apa ora"
     },
     {
       "surface": "עמך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "ana ing kono"
+      "gloss": "ana kana"
     },
     {
       "surface": "צדוק",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "והיה",
-      "gloss": "lan bakal kedadeyan"
+      "gloss": "kadadéan banjur"
     },
     {
       "surface": "כל",
-      "gloss": "saben"
+      "gloss": "sabendherane"
     },
     {
       "surface": "הדבר",
-      "gloss": "pawarta"
+      "gloss": "perkara"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "kokrungu"
+      "gloss": "kowe rungu"
     },
     {
       "surface": "מבית",
@@ -57,18 +57,18 @@
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "ore"
     },
     {
       "surface": "תגיד",
-      "gloss": "kokandharake"
+      "gloss": "kokandhana"
     },
     {
       "surface": "לצדוק",
       "gloss": "marang Tsadok"
     },
     {
-      "surface": "ולאביתר",
+      "surface": "ו לאביתר",
       "gloss": "lan marang Evyatar"
     },
     {
@@ -76,6 +76,6 @@
       "gloss": "para imam"
     }
   ],
-  "timestamp": "2026-08-21T00:09:58.471291810Z",
+  "timestamp": "2026-08-24T05:50:02.985719887Z",
   "model": "glm-5.3"
 }

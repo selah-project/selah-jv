@@ -5,7 +5,7 @@
   "book": "lamentations",
   "lang": "jv",
   "chapter": 2,
-  "translation": "Kepriye Adonai nggumunake awang-awang ing nesune marang ⟨את⟩ putrine Tsiyon! Panjenengane ngejakake saka langit menyang bumi ⟨the⟩ kamulyane Israel, lan ora eling throne-sikile ing dina nesune.",
+  "translation": "Kepriye Adonai nglumuti ⟨את⟩ putri Tzion ing sajroning nesune! Panjenengane ngeculake saka langit marang bumi kamulyane Israel, lan ora eling marang dhampar suwene ing dina nesune.",
   "tokens": [
     {
       "surface": "איכה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "יעיב",
-      "gloss": "nggumunake awang-awang"
+      "gloss": "nglumuti"
     },
     {
       "surface": "באפו",
-      "gloss": "ing nesune"
+      "gloss": "ing sajroning nesune"
     },
     {
       "surface": "אדני",
@@ -26,19 +26,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "putrine Tsiyon"
+      "marks": "putri Tzion"
     },
     {
       "surface": "בת",
-      "gloss": "putrine"
+      "gloss": "putri"
     },
     {
       "surface": "ציון",
-      "gloss": "Tsiyon"
+      "gloss": "Tzion"
     },
     {
       "surface": "השליך",
-      "gloss": "ngejakake"
+      "gloss": "ngeculake"
     },
     {
       "surface": "משמים",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "menyang bumi"
+      "gloss": "bumi"
     },
     {
       "surface": "תפארת",
-      "gloss": "kamulyane"
+      "gloss": "kamulyan"
     },
     {
       "surface": "ישראל",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "הדם",
-      "gloss": "throne-sikil"
+      "gloss": "dhampar suwene"
     },
     {
       "surface": "רגליו",
-      "gloss": "sikile"
+      "gloss": "—"
     },
     {
       "surface": "ביום",
@@ -81,6 +81,6 @@
       "gloss": "nesune"
     }
   ],
-  "timestamp": "2026-08-21T02:45:16.694076068Z",
+  "timestamp": "2026-08-24T06:06:45.628663577Z",
   "model": "glm-5.3"
 }

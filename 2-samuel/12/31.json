@@ -5,16 +5,16 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 12,
-  "translation": "Lan ⟨את⟩ wong sing ing ⟨the⟩ diwetukake, lan didadekake nganggo gergaji, lan nganggo wesi panggaru, lan nganggo kapak wesi, lan digawa liwat ⟨את⟩ ing tungku bata; lan mangkono ditindakake marang kabeh kutha-kutha putrane Amon; lan David bali lan kabeh wong menyang Yerushalayim.",
+  "translation": "Lan ⟨את⟩ wong-wong sing ana ing kono ditokake, lan didadekake ing gergaji lan ing pacul wesi lan ing kapak wesi, lan ditundhung ngliwati tungku bata; lan mangkono uga ditindakake marang saben kuthane bani Ammon. Banjur Dawid lan sapupure wong balik menyang Yerushalayim.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "lan ⟨את⟩",
-      "marks": "wong"
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong"
     },
     {
       "surface": "העם",
-      "gloss": "wong"
+      "gloss": "wong-wong"
     },
     {
       "surface": "אשר",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "בה",
-      "gloss": "ing ⟨the⟩"
+      "gloss": "ing kono"
     },
     {
       "surface": "הוציא",
-      "gloss": "diwetukake"
+      "gloss": "ditokake"
     },
     {
       "surface": "וישם",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "במגרה",
-      "gloss": "nganggo gergaji"
+      "gloss": "ing gergaji"
     },
     {
       "surface": "ובחרצי",
-      "gloss": "lan nganggo panggaru"
+      "gloss": "lan ing pacul"
     },
     {
       "surface": "הברזל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ובמגזרת",
-      "gloss": "lan nganggo kapak"
+      "gloss": "lan ing kapak"
     },
     {
       "surface": "הברזל",
@@ -54,20 +54,20 @@
     },
     {
       "surface": "והעביר",
-      "gloss": "lan digawa liwat"
+      "gloss": "lan ditundhung ngliwati"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ing tungku bata"
+      "marks": "tungku bata"
     },
     {
       "surface": "במלכן",
-      "gloss": "ing tungku bata"
+      "gloss": "tungku bata"
     },
     {
       "surface": "וכן",
-      "gloss": "lan mangkono"
+      "gloss": "lan mangkono uga"
     },
     {
       "surface": "יעשה",
@@ -75,41 +75,41 @@
     },
     {
       "surface": "לכל",
-      "gloss": "marang kabeh"
+      "gloss": "marang saben"
     },
     {
       "surface": "ערי",
-      "gloss": "kutha-kutha"
+      "gloss": "kutha"
     },
     {
       "surface": "בני",
-      "gloss": "putrane"
+      "gloss": "bani"
     },
     {
       "surface": "עמון",
-      "gloss": "Amon"
+      "gloss": "Ammon"
     },
     {
       "surface": "וישב",
-      "gloss": "lan bali"
+      "gloss": "lan balik"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "וכל",
-      "gloss": "lan kabeh"
+      "gloss": "lan sapupu"
     },
     {
       "surface": "העם",
-      "gloss": "wong"
+      "gloss": "wong-wong"
     },
     {
       "surface": "ירושלם",
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-21T00:08:52.682491795Z",
+  "timestamp": "2026-08-24T05:49:23.653025628Z",
   "model": "glm-5.3"
 }

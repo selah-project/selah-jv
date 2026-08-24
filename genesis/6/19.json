@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan saka sabarang sing urip, saka daging kabeh, rong-rong saka sabarang kowe tedakake menyang ⟨the⟩ bahtera, supaya urip bebarengan ⟨את⟩ kowe; lanang lan wadon ⟨bakal dadi⟩.",
+  "translation": "Lan saka saburining urip, saka sabarang daging, loro saka sabarang, kowe bakal nggawa mlebu menyang bahtera kanggo nglumpukake urip bebarengan karo ⟨את⟩ kowe; lanang lan wadon ⟨are⟩ bakal ana.",
   "tokens": [
     {
       "surface": "ומכל",
-      "gloss": "lan saka sabarang"
+      "gloss": "lan saka saburining"
     },
     {
       "surface": "החי",
-      "gloss": "sing urip"
+      "gloss": "urip"
     },
     {
       "surface": "מכל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שנים",
-      "gloss": "rong-rong"
+      "gloss": "loro"
     },
     {
       "surface": "מכל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תביא",
-      "gloss": "kowe tedakake"
+      "gloss": "kowe bakal nggawa mlebu"
     },
     {
       "surface": "אל",
@@ -45,26 +45,26 @@
     },
     {
       "surface": "להחית",
-      "gloss": "supaya nguripi"
+      "gloss": "kanggo nglumpukake urip"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ kowe",
-      "marks": "kowe (bareng kowe)"
+      "marks": "kowe"
     },
     {
       "surface": "זכר",
       "gloss": "lanang"
     },
     {
-      "surface": "ו�קבה",
+      "surface": "ונקבה",
       "gloss": "lan wadon"
     },
     {
       "surface": "יהיו",
-      "gloss": "bakal dadi"
+      "gloss": "bakal ana"
     }
   ],
-  "timestamp": "2026-08-21T03:49:12.747043151Z",
+  "timestamp": "2026-08-24T05:32:50.639628797Z",
   "model": "glm-5.3"
 }

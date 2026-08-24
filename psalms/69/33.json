@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 69,
-  "translation": "Wong-wong ענו זען וזу叮...",
-  "tokens": [],
-  "timestamp": "2026-08-21T01:53:05.349547020Z",
+  "translation": "Para wong andhap ati padha ndeleng ⟨iku⟩ lan padha bungah; sira sing nggoleki Elohim, dipunuripaken manahira.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "padha ndeleng"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "para wong andhap ati"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "padha bungah"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "sing nggoleki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "lan dipunuripaken"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "manahira"
+    }
+  ],
+  "timestamp": "2026-08-24T06:02:56.672133462Z",
   "model": "glm-5.3"
 }

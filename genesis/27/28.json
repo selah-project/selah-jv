@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Mugi ⟨ה⟩ Elohim maringi kowé embun saka ⟨saka⟩ langit lan kageman saka ⟨saka⟩ bumi, sarta kaluwihan jagung lan anggur anyar.",
+  "translation": "Lan muga Elohim marengake sira embun ⟨saka⟩ langit, lan kaluwihan ⟨saka⟩ lemah, lan kakéhan gagangan lan anggur anyar.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "mugi maringi"
+      "gloss": "lan muga ... marengake"
     },
     {
       "surface": "לך",
-      "gloss": "kowé"
+      "gloss": "sira"
     },
     {
       "surface": "האלהים",
@@ -29,25 +29,25 @@
     },
     {
       "surface": "ומשמני",
-      "gloss": "lan kageman"
-    },
-    {
-      "surface": "הארץ",
-      "gloss": "bumi"
-    },
-    {
-      "surface": "ורב",
       "gloss": "lan kaluwihan"
     },
     {
+      "surface": "הארץ",
+      "gloss": "lemah"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "lan kakéhan"
+    },
+    {
       "surface": "דגן",
-      "gloss": "jagung (gandum)"
+      "gloss": "gagangan"
     },
     {
       "surface": "ותירש",
       "gloss": "lan anggur anyar"
     }
   ],
-  "timestamp": "2026-08-20T22:47:53.448893164Z",
+  "timestamp": "2026-08-24T06:11:35.564187806Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 13,
-  "translation": "Lan panjenengane ngundhang marang iku wonging Elohim sing teka saka Yehudha, ngendika: Mangkene pangandikane Yahweh: Amarga sira nglirwakake cangkeme Yahweh lan ora sira angetuni ⟨את⟩ parentah sing wis diprentahake Yahweh, Elohime sira",
+  "translation": "Lan panjenengane nguwuh marang wonging Elohim sing saka Yehudha, ngucap mangkene: Mangkono pangandikane Yahweh: Amarga sira nglirwakake tutuking Yahweh, lan ora ngestokake ⟨את⟩ parentah sing diprentahake marang sira dening Yahweh Elohimira,",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "lan panjenengane ngundhungake"
+      "gloss": "lan panjenengane nguwuh"
     },
     {
       "surface": "אל",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "wong"
+      "gloss": "wonging"
     },
     {
       "surface": "האלהים",
-      "gloss": "ing-Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אשר",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ngendika"
+      "gloss": "ngucap"
     },
     {
       "surface": "כה",
-      "gloss": "mangkene"
+      "gloss": "mangkono"
     },
     {
       "surface": "אמר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "jalaran"
+      "gloss": ""
     },
     {
       "surface": "מרית",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "פי",
-      "gloss": "cangkem"
+      "gloss": "tutuking"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     },
     {
-      "surface": "ו",
-      "gloss": "lan"
+      "surface": "ולא",
+      "gloss": "lan ora"
     },
     {
       "surface": "שמרת",
-      "gloss": "sira angetuni"
+      "gloss": "ngestokake"
     },
     {
       "surface": "את",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "המצוה",
-      "gloss": "⟨the⟩ parentah"
+      "gloss": "parentah"
     },
     {
       "surface": "אשר",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "צוך",
-      "gloss": "wis diprentahake ing sira"
+      "gloss": "diprentahake marang sira"
     },
     {
       "surface": "יהוה",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohime sira"
+      "gloss": "Elohimira"
     }
   ],
-  "timestamp": "2026-08-21T00:19:30.015116664Z",
+  "timestamp": "2026-08-24T05:51:37.845245019Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan padha ndadekake ⟨את⟩ petire Yahweh ing ⟨the⟩ gerobak, lan ⟨את⟩ kothake lan ⟨את⟩ mencit-mencit emas lan ⟨את⟩ sesaning wujud bengkok-bengkoke dhewe.",
+  "translation": "Lan wong-wong mau nggawe ⟨את⟩ petine Yahweh ana ing sadhuwure kereta, lan ⟨את⟩ kothake, lan ⟨את⟩ pirang-titunggere emas, lan ⟨את⟩ sesaning ukara welenge",
   "tokens": [
     {
       "surface": "וישמו",
-      "gloss": "lan padha ndadekake"
+      "gloss": "lan wong-wong mau nggawe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "petire Yahweh"
+      "marks": "petine Yahweh"
     },
     {
       "surface": "ארון",
-      "gloss": "peti"
+      "gloss": "petine"
     },
     {
       "surface": "יהוה",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ing"
+      "gloss": "ana ing"
     },
     {
       "surface": "העגלה",
-      "gloss": "gerobak"
+      "gloss": "sadhuwure kereta"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "lan ⟨את⟩",
       "marks": "kothake"
     },
     {
@@ -43,12 +43,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "mencit-mencit emas"
+      "gloss": "lan ⟨את⟩",
+      "marks": "pirang-titunggere emas"
     },
     {
       "surface": "עכברי",
-      "gloss": "mencit-mencit"
+      "gloss": "pirang-titunggere"
     },
     {
       "surface": "הזהב",
@@ -56,18 +56,18 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "sesaning bengkok-bengkoke"
+      "gloss": "lan ⟨את⟩",
+      "marks": "sesaning ukara welenge"
     },
     {
       "surface": "צלמי",
-      "gloss": "sesaning wujud"
+      "gloss": "sesaning"
     },
     {
       "surface": "טחריהם",
-      "gloss": "bengkok-bengkoke dhewe"
+      "gloss": "ukara welenge"
     }
   ],
-  "timestamp": "2026-08-20T23:58:02.109119494Z",
+  "timestamp": "2026-08-24T05:48:16.133752596Z",
   "model": "glm-5.3"
 }

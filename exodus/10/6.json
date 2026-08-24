@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Lan bakal kebak omah-omahmu, omahé kabeh abdi-abdimu, lan omahé kabeh wong Mitsrayim, sing ora tau dideleng déning para leluhurmu uga para leluhuring leluhurmu, wiwit saka dina nalika ⟨הם⟩ ana ing bumi nganti dina iki. Banjur ⟨ija⟩ mbalik lan metu saka ngarsane Paroh.",
+  "translation": "Lan ⟨bakal⟩ ngisi umah-umahmu, lan umahe kabeh abdi-abdimu, lan umahe kabeh wong Mitsrayim, kang ora pernah dideleng dening bapak-bapakmu lan bapak-bapake bapak-bapakmu, awit saka dina anane dheweke ing sadhuwure bumi nganti dina iki. Banjur dheweke munggah rai lan metu saka ngarsane Paroh.",
   "tokens": [
     {
       "surface": "ומלאו",
-      "gloss": "lan bakal kebak"
+      "gloss": "lan ⟨bakal⟩ ngisi"
     },
     {
       "surface": "בתיך",
-      "gloss": "omah-omahmu"
+      "gloss": "umah-umahmu"
     },
     {
       "surface": "ובתי",
-      "gloss": "lan omahé"
+      "gloss": "lan umahe"
     },
     {
       "surface": "כל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובתי",
-      "gloss": "lan omahé"
+      "gloss": "lan umahe"
     },
     {
       "surface": "כל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "לא",
@@ -49,31 +49,31 @@
     },
     {
       "surface": "ראו",
-      "gloss": "tau dideleng"
+      "gloss": "pernah dideleng"
     },
     {
       "surface": "אבתיך",
-      "gloss": "para leluhurmu"
+      "gloss": "bapak-bapakmu"
     },
     {
       "surface": "ואבות",
-      "gloss": "uga para leluhur"
+      "gloss": "lan bapak-bapake"
     },
     {
       "surface": "אבתיך",
-      "gloss": "saka leluhurmu"
+      "gloss": "bapak-bapakmu"
     },
     {
       "surface": "מיום",
-      "gloss": "wiwit saka dina"
+      "gloss": "awit saka dina"
     },
     {
       "surface": "היותם",
-      "gloss": "nalika ⟨ija⟩ ana"
+      "gloss": "anane dheweke"
     },
     {
       "surface": "על",
-      "gloss": "ing"
+      "gloss": "ing sadhuwure"
     },
     {
       "surface": "האדמה",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "ויפן",
-      "gloss": "banjur mbalik"
+      "gloss": "banjur munggah rai"
     },
     {
       "surface": "ויצא",
@@ -108,6 +108,6 @@
       "gloss": "Paroh"
     }
   ],
-  "timestamp": "2026-08-20T22:59:09.403220472Z",
+  "timestamp": "2026-08-24T05:35:04.401598810Z",
   "model": "glm-5.3"
 }

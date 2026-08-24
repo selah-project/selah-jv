@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 14,
-  "translation": "Lan abdi wadonmu nduwé anak lanang loro, lan loro-loroné padu ing sawah, lan ora ana sing bisa ngluwari antarané dhéwé-dhéwé; lan sijiné nggebug ⟨את⟩ sijiné manèh, lan mateni ⟨את⟩ ⟨אתו⟩.",
+  "translation": "Lan abdi wadonmu nduweni anak lanang loro, lan loro-lorone padha padu ing sawah, lan ora ana sing bisa misahake saka tengah-tengahe, lan sijine nggebug ⟨את⟩ sijine maneh, lan mateni ⟨את⟩ dheweke.",
   "tokens": [
     {
       "surface": "ולשפחתך",
-      "gloss": "lan marang abdi wadonmu"
+      "gloss": "lan abdi wadonmu"
     },
     {
       "surface": "שני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "וינצו",
-      "gloss": "lan padu"
+      "gloss": "lan padha padu"
     },
     {
       "surface": "שניהם",
-      "gloss": "loro-loroné"
+      "gloss": "loro-lorone"
     },
     {
       "surface": "בשדה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מציל",
-      "gloss": "sing ngluwari"
+      "gloss": "sing bisa misahake"
     },
     {
       "surface": "ביניהם",
-      "gloss": "antarané dhéwé-dhéwé"
+      "gloss": "saka tengah-tengahe"
     },
     {
       "surface": "ויכו",
@@ -49,16 +49,16 @@
     },
     {
       "surface": "האחד",
-      "gloss": "sijiné (sing siji)"
+      "gloss": "sijine"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sijiné (sing siji)"
+      "marks": "sijine maneh"
     },
     {
       "surface": "האחד",
-      "gloss": "sijiné (sing liyané)"
+      "gloss": "sijine maneh"
     },
     {
       "surface": "וימת",
@@ -66,10 +66,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "dhèkné (sing kakung)"
+      "gloss": "⟨את⟩ dheweke",
+      "marks": "dheweke"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.487300624Z",
+  "timestamp": "2026-08-24T05:49:25.943774256Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Ahab ngundang Ovadyahu, sing mengku ⟨the⟩ pakarangan pura; lan Ovadyahu iku wong sing bekti banget marang ⟨את⟩ Yahweh.",
+  "translation": "Lan Ahab ngundhang Obadjahu, sing manggon ⟨ana ing⟩ dhuwure ⟨omah⟩ istana; lan Obadjahu ⟨iku⟩ ⟨את⟩ wedi ⟨marang⟩ ⟨את⟩ Yahweh kaluwih-luwih.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "ngundang"
+      "gloss": "ngundhang"
     },
     {
       "surface": "אחאב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עבדיהו",
-      "gloss": "Ovadyahu"
+      "gloss": "Obadjahu"
     },
     {
       "surface": "אשר",
@@ -29,15 +29,19 @@
     },
     {
       "surface": "על",
-      "gloss": "mengku"
+      "gloss": "dhuwure"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ pakarangan pura"
+      "gloss": "omah istana"
     },
     {
-      "surface": "ועבדיהו",
-      "gloss": "lan Ovadyahu"
+      "surface": "ו",
+      "gloss": "lan"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadjahu"
     },
     {
       "surface": "היה",
@@ -45,7 +49,7 @@
     },
     {
       "surface": "ירא",
-      "gloss": "bekti"
+      "gloss": "⟨את⟩ wedi"
     },
     {
       "surface": "את",
@@ -58,9 +62,9 @@
     },
     {
       "surface": "מאד",
-      "gloss": "banget"
+      "gloss": "kaluwih-luwih"
     }
   ],
-  "timestamp": "2026-08-21T00:21:00.455522983Z",
+  "timestamp": "2026-08-24T05:51:56.419655886Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,117 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 31,
-  "translation": "Lan murka-Ku bakal nded breed... ",
-  "tokens": [],
-  "timestamp": "2026-08-20T23:40:30.330323117Z",
+  "translation": "Murkaku bakal ngobong marang ⟨dhèwèké⟩ ing dina iku, lan Ingsun bakal ninggalake ⟨dhèwèké⟩, lan Ingsun bakal ndhelikake rai-Ingsun saka ⟨dhèwèké⟩, lan ⟨dhèwèké⟩ bakal dadi ⟨supaya⟩ didhahar, lan alangan ala akèh lan sengsara bakal nemu ⟨dhèwèké⟩, banjur ⟨dhèwèké⟩ bakal ngucap ing dina iku: Apa ora jalaran amarga Elohim-ku ora ana ing tengah-tengahku, alangan ala iki kang nemu aku?",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "bakal ngobong"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "murkaku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "marang ⟨dhèwèké⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ועזבתים",
+      "gloss": "lan Ingsun ninggalake ⟨dhèwèké⟩"
+    },
+    {
+      "surface": "והסתרתי",
+      "gloss": "lan Ingsun ndhelikake"
+    },
+    {
+      "surface": "פני",
+      "gloss": "rai-Ingsun"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "saka ⟨dhèwèké⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal dadi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "supaya didhahar"
+    },
+    {
+      "surface": "ומצאהו",
+      "gloss": "lan nemu ⟨dhèwèké⟩"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "alangan ala"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "akèh"
+    },
+    {
+      "surface": "וצרות",
+      "gloss": "lan sengsara"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "lan ⟨dhèwèké⟩ ngucap"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "apa ora"
+    },
+    {
+      "surface": "על",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jalaran"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ora ana"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ku"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ing tengah-tengahku"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "nemu aku"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "alangan ala"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "iki"
+    }
+  ],
+  "timestamp": "2026-08-24T05:44:17.969076001Z",
   "model": "glm-5.3"
 }

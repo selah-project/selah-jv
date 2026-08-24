@@ -5,48 +5,47 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 32,
-  "translation": "Lan dheweke ndhawuhake ⟨את⟩ ⟨אתם⟩, mangkene ngendikaa: mengkéné padha ngendikaa marang bendarané, Esau: mengkéné ature abdimu Yaakov: karo Lavan aku ngumbara, lan aku nganti saiki.",
+  "translation": "Lan dheweke parenga ⟨את⟩ ⟨אתם⟩ kabeh, ngucap: Mangkene kang kokandharake marang bendarané aku, yaiku marang Esau: Mangkene pangandikané abdinira Yaakov: Bareng karo Lavan aku ndheleng (dadi tamu), lan aku kari nganti saiki.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "lan dheweke ndhawuhake"
+      "gloss": "Lan dheweke parenga"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "dhawuh\/kang didhawuhake (para utusan)"
+      "gloss": "⟨את⟩ ⟨אתם⟩ kabeh"
     },
     {
       "surface": "לאמר",
-      "gloss": "kang ngendika"
+      "gloss": "ngucap"
     },
     {
       "surface": "כה",
-      "gloss": "mengkéné"
+      "gloss": "Mangkene"
     },
     {
       "surface": "תאמרון",
-      "gloss": "padha ngendikaa"
+      "gloss": "kang kokandharake"
     },
     {
       "surface": "לאדני",
-      "gloss": "marang bendarané"
+      "gloss": "marang bendarané aku"
     },
     {
       "surface": "לעשו",
-      "gloss": "Esau"
+      "gloss": "marang Esau"
     },
     {
       "surface": "כה",
-      "gloss": "mengkéné"
+      "gloss": "Mangkene"
     },
     {
       "surface": "אמר",
-      "gloss": "ature"
+      "gloss": "pangandikané"
     },
     {
       "surface": "עבדך",
-      "gloss": "abdimu"
+      "gloss": "abdinira"
     },
     {
       "surface": "יעקב",
@@ -54,7 +53,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "karo"
+      "gloss": "Bareng karo"
     },
     {
       "surface": "לבן",
@@ -62,11 +61,11 @@
     },
     {
       "surface": "גרתי",
-      "gloss": "aku ngumbara"
+      "gloss": "aku ndheleng (dadi tamu)"
     },
     {
       "surface": "ואחר",
-      "gloss": "lan aku nganti"
+      "gloss": "lan aku kari"
     },
     {
       "surface": "עד",
@@ -77,6 +76,6 @@
       "gloss": "saiki"
     }
   ],
-  "timestamp": "2026-08-20T22:49:33.384564112Z",
+  "timestamp": "2026-08-24T12:34:18.466793629Z",
   "model": "glm-5.3"
 }

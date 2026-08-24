@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 29,
-  "translation": "Lan Aku mulihaké ⟨את⟩ patiné Mitsrajim, lan Aku baliaké ⟨את⟩ ⟨אתם⟩ marang dharatan Pathros, marang dharatan kalairané, lan bakal dadi ing kono karaton sing asor.",
+  "translation": "Lan Aku bakal mbalèkaké ⟨את⟩ kunjungan (tawanan) Mitsrajim, lan Aku bakal ngabanjuraké ⟨את⟩ wong-wongé marang tanah Pathros, marang tanah asalé; lan dhèwèké bakal ⟨dadi⟩ ing kono karaton sing asor.",
   "tokens": [
     {
       "surface": "ושבתי",
-      "gloss": "Lan Aku mulihaké"
+      "gloss": "lan Aku bakal mbalèkaké"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "patiné Mitsrajim"
+      "marks": "kunjungan (tawanan) Mitsrajim"
     },
     {
       "surface": "שבות",
-      "gloss": "patiné\/kasebarané"
+      "gloss": "kunjungan (tawanan)"
     },
     {
       "surface": "מצרים",
@@ -26,16 +26,16 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "lan Aku baliaké"
+      "gloss": "lan Aku bakal ngabanjuraké"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "dharatan Pathros"
+      "gloss": "⟨את⟩",
+      "marks": "wong-wongé marang tanah Pathros"
     },
     {
       "surface": "ארץ",
-      "gloss": "dharatan"
+      "gloss": "tanah"
     },
     {
       "surface": "פתרוס",
@@ -47,15 +47,15 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "dharatan"
+      "gloss": "tanah"
     },
     {
       "surface": "מכורתם",
-      "gloss": "kalairané"
+      "gloss": "asalé"
     },
     {
       "surface": "והיו",
-      "gloss": "lan bakal dadi"
+      "gloss": "lan dhèwèké bakal ⟨dadi⟩"
     },
     {
       "surface": "שם",
@@ -70,6 +70,6 @@
       "gloss": "sing asor"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.784401513Z",
+  "timestamp": "2026-08-24T05:58:31.747395583Z",
   "model": "glm-5.3"
 }

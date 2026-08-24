@@ -5,8 +5,29 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 119,
-  "translation": "Saka para sesepuh aku luwih mangerti: awit titah-titah-Mu aku tumut ngajaga.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:05:54.464256102Z",
+  "translation": "Saka para sepuh kula luwih mangertèni; awit pituntun-Mu kula anjagi.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "saka para sepuh"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "kula luwih mangertèni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "pituntun-Mu"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "kula anjagi"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:37.230031064Z",
   "model": "glm-5.3"
 }

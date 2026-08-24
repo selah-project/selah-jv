@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Lan manawa ⟨⟨wong⟩⟩ saka nyawane keluputan, lan nindakake siji saka sakabehing parentah Yahweh sing ora kena ditindakake, lan ora weruh, banjur ⟨isih⟩ dosa, lan nanggung kaluputane.",
+  "translation": "Lan yen sawijining jiwa padha dosa, lan nindakake siji saka sakabehing parentah Yahweh sing ora kena dilakoni, sanadyan dheweke ora weruh, dheweke tetep dosa lan bakal nanggung kaluputane.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "lan manawa"
+      "gloss": "lan yen"
     },
     {
       "surface": "נפש",
-      "gloss": "nyawa"
+      "gloss": "jiwa"
     },
     {
       "surface": "כי",
-      "gloss": "amargi"
+      "gloss": "yen"
     },
     {
       "surface": "תחטא",
-      "gloss": "keluputan"
+      "gloss": "dosa"
     },
     {
       "surface": "ועשתה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "תעשינה",
-      "gloss": "ditindakake"
+      "gloss": "kena dilakoni"
     },
     {
       "surface": "ולא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ואשם",
-      "gloss": "dosa"
+      "gloss": "lan dosa"
     },
     {
       "surface": "ונשא",
@@ -76,6 +76,6 @@
       "gloss": "kaluputane"
     }
   ],
-  "timestamp": "2026-08-20T23:10:23.197696343Z",
+  "timestamp": "2026-08-24T05:37:19.626155630Z",
   "model": "glm-5.3"
 }

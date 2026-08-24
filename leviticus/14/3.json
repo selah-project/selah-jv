@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 14,
-  "translation": "Lan sang imam metu ing jaba ⟨⟨saka⟩⟩ kamp, lan sang imam ndeleng, lan lah, wis mari cacad tzaraat ⟨⟨kasebut⟩⟩ saka wong sing kena tzaraat",
+  "translation": "Lan imam metu menyang ing jaba pakemahan, banjur imam iku ndeleng, lan lah, luka laradan i wis mari saka wong kang kena laradan.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "sang imam"
+      "gloss": "imam"
     },
     {
       "surface": "אל",
-      "gloss": "ing"
+      "gloss": "menyang"
     },
     {
       "surface": "מחוץ",
-      "gloss": "jaba"
+      "gloss": "ing jaba"
     },
     {
       "surface": "למחנה",
-      "gloss": "kamp"
+      "gloss": "pakemahan"
     },
     {
       "surface": "וראה",
-      "gloss": "lan ndeleng"
+      "gloss": "banjur ndeleng"
     },
     {
       "surface": "הכהן",
-      "gloss": "sang imam"
+      "gloss": "imam"
     },
     {
       "surface": "והנה",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "נגע",
-      "gloss": "cacad"
+      "gloss": "luka"
     },
     {
       "surface": "הצרעת",
-      "gloss": "tzaraat"
+      "gloss": "laradan i"
     },
     {
       "surface": "מן",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "הצרוע",
-      "gloss": "wong sing kena tzaraat"
+      "gloss": "wong kang kena laradan"
     }
   ],
-  "timestamp": "2026-08-20T23:12:57.992326978Z",
+  "timestamp": "2026-08-24T05:39:05.633880511Z",
   "model": "glm-5.3"
 }

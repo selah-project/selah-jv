@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 13,
-  "translation": "Amalek manggon ing tanah ⟨the⟩ Negev; lan ⟨the⟩ Het, lan ⟨the⟩ Yebusi, lan ⟨the⟩ Emori manggon ing gunung; lan ⟨the⟩ Kanaan manggon ing pinggir segara lan ing sisih Kali Yarden.",
+  "translation": "Amalek dumunung ing tanah Negév; lan ⟨suku⟩ Het, lan ⟨suku⟩ Yebusi, lan ⟨suku⟩ Emori dumunung ing redi; lan ⟨suku⟩ Kanaan manggon ing sisih segara lan ing sacedhaké Kali Yarden.",
   "tokens": [
     {
       "surface": "עמלק",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יושב",
-      "gloss": "manggon"
+      "gloss": "dumunung"
     },
     {
       "surface": "בארץ",
@@ -21,39 +21,39 @@
     },
     {
       "surface": "הנגב",
-      "gloss": "Negev"
+      "gloss": "Negév"
     },
     {
       "surface": "והחתי",
-      "gloss": "lan ⟨the⟩ Het"
+      "gloss": "lan ⟨suku⟩ Het"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "lan ⟨the⟩ Yebusi"
+      "gloss": "lan ⟨suku⟩ Yebusi"
     },
     {
       "surface": "והאמרי",
-      "gloss": "lan ⟨the⟩ Emori"
+      "gloss": "lan ⟨suku⟩ Emori"
     },
     {
       "surface": "יושב",
-      "gloss": "manggon"
+      "gloss": "dumunung"
     },
     {
       "surface": "בהר",
-      "gloss": "ing gunung"
+      "gloss": "ing redi"
     },
     {
       "surface": "והכנעני",
-      "gloss": "lan ⟨the⟩ Kanaan"
+      "gloss": "lan ⟨suku⟩ Kanaan"
     },
     {
-      "surface": "יושב",
+      "surface": "ישב",
       "gloss": "manggon"
     },
     {
       "surface": "על",
-      "gloss": "ing pinggir"
+      "gloss": "ing sisih"
     },
     {
       "surface": "הים",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "ועל",
-      "gloss": "lan ing sisih"
+      "gloss": "lan ing"
     },
     {
       "surface": "יד",
-      "gloss": "sisih"
+      "gloss": "sacedhaké"
     },
     {
       "surface": "הירדן",
       "gloss": "Kali Yarden"
     }
   ],
-  "timestamp": "2026-08-20T23:23:08.858287900Z",
+  "timestamp": "2026-08-24T05:40:48.066288611Z",
   "model": "glm-5.3"
 }

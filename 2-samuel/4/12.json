@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 4,
-  "translation": "Lan Dawid paring parentah marang ⟨את⟩ para enome, banjur padha dipateni; lan padha dipunthuthuki ⟨את⟩ tangané lan ⟨את】 sikilé, lan digantung ana ing pinggir blumbang ing Hevron; déné ⟨את⟩ mustakané Isy-Bosyet dijupuk lan dipendhem ana ing pasareyane Avner ing Hevron.",
+  "translation": "Lan Dawid paring parentah ⟨את⟩ para pamudha, lan padha matèni wong-wong mau, lan padha ngethok ⟨את⟩ tangané lan ⟨את⟩ sikilé, lan padha nggantung ing sadhuwuring banyu ing Hevron; lan ⟨את⟩ sirahé Isy-Boset padha njupuk, lan padha nguburaké ing kuburé Avner ing Hevron.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "paring parentah"
+      "gloss": "lan paring parentah"
     },
     {
       "surface": "דוד",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "para enome"
+      "marks": "para pamudha"
     },
     {
       "surface": "הנערים",
-      "gloss": "para enome"
+      "gloss": "para pamudha"
     },
     {
       "surface": "ויהרגום",
-      "gloss": "padha dipateni"
+      "gloss": "lan padha matèni wong-wong mau"
     },
     {
       "surface": "ויקצצו",
-      "gloss": "padha dipunthuthuki"
+      "gloss": "lan padha ngethok"
     },
     {
       "surface": "את",
@@ -52,15 +52,15 @@
     },
     {
       "surface": "ויתלו",
-      "gloss": "digantung"
+      "gloss": "lan padha nggantung"
     },
     {
       "surface": "על",
-      "gloss": "ana ing pinggir"
+      "gloss": "ing sadhuwuring"
     },
     {
       "surface": "הברכה",
-      "gloss": "blumbang"
+      "gloss": "banyu (embung)"
     },
     {
       "surface": "בחברון",
@@ -69,11 +69,11 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "mustakané Isy-Bosyet"
+      "marks": "sirahé Isy-Boset"
     },
     {
       "surface": "ראש",
-      "gloss": "mustakané"
+      "gloss": "sirahé"
     },
     {
       "surface": "איש",
@@ -81,19 +81,19 @@
     },
     {
       "surface": "בשת",
-      "gloss": "Bosyet"
+      "gloss": "Boset"
     },
     {
       "surface": "לקחו",
-      "gloss": "dijupuk"
+      "gloss": "padha njupuk"
     },
     {
       "surface": "ויקברו",
-      "gloss": "dipendhem"
+      "gloss": "lan padha nguburaké"
     },
     {
       "surface": "בקבר",
-      "gloss": "ana ing pasareyane"
+      "gloss": "ing kuburé"
     },
     {
       "surface": "אבנר",
@@ -104,6 +104,6 @@
       "gloss": "ing Hevron"
     }
   ],
-  "timestamp": "2026-08-21T00:06:40.874849830Z",
+  "timestamp": "2026-08-24T05:49:20.571223722Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Lan banyune mili ngubengi ⟨the⟩ misban, lan uga ⟨את⟩ salurane kaisian banyu.",
+  "translation": "Lan banyu iku mili ngubengi ⟨ing⟩ mizbeah, lan uga ⟨את⟩ kalèn iku kaisèn banyu.",
   "tokens": [
     {
       "surface": "וילכו",
-      "gloss": "lan banyune mili"
+      "gloss": "lan banyu iku mili"
     },
     {
       "surface": "המים",
-      "gloss": "banyu iku"
+      "gloss": "banyu"
     },
     {
       "surface": "סביב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "למזבח",
-      "gloss": "misban"
+      "gloss": "ing mizbeah"
     },
     {
       "surface": "וגם",
@@ -30,21 +30,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "salurane"
+      "marks": "kalèn"
     },
     {
       "surface": "התעלה",
-      "gloss": "salurane"
+      "gloss": "kalèn"
     },
     {
       "surface": "מלא",
-      "gloss": "kaisian"
+      "gloss": "kaisèn"
     },
     {
       "surface": "מים",
       "gloss": "banyu"
     }
   ],
-  "timestamp": "2026-08-21T00:21:24.342182434Z",
+  "timestamp": "2026-08-24T05:52:23.733616788Z",
   "model": "glm-5.3"
 }

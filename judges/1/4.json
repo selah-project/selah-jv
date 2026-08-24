@@ -5,19 +5,19 @@
   "book": "judges",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Banjur Yehuda munggah, lan Yahweh menehi ⟨את⟩ ⟨the⟩ wong Kanaan lan ⟨the⟩ wong Perizi ing tangané; lan dhèwèké padha ngantemi ing Bezek kasebut sepuluh èwu wong.",
+  "translation": "Lan Yehudha munggah, lan Yahweh maringake ⟨את⟩ wong Kanaan lan wong Perizi ing astane; lan ana ing Bezek padha nggebug sakwongé sepuluh èwu wong.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "banjur munggah"
+      "gloss": "munggah"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudha"
     },
     {
       "surface": "ויתן",
-      "gloss": "lan menehi"
+      "gloss": "maringake"
     },
     {
       "surface": "יהוה",
@@ -26,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wong Kanaan"
+      "marks": "wong Kanaan lan wong Perizi"
     },
     {
       "surface": "הכנעני",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "בידם",
-      "gloss": "ing tangané"
+      "gloss": "ing astane"
     },
     {
       "surface": "ויכום",
-      "gloss": "padha ngantemi"
+      "gloss": "padha nggebug"
     },
     {
       "surface": "בבזק",
-      "gloss": "ing Bezek"
+      "gloss": "ana ing Bezek"
     },
     {
       "surface": "עשרת",
@@ -61,6 +61,6 @@
       "gloss": "wong"
     }
   ],
-  "timestamp": "2026-08-20T23:48:17.597868027Z",
+  "timestamp": "2026-08-24T05:45:30.189217503Z",
   "model": "glm-5.3"
 }

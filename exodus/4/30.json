@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 4,
-  "translation": "Banjur Aharon maujarake ⟨את⟩ sadaya pangandikan sing dikandhakake Yahweh marang Moshe, lan dilakoni ⟨the⟩ tandha-tandha iku ing sangarepé wong akèh.",
+  "translation": "Lan Aharon ngendika ⟨את⟩ sakabehing pangucap kang wus didhawuhake Yahweh marang Moshe, lan ditindakake ⟨the⟩ tandha-tandha iku ing sangarepe wong-wong mau.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "banjur maujarake"
+      "gloss": "lan ngendika"
     },
     {
       "surface": "אהרן",
@@ -18,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sadaya pangandikan"
+      "marks": "sakabehing pangucap"
     },
     {
       "surface": "כל",
-      "gloss": "sadaya"
+      "gloss": "sakabehing"
     },
     {
       "surface": "הדברים",
-      "gloss": "pangandikan"
+      "gloss": "pangucap"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "דבר",
-      "gloss": "dikandhakake"
+      "gloss": "didhawuhake"
     },
     {
       "surface": "יהוה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויעש",
-      "gloss": "lan dilakoni"
+      "gloss": "lan ditindakake"
     },
     {
       "surface": "האתת",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "ing sangarepé"
+      "gloss": "ing sangarepe"
     },
     {
       "surface": "העם",
-      "gloss": "wong akèh"
+      "gloss": "wong-wong mau"
     }
   ],
-  "timestamp": "2026-08-20T22:57:13.478254246Z",
+  "timestamp": "2026-08-24T05:35:22.589909353Z",
   "model": "glm-5.3"
 }

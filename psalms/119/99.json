@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 119,
-  "translation": "Saka sakabehing guru-guruku aku luwih pasinaon: awit keseksen-Ku dadi uluk-alapkoe.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:05:54.464107141Z",
+  "translation": "Saka saben-pabukti pangajarku kula luwih wicaksana; awit pasaksén-Mu panganggit-anggit ⟨kanggé⟩ kula.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "saka saben-pabukti"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "pangajarku"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "kula luwih wicaksana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "pasaksén-Mu"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "panganggit-anggit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kanggé⟩ kula"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:37.229921249Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 118,
-  "translation": "Nlubèni aku kaya tawon; padha lirna kaya geni eri-eri; ing sajroning Asma Yahweh aku bakal nglumpuli ⟨⟨את⟩⟩ dhèwèké.",
+  "translation": "Padha ngubengi aku kaya anggo tawon, padha mati kaya geni eri; ing asma Yahweh yakuwé takenthekake.",
   "tokens": [
     {
       "surface": "סבוני",
-      "gloss": "nlubèni aku"
+      "gloss": "padha ngubengi aku"
     },
     {
       "surface": "כדבורים",
-      "gloss": "kaya tawon"
+      "gloss": "kaya anggo tawon"
     },
     {
       "surface": "דעכו",
-      "gloss": "padha lirna"
+      "gloss": "padha mati padam"
     },
     {
       "surface": "כאש",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "קוצים",
-      "gloss": "eri-eri"
+      "gloss": "eri"
     },
     {
       "surface": "בשם",
-      "gloss": "ing sajroning Asma"
+      "gloss": "ing asma"
     },
     {
       "surface": "יהוה",
@@ -37,13 +37,13 @@
     },
     {
       "surface": "כי",
-      "gloss": "sayogya"
+      "gloss": "yakuwé"
     },
     {
       "surface": "אמילם",
-      "gloss": "aku nglumpuli dhèwèké"
+      "gloss": "takenthekake"
     }
   ],
-  "timestamp": "2026-08-21T02:04:59.139271496Z",
+  "timestamp": "2026-08-24T06:04:25.571813510Z",
   "model": "glm-5.3"
 }

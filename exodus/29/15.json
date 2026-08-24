@@ -5,28 +5,28 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 29,
-  "translation": "Lan ⟨את⟩ wedhus jantan siji ⟨the⟩ iku kowé bakal njupuk, lan Aharon karo anak-anaké bakal numpangake ⟨את⟩ tangane ing dhuwur sirahé wedhus jantan iku.",
+  "translation": "Lan ⟨את⟩ domba jantan sing siji ika sira amundhut, lan Aharon sarta para putrané sami ndhèrèkaké ⟨את⟩ asta-iparipun ing sirahé domba jantan ika.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "wedhus jantan"
+      "marks": "domba jantan sing siji"
     },
     {
       "surface": "האיל",
-      "gloss": "wedhus jantan"
+      "gloss": "domba jantan"
     },
     {
       "surface": "האחד",
-      "gloss": "siji"
+      "gloss": "sing siji"
     },
     {
       "surface": "תקח",
-      "gloss": "kowe bakal njupuk"
+      "gloss": "sira amundhut"
     },
     {
       "surface": "וסמכו",
-      "gloss": "lan bakal numpangake"
+      "gloss": "sami ndhèrèkaké"
     },
     {
       "surface": "אהרן",
@@ -34,20 +34,20 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "karo anak-anaké"
+      "gloss": "sarta para putrané"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tangane"
+      "marks": "asta-iparipun"
     },
     {
       "surface": "ידיהם",
-      "gloss": "tangane"
+      "gloss": "asta-iparipun"
     },
     {
       "surface": "על",
-      "gloss": "ing dhuwur"
+      "gloss": "ing"
     },
     {
       "surface": "ראש",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "האיל",
-      "gloss": "wedhus jantan iku"
+      "gloss": "domba jantan ika"
     }
   ],
-  "timestamp": "2026-08-20T23:04:54.184363874Z",
+  "timestamp": "2026-08-24T05:36:02.176817357Z",
   "model": "glm-5.3"
 }

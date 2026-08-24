@@ -5,15 +5,15 @@
   "book": "nahum",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Para pangayommu kaya belalang, lan para panglimamu kaya wareng — golèk panggonan ing pager ing dinane adhem; bareng srengéngé mithala, banjur padha kalungsur, lan panggonane ora kinawruhan, ing ngendi ⟨⟨ingendi⟩⟩.",
+  "translation": "Para pangungeningmu kaya walang, lan para panglimamu kaya wol-ewule walang kang ngundhak ing pager-ing pager wayah adhem; bareng srengéngé ngumbaraké cahya, ⟨padha⟩ lunga ngumbar, lan panggonane ora kaweruhan ing ngendi ⟨iya⟩.",
   "tokens": [
     {
       "surface": "מנזריך",
-      "gloss": "para pangayommu"
+      "gloss": "para pangungeningmu"
     },
     {
       "surface": "כארבה",
-      "gloss": "kaya belalang"
+      "gloss": "kaya walang"
     },
     {
       "surface": "וטפסריך",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "כגוב",
-      "gloss": "kaya"
+      "gloss": "kaya wol-ewule"
     },
     {
       "surface": "גבי",
-      "gloss": "wareng"
+      "gloss": "walang"
     },
     {
       "surface": "החונים",
-      "gloss": "sing nggon"
+      "gloss": "kang ngundhak"
     },
     {
       "surface": "בגדרות",
-      "gloss": "ing pager"
+      "gloss": "ing pager-pager"
     },
     {
       "surface": "ביום",
-      "gloss": "ing dinane"
+      "gloss": "ing wayah"
     },
     {
       "surface": "קרה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "זרחה",
-      "gloss": "mithala"
+      "gloss": "ngumbaraké cahya"
     },
     {
       "surface": "ונודד",
-      "gloss": "banjur kalungsur"
+      "gloss": "lunga ngumbar"
     },
     {
       "surface": "ולא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "נודע",
-      "gloss": "kinawruhan"
+      "gloss": "kaweruhan"
     },
     {
       "surface": "מקומו",
@@ -72,6 +72,6 @@
       "gloss": "ing ngendi"
     }
   ],
-  "timestamp": "2026-08-21T01:33:19.361345458Z",
+  "timestamp": "2026-08-24T06:00:54.996670005Z",
   "model": "glm-5.3"
 }

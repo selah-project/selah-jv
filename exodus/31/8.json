@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 31,
-  "translation": "lan ⟨את⟩ méja sarta praboté, lan ⟨את⟩ pasamuwan lampu sing murni sarta kabeh praboté, lan ⟨את⟩ palanganing dupa —",
+  "translation": "lan ⟨את⟩ méja lan ⟨את⟩ praboté, lan ⟨את⟩ pasujenan sing murni lan ⟨את⟩ sakabèhé praboté, lan ⟨את⟩ misbaning dupa",
   "tokens": [
     {
       "surface": "ואת",
@@ -14,7 +14,7 @@
     },
     {
       "surface": "השלחן",
-      "gloss": "⟨the⟩ méja"
+      "gloss": "⟨ing⟩ méja"
     },
     {
       "surface": "ואת",
@@ -28,11 +28,11 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "pasamuwan lampu sing murni"
+      "marks": "pasujenan sing murni"
     },
     {
       "surface": "המנרה",
-      "gloss": "⟨the⟩ pasamuwan lampu"
+      "gloss": "⟨ing⟩ pasujenan"
     },
     {
       "surface": "הטהרה",
@@ -41,11 +41,11 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "kabeh praboté"
+      "marks": "sakabèhé praboté"
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "sakabèhé"
     },
     {
       "surface": "כליה",
@@ -54,17 +54,17 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "palanganing dupa"
+      "marks": "misbaning dupa"
     },
     {
       "surface": "מזבח",
-      "gloss": "palanganing"
+      "gloss": "misbaning"
     },
     {
       "surface": "הקטרת",
       "gloss": "dupa"
     }
   ],
-  "timestamp": "2026-08-20T23:05:34.641489149Z",
+  "timestamp": "2026-08-24T05:36:41.529082444Z",
   "model": "glm-5.3"
 }

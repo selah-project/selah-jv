@@ -5,8 +5,53 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 30,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-20T23:05:04.653062630Z",
+  "translation": "lavin ⟨את⟩ altaré kurban obongan lan ⟨את⟩ kabèh pirantine, lan ⟨את⟩ baskomé lan ⟨את⟩ sikil-sikilané",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altaré kurban obongan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaré"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kurban obongan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kabèh pirantine"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabèh"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "pirantine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "baskomé"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "baskomé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sikil-sikilané"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sikil-sikilané"
+    }
+  ],
+  "timestamp": "2026-08-24T05:36:37.279268875Z",
   "model": "glm-5.3"
 }

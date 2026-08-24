@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 12,
-  "translation": "Lan aja padha malengos, awit ngoyak ⟨the⟩ barang kothong sing ora ana gunane lan ora bisa ngluwari, awit kothong anggoné dhèwèké.",
+  "translation": "Lan aja padha mlumpat, awit ing mburiné samubarang sipat-sipat kang ropéka, kang ora bisa migunani lan ora bisa nylametake, awit sipat-sipat mau ropéka.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תסורו",
-      "gloss": "padha malengos"
+      "gloss": "padha mlumpat"
     },
     {
       "surface": "כי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "ngoyak sawisé"
+      "gloss": "ing mburiné"
     },
     {
       "surface": "התהו",
-      "gloss": "barang kothong"
+      "gloss": "samubarang sipat-sipat kang ropéka"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "יועילו",
-      "gloss": "ana gunané"
+      "gloss": "bisa migunani"
     },
     {
       "surface": "ולא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יצילו",
-      "gloss": "bisa ngluwari"
+      "gloss": "bisa nylametake"
     },
     {
       "surface": "כי",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "תהו",
-      "gloss": "kothong"
+      "gloss": "ropéka"
     },
     {
       "surface": "המה",
-      "gloss": "dhèwèké"
+      "gloss": "sipat-sipat mau"
     }
   ],
-  "timestamp": "2026-08-21T04:02:13.473794475Z",
+  "timestamp": "2026-08-24T05:47:48.775414639Z",
   "model": "glm-5.3"
 }

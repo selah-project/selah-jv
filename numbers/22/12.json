@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 22,
-  "translation": "Lan Elohim ngandika marang Bilam: Aja k-sliti k-lancang marang wong-wong mau; aja sumpahi ⟨את⟩ ⟨the⟩ umat mau, jalaran ⟨dhèwèké⟩ kaberkahan.",
+  "translation": "Lan Elohim ngandika marang Bilam: aja kowe lunga karo wong-wong mau, aja ngutuki ⟨את⟩ ⟨the⟩ bangsa iku, awit dheweke pinuji.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ngandika"
+      "gloss": "lan ngandika"
     },
     {
       "surface": "אלהים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תלך",
-      "gloss": "lunga"
+      "gloss": "kowe lunga"
     },
     {
       "surface": "עמהם",
@@ -41,30 +41,30 @@
     },
     {
       "surface": "תאר",
-      "gloss": "sumpahi"
+      "gloss": "ngutuki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ umat mau"
+      "marks": "bangsa iku"
     },
     {
       "surface": "העם",
-      "gloss": "umat mau"
+      "gloss": "bangsa iku"
     },
     {
       "surface": "כי",
-      "gloss": "jalaran"
+      "gloss": "awit"
     },
     {
       "surface": "ברוך",
-      "gloss": "kaberkahan"
+      "gloss": "pinuji"
     },
     {
       "surface": "הוא",
-      "gloss": "dhèwèké"
+      "gloss": "dheweke"
     }
   ],
-  "timestamp": "2026-08-20T23:25:26.981554749Z",
+  "timestamp": "2026-08-24T05:42:24.990700721Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 140,
-  "translation": "Ulaha aku, Yahweh, saka manisa ala, saka wong panggedor aku aku ти kajaga.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:08:21.026526018Z",
+  "translation": "Bebasake aku, dharma Yahweh, saka manungsa ala; saka wong pangekara kawula kajaga aku.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Bebasake aku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "saka manungsa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "saka wong"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "pangekara"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "kawula kajaga aku"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:24.372052564Z",
   "model": "glm-5.3"
 }

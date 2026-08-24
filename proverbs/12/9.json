@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "jv",
   "chapter": 12,
-  "translation": "Luwih becik ⟨⟨wong⟩⟩ sinisih nanging duwe abdi, katimbang ⟨⟨wong⟩⟩ munggahake drajate dhewe nanging kurang roti.",
+  "translation": "Luwih becik wong sing dirèmehaké nanging duwe abdi, ketimbang wong sing ngajènaké awaké dhéwé nanging kurang pangan.",
   "tokens": [
     {
       "surface": "טוב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נקלה",
-      "gloss": "sinisih"
+      "gloss": "dirèmehaké"
     },
     {
       "surface": "ועבד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "kanggo dhewe"
+      "gloss": "kanggo awaké"
     },
     {
       "surface": "ממתכבד",
-      "gloss": "munggahake drajate dhewe"
+      "gloss": "ketimbang wong sing ngajènaké awaké dhéwé"
     },
     {
       "surface": "וחסר",
@@ -33,9 +33,9 @@
     },
     {
       "surface": "לחם",
-      "gloss": "roti"
+      "gloss": "pangan"
     }
   ],
-  "timestamp": "2026-08-21T02:13:24.367134966Z",
+  "timestamp": "2026-08-24T06:04:49.767812362Z",
   "model": "glm-5.3"
 }

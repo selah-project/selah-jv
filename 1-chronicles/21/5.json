@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 21,
-  "translation": "Lan Yoab menehake ⟨את⟩ cacahing pakuning ⟨the⟩ wong marang Dawid; lan dadi kabeh Yisrael sawewu ewu lan satus ewu wong sing nyabet pedhang, lan Yehudah patang atus pitung puluh ewu wong sing nyabet pedhang.",
+  "translation": "Lan Yoab menehi ⟨את⟩ cacahing sensor ⟨the⟩ wong marang Dawid; dadi kabeh Yisrael sayuta lan saratus ewu wong sing untungake pedhang, lan Yehuda patang atus pitung puluh ewu wong sing untungake pedhang.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "lan-menehake"
+      "gloss": "lan menehi"
     },
     {
       "surface": "יואב",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cacahing pakuning wong"
+      "marks": "cacahing sensor"
     },
     {
       "surface": "מספר",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "מפקד",
-      "gloss": "pakuning"
+      "gloss": "sensor"
     },
     {
       "surface": "העם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "lan-dadi"
+      "gloss": "dadi"
     },
     {
       "surface": "כל",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "אלף",
-      "gloss": "sawewu"
+      "gloss": "sayuta"
     },
     {
       "surface": "אלפים",
-      "gloss": "ewu"
+      "gloss": "yuta-yuta"
     },
     {
       "surface": "ומאה",
-      "gloss": "lan-satus"
+      "gloss": "lan saratus"
     },
     {
       "surface": "אלף",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "שלף",
-      "gloss": "nyabet"
+      "gloss": "sing untungake"
     },
     {
       "surface": "חרב",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ויהודה",
-      "gloss": "lan-Yehudah"
+      "gloss": "lan Yehuda"
     },
     {
       "surface": "ארבע",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "ושבעים",
-      "gloss": "lan-pitung puluh"
+      "gloss": "lan pitung puluh"
     },
     {
       "surface": "אלף",
@@ -106,13 +106,13 @@
     },
     {
       "surface": "שלף",
-      "gloss": "nyabet"
+      "gloss": "sing untungake"
     },
     {
       "surface": "חרב",
       "gloss": "pedhang"
     }
   ],
-  "timestamp": "2026-08-21T03:26:03.608489632Z",
+  "timestamp": "2026-08-24T06:10:22.305690221Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 9,
-  "translation": "Kaweruh ⟨⟨is⟩⟩ Yahweh, pengadilan wis dilakokake, ing panggaweane tangane dhewe wong ala iku kalumpru. Higgaion. Selah.",
+  "translation": "Kaweruhan Yahweh; pituwas wis ditindakake; ing pakaryan tangane dhewe wong lumaku jarem-karem kasipat; Higgaion. Selah.",
   "tokens": [
     {
       "surface": "נודע",
-      "gloss": "kaweruh"
+      "gloss": "kaweruhan"
     },
     {
       "surface": "יהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "משפט",
-      "gloss": "pengadilan"
+      "gloss": "pituwas"
     },
     {
       "surface": "עשה",
-      "gloss": "wis dilakokake"
+      "gloss": "ditindakake"
     },
     {
       "surface": "בפעל",
-      "gloss": "ing panggaweane"
+      "gloss": "ing pakaryan"
     },
     {
       "surface": "כפיו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "נוקש",
-      "gloss": "kalumpru"
+      "gloss": "kasipat"
     },
     {
       "surface": "רשע",
-      "gloss": "wong ala"
+      "gloss": "wong lumaku jarem-karem"
     },
     {
       "surface": "הגיון",
@@ -48,6 +48,6 @@
       "gloss": "Selah"
     }
   ],
-  "timestamp": "2026-08-21T01:42:44.665292095Z",
+  "timestamp": "2026-08-24T06:01:15.604626831Z",
   "model": "glm-5.3"
 }

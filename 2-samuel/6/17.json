@@ -5,20 +5,20 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan dheweke nggawa ⟨את⟩ petungané Yahweh lan ngadegake ⟨את⟩ ⟨אתו⟩ ing panggonané, ing tengahé kemah sing didhirikaké David kanggo iku; lan David nitahaké munggah kurban bakaran ing ngarsané Yahweh sarta kurban slamet.",
+  "translation": "Lan padha nggawa ⟨את⟩ petane Yahweh, banjur padha ngadekake ⟨את⟩ ing panggonane, ing sajroning khemah sing didhelikake kanggo iku dening Dawid; lan Dawid mundhakake kurban obong sangarepe Yahweh lan kurban slamet.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "lan dheweke nggawa"
+      "gloss": "lan padha nggawa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "petungané Yahweh"
+      "marks": "petane Yahweh"
     },
     {
       "surface": "ארון",
-      "gloss": "petungan"
+      "gloss": "petane"
     },
     {
       "surface": "יהוה",
@@ -26,24 +26,24 @@
     },
     {
       "surface": "ויצגו",
-      "gloss": "lan ngadegaké"
+      "gloss": "banjur padha ngadekake"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "ing panggonané"
+      "gloss": "⟨את⟩",
+      "marks": "ing panggonane"
     },
     {
       "surface": "במקומו",
-      "gloss": "ing panggonané"
+      "gloss": "ing panggonane"
     },
     {
       "surface": "בתוך",
-      "gloss": "ing tengahé"
+      "gloss": "ing sajroning"
     },
     {
       "surface": "האהל",
-      "gloss": "kemah"
+      "gloss": "khemah"
     },
     {
       "surface": "אשר",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "didhirikaké"
+      "gloss": "didhelikake"
     },
     {
       "surface": "לו",
@@ -59,23 +59,23 @@
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "ויעל",
-      "gloss": "lan nitahaké munggah"
+      "gloss": "lan mundhakake"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dawid"
     },
     {
       "surface": "עלות",
-      "gloss": "kurban bakaran"
+      "gloss": "kurban obong"
     },
     {
       "surface": "לפני",
-      "gloss": "ing ngarsané"
+      "gloss": "sangarepe"
     },
     {
       "surface": "יהוה",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "ושלמים",
-      "gloss": "sarta kurban slamet"
+      "gloss": "lan kurban slamet"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.498881879Z",
+  "timestamp": "2026-08-24T05:50:01.140077180Z",
   "model": "glm-5.3"
 }

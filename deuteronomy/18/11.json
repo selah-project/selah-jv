@@ -5,41 +5,42 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 18,
-  "translation": "lan juru iket mantra, sing nakonaké roh arwah lan juru panguwu, sarta sing takon marang ⟨the⟩ wong mati",
+  "translation": "lan tukang nglantip mantra, lan sing takon marang arwah lan juru tenung, lan sing takon marang wong-wong ⟨the⟩ sing wis mati.",
   "tokens": [
     {
-      "surface": "וחבר",
-      "gloss": "juru iket mantra"
+      "surface": "וְחֹבֵ֖ר",
+      "gloss": "tukang nglantip mantra"
     },
     {
-      "surface": "חבר",
-      "gloss": "mantra"
+      "surface": "חָ֑בֶר",
+      "gloss": "mantra",
+      "marks": "mantra"
     },
     {
-      "surface": "ושאל",
-      "gloss": "sing nakonaké"
+      "surface": "וְשֹׁאֵ֥ל",
+      "gloss": "lan sing takon marang"
     },
     {
-      "surface": "אוב",
-      "gloss": "roh arwah"
+      "surface": "אוֹב֙",
+      "gloss": "arwah (medium)"
     },
     {
-      "surface": "וידעני",
-      "gloss": "juru panguwu"
+      "surface": "וְיִדְּעֹנִ֔י",
+      "gloss": "lan juru tenung"
     },
     {
-      "surface": "ודרש",
-      "gloss": "sing takon"
+      "surface": "וְדֹרֵ֖שׁ",
+      "gloss": "lan sing takon marang"
     },
     {
-      "surface": "אל",
-      "gloss": "marang"
+      "surface": "אֶל",
+      "gloss": "dhateng"
     },
     {
-      "surface": "המתים",
-      "gloss": "wong mati"
+      "surface": "הַמֵּתִֽים",
+      "gloss": "wong-wong sing wis mati"
     }
   ],
-  "timestamp": "2026-08-20T23:35:44.173681770Z",
+  "timestamp": "2026-08-24T12:34:18.475339121Z",
   "model": "glm-5.3"
 }

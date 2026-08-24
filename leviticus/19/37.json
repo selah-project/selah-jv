@@ -5,55 +5,56 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Lan kowe kudu ngati-ati ⟨את⟩ sapakaning ukum-ukumIngsun lan ⟨את⟩ sapakaning pangukuman-Ingsun, lan nindakake ⟨את⟩ iki kabeh; Ingsun ⟨⟨iku⟩⟩ Yahweh.",
+  "translation": "Lan kowé padha ngayomi ⟨את⟩ saben uku-uku-Ku lan ⟨את⟩ saben pangatemahan-Ku, lan kowé padha nglakokake ⟨את⟩ iku; aku ⟨inggih⟩ Yahweh.",
   "tokens": [
     {
-      "surface": "ושמרתם",
-      "gloss": "lan kowe kudu ngati-ati"
+      "surface": "וּשְׁמַרְתֶּם",
+      "gloss": "lan kowé padha ngayomi"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "sapakaning ukum-ukum-Ingsun"
+      "marks": "saben uku-uku-Ku"
     },
     {
-      "surface": "כל",
-      "gloss": "sapakane"
+      "surface": "כָּל",
+      "gloss": "saben"
     },
     {
-      "surface": "חקתי",
-      "gloss": "ukum-ukum-Ingsun"
+      "surface": "חֻקֹּתַי",
+      "gloss": "uku-uku-Ku"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "⟨את⟩",
-      "marks": "sapakaning pangukuman-Ingsun"
+      "marks": "saben pangatemahan-Ku"
     },
     {
-      "surface": "כל",
-      "gloss": "sapakane"
+      "surface": "כָּל",
+      "gloss": "saben"
     },
     {
-      "surface": "משפטי",
-      "gloss": "pangukuman-Ingsun"
+      "surface": "מִשְׁפָּטַי",
+      "gloss": "pangatemahan-Ku"
     },
     {
-      "surface": "ועשיתם",
-      "gloss": "lan nindakake"
+      "surface": "וַעֲשִׂיתֶם",
+      "gloss": "lan kowé padha nglakokake"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨את⟩ iki kabeh"
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "iku"
     },
     {
-      "surface": "אני",
-      "gloss": "Ingsun"
+      "surface": "אֲנִי",
+      "gloss": "aku"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָֹה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-20T23:14:45.806133992Z",
+  "timestamp": "2026-08-24T05:39:35.148604515Z",
   "model": "glm-5.3"
 }

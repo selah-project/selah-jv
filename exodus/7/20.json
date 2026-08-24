@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 7,
-  "translation": "Lan Moshe lan Aharon nindakake mangkono, kaya sing didhawuhake Yahweh; banjur <i>dhi<\/i> ngangkat tongkat lan nuju nglumpuki ⟨את⟩ banyu sing ana ing kali, ing ngarsane Paroh lan ing ngarsone para abdine; banjur kabeh banyu sing ana ing kali malih dadi getih.",
+  "translation": "Banjur Moshe lan Aharon nindakake mangkono, kaya sing didhawuhake Yahweh; banjur ⟨dheweke⟩ ngunggahake tongkat lan nggebug ⟨את⟩ banyu sing ana ing kali, ing sangarepe Paro lan ing sangarepe para abdine; banjur kabeh banyu sing ana ing kali malih dadi getih.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "lan nindakake"
+      "gloss": "banjur nindakake"
     },
     {
       "surface": "כן",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "וירם",
-      "gloss": "banjur ngangkat"
+      "gloss": "banjur ngunggahake"
     },
     {
       "surface": "במטה",
-      "gloss": "nganggo tongkat"
+      "gloss": "tongkat"
     },
     {
       "surface": "ויך",
-      "gloss": "lan nglumpuki"
+      "gloss": "lan nggebug"
     },
     {
       "surface": "את",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "ing ngarsane"
+      "gloss": "ing sangarepe"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroh"
+      "gloss": "Paro"
     },
     {
       "surface": "ולעיני",
-      "gloss": "lan ing ngarsone"
+      "gloss": "lan ing sangarepe"
     },
     {
       "surface": "עבדיו",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ויהפכו",
-      "gloss": "banjur malih dadi"
+      "gloss": "banjur malih"
     },
     {
       "surface": "כל",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "לדם",
-      "gloss": "getih"
+      "gloss": "dadi getih"
     }
   ],
-  "timestamp": "2026-08-20T22:58:18.995481964Z",
+  "timestamp": "2026-08-24T05:35:29.689293450Z",
   "model": "glm-5.3"
 }

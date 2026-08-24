@@ -5,8 +5,38 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 136,
-  "translation": "⟨את⟩ srengéngé kanggo mangun-mangun ing sajroning rina, awit kuwaluning-Né langgeng salawasé.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:08:01.147255981Z",
+  "translation": "⟨את⟩ srengenge kanggo mrentah ing rina, amarga kasetyane langgeng salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srengenge"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "srengenge"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kanggo mrentah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ing rina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:28.040406960Z",
   "model": "glm-5.3"
 }

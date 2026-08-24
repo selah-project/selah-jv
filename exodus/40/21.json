@@ -5,32 +5,32 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 40,
-  "translation": "Lan panjenengane nggawa ⟨את⟩ petengere aron menyang ⟨the⟩ kemah suci, lan dipasang ⟨את⟩ kelambu panutup, lan ditutupake ing sandhuwur aron pasaksian, kaya dene sing wis diprentahake Yahweh marang ⟨את⟩ Moshe.",
+  "translation": "Lan dheweke nggawa ⟨את⟩ petine lumebu ing padhegan, sarta ndadekake ⟨את⟩ kelambu panutup, lan nutupake ing sandhuwuring petine paseksian, kaya dene Yahweh paring dhawuh marang ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "nggawa menyang"
+      "gloss": "nggawa lumebu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "petengere aron"
+      "marks": "petine"
     },
     {
       "surface": "הארן",
-      "gloss": "petengere aron"
+      "gloss": "petine"
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "lumebu ing"
     },
     {
       "surface": "המשכן",
-      "gloss": "kemah suci"
+      "gloss": "padhegan"
     },
     {
       "surface": "וישם",
-      "gloss": "dipasang"
+      "gloss": "ndadekake"
     },
     {
       "surface": "את",
@@ -47,19 +47,19 @@
     },
     {
       "surface": "ויסך",
-      "gloss": "ditutupake"
+      "gloss": "nutupake"
     },
     {
       "surface": "על",
-      "gloss": "ing sandhuwur"
+      "gloss": "ing sandhuwuring"
     },
     {
       "surface": "ארון",
-      "gloss": "aron"
+      "gloss": "petine"
     },
     {
       "surface": "העדות",
-      "gloss": "pasaksian"
+      "gloss": "paseksian"
     },
     {
       "surface": "כאשר",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "diprentahake"
+      "gloss": "paring dhawuh"
     },
     {
       "surface": "יהוה",
@@ -83,6 +83,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-20T23:08:52.061824409Z",
+  "timestamp": "2026-08-24T06:11:49.890911938Z",
   "model": "glm-5.3"
 }

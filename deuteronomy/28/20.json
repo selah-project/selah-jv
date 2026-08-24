@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 28,
-  "translation": "Yahweh nguncalake marang kowe ⟨את⟩ sinedhan, ⟨את】 pahelan, lan ⟨את⟩ wewarah ing sabarang panjengananmu sing kokgawe, nganti kesirnanmu lan nganti tinarjamah enggal, amarga saka cacadane panggaweyanmu sing koktinggalake Aku.",
+  "translation": "Yahweh bakal ngukum ⟨את⟩ sumpah, ⟨את⟩ kagete lan ⟨את⟩ pacelathon ing sadhengah panggayuhing tanganmu sing bakal koklakoni, nganti kacilakakake lan nganti tumpes-tindhes cepet, amarga ala anggamumu sing kowé koktarkarak Aku.",
   "tokens": [
     {
       "surface": "ישלח",
-      "gloss": "nguncalake"
+      "gloss": "bakal ngukum"
     },
     {
       "surface": "יהוה",
@@ -17,46 +17,46 @@
     },
     {
       "surface": "בך",
-      "gloss": "marang kowe"
+      "gloss": "ing kowé"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinedhan"
+      "marks": "sumpah"
     },
     {
       "surface": "המארה",
-      "gloss": "sinedhan"
+      "gloss": "sumpah"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pahelan"
+      "marks": "kagete"
     },
     {
       "surface": "המהומה",
-      "gloss": "pahelan"
+      "gloss": "kagete"
     },
     {
       "surface": "ואת",
-      "gloss": "lan ⟨את⟩",
-      "marks": "wewarah"
+      "gloss": "lån ⟨את⟩",
+      "marks": "pacelathon"
     },
     {
       "surface": "המגערת",
-      "gloss": "wewarah"
+      "gloss": "pacelathon"
     },
     {
       "surface": "בכל",
-      "gloss": "ing sabarang"
+      "gloss": "ing sadhengah"
     },
     {
       "surface": "משלח",
-      "gloss": "panjenganan"
+      "gloss": "panggayuhan"
     },
     {
       "surface": "ידך",
-      "gloss": "tanmamu"
+      "gloss": "tanganmu"
     },
     {
       "surface": "אשר",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "kokgawe"
+      "gloss": "bakal koklakoni"
     },
     {
       "surface": "עד",
@@ -72,31 +72,31 @@
     },
     {
       "surface": "השמדך",
-      "gloss": "kesirnanmu"
+      "gloss": "kacilakakake"
     },
     {
       "surface": "ועד",
-      "gloss": "lan nganti"
+      "gloss": "lån nganti"
     },
     {
       "surface": "אבדך",
-      "gloss": "tinarjamahmu"
+      "gloss": "tumpes-tindhes"
     },
     {
       "surface": "מהר",
-      "gloss": "enggal"
+      "gloss": "cepet"
     },
     {
       "surface": "מפני",
-      "gloss": "amarga saka"
+      "gloss": "amarga"
     },
     {
       "surface": "רע",
-      "gloss": "cacade"
+      "gloss": "ala"
     },
     {
       "surface": "מעלליך",
-      "gloss": "panggaweyanmu"
+      "gloss": "anggamumu"
     },
     {
       "surface": "אשר",
@@ -104,9 +104,9 @@
     },
     {
       "surface": "עזבתני",
-      "gloss": "koktinggalake Aku"
+      "gloss": "kowé koktarkarak Aku"
     }
   ],
-  "timestamp": "2026-08-20T23:38:40.602700644Z",
+  "timestamp": "2026-08-24T05:44:54.373282745Z",
   "model": "glm-5.3"
 }

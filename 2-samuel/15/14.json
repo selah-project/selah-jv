@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 15,
-  "translation": "Lan Dawid ngandika marang kabeh abdine kang ⟨את⟩ ana karo dheweke ing Yerushalayim: Ayo tangi, padha ngungsia, awit ora bakal ana kalis kanggo kita saka praane Absyalom; enggala lunga, supaya aja dheweke enggal-enggal ngranggeh kita lan ngestokake ⟨את⟩ ala marang kita, lan ngestokake ⟨the⟩ kutha nganggo cucuke pedhang.",
+  "translation": "Lan Dawid ngendika marang kabeh abdi-abdine sing ana ⟨את⟩ karo dhekke ing Yerushalayim: Padha tangia, kapuripta lumayu; awit ora bakal ana panylametan kanggo kita saka ngarsane Awshalom; enggal-enggala lunga, supaya aja nganti dheweke enggal ngetutake lan ngluwari ⟨את⟩ piala marang kita, lan ngayahi ⟨the⟩ kutha miturut cangkeme pedhang.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lan ngandika"
+      "gloss": "Lan ngendika"
     },
     {
       "surface": "דוד",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "abdine"
+      "gloss": "abdi-abdine"
     },
     {
       "surface": "אשר",
-      "gloss": "kang"
+      "gloss": "sing"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ karo"
+      "gloss": "⟨את⟩ karo dhekke"
     },
     {
       "surface": "בירושלם",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "קומו",
-      "gloss": "ayo tangi"
+      "gloss": "Padha tangia"
     },
     {
-      "surface": "ו נברחה",
-      "gloss": "padha ngungsia"
+      "surface": "ונברחה",
+      "gloss": "kapuripta lumayu"
     },
     {
       "surface": "כי",
@@ -61,19 +61,19 @@
     },
     {
       "surface": "פליטה",
-      "gloss": "kalis"
+      "gloss": "panylametan"
     },
     {
       "surface": "מפני",
-      "gloss": "saka praane"
+      "gloss": "saka ngarsane"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Absyalom"
+      "gloss": "Awshalom"
     },
     {
       "surface": "מהרו",
-      "gloss": "enggala"
+      "gloss": "enggal-enggala"
     },
     {
       "surface": "ללכת",
@@ -81,19 +81,19 @@
     },
     {
       "surface": "פן",
-      "gloss": "supaya aja"
+      "gloss": "supaya aja nganti"
     },
     {
       "surface": "ימהר",
-      "gloss": "enggal-enggal"
+      "gloss": "dheweke enggal"
     },
     {
       "surface": "והשגנו",
-      "gloss": "ngranggeh kita"
+      "gloss": "ngetutake nyandhet kita"
     },
     {
       "surface": "והדיח",
-      "gloss": "ngestokake"
+      "gloss": "lan ngluwari"
     },
     {
       "surface": "עלינו",
@@ -102,15 +102,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ala"
+      "marks": "piala"
     },
     {
       "surface": "הרעה",
-      "gloss": "ala"
+      "gloss": "piala"
     },
     {
       "surface": "והכה",
-      "gloss": "ngestokake"
+      "gloss": "lan ngayahi"
     },
     {
       "surface": "העיר",
@@ -118,13 +118,13 @@
     },
     {
       "surface": "לפי",
-      "gloss": "cucuke"
+      "gloss": "miturut cangkeme"
     },
     {
       "surface": "חרב",
       "gloss": "pedhang"
     }
   ],
-  "timestamp": "2026-08-21T00:09:53.406244640Z",
+  "timestamp": "2026-08-24T05:50:11.671064206Z",
   "model": "glm-5.3"
 }

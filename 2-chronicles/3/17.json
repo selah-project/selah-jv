@@ -5,32 +5,32 @@
   "book": "2-chronicles",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Banjur ditagakake ⟨את⟩ sakabehing sakabehing ⟨את⟩ the pillars ing ngarsa ⟨the⟩ interior of the palace, siji ing tengen lan siji ing kiwa; banjur diwenehi asma ⟨the⟩ ing tengen Yakhin, lan asma ⟨the⟩ ing kiwa Boaz.",
+  "translation": "Banjur panjenengane ngadegake ⟨את⟩ sangangga-sangga (pilar) iku ing ngarepe padaleman (bait suci), siji ing tengen, siji ing kiwa; lan panjenengane menengakake jeneng sing tengen Yakhin, lan jeneng sing kiwa Boaz.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "ditagakake"
+      "gloss": "banjur panjenengane ngadegake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tiyang-tiyang ingkang samekta ingkang samekta"
+      "marks": "sangangga-sangga (pilar) iku"
     },
     {
       "surface": "העמודים",
-      "gloss": "the pillars"
+      "gloss": "sangangga-sangga (pilar) iku"
     },
     {
       "surface": "על",
-      "gloss": "ing ngarsa"
+      "gloss": "ing"
     },
     {
       "surface": "פני",
-      "gloss": "papan ngarepe"
+      "gloss": "ngarepe"
     },
     {
       "surface": "ההיכל",
-      "gloss": "istana\/ka'bah suci"
+      "gloss": "padaleman (bait suci)"
     },
     {
       "surface": "אחד",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "banjur diwenehi asma"
+      "gloss": "lan panjenengane menengakake"
     },
     {
       "surface": "שם",
-      "gloss": "asma"
+      "gloss": "jeneng"
     },
     {
       "surface": "הימיני",
-      "gloss": "ing tengen"
+      "gloss": "sing tengen"
     },
     {
       "surface": "יכין",
@@ -66,17 +66,17 @@
     },
     {
       "surface": "ושם",
-      "gloss": "lan asma"
+      "gloss": "lan jeneng"
     },
     {
       "surface": "השמאלי",
-      "gloss": "ing kiwa"
+      "gloss": "sing kiwa"
     },
     {
       "surface": "בעז",
       "gloss": "Boaz"
     }
   ],
-  "timestamp": "2026-08-21T03:31:57.200827301Z",
+  "timestamp": "2026-08-24T06:10:02.269787104Z",
   "model": "glm-5.3"
 }

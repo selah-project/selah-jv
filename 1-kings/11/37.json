@@ -5,24 +5,24 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 11,
-  "translation": "Lan ⟨את⟩ ⟨אתך⟩ dakjupuk, sira bakal jumeneng ratu ing saben-sabene sing dikarepake atimu, lan sira bakal dadi ratu ing sangising Yisrael.",
+  "translation": "Lan ⟨את⟩ sira Dakjupuk, sira bakal mrentah ing sabarang sing dikarepake jiwanira, lan sira dadi ratu ing atasira Israèl.",
   "tokens": [
     {
       "surface": "ואתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩",
-      "marks": "dakjupuk (sira)"
+      "gloss": "lan ⟨את⟩ sira",
+      "marks": "Dakjupuk (sira)"
     },
     {
       "surface": "אקח",
-      "gloss": "dakjupuk"
+      "gloss": "Dakjupuk"
     },
     {
       "surface": "ומלכת",
-      "gloss": "sira bakal jumeneng ratu"
+      "gloss": "lan sira mrentah"
     },
     {
       "surface": "בכל",
-      "gloss": "ing saben-sabene"
+      "gloss": "ing sabarang"
     },
     {
       "surface": "אשר",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "atimu"
+      "gloss": "jiwanira"
     },
     {
       "surface": "והיית",
-      "gloss": "lan sira bakal dadi"
+      "gloss": "lan sira dadi"
     },
     {
       "surface": "מלך",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "על",
-      "gloss": "ing sangising"
+      "gloss": "ing atasira"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israèl"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.956274055Z",
+  "timestamp": "2026-08-24T05:51:59.035949019Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 32,
-  "translation": "Lan Yahweh nglarahi ⟨את⟩ ⟨the⟩ bangsa amarga saka sing wis padha digawe ⟨את⟩ ⟨the⟩ pedhet, sing digawe Aharon.",
+  "translation": "Banjur Yahweh nyerang ⟨את⟩ bangsa iku, amarga dhèwèké nggawe ⟨את⟩ pedhet saka emas, sing digawe dening Aharon.",
   "tokens": [
     {
       "surface": "ויגף",
-      "gloss": "Lan nglarahi"
+      "gloss": "nyerang"
     },
     {
       "surface": "יהוה",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ bangsa"
+      "marks": "bangsa iku"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ bangsa"
+      "gloss": "bangsa iku"
     },
     {
       "surface": "על",
-      "gloss": "amarga saka"
+      "gloss": "amarga"
     },
     {
       "surface": "אשר",
@@ -34,16 +34,16 @@
     },
     {
       "surface": "עשו",
-      "gloss": "wis padha digawe"
+      "gloss": "dhèwèké nggawe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ pedhet"
+      "marks": "pedhet saka emas"
     },
     {
       "surface": "העגל",
-      "gloss": "⟨the⟩ pedhet"
+      "gloss": "pedhet saka emas"
     },
     {
       "surface": "אשר",
@@ -58,6 +58,6 @@
       "gloss": "Aharon"
     }
   ],
-  "timestamp": "2026-08-20T23:06:01.884298850Z",
+  "timestamp": "2026-08-24T05:37:55.826557837Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Lan menawa ⟨⟨iku⟩⟩ kewan sing diwenehake saka awake dadi persembahan korban marang Yahweh, kabeh sing diwenehake saka kewan kasebut marang Yahweh bakal dadi suci.",
+  "translation": "Lan manawa ⟨iku⟩ kewan saka kang bisa padha digawa cedhak minangka persembahan marang Yahweh, sabarang sing diwenehake saka kuwi marang Yahweh bakal dadi suci.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "lan menawa"
+      "gloss": "lan manawa"
     },
     {
       "surface": "בהמה",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "saka kang"
     },
     {
       "surface": "יקריבו",
-      "gloss": "diwenehake dadi persembahan"
+      "gloss": "padha digawa cedhak"
     },
     {
       "surface": "ממנה",
-      "gloss": "saka awake"
+      "gloss": "minangka persembahan saka kuwi"
     },
     {
       "surface": "קרבן",
-      "gloss": "korban"
+      "gloss": "persembahan"
     },
     {
       "surface": "ליהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "sabarang"
     },
     {
       "surface": "אשר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "saka kewan kasebut"
+      "gloss": "saka kuwi"
     },
     {
       "surface": "ליהוה",
@@ -64,6 +64,6 @@
       "gloss": "suci"
     }
   ],
-  "timestamp": "2026-08-20T23:18:16.375271521Z",
+  "timestamp": "2026-08-24T05:40:38.634447008Z",
   "model": "glm-5.3"
 }

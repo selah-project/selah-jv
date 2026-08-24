@@ -5,33 +5,34 @@
   "book": "ruth",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan padha ngucap marang dheweke: Saktemene ⟨⟨את⟩ ⟨אתך⟩⟩ bakal tak bali, menyang ummatmu.",
+  "translation": "Lan padha munjuk marang ⟦dheweke⟧: 'Satemene ⟨את⟩ kula bakal bali menyang ing bangsamu.'",
   "tokens": [
     {
       "surface": "ותאמרנה",
-      "gloss": "lan padha ngucap"
+      "gloss": "lan padha munjuk"
     },
     {
       "surface": "לה",
-      "gloss": "marang dheweke"
+      "gloss": "marang ⟨dia⟩"
     },
     {
       "surface": "כי",
-      "gloss": "saktemene"
+      "gloss": "satemene"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩"
+      "gloss": "⟨את⟩ kula... bareng",
+      "marks": "bareng karo sira (kula)"
     },
     {
       "surface": "נשוב",
-      "gloss": "bakal tak bali"
+      "gloss": "bali"
     },
     {
       "surface": "לעמך",
-      "gloss": "menyang ummatmu"
+      "gloss": "menyang ing bangsamu"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.665375681Z",
+  "timestamp": "2026-08-24T06:06:45.062113624Z",
   "model": "glm-5.3"
 }

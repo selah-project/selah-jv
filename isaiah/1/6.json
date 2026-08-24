@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Saka telapake sikil nganti sirah, ora ana sing waras ing awake; tatu lan memar lan pukulan seger ⟨⟨ora⟩⟩ diperes, ⟨⟨ora⟩⟩ diikat, lan ⟨⟨ora⟩⟩ dilunakake nganggo lenga.",
+  "translation": "Saka telapak sikil nganti sirah, ora ana ing awake sing sehat — luka lan memar lan pukulan sing isih seger: ora dipun-press-closed, ora dibalut, lan ora dilembekake mawa lenga.",
   "tokens": [
     {
       "surface": "מכף",
-      "gloss": "saka telapake"
+      "gloss": "saka telapak"
     },
     {
       "surface": "רגל",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מתם",
-      "gloss": "sing waras"
+      "gloss": "sing sehat"
     },
     {
       "surface": "פצע",
-      "gloss": "tatu"
+      "gloss": "luka"
     },
     {
       "surface": "וחבורה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "טריה",
-      "gloss": "seger"
+      "gloss": "isih seger"
     },
     {
       "surface": "לא",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "זרו",
-      "gloss": "diperes"
+      "gloss": "dipun-press-closed"
     },
     {
       "surface": "ולא",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "חבשו",
-      "gloss": "diikat"
+      "gloss": "dibalut"
     },
     {
       "surface": "ולא",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "רככה",
-      "gloss": "dilunakake"
+      "gloss": "dilembekake"
     },
     {
       "surface": "בשמן",
-      "gloss": "nganggo lenga"
+      "gloss": "mawa lenga"
     }
   ],
-  "timestamp": "2026-08-21T00:31:59.767363807Z",
+  "timestamp": "2026-08-24T05:53:16.693011079Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 26,
-  "translation": "Banjur Dawid ngandika marang Avner: Apa ora kowé ⟨is⟩ wong lan sapa sing padha kowé ing Israel? Kadospundi dene kowé ora njaga marang bendaranmu, ⟨the⟩ ratu iku? Awit ana wong saka ⟨the⟩ wong akeh teka arep ngrusak ⟨את⟩ ratu iku, bendaranmu.",
+  "translation": "Banjur Dawid ngandika marang Avner: Apa kowé dudu lanang? lan sapa kang padha kowé ing Israel? mulané apa ora kokjaga bendaramu sang raja? Awit ana wong saka wong akèh teka arep ngrusak ⟨את⟩ sang raja, bendaramu iku.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "wong"
+      "gloss": "lanang"
     },
     {
       "surface": "אתה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כמוך",
-      "gloss": "sing padha kowé"
+      "gloss": "kang padha kowé"
     },
     {
       "surface": "בישראל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ולמה",
-      "gloss": "kadospundi dene"
+      "gloss": "mulané apa"
     },
     {
       "surface": "לא",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "שמרת",
-      "gloss": "kowé njaga"
+      "gloss": "kokjaga"
     },
     {
       "surface": "אל",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "אדניך",
-      "gloss": "bendaranmu"
+      "gloss": "bendaramu"
     },
     {
       "surface": "המלך",
-      "gloss": "ratu iku"
+      "gloss": "sang raja"
     },
     {
       "surface": "כי",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "אחד",
-      "gloss": "siji"
+      "gloss": "wong siji"
     },
     {
       "surface": "העם",
-      "gloss": "saka wong akeh"
+      "gloss": "saka wong akèh"
     },
     {
       "surface": "להשחית",
@@ -94,17 +94,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ratu iku"
+      "marks": "sang raja"
     },
     {
       "surface": "המלך",
-      "gloss": "ratu iku"
+      "gloss": "sang raja"
     },
     {
       "surface": "אדניך",
-      "gloss": "bendaranmu"
+      "gloss": "bendaramu iku"
     }
   ],
-  "timestamp": "2026-08-21T00:05:04.169455775Z",
+  "timestamp": "2026-08-24T05:48:25.950394441Z",
   "model": "glm-5.3"
 }

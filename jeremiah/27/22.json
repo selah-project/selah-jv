@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Bakal diawa menyang Bavel, lan ing kono bakal padha nganti ing dinané Dakpekoki ⟨את⟩ ⟨אתם⟩ — pangandikané Yahweh — banjur Dakunggahaké lan Dakbalekaké menyang panggonan iki.",
+  "translation": "Marang Babel ⟨┤├ wong-wong mau⟩ bakal digawa lan ing kono bakal ana nganti dinane dakpunggahi ⟨את⟩ ⟨אתם⟩ — pranyata saka Yahweh — lan dakunggahake lan dakbalikake menyang panggonan iki.",
   "tokens": [
     {
       "surface": "בבלה",
-      "gloss": "menyang Bavel"
+      "gloss": "Marang Babel"
     },
     {
       "surface": "יובאו",
-      "gloss": "bakal diawa"
+      "gloss": "bakal digawa"
     },
     {
       "surface": "ושמה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "bakal padha"
+      "gloss": "bakal ana"
     },
     {
       "surface": "עד",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "יום",
-      "gloss": "ing dinané"
+      "gloss": "dinane"
     },
     {
       "surface": "פקדי",
-      "gloss": "Dakpekoki"
+      "gloss": "dakpunggahi"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "prabot-prabot wau"
+      "marks": "prabot-prabot mau (ing tembung Jawa: prabot-prabot sing isih ana)"
     },
     {
       "surface": "נאם",
-      "gloss": "pangandikané"
+      "gloss": "pranyata saka"
     },
     {
       "surface": "יהוה",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "והעליתים",
-      "gloss": "banjur Dakunggahaké"
+      "gloss": "lan dakunggahake"
     },
     {
       "surface": "והשיבתים",
-      "gloss": "lan Dakbalekaké"
+      "gloss": "lan dakbalikake"
     },
     {
       "surface": "אל",
@@ -69,6 +69,6 @@
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.603734773Z",
+  "timestamp": "2026-08-24T12:34:18.469390176Z",
   "model": "glm-5.3"
 }

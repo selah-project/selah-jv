@@ -5,27 +5,27 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan uga marang wong asing ⟨⟨sijine⟩⟩ sing dudu saka ummatmu Isra'el iku, teka saka nagara adoh amarga Asmamu —",
+  "translation": "Lan uga dhumateng wong sang sapa ⟨sang⟩ ora saka ummatmu Yisrael dhewe, lan teka saka nagara adoh amarga Asmamuh",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "lan uga"
+      "gloss": "Lan uga"
     },
     {
       "surface": "אל",
-      "gloss": "marang"
+      "gloss": "dhumateng"
     },
     {
       "surface": "הנכרי",
-      "gloss": "wong asing"
+      "gloss": "wong sang sapa"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "⟨-⟩"
     },
     {
       "surface": "לא",
-      "gloss": "dudu"
+      "gloss": "ora"
     },
     {
       "surface": "מעמך",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isra'el"
+      "gloss": "Yisrael"
     },
     {
       "surface": "הוא",
-      "gloss": "iku"
+      "gloss": "dhewe"
     },
     {
       "surface": "ובא",
-      "gloss": "teka"
+      "gloss": "lan teka"
     },
     {
       "surface": "מארץ",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "שמך",
-      "gloss": "Asmamu"
+      "gloss": "Asmamuh"
     }
   ],
-  "timestamp": "2026-08-21T00:18:16.786543259Z",
+  "timestamp": "2026-08-24T05:51:46.065442074Z",
   "model": "glm-5.3"
 }

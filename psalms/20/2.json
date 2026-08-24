@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 20,
-  "translation": "Yahweh munggahi wangsulan-mu ing dina sikara; asma ⟨⟨Elohim⟩⟩-e Yaakov nangingungkung.",
+  "translation": "Muga Yahweh mrayu ing dina sangsara; asma Elining Yaakov munggahake dhewe dhuwur;",
   "tokens": [
     {
       "surface": "יענך",
-      "gloss": "munggahi wangsulan-mu"
+      "gloss": "muga ... mrayu"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "צרה",
-      "gloss": "sikara"
+      "gloss": "sangsara"
     },
     {
       "surface": "ישגבך",
-      "gloss": "nangingungkung"
+      "gloss": "munggahake dhewe dhuwur"
     },
     {
       "surface": "שם",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim-e"
+      "gloss": "Elining"
     },
     {
       "surface": "יעקב",
       "gloss": "Yaakov"
     }
   ],
-  "timestamp": "2026-08-21T01:44:14.388615533Z",
+  "timestamp": "2026-08-24T06:02:11.947078776Z",
   "model": "glm-5.3"
 }

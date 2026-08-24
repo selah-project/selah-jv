@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 21,
-  "translation": "Lan menawa wong nutuh ⟨את⟩ abdi lanang-e utawa ⟨את⟩ abdi wadon-e nganggo gada, lan ⟨⟨iku⟩ mati ing sangisore tangan-e, dendha mesthi didhendha.",
+  "translation": "Lan yen ana wong nuthuk ⟨את⟩ abdine utawa ⟨את⟩ abdine wadon nganggo gada, lan ⟨iye⟩ mati sangisore tangane, mesthi diukum.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "lan menawa"
+      "gloss": "lan yen"
     },
     {
       "surface": "יכה",
-      "gloss": "nutuh"
+      "gloss": "nuthuk"
     },
     {
       "surface": "איש",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abdi lanang-e"
+      "marks": "abdine"
     },
     {
       "surface": "עבדו",
-      "gloss": "abdi lanang-e"
+      "gloss": "abdine"
     },
     {
       "surface": "או",
@@ -35,11 +35,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "abdi wadon-e"
+      "marks": "abdine wadon"
     },
     {
       "surface": "אמתו",
-      "gloss": "abdi wadon-e"
+      "gloss": "abdine wadon"
     },
     {
       "surface": "בשבט",
@@ -51,21 +51,21 @@
     },
     {
       "surface": "תחת",
-      "gloss": "ing sangisore"
+      "gloss": "sangisore"
     },
     {
       "surface": "ידו",
-      "gloss": "tangan-e"
+      "gloss": "tangane"
     },
     {
       "surface": "נקם",
-      "gloss": "dendha"
+      "gloss": "mesthi diukum"
     },
     {
       "surface": "ינקם",
-      "gloss": "mesthi didhendha"
+      "gloss": "diukum"
     }
   ],
-  "timestamp": "2026-08-20T23:03:07.311889715Z",
+  "timestamp": "2026-08-24T05:36:30.273772322Z",
   "model": "glm-5.3"
 }

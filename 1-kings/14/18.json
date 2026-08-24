@@ -5,31 +5,32 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 14,
-  "translation": "Lan ⟨wong-wong⟩ ngorakake ⟨את⟩ mengko, sarta kabeh Israyel ngluhurake ⟨ו⟩; miturut sabda Yahweh sing wus Ibackandhakake lumantar tangané abdiné Ajiyahu sang nabi.",
+  "translation": "Lan sawise padha ngejurekake ⟨את⟩ sira, banjur padha nandhang tangis kanggo sira, sakabehane Yisrael, miturut sabda Yahweh sing wus dicaturake lumantar tangané abdiné Ahiyahu sang nabi.",
   "tokens": [
     {
       "surface": "ויקברו",
-      "gloss": "niorakake"
+      "gloss": "lan padha ngejurekake"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "sira"
     },
     {
       "surface": "ויספדו",
-      "gloss": "nluhurake"
+      "gloss": "banjur padha nandhang tangis"
     },
     {
       "surface": "לו",
-      "gloss": "kanggo"
+      "gloss": "kanggo sira"
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "sakabehane"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israyel"
+      "gloss": "Yisrael"
     },
     {
       "surface": "כדבר",
@@ -45,7 +46,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "wus Ibackandhakake"
+      "gloss": "wus dicaturake"
     },
     {
       "surface": "ביד",
@@ -53,17 +54,17 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "abdinéé"
+      "gloss": "abdiné"
     },
     {
       "surface": "אחיהו",
-      "gloss": "Ajiyahu"
+      "gloss": "Ahiyahu"
     },
     {
       "surface": "הנביא",
       "gloss": "sang nabi"
     }
   ],
-  "timestamp": "2026-08-21T00:20:02.939913875Z",
+  "timestamp": "2026-08-24T05:51:32.796060204Z",
   "model": "glm-5.3"
 }

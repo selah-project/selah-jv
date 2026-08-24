@@ -5,8 +5,33 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 12,
-  "translation": "Ezer sing kapindho",
-  "tokens": [],
-  "timestamp": "2026-08-21T03:20:55.411966584Z",
+  "translation": "Ezer sang kapisan, Ovadyah kapindho, Eliab katelu.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "sang kapisan"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "kapindho"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "katelu"
+    }
+  ],
+  "timestamp": "2026-08-24T06:09:46.439958009Z",
   "model": "glm-5.3"
 }

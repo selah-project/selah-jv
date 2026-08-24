@@ -5,51 +5,56 @@
   "book": "ecclesiastes",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Kula ngandika ing sajroning atiku bab jalaranipun para putranipun manusa: supados haElohim njiwata dhèwèké, lan supados karsa dhèwèké yen ⟨⟨awaké pribadi⟩⟩ punika kaya kéwan – bok-menawa mligi punika.",
+  "translation": "Aku dhewe ngandika ing atiku: babagan para putra manungsa, supaya Allah nuju nyaring ⟨את⟩ dheweke — supaya mulat yèn awake dhewe kaya-kaya kéwan, awake dhewe.",
   "tokens": [
     {
       "surface": "אמרתי",
-      "gloss": "kula ngandika"
+      "gloss": "aku ngandika"
     },
     {
       "surface": "אני",
-      "gloss": "aku"
+      "gloss": "aku dhewe"
     },
     {
       "surface": "בלבי",
-      "gloss": "ing sajroning atiku"
+      "gloss": "ing atiku"
     },
     {
       "surface": "על",
-      "gloss": "bab"
+      "gloss": "babagan"
     },
     {
       "surface": "דברת",
-      "gloss": "jalaranipun"
+      "gloss": "perkarane"
     },
     {
       "surface": "בני",
-      "gloss": "para putranipun"
+      "gloss": "para putra"
     },
     {
       "surface": "האדם",
-      "gloss": "manusa"
+      "gloss": "manungsa"
     },
     {
       "surface": "לברם",
-      "gloss": "supados ... njiwata dhèwèké"
+      "gloss": "supaya nyaring"
     },
     {
       "surface": "האלהים",
-      "gloss": "haElohim"
+      "gloss": "Elohim"
     },
     {
-      "surface": "ו לראות",
-      "gloss": "lan supados karsa"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (para putra manungsa)"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "lan supaya mulat"
     },
     {
       "surface": "שהם",
-      "gloss": "yen ... punika"
+      "gloss": "yèn awake dhewe"
     },
     {
       "surface": "בהמה",
@@ -57,13 +62,13 @@
     },
     {
       "surface": "המה",
-      "gloss": "dhèwèké"
+      "gloss": "awake dhewe"
     },
     {
       "surface": "להם",
-      "gloss": "tumrap dhèwèké"
+      "gloss": "kanggo awake dhewe"
     }
   ],
-  "timestamp": "2026-08-21T02:47:18.956473945Z",
+  "timestamp": "2026-08-24T06:07:00.002192252Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan ⟨⟨ia⟩⟩ munjuk marang wong-wong mau: Aku wong Ibrani, lan Yahweh, Elohime ⟨⟨langit⟩⟩, aku nakluk ing Patelange, kang nitahake ⟨את⟩ segara lan ⟨את⟩ dharatan garing.",
+  "translation": "Lan dheweke matur marang wong-wong mau: Aku wong Ibrani, lan aku wedi marang ⟨את⟩ Yahweh, Elohime langit, sing nitahake ⟨את⟩ sagara lan ⟨את⟩ dharatan garing.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lunthuk munjuk"
+      "gloss": "Lan dheweke matur"
     },
     {
       "surface": "אליהם",
@@ -45,12 +45,12 @@
       "gloss": "aku"
     },
     {
-      "surface": "יירא",
-      "gloss": "nakluk ing Patelange"
+      "surface": "ירא",
+      "gloss": "wedi"
     },
     {
       "surface": "אשר",
-      "gloss": "kang"
+      "gloss": "sing"
     },
     {
       "surface": "עשה",
@@ -59,11 +59,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "segara"
+      "marks": "sagara"
     },
     {
       "surface": "הים",
-      "gloss": "segara"
+      "gloss": "sagara"
     },
     {
       "surface": "ואת",
@@ -75,6 +75,6 @@
       "gloss": "dharatan garing"
     }
   ],
-  "timestamp": "2026-08-21T01:31:30.057340619Z",
+  "timestamp": "2026-08-24T06:01:03.557134796Z",
   "model": "glm-5.3"
 }

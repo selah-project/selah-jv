@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 114,
-  "translation": "Nalika Israyel metu saka Mesir, umahé Yaakov saka bangsa sing basane机型 lia,",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:03:51.125542358Z",
+  "translation": "Nalika Israyel metu saka Mesir, bani Yaakov saka umat sing basane angel diremehake.",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "nalika metu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "saka Mesir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bani"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "saka umat"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "sing basane asing"
+    }
+  ],
+  "timestamp": "2026-08-24T06:03:40.737197427Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Banjur ratu Ashur munggah ngliwati ⟨the⟩ sadawaning tanah, lan munggah marang Shomeron, lan ngepung ⟨terhadap⟩ iku ⟨for⟩ telung taun.",
+  "translation": "Banjur sang raja Ashur munggah nglwati sakabehing bumi, lan munggah manggota Samaria, lan nglumpuki telung taun.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "banjur munggah"
+      "gloss": "munggah"
     },
     {
       "surface": "מלך",
-      "gloss": "ratu"
+      "gloss": "raja"
     },
     {
       "surface": "אשור",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "sadawaning"
+      "gloss": "ing sadaya"
     },
     {
       "surface": "הארץ",
-      "gloss": "tanah"
+      "gloss": "bumi"
     },
     {
       "surface": "ויעל",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "שמרון",
-      "gloss": "Shomeron"
+      "gloss": "Samaria"
     },
     {
       "surface": "ויצר",
-      "gloss": "ngepung"
+      "gloss": "nglumpuki"
     },
     {
       "surface": "עליה",
-      "gloss": "terhadap iku"
+      "gloss": "nadhapi"
     },
     {
       "surface": "שלש",
@@ -52,6 +52,6 @@
       "gloss": "taun"
     }
   ],
-  "timestamp": "2026-08-21T00:29:06.546414961Z",
+  "timestamp": "2026-08-24T05:52:24.898952197Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan ana ⟨⟨iku⟩⟩ wong siji saka Ramataim-Tsophim, saka redi Apfrayim, lan asmane Elqanah, putrane Yerokham, putrane Elihu, putrane Tokhu, putrane Tsuph, wong Efrati.",
+  "translation": "Lan ana ⟨⟨is⟩⟩ wong siji saka Ramataim-Tsopim, ing redi Efrayim, lan asmane Elkana, putrane Yerokham, putrane Elihu, putrane Tokhu, putrane Tsuph, wong Efrati.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "lan ana"
+      "gloss": "Lan ana"
     },
     {
       "surface": "איש",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "צופים",
-      "gloss": "Tsophim"
+      "gloss": "Tsopim"
     },
     {
       "surface": "מהר",
-      "gloss": "saka redi"
+      "gloss": "ing redi"
     },
     {
       "surface": "אפרים",
-      "gloss": "Apfrayim"
+      "gloss": "Efrayim"
     },
     {
       "surface": "ושמו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אלקנה",
-      "gloss": "Elqanah"
+      "gloss": "Elkana"
     },
     {
       "surface": "בן",
@@ -84,6 +84,6 @@
       "gloss": "wong Efrati"
     }
   ],
-  "timestamp": "2026-08-20T23:56:20.630425826Z",
+  "timestamp": "2026-08-24T05:46:29.685792965Z",
   "model": "glm-5.3"
 }

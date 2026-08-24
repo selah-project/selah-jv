@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan sing kaping sepuluh ing asta ⟨⟨yaiku⟩⟩ kerub kang kapindho: siji ukurané lan siji wanguné kanggo loro kerub-kerub iku.",
+  "translation": "Lan sapuluh asta ⟨⟨iku⟩⟩ kerub sing kapindho; ukuran siji lan wangun siji kanggo kalorone kerub.",
   "tokens": [
     {
       "surface": "ועשר",
-      "gloss": "lan sepuluh"
+      "gloss": "lan sapuluh"
     },
     {
       "surface": "באמה",
-      "gloss": "ing asta"
+      "gloss": "asta"
     },
     {
       "surface": "הכרוב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "השני",
-      "gloss": "kang kapindho"
+      "gloss": "sing kapindho"
     },
     {
       "surface": "מדה",
-      "gloss": "ukurané"
+      "gloss": "ukuran"
     },
     {
       "surface": "אחת",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וקצב",
-      "gloss": "lan wanguné"
+      "gloss": "lan wangun"
     },
     {
       "surface": "אחד",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "לשני",
-      "gloss": "kanggo loro"
+      "gloss": "kanggo kalorone"
     },
     {
       "surface": "הכרבים",
-      "gloss": "kerub-kerub iku"
+      "gloss": "kerub"
     }
   ],
-  "timestamp": "2026-08-21T00:16:49.205280825Z",
+  "timestamp": "2026-08-24T05:51:09.848455446Z",
   "model": "glm-5.3"
 }

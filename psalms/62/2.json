@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 62,
-  "translation": "Mung marang Elohim jiwaku meneng ⟨⟨⟩⟩; saka Panjenengane kaslametanku.",
+  "translation": "Mung marang Elohim waé atinku meneng; saka Panjenengane teka kaslametanku.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "mung"
+      "gloss": "mung…waé"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "jiwaku"
+      "gloss": "atinku (nyawaku)"
     },
     {
       "surface": "ממנו",
@@ -36,6 +36,6 @@
       "gloss": "kaslametanku"
     }
   ],
-  "timestamp": "2026-08-21T01:52:23.398882134Z",
+  "timestamp": "2026-08-24T06:03:08.520310381Z",
   "model": "glm-5.3"
 }

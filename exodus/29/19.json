@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 29,
-  "translation": "Lan kowe njupuk ⟨את⟩ wedhus jantan sing kapindho, lan Aharon lan anak-anake ndhemenke ⟨את⟩ tangan-tangane marang mustha ⟨the⟩ wedhus jantan iku.",
+  "translation": "Lan kowe njupuk ⟨את⟩ domba jantan kapindho iku, lan Aharon lan anak-anaké nglenggahaké ⟨את⟩ tangan-tangané ing endhas domba jantan iku.",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -14,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wedhus jantan"
+      "marks": "domba jantan kapindho iku"
     },
     {
       "surface": "האיל",
-      "gloss": "wedhus jantan"
+      "gloss": "domba jantan"
     },
     {
       "surface": "השני",
-      "gloss": "sing kapindho"
+      "gloss": "kapindho iku"
     },
     {
       "surface": "וסמך",
-      "gloss": "lan ... ndhemenke"
+      "gloss": "lan nglenggahaké"
     },
     {
       "surface": "אהרן",
@@ -34,30 +34,30 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "lan anak-anake"
+      "gloss": "lan anak-anaké"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tangan-tangane"
+      "marks": "tangan-tangané"
     },
     {
       "surface": "ידיהם",
-      "gloss": "tangan-tangane"
+      "gloss": "tangan-tangané"
     },
     {
       "surface": "על",
-      "gloss": "marang"
+      "gloss": "ing"
     },
     {
       "surface": "ראש",
-      "gloss": "mustha"
+      "gloss": "endhas"
     },
     {
       "surface": "האיל",
-      "gloss": "wedhus jantan iku"
+      "gloss": "domba jantan iku"
     }
   ],
-  "timestamp": "2026-08-20T23:05:46.058298030Z",
+  "timestamp": "2026-08-24T05:37:03.237605087Z",
   "model": "glm-5.3"
 }

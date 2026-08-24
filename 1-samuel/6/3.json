@@ -5,36 +5,36 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan padha ngucap: Menawa kowé nguluhake ⟨את⟩ petune Elohim-Israèl, aja kok nguluhake ⟨את⟩-é kosong, awit nuwasa kowé nglawuake marang Panjenengane sesuluh (אשם); banjur kowé bakal mari, lan bakal kaweruhan marang kowé kenapa astané ora minggah saka ing kowé.",
+  "translation": "Lan padha ngucap: Menawa kowe ngirim ⟨את⟩ peti perjanjianane Elohime Yisrael, aja ngirim ⟨את⟩ iku kanthi kosong, awit prayoga padha mbalekake dhewek marang Panjenengane sesadjarah salahe; banjur kowe bakal mari, lan bakal kawedhar marang kowe kenapa tangané ora bakal mundur saka ing kowe.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Lan padha ngucap"
+      "gloss": "padha ngucap"
     },
     {
       "surface": "אם",
-      "gloss": "Menawa"
+      "gloss": "menawa"
     },
     {
       "surface": "משלחים",
-      "gloss": "kowé nguluhake"
+      "gloss": "kowe ngirim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "petune"
+      "marks": "peti perjanjianane Elohime Yisrael"
     },
     {
       "surface": "ארון",
-      "gloss": "petune"
+      "gloss": "peti perjanjian"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim-"
+      "gloss": "Elohime"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israèl"
+      "gloss": "Yisrael"
     },
     {
       "surface": "אל",
@@ -42,16 +42,16 @@
     },
     {
       "surface": "תשלחו",
-      "gloss": "kok nguluhake"
+      "gloss": "kowe ngirim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-é",
-      "marks": "kosong"
+      "gloss": "⟨את⟩",
+      "marks": "iku"
     },
     {
       "surface": "ריקם",
-      "gloss": "kosong"
+      "gloss": "kanthi kosong"
     },
     {
       "surface": "כי",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "השב",
-      "gloss": "nuwasa"
+      "gloss": "prayoga mbalekake"
     },
     {
       "surface": "תשיבו",
-      "gloss": "kowé nglawuake"
+      "gloss": "padha mbalekake dhewek"
     },
     {
       "surface": "לו",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "אשם",
-      "gloss": "sesuluh"
+      "gloss": "sesadjarah salahe"
     },
     {
       "surface": "אז",
@@ -79,15 +79,15 @@
     },
     {
       "surface": "תרפאו",
-      "gloss": "kowé bakal mari"
+      "gloss": "kowe bakal mari"
     },
     {
       "surface": "ונודע",
-      "gloss": "lan bakal kaweruhan"
+      "gloss": "bakal kawedhar"
     },
     {
       "surface": "לכם",
-      "gloss": "marang kowé"
+      "gloss": "marang kowe"
     },
     {
       "surface": "למה",
@@ -99,17 +99,17 @@
     },
     {
       "surface": "תסור",
-      "gloss": "minggah"
+      "gloss": "bakal mundur"
     },
     {
       "surface": "ידו",
-      "gloss": "astané"
+      "gloss": "tangané"
     },
     {
       "surface": "מכם",
-      "gloss": "saka ing kowé"
+      "gloss": "saka ing kowe"
     }
   ],
-  "timestamp": "2026-08-20T23:57:50.086037340Z",
+  "timestamp": "2026-08-24T05:48:43.273074553Z",
   "model": "glm-5.3"
 }

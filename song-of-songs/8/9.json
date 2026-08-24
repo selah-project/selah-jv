@@ -5,11 +5,11 @@
   "book": "song-of-songs",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Yen dheweke ⟨⟨iku⟩⟩ tembok, kita yasa ing dhuwure menara saka perak; lan yen dheweke lawang, kita kurungi dheweke karo papan saka ares.",
+  "translation": "Menawa dheweke ⟨iku⟩ tembok, kita yasa ing sandhuwure menara saka perak; lan menawa dheweke ⟨iku⟩ lawang, kita kurungi ⟨dheweke⟩ ing sandhuwure papan saka ares.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "yen"
+      "gloss": "menawa"
     },
     {
       "surface": "חומה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "⟨iku⟩"
+      "gloss": "⟨iku⟩ dheweke"
     },
     {
       "surface": "נבנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "ing dhuwure"
+      "gloss": "ing sandhuwure"
     },
     {
       "surface": "טירת",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ואם",
-      "gloss": "lan yen"
+      "gloss": "lan menawa"
     },
     {
       "surface": "דלת",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "dheweke"
+      "gloss": "⟨iku⟩ dheweke"
     },
     {
       "surface": "נצור",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "dheweke"
+      "gloss": "ing sandhuwure ⟨dheweke⟩"
     },
     {
       "surface": "לוח",
@@ -64,6 +64,6 @@
       "gloss": "saka ares"
     }
   ],
-  "timestamp": "2026-08-21T02:41:11.177696566Z",
+  "timestamp": "2026-08-24T06:07:09.432358035Z",
   "model": "glm-5.3"
 }

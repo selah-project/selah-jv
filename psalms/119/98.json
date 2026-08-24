@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 119,
-  "translation": "Saka mungsuh-mungsuhku prenta-prenta-Mu ndadekake aku wicara: awit ing salawas-lawase sanggane kumelun aku.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:05:54.463968841Z",
+  "translation": "Saka mungsuh-mungsuhku, mitonton-Mu ndadekake kula wicara; awit salami-lawasé ⟨iku⟩ kagungan kula.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "saka mungsuh-mungsuhku"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "ndadekake kula wicara"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "mitonton-Mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salami-lawasé"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨iku⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kagungan kula"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:37.229801826Z",
   "model": "glm-5.3"
 }

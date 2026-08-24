@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 108,
-  "translation": "Dhuwurana, ya Elohim, ing sadhuwure langit, lan ing sadhuwure ⟨the⟩ bumi kabeh kemujaan-Mu.",
+  "translation": "Dhuwurana dhewe ing dhuwure langit, wahai Elohim, lan ing dhuwure bumi kabeh kamulyan-Mu",
   "tokens": [
     {
       "surface": "רומה",
-      "gloss": "dhuwurana"
+      "gloss": "dhuwurana dhewe"
     },
     {
       "surface": "על",
-      "gloss": "ing sadhuwure"
+      "gloss": "ing dhuwure"
     },
     {
       "surface": "שמים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "lan ing sadhuwure"
+      "gloss": "lan ing dhuwure"
     },
     {
       "surface": "כל",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "כבודך",
-      "gloss": "kemujaan-Mu"
+      "gloss": "kamulyan-Mu"
     }
   ],
-  "timestamp": "2026-08-21T02:03:54.877424902Z",
+  "timestamp": "2026-08-24T06:03:51.906429783Z",
   "model": "glm-5.3"
 }

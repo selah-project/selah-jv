@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 23,
-  "translation": "Lan ing dinane nalika kowé ngunjunjaké ⟨את⟩ ⟨the⟩ omér, kowé nindakaké kurban: domba lanang sampurna umur setaun, dadi kurban obong kanggo Yahweh.",
+  "translation": "Lan kowe nglakoni ing dinane bareng kowe ngunjukake ⟨את⟩ ⟨the⟩ omer: domba lanang sampurna, umur setaun, dadi kurban obong marang Yahweh.",
   "tokens": [
     {
       "surface": "ועשיתם",
-      "gloss": "lan kowé nindakaké"
+      "gloss": "Lan kowe nglakoni"
     },
     {
       "surface": "ביום",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "הניפכם",
-      "gloss": "nalika ngunjunjaké"
+      "gloss": "bareng kowe ngunjukake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ omér"
+      "marks": "⟨the⟩ omer"
     },
     {
       "surface": "העמר",
-      "gloss": "⟨the⟩ omér"
+      "gloss": "⟨the⟩ omer"
     },
     {
       "surface": "כבש",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "umur"
+      "gloss": "anak\/umur"
     },
     {
       "surface": "שנתו",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "kanggo Yahweh"
+      "gloss": "marang Yahweh"
     }
   ],
-  "timestamp": "2026-08-20T23:15:54.750436136Z",
+  "timestamp": "2026-08-24T05:39:40.983863246Z",
   "model": "glm-5.3"
 }

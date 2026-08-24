@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Banjur Paroh nimbali marang Moshe lan marang Aharon, lan ngendika: Padha tindaka, padha nyembelih kurban marang Elohimira ing ⟨the⟩ tanah iku.",
+  "translation": "Banjur Paroh ngundang ⟨את⟩ Moshe lan ⟨את⟩ Aharon, banjur ngandika: Padha tindaka, kurbana marang Elohimmu ing nagari iki.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "banjur nimbali"
+      "gloss": "banjur ngundang"
     },
     {
       "surface": "פרעה",
@@ -17,19 +17,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "marang"
+      "gloss": "⟨את⟩ marang"
     },
     {
       "surface": "משה",
       "gloss": "Moshe"
     },
     {
-      "surface": "ולאהרן",
-      "gloss": "lan marang Aharon"
+      "surface": "ו",
+      "gloss": "lan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
     },
     {
       "surface": "ויאמר",
-      "gloss": "lan ngendika"
+      "gloss": "banjur ngandika"
     },
     {
       "surface": "לכו",
@@ -37,17 +41,17 @@
     },
     {
       "surface": "זבחו",
-      "gloss": "padha nyembelih kurban"
+      "gloss": "kurba"
     },
     {
       "surface": "לאלהיכם",
-      "gloss": "marang Elohimira"
+      "gloss": "marang Elohimmu"
     },
     {
       "surface": "בארץ",
-      "gloss": "ing tanah iku"
+      "gloss": "ing nagari iki"
     }
   ],
-  "timestamp": "2026-08-20T22:58:42.229885123Z",
+  "timestamp": "2026-08-24T05:35:09.488143254Z",
   "model": "glm-5.3"
 }

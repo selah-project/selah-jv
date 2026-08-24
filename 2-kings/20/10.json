@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 20,
-  "translation": "Lan Hizkiyahu ngandika: Gampang tumrap ⟨the⟩ bayangan kanggo condong sepuluh undhak-undhak; ora, nanging kena bayangan bali mundhur sepuluh undhak-undhak.",
+  "translation": "Lan Yechezkiyahu matur: Gampang tumrap ⟨את⟩ kang tone yen medhun sepuluh undhak-undhakan; dudu iku, nanging muga bali mandhuwur sepuluh undhak-undhakan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Lan ngandika"
+      "gloss": "Lan matur"
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Hizkiyahu"
+      "gloss": "Yechezkiyahu"
     },
     {
       "surface": "נקל",
@@ -21,11 +21,12 @@
     },
     {
       "surface": "לצל",
-      "gloss": "tumrap bayangan"
+      "gloss": "tumrap kang tone",
+      "marks": "kang tone"
     },
     {
       "surface": "לנטות",
-      "gloss": "kanggo condong"
+      "gloss": "yen medhun"
     },
     {
       "surface": "עשר",
@@ -33,27 +34,27 @@
     },
     {
       "surface": "מעלות",
-      "gloss": "undhak-undhak"
+      "gloss": "undhak-undhakan"
     },
     {
       "surface": "לא",
-      "gloss": "ora"
+      "gloss": "dudu"
     },
     {
       "surface": "כי",
-      "gloss": "nanging"
+      "gloss": "iku, nanging"
     },
     {
       "surface": "ישוב",
-      "gloss": "bali"
+      "gloss": "muga bali"
     },
     {
       "surface": "הצל",
-      "gloss": "bayangan"
+      "gloss": "kang tone"
     },
     {
       "surface": "אחרנית",
-      "gloss": "mundhur"
+      "gloss": "mandhuwur"
     },
     {
       "surface": "עשר",
@@ -61,9 +62,9 @@
     },
     {
       "surface": "מעלות",
-      "gloss": "undhak-undhak"
+      "gloss": "undhak-undhakan"
     }
   ],
-  "timestamp": "2026-08-21T00:30:34.454176029Z",
+  "timestamp": "2026-08-24T12:34:18.476839961Z",
   "model": "glm-5.3"
 }

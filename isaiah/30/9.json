@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "jv",
   "chapter": 30,
-  "translation": "Sebab iki ⟨⟨iku⟩⟩ umat kang nglawan, anak-anak cidra, anak-anak sing ora gelem ngrungokake torat Yahweh.",
+  "translation": "Sebab iki ⟨⟨iku⟩⟩ umat sing ngraman, anak-anak pethok, anak-anak sing ora gelem ngrungokake torat Yahweh.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "Sebab"
     },
     {
       "surface": "עם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מרי",
-      "gloss": "kang nglawan"
+      "gloss": "sing ngraman"
     },
     {
       "surface": "הוא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כחשים",
-      "gloss": "cidra"
+      "gloss": "pethok"
     },
     {
       "surface": "בנים",
@@ -56,6 +56,6 @@
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-21T00:38:39.519364105Z",
+  "timestamp": "2026-08-24T05:54:05.648599075Z",
   "model": "glm-5.3"
 }

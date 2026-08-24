@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "jv",
   "chapter": 32,
-  "translation": "Lang wong-wong mau nyeru kanthi swara banget ing basa Yehudi marang wong Yerushalayim sing ana ing ⟨the⟩ tembok, supaya padha wedi lan giris, supaya bisa ngrebut ⟨את⟩ kutha.",
+  "translation": "Banjur padha muni kanthi swara banget ing basa Yehudi marang wong Yerushalayim sing ana ing sadhuwuring tembok, supaya padha wedi lan padha kageter, supaya bisa ngrebut ⟨את⟩ kutha iku.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "nyeru"
+      "gloss": "banjur padha muni"
     },
     {
       "surface": "בקול",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ing"
+      "gloss": "ana ing sadhuwuring"
     },
     {
       "surface": "החומה",
@@ -53,26 +53,26 @@
     },
     {
       "surface": "ולבהלם",
-      "gloss": "lan giris"
+      "gloss": "lan supaya padha kageter"
     },
     {
       "surface": "למען",
-      "gloss": "supaya"
+      "gloss": "supaya bisa"
     },
     {
       "surface": "ילכדו",
-      "gloss": "bisa ngrebut"
+      "gloss": "ngrebut"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kutha"
+      "marks": "kutha iku"
     },
     {
       "surface": "העיר",
-      "gloss": "kutha"
+      "gloss": "kutha iku"
     }
   ],
-  "timestamp": "2026-08-21T03:45:35.617993113Z",
+  "timestamp": "2026-08-24T06:10:44.384677626Z",
   "model": "glm-5.3"
 }

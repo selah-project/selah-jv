@@ -5,19 +5,19 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 11,
-  "translation": "Ing taun kapitu Yehoyada ngirim lan njukuk ⟨את⟩ para panggedhe satus, ⟨saka⟩ wong Kari lan ⟨saka⟩ para juru保护, banjur nggawa ⟨את⟩ dheweke marang awake dhewe ing Bait Yahweh, gawe prajanjian karo dheweke, lan sesapata ⟨את⟩ dheweke ing Bait Yahweh, lan nuduhake ⟨את⟩ dheweke ⟨את⟩ putrane raja.",
+  "translation": "Lan ing taun kaping pitu Yehoyada ngutus lan njupuk ⟨את⟩ para panglima sayapati, ⟨את⟩ wong Kari lan ⟨את⟩ para panjaga, lan ngajak marang awake dhewe menyang ing omah Yahweh; banjur magepokan prajanjian karo dheweke lan andadekake sumpahe ana ing omah Yahweh, lan nduduhake marang dheweke ⟨את⟩ putrane sang nata.",
   "tokens": [
     {
       "surface": "ובשנה",
-      "gloss": "Ing taun"
+      "gloss": "lan ing taun kaping pitu"
     },
     {
       "surface": "השביעית",
-      "gloss": "kapitu"
+      "gloss": "kaping pitu"
     },
     {
       "surface": "שלח",
-      "gloss": "ngirim"
+      "gloss": "ngutus"
     },
     {
       "surface": "יהוידע",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "njukuk"
+      "gloss": "lan njupuk"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "para panggedhe satus"
+      "marks": "para panglima sayapati"
     },
     {
       "surface": "שרי",
-      "gloss": "para panggedhe"
+      "gloss": "para panglima sayapati"
     },
     {
       "surface": "המאיות",
-      "gloss": "satus"
+      "gloss": "sayapati"
     },
     {
       "surface": "לכרי",
@@ -46,16 +46,16 @@
     },
     {
       "surface": "ולרצים",
-      "gloss": "para juru保护"
+      "gloss": "lan para panjaga"
     },
     {
       "surface": "ויבא",
-      "gloss": "nggawa"
+      "gloss": "lan ngajak mlebu"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ dheweke",
-      "marks": "marang awake dhewe ing Bait Yahweh"
+      "marks": "dheweke"
     },
     {
       "surface": "אליו",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bait"
+      "gloss": "omah"
     },
     {
       "surface": "יהוה",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ויכרת",
-      "gloss": "gawe prajanjian"
+      "gloss": "banjur magepokan"
     },
     {
       "surface": "להם",
@@ -83,16 +83,16 @@
     },
     {
       "surface": "וישבע",
-      "gloss": "sesapata"
+      "gloss": "lan andadekake sumpah"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ dheweke",
-      "marks": "ing Bait Yahweh"
+      "marks": "dheweke"
     },
     {
       "surface": "בבית",
-      "gloss": "ing Bait"
+      "gloss": "ana ing omah"
     },
     {
       "surface": "יהוה",
@@ -100,17 +100,17 @@
     },
     {
       "surface": "וירא",
-      "gloss": "nuduhake"
+      "gloss": "lan nduduhake"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ dheweke",
-      "marks": "putrane raja"
+      "gloss": "⟨את⟩ marang dheweke",
+      "marks": "marang dheweke"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "putrane raja"
+      "marks": "putrane sang nata"
     },
     {
       "surface": "בן",
@@ -118,9 +118,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "raja"
+      "gloss": "sang nata"
     }
   ],
-  "timestamp": "2026-08-21T00:27:00.656393763Z",
+  "timestamp": "2026-08-24T05:52:43.241685607Z",
   "model": "glm-5.3"
 }

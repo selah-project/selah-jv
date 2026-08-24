@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Pitu pekan kae计数 kanggo kowé; wiwit saka ananing arit ing tarungan jagung, miwiti ngétung pitu pekan.",
+  "translation": "Pitu pekan kowingira itungna marang sira; saka wiwite sabit ing jene kang ngadeg iya kowe miwiti itung pitu pekan.",
   "tokens": [
     {
       "surface": "שבעה",
-      "gloss": "pitu"
+      "gloss": "Pitu"
     },
     {
       "surface": "שבעת",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "תספר",
-      "gloss": "kaéitung"
+      "gloss": "kowingira itungna"
     },
     {
       "surface": "לך",
-      "gloss": "kanggo kowé"
+      "gloss": "marang sira"
     },
     {
       "surface": "מהחל",
-      "gloss": "saka wiwitan"
+      "gloss": "saka wiwite"
     },
     {
       "surface": "חרמש",
-      "gloss": "arit"
+      "gloss": "sabit"
     },
     {
       "surface": "בקמה",
-      "gloss": "ing tarungan jagung"
+      "gloss": "ing jene kang ngadeg"
     },
     {
       "surface": "תחל",
-      "gloss": "miwiti"
+      "gloss": "iya kowe miwiti"
     },
     {
       "surface": "לספר",
-      "gloss": "ngétung"
+      "gloss": "itung"
     },
     {
       "surface": "שבעה",
@@ -52,6 +52,6 @@
       "gloss": "pekan"
     }
   ],
-  "timestamp": "2026-08-20T23:34:30.608174846Z",
+  "timestamp": "2026-08-24T05:43:23.164440505Z",
   "model": "glm-5.3"
 }

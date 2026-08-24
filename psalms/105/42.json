@@ -5,28 +5,28 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 105,
-  "translation": "Sebab啊dingerteni ⟨את⟩ tembung sucine, ⟨את⟩ Avraham abdine.",
+  "translation": "Awit Panjenengane éling ⟨את⟩ sabda kasucèn-É, ⟨את⟩ Avraham abdi-Né.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "awit"
     },
     {
       "surface": "זכר",
-      "gloss": "ngelingi\/dingerteni"
+      "gloss": "éling"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tembung sucine"
+      "marks": "sabda kasucèn-É"
     },
     {
       "surface": "דבר",
-      "gloss": "tembung"
+      "gloss": "sabda"
     },
     {
       "surface": "קדשו",
-      "gloss": "sucine"
+      "gloss": "kasucèn-É"
     },
     {
       "surface": "את",
@@ -39,9 +39,9 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "abdine"
+      "gloss": "abdi-Né"
     }
   ],
-  "timestamp": "2026-08-21T02:02:17.143675369Z",
+  "timestamp": "2026-08-24T06:03:45.363918210Z",
   "model": "glm-5.3"
 }

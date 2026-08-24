@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 22,
-  "translation": "Cetha, umat sing metu saka Mesir lan nutupi ⟨את⟩ mripat ⟨the⟩ bumi; saiki teka, sumpahi aku ⟨את⟩ dhèwèké, mbok-mbok aku bisa tarung nglawan dhèwèké lan ngusir dhèwèké.\"",
+  "translation": "Lah, ⟨the⟩ bangsa sing metu saka Mesir lan nutupi ⟨את⟩ raine ⟨the⟩ bumi; saiki teka, ngutuki kanggo aku ⟨את⟩ bangsa iku, mbok-menawa aku bisa perang nglawan dheweke lan ngusir dheweke.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "cetha"
+      "gloss": "lah"
     },
     {
       "surface": "העם",
-      "gloss": "umat"
+      "gloss": "bangsa"
     },
     {
       "surface": "היצא",
-      "gloss": "metu"
+      "gloss": "sing metu"
     },
     {
       "surface": "ממצרים",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "ויכס",
-      "gloss": "nutupi"
+      "gloss": "lan nutupi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mripat ⟨the⟩ bumi"
+      "marks": "raine bumi"
     },
     {
       "surface": "עין",
-      "gloss": "mripat"
+      "gloss": "raine"
     },
     {
       "surface": "הארץ",
@@ -50,38 +50,38 @@
     },
     {
       "surface": "קבה",
-      "gloss": "sumpahi"
+      "gloss": "ngutuki"
     },
     {
       "surface": "לי",
-      "gloss": "aku"
+      "gloss": "kanggo aku"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ dhèwèké",
-      "marks": "dhèwèké (umat)"
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iku"
     },
     {
       "surface": "אולי",
-      "gloss": "mbok-mbok"
+      "gloss": "mbok-menawa"
     },
     {
       "surface": "אוכל",
-      "gloss": "bisa"
+      "gloss": "aku bisa"
     },
     {
       "surface": "להלחם",
-      "gloss": "tarung"
+      "gloss": "perang"
     },
     {
       "surface": "בו",
-      "gloss": "nglawan dhèwèké"
+      "gloss": "nglawan dheweke"
     },
     {
       "surface": "וגרשתיו",
-      "gloss": "lan ngusir dhèwèké"
+      "gloss": "lan ngusir dheweke"
     }
   ],
-  "timestamp": "2026-08-20T23:25:26.981412972Z",
+  "timestamp": "2026-08-24T05:42:24.990495098Z",
   "model": "glm-5.3"
 }

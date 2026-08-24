@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 35,
-  "translation": "Aja padha ngucap ing atine ⟨⟨para musuhku⟩⟩: Héah, iku pepenginané awaké dhéwé! Aja padha ngucap: Wong iki wis tinelan kabèh.",
+  "translation": "Aja padha ngucapake ing atine dhewe: Héhé, sangsaya kepenak urip kita! Aja padha ngucapake: Kita wus nglenger dheweke!",
   "tokens": [
     {
       "surface": "אל",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "padha ngucap"
+      "gloss": "padha ngucapake"
     },
     {
       "surface": "בלבם",
-      "gloss": "ing atine"
+      "gloss": "ing atine dhewe"
     },
     {
       "surface": "האח",
-      "gloss": "Héah"
+      "gloss": "Héhé"
     },
     {
       "surface": "נפשנו",
-      "gloss": " pepenginané awaké dhéwé"
+      "gloss": "sangsaya kepenak urip kita"
     },
     {
       "surface": "אל",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "padha ngucap"
+      "gloss": "padha ngucapake"
     },
     {
       "surface": "בלענוהו",
-      "gloss": "wis tinelan kabèh"
+      "gloss": "kita wus nglenger dheweke"
     }
   ],
-  "timestamp": "2026-08-21T01:47:40.272370619Z",
+  "timestamp": "2026-08-24T06:02:20.189702700Z",
   "model": "glm-5.3"
 }

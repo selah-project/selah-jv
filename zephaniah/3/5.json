@@ -5,7 +5,7 @@
   "book": "zephaniah",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Yahweh ⟨⟨adil⟩⟩ ing satengahé, ora bakal nindakake kaluputan; saben esuk, saben esuk pangadilané diwènèhaké dadi padhang, ora bakal ilang; lan sing luput ora ngerti isin.",
+  "translation": "Yahweh bener ing tengah-tengahe ⟨dheweke⟩, ora nggawe kelaliman; saben esuk-saben esuk padhange nggawa ⟨את⟩ putrane; ora tau ilang, lan wong kelilu ora ngerti isin.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "adil"
+      "gloss": "bener"
     },
     {
       "surface": "בקרבה",
-      "gloss": "ing satengahé"
+      "gloss": "ing tengah-tengahe"
     },
     {
       "surface": "לא",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "nindakake"
+      "gloss": "nggawe"
     },
     {
       "surface": "עולה",
-      "gloss": "kaluputan"
+      "gloss": "kelaliman"
     },
     {
       "surface": "בבקר",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "משפטו",
-      "gloss": "pangadilané"
+      "gloss": "putrane"
     },
     {
       "surface": "יתן",
-      "gloss": "diwènèhaké"
+      "gloss": "nggawa"
     },
     {
       "surface": "לאור",
-      "gloss": "dadi padhang"
+      "gloss": "padhange"
     },
     {
       "surface": "לא",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "נעדר",
-      "gloss": "bakal ilang"
+      "gloss": "tau ilang"
     },
     {
       "surface": "ולא",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "עול",
-      "gloss": "sing luput"
+      "gloss": "wong kelilu"
     },
     {
       "surface": "בשת",
       "gloss": "isin"
     }
   ],
-  "timestamp": "2026-08-21T01:36:36.817574548Z",
+  "timestamp": "2026-08-24T06:01:44.858560081Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 34,
-  "translation": "Banjur ⟨⟨dia⟩⟩ ngleburake ⟨את⟩ dhèkné ing lebak ing bumi Moab, ngadhep Beit-Peor; lan ora ana wong sing mangertèni ⟨את⟩ pekuburané nganti tekan diné iki.",
+  "translation": "Lan Dhèwèhé nglarake ⟨את⟩ ing lebak ing bumi Moab, ing ngarepe Beit-Peor; lan ora ana wong sing weruh ⟨את⟩ panguburané nganti tekan dina iki.",
   "tokens": [
     {
       "surface": "ויקבר",
-      "gloss": "ngaleburake"
+      "gloss": "nglarake"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "dhèkné"
+      "marks": "dhèwèhé (Moshe)"
     },
     {
       "surface": "בגי",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "מול",
-      "gloss": "ngadhep"
+      "gloss": "ing ngarepe"
     },
     {
       "surface": "בית",
-      "gloss": "Beit"
+      "gloss": "Beit-"
     },
     {
       "surface": "פעור",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ידע",
-      "gloss": "mangertèni"
+      "gloss": "weruh"
     },
     {
       "surface": "איש",
@@ -55,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pekuburané"
+      "marks": "panguburané"
     },
     {
       "surface": "קברתו",
-      "gloss": "pekuburané"
+      "gloss": "panguburané"
     },
     {
       "surface": "עד",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "diné"
+      "gloss": "dina"
     },
     {
       "surface": "הזה",
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-20T23:40:48.834143648Z",
+  "timestamp": "2026-08-24T05:44:38.537051103Z",
   "model": "glm-5.3"
 }

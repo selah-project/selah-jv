@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 20,
-  "translation": "Aharon bakal kalumpuh marang umate, awit dheke ora bakal mlebu ing ⟨the⟩ bumi kang Ingsun paringake marang para putra Israel, amarga sira padha nglawan ⟨את⟩ cangkemku, ing banyune Meribah.",
+  "translation": "Aharon bakal kalumpuk marang umate, awit ⟨dheweke⟩ ora bakaa lumebu menyang ⟨tanah⟩ kang ‹kukuh› Ingsun paringake marang bare-bare Israil, awit saka anggeroma nglawanani ⟨את⟩ cangkemingsun, ing banyune Meribah.",
   "tokens": [
     {
       "surface": "יאסף",
-      "gloss": "bakal kalumpuh"
+      "gloss": "bakal kalumpuk"
     },
     {
       "surface": "אהרן",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "יבא",
-      "gloss": "bakal mlebu"
+      "gloss": "bakal lumebu"
     },
     {
       "surface": "אל",
-      "gloss": "ing"
+      "gloss": "menyang"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "tanah"
     },
     {
       "surface": "אשר",
@@ -53,32 +53,32 @@
     },
     {
       "surface": "לבני",
-      "gloss": "marang para putra"
+      "gloss": "marang bare-bare"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israil"
     },
     {
       "surface": "על",
-      "gloss": "amarga"
+      "gloss": "awit saka"
     },
     {
       "surface": "אשר",
-      "gloss": "bab"
+      "gloss": "punapa"
     },
     {
       "surface": "מריתם",
-      "gloss": "sira padha nglawan"
+      "gloss": "nglawanani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "cangkemku"
+      "marks": "cangkemingsun"
     },
     {
       "surface": "פי",
-      "gloss": "cangkemku"
+      "gloss": "cangkemingsun"
     },
     {
       "surface": "למי",
@@ -89,6 +89,6 @@
       "gloss": "Meribah"
     }
   ],
-  "timestamp": "2026-08-20T23:24:39.502410854Z",
+  "timestamp": "2026-08-24T05:42:14.648400225Z",
   "model": "glm-5.3"
 }

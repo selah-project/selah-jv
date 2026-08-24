@@ -5,20 +5,20 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 37,
-  "translation": "Lan Aku andadèkaké ⟨את⟩ dheweké dadi sawijining bangsa ing bumi, ing redi-rediné Israil, lan siji ratu bakal dadi ratuné kabèh; lan bakal ana ⟨⟨ora⟩⟩ manèh loro bangsa, lan ora bakal dipérang manèh dadi loro karaton manèh.",
+  "translation": "Lan Aku bakal nglakokake dheweke dadi siji bangsa ing ⟨את⟩ bumi, ing redhu-redhu Israyel, lan siji ratu bakal dadi ratu kanggo kabeh wong, lan ora bakas maneh dadi loro bangsa, lan ora bakal dipara maneh dadi loro karaton maneh.",
   "tokens": [
     {
       "surface": "ועשיתי",
-      "gloss": "Lan Aku andadèkaké"
+      "gloss": "lan Aku bakal nglakokake"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "dheweké"
+      "marks": "dheweke"
     },
     {
       "surface": "לגוי",
-      "gloss": "dadi sawijining bangsa"
+      "gloss": "dadi siji bangsa"
     },
     {
       "surface": "אחד",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "בהרי",
-      "gloss": "ing redi-rediné"
+      "gloss": "ing redhu-redhu"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israil"
+      "gloss": "Israyel"
     },
     {
       "surface": "ומלך",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "לכלם",
-      "gloss": "kanggo kabèh"
+      "gloss": "kanggo kabeh wong"
     },
     {
       "surface": "למלך",
-      "gloss": "ratuné"
+      "gloss": "dadi ratu"
     },
     {
       "surface": "ולא",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "bakal ana"
+      "gloss": "bakal dadi"
     },
     {
       "surface": "עוד",
-      "gloss": "manèh"
+      "gloss": "maneh"
     },
     {
       "surface": "לשני",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "גוים",
-      "gloss": "bangsa"
+      "gloss": "bangsa-bangsa"
     },
     {
       "surface": "ולא",
@@ -82,25 +82,25 @@
     },
     {
       "surface": "יחצו",
-      "gloss": "bakal dipérang"
+      "gloss": "bakal dipara"
     },
     {
       "surface": "עוד",
-      "gloss": "manèh"
+      "gloss": "maneh"
     },
     {
       "surface": "לשתי",
-      "gloss": "dadi loro"
+      "gloss": "loro"
     },
     {
       "surface": "ממלכות",
-      "gloss": "karaton"
+      "gloss": "karaton-karaton"
     },
     {
       "surface": "עוד",
-      "gloss": "manèh"
+      "gloss": "maneh"
     }
   ],
-  "timestamp": "2026-08-21T01:20:30.012475381Z",
+  "timestamp": "2026-08-24T05:58:38.729565788Z",
   "model": "glm-5.3"
 }

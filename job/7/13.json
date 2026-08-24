@@ -5,8 +5,37 @@
   "book": "job",
   "lang": "jv",
   "chapter": 7,
-  "translation": "Nalika dakandika: dipo papaes aku dipur turun, dipapasihi, celathuku dipun jangkepi — dhingklik turunku.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:22:19.776987096Z",
+  "translation": "Nalika aku ngucap: paturonku bakal nglipur aku, dipungkasake sesambatanku ing bojoku —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nalika"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aku ngucap"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "bakal nglipur aku"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "paturonku"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "dipungkasake"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "sesambatanku"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "bojoku"
+    }
+  ],
+  "timestamp": "2026-08-24T06:06:00.978693433Z",
   "model": "glm-5.3"
 }

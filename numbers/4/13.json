@@ -5,28 +5,28 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 4,
-  "translation": "Lan padha ngresiki ⟨את⟩ pasayaran saka ⟨the⟩ abu, banjur padha ngambarkan sandhangan wungu ing dhuwure:",
+  "translation": "Lan wong-wong mau bakal ngresiki ⟨את⟩ ing altar saka awu, lan bakal ngambangake sandhangan wungu ing sandhuwure.",
   "tokens": [
     {
       "surface": "ודשנו",
-      "gloss": "lan padha ngresiki"
+      "gloss": "lan bakal ngresiki awune"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pasayaran"
+      "marks": "ing altar"
     },
     {
       "surface": "המזבח",
-      "gloss": "pasayaran"
+      "gloss": "ing altar"
     },
     {
       "surface": "ופרשו",
-      "gloss": "banjur padha ngambarkan"
+      "gloss": "lan bakal ngambangake"
     },
     {
       "surface": "עליו",
-      "gloss": "ing dhuwure"
+      "gloss": "ing sandhuwure"
     },
     {
       "surface": "בגד",
@@ -37,6 +37,6 @@
       "gloss": "wungu"
     }
   ],
-  "timestamp": "2026-08-20T23:19:36.996007779Z",
+  "timestamp": "2026-08-24T05:41:00.895505974Z",
   "model": "glm-5.3"
 }

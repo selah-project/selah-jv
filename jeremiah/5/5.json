@@ -5,8 +5,90 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Aku arecaka lunga marang ⟨the⟩ para gedhe lan ngomongake ⟨את⟩ marang ⟨them⟩, awit ⟨they⟩ padha ngaweruhi dalane Yahweh, sang adem sing δumingké: nanging padha bebarengan ngrusak wong, nglunturake prangké.",
-  "tokens": [],
-  "timestamp": "2026-08-21T00:49:38.792325122Z",
+  "translation": "Aku arep tindak marang para wong agung, lan aku arep matur ⟨את⟩ marang dheweke, awit dheweke ngerti dalane Yahweh, sang mukaming Elohi. Nanging dheweke sedaya bebareangan wus nglumpukake kuk lan wus nyaboli wewengku.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "aku arep tindak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "marang"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "para wong agung"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "lan aku arep matur"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ngerti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sang mukam"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nanging"
+    },
+    {
+      "surface": "המה",
+      "gloss": "dheweke"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bebareangan"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "wus nglumpukake"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuk"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "wus nyaboli"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "wewengku"
+    }
+  ],
+  "timestamp": "2026-08-24T05:54:57.656076124Z",
   "model": "glm-5.3"
 }

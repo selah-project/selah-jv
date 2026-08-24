@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan ⟨dheweke⟩ nyembelih ⟨את⟩ sapi lan nggawa ⟨את⟩ bocah mau marang Eli.",
+  "translation": "Lan padha sajani ⟨את⟩ sapi lan ngaturake ⟨את⟩ bocah mau marang Eli.",
   "tokens": [
     {
       "surface": "וישחטו",
-      "gloss": "lan ⟨dheweke⟩ nyembelih"
+      "gloss": "padha sajani"
     },
     {
       "surface": "את",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "הפר",
-      "gloss": "⟨the⟩ sapi"
+      "gloss": "sapi"
     },
     {
       "surface": "ויביאו",
-      "gloss": "lan nggawa"
+      "gloss": "ngaturake"
     },
     {
       "surface": "את",
@@ -31,7 +31,7 @@
     },
     {
       "surface": "הנער",
-      "gloss": "⟨the⟩ bocah mau"
+      "gloss": "bocah mau"
     },
     {
       "surface": "אל",
@@ -42,6 +42,6 @@
       "gloss": "Eli"
     }
   ],
-  "timestamp": "2026-08-20T23:56:25.149237703Z",
+  "timestamp": "2026-08-24T05:47:00.297391283Z",
   "model": "glm-5.3"
 }

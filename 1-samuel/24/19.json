@@ -5,16 +5,15 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Lan kowé ⟨⟨ aku ⟩⟩ ndhedhes dina iki apa sing koklakoni marang aku becik, yaiku nalika Yahweh ngetokaké aku ing_astamu, nanging kowé ora matèni aku.",
+  "translation": "Lan kowe padha ngandikake dina iki ⟨את⟩ sing kokgawe ⟨את⟩ marang aku kabecikan: nalika Yahweh nutup aku ing tanganmu, lan kowe ora matèni aku.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Lan kowé",
-      "marks": "ndhedhes"
+      "gloss": "lan kowe"
     },
     {
       "surface": "הגדת",
-      "gloss": "ndhedhes"
+      "gloss": "ngandikake"
     },
     {
       "surface": "היום",
@@ -23,28 +22,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "apa sing koklakoni"
+      "marks": "sing kokgawe"
     },
     {
       "surface": "אשר",
-      "gloss": "apa sing"
+      "gloss": "sing"
     },
     {
       "surface": "עשיתה",
-      "gloss": "koklakoni"
+      "gloss": "kokgawe"
     },
     {
       "surface": "אתי",
-      "gloss": "marang ⟨את⟩ aku"
+      "gloss": "⟨את⟩ marang aku"
     },
     {
       "surface": "טובה",
-      "gloss": "becik"
+      "gloss": "kabecikan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nalika Yahweh ngetokaké aku"
+      "marks": "nalika Yahweh nutup aku"
     },
     {
       "surface": "אשר",
@@ -52,7 +51,7 @@
     },
     {
       "surface": "סגרני",
-      "gloss": "ngetokaké aku"
+      "gloss": "nutup aku"
     },
     {
       "surface": "יהוה",
@@ -60,17 +59,17 @@
     },
     {
       "surface": "בידך",
-      "gloss": "ing_astamu"
+      "gloss": "ing tanganmu"
     },
     {
       "surface": "ולא",
-      "gloss": "nanging ora"
+      "gloss": "lan ora"
     },
     {
       "surface": "הרגתני",
       "gloss": "matèni aku"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.734926245Z",
+  "timestamp": "2026-08-24T05:48:39.236795678Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 31,
-  "translation": "Lan bakal dadi, bareng wis nemokake ⟨את⟩ wolung-wulang kelas abot lan sangsara, lagu iki bakal matur nglawan ing ngarepe dadi saksi, awit ora bakal dilalekake saka lambene wulune, awit aku wis ngerti ⟨את⟩ karepe, sing diupadi ing dina iki, sadurunge kula nggawa dheweke marang ⟨the⟩ bumi sing daksumpahi.",
+  "translation": "Lan bakal kadadéan, bareng wis nemu ⟨את⟩ ⟨אתו⟩ ala-ala akèh lan sengsara-sengsara, tembang iki bakal matur nunggil ing ngarsané dadi saksi, awit ora bakal dilali saka tutuke wosing dhèwèké; awit aku wis weruh ⟨את⟩ karepé, sing lagi diayahi dina iki, sadurung kubawah dhèwèké menyang nagara kang aran-aran supataku.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "lan bakal dadi"
+      "gloss": "Lan bakal kadadéan"
     },
     {
       "surface": "כי",
@@ -17,32 +17,32 @@
     },
     {
       "surface": "תמצאן",
-      "gloss": "wis nemokake"
+      "gloss": "wis nemu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "wolung-wulang kelas abot"
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "ala-ala akèh lan sengsara-sengsara"
     },
     {
       "surface": "רעות",
-      "gloss": "wolung-wulang kelas abot"
+      "gloss": "ala-ala"
     },
     {
       "surface": "רבות",
-      "gloss": "akeh"
+      "gloss": "akèh"
     },
     {
       "surface": "וצרות",
-      "gloss": "lan sangsara"
+      "gloss": "lan sengsara-sengsara"
     },
     {
       "surface": "וענתה",
-      "gloss": "bakal matur nglawan"
+      "gloss": "bakal matur nunggil"
     },
     {
       "surface": "השירה",
-      "gloss": "lagu"
+      "gloss": "tembang iki"
     },
     {
       "surface": "הזאת",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "ing ngarepe"
+      "gloss": "ing ngarsané"
     },
     {
       "surface": "לעד",
-      "gloss": "dadi saksi"
+      "gloss": "dadi saksi tumrap lawasé"
     },
     {
       "surface": "כי",
@@ -66,15 +66,15 @@
     },
     {
       "surface": "תשכח",
-      "gloss": "bakal dilalekake"
+      "gloss": "bakal dilali"
     },
     {
       "surface": "מפי",
-      "gloss": "saka lambene"
+      "gloss": "saka tutuke"
     },
     {
       "surface": "זרעו",
-      "gloss": "wulune"
+      "gloss": "wosing dhèwèké"
     },
     {
       "surface": "כי",
@@ -82,16 +82,16 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "aku wis ngerti"
+      "gloss": "aku wis weruh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karepe"
+      "marks": "karepé"
     },
     {
       "surface": "יצרו",
-      "gloss": "karepe"
+      "gloss": "karepé"
     },
     {
       "surface": "אשר",
@@ -99,41 +99,41 @@
     },
     {
       "surface": "הוא",
-      "gloss": "dheweke"
+      "gloss": "dhèwèké"
     },
     {
       "surface": "עשה",
-      "gloss": "diupadi"
+      "gloss": "diayahi"
     },
     {
       "surface": "היום",
-      "gloss": "ing dina iki"
+      "gloss": "dina iki"
     },
     {
       "surface": "בטרם",
-      "gloss": "sadurunge"
+      "gloss": "sadurung"
     },
     {
       "surface": "אביאנו",
-      "gloss": "kula nggawa dheweke"
+      "gloss": "kubawah dhèwèké"
     },
     {
       "surface": "אל",
-      "gloss": "marang"
+      "gloss": "menyang"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "nagara"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "daksumpahi"
+      "gloss": "aran-aran supataku"
     }
   ],
-  "timestamp": "2026-08-20T23:40:43.588067456Z",
+  "timestamp": "2026-08-24T12:34:18.475079031Z",
   "model": "glm-5.3"
 }

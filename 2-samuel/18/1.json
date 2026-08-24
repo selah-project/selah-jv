@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Banjur Dawid mriksa ⟨את⟩ wong kang padha ⟨אתו⟩ karo dheweke, lan dheweke nglebokake panggedhe ewu lan panggedhe atus ing dhuwure.",
+  "translation": "Lan Dawid mriksa ⟨את⟩ wong kang padha ing ⟨את⟩ sisihane, lan dhadekake panggedhe ewon lan panggedhe atusan ana ing dhuwure.",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "mriksa"
+      "gloss": "lan mriksa"
     },
     {
       "surface": "דוד",
@@ -26,19 +26,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kang"
+      "gloss": "kang padha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩ padha karo"
+      "gloss": "ing ⟨את⟩ sisihane"
     },
     {
       "surface": "וישם",
-      "gloss": "ndadekake"
+      "gloss": "lan dhadekake"
     },
     {
       "surface": "עליהם",
-      "gloss": "ing dhuwure"
+      "gloss": "ana ing dhuwure"
     },
     {
       "surface": "שרי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "ewu"
+      "gloss": "ewon"
     },
     {
       "surface": "ושרי",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "מאות",
-      "gloss": "atus"
+      "gloss": "atusan"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.508304839Z",
+  "timestamp": "2026-08-24T06:12:11.057830979Z",
   "model": "glm-5.3"
 }

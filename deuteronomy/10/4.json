@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Lan Panjenenganane nulis ing ⟨⟨the⟩⟩ prasasti miturut tulisan kapisan, ⟨את⟩ sapuluh tembung-tembung sing Wis dikandhakake Yahweh marang kowé ing gunung, saka satengahing geni, ing dina pasamuwan; lan Yahweh maringi marang aku.",
+  "translation": "Lan Panjenengane nyerat ing ⟨the⟩ prasasti iku, kaya seratan kapisan, ⟨את⟩ sapuluh sabda sing dituturake Yahweh marang kowe ing gunung, saka tengah geni, ing dina pasamuwan; lan Yahweh menehake ⟨⟨them⟩⟩ marang aku.",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "lan Panjenenganane nulis"
+      "gloss": "nyerat"
     },
     {
       "surface": "על",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "הלחת",
-      "gloss": "⟨the⟩ prasasti"
+      "gloss": "prasasti iku"
     },
     {
       "surface": "כמכתב",
-      "gloss": "miturut tulisan"
+      "gloss": "kaya seratan"
     },
     {
       "surface": "הראשון",
@@ -30,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sapuluh tembung-tembung"
+      "marks": "sapuluh sabda"
     },
     {
       "surface": "עשרת",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "tembung-tembung"
+      "gloss": "sabda-sabda"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "dikandhakake"
+      "gloss": "dituturake"
     },
     {
       "surface": "יהוה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אליכם",
-      "gloss": "marang kowé"
+      "gloss": "marang kowe"
     },
     {
       "surface": "בהר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "מתוך",
-      "gloss": "saka satengahing"
+      "gloss": "saka tengah"
     },
     {
       "surface": "האש",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ויתנם",
-      "gloss": "lan maringi"
+      "gloss": "menehake"
     },
     {
       "surface": "יהוה",
@@ -89,6 +89,6 @@
       "gloss": "marang aku"
     }
   ],
-  "timestamp": "2026-08-20T23:32:56.195004718Z",
+  "timestamp": "2026-08-24T05:43:44.366304860Z",
   "model": "glm-5.3"
 }

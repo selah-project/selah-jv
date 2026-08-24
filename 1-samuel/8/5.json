@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan padha ngandika marang Shemuel: Lah, sampéyan wis sepuh, lan anak-anak sampéyan ora mlaku ing dalan-dalan sampéyan; saiki dhadèkna kita pepéndhem ratu supaya mreh kita, kaya déné ⟨the⟩ para bangsa kabeh.",
+  "translation": "Lan padha ngandika marang dheweke: Lah, sampéyan sampun sepuh, lan para putra sampéyan ora mlaku ing dalan-dalan sampéyan; saiki tumutna marang kita ratu supaya mènèhi pangadilan marang kita, kaya déné kabeh para bangsa.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "זקנת",
-      "gloss": "wis sepuh"
+      "gloss": "sampun sepuh"
     },
     {
       "surface": "ובניך",
-      "gloss": "lan anak-anak sampéyan"
+      "gloss": "lan para putra sampéyan"
     },
     {
       "surface": "לא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בדרכיך",
-      "gloss": "ing dalan-dalane sampéyan"
+      "gloss": "ing dalan-dalan sampéyan"
     },
     {
       "surface": "עתה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "שימה",
-      "gloss": "dhadèkna"
+      "gloss": "tumutna"
     },
     {
       "surface": "לנו",
-      "gloss": "kita"
+      "gloss": "marang kita"
     },
     {
       "surface": "מלך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "לשפטנו",
-      "gloss": "supaya mreh kita"
+      "gloss": "supaya mènèhi pangadilan marang kita"
     },
     {
       "surface": "ככל",
@@ -72,6 +72,6 @@
       "gloss": "para bangsa"
     }
   ],
-  "timestamp": "2026-08-20T23:57:55.764544909Z",
+  "timestamp": "2026-08-24T05:47:58.208973295Z",
   "model": "glm-5.3"
 }

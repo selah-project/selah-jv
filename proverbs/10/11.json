@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Sumur urip ⟨⟨iku⟩⟩ cangkeme wong tumu, nanging cangkem wong ati-nistha nutupi kaluputan.",
+  "translation": "Sumbering urip ⟨iku⟩ cangkemé wong bener, nanging cangkemé wong-wong ala iku nutupi kaluputan.",
   "tokens": [
     {
       "surface": "מקור",
-      "gloss": "Sumur"
+      "gloss": "sumbering"
     },
     {
       "surface": "חיים",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "פי",
-      "gloss": "cangkeme"
+      "gloss": "cangkemé"
     },
     {
       "surface": "צדיק",
-      "gloss": "wong tumu"
+      "gloss": "wong bener"
     },
     {
       "surface": "ופי",
-      "gloss": "nanging cangkem"
+      "gloss": "nanging cangkemé"
     },
     {
       "surface": "רשעים",
-      "gloss": "wong ati-nistha"
+      "gloss": "wong-wong ala"
     },
     {
       "surface": "יכסה",
@@ -37,9 +37,10 @@
     },
     {
       "surface": "חמס",
-      "gloss": "kaluputan"
+      "gloss": "kaluputan",
+      "marks": "kaluputan"
     }
   ],
-  "timestamp": "2026-08-21T02:12:53.272814014Z",
+  "timestamp": "2026-08-24T12:34:18.467154737Z",
   "model": "glm-5.3"
 }

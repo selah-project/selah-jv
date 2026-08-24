@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 28,
-  "translation": "Pinuji kowe ing ⟨the⟩ kutha, lan pinuji kowe ing ⟨the⟩ ladang.",
+  "translation": "Dipunpati berkah kowe ing kutha, lan dipunpati berkah kowe ing sawah.",
   "tokens": [
     {
       "surface": "ברוך",
-      "gloss": "Pinuji"
+      "gloss": "dipunpati berkah"
     },
     {
       "surface": "אתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וברוך",
-      "gloss": "lan pinuji"
+      "gloss": "lan dipunpati berkah"
     },
     {
       "surface": "אתה",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "ing ladang"
+      "gloss": "ing sawah"
     }
   ],
-  "timestamp": "2026-08-20T23:38:52.738833437Z",
+  "timestamp": "2026-08-24T05:43:48.680242589Z",
   "model": "glm-5.3"
 }

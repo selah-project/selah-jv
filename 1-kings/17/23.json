@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Banjur Eliyahu njupuk ⟨את⟩ bocah iku, nurunake saka ⟨the⟩ kamar dhuwur menyang ⟨the⟩ omah, lan dipasrahake marang ibune; sarta Eliyahu ngucap: Delengen, putramu urip.",
+  "translation": "Banjur Eliyahu mundhut ⟨את⟩ anak iku, diudhunake saka undhak-undhakan menyang omah, diparingake marang ibune, lan Eliyahu matur: Praona, anakmu urip.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "njupuk"
+      "gloss": "mundhut"
     },
     {
       "surface": "אליהו",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bocah iku"
+      "marks": "anak iku"
     },
     {
       "surface": "הילד",
-      "gloss": "bocah iku"
+      "gloss": "anak"
     },
     {
       "surface": "וירדהו",
-      "gloss": "nurunake"
+      "gloss": "diudhunake"
     },
     {
       "surface": "מן",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "העליה",
-      "gloss": "⟨the⟩ kamar dhuwur"
+      "gloss": "undhak-undhakan"
     },
     {
       "surface": "הביתה",
-      "gloss": "menyang ⟨the⟩ omah"
+      "gloss": "menyang omah"
     },
     {
       "surface": "ויתנהו",
-      "gloss": "dipasrahake"
+      "gloss": "diparingake"
     },
     {
       "surface": "לאמו",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "sarta ngucap"
+      "gloss": "lan matur"
     },
     {
       "surface": "אליהו",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ראי",
-      "gloss": "Delengen"
+      "gloss": "praona"
     },
     {
       "surface": "חי",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "בנך",
-      "gloss": "putramu"
+      "gloss": "anakmu"
     }
   ],
-  "timestamp": "2026-08-21T00:20:40.644371164Z",
+  "timestamp": "2026-08-24T05:52:01.230397457Z",
   "model": "glm-5.3"
 }

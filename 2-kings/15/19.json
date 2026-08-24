@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 15,
-  "translation": "Pul ratu ing Ashur teka marang ⟨the⟩ nagara, lan Menahem menehi marang Pul sewu kikar salaka supaya tangane ⟨is⟩ karo awake kanggo ngoyakake kukuh karaton ing tangane.",
+  "translation": "Pul ratu Asyur teka nglawan ⟨את⟩ bumi iku, lan Menahem menehi Pul sewu talenta pérak, supaya tangané dadi ⟨את⟩ sesami marang dhèwèké, kanggo ngoncritaké karaton iku ing tangané.",
   "tokens": [
     {
       "surface": "בא",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "Asyur"
     },
     {
       "surface": "על",
-      "gloss": "marang"
+      "gloss": "nglawan"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ nagara"
+      "gloss": "bumi iku"
     },
     {
       "surface": "ויתן",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לפול",
-      "gloss": "marang Pul"
+      "gloss": "Pul"
     },
     {
       "surface": "אלף",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ככר",
-      "gloss": "kikar"
+      "gloss": "talenta"
     },
     {
       "surface": "כסף",
-      "gloss": "salaka"
+      "gloss": "pérak"
     },
     {
       "surface": "להיות",
@@ -61,25 +61,26 @@
     },
     {
       "surface": "ידיו",
-      "gloss": "tangane"
+      "gloss": "tangané"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ karo awake"
+      "gloss": "⟨את⟩",
+      "marks": "sesami marang dhèwèké"
     },
     {
       "surface": "להחזיק",
-      "gloss": "kanggo ngoyakake kukuh"
+      "gloss": "kanggo ngoncritaké"
     },
     {
       "surface": "הממלכה",
-      "gloss": "karaton"
+      "gloss": "karaton iku"
     },
     {
       "surface": "בידו",
-      "gloss": "ing tangane"
+      "gloss": "ing tangané"
     }
   ],
-  "timestamp": "2026-08-21T04:07:00.960229187Z",
+  "timestamp": "2026-08-24T05:52:46.945340054Z",
   "model": "glm-5.3"
 }

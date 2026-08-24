@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Aja nindes kancaira, lan aja ngrampas; upah panggone wong sing nyambut gawe ⟨את⟩ ⟨אתך⟩ aja nganti keliliran nganti esuk.",
+  "translation": "Aja nindhes ⟨את⟩ kancamu, lan aja ngrampok; aja nginepake ing kowé ⟨את⟩ upahé wong kadhaun nganti ésuk.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "תעשק",
-      "gloss": "nindes"
+      "gloss": "nindhes"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kancaira"
+      "marks": "kancamu"
     },
     {
       "surface": "רעך",
-      "gloss": "kancaira"
+      "gloss": "kancamu"
     },
     {
       "surface": "ולא",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "תגזל",
-      "gloss": "ngrampas"
+      "gloss": "ngrampok"
     },
     {
       "surface": "לא",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "תלין",
-      "gloss": "keliliran\/nang kono"
+      "gloss": "nginepake"
     },
     {
       "surface": "פעלת",
-      "gloss": "upah panggone"
+      "gloss": "upahé gawé"
     },
     {
       "surface": "שכיר",
-      "gloss": "wong nyambut gawe"
+      "gloss": "wong kadhaun"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩"
+      "gloss": "ing kowé ⟨את⟩"
     },
     {
       "surface": "עד",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "בקר",
-      "gloss": "esuk"
+      "gloss": "ésuk"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.855519136Z",
+  "timestamp": "2026-08-24T05:38:54.941268662Z",
   "model": "glm-5.3"
 }

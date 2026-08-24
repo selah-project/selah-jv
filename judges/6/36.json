@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan Gidyon munjuk marang ⟨the⟩ Elohim: yen Kowe iya ngluwari ⟨את⟩ Israil marga tanganku, kaya dene Sabdane.",
+  "translation": "Lan Gid'on ngendika marang ⟨the⟩ Elohim: Yen Kowe isih ngluwari ⟨את⟩ Yisra'el nganggo tanganku, kaya dene pangandika-Mu —",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "munjuk"
+      "gloss": "Lan ngendika"
     },
     {
       "surface": "גדעון",
-      "gloss": "Gidyon"
+      "gloss": "Gid'on"
     },
     {
       "surface": "אל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨the⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "אם",
-      "gloss": "yen"
+      "gloss": "Yen"
     },
     {
       "surface": "ישך",
-      "gloss": "Kowe iya"
+      "gloss": "Kowe isih"
     },
     {
       "surface": "מושיע",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "בידי",
-      "gloss": "marga tanganku"
+      "gloss": "nganggo tanganku"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israil"
+      "marks": "Yisra'el"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israil"
+      "gloss": "Yisra'el"
     },
     {
       "surface": "כאשר",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "דברת",
-      "gloss": "Sabdane"
+      "gloss": "pangandika-Mu"
     }
   ],
-  "timestamp": "2026-08-20T23:49:45.167500283Z",
+  "timestamp": "2026-08-24T05:47:33.174175120Z",
   "model": "glm-5.3"
 }

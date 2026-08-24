@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 22,
-  "translation": "Lajeng sang raja séda, lan ⟨⟨dibekakaké⟩⟩ menyang Shomeron, lan ⟨wong-wong⟩ nguburake ⟨את⟩ sang raja ing Shomeron.",
+  "translation": "Banjur sang raja séda, lan ⟨ia⟩ dipindhah menyang Shomeron, lan wong-wong nguburake ⟨את⟩ sang raja ing Shomeron.",
   "tokens": [
     {
       "surface": "וימת",
-      "gloss": "lajeng séda"
+      "gloss": "banjur séda"
     },
     {
       "surface": "המלך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויבוא",
-      "gloss": "lan rawuh"
+      "gloss": "lan dipindhah"
     },
     {
       "surface": "שמרון",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויקברו",
-      "gloss": "lan ⟨wong-wong⟩ nguburake"
+      "gloss": "lan wong-wong nguburake"
     },
     {
       "surface": "את",
@@ -41,6 +41,6 @@
       "gloss": "ing Shomeron"
     }
   ],
-  "timestamp": "2026-08-21T00:23:16.279562847Z",
+  "timestamp": "2026-08-24T05:51:37.273824126Z",
   "model": "glm-5.3"
 }

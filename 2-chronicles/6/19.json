@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "jv",
   "chapter": 6,
-  "translation": "Lan kowé ngadhepaké ⟨אל⟩ pandongane abdimu lan ⟨אל⟩ panguwuhé, Yahweh Elohim-ku, supaya ngrungokaké ratapan lan pandonga sing abdimu dongakaké ing ngarsa-Mu.",
+  "translation": "Lan kowé milih ngadhepi tumuju marang pandongane abdimu lan marang panyuwuné, Yahweh Elohime, kanggo ngrungokake ⟨את⟩ serune lan ⟨את⟩ pandonga sing abdimu ndongakake ing ngarsa-Mu",
   "tokens": [
     {
       "surface": "ופנית",
-      "gloss": "lan kowé ngadhepaké"
+      "gloss": "lan kowé milih ngadhepi tumuju"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תחנתו",
-      "gloss": "panguwuhé"
+      "gloss": "panyuwuné"
     },
     {
       "surface": "יהוה",
@@ -37,23 +37,25 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim-ku"
+      "gloss": "Elohime"
     },
     {
       "surface": "לשמע",
-      "gloss": "supaya ngrungokaké"
+      "gloss": "kanggo ngrungokake"
     },
     {
       "surface": "אל",
-      "gloss": "marang"
+      "gloss": "⟨את⟩",
+      "marks": "serune"
     },
     {
       "surface": "הרנה",
-      "gloss": "ratapan"
+      "gloss": "serune"
     },
     {
       "surface": "ואל",
-      "gloss": "lan marang"
+      "gloss": "lan",
+      "marks": "pandonga"
     },
     {
       "surface": "התפלה",
@@ -69,13 +71,13 @@
     },
     {
       "surface": "מתפלל",
-      "gloss": "dongakaké"
+      "gloss": "ndongakake"
     },
     {
       "surface": "לפניך",
       "gloss": "ing ngarsa-Mu"
     }
   ],
-  "timestamp": "2026-08-21T04:28:03.857928119Z",
+  "timestamp": "2026-08-24T12:34:18.473334724Z",
   "model": "glm-5.3"
 }

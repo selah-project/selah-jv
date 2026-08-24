@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan Shaharaim ngenerake ana ing wiwitané Moab sawisé nglungani ⟨את⟩ ⟨אתם⟩ — yaiku Hushim lan ⟨את⟩ Baara — bojone.",
+  "translation": "Lan Shaharaim peputra ing padhang Moab sawisé mantuk ⟨את⟩ dhèwèké; Hushim lan ⟨את⟩ Baara bojoné.",
   "tokens": [
     {
       "surface": "ושחרים",
-      "gloss": "lan Shaharaim"
+      "gloss": "Lan Shaharaim"
     },
     {
       "surface": "הוליד",
-      "gloss": "ngenerake"
+      "gloss": "peputra"
     },
     {
       "surface": "בשדה",
-      "gloss": "ana ing wiwitané"
+      "gloss": "ing padhang"
     },
     {
       "surface": "מואב",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "שלחו",
-      "gloss": "nglungani"
+      "gloss": "mantukake"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "Hushim (lan Baara)"
+      "gloss": "⟨את⟩ dhèwèké",
+      "marks": "Hushim lan Baara"
     },
     {
       "surface": "חושים",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "lan ⟨את⟩",
       "marks": "Baara"
     },
     {
@@ -51,9 +51,9 @@
     },
     {
       "surface": "נשיו",
-      "gloss": "bojone"
+      "gloss": "bojoné"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.662923259Z",
+  "timestamp": "2026-08-24T06:08:50.236766180Z",
   "model": "glm-5.3"
 }

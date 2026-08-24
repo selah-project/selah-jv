@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Lan ngapura marang ⟨את⟩ papan suci saka najising bani Yisraèl lan saka panglanggaré ing sakabehing dosané; lan mangkono uga dilakoni kanggo tendha pasamuwan sing netep ⟨את⟩ ⟨אתם⟩ karo wong-wong mau ing tengahing najisé.",
+  "translation": "Lan ngapurake marang panggonan suci, saka kalumrahaning para putra Yisrael lan saka pambangkangane, ing sadarmene dosane; lan mangkono uga ditindakake marang Khemah Pasamuwan, kang ndunungi ⟨את⟩ wong-wong mau ing tengahing kalumrahane.",
   "tokens": [
     {
       "surface": "וכפר",
-      "gloss": "lan ngapura"
+      "gloss": "lan ngapurake"
     },
     {
       "surface": "על",
@@ -17,31 +17,31 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "papan suci"
+      "gloss": "panggonan suci"
     },
     {
       "surface": "מטמאת",
-      "gloss": "saka najising"
+      "gloss": "saka kalumrahan"
     },
     {
       "surface": "בני",
-      "gloss": "bani"
+      "gloss": "para putra"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraèl"
+      "gloss": "Yisrael"
     },
     {
       "surface": "ומפשעיהם",
-      "gloss": "lan saka panglanggaré"
+      "gloss": "lan saka pambangkangane"
     },
     {
       "surface": "לכל",
-      "gloss": "ing sakabehing"
+      "gloss": "ing sadarmene"
     },
     {
       "surface": "חטאתם",
-      "gloss": "dosané"
+      "gloss": "dosane"
     },
     {
       "surface": "וכן",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "dilakoni"
+      "gloss": "ditindakake"
     },
     {
       "surface": "לאהל",
-      "gloss": "kanggo tendha"
+      "gloss": "marang khemah"
     },
     {
       "surface": "מועד",
@@ -61,11 +61,12 @@
     },
     {
       "surface": "השכן",
-      "gloss": "sing netep"
+      "gloss": "kang ndunungi"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩ karo wong-wong mau"
+      "gloss": "⟨את⟩",
+      "marks": "karo wong-wong mau"
     },
     {
       "surface": "בתוך",
@@ -73,9 +74,9 @@
     },
     {
       "surface": "טמאתם",
-      "gloss": "najisé"
+      "gloss": "kalumrahane"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.859495150Z",
+  "timestamp": "2026-08-24T05:39:07.471931484Z",
   "model": "glm-5.3"
 }

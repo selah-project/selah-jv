@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Lan sing padha ndhemak ing ngarepe ⟨⟨the⟩⟩ kemah, ing sisih wetan, ing ngarepe Kemah Papaghan, ing papanRéna srengéngé, yaiku Moshe lan Aharon lan anak-anaké, sing ngiwa-keepake panyagan ⟨ing⟩ papan suci, minangka panyagan tumrapé anak-anak Yisrael; lan wong njaba sing cedhak bakal dipateni.",
+  "translation": "Lan sing padha kamp ing ngarepe misdkan, ing sisih wétan, ing ngarepe tenda pasamuwan, mangalane wetalan: Moshe lan Aharon lan para putrane, padha njaga pakurmatan ing pasucen, minangka pakurmatan kanggo para putra Yisrael; lan wong liya (zar) sing cedhak bakal dipateni.",
   "tokens": [
     {
       "surface": "והחנים",
-      "gloss": "lan sing padha ndhemak"
+      "gloss": "lan sing padha kamp"
     },
     {
       "surface": "לפני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "kemah"
+      "gloss": "misdkan"
     },
     {
       "surface": "קדמה",
-      "gloss": "ing sisih wetan"
+      "gloss": "ing sisih wétan"
     },
     {
       "surface": "לפני",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אהל",
-      "gloss": "Kemah"
+      "gloss": "tende"
     },
     {
       "surface": "מועד",
-      "gloss": "Papaghan"
+      "gloss": "pasamuwan"
     },
     {
       "surface": "מזרחה",
-      "gloss": "ing papanRéna srengéngé"
+      "gloss": "mangalane wetalan"
     },
     {
       "surface": "משה",
@@ -49,27 +49,27 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "lan anak-anaké"
+      "gloss": "lan para putrane"
     },
     {
       "surface": "שמרים",
-      "gloss": "sing ngiwa-keepake"
+      "gloss": "padha njaga"
     },
     {
       "surface": "משמרת",
-      "gloss": "panyagan"
+      "gloss": "pakurmatan"
     },
     {
       "surface": "המקדש",
-      "gloss": "papan suci"
+      "gloss": "pasucen"
     },
     {
       "surface": "למשמרת",
-      "gloss": "minangka panyagan"
+      "gloss": "minangka pakurmatan"
     },
     {
       "surface": "בני",
-      "gloss": "anak-anak"
+      "gloss": "para putra"
     },
     {
       "surface": "ישראל",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "והזר",
-      "gloss": "lan wong njaba"
+      "gloss": "lan wong liya (zar)"
     },
     {
       "surface": "הקרב",
@@ -88,6 +88,6 @@
       "gloss": "bakal dipateni"
     }
   ],
-  "timestamp": "2026-08-21T03:54:09.494556515Z",
+  "timestamp": "2026-08-24T05:41:09.992069308Z",
   "model": "glm-5.3"
 }

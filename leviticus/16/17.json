@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Lan ora ana ⟨⟨wong⟩⟩ manungsa ing kemah patemon nalika ⟨dheweke⟩ mlebu ngaturake pangapura ing panggonan suci, nganti metu-e, lan wis nglakoni pangapura kanggo awake dhewe, lan kanggo bale-e, lan kanggo sakabehing jamaah Yisrael.",
+  "translation": "Lan saben wong ora kena ana ing Khemah Pasamuwan nalika dheweke mlebu kanggo ngapurake ing panggonan suci, nganti metune; lan ngapurake kanggo awaké, lan kanggo kulawargané, lan kanggo sakabehing pasamuwané Yisrael.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "manungsa"
+      "gloss": "wong"
     },
     {
       "surface": "לא",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "ana"
+      "gloss": "kadadéan ana"
     },
     {
       "surface": "באהל",
-      "gloss": "ing kemah"
+      "gloss": "ing khemah"
     },
     {
       "surface": "מועד",
-      "gloss": "patemon"
+      "gloss": "pasamuwan"
     },
     {
       "surface": "בבאו",
-      "gloss": "nalika mlebu-e"
+      "gloss": "nalika mlebu"
     },
     {
       "surface": "לכפר",
-      "gloss": "ngaturake pangapura"
+      "gloss": "kanggo ngapurake"
     },
     {
       "surface": "בקדש",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "צאתו",
-      "gloss": "metu-e"
+      "gloss": "metune"
     },
     {
       "surface": "וכפר",
-      "gloss": "lan nglakoni pangapura"
+      "gloss": "lan ngapurake"
     },
     {
       "surface": "בעדו",
-      "gloss": "kanggo awake dhewe"
+      "gloss": "kanggo awaké"
     },
     {
       "surface": "ובעד",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "bale-e"
+      "gloss": "kulawargane"
     },
     {
       "surface": "ובעד",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "קהל",
-      "gloss": "jamaah"
+      "gloss": "pasamuwan"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-20T23:14:27.753237612Z",
+  "timestamp": "2026-08-24T05:39:07.472163069Z",
   "model": "glm-5.3"
 }

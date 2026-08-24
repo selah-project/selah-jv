@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 119,
-  "translation": "Dhuh, tansah aku tresna marang TORAT-é: sadina muput sanggane aku ngalap-alap.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:05:54.463759231Z",
+  "translation": "Kadospun prayoga kula tresna marang torat-Mu; sedinten muput ⟨iku⟩ panganggit-anggitan kula.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kadospun prayoga"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "kula tresna"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "marang torat-Mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "muput"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sedinten"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨iku⟩"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "panganggit-anggitan kula"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:37.229537999Z",
   "model": "glm-5.3"
 }

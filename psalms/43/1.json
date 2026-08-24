@@ -5,8 +5,53 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 43,
-  "translation": "Adili aku, dudu Elohim, lan dabut dabutanku saka bangsa kang ora ngestreni, saka wong kang cidra lan nglarakake aku slametake.",
-  "tokens": [],
-  "timestamp": "2026-08-21T01:49:08.120498839Z",
+  "translation": "Para aku, Elohim, lan tuna prakaraku saka bangsa sing ora kiriman, saka wong cidra lan panganiaya sira ngluwari aku.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "para aku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "lan tuna"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "prakaraku"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "saka bangsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kiriman"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "saka wong"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "cidra"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "lan panganiaya"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "sira ngluwari aku"
+    }
+  ],
+  "timestamp": "2026-08-24T06:02:50.942668802Z",
   "model": "glm-5.3"
 }

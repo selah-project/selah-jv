@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 19,
-  "translation": "Lan matamu aja ngasihi ⟨⟨⟩⟩: nyawa kanggo nyawa, mata kanggo mata, untu kanggo untu, tangan kanggo tangan, sikil kanggo sikil.",
+  "translation": " Lan matamu aja nganti welas asih: nyawa ganti nyawa, mripat ganti mripat, waja ganti waja, tangan ganti tangan, sikil ganti sikil.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "lan aja"
+      "gloss": "Lan aja"
     },
     {
       "surface": "תחוס",
-      "gloss": "ngasihi"
+      "gloss": "nganti welas asih"
     },
     {
       "surface": "עינך",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "בנפש",
-      "gloss": "kanggo nyawa"
+      "gloss": "ganti nyawa"
     },
     {
       "surface": "עין",
-      "gloss": "mata"
+      "gloss": "mripat"
     },
     {
       "surface": "בעין",
-      "gloss": "kanggo mata"
+      "gloss": "ganti mripat"
     },
     {
       "surface": "שן",
-      "gloss": "untu"
+      "gloss": "waja"
     },
     {
       "surface": "בשן",
-      "gloss": "kanggo untu"
+      "gloss": "ganti waja"
     },
     {
       "surface": "יד",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "kanggo tangan"
+      "gloss": "ganti tangan"
     },
     {
       "surface": "רגל",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "ברגל",
-      "gloss": "kanggo sikil"
+      "gloss": "ganti sikil"
     }
   ],
-  "timestamp": "2026-08-20T23:35:29.669317806Z",
+  "timestamp": "2026-08-24T05:42:47.824707450Z",
   "model": "glm-5.3"
 }

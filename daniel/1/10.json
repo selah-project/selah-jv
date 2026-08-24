@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan pangarsa para kasim ngandika marang Daniel: Aku wedi marang bendarané ratu, sing wus nemtokake ⟨את⟩ pangananmu lan ⟨את⟩ ombénmu; déné apa prayogané ywan ⟨⟨ia⟩⟩ ndeleng ⟨את⟩ praupamu sungkan, tinimbang para enom sing umuré padha karo umurmu, lan kowé ngedhekake ⟨את⟩ sirahku marang ratu.",
+  "translation": "Lan pangérané para kasim iku ngandika marang Daniel: Aku wedi marang ⟨את⟩ bendaraku sang raja, sing wus nemtokake ⟨את⟩ pangananmu lan ⟨את⟩ ombènanmu; awit apa déné panjenengané katon ⟨את⟩ rainému sing muram, mbandhingaké para enom sing padha umurmu, iku bakal ndadèkaké sirahku kaluputan ing sang raja.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ngandika"
+      "gloss": "lan ngandika"
     },
     {
       "surface": "שר",
-      "gloss": "pangarsa"
+      "gloss": "pangérané"
     },
     {
       "surface": "הסריסים",
@@ -34,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bendarané ratu"
+      "marks": "bendaraku sang raja"
     },
     {
       "surface": "אדני",
-      "gloss": "bendarané"
+      "gloss": "bendaraku"
     },
     {
       "surface": "המלך",
-      "gloss": "ratu"
+      "gloss": "sang raja"
     },
     {
       "surface": "אשר",
@@ -64,40 +64,40 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "ombénmu"
+      "marks": "ombènanmu"
     },
     {
       "surface": "משתיכם",
-      "gloss": "ombénmu"
+      "gloss": "ombènanmu"
     },
     {
       "surface": "אשר",
-      "gloss": "déné"
+      "gloss": "awit"
     },
     {
       "surface": "למה",
-      "gloss": "apa prayogané"
+      "gloss": "apa déné"
     },
     {
       "surface": "יראה",
-      "gloss": "ndeleng"
+      "gloss": "katon"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "praupamu"
+      "marks": "rainému"
     },
     {
       "surface": "פניכם",
-      "gloss": "praupamu"
+      "gloss": "rainému"
     },
     {
       "surface": "זעפים",
-      "gloss": "sungkan"
+      "gloss": "muram"
     },
     {
       "surface": "מן",
-      "gloss": "tinimbang"
+      "gloss": "mbandhingaké"
     },
     {
       "surface": "הילדים",
@@ -109,11 +109,11 @@
     },
     {
       "surface": "כגילכם",
-      "gloss": "padha karo umurmu"
+      "gloss": "padha umurmu"
     },
     {
       "surface": "וחיבתם",
-      "gloss": "nedhekake"
+      "gloss": "ndadèkaké kaluputan"
     },
     {
       "surface": "את",
@@ -126,9 +126,9 @@
     },
     {
       "surface": "למלך",
-      "gloss": "marang ratu"
+      "gloss": "ing sang raja"
     }
   ],
-  "timestamp": "2026-08-21T02:53:35.941106193Z",
+  "timestamp": "2026-08-24T06:07:54.201969791Z",
   "model": "glm-5.3"
 }

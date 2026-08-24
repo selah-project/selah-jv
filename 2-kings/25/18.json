@@ -5,24 +5,24 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 25,
-  "translation": "Lan pangarsane juru sambar iku njupuk ⟨את⟩ Serayah imam kang utama, lan ⟨את⟩ Tsefanyah imam kang kalih, lan ⟨את⟩ telune panjaga ⟨the⟩ lawang.",
+  "translation": "Lan panggedhé juru-sita iku njupuk ⟨את⟩ Serayah imam kang utama, lan ⟨את⟩ Tsefanyah imam kang kapindho, lan ⟨את⟩ telung panjaga ing lawang.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "lan njupuk"
+      "gloss": "lan-njupuk"
     },
     {
       "surface": "רב",
-      "gloss": "pangarsa"
+      "gloss": "panggedhé"
     },
     {
       "surface": "טבחים",
-      "gloss": "juru sambar"
+      "gloss": "juru-sita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Serayah"
+      "marks": "Serayah imam kang utama"
     },
     {
       "surface": "שריה",
@@ -34,12 +34,12 @@
     },
     {
       "surface": "הראש",
-      "gloss": "kang utama"
+      "gloss": "kang-utama"
     },
     {
       "surface": "ואת",
-      "gloss": "lan ⟨את⟩",
-      "marks": "Tsefanyah"
+      "gloss": "lan-⟨את⟩",
+      "marks": "Tsefanyah imam kang kapindho"
     },
     {
       "surface": "צפניהו",
@@ -51,16 +51,16 @@
     },
     {
       "surface": "משנה",
-      "gloss": "kang kalih"
+      "gloss": "kang-kapindho"
     },
     {
       "surface": "ואת",
-      "gloss": "lan ⟨את⟩",
-      "marks": "telune panjaga lawang"
+      "gloss": "lan-⟨את⟩",
+      "marks": "telung panjaga ing lawang"
     },
     {
       "surface": "שלשת",
-      "gloss": "telune"
+      "gloss": "telu"
     },
     {
       "surface": "שמרי",
@@ -68,9 +68,9 @@
     },
     {
       "surface": "הסף",
-      "gloss": "lawang"
+      "gloss": "ing-lawang"
     }
   ],
-  "timestamp": "2026-08-21T04:08:30.346202100Z",
+  "timestamp": "2026-08-24T05:53:48.157176688Z",
   "model": "glm-5.3"
 }

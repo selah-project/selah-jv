@@ -5,8 +5,41 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 103,
-  "translation": "Kaya bapak ngasihi marang anak-anake, mangkono uga Yahweh ngasihi ⟨s行⟩ sing ndedonga mring Panjenengane.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:00:58.734347283Z",
+  "translation": "Kaya bapa ngluwungi ana ing sandhingé anak-anaké, mengkono uga Yahweh ngluwungi ⟨para⟩ sing wedi marang Panjenengané.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "kaya ngluwungi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "bapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing sandhingé"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "anak-anaké"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ngluwungi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ana ing sandhingé"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "sing wedi marang Panjenengané"
+    }
+  ],
+  "timestamp": "2026-08-24T06:03:37.231607801Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Lah, duwene Yahweh Elohimmu ⟨⟨⟩⟩ iku ⟨the⟩ langit lan langiting langit, bumi lan sabarang sing ana ing jroné.",
+  "translation": "Ndheng, duweke Yahweh, Elohim-mu, ⟨punika⟩ langit lan langiting langit, bumi lan sadaya ing sajroning ⟨punika⟩.",
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "Lah"
+      "gloss": "ndheng"
     },
     {
       "surface": "ליהוה",
-      "gloss": "duwene Yahweh"
+      "gloss": "duweke Yahweh"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohimmu"
+      "gloss": "Elohim-mu"
     },
     {
       "surface": "השמים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ושמי",
-      "gloss": "lan langit"
+      "gloss": "lan langiting"
     },
     {
       "surface": "השמים",
-      "gloss": "ing langit"
+      "gloss": "langit"
     },
     {
       "surface": "הארץ",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "lan kabeh"
+      "gloss": "lan sadaya"
     },
     {
       "surface": "אשר",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "ing jroné"
+      "gloss": "ing sajroning ⟨punika⟩"
     }
   ],
-  "timestamp": "2026-08-20T23:32:44.487319345Z",
+  "timestamp": "2026-08-24T05:43:00.845517614Z",
   "model": "glm-5.3"
 }

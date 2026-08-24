@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 38,
-  "translation": "Gomer lan kabeh wadyabalane, beja Togarmah, ing pinggir lor, lan ⟨את⟩ kabeh wadyabalane — bangsa-bangsa akeh ⟨את⟩ ⟨אתך⟩.",
+  "translation": "Gomer lan kabeh wadyabdale, kulawargane Togarma ing pucukuning lor, lan ⟨את⟩ kabeh wadyabdale — bangsa-bangsa akeh karo ⟨את⟩ kowe.",
   "tokens": [
     {
       "surface": "גמר",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אגפיה",
-      "gloss": "wadyabalane"
+      "gloss": "wadyabdale"
     },
     {
       "surface": "בית",
-      "gloss": "beja"
+      "gloss": "kulawargane"
     },
     {
       "surface": "תוגרמה",
-      "gloss": "Togarmah"
+      "gloss": "Togarma"
     },
     {
       "surface": "ירכתי",
-      "gloss": "pinggir"
+      "gloss": "ing pucukuning"
     },
     {
       "surface": "צפון",
@@ -38,7 +38,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kabeh wadyabalane"
+      "marks": "kabeh wadyabdale"
     },
     {
       "surface": "כל",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אגפיו",
-      "gloss": "wadyabalane"
+      "gloss": "wadyabdale"
     },
     {
       "surface": "עמים",
@@ -58,10 +58,9 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩",
-      "marks": "kowe (Gog)"
+      "gloss": "karo ⟨את⟩ kowe"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.792966443Z",
+  "timestamp": "2026-08-24T05:58:57.804403652Z",
   "model": "glm-5.3"
 }

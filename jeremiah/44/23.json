@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 44,
-  "translation": "Amarga kokkethek dupa lan kokdosa marang Yahweh, lan ora kokrungu swarane Yahweh, lan ing torate, ing parentahe, lan ing pasaksine kowe ora lumampah, mulane bilai iiki ketemu ⟨את⟩ ⟨אתכם⟩ kaya dina iki.",
+  "translation": "Amarga sira padha ngundhuh dupa lan amarga sira padha dosa marang Yahweh, lan ora padha nglenturi swarane Yahweh, lan ing torate, ing pancase makane, ing pasaksine, ora padha mlaku; mulane bilai iki ndhedhemi sira, kaya ing dina iki.",
   "tokens": [
     {
       "surface": "מפני",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "קטרתם",
-      "gloss": "kokkethek dupa"
+      "gloss": "sira padha ngundhuh dupa"
     },
     {
       "surface": "ואשר",
-      "gloss": "lan —"
+      "gloss": "lan amarga"
     },
     {
       "surface": "חטאתם",
-      "gloss": "kokdosa"
+      "gloss": "sira padha dosa"
     },
     {
       "surface": "ליהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "kokrungu"
+      "gloss": "sira padha nglenturi"
     },
     {
       "surface": "בקול",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ובחקתיו",
-      "gloss": "lan ing parentahe"
+      "gloss": "lan ing pancase makane"
     },
     {
       "surface": "ובעדותיו",
@@ -65,24 +65,24 @@
     },
     {
       "surface": "הלכתם",
-      "gloss": "kowe ora lumampah"
+      "gloss": "sira padha mlaku"
     },
     {
       "surface": "על",
-      "gloss": "mulane"
-    },
-    {
-      "surface": "כן",
       "gloss": "—"
     },
     {
+      "surface": "כן",
+      "gloss": "mulane"
+    },
+    {
       "surface": "קראת",
-      "gloss": "ketemu"
+      "gloss": "ndhedhemi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "kowe"
+      "gloss": "⟨את⟩",
+      "marks": "sira"
     },
     {
       "surface": "הרעה",
@@ -90,17 +90,17 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "iiki"
+      "gloss": "iki"
     },
     {
       "surface": "כיום",
-      "gloss": "kaya dina"
+      "gloss": "kaya ing dina"
     },
     {
       "surface": "הזה",
       "gloss": "iki"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.584519120Z",
+  "timestamp": "2026-08-24T05:56:32.809752828Z",
   "model": "glm-5.3"
 }

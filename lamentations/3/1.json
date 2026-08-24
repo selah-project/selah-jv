@@ -5,7 +5,7 @@
   "book": "lamentations",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Aku iki ⟨⟨the⟩⟩ wong lanang sing wis ndeleng kasusahan ing sangisoré ⟨⟨the⟩⟩ penthung saka nesune.",
+  "translation": "Aku iki ⟨⟨the⟩⟩ wong ⟨ing⟩kang wis ndeleng kasusahan ing sanggah (tongkat) bebendune.",
   "tokens": [
     {
       "surface": "אני",
@@ -13,25 +13,26 @@
     },
     {
       "surface": "הגבר",
-      "gloss": "⟨the⟩ wong lanang"
+      "gloss": "wong"
     },
     {
       "surface": "ראה",
-      "gloss": "ndeleng"
+      "gloss": "wis ndeleng"
     },
     {
       "surface": "עני",
-      "gloss": "kasusahan"
+      "gloss": "kasusahan",
+      "marks": "kasusahan"
     },
     {
       "surface": "בשבט",
-      "gloss": "ing penthung"
+      "gloss": "ing sanggah (tongkat)"
     },
     {
       "surface": "עברתו",
-      "gloss": "nesune"
+      "gloss": "bebendune"
     }
   ],
-  "timestamp": "2026-08-21T02:43:51.961079180Z",
+  "timestamp": "2026-08-24T12:34:18.477313850Z",
   "model": "glm-5.3"
 }

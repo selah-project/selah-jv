@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 4,
-  "translation": "Lan Filistim padha wedi, awit padha munjuk: Elohim ⟨has⟩ teka menyang ⟨the⟩ pakemah. Banjur padha munjuk: Cilaka kita! Sebab ⟨there has⟩ ora ⟨been⟩ mangkono iki ing biyèn-dhisik.",
+  "translation": "Lan wong-wong Filisti wedi, awit padha ngucap: \"Elohim teka ing kemah.\" Lan padha ngucap: \"Aduh cilaka kita! awit ora tau ana kang kaya mangkono iki sandhing wingi lan sadurungé.\"",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "padha wedi"
+      "gloss": "lan padha wedi"
     },
     {
       "surface": "הפלשתים",
-      "gloss": "Filistim"
+      "gloss": "wong Filisti"
     },
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "padha munjuk"
+      "gloss": "padha ngucap"
     },
     {
       "surface": "בא",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "ing"
     },
     {
       "surface": "המחנה",
-      "gloss": "pakemah"
+      "gloss": "kemah"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "padha munjuk"
+      "gloss": "lan padha ngucap"
     },
     {
       "surface": "אוי",
-      "gloss": "cilaka"
+      "gloss": "aduh cilaka"
     },
     {
       "surface": "לנו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "awit"
     },
     {
       "surface": "לא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "היתה",
-      "gloss": "kelakon"
+      "gloss": "tau ana"
     },
     {
       "surface": "כזאת",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "אתמול",
-      "gloss": "ing biyèn"
+      "gloss": "sandhing wingi"
     },
     {
       "surface": "שלשם",
-      "gloss": "-dhisik"
+      "gloss": "sadurungé"
     }
   ],
-  "timestamp": "2026-08-20T23:57:31.887195753Z",
+  "timestamp": "2026-08-24T06:12:01.835040843Z",
   "model": "glm-5.3"
 }

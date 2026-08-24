@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "jv",
   "chapter": 38,
-  "translation": "Lan deweke nambahi maneh mbabar putra, lan dijenengi ⟨את⟩ jenenge Shela; lan Yehudha ana ing Khezib nalika deweke nglairake ⟨את⟩ ⟨אתו⟩.",
+  "translation": "Lan dheweke nambah maneh, nglairake putra lanh, lan ngarani ⟨את⟩ asmane Shelah; lan ⟨dheweke⟩ ana ing Khezib nalika dheweke nglairake ⟨את⟩-ira.",
   "tokens": [
     {
       "surface": "ותסף",
-      "gloss": "nambahi"
+      "gloss": "nambah maneh"
     },
     {
       "surface": "עוד",
@@ -17,32 +17,32 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "mbabar"
+      "gloss": "nglairake"
     },
     {
       "surface": "בן",
-      "gloss": "putra"
+      "gloss": "putra lanang"
     },
     {
       "surface": "ותקרא",
-      "gloss": "dijenengi"
+      "gloss": "ngarani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jenenge (Shela)"
+      "marks": "asmane"
     },
     {
       "surface": "שמו",
-      "gloss": "jenenge"
+      "gloss": "asmane"
     },
     {
       "surface": "שלה",
-      "gloss": "Shela"
+      "gloss": "Shelah"
     },
     {
       "surface": "והיה",
-      "gloss": "lan dadi\/ana"
+      "gloss": "lan ana"
     },
     {
       "surface": "בכזיב",
@@ -54,9 +54,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩"
+      "gloss": "⟨את⟩",
+      "marks": "ira (dheweke)"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.529383429Z",
+  "timestamp": "2026-08-24T05:34:02.863279686Z",
   "model": "glm-5.3"
 }

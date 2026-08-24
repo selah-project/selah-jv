@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 28,
-  "translation": "Yahweh bakal ngunggahake marang sira ⟨א bangsa saka adoh, saka pucuking bumi, kaya elang sing nyilam miber — bangsa sing basané ora kokrungu.",
+  "translation": "Yahweh bakal ngunggahake marang sira sawijining bangsa saka adoh, saka wujuding pucuk ⟨⟨ing⟩⟩ bumi, kaya déné ramune manuk nasar ancik-ancik; bangsa sing ilaté ora kokrungu.",
   "tokens": [
     {
       "surface": "ישא",
-      "gloss": "ngunggahake"
+      "gloss": "bakal ngunggahake"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גוי",
-      "gloss": "bangsa"
+      "gloss": "sawijining bangsa"
     },
     {
       "surface": "מרחוק",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "saka pucuking"
+      "gloss": "saka pucuk"
     },
     {
       "surface": "הארץ",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kaya"
+      "gloss": "kaya déné"
     },
     {
       "surface": "ידאה",
-      "gloss": "nyilam miber"
+      "gloss": "ancik-ancik ramune"
     },
     {
       "surface": "הנשר",
-      "gloss": "elang"
+      "gloss": "manuk nasar"
     },
     {
       "surface": "גוי",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "לשנו",
-      "gloss": "basané"
+      "gloss": "ilaté"
     }
   ],
-  "timestamp": "2026-08-20T23:39:08.563613703Z",
+  "timestamp": "2026-08-24T05:43:56.239911420Z",
   "model": "glm-5.3"
 }

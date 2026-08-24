@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 22,
-  "translation": "Lan sapi utawa wedhus kang kakehan utawa kurang anggota, minangka peparing kalilan kokelola ⟨את⟩ ⟨אתו⟩, nanging kanggo nadar ora bakal ditampa.",
+  "translation": "Nanging sapi utawa wedhus sing duwe anggota awak luwih dawa utawa kurang sampurna, kena kok cacahaké ⟨את⟩ minangka pepéning kanthi sukarela, nanging kanggo nadar ora bakal kokirengake.",
   "tokens": [
     {
       "surface": "ושור",
-      "gloss": "lan sapi"
+      "gloss": "nanging sapi"
     },
     {
       "surface": "ושה",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "שרוע",
-      "gloss": "kakehan anggota"
+      "gloss": "sing anggota awake luwih dawa"
     },
     {
       "surface": "וקלוט",
-      "gloss": "kurang anggota"
+      "gloss": "utawa kurang sampurna"
     },
     {
       "surface": "נדבה",
-      "gloss": "peparing kalilan"
+      "gloss": "pepéning kanthi sukarela"
     },
     {
       "surface": "תעשה",
-      "gloss": "kokelola"
+      "gloss": "kena kok cacahaké"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "iku — sapi utawa wedhus sing kakehan\/kurang anggota"
+      "gloss": "⟨את⟩",
+      "marks": "sapi utawa wedhus sing cacat (objek sing ditandhani)"
     },
     {
       "surface": "ולנדר",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "ירצה",
-      "gloss": "bakal ditampa"
+      "gloss": "bakal kokirengake"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.847088589Z",
+  "timestamp": "2026-08-24T05:38:37.497055016Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Lair Nadab lan Avihu seda ing ngarepe bapakne, lan ⟨⟨ora nduweni⟩⟩ anak; mulane Elazar lan Itamar ngayahi pangkur imam.",
+  "translation": "Lah Nadab lan Avihu padha mati sangarepe bapakne, lan anak-anake ora duwe, lan Elazar lan Itamar kang padha dadi imam.",
   "tokens": [
     {
       "surface": "וימת",
-      "gloss": "Lan seda"
+      "gloss": "lah...mati"
     },
     {
       "surface": "נדב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "ing ngarepe"
+      "gloss": "sangarepe"
     },
     {
       "surface": "אביהם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובנים",
-      "gloss": "lan anak"
+      "gloss": "lan anak-anake"
     },
     {
       "surface": "לא",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "היו",
-      "gloss": "ana"
+      "gloss": "duwe"
     },
     {
       "surface": "להם",
-      "gloss": "kanggo awake dhewe"
+      "gloss": "kang"
     },
     {
       "surface": "ויכהנו",
-      "gloss": "lan ngayahi pangkur imam"
+      "gloss": "padha dadi imam"
     },
     {
       "surface": "אלעזר",
@@ -56,6 +56,6 @@
       "gloss": "lan Itamar"
     }
   ],
-  "timestamp": "2026-08-21T03:28:12.865950668Z",
+  "timestamp": "2026-08-24T06:09:59.016422589Z",
   "model": "glm-5.3"
 }

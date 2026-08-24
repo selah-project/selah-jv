@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 15,
-  "translation": "Banjur Dawid ngandika: Ora kena kang ngunggahake ⟨את⟩ Petrané Elohim kajaba wong Léwi, amarga ing dhèwèké Yahweh milih kanggo ngunggahake ⟨את⟩ Petrané Yahweh lan kanggo ngladèni ⟨É⟩ nganti ing salawas-lawasé.",
+  "translation": "Nalika iku Dawid ngandika: Ora kena ngunggahake ⟨את⟩ padataning Elohim kajaba wong Lewi, awit Yahweh wus milihe dheweke kanggo ngunggahake ⟨את⟩ padataning Yahweh lan kanggo ngabekti marang Panjenengane nganti saiki-lawasé.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "banjur\/wektu iku"
+      "gloss": "nalika iku"
     },
     {
       "surface": "אמר",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "לשאת",
-      "gloss": "kanggo ngunggahake"
+      "gloss": "ngunggahake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Petrané"
+      "marks": "padataning Elohim"
     },
     {
       "surface": "ארון",
-      "gloss": "Petra"
+      "gloss": "padatan"
     },
     {
       "surface": "האלהים",
@@ -42,27 +42,27 @@
     },
     {
       "surface": "כי",
-      "gloss": "amarga"
+      "gloss": "awit"
     },
     {
       "surface": "אם",
-      "gloss": "kajaba (kèli saka negasi לא ... אם)"
+      "gloss": "kajaba"
     },
     {
       "surface": "הלוים",
-      "gloss": "wong Léwi"
+      "gloss": "wong Lewi"
     },
     {
       "surface": "כי",
-      "gloss": "amarga"
+      "gloss": "awit"
     },
     {
       "surface": "בם",
-      "gloss": "ing dhèwèké"
+      "gloss": "ing dheweke"
     },
     {
       "surface": "בחר",
-      "gloss": "milih"
+      "gloss": "wus milihe"
     },
     {
       "surface": "יהוה",
@@ -75,11 +75,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Petrané"
+      "marks": "padataning Yahweh"
     },
     {
       "surface": "ארון",
-      "gloss": "Petra"
+      "gloss": "padatan"
     },
     {
       "surface": "יהוה",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "ולשרתו",
-      "gloss": "lan kanggo ngladèni Dhèwèké"
+      "gloss": "lan kanggo ngabekti marang Panjenengane"
     },
     {
       "surface": "עד",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "salawas-lawasé"
+      "gloss": "saiki-lawasé"
     }
   ],
-  "timestamp": "2026-08-21T03:23:20.976346137Z",
+  "timestamp": "2026-08-24T06:10:15.391506412Z",
   "model": "glm-5.3"
 }

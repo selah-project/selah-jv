@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 14,
-  "translation": "Banjur Yoab teka marang sang nata lan pituturake ⟨⟨iku⟩⟩ marang ⟨⟨dhewe⟩⟩; banjur ⟨⟨sang nata⟩⟩ nimbali Avshalom, lan ⟨⟨Avshalom⟩⟩ teka marang sang nata, sumujud ing ngarsane, mucuk ing bumi, ngarsa sang nata; banjur sang nata ambungan Avshalom.",
+  "translation": "Banjur Yoab teka marang sang raja lan mbritakake ⟨דבר⟩ marang ⟨dheweke⟩; banjur ⟨dheweke⟩ ngundhang Avshalom, lan ⟨dheweke⟩ teka marang sang raja, lan sujud marang ⟨dheweke⟩ ing raine tumuju ing bumi ing ngarsane sang raja; lan sang raja nyumbul Avshalom.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "המלך",
-      "gloss": "sang nata"
+      "gloss": "sang raja"
     },
     {
       "surface": "ויגד",
-      "gloss": "pituturake"
+      "gloss": "mbritakake"
     },
     {
       "surface": "לו",
-      "gloss": "marang ⟨⟨dhewe⟩⟩"
+      "gloss": "⟨dheweke⟩"
     },
     {
       "surface": "ויקרא",
-      "gloss": "nimbali"
+      "gloss": "ngundhang"
     },
     {
       "surface": "אל",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "המלך",
-      "gloss": "sang nata"
+      "gloss": "sang raja"
     },
     {
       "surface": "וישתחו",
-      "gloss": "sumujud"
+      "gloss": "sujud"
     },
     {
       "surface": "לו",
-      "gloss": "marang ⟨⟨dhewe⟩⟩"
+      "gloss": "⟨dheweke⟩"
     },
     {
       "surface": "על",
@@ -69,33 +69,33 @@
     },
     {
       "surface": "אפיו",
-      "gloss": "mucuk\/prahe"
+      "gloss": "raine"
     },
     {
       "surface": "ארצה",
-      "gloss": "ing bumi"
+      "gloss": "tumuju ing bumi"
     },
     {
       "surface": "לפני",
-      "gloss": "ngarsa"
+      "gloss": "ing ngarsane"
     },
     {
       "surface": "המלך",
-      "gloss": "sang nata"
+      "gloss": "sang raja"
     },
     {
       "surface": "וישק",
-      "gloss": "ambungan"
+      "gloss": "nyumbul"
     },
     {
       "surface": "המלך",
-      "gloss": "sang nata"
+      "gloss": "sang raja"
     },
     {
       "surface": "לאבשלום",
       "gloss": "Avshalom"
     }
   ],
-  "timestamp": "2026-08-21T00:09:25.195273160Z",
+  "timestamp": "2026-08-24T05:49:51.645719994Z",
   "model": "glm-5.3"
 }

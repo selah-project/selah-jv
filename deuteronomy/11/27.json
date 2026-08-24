@@ -5,12 +5,12 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 11,
-  "translation": "yaiku ⟨את⟩ berkah, menawa kowe mireng ing parentahe Yahweh Elohim-mu, sing Aku dhawuhake marang ⟨את⟩ ⟨אתכם⟩ ing dina iki —",
+  "translation": "Sangane berkah, menawa kowe padha ngrungokke ⟨⟨marang⟩⟩ parentahing Yahweh Elohimira, sing aku dhawuhake ⟨את⟩ marang kowe dina iki.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "berkah"
+      "marks": "sangane berkah"
     },
     {
       "surface": "הברכה",
@@ -18,19 +18,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "menawa"
+      "gloss": "menawa\/sing"
     },
     {
       "surface": "תשמעו",
-      "gloss": "kowe mireng"
+      "gloss": "kowe padha ngrungokke"
     },
     {
       "surface": "אל",
-      "gloss": "ing"
+      "gloss": "marang"
     },
     {
       "surface": "מצות",
-      "gloss": "parentahe"
+      "gloss": "parentah"
     },
     {
       "surface": "יהוה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim-mu"
+      "gloss": "Elohimira"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "Aku"
+      "gloss": "aku"
     },
     {
       "surface": "מצוה",
@@ -54,14 +54,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
+      "gloss": "⟨את⟩",
       "marks": "kowe"
     },
     {
       "surface": "היום",
-      "gloss": "ing dina iki"
+      "gloss": "dina iki"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.753210524Z",
+  "timestamp": "2026-08-24T05:44:13.398934792Z",
   "model": "glm-5.3"
 }

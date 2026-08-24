@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Yen marang pangéthok ⟨⟨ן אם⟩⟩ piyambake ngéthoki, lan marang wong cintha ⟨ד חן⟩ maringi sih.",
+  "translation": "Yen marang pangarepe, panjenengane ngarep; marang wong miskin panjenengane maringi sih.",
   "tokens": [
     {
       "surface": "אם",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "ללצים",
-      "gloss": "marang pangéthok"
+      "gloss": "marang pangarepe"
     },
     {
       "surface": "הוא",
-      "gloss": "piyambake"
+      "gloss": "panjenengane"
     },
     {
       "surface": "יליץ",
-      "gloss": "ngéthoki"
+      "gloss": "ngarep"
     },
     {
       "surface": "ולעניים",
-      "gloss": "lan marang wong cintha"
+      "gloss": "marang wong miskin"
     },
     {
       "surface": "יתן",
@@ -36,6 +36,6 @@
       "gloss": "sih"
     }
   ],
-  "timestamp": "2026-08-21T02:10:54.586924744Z",
+  "timestamp": "2026-08-24T06:05:10.826940052Z",
   "model": "glm-5.3"
 }

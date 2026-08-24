@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 7,
-  "translation": "Lan mripatingku ora bakal miraos, lan aku ora bakal welas; miturut dalan-dalanmu marang kowé takamili, lan daganingmu ana ing satengahému bakal ana, lan kowé bakal weruh yèn aku ⟨⟨iku⟩⟩ Yahweh sing nuthuk.",
+  "translation": "Lan matane aku bakal ora welas, lan aku ora bakal miraos; miturut dalan-dalanmu marang sira aku bakal nindakake, lan pepaked-pakedmu ana ing tengah-tengahmu bakal ⟨isih⟩ ana; lan sira bakal weruh manawa aku iku Yahweh sing nutu.",
   "tokens": [
     {
       "surface": "ולא",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "תחוס",
-      "gloss": "bakal miraos"
+      "gloss": "welas"
     },
     {
       "surface": "עיני",
-      "gloss": "mripatingku"
+      "gloss": "mataku"
     },
     {
       "surface": "ולא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אחמול",
-      "gloss": "bakal welas"
+      "gloss": "miraos"
     },
     {
       "surface": "כדרכיך",
@@ -33,19 +33,23 @@
     },
     {
       "surface": "עליך",
-      "gloss": "marang kowé"
+      "gloss": "marang sira"
     },
     {
       "surface": "אתן",
-      "gloss": "takamili"
+      "gloss": "kutindakake"
     },
     {
       "surface": "ותועבותיך",
-      "gloss": "lan daganingmu"
+      "gloss": "lan pepaked-pakedmu"
     },
     {
       "surface": "בתוכך",
-      "gloss": "ing satengahému"
+      "gloss": "ing tengah-tengahmu"
+    },
+    {
+      "surface": "תהיינך",
+      "gloss": ""
     },
     {
       "surface": "תהיין",
@@ -53,11 +57,11 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "lan kowé bakal weruh"
+      "gloss": "lan sira bakal weruh"
     },
     {
       "surface": "כי",
-      "gloss": "yèn"
+      "gloss": "manawa"
     },
     {
       "surface": "אני",
@@ -69,9 +73,9 @@
     },
     {
       "surface": "מכה",
-      "gloss": "sing nuthuk"
+      "gloss": "sing nutu"
     }
   ],
-  "timestamp": "2026-08-21T01:07:56.470507608Z",
+  "timestamp": "2026-08-24T05:57:22.023146746Z",
   "model": "glm-5.3"
 }

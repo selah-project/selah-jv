@@ -5,43 +5,43 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan kadadéan ing tahun kaping sekawan puluh, ing wulan kaping sebelas, ing dino kapisan saking wulan, Moshe nituturake marang para putra Yisrael miturut kabeh sing dawuhake Yahweh ⟨את⟩ ⟨אתו⟩ marang dheweke.",
+  "translation": "Lan kadadéan ing taun kaping patang puluh, ing sasi kaping sewelas, ing siji dinaing sasi, Moshe medhar marang anak-anaking Yisrael, miturut sakabehing sing Yahweh parentahake ⟨את⟩ dheweke marang wong-wong mau",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Lan kadadéan"
+      "gloss": "lan kadadéan"
     },
     {
       "surface": "בארבעים",
-      "gloss": "ing kaping sekawan puluh"
+      "gloss": "ing kaping patang puluh"
     },
     {
       "surface": "שנה",
-      "gloss": "tahun"
+      "gloss": "taun"
     },
     {
       "surface": "בעשתי",
-      "gloss": "ing kaping sebelas"
+      "gloss": "ing kaping sewelas"
     },
     {
       "surface": "עשר",
-      "gloss": "(puluh siji)"
+      "gloss": "(sewelas)"
     },
     {
       "surface": "חדש",
-      "gloss": "wulan"
+      "gloss": "sasi"
     },
     {
       "surface": "באחד",
-      "gloss": "ing dino kapisan"
+      "gloss": "ing siji"
     },
     {
       "surface": "לחדש",
-      "gloss": "saking wulan"
+      "gloss": "saka\/dening sasi"
     },
     {
       "surface": "דבר",
-      "gloss": "nituturake"
+      "gloss": "medhar"
     },
     {
       "surface": "משה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "para putra"
+      "gloss": "anak-anaking"
     },
     {
       "surface": "ישראל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ככל",
-      "gloss": "miturut kabeh"
+      "gloss": "miturut sakabehing"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "dawuhake"
+      "gloss": "parentahake"
     },
     {
       "surface": "יהוה",
@@ -77,14 +77,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Moshe"
+      "gloss": "⟨את⟩",
+      "marks": "dheweke (obyek saka parentah Yahweh, yaiku Moshe)"
     },
     {
       "surface": "אלהם",
-      "gloss": "marang dheweke"
+      "gloss": "marang wong-wong mau"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.758094266Z",
+  "timestamp": "2026-08-24T05:42:11.681312985Z",
   "model": "glm-5.3"
 }

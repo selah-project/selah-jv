@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Banjur kadadéan ⟨is⟩, amarga anak-anak Yisrael padha dosa marang Yahweh, Elohimé, sing ngunggahaké ⟨את⟩ ⟨the⟩ wong-wongé saka tanah Mitsrayim, saka sangisoring tangan Paroh ratu Mitsrayim, lan padha wedi ⟨to⟩ elohim liyan.",
+  "translation": "Lan kadadéané mangkono, jalaran anak-anak Israel padha dosa marang Yahweh, Elohimé, sing ngunggahaké ⟨את⟩ wong-wong mau saka tanah Mitsrayim, saka sangisoring tangan Paroh, ratu Mitsrayim, lan padha wedi marang elohim liyan.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "banjur kadadéan"
+      "gloss": "lan kadadéané"
     },
     {
       "surface": "כי",
-      "gloss": "amarga"
+      "gloss": "jalaran"
     },
     {
       "surface": "חטאו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "Israel"
     },
     {
       "surface": "ליהוה",
@@ -42,7 +42,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "saka tanah Mitsrayim"
+      "marks": "wong-wong mau"
     },
     {
       "surface": "מארץ",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "מתחת",
-      "gloss": "saka sangisoring"
+      "gloss": "sangisore"
     },
     {
       "surface": "יד",
@@ -85,6 +85,6 @@
       "gloss": "liyan"
     }
   ],
-  "timestamp": "2026-08-21T00:29:06.546891514Z",
+  "timestamp": "2026-08-24T05:52:29.517345804Z",
   "model": "glm-5.3"
 }

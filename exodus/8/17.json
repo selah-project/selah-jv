@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Sebab lamun kowé ora masrahake lunga ⟨את⟩ umat-Ku, lah Aku ngutus marang kowé lan marang para abdimu lan marang umatmu lan marang omah-omahmu ⟨את⟩ roeng-roeng; lan bakal kebak omah-omahé wong Mitsrayim ⟨את⟩ roeng-roeng, uga ⟨the⟩ lemah kang dhèwèké ana ing sadhuwuring.",
+  "translation": "Sebab yen kowe ora ngeliyakake ⟨את⟩ umat-Ku, lah, Aku ngutus marang kowe, marang para abdimu, marang umatmu, lan marang omah-omahmu ⟨את⟩ kumpulan laeng, lan omah-omah wong Misrayim bakal kebak ⟨את⟩ kumpulan laeng, uga dhadha bumi sing padha ana ing kono.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "lamun"
+      "gloss": "yen"
     },
     {
       "surface": "אינך",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "משלח",
-      "gloss": "masrahake lunga"
+      "gloss": "ngeliyakake"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "lah Aku"
+      "gloss": "lah, Aku"
     },
     {
       "surface": "משליח",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בך",
-      "gloss": "marang kowé"
+      "gloss": "marang kowe"
     },
     {
       "surface": "ובעבדיך",
@@ -59,11 +59,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "roeng-roeng"
+      "marks": "kumpulan laeng"
     },
     {
       "surface": "הערב",
-      "gloss": "roeng-roeng"
+      "gloss": "kumpulan laeng"
     },
     {
       "surface": "ומלאו",
@@ -71,20 +71,20 @@
     },
     {
       "surface": "בתי",
-      "gloss": "omah-omahé"
+      "gloss": "omah-omah"
     },
     {
       "surface": "מצרים",
-      "gloss": "wong Mitsrayim"
+      "gloss": "wong Misrayim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "roeng-roeng"
+      "marks": "kumpulan laeng"
     },
     {
       "surface": "הערב",
-      "gloss": "roeng-roeng"
+      "gloss": "kumpulan laeng"
     },
     {
       "surface": "וגם",
@@ -92,21 +92,21 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "⟨the⟩ lemah"
+      "gloss": "dhadha bumi"
     },
     {
       "surface": "אשר",
-      "gloss": "kang"
+      "gloss": "sing"
     },
     {
       "surface": "הם",
-      "gloss": "dhèwèké"
+      "gloss": "padha"
     },
     {
       "surface": "עליה",
-      "gloss": "ana ing sadhuwuring"
+      "gloss": "ana ing dhuwuré"
     }
   ],
-  "timestamp": "2026-08-20T22:58:46.228895505Z",
+  "timestamp": "2026-08-24T05:35:58.121442287Z",
   "model": "glm-5.3"
 }

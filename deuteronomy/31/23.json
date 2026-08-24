@@ -5,20 +5,20 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 31,
-  "translation": "Lan menehi parentah marang ⟨את⟩ Yehoshua bin Nun, lan ngandika: Sura lan santosa, awit sira bakal nggawa ⟨את⟩ anake-anake Israel marang ⟨the⟩ bumi sing daksumpahi marang dheweke, lan aku bakal ana ing sisihmu.",
+  "translation": "Lan dhawuhake ⟨את⟩ Yehosua bin Nun, lan ngandika: Santosa lan wani, awit sira bakal nggawa ⟨את⟩ para putra Israël menyang bumi kangining kula supantun marang dheweke, lan kula bakal ana bareng sira.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "Lan menehi parentah"
+      "gloss": "lan dhawuhake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehoshua bin Nun"
+      "marks": "Yehosua"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehoshua"
+      "gloss": "Yehosua"
     },
     {
       "surface": "בן",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "חזק",
-      "gloss": "Sura"
+      "gloss": "santosa"
     },
     {
       "surface": "ואמץ",
-      "gloss": "lan santosa"
+      "gloss": "lan wani"
     },
     {
       "surface": "כי",
@@ -55,31 +55,31 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "anake-anake Israel"
+      "marks": "para putra Israël"
     },
     {
       "surface": "בני",
-      "gloss": "anake-anake"
+      "gloss": "para putra"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Israël"
     },
     {
       "surface": "אל",
-      "gloss": "marang"
+      "gloss": "menyang"
     },
     {
       "surface": "הארץ",
-      "gloss": "bumi"
+      "gloss": "bumi kang"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kangining"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "daksumpahi"
+      "gloss": "kula supantun"
     },
     {
       "surface": "להם",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "ואנכי",
-      "gloss": "lan aku"
+      "gloss": "lan kula"
     },
     {
       "surface": "אהיה",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "עמך",
-      "gloss": "ing sisihmu"
+      "gloss": "bareng sira"
     }
   ],
-  "timestamp": "2026-08-20T23:40:43.588465485Z",
+  "timestamp": "2026-08-24T05:44:26.243894790Z",
   "model": "glm-5.3"
 }

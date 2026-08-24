@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Dawid banjur matur marang wong-wong sing ngadeg ana sisihane, mangkene: Apa sing bakal ditindakake marang wong sing bisa nglumpati ⟨את⟩ wong Palisti iku, lan nyingkiri cidra saka ing Yisrael? Awit sapa Palisti kang ora disunat iki, nganti wani nyirnakake laskar ⟨the⟩ Elohim sing urip?",
+  "translation": "Lan Dawid ngendika marang wong-wong sing ngadeg karo dheweke, ngucap: Apa sing bakal ditindakake marang wong sing mateni ⟨את⟩ Filisti iku lan ngluwari pangina saka Yisrael? Amargha sapa Filisti kang ora disunat iki, nganti ngina pasukane Elohim sing urip?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "banjur matur"
+      "gloss": "ngendika"
     },
     {
       "surface": "דוד",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עמו",
-      "gloss": "ana sisihane"
+      "gloss": "karo dheweke"
     },
     {
       "surface": "לאמר",
-      "gloss": "mangkene"
+      "gloss": "ngucap"
     },
     {
       "surface": "מה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "bakal ditindakake"
+      "gloss": "ditindakake"
     },
     {
       "surface": "לאיש",
@@ -53,16 +53,16 @@
     },
     {
       "surface": "יכה",
-      "gloss": "bisa nglumpati"
+      "gloss": "mateni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wong Palisti"
+      "marks": "Filisti"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "wong Palisti"
+      "gloss": "Filisti"
     },
     {
       "surface": "הלז",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "והסיר",
-      "gloss": "lan nyingkiri"
+      "gloss": "lan ngluwari"
     },
     {
       "surface": "חרפה",
-      "gloss": "cidra"
+      "gloss": "pangina"
     },
     {
       "surface": "מעל",
-      "gloss": "saka ing"
+      "gloss": "saka"
     },
     {
       "surface": "ישראל",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "awit"
+      "gloss": "amargha"
     },
     {
       "surface": "מי",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Palisti"
+      "gloss": "Filisti"
     },
     {
       "surface": "הערל",
-      "gloss": "kang ora disunat"
+      "gloss": "ora disunat"
     },
     {
       "surface": "הזה",
@@ -106,15 +106,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "nganti"
+      "gloss": "amargha"
     },
     {
       "surface": "חרף",
-      "gloss": "nyirnakake"
+      "gloss": "ngina"
     },
     {
       "surface": "מערכות",
-      "gloss": "laskar"
+      "gloss": "pasukan"
     },
     {
       "surface": "אלהים",
@@ -125,6 +125,6 @@
       "gloss": "sing urip"
     }
   ],
-  "timestamp": "2026-08-21T00:01:44.801983358Z",
+  "timestamp": "2026-08-24T05:49:22.645856541Z",
   "model": "glm-5.3"
 }

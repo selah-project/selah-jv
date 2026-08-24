@@ -5,8 +5,53 @@
   "book": "2-chronicles",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan Shelomoh putrane Dawid saya kukuh ing karajané, lan Yahweh, Elohimé, ⟨iya⟩ ⟨ana⟩ karo dhèwèké, lan哑 magnify — banjur ditindakaké: lan Panjenengané ngunggahaké ⟨dhèwèké⟩ dhuwur banget.",
-  "tokens": [],
-  "timestamp": "2026-08-21T03:31:26.982390444Z",
+  "translation": "Lan Shelomoh anaké Dawit munjer kuwat ing karajané, lan Yahweh Elohime ana karo dhèwèké, lan ngagungaké dhèwèké sangsaya dhuwur.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "munjer kuwat"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anaké"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "karajané"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "lan Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ana karo dhèwèké"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "lan ngagungaké dhèwèké"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "sangsaya dhuwur"
+    }
+  ],
+  "timestamp": "2026-08-24T06:10:09.246627408Z",
   "model": "glm-5.3"
 }

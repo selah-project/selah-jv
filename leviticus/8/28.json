@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan Moshe njupuk ⟨את⟩ ⟨אתם⟩ saka ing telapakane kang kabeh, lan ngedumi ing inggil pasaren ing dhuwuring kurban obor; pakaryan panahbahan iku ⟨is⟩ dadi bau sedhep, sesaji geni ⟨is⟩ iku kanggo Yahweh.",
+  "translation": "Lan Moshe njupuk ⟨את⟩ ⟨אתם⟩ saka ing astané kabeh, banjur diobong ing inggilé pasamuan kurbane kurban bakar; pepundanan pentasiyan iku ⟨⟨are⟩⟩ dadi mrigi wangi, kurban geni iku kanggo Yahweh.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "lan njupuk"
+      "gloss": "njupuk"
     },
     {
       "surface": "משה",
@@ -18,7 +18,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "saka ing telapakane"
+      "marks": "saka ing astané kabeh"
     },
     {
       "surface": "מעל",
@@ -26,27 +26,27 @@
     },
     {
       "surface": "כפיהם",
-      "gloss": "telapakane kang kabeh"
+      "gloss": "astané kabeh"
     },
     {
       "surface": "ויקטר",
-      "gloss": "lan ngedumi"
+      "gloss": "diobong"
     },
     {
       "surface": "המזבחה",
-      "gloss": "ing inggil pasaren"
+      "gloss": "ing inggilé pasamuan kurbane"
     },
     {
       "surface": "על",
-      "gloss": "ing dhuwuring"
+      "gloss": "ing dhuwur"
     },
     {
       "surface": "העלה",
-      "gloss": "kurban obor"
+      "gloss": "kurban bakar"
     },
     {
       "surface": "מלאים",
-      "gloss": "pakaryan panahbahan"
+      "gloss": "pepundanan pentasiyan"
     },
     {
       "surface": "הם",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "לריח",
-      "gloss": "dadi bau"
+      "gloss": "dadi mrigi"
     },
     {
       "surface": "ניחח",
-      "gloss": "sedhep"
+      "gloss": "wangi"
     },
     {
       "surface": "אשה",
-      "gloss": "sesaji geni"
+      "gloss": "kurban geni"
     },
     {
       "surface": "הוא",
@@ -73,6 +73,6 @@
       "gloss": "kanggo Yahweh"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.851475198Z",
+  "timestamp": "2026-08-24T12:34:18.478500044Z",
   "model": "glm-5.3"
 }

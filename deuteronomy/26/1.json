@@ -5,8 +5,65 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 26,
-  "translation": "Lan bakal dumadi, bareng kowe teka menyang ⟨𐤉⟩ bumi kang Yahweh Elohim-é marahi kaé dadi pusaka, lan kowe ngéntuki lan ngingguli ing kono:",
-  "tokens": [],
-  "timestamp": "2026-08-20T23:37:37.207171802Z",
+  "translation": "Lan bakal kelakon, yen sira teka menyang ⟨the⟩ bumi sing Yahweh Elohim-mu maringi sika dadi darbean-warisan, lan sira nguwasani lan sira manggon ing kono.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "lan bakal kelakon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yen"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sira teka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "menyang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ bumi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-mu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "maringi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sika"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "darbean-warisan"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "lan sira nguwasani"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "lan sira manggon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ing kono"
+    }
+  ],
+  "timestamp": "2026-08-24T05:44:08.761621544Z",
   "model": "glm-5.3"
 }

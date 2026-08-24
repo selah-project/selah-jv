@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 16,
-  "translation": "Lan padha nglumpuk nglawan Moshe lan nglawan Aharon, lan padha ngandika marang ⟨⟨dhèwèké⟩⟩: Cukup iki marang kowe, awit sakabèhé pasamuwan iku padha suci, kabeh ⟨ing antarané⟩←⟨saka wong-wong⟩ iku, lan Yahweh ⟨ana⟩ ing tengah-tengahé; lan apa sababé kowe padha ngunggahake awak ⟨ing dhuwur⟩ pasamuwane Yahweh?",
+  "translation": "Lan padha kumpul nglawan Moshe lan nglawan Aharon, banjur padha munjuk marang wong loro iku: Cukup bagéanmu, awit sabarat kabeh padha suci, lan Yahweh ana ing tengah-tengahe; lan yagene padha ngunggahake awakmu ngluwihi pasamuwaning Yahweh?",
   "tokens": [
     {
       "surface": "ויקהלו",
-      "gloss": "padha nglumpuk"
+      "gloss": "lan padha kumpul"
     },
     {
       "surface": "על",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "padha ngandika"
+      "gloss": "banjur padha munjuk"
     },
     {
       "surface": "אלהם",
-      "gloss": "marang dhèwèké"
+      "gloss": "marang wong loro iku"
     },
     {
       "surface": "רב",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "iki marang kowe"
+      "gloss": "bagéanmu"
     },
     {
       "surface": "כי",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "כל",
-      "gloss": "sakabèhé"
+      "gloss": "sabarat"
     },
     {
       "surface": "העדה",
-      "gloss": "pasamuwan"
-    },
-    {
-      "surface": "כלם",
       "gloss": "kabeh"
     },
     {
+      "surface": "כלם",
+      "gloss": "padha kabeh"
+    },
+    {
       "surface": "קדשים",
-      "gloss": "padha suci"
+      "gloss": "suci"
     },
     {
       "surface": "ובתוכם",
-      "gloss": "lan ing tengah-tengahé"
+      "gloss": "lan ana ing tengah-tengahe"
     },
     {
       "surface": "יהוה",
@@ -73,25 +73,25 @@
     },
     {
       "surface": "ומדוע",
-      "gloss": "lan apa sababé"
+      "gloss": "lan yagene"
     },
     {
       "surface": "תתנשאו",
-      "gloss": "kowe padha ngunggahake awak"
+      "gloss": "padha ngunggahake awakmu"
     },
     {
       "surface": "על",
-      "gloss": "ing dhuwur"
+      "gloss": "ngluwihi"
     },
     {
       "surface": "קהל",
-      "gloss": "pasamuwane"
+      "gloss": "pasamuwan"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahweh"
     }
   ],
-  "timestamp": "2026-08-20T23:23:52.364040784Z",
+  "timestamp": "2026-08-24T06:12:01.326033949Z",
   "model": "glm-5.3"
 }

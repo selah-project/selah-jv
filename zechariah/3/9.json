@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Sebab lah, ⟨the⟩ watu sing dakmadhangi ing ngarepe Yehosyua — ing ⟨the⟩ watu siji ana pitu mata — lah Aku ngukir ukirane, pangandikane Yahweh Tsevaot, lan Aku nyirnakake ⟨את⟩ dosa ⟨the⟩ bumi iku ing sajroning dina siji.",
+  "translation": "Sebab deleng, ⟨the⟩ watu sing wus tak-aturake ing ngarepe Yehosyua — ing dhuwuring watu siji ana pitu mata — deleng, Aku ngukir ukirane, pangandikane Yahweh Tsevaot, lan Aku nyirnakake ⟨את⟩ dosaning bumi iku ing sajroning ⟨the⟩ dina siji.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "lah"
+      "gloss": "deleng"
     },
     {
       "surface": "האבן",
-      "gloss": "⟨the⟩ batu"
+      "gloss": "watu iku"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "dakmadhangi"
+      "gloss": "wus tak-aturake"
     },
     {
       "surface": "לפני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ing"
+      "gloss": "ing dhuwuring"
     },
     {
       "surface": "אבן",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "lah Aku"
+      "gloss": "deleng, Aku iki"
     },
     {
       "surface": "מפתח",
@@ -86,7 +86,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dosa"
+      "marks": "dosing bumi iku"
     },
     {
       "surface": "עון",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ bumi"
+      "gloss": "bumi"
     },
     {
       "surface": "ההיא",
@@ -109,6 +109,6 @@
       "gloss": "siji"
     }
   ],
-  "timestamp": "2026-08-21T01:36:32.463233398Z",
+  "timestamp": "2026-08-24T06:02:00.263223830Z",
   "model": "glm-5.3"
 }

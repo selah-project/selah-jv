@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 53,
-  "translation": "Elohim saka langit ndeleng mudhun ⟨⟨marang⟩⟩ anak-anak manungsa, arep mirsani apa ana sing wicaksana, sing ngudi ⟨את⟩ Elohim.",
+  "translation": "Elohim saka langit mirsani mudhun marang para putra Adam, kanggo ndelungok apa ana sing ngerti, sing nggoleki ⟨את⟩ Elohim.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "השקיף",
-      "gloss": "ndeleng mudhun"
+      "gloss": "mirsani mudhun"
     },
     {
       "surface": "על",
-      "gloss": "⟨marang⟩"
+      "gloss": "marang"
     },
     {
       "surface": "בני",
-      "gloss": "anak-anak"
+      "gloss": "para putra"
     },
     {
       "surface": "אדם",
-      "gloss": "manungsa"
+      "gloss": "Adam"
     },
     {
       "surface": "לראות",
-      "gloss": "arep mirsani"
+      "gloss": "kanggo ndelungok"
     },
     {
       "surface": "היש",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "משכיל",
-      "gloss": "sing wicaksana"
+      "gloss": "sing ngerti"
     },
     {
       "surface": "דרש",
-      "gloss": "sing ngudi"
+      "gloss": "sing nggoleki"
     },
     {
       "surface": "את",
@@ -57,6 +57,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-21T01:51:12.742206453Z",
+  "timestamp": "2026-08-24T06:03:10.485478608Z",
   "model": "glm-5.3"
 }

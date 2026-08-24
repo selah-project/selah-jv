@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Sarta mangkono aku ndeleng wong-wong cidra disarèkaké; ⟨⟨ora mung siji⟩⟩ padha teka lan saka panggonan suci padha lumaku, banjur kasarèkaké ing kutha ing panggonan padha nglakoni mangkono — iki uga kawang-wang.",
+  "translation": "Banjur aku ndeleng para wong ala disarekake, lan ⟨wong-wong iku⟩ teka-teka saka panggonan sing suci, banjur dilalekake ing kutha ing ngendi awake dhewe mangkono iku tindak — iki uga kabatinan.",
   "tokens": [
     {
       "surface": "ובכן",
-      "gloss": "sarta mangkono"
+      "gloss": "banjur"
     },
     {
       "surface": "ראיתי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "רשעים",
-      "gloss": "wong-wong cidra"
+      "gloss": "para wong ala"
     },
     {
       "surface": "קברים",
-      "gloss": "disarèkaké"
+      "gloss": "disarekake"
     },
     {
       "surface": "ובאו",
-      "gloss": "padha teka"
+      "gloss": "lan teka-teka"
     },
     {
       "surface": "וממקום",
@@ -33,19 +33,15 @@
     },
     {
       "surface": "קדוש",
-      "gloss": "suci"
+      "gloss": "sing suci"
     },
     {
       "surface": "יהלכו",
-      "gloss": "padha lumaku"
-    },
-    {
-      "surface": "וישתכחu",
-      "gloss": "banjur kasarèkaké"
+      "gloss": "padha lumampah"
     },
     {
       "surface": "וישתכחו",
-      "gloss": "banjur kalimputan"
+      "gloss": "lan dilalekake"
     },
     {
       "surface": "בעיר",
@@ -53,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ing panggonan"
+      "gloss": "ing ngendi"
     },
     {
       "surface": "כן",
@@ -61,7 +57,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "padha nglakoni"
+      "gloss": "iku tindak"
     },
     {
       "surface": "גם",
@@ -73,9 +69,9 @@
     },
     {
       "surface": "הבל",
-      "gloss": "kawang-wang"
+      "gloss": "kabatinan"
     }
   ],
-  "timestamp": "2026-08-21T04:23:13.983012215Z",
+  "timestamp": "2026-08-24T06:06:48.279616870Z",
   "model": "glm-5.3"
 }

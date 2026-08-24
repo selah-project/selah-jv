@@ -5,8 +5,53 @@
   "book": "isaiah",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Dadiné umat-Ku kabuwang nyata, awit ora ngerti apa-apa, lan para tinuaté keluwèn ing kaluwèn, lan wongé kaluwu - tanpa banyu ing ngelak.",
-  "tokens": [],
-  "timestamp": "2026-08-21T00:33:07.160915610Z",
+  "translation": "Mulane umat-Ku ditawan budhal amarga kurang kawruh, lan kamulyane keluwen, lan rerembukane garing amarga ngelak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mulane"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ditawan budhal"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "umat-Ku"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "amarga kurang"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kawruh"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "lan kamulyane"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wong-wonge"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "keluwen"
+    },
+    {
+      "surface": "והמונו",
+      "gloss": "lan rerembukane"
+    },
+    {
+      "surface": "צחה",
+      "gloss": "garing"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ngelak"
+    }
+  ],
+  "timestamp": "2026-08-24T05:52:59.796141984Z",
   "model": "glm-5.3"
 }

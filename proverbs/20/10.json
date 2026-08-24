@@ -5,27 +5,27 @@
   "book": "proverbs",
   "lang": "jv",
   "chapter": 20,
-  "translation": "Watu ⟨⟨סajiné⟩⟩ abotan lan abotan, efa lan efa — kedinganan marang Yahweh kalorone uga.",
+  "translation": "Watu ⟨lan⟩ watu, efah ⟨lan⟩ efah — loro-lorone ⟨iku⟩ jiwingyah ing pepadane Yahweh.",
   "tokens": [
     {
       "surface": "אבן",
-      "gloss": "watu abotan"
+      "gloss": "watu"
     },
     {
       "surface": "ואבן",
-      "gloss": "lan watu abotan"
+      "gloss": "lan watu"
     },
     {
       "surface": "איפה",
-      "gloss": "efa"
+      "gloss": "efah"
     },
     {
       "surface": "ואיפה",
-      "gloss": "lan efa"
+      "gloss": "lan efah"
     },
     {
       "surface": "תועבת",
-      "gloss": "kedinganan"
+      "gloss": "jiwingyah"
     },
     {
       "surface": "יהוה",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "גם",
-      "gloss": "uga"
+      "gloss": "loro-lorone"
     },
     {
       "surface": "שניהם",
-      "gloss": "kalorone"
+      "gloss": "loro iku"
     }
   ],
-  "timestamp": "2026-08-21T02:16:08.621639096Z",
+  "timestamp": "2026-08-24T06:04:58.870570426Z",
   "model": "glm-5.3"
 }

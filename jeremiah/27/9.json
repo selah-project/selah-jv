@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Déné sira, aja padha ngrungokake ⟨the⟩ nabi-nabimu, lan ⟨the⟩ njangka-jangkamu, lan ⟨the⟩ pangimpenmu, lan ⟨the⟩ paraga-wawanmu, lan ⟨the⟩ tukang sihirmu, sing padha ngucap marang sira, ngucap: ora bakal padha ngabdi ⟨את⟩ ratu Babil.",
+  "translation": "Dhewe sira aja nggatekake marang nabi-nabimu, marang juru ramalumu, marang impèn-impènmu, marang juru niteni awanmu, marang juru sihirmu, sing padha ngandhani sira kalawan muwun: sira ora bakal ngabdi marang ⟨את⟩ ratu Babel.",
   "tokens": [
     {
       "surface": "ואתם",
-      "gloss": "Déné sira"
+      "gloss": "dhewe sira"
     },
     {
       "surface": "אל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "padha ngrungokake"
+      "gloss": "nggatekake"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "קסמיכם",
-      "gloss": "njangka-jangkamu"
+      "gloss": "juru ramalumu"
     },
     {
       "surface": "ואל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "חלמתיכם",
-      "gloss": "pangimpenmu"
+      "gloss": "impèn-impènmu"
     },
     {
       "surface": "ואל",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ענניכם",
-      "gloss": "paraga-wawanmu"
+      "gloss": "juru niteni awanmu"
     },
     {
       "surface": "ואל",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "כשפיכם",
-      "gloss": "tukang sihirmu"
+      "gloss": "juru sihirmu"
     },
     {
       "surface": "אשר",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "אמרים",
-      "gloss": "ngucap"
+      "gloss": "ngandhani"
     },
     {
       "surface": "אליכם",
-      "gloss": "marang sira"
+      "gloss": "sira"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngucap"
+      "gloss": "kalawan muwun"
     },
     {
       "surface": "לא",
@@ -85,12 +85,12 @@
     },
     {
       "surface": "תעבדו",
-      "gloss": "bakal padha ngabdi"
+      "gloss": "bakal ngabdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ratu Babil"
+      "marks": "ratu Babel"
     },
     {
       "surface": "מלך",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babil"
+      "gloss": "Babel"
     }
   ],
-  "timestamp": "2026-08-21T00:57:33.701491070Z",
+  "timestamp": "2026-08-24T06:12:27.806836075Z",
   "model": "glm-5.3"
 }

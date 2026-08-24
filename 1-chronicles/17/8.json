@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 17,
-  "translation": "lan Aku wis ana ing sandhingmu ing pundi-pundi panggonan sing koklalak, lan Aku ngethok ⟨את⟩ saklowé mungsuhmu saka ngarsamu, lan Aku bakal gawé marang sira asma kaya ⟨the⟩ asmané para sing agung sing ana ing bumi.",
+  "translation": "lan Aku ana ing sisihmu ing sakabehing panggonan sing sira laku-laku, lan Aku ngetutake ilange ⟨את⟩ mungsuhmu kabeh saka ngarsamu, lan Aku bakal gawe jeneng kanggo sira, kaya dene jenenge wong-wong agung sing ana ing bumi.",
   "tokens": [
     {
       "surface": "ואהיה",
-      "gloss": "lan Aku wis ana"
+      "gloss": "lan Aku ana"
     },
     {
       "surface": "עמך",
-      "gloss": "ing sandhingmu"
+      "gloss": "ing sisihmu"
     },
     {
       "surface": "בכל",
-      "gloss": "ing pundi-pundi panggonan"
+      "gloss": "ing sakabehing"
     },
     {
       "surface": "אשר",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "הלכת",
-      "gloss": "koklalak"
+      "gloss": "sira laku-laku"
     },
     {
       "surface": "ואכרית",
-      "gloss": "lan Aku ngethok"
+      "gloss": "lan Aku ngetutake ilange"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "saklowé mungsuhmu"
+      "marks": "mungsuhmu kabeh"
     },
     {
       "surface": "כל",
-      "gloss": "saklowé"
+      "gloss": "kabeh"
     },
     {
       "surface": "אויביך",
@@ -50,23 +50,23 @@
     },
     {
       "surface": "ועשיתי",
-      "gloss": "lan Aku bakal gawé"
+      "gloss": "lan Aku bakal gawe"
     },
     {
       "surface": "לך",
-      "gloss": "marang sira"
+      "gloss": "kanggo sira"
     },
     {
       "surface": "שם",
-      "gloss": "asma"
+      "gloss": "jeneng"
     },
     {
       "surface": "כשם",
-      "gloss": "kaya ⟨the⟩ asmané"
+      "gloss": "kaya dene jenenge"
     },
     {
       "surface": "הגדולים",
-      "gloss": "para sing agung"
+      "gloss": "wong-wong agung"
     },
     {
       "surface": "אשר",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "ana ing bumi"
+      "gloss": "ing bumi"
     }
   ],
-  "timestamp": "2026-08-21T04:27:34.906768752Z",
+  "timestamp": "2026-08-24T06:09:59.787694068Z",
   "model": "glm-5.3"
 }

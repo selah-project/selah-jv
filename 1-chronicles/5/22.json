@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 5,
-  "translation": "Sebab sing tatu tiba akeh banget, sebab peperangane saka ⟨גודאי⟩ Allah. Lan padha manggon ing panggonane nganti tekan pangungenan.",
+  "translation": "Sebab akèh wong tatu saka tiba, sebab perange iku saka Elohim; lan padha manggon ing panggonane nganti pangasingan.",
   "tokens": [
     {
       "surface": "כי",
       "gloss": "sebab"
     },
     {
-      "surface": "חלALALIM",
-      "gloss": ""
+      "surface": "חללים",
+      "gloss": "wong tatu"
     },
     {
       "surface": "רבים",
-      "gloss": "akeh banget"
+      "gloss": "akèh"
     },
     {
       "surface": "נפלו",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "מהאלהים",
-      "gloss": "saka Allah"
+      "gloss": "saka Elohim"
     },
     {
       "surface": "המלחמה",
-      "gloss": "peperangane"
+      "gloss": "perange"
     },
     {
       "surface": "וישבו",
-      "gloss": "padha manggon"
+      "gloss": "lan padha manggon"
     },
     {
       "surface": "תחתיהם",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "nganti tekan"
+      "gloss": "nganti"
     },
     {
       "surface": "הגלה",
-      "gloss": "pangungenan"
+      "gloss": "pangasingan"
     }
   ],
-  "timestamp": "2026-08-21T03:18:38.922260111Z",
+  "timestamp": "2026-08-24T06:08:50.989107328Z",
   "model": "glm-5.3"
 }

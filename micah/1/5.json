@@ -5,11 +5,11 @@
   "book": "micah",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Amargane saka pangeduming Yaakov iku ⟨⟨את⟩⟩ kabeh iki, lan saka dousane bétah Israèl. Endi pangedume Yaakov? Apa dudu Shomron? Lan endi papan dhuwure Yehudah? Apa dudu Yerushalayim?",
+  "translation": "Amarga pamberontakané Yaakov kabèh iki ⟨iki⟩, lan amarga dosa-dosané kulawarga Israél. Sapa ⟨sing dadi⟩ pamberontakané Yaakov? Apa dudu Shomeron? Lan sapa ⟨sing dadi⟩ papan dhuwur-dhuwuré Yéhuda? Apa dudu Yerushalayim?",
   "tokens": [
     {
       "surface": "בפשע",
-      "gloss": "amargane saka pangeduming"
+      "gloss": "amarga pamberontakané"
     },
     {
       "surface": "יעקב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "kabèh"
     },
     {
       "surface": "זאת",
@@ -25,23 +25,23 @@
     },
     {
       "surface": "ובחטאות",
-      "gloss": "lan saka dousane"
+      "gloss": "lan amarga dosa-dosané"
     },
     {
       "surface": "בית",
-      "gloss": "bétah"
+      "gloss": "kulawarga"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israèl"
+      "gloss": "Israél"
     },
     {
       "surface": "מי",
-      "gloss": "endi"
+      "gloss": "sapa"
     },
     {
       "surface": "פשע",
-      "gloss": "pangedume"
+      "gloss": "pamberontakané"
     },
     {
       "surface": "יעקב",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "שמרון",
-      "gloss": "Shomron"
+      "gloss": "Shomeron"
     },
     {
       "surface": "ומי",
-      "gloss": "lan endi"
+      "gloss": "lan sapa"
     },
     {
       "surface": "במות",
-      "gloss": "papan dhuwure"
+      "gloss": "papan dhuwur-dhuwuré"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehudah"
+      "gloss": "Yéhuda"
     },
     {
       "surface": "הלוא",
@@ -76,6 +76,6 @@
       "gloss": "Yerushalayim"
     }
   ],
-  "timestamp": "2026-08-21T04:16:27.141601693Z",
+  "timestamp": "2026-08-24T06:00:19.378663341Z",
   "model": "glm-5.3"
 }

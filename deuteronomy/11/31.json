@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 11,
-  "translation": "Sebab kowe lagi ngliwati ⟨את⟩ Yarden kanggo lumebu nduwèni ⟨את⟩ ⟨the⟩ bumi sing Yahweh Elohim-mu marèhaké kowe, lan kowé bakal nduwèni ⟨את⟩ iku lan manggon ing kono.",
+  "translation": "Sebab kowe arep nglintasi ⟨את⟩ Kali Yarden kanggo mlebu ndhingini ⟨את⟩ bumi kang didheningake Yahweh, Elohimmu, marang kowe; lan kowe bakal ndhingini ⟨את⟩ iku lan manggon ing kana.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,37 +17,37 @@
     },
     {
       "surface": "עברים",
-      "gloss": "lagi ngliwati"
+      "gloss": "arep nglintasi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yarden"
+      "marks": "Kali Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yarden"
+      "gloss": "Kali Yarden"
     },
     {
       "surface": "לבא",
-      "gloss": "kanggo lumebu"
+      "gloss": "kanggo mlebu"
     },
     {
       "surface": "לרשת",
-      "gloss": "nduwèni"
+      "gloss": "kanggo ndhingini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ bumi"
+      "marks": "bumi"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ bumi"
+      "gloss": "bumi"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "יהוה",
@@ -55,24 +55,24 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim-mu"
+      "gloss": "Elohimmu"
     },
     {
       "surface": "נתן",
-      "gloss": "marèhaké"
+      "gloss": "didheningake"
     },
     {
       "surface": "לכם",
-      "gloss": "kowe"
+      "gloss": "marang kowe"
     },
     {
       "surface": "וירשתם",
-      "gloss": "bakal nduwèni"
+      "gloss": "lan kowe bakal ndhingini"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "iku"
+      "marks": "iku (bumi)"
     },
     {
       "surface": "וישבתם",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "ing kono"
+      "gloss": "ing kana"
     }
   ],
-  "timestamp": "2026-08-20T23:33:37.580058824Z",
+  "timestamp": "2026-08-24T05:43:25.262797976Z",
   "model": "glm-5.3"
 }

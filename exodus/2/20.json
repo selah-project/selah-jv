@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 2,
-  "translation": "Lan ⟨⟨⟩⟩e ngandika marang anakkewe wadon: endi papané? kenapa mengkéné kowé padha nginggalake ⟨את⟩ wong iku? Undhana ⟨⟨⟩⟩a, supaya bisa mangan roti.",
+  "translation": "Lan dheweke ngendika marang putri-putrine: Pundi pundi panggonane? Kenging punapa menika kula para ngetokake ⟨את⟩ wong lanang menika? Undhangana dheweke supaya bisa mangan roti.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ngandika"
+      "gloss": "lan dheweke ngendika"
     },
     {
       "surface": "אל",
@@ -17,40 +17,40 @@
     },
     {
       "surface": "בנתיו",
-      "gloss": "anakkewe wadon"
+      "gloss": "putri-putrine"
     },
     {
       "surface": "ואיו",
-      "gloss": "endi papané"
+      "gloss": "pundi pundi panggonane"
     },
     {
       "surface": "למה",
-      "gloss": "kenapa"
+      "gloss": "kenging punapa"
     },
     {
       "surface": "זה",
-      "gloss": "mengkéné"
+      "gloss": "menika"
     },
     {
       "surface": "עזבתן",
-      "gloss": "kowé padha nginggalake"
+      "gloss": "kula para ngetokake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wong iku"
+      "marks": "wong lanang menika"
     },
     {
       "surface": "האיש",
-      "gloss": "wong iku"
+      "gloss": "wong lanang menika"
     },
     {
       "surface": "קראן",
-      "gloss": "undhana"
+      "gloss": "undhangana"
     },
     {
       "surface": "לו",
-      "gloss": "⟨⟨⟩⟩a"
+      "gloss": "dheweke"
     },
     {
       "surface": "ויאכל",
@@ -61,6 +61,6 @@
       "gloss": "roti"
     }
   ],
-  "timestamp": "2026-08-20T22:56:22.673063432Z",
+  "timestamp": "2026-08-24T05:35:30.779617751Z",
   "model": "glm-5.3"
 }

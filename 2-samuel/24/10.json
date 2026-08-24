@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Lan atine Dawid niribake ⟨את⟩ ⟨אתו⟩ sawise ngetung ⟨את⟩ wong iku; lan Dawid ngandika marang Yahweh: Aku wis dosa banget ing sangisore sing daklakoni; lan saiki, Yahweh, kula nyuwun buang ⟨את⟩ panjalmane abdi Panjenengan, awit aku wis bodho banget.",
+  "translation": "Banjur atiné Dawid ndhiksa ⟨אתו⟩ sawise mangkono bareng wis ngétung ⟨את⟩ bangsa iku, lan Dawid ngandika marang Yahweh: \"Aku dosa banget ing apa sing daklakoni; lan saiki, Yahweh, muga Kaulali ⟨את⟩ dosané abdimu, awit aku bodho banget.\"",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "niribake"
+      "gloss": "ndhiksa"
     },
     {
       "surface": "לב",
-      "gloss": "ati"
+      "gloss": "atine"
     },
     {
       "surface": "דוד",
@@ -21,8 +21,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Dawid"
+      "gloss": "⟨את⟩",
+      "marks": "Dawid (diri dhewe)"
     },
     {
       "surface": "אחרי",
@@ -30,24 +30,24 @@
     },
     {
       "surface": "כן",
-      "gloss": "iku"
+      "gloss": "mangkono"
     },
     {
       "surface": "ספר",
-      "gloss": "ngetung"
+      "gloss": "ngétung"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wong"
+      "marks": "bangsa iku"
     },
     {
       "surface": "העם",
-      "gloss": "wong"
+      "gloss": "bangsa iku"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ngandika"
+      "gloss": "lan ngandika"
     },
     {
       "surface": "דוד",
@@ -63,10 +63,10 @@
     },
     {
       "surface": "חטאתי",
-      "gloss": "aku wis dosa"
+      "gloss": "aku dosa"
     },
     {
-      "surface": "mאד",
+      "surface": "מאד",
       "gloss": "banget"
     },
     {
@@ -87,24 +87,24 @@
     },
     {
       "surface": "העבר",
-      "gloss": "buang"
+      "gloss": "muga Kaulali"
     },
     {
       "surface": "נא",
-      "gloss": "kula nyuwun"
+      "gloss": "muga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "panjalmane abdi"
+      "marks": "dosané abdimu"
     },
     {
       "surface": "עון",
-      "gloss": "panjalma"
+      "gloss": "dosané"
     },
     {
       "surface": "עבדך",
-      "gloss": "abdi Panjenengan"
+      "gloss": "abdimu"
     },
     {
       "surface": "כי",
@@ -112,13 +112,13 @@
     },
     {
       "surface": "נסכלתי",
-      "gloss": "aku wis bodho"
+      "gloss": "aku bodho"
     },
     {
       "surface": "מאד",
       "gloss": "banget"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.494977976Z",
+  "timestamp": "2026-08-24T05:50:47.521797468Z",
   "model": "glm-5.3"
 }

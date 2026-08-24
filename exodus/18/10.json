@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 18,
-  "translation": "Lan Yitro munjuk: Pinuji Yahweh, sing wis ngluwari ⟨את⟩ ⟨אתכם⟩ saka tangan Mitsrayim lan saka tangan Paroh, sing wis ngluwari ⟨את⟩ bangsa iku saka sangisore tangan Mitsrayim.",
+  "translation": "Lan Yitro ucap: Pinuji Yahweh, sing wis ngluwari ⟨את⟩ kowe saka tangeane wong Mitsrayim lan saka tangeane Paroh, sing wis ngluwari ⟨את⟩ bangsa iku saka sangisore tangan Mitsrayim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "munjuk"
+      "gloss": "lan ucap"
     },
     {
       "surface": "יתרו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "Pinuji"
+      "gloss": "pinuji"
     },
     {
       "surface": "יהוה",
@@ -33,20 +33,20 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨אתכם⟩",
-      "marks": "sira"
+      "gloss": "⟨את⟩ kowe",
+      "marks": "kowe"
     },
     {
       "surface": "מיד",
-      "gloss": "saka tangan"
+      "gloss": "saka tangeane"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "wong Mitsrayim"
     },
     {
       "surface": "ומיד",
-      "gloss": "lan saka tangan"
+      "gloss": "lan saka tangeane"
     },
     {
       "surface": "פרעה",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "bangsa"
+      "gloss": "bangsa iku"
     },
     {
       "surface": "מתחת",
@@ -82,6 +82,6 @@
       "gloss": "Mitsrayim"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.660011207Z",
+  "timestamp": "2026-08-24T05:36:17.996263884Z",
   "model": "glm-5.3"
 }

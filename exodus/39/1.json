@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "jv",
   "chapter": 39,
-  "translation": "Saka ⟨⟨the⟩⟩ biru, lan ⟨⟨the⟩⟩ ungu, lan ulat warna abang, padha gawé sandhangan-sandhangan rerenggan kanggo ngabdi ing panggonan suci; lan padha gawé ⟨את⟩ sandhangan-sandhangan sucining kanggo Aharon, kaya kang diperéntahaké Yahweh ⟨את⟩ Moshe.",
+  "translation": "Saka ⟨the⟩ kain biru lan ⟨the⟩ ungu lan ⟩the⟩ wol merah wragad, awake dewe gawe sandhangan slahitan kanggo ngabdi ing Papan Suci; banjur awake dewe gawe ⟨את⟩ sandhangan padha-suciné kanggo Aharon, kaya kang wis diprentahake Yahweh marang ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ומן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "התכלת",
-      "gloss": "biru"
+      "gloss": "kain biru"
     },
     {
       "surface": "והארגמן",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "ותולעת",
-      "gloss": "lan ulat"
+      "gloss": "lan"
     },
     {
       "surface": "השני",
-      "gloss": "abang"
+      "gloss": "wol merah wragad"
     },
     {
       "surface": "עשו",
-      "gloss": "padha gawé"
+      "gloss": "awake dewe gawe"
     },
     {
       "surface": "בגדי",
-      "gloss": "sandhangan-sandhangan"
+      "gloss": "sandhangan"
     },
     {
       "surface": "שרד",
-      "gloss": "rerenggan"
+      "gloss": "slahitan"
     },
     {
       "surface": "לשרת",
@@ -45,24 +45,24 @@
     },
     {
       "surface": "בקדש",
-      "gloss": "ing panggonan suci"
+      "gloss": "ing Papan Suci"
     },
     {
       "surface": "ויעשו",
-      "gloss": "lan padha gawé"
+      "gloss": "banjur awake dewe gawe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sandhangan-sandhangan sucining"
+      "marks": "sandhangan"
     },
     {
       "surface": "בגדי",
-      "gloss": "sandhangan-sandhangan"
+      "gloss": "sandhangan"
     },
     {
       "surface": "הקדש",
-      "gloss": "sucining"
+      "gloss": "padha-suciné"
     },
     {
       "surface": "אשר",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kaya kang"
+      "gloss": "kaya"
     },
     {
       "surface": "צוה",
-      "gloss": "diperéntahaké"
+      "gloss": "diprentahake"
     },
     {
       "surface": "יהוה",
@@ -94,6 +94,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-20T23:08:31.835582396Z",
+  "timestamp": "2026-08-24T05:37:22.882172186Z",
   "model": "glm-5.3"
 }

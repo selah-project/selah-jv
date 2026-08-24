@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "jv",
   "chapter": 2,
-  "translation": "Lan aku ngandika: Apa iki teka arep apa? Banjur dhèwèké ngandika, ngendika: Iki sungu-sungu sing nyingkir ⟨את⟩ Yehuda supaya siji-sijining wong ora ndhingklukake sirahé; banjur iki teka nggumunaké ⟨את⟩ ⟨אתם⟩, supaya angedhunaké ⟨את⟩ sungu-sunguning para bangsa sing ngunggahaké sungu marang bumi Yehuda, kanggo nyingkiraké dhèwèké.",
+  "translation": "Lan aku ngucap: Apa ta iki padha teka arep nindakaké apa? Lan piwelingé ngandika: Iki para culang sing ngebaraké ⟨את⟩ Yehudha, nganti miturut saben wong ora ana sing ngunggahake sirahé; lan iki teka kanggo nggegirisi ⟨את⟩ ⟨אתם⟩, supaya nujunaké ⟨את⟩ culang-culangé para bangsa sing ngunggahake culangé marang bumi Yehudha, kanggo nyebaraké.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "lan aku ngandika"
+      "gloss": "lan aku ngucap"
     },
     {
       "surface": "מה",
-      "gloss": "apa"
+      "gloss": "apa ta"
     },
     {
       "surface": "אלה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "באים",
-      "gloss": "teka"
+      "gloss": "padha teka"
     },
     {
       "surface": "לעשות",
-      "gloss": "arep apa"
+      "gloss": "arep nindakaké apa"
     },
     {
       "surface": "ויאמר",
-      "gloss": "banjur dhèwèké ngandika"
+      "gloss": "lan piwelingé ngandika"
     },
     {
       "surface": "לאמר",
-      "gloss": "ngendika"
+      "gloss": "supaya ngandika"
     },
     {
       "surface": "אלה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הקרנות",
-      "gloss": "sungu-sungu"
+      "gloss": "para culang"
     },
     {
       "surface": "אשר",
@@ -49,24 +49,24 @@
     },
     {
       "surface": "זרו",
-      "gloss": "nsingkir"
+      "gloss": "ngebaraké"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehuda"
+      "marks": "Yehudha"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudha"
     },
     {
       "surface": "כפי",
-      "gloss": "supaya miturut"
+      "gloss": "miturut"
     },
     {
       "surface": "איש",
-      "gloss": "siji-sijining wong"
+      "gloss": "saben wong"
     },
     {
       "surface": "לא",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "נשא",
-      "gloss": "ndhingklukake"
+      "gloss": "ngunggahake"
     },
     {
       "surface": "ראשו",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "banjur teka"
+      "gloss": "lan teka"
     },
     {
       "surface": "אלה",
@@ -90,25 +90,25 @@
     },
     {
       "surface": "להחריד",
-      "gloss": "nggumunaké\/nggawé wedi"
+      "gloss": "kanggo nggegirisi"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "wong-wong Yehuda"
+      "marks": "dhèwèké (Yehudha sing kasebar)"
     },
     {
       "surface": "לידות",
-      "gloss": "supaya angedhunaké"
+      "gloss": "supaya nujunaké"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sungu-sungu para bangsa"
+      "marks": "culang-culangé para bangsa"
     },
     {
       "surface": "קרנות",
-      "gloss": "sungu-sungu"
+      "gloss": "culang-culangé"
     },
     {
       "surface": "הגוים",
@@ -116,11 +116,11 @@
     },
     {
       "surface": "הנשאים",
-      "gloss": "sing ngunggahaké"
+      "gloss": "sing ngunggahake"
     },
     {
       "surface": "קרן",
-      "gloss": "sungu"
+      "gloss": "culangé"
     },
     {
       "surface": "אל",
@@ -132,13 +132,13 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yehudha"
     },
     {
       "surface": "לזרותה",
-      "gloss": "kanggo nyingkiraké dhèwèké"
+      "gloss": "kanggo nyebaraké"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.575771463Z",
+  "timestamp": "2026-08-24T12:34:18.468218561Z",
   "model": "glm-5.3"
 }

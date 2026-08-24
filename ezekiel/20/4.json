@@ -5,8 +5,46 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 20,
-  "translation": "Apa kowé arep ngadili ⟨את⟩ padha? Apa arep ngadili, putra manungsa? Ingèraké ⟨את⟩èn Sang sumelanging wanodya... guna-ing rainé?",
-  "tokens": [],
-  "timestamp": "2026-08-21T04:14:03.904820566Z",
+  "translation": "Apa kowe ngadili ⟨את⟩ dheweke? Apa kowe ngadili, ihi putra manungsa? Tindake wong sepurune bapak-bapake pasranka marang ⟨את⟩ kaluhuran-luhurane wong sepurune bapak-bapake.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Apa kowe ngadili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ dheweke"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Apa kowe ngadili"
+    },
+    {
+      "surface": "בן",
+      "gloss": "putra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manungsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tindake wong sepurune bapak-bapake"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "tindak wong sepurune"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "wong sepurune bapak-bapake"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "pasranka marang dheweke"
+    }
+  ],
+  "timestamp": "2026-08-24T05:57:32.931042427Z",
   "model": "glm-5.3"
 }

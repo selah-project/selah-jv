@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Banjur Moshe ngitung ⟨את⟩ ⟨אתם⟩ miturut sabda Yahweh, kaya sing wis didhawuhi.",
+  "translation": "Banjur Moshi ngetung ⟨את⟩ dhèwèké miturut cangkeme Yahweh, kaya sing wis didhawuhaké.",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "banjur ngitung"
+      "gloss": "Banjur ngetung"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "dheweke (para bani Levi)"
+      "gloss": "⟨את⟩",
+      "marks": "dhèwèké"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Moshi"
     },
     {
       "surface": "על",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "sabda"
+      "gloss": "cangkeme"
     },
     {
       "surface": "יהוה",
@@ -38,9 +38,9 @@
     },
     {
       "surface": "צוה",
-      "gloss": "didhawuhi"
+      "gloss": "wis didhawuhaké"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.903983365Z",
+  "timestamp": "2026-08-24T05:41:18.912504686Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "joel",
   "lang": "jv",
   "chapter": 2,
-  "translation": "Lan Yahweh wangsula, matur marang umat-Nipun: Sumangga, Aku ngutus marang kowe ⟨את⟩ padine, lan ⟨the⟩ anggur anyar, lan ⟨the⟩ lenga zaitun, supaya kowe wareg ⟨את⟩-ipun; lan Aku ora bakal menehi ⟨את⟩ kowe maneh dadi cacad ing antarane para bangsa.",
+  "translation": "Lan Yahweh wangsula lan ngandika marang umate: Lah, Aku ngutus marang kowe ⟨את⟩ wiji lan anggur anyar lan lenga zaitun, lan kowe bakal wareg karo ⟨את⟩ iku; lan Aku ora bakal menehi ⟨את⟩ kowe maneh dadi cacad ing antarane bangsa-bangsa.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "Lan Yahweh wangsula"
+      "gloss": "lan Yahweh wangsula"
     },
     {
       "surface": "יהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "matur"
+      "gloss": "lan ngandika"
     },
     {
       "surface": "לעמו",
-      "gloss": "marang umat-Nipun"
+      "gloss": "marang umate"
     },
     {
       "surface": "הנני",
-      "gloss": "Sumangga"
+      "gloss": "Lah, iki-Aku"
     },
     {
       "surface": "שלח",
@@ -38,14 +38,14 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "padine (gandum)"
+      "marks": "wiji"
     },
     {
       "surface": "הדגן",
-      "gloss": "padine"
+      "gloss": "wiji"
     },
     {
-      "surface": "והתירוש",
+      "surface": "ו התירוש",
       "gloss": "lan anggur anyar"
     },
     {
@@ -54,16 +54,16 @@
     },
     {
       "surface": "ושבעתם",
-      "gloss": "kowe wareg"
+      "gloss": "lan kowe bakal wareg"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-ipun",
-      "marks": "padine, anggur anyar, lan lenga zaitun"
+      "gloss": "⟨את⟩",
+      "marks": "iku"
     },
     {
       "surface": "ולא",
-      "gloss": "lan ora bakal"
+      "gloss": "lan ora"
     },
     {
       "surface": "אתן",
@@ -71,8 +71,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ kowe",
-      "marks": "kowe (umat)"
+      "gloss": "⟨את⟩",
+      "marks": "kowe"
     },
     {
       "surface": "עוד",
@@ -84,9 +84,9 @@
     },
     {
       "surface": "בגוים",
-      "gloss": "ing antarane para bangsa"
+      "gloss": "ing antarane bangsa-bangsa"
     }
   ],
-  "timestamp": "2026-08-21T01:28:51.461073517Z",
+  "timestamp": "2026-08-24T06:00:39.518865111Z",
   "model": "glm-5.3"
 }

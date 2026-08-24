@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 12,
-  "translation": "Banjur ratu Yehoash ngundhang Yehoyada sang imam lan para imam, lan ngandika marang dheweke: kenapa kowé padha ora neguhake ⟨את⟩ bolongé ⟨the⟩ omah? Saiki aja padha njupuk dhuwit saka ⟨את⟩ kanca-kancamu maneh, sebab kanggo bolongé ⟨the⟩ omah kudu kokewehake.",
+  "translation": "Banjur Sang Prabu Yehoasy ngundhang Yehoyada sang imam lan para imam, sarta ngendika marang awake: kepriyé kok ora padha nglakoni ndandani ⟨את⟩ bolongané omah? Déné saiki aja padha njupuk ing saka ⟨את⟩ kanca-kancamu, awit kanggo bolongané omah kudu kokparable.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "המלך",
-      "gloss": "ratu"
+      "gloss": "Sang Prabu"
     },
     {
       "surface": "יהואש",
-      "gloss": "Yehoash"
+      "gloss": "Yehoasy"
     },
     {
       "surface": "ליהוידע",
-      "gloss": "Yehoyada"
+      "gloss": "marang Yehoyada"
     },
     {
       "surface": "הכהן",
@@ -29,36 +29,36 @@
     },
     {
       "surface": "ולכהנים",
-      "gloss": "lan para imam"
+      "gloss": "lan marang para imam"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ngandika"
+      "gloss": "sarta ngendika"
     },
     {
       "surface": "אלהם",
-      "gloss": "marang dheweke"
+      "gloss": "marang awake"
     },
     {
       "surface": "מדוע",
-      "gloss": "kenapa"
+      "gloss": "kepriyé kok"
     },
     {
       "surface": "אינכם",
-      "gloss": "kowé ora"
+      "gloss": "ora padha"
     },
     {
       "surface": "מחזקים",
-      "gloss": "padha neguhake"
+      "gloss": "nglakoni ndandani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bolongé omah"
+      "marks": "bolongan"
     },
     {
       "surface": "בדק",
-      "gloss": "bolong"
+      "gloss": "bolongan"
     },
     {
       "surface": "הבית",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "saiki"
+      "gloss": "déné saiki"
     },
     {
       "surface": "אל",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "dhuwit"
+      "gloss": "salaka"
     },
     {
       "surface": "מאת",
@@ -91,11 +91,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "sebab"
+      "gloss": "awit"
     },
     {
       "surface": "לבדק",
-      "gloss": "kanggo bolong"
+      "gloss": "kanggo bolongan"
     },
     {
       "surface": "הבית",
@@ -103,9 +103,9 @@
     },
     {
       "surface": "תתנהו",
-      "gloss": "kokewehake"
+      "gloss": "kudu kokparable"
     }
   ],
-  "timestamp": "2026-08-21T00:27:33.348829183Z",
+  "timestamp": "2026-08-24T05:53:01.229316381Z",
   "model": "glm-5.3"
 }

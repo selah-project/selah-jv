@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "jv",
   "chapter": 34,
-  "translation": "Lan nalika ⟨⟨panggonane⟩⟩ padha ngetokake ⟨את⟩ dhuwit sing dijukit menyang omahing Yahweh, Hilkiyah sang imam nemu ⟨את⟩ kitabe Torating Yahweh, tinitah ing astane Moshe.",
+  "translation": "Lan nalika wong-wonge ngetokake ⟨את⟩ dhuwit sing diwetokake menyang omah Yahweh, Hilkiya sang imam nemu ⟨את⟩ buku Torat Yahweh ing tangan Moshe.",
   "tokens": [
     {
       "surface": "ובהוציאם",
-      "gloss": "lan nalika padha ngetokake"
+      "gloss": "lan nalika wong-wonge ngetokake"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "המובא",
-      "gloss": "sing dijukit"
+      "gloss": "sing diwetokake menyang"
     },
     {
       "surface": "בית",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "חלקיהו",
-      "gloss": "Hilkiyah"
+      "gloss": "Hilkiya"
     },
     {
       "surface": "הכהן",
@@ -47,15 +47,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kitabe Torating Yahweh"
+      "marks": "buku"
     },
     {
       "surface": "ספר",
-      "gloss": "kitab"
+      "gloss": "buku"
     },
     {
       "surface": "תורת",
-      "gloss": "Torating"
+      "gloss": "Torat"
     },
     {
       "surface": "יהוה",
@@ -63,13 +63,13 @@
     },
     {
       "surface": "ביד",
-      "gloss": "ing astane"
+      "gloss": "ing tangan"
     },
     {
       "surface": "משה",
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-08-21T03:47:33.140168771Z",
+  "timestamp": "2026-08-24T06:11:05.547905345Z",
   "model": "glm-5.3"
 }

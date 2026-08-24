@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Lan Yehosyua ngandika: Ing iki kowé bakal weruh yèn ⟨⟨ana⟩⟩ El sing urip ing tengah-tengahmu, lan tanpa sala bakal ngusir saka ing ngarepmu ⟨את⟩ wong Kenaan, lan ⟨את⟩ wong Het, lan ⟨את⟩ wong Hiwi, lan ⟨את⟩ wong Perizi, lan ⟨את⟩ wong Girgasi, lan wong Emori, lan wong Yebusi.",
+  "translation": "Lan Yehosyua munjuk: Sarining iki kowe bakal weruh yèn El sing urip ana ing tengah-tengahmu, lan panjenengane bakal ngusir saka ngarsanira ⟨את⟩ wong Kenani lan ⟨את⟩ wong Het lan ⟨את⟩ wong Hiwi lan ⟨את⟩ wong Perizi lan ⟨את⟩ wong Girgasi lan wong Emori lan wong Yebusi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lan ngandika"
+      "gloss": "lan munjuk"
     },
     {
       "surface": "יהושע",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בזאת",
-      "gloss": "ing iki"
+      "gloss": "sarining iki"
     },
     {
       "surface": "תדעון",
-      "gloss": "kowé bakal weruh"
+      "gloss": "kowe bakal weruh"
     },
     {
       "surface": "כי",
@@ -41,24 +41,24 @@
     },
     {
       "surface": "והורש",
-      "gloss": "lan tanpa sala bakal ngusir"
+      "gloss": "lan bakal ngusir"
     },
     {
       "surface": "יוריש",
-      "gloss": "bakal ngusir"
+      "gloss": "ngusir"
     },
     {
       "surface": "מפניכם",
-      "gloss": "saka ing ngarepmu"
+      "gloss": "saka ngarsanira"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "wong Kenaan"
+      "marks": "wong Kenani"
     },
     {
       "surface": "הכנעני",
-      "gloss": "wong Kenaan"
+      "gloss": "wong Kenani"
     },
     {
       "surface": "ואת",
@@ -105,6 +105,6 @@
       "gloss": "lan wong Yebusi"
     }
   ],
-  "timestamp": "2026-08-21T03:58:10.497740612Z",
+  "timestamp": "2026-08-24T05:43:54.634191792Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 136,
-  "translation": "Marang Sang Nabihi ngrembakakake bumi ing sadhuwuring banyu, awit kuwaluning-Né langgeng salawasé.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:08:01.146924222Z",
+  "translation": "Dheweke sing anyakake bumi ing sadhuwuring banyu, amarga kasetyane langgeng salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "sing anyakake"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bumi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ing sadhuwuring"
+    },
+    {
+      "surface": "המים",
+      "gloss": "banyu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:28.040139607Z",
   "model": "glm-5.3"
 }

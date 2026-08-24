@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Banjur sawisé mangkono atine Dawid nyigar ⟨dheweke⟩, jalaran ⟨piyambake⟩ wis nyithak ⟨את⟩ tunggul sing kagungane Shaul.",
+  "translation": "Sawise mangkono atine Dawid ndhangu dhewe ⟨את⟩ ⟨אתו⟩, amarga ⟨is⟩ wis ngethok ⟨את⟩ pupuning sandhangané Shaúl.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "banjur kadadéan"
+      "gloss": "sawise mangkono"
     },
     {
       "surface": "אחרי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויך",
-      "gloss": "lan nyigar"
+      "gloss": "ndhangu"
     },
     {
       "surface": "לב",
@@ -34,28 +34,28 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Dawid dhewe"
+      "marks": "Dawid dhewe (obyek saka pandhangan ati)"
     },
     {
       "surface": "על",
-      "gloss": "jalaran"
+      "gloss": "amarga"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "bab"
     },
     {
       "surface": "כרת",
-      "gloss": "wis nyithak"
+      "gloss": "ngethok"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tunggul"
+      "marks": "pupu"
     },
     {
       "surface": "כנף",
-      "gloss": "tunggul"
+      "gloss": "pupu"
     },
     {
       "surface": "אשר",
@@ -63,9 +63,9 @@
     },
     {
       "surface": "לשאול",
-      "gloss": "kagungane Shaul"
+      "gloss": "kagungané Shaúl"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.732501287Z",
+  "timestamp": "2026-08-24T12:34:18.474346436Z",
   "model": "glm-5.3"
 }

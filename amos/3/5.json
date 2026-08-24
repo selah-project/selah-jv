@@ -5,11 +5,11 @@
   "book": "amos",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Apa manuk tiba ing jaring ⟨⟨ing⟩⟩ bumi, lan mangsa ora ana ing kono? Apa jaring maju saka bumi, lan ora nangkap apa-apa?",
+  "translation": "Apa manuk tiba ing jaring ⟨saka⟩ bumi yen ora ana pangilon? Apa jaring isa menthol saka bumi tanpa nangkep?",
   "tokens": [
     {
       "surface": "התפל",
-      "gloss": "apa...tiba"
+      "gloss": "apa isa tiba"
     },
     {
       "surface": "צפור",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומוקש",
-      "gloss": "lan mangsa-lodhang"
+      "gloss": "lan pangilon"
     },
     {
       "surface": "אין",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לה",
-      "gloss": "ing kono"
+      "gloss": "kanggo iku"
     },
     {
       "surface": "היעלה",
-      "gloss": "apa...maju"
+      "gloss": "apa isa menthol"
     },
     {
       "surface": "פח",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "lemah"
+      "gloss": "bumi"
     },
     {
       "surface": "ולכוד",
-      "gloss": "lan nangkap"
+      "gloss": "lan nangkep"
     },
     {
       "surface": "לא",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "ילכוד",
-      "gloss": "nangkap"
+      "gloss": "nangkep"
     }
   ],
-  "timestamp": "2026-08-21T01:28:25.854448735Z",
+  "timestamp": "2026-08-24T06:00:43.457291014Z",
   "model": "glm-5.3"
 }

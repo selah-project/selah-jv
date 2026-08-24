@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan Moshe njupuk saka lenga kang ngurapi lan saka getih sing ana ing sadhuwuring mesbesi, banjur dipuskake marang Aharon, marang sandhangané, marang anak-anaké, lan marang sandhanganing anak-anaké ⟨אתו⟩ bareng karo panjenengané; lan disucèkake ⟨את⟩ Aharon ⟨את⟩ sandhangané, ⟨את⟩ anak-anaké, lan ⟨את⟩ sandhanganing anak-anaké ⟨אתו⟩ bareng karo panjenengané.",
+  "translation": "Lan Moshe njupuk saka lenga pamasukan lan saka getih sing ana ing sadhuwuring mezbah, lan nyiramake marang Aharon, marang sandhangane, lan marang para putrane, lan marang sandhangan para putrane ⟨את⟩-e bareng; lan disucikake Aharon lan sandhangane, lan ⟨את⟩ para putrane lan ⟨את⟩ sandhangan para putrane ⟨את⟩-e bareng.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Lan njupuk"
+      "gloss": "njupuk"
     },
     {
       "surface": "משה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המשחה",
-      "gloss": "kang ngurapi"
+      "gloss": "pamasukan"
     },
     {
       "surface": "ומן",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "mesbesi"
+      "gloss": "mezbah"
     },
     {
       "surface": "ויז",
-      "gloss": "banjur dipuskake"
+      "gloss": "nyiramake"
     },
     {
       "surface": "על",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "בגדיו",
-      "gloss": "sandhangané"
+      "gloss": "sandhangane"
     },
     {
       "surface": "ועל",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "בניו",
-      "gloss": "anak-anaké"
+      "gloss": "para putrane"
     },
     {
       "surface": "ועל",
@@ -77,19 +77,19 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "sandhanganing"
+      "gloss": "sandhangan"
     },
     {
       "surface": "בניו",
-      "gloss": "anak-anaké"
+      "gloss": "para putrane"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ bareng karo panjenengané"
+      "gloss": "⟨את⟩-e bareng"
     },
     {
       "surface": "ויקדש",
-      "gloss": "lan disucèkake"
+      "gloss": "disucikake"
     },
     {
       "surface": "את",
@@ -103,39 +103,39 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sandhangané"
+      "marks": "sandhangane"
     },
     {
       "surface": "בגדיו",
-      "gloss": "sandhangané"
+      "gloss": "sandhangane"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "anak-anaké"
+      "marks": "para putrane"
     },
     {
       "surface": "בניו",
-      "gloss": "anak-anaké"
+      "gloss": "para putrane"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "sandhanganing anak-anaké"
+      "marks": "sandhangan para putrane"
     },
     {
       "surface": "בגדי",
-      "gloss": "sandhanganing"
+      "gloss": "sandhangan"
     },
     {
       "surface": "בניו",
-      "gloss": "anak-anaké"
+      "gloss": "para putrane"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ bareng karo panjenengané"
+      "gloss": "⟨את⟩-e bareng"
     }
   ],
-  "timestamp": "2026-08-21T03:54:00.746416723Z",
+  "timestamp": "2026-08-24T05:38:47.458674705Z",
   "model": "glm-5.3"
 }

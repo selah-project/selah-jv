@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan Yahweh ngandika marang Yehosua: aja wedi lan aja kagèt; cedhakna ⟨את⟩ kabeh wong paperangan iya kowé, lan tangga, munggaha menyang ⟨the⟩ Ai; ndelenga, Ingsun wus maringi ana ing astanmu ⟨את⟩ ratu ing Ai lan ⟨את⟩ para wongane lan ⟨את⟩ kuthane lan ⟨את⟩ tanahé.",
+  "translation": "Lan Yahweh matur marang Yehosyua: aja wedi lan aja kagod, cekela karo kowe ⟨את⟩ sakwonge wong perang, lan tangia, mungahe menyang Ai; delenga, Ingsen wus kasedakake ing tanganmu ⟨את⟩ ratune Ai lan ⟨את⟩ wonge lan ⟨את⟩ kuthane lan ⟨את⟩ buminé.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lan ngandika"
+      "gloss": "Lan ... matur"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehosua"
+      "gloss": "Yehosyua"
     },
     {
       "surface": "אל",
@@ -37,28 +37,28 @@
     },
     {
       "surface": "תחת",
-      "gloss": "kagèt"
+      "gloss": "kagod"
     },
     {
       "surface": "קח",
-      "gloss": "cedhakna"
+      "gloss": "cekela"
     },
     {
       "surface": "עמך",
-      "gloss": "iya kowé"
+      "gloss": "karo kowe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kabeh wong paperangan"
+      "marks": "sakwonge wong perang"
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "sakwonge"
     },
     {
       "surface": "עם",
-      "gloss": "wong paperangan"
+      "gloss": "wong"
     },
     {
       "surface": "המלחמה",
@@ -66,32 +66,32 @@
     },
     {
       "surface": "וקום",
-      "gloss": "lan tangga"
+      "gloss": "lan tangia"
     },
     {
       "surface": "עלה",
-      "gloss": "munggaha"
+      "gloss": "mungahe"
     },
     {
       "surface": "העי",
-      "gloss": "⟨the⟩ Ai"
+      "gloss": "menyang Ai"
     },
     {
       "surface": "ראה",
-      "gloss": "ndelenga"
+      "gloss": "delenga"
     },
     {
       "surface": "נתתי",
-      "gloss": "Ingsun wus maringi"
+      "gloss": "Ingsen wus kasedakake"
     },
     {
       "surface": "בידך",
-      "gloss": "ana ing astanmu"
+      "gloss": "ing tanganmu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ratu ing Ai"
+      "marks": "ratune Ai"
     },
     {
       "surface": "מלך",
@@ -99,16 +99,16 @@
     },
     {
       "surface": "העי",
-      "gloss": "ing Ai"
+      "gloss": "-ne Ai"
     },
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "para wongane"
+      "marks": "wonge"
     },
     {
       "surface": "עמו",
-      "gloss": "para wongane"
+      "gloss": "wonge"
     },
     {
       "surface": "ואת",
@@ -122,13 +122,13 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "tanahé"
+      "marks": "buminé"
     },
     {
       "surface": "ארצו",
-      "gloss": "tanahé"
+      "gloss": "buminé"
     }
   ],
-  "timestamp": "2026-08-20T23:43:59.655116832Z",
+  "timestamp": "2026-08-24T05:46:08.737517955Z",
   "model": "glm-5.3"
 }

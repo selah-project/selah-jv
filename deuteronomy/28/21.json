@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 28,
-  "translation": "Yahweh bakal nglemplekake marang kowé ⟨את⟩ pageyu, nganti tinumpes kowé saka ⟨the⟩ lemah sing koktembu teka ing kono arep kokduweni.",
+  "translation": "Yahweh bakal nglèmètaké ⟨את⟩ pageblug marang kowé, ngani entèk dhéwé kowé saka ing sadhuwuring bumi sing kowé kok teka ing kana kanggo nguwasani.",
   "tokens": [
     {
       "surface": "ידבק",
-      "gloss": "nglemplekake"
+      "gloss": "bakal nglèmètaké"
     },
     {
       "surface": "יהוה",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pageyu"
+      "marks": "pageblug"
     },
     {
       "surface": "הדבר",
-      "gloss": "pageyu"
+      "gloss": "pageblug"
     },
     {
       "surface": "עד",
@@ -34,20 +34,19 @@
     },
     {
       "surface": "כלתו",
-      "gloss": "tinumpes"
+      "gloss": "ani entèk dhéwé"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ kowé",
-      "marks": "kowé"
+      "gloss": "⟨את⟩ kowé"
     },
     {
       "surface": "מעל",
-      "gloss": "saka"
+      "gloss": "saka ing sadhuwuring"
     },
     {
       "surface": "האדמה",
-      "gloss": "lemah"
+      "gloss": "bumi"
     },
     {
       "surface": "אשר",
@@ -59,17 +58,17 @@
     },
     {
       "surface": "בא",
-      "gloss": "teka"
+      "gloss": "kok teka"
     },
     {
       "surface": "שמה",
-      "gloss": "ing kono"
+      "gloss": "ing kana"
     },
     {
       "surface": "לרשתה",
-      "gloss": "arep kokduweni"
+      "gloss": "kanggo nguwasani"
     }
   ],
-  "timestamp": "2026-08-20T23:39:08.412166258Z",
+  "timestamp": "2026-08-24T05:44:54.373696105Z",
   "model": "glm-5.3"
 }

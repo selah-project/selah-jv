@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 40,
-  "translation": "Lan ing paturon gerbang ana rong meja ing sisih kiwa, lan rong meja ing sisih tengen, kanggo nyembelih ana ing kono ⟨the⟩ kurban bakaran lan ⟨the⟩ kurban dosa lan ⟨the⟩ kurban salah.",
+  "translation": "Lan ing serambi ⟨the⟩ gapura ana rong mejas saka ing kono, lan rong mejas saka ing kene, kanggo nyembelih ing dhuwure ⟨את⟩ kurban bakaran, ⟨את⟩ kurban dosa, lan ⟨את⟩ kurban kesalahan.",
   "tokens": [
     {
       "surface": "ובאלם",
-      "gloss": "lan ing paturon"
+      "gloss": "lan ing serambi"
     },
     {
       "surface": "השער",
-      "gloss": "gerbang"
+      "gloss": "⟨the⟩ gapura"
     },
     {
       "surface": "שנים",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שלחנות",
-      "gloss": "meja"
+      "gloss": "mejas"
     },
     {
       "surface": "מפו",
-      "gloss": "ing sisih kiwa"
+      "gloss": "saka ing kana"
     },
     {
       "surface": "ושנים",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "שלחנות",
-      "gloss": "meja"
+      "gloss": "mejas"
     },
     {
       "surface": "מפה",
-      "gloss": "ing sisih tengen"
+      "gloss": "saka ing kene"
     },
     {
       "surface": "לשחוט",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "ana ing kono"
+      "gloss": "ing dhuwure"
     },
     {
       "surface": "העולה",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "והאשם",
-      "gloss": "lan kurban salah"
+      "gloss": "lan kurban kesalahan"
     }
   ],
-  "timestamp": "2026-08-21T01:21:24.863044722Z",
+  "timestamp": "2026-08-24T05:59:21.647113209Z",
   "model": "glm-5.3"
 }

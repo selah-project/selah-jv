@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 10,
-  "translation": "Lan Aku bakal nulis ing ⟨⟨the⟩⟩ prasasti ⟨את⟩ tembung-tembunge sing ana ing ⟨⟨the⟩⟩ prasasti kapisan, sing kokrandhakake, lan koleta-lata ing ⟨⟨the⟩⟩ peti.",
+  "translation": "Lan Aku bakal nulis ing lempengan ⟨את⟩ tembung-tembung kang ana ing lempengan kapisan, kang sira wis remukake, lan sira naruhna ing peti.",
   "tokens": [
     {
       "surface": "ואכתב",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "הלחת",
-      "gloss": "⟨the⟩ prasasti"
+      "gloss": "lempengan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tembung-tembunge"
+      "marks": "tembung-tembung"
     },
     {
       "surface": "הדברים",
-      "gloss": "tembung-tembunge"
+      "gloss": "tembung-tembung"
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "היו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הלחת",
-      "gloss": "⟨the⟩ prasasti"
+      "gloss": "lempengan"
     },
     {
       "surface": "הראשנים",
@@ -50,21 +50,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sing"
+      "gloss": "kang"
     },
     {
       "surface": "שברת",
-      "gloss": "kokrandhakake"
+      "gloss": "sira wis remukake"
     },
     {
       "surface": "ושמתם",
-      "gloss": "lan koleta-lata"
+      "gloss": "lan sira naruhna"
     },
     {
       "surface": "בארון",
-      "gloss": "ing ⟨the⟩ peti"
+      "gloss": "ing peti"
     }
   ],
-  "timestamp": "2026-08-20T23:32:56.194670104Z",
+  "timestamp": "2026-08-24T05:43:31.400300757Z",
   "model": "glm-5.3"
 }

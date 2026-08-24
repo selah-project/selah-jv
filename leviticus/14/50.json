@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "jv",
   "chapter": 14,
-  "translation": "Lan dheweke sembelih ⟨את⟩ ⟨the⟩ manuk ⟨the⟩ siji, mara ing pireng lempung, ing dhuwur banyu urip.",
+  "translation": "lan nyembelih ⟨את⟩ manuk siji mau ing sajroning ⟨the⟩ wadhah lempung, ing sandhuwuring banyu urip.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "lan sembelih"
+      "gloss": "lan nyembelih"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "manuk"
+      "marks": "manuk siji mau"
     },
     {
       "surface": "הצפר",
@@ -22,15 +22,15 @@
     },
     {
       "surface": "האחת",
-      "gloss": "siji"
+      "gloss": "siji mau"
     },
     {
       "surface": "אל",
-      "gloss": "mara ing"
+      "gloss": "ing sajroning"
     },
     {
       "surface": "כלי",
-      "gloss": "pireng"
+      "gloss": "wadhah"
     },
     {
       "surface": "חרש",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ing dhuwur"
+      "gloss": "ing sandhuwuring"
     },
     {
       "surface": "מים",
@@ -49,6 +49,6 @@
       "gloss": "urip"
     }
   ],
-  "timestamp": "2026-08-20T23:12:23.966460146Z",
+  "timestamp": "2026-08-24T06:11:53.834724830Z",
   "model": "glm-5.3"
 }

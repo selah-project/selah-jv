@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 13,
-  "translation": "Lan aku lunga menyang Perath, lan aku nggali, lan aku njupuk ⟨את⟩ ⟨the⟩ sabuk saka panggonan panggonan kuwi kudhelikake ing kono; lan lah, ⟨the⟩ sabuk wis rusak, ora migunani tumrap apa-apa.",
+  "translation": "Dadine aku mangkat menyang Perath, aku ndhahup, banjur dakjupuk ⟨את⟩ iket saka panggonan pangendhelanku ing kono; lah, rusak wis iket mau, ora bisa digunakake marang apa-apa.",
   "tokens": [
     {
       "surface": "ואלך",
-      "gloss": "lan aku lunga"
+      "gloss": "aku mangkat"
     },
     {
       "surface": "פרתה",
@@ -17,20 +17,20 @@
     },
     {
       "surface": "ואחפר",
-      "gloss": "lan aku nggali"
+      "gloss": "aku ndhahup"
     },
     {
       "surface": "ואקח",
-      "gloss": "lan aku njupuk"
+      "gloss": "dakjupuk"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sabuk"
+      "marks": "iket"
     },
     {
       "surface": "האזור",
-      "gloss": "⟨the⟩ sabuk"
+      "gloss": "iket"
     },
     {
       "surface": "מן",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "המקום",
-      "gloss": "⟨the⟩ panggonan"
-    },
-    {
-      "surface": "אשר",
       "gloss": "panggonan"
     },
     {
+      "surface": "אשר",
+      "gloss": "pangendhelanku"
+    },
+    {
       "surface": "טמנתיו",
-      "gloss": "aku kudhelikake dheweke"
+      "gloss": "pangendhelanku"
     },
     {
       "surface": "שמה",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "lan lah"
+      "gloss": "lah"
     },
     {
       "surface": "נשחת",
-      "gloss": "wis rusak"
+      "gloss": "rusak"
     },
     {
       "surface": "האזור",
-      "gloss": "⟨the⟩ sabuk"
+      "gloss": "iket"
     },
     {
       "surface": "לא",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "יצלח",
-      "gloss": "migunani"
+      "gloss": "bisa"
     },
     {
       "surface": "לכל",
-      "gloss": "tumrap apa-apa"
+      "gloss": "marang apa-apa"
     }
   ],
-  "timestamp": "2026-08-21T00:53:27.082569572Z",
+  "timestamp": "2026-08-24T05:56:06.458119864Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "nahum",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Yahweh ⟨⟨iku⟩⟩ lami-nesu lan gedhe kuwasane, lan ora bakal ngapura ⟨sing salah⟩; Yahweh — ing prahara lan ing praupan-angin dalané, lan mega ⟨iku⟩ bledug ing sukuné.",
+  "translation": "Yahweh ⟨iku⟩ supe marang nesu lan gedhe kuwasane, lan ora bakal ngresahake ⟨durjana⟩; dalane Yahweh ⟨ana⟩ ing prahara lan ing angin puyuh, lan ⟨etu⟩ dadi bledug ing samparane.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ארך",
-      "gloss": "lami"
+      "gloss": "supe"
     },
     {
       "surface": "אפים",
-      "gloss": "nesu"
+      "gloss": "marang nesu"
     },
     {
       "surface": "וגדול",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ונקה",
-      "gloss": "lan ngapura"
+      "gloss": "lan ngresahake"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ינקה",
-      "gloss": "bakal ngapura"
+      "gloss": "bakal ngresahake"
     },
     {
       "surface": "יהוה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "ובשערה",
-      "gloss": "lan ing praupan-angin"
+      "gloss": "lan ing angin puyuh"
     },
     {
       "surface": "דרכו",
-      "gloss": "dalané"
+      "gloss": "dalane"
     },
     {
       "surface": "וענן",
-      "gloss": "lan mega"
+      "gloss": "lan ⟨etu⟩"
     },
     {
       "surface": "אבק",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "רגליו",
-      "gloss": "ing sukuné"
+      "gloss": "ing samparane"
     }
   ],
-  "timestamp": "2026-08-21T01:33:51.070158006Z",
+  "timestamp": "2026-08-24T06:00:20.038768141Z",
   "model": "glm-5.3"
 }

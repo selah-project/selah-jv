@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 27,
-  "translation": "Lan bakal dadi: bangsa lan karaton sing ora arep ngladeni ⟨את⟩ ⟨אתו⟩ — ⟨את⟩ Nevukhadnetstsar ratu Bavel — lan ⟨את⟩ sing ora arep nglebokake ⟨את⟩ guluhe ing sangisoring kuk raja Bavel, Aku bakal ngluruhi bangsa iku kanthi pedhang, keluwen, lan page, pangandikane Yahweh, nganti Sun entekake ⟨את⟩ ⟨אתם⟩ ing tangane.",
+  "translation": "Lan bakal kelakon: bangsa lan karajan sing ora gelem ngabdi marang ⟨את⟩-dheweke, yaiku ⟨את⟩ Nebukhadnetsar raja Bavel, lan sing ora gelem ngetokake ⟨את】 gulu-e ing sangisoré kuk raja Bavel — pedhang, kaluwèn lan pageblug bakal Kukunjuki marang bangsa iku, pangandikane Yahweh, nganti Sununsuwèkake ⟨את⟩ dheweke ing tangan-e.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Lan bakal dadi"
+      "gloss": "lan bakal kelakon"
     },
     {
       "surface": "הגוי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והממלכה",
-      "gloss": "lan karaton"
+      "gloss": "lan karajan"
     },
     {
       "surface": "אשר",
@@ -29,25 +29,25 @@
     },
     {
       "surface": "יעבדו",
-      "gloss": "arep ngladeni"
+      "gloss": "gelem ngabdi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "Nevukhadnetstsar ratu Bavel"
+      "gloss": "⟨את⟩-dheweke",
+      "marks": "bangsa lan karajan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nevukhadnetstsar"
+      "marks": "Nebukhadnetsar raja Bavel"
     },
     {
       "surface": "נבוכדנאצר",
-      "gloss": "Nevukhadnetstsar"
+      "gloss": "Nebukhadnetsar"
     },
     {
       "surface": "מלך",
-      "gloss": "ratu"
+      "gloss": "raja"
     },
     {
       "surface": "בבל",
@@ -56,7 +56,7 @@
     {
       "surface": "ואת",
       "gloss": "lan ⟨את⟩",
-      "marks": "sing ora arep nglebokake gulune"
+      "marks": "sing ora ngetokake gulu-e"
     },
     {
       "surface": "אשר",
@@ -68,24 +68,24 @@
     },
     {
       "surface": "יתן",
-      "gloss": "arep nglebokake"
+      "gloss": "ngetokake"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "guluhe"
+      "marks": "gulu-e"
     },
     {
       "surface": "צוארו",
-      "gloss": "guluhe"
+      "gloss": "gulu-e"
     },
     {
       "surface": "בעל",
-      "gloss": "ing sangisoring"
+      "gloss": "ing sangisoré"
     },
     {
       "surface": "מלך",
-      "gloss": "raja"
+      "gloss": "kuk raja"
     },
     {
       "surface": "בבל",
@@ -93,19 +93,19 @@
     },
     {
       "surface": "בחרב",
-      "gloss": "kanthi pedhang"
+      "gloss": "kalawan pedhang"
     },
     {
       "surface": "וברעב",
-      "gloss": "keluwen"
+      "gloss": "lan kaluwèn"
     },
     {
       "surface": "ובדבר",
-      "gloss": "lan page"
+      "gloss": "lan pageblug"
     },
     {
       "surface": "אפקד",
-      "gloss": "Aku bakal ngluruhi"
+      "gloss": "bakal Kukunjuki"
     },
     {
       "surface": "על",
@@ -133,18 +133,18 @@
     },
     {
       "surface": "תמי",
-      "gloss": "Sun entekake"
+      "gloss": "Sununsuwèkake"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "ing tangane"
+      "gloss": "⟨את⟩",
+      "marks": "bangsa iku"
     },
     {
       "surface": "בידו",
-      "gloss": "ing tangane"
+      "gloss": "ing tangan-e"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.601416985Z",
+  "timestamp": "2026-08-24T06:12:51.301430905Z",
   "model": "glm-5.3"
 }

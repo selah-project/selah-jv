@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 7,
-  "translation": "Yen Yahweh Elohimmu nggawa sira menyang ⟨the⟩ bumi ing panggonan koklunga ing kono kanggo kokgoni, lan ngusir bangsa akeh saka ngarsanira — ⟨the⟩ Heti lan ⟨the⟩ Girgasi lan ⟨the⟩ Emori lan ⟨the⟩ Kenaani lan ⟨the⟩ Perizi lan ⟨the⟩ Hiwi lan ⟨the⟩ Yebusi — pitung bangsa akeh lan gagah saka sira —",
+  "translation": "Nalika Yahweh Elohim makake sira marang ⟨the⟩ bumi sing sira lumebu ing kono kanggo duweni, lan panjenengane ngeculake bangsa-bangsa akeh saka ing ngarsanira — ⟨the⟩ wong Het, lan ⟨the⟩ wong Girgas, lan ⟨the⟩ wong Emori, lan ⟨the⟩ wong Kenan, lan ⟨the⟩ wong Perizi, lan ⟨the⟩ wong Hiwi, lan ⟨the⟩ wong Yebus — pitu bangsa, akeh lan gegayuh saka sira.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "yen"
+      "gloss": "nalika"
     },
     {
       "surface": "יביאך",
-      "gloss": "nggawa sira"
+      "gloss": "makake sira"
     },
     {
       "surface": "יהוה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohimmu"
+      "gloss": "Elohim"
     },
     {
       "surface": "אל",
-      "gloss": "menyang"
+      "gloss": "marang"
     },
     {
       "surface": "הארץ",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ing panggonan"
+      "gloss": "sing"
     },
     {
       "surface": "אתה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "koklunga"
+      "gloss": "lumebu"
     },
     {
       "surface": "שמה",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "kanggo kokgoni"
+      "gloss": "kanggo duweni"
     },
     {
       "surface": "ונשל",
-      "gloss": "lan ngusir"
+      "gloss": "lan ngeculake"
     },
     {
       "surface": "גוים",
-      "gloss": "bangsa"
+      "gloss": "bangsa-bangsa"
     },
     {
       "surface": "רבים",
@@ -65,39 +65,39 @@
     },
     {
       "surface": "מפניך",
-      "gloss": "saka ngarsanira"
+      "gloss": "saka ing ngarsanira"
     },
     {
       "surface": "החתי",
-      "gloss": "Heti"
+      "gloss": "wong Het"
     },
     {
       "surface": "והגרגשי",
-      "gloss": "lan Girgasi"
+      "gloss": "lan wong Girgas"
     },
     {
       "surface": "והאמרי",
-      "gloss": "lan Emori"
+      "gloss": "lan wong Emori"
     },
     {
       "surface": "והכנעני",
-      "gloss": "lan Kenaani"
+      "gloss": "lan wong Kenan"
     },
     {
       "surface": "והפרזי",
-      "gloss": "lan Perizi"
+      "gloss": "lan wong Perizi"
     },
     {
       "surface": "והחוי",
-      "gloss": "lan Hiwi"
+      "gloss": "lan wong Hiwi"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "lan Yebusi"
+      "gloss": "lan wong Yebus"
     },
     {
       "surface": "שבעה",
-      "gloss": "pitung"
+      "gloss": "pitu"
     },
     {
       "surface": "גוים",
@@ -109,13 +109,13 @@
     },
     {
       "surface": "ועצומים",
-      "gloss": "lan gagah"
+      "gloss": "lan gegayuh"
     },
     {
       "surface": "ממך",
       "gloss": "saka sira"
     }
   ],
-  "timestamp": "2026-08-20T23:32:23.843162248Z",
+  "timestamp": "2026-08-24T05:42:54.887891283Z",
   "model": "glm-5.3"
 }

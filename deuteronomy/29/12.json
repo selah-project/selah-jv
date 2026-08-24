@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 29,
-  "translation": "supaya ⟨את⟩ sira didegake dina iki dadi umaté Dewé, lan ⟨ה⟩ bakal dadi Elohimira, kaya sing kinandhakake marang sira, lan kaya sing disumpahake marang para leluhurmira, marang Avraham, marang Yitshak, lan marang Yaakov",
+  "translation": "supaya ⟨dheweke⟩ ngadegake ⟨את⟩ sira ing dina iki kanggo-E dadi umat, lan supaya dheweke dadi Elohim kanggo sira, kaya sing wis Dingendikani marang sira, lan kaya sing wis disumpahi marang leluhurmu, marang Avraham, marang Yitshak, lan marang Yaakov.",
   "tokens": [
     {
       "surface": "למען",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הקים",
-      "gloss": "didegake"
+      "gloss": "ngadegake"
     },
     {
       "surface": "אתך",
@@ -22,23 +22,23 @@
     },
     {
       "surface": "היום",
-      "gloss": "dina iki"
+      "gloss": "ing dina iki"
     },
     {
       "surface": "לו",
-      "gloss": "dadi umaté Dewé"
+      "gloss": "kanggo-E"
     },
     {
       "surface": "לעם",
-      "gloss": "umat"
+      "gloss": "dadi umat"
     },
     {
       "surface": "והוא",
-      "gloss": "lan ⟨ה⟩"
+      "gloss": "lan dheweke"
     },
     {
       "surface": "יהיה",
-      "gloss": "bakal dadi"
+      "gloss": "dadi"
     },
     {
       "surface": "לך",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "Elohimira"
+      "gloss": "Elohim"
     },
     {
       "surface": "כאשר",
-      "gloss": "kaya"
+      "gloss": "kaya sing"
     },
     {
       "surface": "דבר",
-      "gloss": "sing kinandhakake"
+      "gloss": "Dingendikani"
     },
     {
       "surface": "לך",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "וכאשר",
-      "gloss": "lan kaya"
+      "gloss": "lan kaya sing"
     },
     {
       "surface": "נשבע",
-      "gloss": "sing disumpahake"
+      "gloss": "disumpahi"
     },
     {
       "surface": "לאבתיך",
-      "gloss": "marang para leluhurmira"
+      "gloss": "marang leluhurmu"
     },
     {
       "surface": "לאברהם",
@@ -85,6 +85,6 @@
       "gloss": "lan marang Yaakov"
     }
   ],
-  "timestamp": "2026-08-20T23:38:51.406959978Z",
+  "timestamp": "2026-08-24T05:44:34.851723552Z",
   "model": "glm-5.3"
 }

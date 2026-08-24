@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 21,
-  "translation": "Menawa ana wong duwe anak pangubar lan nulak prentah, ora ngrungokake swara ramane lan swara ibune, lan wis nindakake disiplin ⟨את⟩ ⟨אתו⟩ nanging ora ngrungokake marang wong loro iku —",
+  "translation": "Menawa ana wong duwe anak ngluwar lan nglunggari, ora ngestokake swara bapakne lan swara ibune, lan disembokake ⟨את⟩ dheweke nanging ora ngrungokake marang wong loro.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "menawa"
+      "gloss": "Menawa"
     },
     {
       "surface": "יהיה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "סורר",
-      "gloss": "pangubar"
+      "gloss": "ngluwar"
     },
     {
       "surface": "ומורה",
-      "gloss": "lan nulak prentah"
+      "gloss": "lan nglunggari"
     },
     {
       "surface": "איננו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "ngrungokake"
+      "gloss": "ngestokake"
     },
     {
       "surface": "בקול",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אביו",
-      "gloss": "ramane"
+      "gloss": "bapakne"
     },
     {
       "surface": "ובקול",
@@ -57,12 +57,12 @@
     },
     {
       "surface": "ויסרו",
-      "gloss": "lan wis nindakake disiplin"
+      "gloss": "lan disembokake"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩",
-      "marks": "nanging ora ngrungokake"
+      "gloss": "⟨את⟩",
+      "marks": "dheweke"
     },
     {
       "surface": "ולא",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "marang wong loro iku"
+      "gloss": "marang wong loro"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.741395050Z",
+  "timestamp": "2026-08-24T05:45:02.351888638Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 3,
-  "translation": "Lan padha njaga tugas kepenase, lan ⟨את⟩ tugas pasamuwan kabeh ing ngarepe kemah patemon, kanggo nglakoni ⟨את⟩ pangabdian ⟨the⟩ kemah suci.",
+  "translation": "Lan padha njaga panyuwunané ⟨את⟩, lan ⟨את⟩ panyuwunané sakabèhé pasamuwan mau, ing ngarsané khemah pasamuan, kanggo nglakoni ⟨את⟩ pangabektèné panggènan suci",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "padha njaga"
+      "gloss": "lan padha njaga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tugas kepenase"
+      "marks": "panyuwunané"
     },
     {
       "surface": "משמרתו",
-      "gloss": "tugas kepenase"
+      "gloss": "panyuwunané"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "tugas pasamuwan"
+      "gloss": "lan ⟨את⟩",
+      "marks": "panyuwunané sakabèhé pasamuwan"
     },
     {
       "surface": "משמרת",
-      "gloss": "tugas"
+      "gloss": "panyuwunané"
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "sakabèhé"
     },
     {
       "surface": "העדה",
@@ -39,15 +39,15 @@
     },
     {
       "surface": "לפני",
-      "gloss": "ing ngarepe"
+      "gloss": "ing ngarsané"
     },
     {
       "surface": "אהל",
-      "gloss": "kemah"
+      "gloss": "khemah"
     },
     {
       "surface": "מועד",
-      "gloss": "patemon"
+      "gloss": "pasamuan"
     },
     {
       "surface": "לעבד",
@@ -56,17 +56,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pangabdian"
+      "marks": "pangabektèné panggènan suci"
     },
     {
       "surface": "עבדת",
-      "gloss": "pangabdian"
+      "gloss": "pangabektèné"
     },
     {
       "surface": "המשכן",
-      "gloss": "kemah suci"
+      "gloss": "panggènan suci"
     }
   ],
-  "timestamp": "2026-08-20T23:19:00.693343473Z",
+  "timestamp": "2026-08-24T05:41:25.555871849Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan Yahweh ngandika marang Shemuel: Ndereka swarane ⟨the⟩ bangsa iki, ing sabarang sing padha ngandikaké marang sampéyan; awit dudu ⟨את⟩ ⟨אתך⟩ sampéyan sing ditampik, nanging ⟨את⟩ ⟨אתי⟩ Ingsun sing ditampik, saka mrentah marang dheweke.",
+  "translation": "Lan Yahweh ngandika marang Shemuel: \"Mirena swarane wong-wong mau, sakehing sing bakal padha kokaturake — awit dudu ⟨את⟩ sira sing padha ditampik, nanging ⟨את⟩ Ingsun sing padha ditampik, supaya Ingsun aja maréntah marang dhèwèké.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "lan ngandika"
+      "gloss": "Lan ngandika"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "ndereka"
+      "gloss": "Mirena"
     },
     {
       "surface": "בקול",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "bangsa iki"
+      "gloss": "wong-wong mau"
     },
     {
       "surface": "לכל",
-      "gloss": "ing sabarang"
+      "gloss": "sakehing"
     },
     {
       "surface": "אשר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "padha ngandikaké"
+      "gloss": "padha kokaturake"
     },
     {
       "surface": "אליך",
-      "gloss": "marang sampéyan"
+      "gloss": "marang sira"
     },
     {
       "surface": "כי",
@@ -61,12 +61,12 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨אתך⟩ sampéyan",
-      "marks": "sampéyan sing ditampik"
+      "gloss": "⟨את⟩",
+      "marks": "sira"
     },
     {
       "surface": "מאסו",
-      "gloss": "sing ditampik"
+      "gloss": "padha ditampik"
     },
     {
       "surface": "כי",
@@ -74,22 +74,22 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨אתי⟩ Ingsun",
-      "marks": "Ingsun sing ditampik"
+      "gloss": "⟨את⟩",
+      "marks": "Ingsun"
     },
     {
       "surface": "מאסו",
-      "gloss": "sing ditampik"
+      "gloss": "padha ditampik"
     },
     {
       "surface": "ממלך",
-      "gloss": "saka mrentah"
+      "gloss": "maréntah"
     },
     {
       "surface": "עליהם",
-      "gloss": "marang dheweke"
+      "gloss": "marang dhèwèké"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.725803533Z",
+  "timestamp": "2026-08-24T05:48:53.430780936Z",
   "model": "glm-5.3"
 }

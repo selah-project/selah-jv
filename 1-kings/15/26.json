@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 15,
-  "translation": "Lan dhèwèké nindakake ⟨ה⟩ ala ing sajroning mripaté Yahweh, sarta lumaku ing dalané ramané lan ing dosané, sing nggawé Israel padha dosa marang ⟨את⟩ Israel.",
+  "translation": "Lan dheweke nindakake sang ala ing mripate Yahweh, sarta lumaku ing dalane ramane, lan ing dosane, sing marakake Yisrael padha dosa.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "Lan dhèwèké nindakake"
+      "gloss": "nindakake"
     },
     {
       "surface": "הרע",
-      "gloss": "⟨ה⟩ ala"
+      "gloss": "sang ala"
     },
     {
       "surface": "בעיני",
-      "gloss": "ing sajroning mripaté"
+      "gloss": "ing mripate"
     },
     {
       "surface": "יהוה",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "וילך",
-      "gloss": "sarta lumaku"
+      "gloss": "lumaku"
     },
     {
       "surface": "בדרך",
-      "gloss": "ing dalané"
+      "gloss": "ing dalane"
     },
     {
       "surface": "אביו",
-      "gloss": "ramané"
+      "gloss": "ramane"
     },
     {
       "surface": "ובחטאתו",
-      "gloss": "lan ing dosané"
+      "gloss": "lan ing dosane"
     },
     {
       "surface": "אשר",
@@ -45,18 +45,18 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "nggawé dosa"
+      "gloss": "marakake ... dosa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Israel"
+      "marks": "Yisrael"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "Yisrael"
     }
   ],
-  "timestamp": "2026-08-21T00:20:13.853313364Z",
+  "timestamp": "2026-08-24T05:51:48.068909983Z",
   "model": "glm-5.3"
 }

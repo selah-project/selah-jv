@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "jv",
   "chapter": 14,
-  "translation": "Lan bakal ana ⟨⟨is⟩⟩: saben kendhi ing Yerushalayim lan ing Yehudah bakal dadi suci marang Yahweh Tzevaot, lan saben sing nyembelih bakal teka lan njupuk saka antarane, lan ngolah panganan ing jroning; lan ora bakal ana Kanaan maneh ing omahe Yahweh Tzevaot, ing dina iku.",
+  "translation": "Lan bakal ana ⟨⟨is⟩⟩: saben kendhi ing Yerushalayim lan ing Yehudha bakal dadi suci tumrapé Yahweh Tzvaot; lan saben sing ngetokake kurban bakal teka lan njupuk saka ing kono lan ngolèh nganggo iku; lan ora bakal ana Kenaani maneh ing omahe Yahweh Tzvaot ing dina iku.",
   "tokens": [
     {
       "surface": "והיה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וביהודה",
-      "gloss": "lan ing Yehudah"
+      "gloss": "lan ing Yehudha"
     },
     {
       "surface": "קדש",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "marang Yahweh"
+      "gloss": "tumrapé Yahweh"
     },
     {
       "surface": "צבאות",
-      "gloss": "Tzevaot"
+      "gloss": "Tzvaot"
     },
     {
       "surface": "ובאו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הזבחים",
-      "gloss": "sing nyembelih"
+      "gloss": "sing ngetokake kurban"
     },
     {
       "surface": "ולקחו",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "מהם",
-      "gloss": "saka antarane"
+      "gloss": "saka ing kono"
     },
     {
       "surface": "ובשלו",
-      "gloss": "lan ngolah panganan"
+      "gloss": "lan ngolèh"
     },
     {
       "surface": "בהם",
-      "gloss": "ing jroning"
+      "gloss": "nganggo iku"
     },
     {
       "surface": "ולא",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "כנעני",
-      "gloss": "Kanaan"
+      "gloss": "Kenaani"
     },
     {
       "surface": "עוד",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tzevaot"
+      "gloss": "Tzvaot"
     },
     {
       "surface": "ביום",
@@ -104,6 +104,6 @@
       "gloss": "iku"
     }
   ],
-  "timestamp": "2026-08-21T01:38:18.033995587Z",
+  "timestamp": "2026-08-24T06:01:24.051524245Z",
   "model": "glm-5.3"
 }

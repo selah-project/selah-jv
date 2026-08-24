@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "jv",
   "chapter": 40,
-  "translation": "Lan patang meja kanggo kurban bakaran, saka watu kajian — dawane sawarsa ⟨hasta⟩ siji lan setengah, ambane sawarsa siji lan setengah, lan dhuwure sawarsa siji; ing kono padha naruhna ⟨את⟩ ⟨the⟩ piranti kanggo nyembelih ⟨את⟩ kurban bakaran lan kurban sembelihan ing kono.",
+  "translation": "Lan patang meja kanggo kurban bakaran, saka watu pahat: dawané sapro setengah, ambané sapro setengah, dhuwuré sadhuwur; ing dhuwure padha nunjel ⟨את⟩ prabot-prabot kanggo nyembelih ⟨את⟩ kurban bakaran lan ⟨את⟩ kurban sembelihan ing kono.",
   "tokens": [
     {
       "surface": "וארבעה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "גזית",
-      "gloss": "kajian"
+      "gloss": "pahat"
     },
     {
       "surface": "ארך",
-      "gloss": "dawane"
+      "gloss": "dawané"
     },
     {
       "surface": "אמה",
-      "gloss": "sawarsa"
+      "gloss": "sapro"
     },
     {
       "surface": "אחת",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ורחב",
-      "gloss": "lan ambane"
+      "gloss": "ambané"
     },
     {
       "surface": "אמה",
-      "gloss": "sawarsa"
+      "gloss": "sapro"
     },
     {
       "surface": "אחת",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "וגבה",
-      "gloss": "lan dhuwure"
+      "gloss": "dhuwuré"
     },
     {
       "surface": "אמה",
-      "gloss": "sawarsa"
+      "gloss": "sapro"
     },
     {
       "surface": "אחת",
@@ -73,20 +73,20 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "ing kono"
+      "gloss": "ing dhuwure"
     },
     {
       "surface": "ויניחו",
-      "gloss": "padha naruhna"
+      "gloss": "padha nunjel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "piranti"
+      "marks": "prabot-prabot"
     },
     {
       "surface": "הכלים",
-      "gloss": "piranti"
+      "gloss": "prabot-prabot"
     },
     {
       "surface": "אשר",
@@ -114,6 +114,6 @@
       "gloss": "lan kurban sembelihan"
     }
   ],
-  "timestamp": "2026-08-21T01:22:14.602794896Z",
+  "timestamp": "2026-08-24T05:59:56.590421236Z",
   "model": "glm-5.3"
 }

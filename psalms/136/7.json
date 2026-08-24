@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 136,
-  "translation": "Marang Sang Nabihi nitahake padhang-padhang agung, awit kuwaluning-Né langgeng salawasé.",
-  "tokens": [],
-  "timestamp": "2026-08-21T02:08:01.147063294Z",
+  "translation": "Dheweke sing nitahake padhang-padhang agung, amarga kasetyane langgeng salawas-lawase.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "sing nitahake"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "padhang-padhang"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "agung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "amarga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "salawas-lawase"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "kasetyane"
+    }
+  ],
+  "timestamp": "2026-08-24T06:04:28.040274140Z",
   "model": "glm-5.3"
 }

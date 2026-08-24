@@ -5,8 +5,113 @@
   "book": "nehemiah",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lah kabeh jamaah sing bali saka sangsaran padha nggawe sulkan lan padha manggon ing sulkan, awit ora natah dilakoni déné Abraham... én, awit tinanggal sanggan: awit Wong Israil ora natah nglakoni mangkono wiwit jamané Yeshua bin Nun nganti dina iku; banjur ana bungah banget great.",
-  "tokens": [],
-  "timestamp": "2026-08-21T03:11:50.296437925Z",
+  "translation": "Lan saka kumpulan wong-wong sing bali saka pangasingan, kabeh nggawe saung-saung lan padha manggon ing saung-saung; awit saka jaman Yeshua bin Nun nganti dina iku anak-anak Israèl durung nindakake kaya mangkono, lan ana bungah banget banget.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "lan padha nggawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kabeh"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kumpulan"
+    },
+    {
+      "surface": "השבים",
+      "gloss": "sing padha bali"
+    },
+    {
+      "surface": "מן",
+      "gloss": "saka"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "pangasingan"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "saung-saung"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "lan padha manggon"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "ing saung-saung"
+    },
+    {
+      "surface": "כי",
+      "gloss": "awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ora"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "padha nindakake"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "saka jaman-dina"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kaya mangkono"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak-anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israèl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "iku"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "lan dadi ana"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bungah"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "banget"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "banget banget"
+    }
+  ],
+  "timestamp": "2026-08-24T06:08:33.421427690Z",
   "model": "glm-5.3"
 }

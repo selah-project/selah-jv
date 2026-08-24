@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "jv",
   "chapter": 7,
-  "translation": "lan Zabad anaké, lan Shutelach anaké, lan Ezer lan Elad; lan wong-wong Gat sing lair ing nagara iku matèni ⟨⟨בנו⟩⟩, amarga dhèwèké mudhun ngojok ingon-ingoné",
+  "translation": "lan Zabad anaké, lan Shutelach anaké, lan Ezer lan Elad; lan wong-wong Gat sing lair ing ⟨the⟩ bumi iku matèni ⟨mereka⟩, awit padha mudhun arep njupuk ⟨את⟩ kewan-kewanè",
   "tokens": [
     {
       "surface": "וזבד",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והרגום",
-      "gloss": "lan matèni"
+      "gloss": "matèni ⟨mereka⟩"
     },
     {
       "surface": "אנשי",
@@ -49,30 +49,30 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "ing nagara"
+      "gloss": "ing bumi"
     },
     {
       "surface": "כי",
-      "gloss": "amarga"
+      "gloss": "awit"
     },
     {
       "surface": "ירדו",
-      "gloss": "mudhun"
+      "gloss": "padha mudhun"
     },
     {
       "surface": "לקחת",
-      "gloss": "ngojok"
+      "gloss": "arep njupuk"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ingon-ingoné"
+      "marks": "kewan-kewané (ternaké)"
     },
     {
       "surface": "מקניהם",
-      "gloss": "ingon-ingoné"
+      "gloss": "kewan-kewané"
     }
   ],
-  "timestamp": "2026-08-21T03:19:44.248823350Z",
+  "timestamp": "2026-08-24T06:08:40.669024760Z",
   "model": "glm-5.3"
 }

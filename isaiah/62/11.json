@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "jv",
   "chapter": 62,
-  "translation": "Pidha, Yahweh wis mbiwarakaké nganti tekan pinggir ⟨the⟩ bumi: Padha munjukna marang boru Sion, Pidha, pitulunganmu wis teka; pidha, upahé ana ⟨את⟩ ing dhasané, lan pakaryané ana ing ngarsané.",
+  "translation": "Ndupi, Yahweh wis ngundhakake nganti ing pinggiring bumi: padha matur marang borune Tsion: Ndupi, pitulunganmu wis teka; ndupi, ganjarane ⟨את⟩ iya karo Panjenengane, lan patutane ana ing ngarsane.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "pidha"
+      "gloss": "ndupi"
     },
     {
       "surface": "יהוה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "השמיע",
-      "gloss": "wis mbiwarakaké"
+      "gloss": "wis ngundhakake"
     },
     {
       "surface": "אל",
-      "gloss": "nganti"
+      "gloss": "nganti ing"
     },
     {
       "surface": "קצה",
-      "gloss": "pinggir"
+      "gloss": "pinggire"
     },
     {
       "surface": "הארץ",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "padha munjukna"
+      "gloss": "padha matur"
     },
     {
       "surface": "לבת",
-      "gloss": "marang boru"
+      "gloss": "marang borune"
     },
     {
       "surface": "ציון",
-      "gloss": "Sion"
+      "gloss": "Tsion"
     },
     {
       "surface": "הנה",
-      "gloss": "pidha"
+      "gloss": "ndupi"
     },
     {
       "surface": "ישעך",
@@ -57,25 +57,26 @@
     },
     {
       "surface": "הנה",
-      "gloss": "pidha"
+      "gloss": "ndupi"
     },
     {
       "surface": "שכרו",
-      "gloss": "upahé"
+      "gloss": "ganjarane"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ing dhasané"
+      "gloss": "⟨את⟩ karo",
+      "marks": "iya karo Panjenengane"
     },
     {
       "surface": "ופעלתו",
-      "gloss": "lan pakaryané"
+      "gloss": "lan patutane"
     },
     {
       "surface": "לפניו",
-      "gloss": "ana ing ngarsané"
+      "gloss": "ana ing ngarsane"
     }
   ],
-  "timestamp": "2026-08-21T00:47:07.307042537Z",
+  "timestamp": "2026-08-24T05:55:24.295151190Z",
   "model": "glm-5.3"
 }

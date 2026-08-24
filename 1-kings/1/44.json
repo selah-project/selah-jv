@@ -5,19 +5,20 @@
   "book": "1-kings",
   "lang": "jv",
   "chapter": 1,
-  "translation": "Lan ratu ndhawuhi ⟨אתו⟩: ⟨את⟩ Tsadok imam lan ⟨את⟩ Natan nabi, uga Benayahu bin Yehoyada, sarta wong Kreti lan Peleti; lan dheweke numpakake ⟨אתו⟩ ing sandhing sidlirane ratu.",
+  "translation": "Sang raja ngutus bareng ⟨את⟩-e Tsadok imam lan ⟨את⟩ Natan nabi, uga Benayahu putra Yehoyada, sarta wong Kreti lan wong Peleti; lan padha mundhakake ⟨את⟩-e marang ndara ing sapi mule sang raja.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ndhawuhi lunga"
+      "gloss": "ngutus"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩"
+      "gloss": "⟨את⟩ bareng-e",
+      "marks": "Tsadok imam lan sakancane"
     },
     {
       "surface": "המלך",
-      "gloss": "ratu"
+      "gloss": "sang raja"
     },
     {
       "surface": "את",
@@ -34,7 +35,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "lau ⟨את⟩",
       "marks": "Natan nabi"
     },
     {
@@ -47,11 +48,11 @@
     },
     {
       "surface": "ובניהו",
-      "gloss": "Benayahu"
+      "gloss": "uga Benayahu"
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "putra"
     },
     {
       "surface": "יהוידע",
@@ -59,33 +60,34 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "wong Kreti"
+      "gloss": "sarta wong Kreti"
     },
     {
       "surface": "והפלתי",
-      "gloss": "wong Peleti"
+      "gloss": "lan wong Peleti"
     },
     {
       "surface": "וירכבו",
-      "gloss": "numpakake"
+      "gloss": "lan padha mundhakake"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨אתו⟩"
+      "gloss": "⟨את⟩-e",
+      "marks": "Shlomo"
     },
     {
       "surface": "על",
-      "gloss": "ing sandhing"
+      "gloss": "marang ing dhuwure"
     },
     {
       "surface": "פרדת",
-      "gloss": "sidlirane"
+      "gloss": "mule"
     },
     {
       "surface": "המלך",
-      "gloss": "ratu"
+      "gloss": "sang raja"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.964250633Z",
+  "timestamp": "2026-08-24T05:51:03.661237249Z",
   "model": "glm-5.3"
 }

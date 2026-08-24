@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "jv",
   "chapter": 13,
-  "translation": "Iki jeneng-jeneng para wong kang dikirim Moshe kanggo ngluru ⟨את⟩ ⟨the⟩ bumi; lan Moshe maringi jeneng Hoshea bin Nun: Yehosyua.",
+  "translation": "Iki jeneng-jeneng para wong kang ditrèsna déning Moshe kanggo ndhedhes ⟨את⟩ bumi; lan Moshe maringi jeneng marang Hoshea bin Nun: Yehosyua.",
   "tokens": [
     {
       "surface": "אלה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "dikirim"
+      "gloss": "ditrèsna\/dikirim"
     },
     {
       "surface": "משה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לתור",
-      "gloss": "kanggo ngluru"
+      "gloss": "kanggo ndhedhes"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "lan maringi jeneng"
+      "gloss": "lan njaluk nyebut"
     },
     {
       "surface": "משה",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "להושע",
-      "gloss": "Hoshea"
+      "gloss": "marang Hoshea"
     },
     {
       "surface": "בן",
-      "gloss": "bin"
+      "gloss": "bin\/anak"
     },
     {
       "surface": "נון",
@@ -69,6 +69,6 @@
       "gloss": "Yehosyua"
     }
   ],
-  "timestamp": "2026-08-20T23:21:57.017493595Z",
+  "timestamp": "2026-08-24T06:11:53.590083572Z",
   "model": "glm-5.3"
 }

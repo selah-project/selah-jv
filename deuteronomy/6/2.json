@@ -5,8 +5,103 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 6,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-20T23:32:19.216140974Z",
+  "translation": "Supaya kowe bekti marang Yahweh, Elohimira, kanggo ngati-ati sakabehing pakukume lan parentahe, sing dakadhahup marang kowe — kowe, lan anakmu, lan putune anakmu, sedina-dina umurira — lan supaya dina-dinamu dawa.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Supaya"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kowe bekti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimira"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kanggo ngati-ati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sakabehing pakukume lan parentahe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sakabehing"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "pakukume"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "lan parentahe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sing"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aku (dak-)"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "dakadhahup"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kowe"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "lan anakmu"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "lan putune"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "anakmu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sedina-dina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dina-dinane"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "umurira"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "lan supaya"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "dawa"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dina-dinamu"
+    }
+  ],
+  "timestamp": "2026-08-24T05:43:17.532728599Z",
   "model": "glm-5.3"
 }

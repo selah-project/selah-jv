@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "jv",
   "chapter": 22,
-  "translation": "Lan marang bumi sing padha dipengini-supaya-bali ing kono, ing kono ⟨⟨panggonan iku⟩⟩ ora bakal bali.",
+  "translation": "Lan menyang ⟨the⟩ bumi sing dheweke ngangkat ⟨את⟩ nafase kanggo bali ing kono — meneng-meni ora bakal bali.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "lan marang"
+      "gloss": "lan menyang"
     },
     {
       "surface": "הארץ",
@@ -25,20 +25,20 @@
     },
     {
       "surface": "מנשאים",
-      "gloss": "padha ngangkat"
+      "gloss": "ngangkat"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nyawane"
+      "marks": "nafase"
     },
     {
       "surface": "נפשם",
-      "gloss": "nyawane"
+      "gloss": "nafase"
     },
     {
       "surface": "לשוב",
-      "gloss": "supaya-bali"
+      "gloss": "kanggo bali"
     },
     {
       "surface": "שם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "שמה",
-      "gloss": "menyang kono"
+      "gloss": "meneng-meni"
     },
     {
       "surface": "לא",
@@ -57,6 +57,6 @@
       "gloss": "bakal bali"
     }
   ],
-  "timestamp": "2026-08-21T04:11:11.580984148Z",
+  "timestamp": "2026-08-24T05:55:43.143865866Z",
   "model": "glm-5.3"
 }

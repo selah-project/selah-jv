@@ -5,8 +5,46 @@
   "book": "2-kings",
   "lang": "jv",
   "chapter": 8,
-  "translation": "Lan awake ndegakake ⟨את⟩ rainé nganti isin, lan juru这门...",
-  "tokens": [],
-  "timestamp": "2026-08-21T04:05:37.478225740Z",
+  "translation": "Lan panjenengané nata ⟨את⟩ rainé nganti ⟨dhèwèké⟩ isin, lan wongé Allah nangis.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "lun nata\/ngadegaké"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rainé"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "rainé"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "lun tindakaké"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nganti"
+    },
+    {
+      "surface": "בש",
+      "gloss": "isin"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "lun nangis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wongé"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-24T05:52:20.327869086Z",
   "model": "glm-5.3"
 }

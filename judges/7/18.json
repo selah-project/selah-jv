@@ -5,15 +5,15 @@
   "book": "judges",
   "lang": "jv",
   "chapter": 7,
-  "translation": "Lan daktembakake sangkakala, aku lan kabeh sing ⟨את⟩ karo aku, kowe uga padha nembakake sangkakala-sangkakala ngubengi kabeh ⟨the⟩ kamp, lan padha munjuka: Kagem Yahweh lan kagem Gid'on.",
+  "translation": "Lan aku ngunjunake sangkak — aku lan kabeh sing ⟨את⟩ dadi kanca-ku — lan sira padha ngunjunake sangkak-sangkak uga, sira, ing sakupenge sadhelere kemah, lan padha munjukake: kanggo Yahweh lan kanggo Gid'on!",
   "tokens": [
     {
       "surface": "ותקעתי",
-      "gloss": "lan daktembakake"
+      "gloss": "lan aku ngunjunake"
     },
     {
       "surface": "בשופר",
-      "gloss": "sangkakala"
+      "gloss": "sangkak"
     },
     {
       "surface": "אנכי",
@@ -29,15 +29,16 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ karo"
+      "gloss": "⟨את⟩ dadi kanca",
+      "marks": "aku (sing ngancani aku)"
     },
     {
       "surface": "ותקעתם",
-      "gloss": "kowe uga padha nembakake"
+      "gloss": "lan sira padha ngunjunake"
     },
     {
       "surface": "בשופרות",
-      "gloss": "sangkakala-sangkakala"
+      "gloss": "sangkak-sangkak"
     },
     {
       "surface": "גם",
@@ -45,33 +46,33 @@
     },
     {
       "surface": "אתם",
-      "gloss": "kowe"
+      "gloss": "sira"
     },
     {
       "surface": "סביבות",
-      "gloss": "ngubengi"
+      "gloss": "ing sakupenge"
     },
     {
       "surface": "כל",
-      "gloss": "kabeh"
+      "gloss": "sadhelere"
     },
     {
       "surface": "המחנה",
-      "gloss": "kamp"
+      "gloss": "kemah"
     },
     {
       "surface": "ואמרתם",
-      "gloss": "lan padha munjuka"
+      "gloss": "lan padha munjukake"
     },
     {
       "surface": "ליהוה",
-      "gloss": "kagem Yahweh"
+      "gloss": "kanggo Yahweh"
     },
     {
       "surface": "ולגדעון",
-      "gloss": "lan kagem Gid'on"
+      "gloss": "lan kanggo Gid'on"
     }
   ],
-  "timestamp": "2026-08-20T23:51:35.416811966Z",
+  "timestamp": "2026-08-24T05:47:13.985070642Z",
   "model": "glm-5.3"
 }

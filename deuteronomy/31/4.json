@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "jv",
   "chapter": 31,
-  "translation": "Lan Yahweh bakal nindakake marang wong-wong mau kaya sing wis ditindakake marang Sihon lan marang Og, para ratu wong Amori, lan marang bumi kabeh ⟨את⟩ ⟨אתם⟩ — sing wis ditumpes.",
+  "translation": "Lan Yahweh bakal nindakake marang wong-wong mau kaya dene sing wis ditindakake marang Sihon lan marang Og, ratu-ratu wong Amori, lan marang nagarané, sing wis dilirwakake ⟨את⟩ wong-wong mau.",
   "tokens": [
     {
       "surface": "ועשה",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kaya"
+      "gloss": "kaya dene"
     },
     {
       "surface": "עשה",
-      "gloss": "wis ditindakake"
+      "gloss": "ditindakake"
     },
     {
       "surface": "לסיחון",
       "gloss": "marang Sihon"
     },
     {
-      "surface": "ולעוג",
+      "surface": "ו לעוג",
       "gloss": "lan marang Og"
     },
     {
       "surface": "מלכי",
-      "gloss": "para ratu"
+      "gloss": "ratu-ratu"
     },
     {
       "surface": "האמרי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ולארצם",
-      "gloss": "lan marang bumi"
+      "gloss": "lan marang nagarané"
     },
     {
       "surface": "אשר",
@@ -53,14 +53,14 @@
     },
     {
       "surface": "השמיד",
-      "gloss": "wis ditumpes"
+      "gloss": "dilirwakake"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨אתם⟩",
-      "marks": "Sihon lan Og (paraphrase: wong-wong mau)"
+      "gloss": "⟨את⟩",
+      "marks": "wong-wong mau"
     }
   ],
-  "timestamp": "2026-08-21T05:03:33.763079987Z",
+  "timestamp": "2026-08-24T05:44:31.267623295Z",
   "model": "glm-5.3"
 }

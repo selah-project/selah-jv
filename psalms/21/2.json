@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "jv",
   "chapter": 21,
-  "translation": "Yahweh, ing kakuwatanmu ⟨⟨iku⟩⟩ ratu bungah, lan ing kaslametanmu pira banget riange!",
+  "translation": "Yahweh, ing kakuwatane ⟨⟨קעזך⟩⟩ raja iku bungah, lan ing kaslametanmu dhemene ⟨dhewe⟩ bungah banget.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בעזך",
-      "gloss": "ing kakuwatanmu"
+      "gloss": "ing kakuwatane-sira"
     },
     {
       "surface": "ישמח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "ratu"
+      "gloss": "raja"
     },
     {
       "surface": "ובישועתך",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "מה",
-      "gloss": "pira"
+      "gloss": "dhemene\/kapriye"
     },
     {
       "surface": "יגיל",
-      "gloss": "riang"
+      "gloss": "bungah (ngumbaraké)"
     },
     {
       "surface": "מאד",
       "gloss": "banget"
     }
   ],
-  "timestamp": "2026-08-21T01:44:58.147205510Z",
+  "timestamp": "2026-08-24T06:02:37.258295452Z",
   "model": "glm-5.3"
 }

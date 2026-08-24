@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "jv",
   "chapter": 17,
-  "translation": "Wong-wong Yisrael banjur munjuk: Apa kowe wis ndeleng wong ⟨the⟩ iki sing munggah? Mesthi munggah kanggo nyirnakake ⟨את⟩ Yisrael. Banjur bakal dadi: wong sing bisa nglumpati ⟨⟨the⟩⟩, ratu bakal nglawisake dheweke kalawan sugih ⟨the⟩ gedhe, lan ⟨את⟩ putrine bakal diparingake marang dheweke, lan ⟨את⟩ kulawargane bapake bakal digawe bebas ing Yisrael.",
+  "translation": "Lan wong-wong Yisrael padha ngendika: Apa kowe wis ndeleng wong sing munggah iki? Mesthi munggah amarga arep ngina ⟨את⟩ Yisrael. Lan bakal dadi: wong sing mateni dheweke, ratu bakal ngladeni sugih agung, lan ⟨את⟩ putrine bakal diparingake marang dheweke, lan ⟨את⟩ kulawargane bapakne bakal digawe mardika ing Yisrael.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "banjur munjuk"
+      "gloss": "ngendika"
     },
     {
       "surface": "איש",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "wong ⟨the⟩"
+      "gloss": "wong"
     },
     {
       "surface": "העלה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "mesthi"
+      "gloss": "amargha"
     },
     {
       "surface": "לחרף",
-      "gloss": "kanggo nyirnakake"
+      "gloss": "kanggo ngina"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "banjur bakal dadi"
+      "gloss": "lan bakal dadi"
     },
     {
       "surface": "האיש",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "יכנו",
-      "gloss": "bisa nglumpati"
+      "gloss": "mateni"
     },
     {
       "surface": "יעשרנו",
-      "gloss": "bakal nglawisake dheweke"
+      "gloss": "nglades sugih"
     },
     {
       "surface": "המלך",
@@ -82,15 +82,15 @@
     },
     {
       "surface": "עשר",
-      "gloss": "kalawan sugih"
+      "gloss": "sugih"
     },
     {
       "surface": "גדול",
-      "gloss": "gedhe"
+      "gloss": "agung"
     },
     {
       "surface": "ואת",
-      "gloss": "lan ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "putrine"
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "bakal diparingake"
+      "gloss": "maringi"
     },
     {
       "surface": "לו",
@@ -107,8 +107,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "lan ⟨את⟩",
-      "marks": "kulawargane bapake"
+      "gloss": "⟨את⟩",
+      "marks": "kulawargane bapakne"
     },
     {
       "surface": "בית",
@@ -116,21 +116,21 @@
     },
     {
       "surface": "אביו",
-      "gloss": "bapake"
+      "gloss": "bapakne"
     },
     {
       "surface": "יעשה",
-      "gloss": "bakal digawe"
+      "gloss": "nggawe"
     },
     {
       "surface": "חפשי",
-      "gloss": "bebas"
+      "gloss": "mardika"
     },
     {
       "surface": "בישראל",
       "gloss": "ing Yisrael"
     }
   ],
-  "timestamp": "2026-08-21T00:01:44.801624205Z",
+  "timestamp": "2026-08-24T05:49:22.645491326Z",
   "model": "glm-5.3"
 }

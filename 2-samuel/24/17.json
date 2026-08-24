@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "jv",
   "chapter": 24,
-  "translation": "Lan Dawid ngandika marang Yahweh nalika dheweke ndeleng ⟨את⟩ ⟨the⟩ malaékat sing nuhoni ing umat iku, lan ngandika: Lah, aku iki wis dosa, lan aku iki wis nglakoni kelainan; dene domba-domba iki, apa sing wis padha ditindakake? Mugi, aku nyuwun, tanganMu tiba marang aku lan marang omahé bapakku.",
+  "translation": "Lan Dawid ngandika marang Yahweh nalika weruh ⟨את⟩ malaikat sing nglumpati wong-wong mau, lan ngandika: Nuhun, aku sing dosa, lan aku sing gawe kaluputan; nanging domba-domba iki, apa sing wis padha dilakoni? Aku nyuwun, tanganira tumiba marang aku lan marang omah bapakku.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,24 +25,24 @@
     },
     {
       "surface": "בראתו",
-      "gloss": "nalika dheweke ndeleng"
+      "gloss": "nalika weruh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "malaékat"
+      "marks": "malaikat sing nglumpati wong-wong mau"
     },
     {
       "surface": "המלאך",
-      "gloss": "malaékat"
+      "gloss": "malaikat"
     },
     {
       "surface": "המכה",
-      "gloss": "sing nuhoni"
+      "gloss": "sing nglumpati"
     },
     {
       "surface": "בעם",
-      "gloss": "ing umat"
+      "gloss": "wong-wong mau"
     },
     {
       "surface": "ויאמר",
@@ -50,27 +50,27 @@
     },
     {
       "surface": "הנה",
-      "gloss": "Lah"
+      "gloss": "nuhun"
     },
     {
       "surface": "אנכי",
-      "gloss": "aku iki"
+      "gloss": "aku"
     },
     {
       "surface": "חטאתי",
-      "gloss": "wis dosa"
+      "gloss": "sing dosa"
     },
     {
       "surface": "ואנכי",
-      "gloss": "lan aku iki"
+      "gloss": "lan aku"
     },
     {
       "surface": "העויתי",
-      "gloss": "wis nglakoni kelainan"
+      "gloss": "sing gawe kaluputan"
     },
     {
       "surface": "ואלה",
-      "gloss": "dene iki"
+      "gloss": "nanging iki"
     },
     {
       "surface": "הצאן",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "עשו",
-      "gloss": "wis padha ditindakake"
+      "gloss": "wis padha dilakoni"
     },
     {
       "surface": "תהי",
-      "gloss": "mugi tiba"
+      "gloss": "tumiba"
     },
     {
       "surface": "נא",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "ידך",
-      "gloss": "tanganMu"
+      "gloss": "tanganira"
     },
     {
       "surface": "בי",
@@ -102,13 +102,13 @@
     },
     {
       "surface": "ובבית",
-      "gloss": "lan marang omahé"
+      "gloss": "lan marang omah"
     },
     {
       "surface": "אבי",
       "gloss": "bapakku"
     }
   ],
-  "timestamp": "2026-08-21T00:13:47.263259145Z",
+  "timestamp": "2026-08-24T05:51:16.340290875Z",
   "model": "glm-5.3"
 }
