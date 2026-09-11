@@ -64,3 +64,8 @@ lan paseksen. Tim pangrumat nandhingake usulan karo basa Ibrani,
 karo aturan, karo sumber, lan karo jajaran — bisa nampa, ndandani
 bareng panjenengan, ngenteni bukti tambahan, utawa nolak karo
 alasane. Tekse sing ditimbang, dudu wonge.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
